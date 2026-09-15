@@ -76,6 +76,37 @@ def to_html(body):
     return "\n".join(out)
 
 
+def to_speech(body):
+    """Plain text for the read-aloud player: the rendering only.
+
+    Stops at the Notes heading — the notes are written to be read, not heard,
+    and are full of transliterated Hebrew that is meaningless spoken aloud.
+    Returns a list of chunks, one per verse or heading, so the player can speak
+    them one at a time and highlight as it goes."""
+    chunks = []
+    for block in re.split(r"\n\s*\n", body):
+        block = block.strip()
+        if not block or block == "---":
+            continue
+        if block.startswith("## "):
+            if block[3:].strip().lower() == "notes":
+                break                      # everything after this is notes
+            chunks.append({"id": "", "text": block[3:].strip()})
+        elif block.startswith("# "):
+            chunks.append({"id": "", "text": block[2:].strip()})
+        elif block.startswith("- "):
+            continue
+        else:
+            m = VERSE_RE.match(block)
+            if not m:
+                continue
+            text = m.group(2).replace("  \n", " ")
+            text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
+            text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"\1", text)
+            chunks.append({"id": "v" + m.group(1), "text": text})
+    return chunks
+
+
 def main():
     manifest = json.load(open(os.path.join(ROOT, "manifest.json"), encoding="utf-8"))
     os.makedirs(os.path.join(DOCS, "data"), exist_ok=True)
@@ -94,6 +125,7 @@ def main():
                     "title": meta.get("title", ""),
                     "status": meta.get("status", "rendered"),
                     "html": to_html(body),
+                    "speech": to_speech(body),
                 })
             chapters.sort(key=lambda c: c["n"])
         with open(os.path.join(DOCS, "data", f"{book['slug']}.json"), "w",
@@ -163,6 +195,24 @@ SHELL = r"""<!doctype html>
   .lede{color:var(--muted);margin:0 0 34px;font-size:15px}
   .stub{border:1px dashed var(--rule);padding:22px;color:var(--muted);
         border-radius:5px}
+  p.v.speaking{background:rgba(122,92,46,.14);border-radius:3px;
+               box-shadow:0 0 0 4px rgba(122,92,46,.14)}
+  #player{position:fixed;left:0;right:0;bottom:0;z-index:20;display:none;
+          gap:12px;align-items:center;padding:10px 14px;
+          background:var(--panel);border-top:1px solid var(--rule);
+          font:14px/1 ui-sans-serif,system-ui,sans-serif}
+  #player.on{display:flex}
+  #player button{font:inherit;cursor:pointer;border:1px solid var(--rule);
+                 background:var(--bg);color:var(--ink);border-radius:6px;
+                 padding:11px 16px;min-width:88px}
+  #player button.primary{background:var(--accent);border-color:var(--accent);
+                         color:var(--bg);font-weight:700}
+  #player label{color:var(--muted);display:flex;align-items:center;gap:6px}
+  #player select{font:inherit;padding:8px;border-radius:6px;
+                 border:1px solid var(--rule);background:var(--bg);color:var(--ink)}
+  #ptxt{flex:1;color:var(--muted);overflow:hidden;text-overflow:ellipsis;
+        white-space:nowrap}
+  main{padding-bottom:96px}
   @media(max-width:760px){
     #wrap{display:block}
     nav{width:auto;height:auto;position:static;border-right:0;
@@ -171,6 +221,19 @@ SHELL = r"""<!doctype html>
   }
 </style>
 <div id="wrap"><nav id="rail"></nav><main id="view"></main></div>
+<div id="player">
+  <button id="pplay" class="primary">Read aloud</button>
+  <button id="pstop">Stop</button>
+  <label>Speed
+    <select id="prate">
+      <option value="0.8">0.8</option><option value="0.9">0.9</option>
+      <option value="1" selected>1.0</option><option value="1.1">1.1</option>
+      <option value="1.25">1.25</option><option value="1.5">1.5</option>
+    </select>
+  </label>
+  <label><input type="checkbox" id="pnext" checked> Keep going</label>
+  <span id="ptxt"></span>
+</div>
 <script>
 let BOOKS=[], cache={};
 const rail=document.getElementById('rail'), view=document.getElementById('view');
@@ -193,6 +256,7 @@ function chips(d,cur){
 async function route(){
   const [,slug,ch]=(location.hash.replace(/^#\//,'')||'').split('/');
   drawRail(slug);
+  if(!ch){ stop(); bar.classList.remove('on'); }
   if(!slug){
     const done=BOOKS.reduce((a,b)=>a+b.done,0),
           all=BOOKS.reduce((a,b)=>a+b.chapters,0);
@@ -212,7 +276,79 @@ async function route(){
   const c=d.chapters.find(x=>x.n==ch);
   view.innerHTML=chips(d,ch)+(c?c.html:'<p class="stub">Not yet rendered.</p>');
   window.scrollTo(0,0);
+  const wasPlaying=P.on;
+  stop(); P.q=(c&&c.speech)||[]; P.i=0;
+  bar.classList.toggle('on',P.q.length>0);
+  keep('last',location.hash);
+  if(wasPlaying && P.q.length) setTimeout(play,350);   // chapter auto-advance
 }
+
+/* ---- read aloud -------------------------------------------------------- */
+const P={q:[],i:0,on:false,lock:null,tick:null};
+const el=id=>document.getElementById(id);
+const bar=el('player'), bPlay=el('pplay'), bStop=el('pstop'),
+      selRate=el('prate'), cbNext=el('pnext'), out=el('ptxt');
+
+function say(t){ try{return localStorage.getItem(t)}catch(e){return null} }
+function keep(t,v){ try{localStorage.setItem(t,v)}catch(e){} }
+
+async function wake(want){
+  try{
+    if(want && 'wakeLock' in navigator && !P.lock)
+      P.lock=await navigator.wakeLock.request('screen');
+    if(!want && P.lock){ P.lock.release(); P.lock=null; }
+  }catch(e){}
+}
+
+function stop(){
+  P.on=false; speechSynthesis.cancel(); clearInterval(P.tick); P.tick=null;
+  document.querySelectorAll('p.v.speaking').forEach(n=>n.classList.remove('speaking'));
+  bPlay.textContent='Read aloud'; out.textContent=''; wake(false);
+}
+
+function speakAt(n){
+  if(!P.on) return;
+  if(n>=P.q.length){                       // chapter finished
+    const [,slug,ch]=(location.hash.replace(/^#\//,'')||'').split('/');
+    if(cbNext.checked && slug && ch){
+      location.hash=`#/${slug}/${Number(ch)+1}`;   // route() restarts playback
+    } else stop();
+    return;
+  }
+  P.i=n; const chunk=P.q[n];
+  document.querySelectorAll('p.v.speaking').forEach(x=>x.classList.remove('speaking'));
+  if(chunk.id){
+    const node=document.getElementById(chunk.id);
+    if(node){ node.classList.add('speaking');
+      node.scrollIntoView({block:'center',behavior:'smooth'}); }
+  }
+  out.textContent=chunk.text.slice(0,90);
+  const u=new SpeechSynthesisUtterance(chunk.text);
+  u.rate=parseFloat(selRate.value); u.onend=()=>speakAt(n+1);
+  u.onerror=()=>speakAt(n+1);
+  speechSynthesis.speak(u);
+}
+
+function play(){
+  if(!P.q.length) return;
+  P.on=true; bPlay.textContent='Pause'; wake(true);
+  // some browsers suspend long speech; nudging it keeps it alive
+  clearInterval(P.tick);
+  P.tick=setInterval(()=>{ if(P.on && speechSynthesis.speaking && !speechSynthesis.paused)
+                             { speechSynthesis.pause(); speechSynthesis.resume(); } },9000);
+  speakAt(P.i);
+}
+
+bPlay.onclick=()=>{ if(P.on){ P.on=false; speechSynthesis.cancel();
+                              clearInterval(P.tick); bPlay.textContent='Resume';
+                              wake(false); } else play(); };
+bStop.onclick=()=>{ P.i=0; stop(); };
+selRate.onchange=()=>{ keep('rate',selRate.value);
+                       if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
+cbNext.onchange=()=>keep('next',cbNext.checked?'1':'0');
+if(say('rate')) selRate.value=say('rate');
+if(say('next')==='0') cbNext.checked=false;
+
 addEventListener('hashchange',route);
 (async()=>{
   BOOKS=(await (await fetch('data/manifest.json')).json()).books;

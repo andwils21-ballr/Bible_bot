@@ -35,6 +35,23 @@ Then serve `docs/` (`python3 -m http.server -d docs`) or turn on GitHub Pages
 rail; click one for its chapters; click a chapter to read it. Verse numbers are
 clickable anchors, so any verse can be linked directly.
 
+## Listening to it
+
+The site has a **Read aloud** bar at the bottom of any chapter page. It uses the
+browser's own speech engine — no service, no key, no cost. Play/pause, speed,
+and a "Keep going" toggle that rolls straight into the next chapter. It asks for
+a screen wake lock while playing, which is what makes it survive a drive.
+
+It reads **the rendering only**. The notes stop it: they are written to be read,
+not heard, and are full of transliterated Hebrew that is meaningless aloud.
+`build_site.py` extracts the speech text per chapter into the `speech` field of
+each book's JSON, and stops at the `## Notes` heading.
+
+If browser speech proves unreliable with the screen off, the fallback is real
+MP3s built with a local TTS engine and hosted as GitHub Release assets, with a
+podcast feed — about 3.4 GB for the full canon, which is why it is a fallback
+and not the first move.
+
 ## Printing it
 
 ```
