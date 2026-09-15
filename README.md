@@ -42,6 +42,13 @@ browser's own speech engine — no service, no key, no cost. Play/pause, speed,
 and a "Keep going" toggle that rolls straight into the next chapter. It asks for
 a screen wake lock while playing, which is what makes it survive a drive.
 
+The **Voice** dropdown lists whatever voices the phone or computer has
+installed — the site cannot add voices, it can only pick among them. English
+ones are listed first. On Android, more voices install under Settings →
+Accessibility → Text-to-speech; on iOS under Settings → Accessibility → Spoken
+Content → Voices, where the higher-quality voices are a separate download. The
+picker hides itself when there is nothing to choose between.
+
 It reads **the rendering only**. The notes stop it: they are written to be read,
 not heard, and are full of transliterated Hebrew that is meaningless aloud.
 `build_site.py` extracts the speech text per chapter into the `speech` field of

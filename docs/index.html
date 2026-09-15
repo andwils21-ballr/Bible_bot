@@ -62,6 +62,8 @@
   #player label{color:var(--muted);display:flex;align-items:center;gap:6px}
   #player select{font:inherit;padding:8px;border-radius:6px;
                  border:1px solid var(--rule);background:var(--bg);color:var(--ink)}
+  #pvoice{max-width:44vw;text-overflow:ellipsis}
+  #pvoicewrap[hidden]{display:none}
   #ptxt{flex:1;color:var(--muted);overflow:hidden;text-overflow:ellipsis;
         white-space:nowrap}
   main{padding-bottom:96px}
@@ -82,6 +84,9 @@
 <div id="player">
   <button id="pplay" class="primary">Read aloud</button>
   <button id="pstop">Stop</button>
+  <label id="pvoicewrap">Voice
+    <select id="pvoice"></select>
+  </label>
   <label>Speed
     <select id="prate">
       <option value="0.8">0.8</option><option value="0.9">0.9</option>
@@ -143,10 +148,11 @@ async function route(){
 }
 
 /* ---- read aloud -------------------------------------------------------- */
-const P={q:[],i:0,on:false,lock:null,tick:null};
+const P={q:[],i:0,on:false,lock:null,tick:null,voices:[]};
 const el=id=>document.getElementById(id);
 const bar=el('player'), bPlay=el('pplay'), bStop=el('pstop'),
-      selRate=el('prate'), cbNext=el('pnext'), out=el('ptxt');
+      selRate=el('prate'), cbNext=el('pnext'), out=el('ptxt'),
+      selVoice=el('pvoice'), voiceWrap=el('pvoicewrap');
 
 function say(t){ try{return localStorage.getItem(t)}catch(e){return null} }
 function keep(t,v){ try{localStorage.setItem(t,v)}catch(e){} }
@@ -183,6 +189,8 @@ function speakAt(n){
   }
   out.textContent=chunk.text.slice(0,90);
   const u=new SpeechSynthesisUtterance(chunk.text);
+  const v=P.voices.find(x=>x.name===selVoice.value);
+  if(v){ u.voice=v; u.lang=v.lang; }
   u.rate=parseFloat(selRate.value); u.onend=()=>speakAt(n+1);
   u.onerror=()=>speakAt(n+1);
   speechSynthesis.speak(u);
@@ -205,6 +213,26 @@ bStop.onclick=()=>{ P.i=0; stop(); };
 selRate.onchange=()=>{ keep('rate',selRate.value);
                        if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
 cbNext.onchange=()=>keep('next',cbNext.checked?'1':'0');
+function loadVoices(){
+  // English first, then the rest; the list is whatever this phone has installed
+  const all=speechSynthesis.getVoices()||[];
+  P.voices=all.slice().sort((a,b)=>{
+    const ea=/^en/i.test(a.lang)?0:1, eb=/^en/i.test(b.lang)?0:1;
+    return ea-eb || a.name.localeCompare(b.name);
+  });
+  voiceWrap.hidden = P.voices.length<2;      // nothing to choose between
+  if(!P.voices.length) return;
+  const want=say('voice');
+  selVoice.innerHTML=P.voices.map(v=>
+    `<option value="${v.name.replace(/"/g,'&quot;')}">${v.name} (${v.lang})</option>`
+  ).join('');
+  if(want && P.voices.some(v=>v.name===want)) selVoice.value=want;
+}
+selVoice.onchange=()=>{ keep('voice',selVoice.value);
+                        if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
+loadVoices();
+speechSynthesis.onvoiceschanged=loadVoices;   // most browsers load them late
+
 if(say('rate')) selRate.value=say('rate');
 if(say('next')==='0') cbNext.checked=false;
 
