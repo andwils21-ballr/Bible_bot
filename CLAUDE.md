@@ -33,6 +33,19 @@ there is no real basis, the `(NEED SOURCE TO TRANSLATE)` stub is the finished,
 correct output. Tier `none` books get stubs, never attempts. "This word is
 uncertain, and here is the range" is a complete note, not a failure.
 
+## A hedge means you stopped researching
+
+A note that ends in a shrug — *which is strange*, a deadpan restatement, a
+balance-sounding non-conclusion — is almost never balanced judgment. It is
+research that stopped one step early. And it does not read as neutral: it reads
+as quiet contempt for the reading being presented, which readers hear correctly.
+
+The tell is that you are about to present a reading and cannot say what follows
+from it. The fix is not rewording, it is going and finding out — where else the
+word appears, what is built from it elsewhere, who else does the same thing.
+Then state the conclusion with conviction, or state the uncertainty as a finding
+that names what was checked. See "The hedge is a symptom" in RENDERING_SPEC.md.
+
 ## Do not touch
 
 `RENDERING_SPEC.md`, `manifest.json`, `build_site.py`, `build_docx.py`,

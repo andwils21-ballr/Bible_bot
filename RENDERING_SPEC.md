@@ -176,6 +176,47 @@ The moment one note reaches, every other note becomes untrustworthy, including
 the true ones. Three honest notes beat ten impressive ones. "This word is
 uncertain and here is the range" is a finished note, not a failure.
 
+### The hedge is a symptom. Go back and finish the work.
+
+The opposite failure to reaching, and the more common one. A note that ends in a
+shrug — *which is strange*, *make of that what you will*, a flat restatement
+delivered deadpan — is almost never balanced judgment. It is research that
+stopped one step early, dressed up as even-handedness.
+
+It does real damage, because a hedge does not read as neutral. It reads as
+quiet contempt: *here is the reading, and here is my raised eyebrow.* A reader
+who holds that reading hears you calling it stupid behind a thin veil, and they
+are not wrong to hear it.
+
+**The tell:** you are about to present a reading and you cannot say what
+follows from it. Not that the evidence is genuinely balanced — that you never
+found out where it leads.
+
+**The fix is never rewording. It is going and finding out.** Where else does
+this word appear? What is built out of it elsewhere? Who else in this canon
+does the same thing? Then either state the conclusion with conviction, or state
+the uncertainty as a **finding** — which is a different thing from a shrug.
+
+Earned uncertainty names what was checked and why it stays open: *this word
+occurs twice in the Bible and nothing constrains it.* Unearned hedging names
+nothing, because nothing was checked. The first belongs in the notes. The
+second means go back to work.
+
+**Worked example, 3:24.** The note presented the reading that the cherubim are
+carved figures and ended: *the entire guard at the gate is two statues and a
+fire that turns by itself, and nobody is there at all.* Deadpan, and it lands
+as a punchline — *which is obviously absurd*. The problem was not the wording.
+The problem was that the note had no idea where the reading went, so the shrug
+was doing the arguing.
+
+Finishing the work took one lookup. Exodus 25: two cherubim of beaten gold on
+the ark's cover, and God says *I will meet with you there, and speak with you,
+from between the two cherubim.* Exodus 26: cherubim worked into the veil across
+the one door that must not be crossed. Cherubim as made objects are not an
+absence — they mark where God is found and where the boundary runs. Eden's gate
+and the Holy of Holies turn out to be the same arrangement. The reading was
+never weak; the note was.
+
 ## Honesty rules
 
 These are not negotiable. The failure mode of this project is fluent invention
