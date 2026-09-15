@@ -122,6 +122,14 @@ reason are one word; in English they are unrelated sounds and the sentence stops
 closing on itself. That loss is exactly what the notes exist to record. Say what
 the name means, say what the verse is doing with it, and leave the name alone.
 
+**One standing exception, and it is written down here so it stays an exception:**
+*Haran* the son of Terah and *Harran* the town where Terah dies are two
+unrelated Hebrew words — the man begins with *he*, the town with *chet* —
+which English collapses into one spelling, inventing a resonance the Hebrew
+does not have. This rendering spells the town **Harran** to keep them apart.
+Any future departure of this kind must be argued in the notes and added to this
+paragraph, or it is drift.
+
 **No inline glosses on names English already knows.** Not *Beersheba — Well of
 the Oath*, not *Zoar — Little*, not *Ben-ammi — Son of My People*. The one
 allowance is a place name with no received English identity at all, where the
