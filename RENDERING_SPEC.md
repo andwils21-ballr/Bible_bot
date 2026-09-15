@@ -99,6 +99,35 @@ rendered: 2026-09-14
 - No preamble, no "this rendering seeks to..." paragraph, no sign-off. The
   notes carry the commentary.
 
+## Names: the received form stands
+
+Use the English name the reader already knows. **Abel, not Vapor. Eve, not
+Living. Peleg, not Division.** The meaning goes in the notes, every time, and
+never into the verse.
+
+These names are not translations that someone got wrong — they are the same
+Hebrew words worn smooth by travel. *Hevel* became Greek Ἄβελ, because Greek
+could not carry the initial *he*; Latin took the Greek, English took the Latin.
+The same road gave us Eve from *Chavvah*, Isaac from *Yitzchaq*, Jacob from
+*Ya'aqov*, Moses from *Mosheh*. Three thousand years of continuous custody sits
+behind each one, and this project does not get to overrule it.
+
+There is also a plain practical test. If a reader cannot find Cain and Abel in
+Genesis 4, the rendering has failed at something more basic than nuance.
+
+**The cost is real and belongs in the notes.** Hebrew names usually mean
+something, and the verse that gives a name often explains it with the same word:
+*Peleg, for in his days the earth was divided.* In Hebrew the name and the
+reason are one word; in English they are unrelated sounds and the sentence stops
+closing on itself. That loss is exactly what the notes exist to record. Say what
+the name means, say what the verse is doing with it, and leave the name alone.
+
+**No inline glosses on names English already knows.** Not *Beersheba — Well of
+the Oath*, not *Zoar — Little*, not *Ben-ammi — Son of My People*. The one
+allowance is a place name with no received English identity at all, where the
+gloss is the only way a reader gets anything — *Beer-lahai-roi — Well of the
+Living One who sees me*. Even there, prefer the note.
+
 ## Work from the source text, never from memory
 
 Before rendering any chapter, print its source and keep it in front of you:
