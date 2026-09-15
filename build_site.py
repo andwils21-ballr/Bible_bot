@@ -150,6 +150,7 @@ def main():
 SHELL = r"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:,">
 <title>The Ethiopian Canon — A Close Rendering</title>
 <style>
   :root{
@@ -214,6 +215,12 @@ SHELL = r"""<!doctype html>
         white-space:nowrap}
   main{padding-bottom:96px}
   @media(max-width:760px){
+    #player{flex-wrap:wrap;gap:8px;padding:8px 10px}
+    #player button{flex:1 1 auto;min-width:0;padding:13px 10px}
+    #player label{font-size:13px}
+    #ptxt{display:none}
+    nav{max-height:30vh}
+    main{padding-bottom:120px}
     #wrap{display:block}
     nav{width:auto;height:auto;position:static;border-right:0;
         border-bottom:1px solid var(--rule);max-height:42vh}
@@ -254,7 +261,7 @@ function chips(d,cur){
     `${c.status==='need_source'?'—':c.n}</a>`).join('')+'</div>';
 }
 async function route(){
-  const [,slug,ch]=(location.hash.replace(/^#\//,'')||'').split('/');
+  const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
   drawRail(slug);
   if(!ch){ stop(); bar.classList.remove('on'); }
   if(!slug){
@@ -280,6 +287,7 @@ async function route(){
   stop(); P.q=(c&&c.speech)||[]; P.i=0;
   bar.classList.toggle('on',P.q.length>0);
   keep('last',location.hash);
+  if(innerWidth<=760) view.scrollIntoView({block:'start'});  // skip past the rail
   if(wasPlaying && P.q.length) setTimeout(play,350);   // chapter auto-advance
 }
 
@@ -309,7 +317,7 @@ function stop(){
 function speakAt(n){
   if(!P.on) return;
   if(n>=P.q.length){                       // chapter finished
-    const [,slug,ch]=(location.hash.replace(/^#\//,'')||'').split('/');
+    const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
     if(cbNext.checked && slug && ch){
       location.hash=`#/${slug}/${Number(ch)+1}`;   // route() restarts playback
     } else stop();
