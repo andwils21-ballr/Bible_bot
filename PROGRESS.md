@@ -25,8 +25,8 @@ Next up: **Genesis 6**
 | 17 | Ezra | primary | 0/10 |
 | 18 | Nehemiah | primary | 0/13 |
 | 19 | Ezra Sutuel | secondary | 0/16 |
-| 20 | Tobit | primary | 0/14 |
-| 21 | Judith | primary | 0/16 |
+| 20 | Tobit | secondary | 0/14 |
+| 21 | Judith | secondary | 0/16 |
 | 22 | Esther | primary | 0/16 |
 | 23 | 1 Meqabyan | secondary | 0/36 |
 | 24 | 2 Meqabyan | secondary | 0/21 |
@@ -37,13 +37,13 @@ Next up: **Genesis 6**
 | 29 | Reproof (Tegsat) | primary | 0/7 |
 | 30 | Ecclesiastes | primary | 0/12 |
 | 31 | Song of Songs | primary | 0/8 |
-| 32 | Wisdom of Solomon | primary | 0/19 |
-| 33 | Sirach | primary | 0/51 |
+| 32 | Wisdom of Solomon | secondary | 0/19 |
+| 33 | Sirach | secondary | 0/51 |
 | 34 | Isaiah | primary | 0/66 |
 | 35 | Jeremiah | primary | 0/52 |
 | 36 | Lamentations | primary | 0/5 |
-| 37 | Baruch | primary | 0/5 |
-| 38 | Letter of Jeremiah | primary | 0/1 |
+| 37 | Baruch | secondary | 0/5 |
+| 38 | Letter of Jeremiah | secondary | 0/1 |
 | 39 | 4 Baruch | secondary | 0/9 |
 | 40 | Ezekiel | primary | 0/48 |
 | 41 | Daniel | primary | 0/14 |

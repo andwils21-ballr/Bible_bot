@@ -1,0 +1,32 @@
+# Notes for Andrew
+
+Things found while working that are yours to decide, not mine to change.
+
+## Open: no Septuagint in `sources/` (2026-09-14)
+
+Hebrew (Westminster Leningrad Codex) and the Greek New Testament (SBLGNT) are
+both in `sources/`. No freely-fetchable Septuagint was found, so these are
+worked from established English translations instead of a source language, and
+are marked tier `secondary`:
+
+- Tobit, Judith, Wisdom of Solomon, Sirach, Baruch, Letter of Jeremiah (106 ch)
+- Psalm 151, Daniel 13-14, Esther 11-16 — past the end of the Hebrew text
+
+If an LXX with a usable licence turns up, add it to `fetch_sources.py`, raise
+those tiers, and fix the "Known gaps" paragraph in `RENDERING_SPEC.md`.
+
+## Fixed: four manifest errors the source texts exposed (2026-09-14)
+
+The chapter counts in `manifest.json` were written from memory and did not
+survive contact with the actual texts:
+
+- **Reproof (Tegsat)** is Proverbs 25-31, so its chapter 1 is Proverbs 25.
+  Without an offset, every session would have rendered Proverbs 1 twice under
+  two different book names. Fixed with `source_book` / `source_offset`.
+- **Psalms** — the Hebrew has 150; Psalm 151 is Greek/Syriac only.
+- **Daniel** — the Hebrew/Aramaic has 12; chapters 13-14 are Greek.
+- **Esther** — the Hebrew has 10; the additions are Greek.
+
+The lesson worth keeping: the manifest is still partly from memory, and the
+remaining books' chapter counts have not been checked against anything.
+Expect more of these as the project reaches books with no source file.

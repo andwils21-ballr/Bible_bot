@@ -99,6 +99,31 @@ rendered: 2026-09-14
 - No preamble, no "this rendering seeks to..." paragraph, no sign-off. The
   notes carry the commentary.
 
+## Work from the source text, never from memory
+
+Before rendering any chapter, print its source and keep it in front of you:
+
+```
+python3 source_text.py <slug> <chapter>
+```
+
+`sources/hebrew/` holds the Westminster Leningrad Codex; `sources/greek/` holds
+the SBLGNT. Every claim a note makes about a word must be checkable against the
+line the helper just printed. Recalling what a verse says is not the same as
+reading it, and the difference shows up exactly where the notes are most
+confident.
+
+When the helper reports no source, it tells you what that book's tier requires.
+Obey it. A missing source is never a licence to render from memory — it is the
+instruction to work from established translations (tier `secondary`, and say so
+in the notes) or to write the stub (tier `none`).
+
+Known gaps, as of this writing: there is no Septuagint in `sources/`, so Tobit,
+Judith, Wisdom of Solomon, Sirach, Baruch, and the Letter of Jeremiah are tier
+`secondary`, and so are Psalm 151, Daniel 13-14, and Esther 11-16, which lie
+past the end of the Hebrew. If an LXX is ever added, those tiers should be
+raised and this paragraph corrected.
+
 ## The depth standard for notes
 
 The notes are the reason this project exists. A rendering without them is just

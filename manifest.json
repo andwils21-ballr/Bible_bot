@@ -138,14 +138,14 @@
       "title": "Tobit",
       "slug": "tobit",
       "chapters": 14,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 21,
       "title": "Judith",
       "slug": "judith",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 22,
@@ -201,7 +201,9 @@
       "title": "Reproof (Tegsat)",
       "slug": "reproof-tegsat",
       "chapters": 7,
-      "tier": "primary"
+      "tier": "primary",
+      "source_book": "proverbs",
+      "source_offset": 24
     },
     {
       "order": 30,
@@ -222,14 +224,14 @@
       "title": "Wisdom of Solomon",
       "slug": "wisdom-of-solomon",
       "chapters": 19,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 33,
       "title": "Sirach",
       "slug": "sirach",
       "chapters": 51,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 34,
@@ -257,14 +259,14 @@
       "title": "Baruch",
       "slug": "baruch",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 38,
       "title": "Letter of Jeremiah",
       "slug": "letter-of-jeremiah",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "secondary"
     },
     {
       "order": 39,
