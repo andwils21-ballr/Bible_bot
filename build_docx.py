@@ -14,7 +14,7 @@ from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt, Inches
 
-from build_site import parse_chapter, VERSE_RE
+from build_site import parse_chapter, split_notes, VERSE_RE
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docx")
@@ -65,25 +65,15 @@ def build(book):
         meta, body = parse_chapter(os.path.join(folder, name))
         if idx:
             doc.add_page_break()
-        in_notes = False
-        for block in re.split(r"\n\s*\n", body):
+        prose, notes = split_notes(body)
+        for block in re.split(r"\n\s*\n", prose):
             block = block.strip()
             if not block or block == "---":
                 continue
             if block.startswith("# "):
                 doc.add_heading(block[2:].strip(), level=1)
             elif block.startswith("## "):
-                heading = block[3:].strip()
-                in_notes = heading.lower() == "notes"
-                doc.add_heading(heading, level=2)
-            elif block.startswith("- "):
-                for line in block.splitlines():
-                    if line.strip().startswith("- "):
-                        par = doc.add_paragraph(style="List Bullet")
-                        add_rich(par, line.strip()[2:])
-                        if in_notes:
-                            for run in par.runs:
-                                run.font.size = Pt(9.5)
+                doc.add_heading(block[3:].strip(), level=2)
             else:
                 par = doc.add_paragraph()
                 m = VERSE_RE.match(block)
@@ -93,6 +83,18 @@ def build(book):
                     add_rich(par, m.group(2).replace("  \n", "\n"))
                 else:
                     add_rich(par, block)
+        if notes:
+            doc.add_heading("Notes", level=2)
+            for item in notes:
+                for i, para in enumerate(item):
+                    # first paragraph is the bullet; the rest indent under it
+                    par = doc.add_paragraph(
+                        style="List Bullet" if i == 0 else None)
+                    if i:
+                        par.paragraph_format.left_indent = Inches(0.5)
+                    add_rich(par, para)
+                    for run in par.runs:
+                        run.font.size = Pt(9.5)
 
     os.makedirs(OUT, exist_ok=True)
     path = os.path.join(OUT, f"{book['order']:02d}-{book['slug']}.docx")

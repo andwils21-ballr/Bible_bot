@@ -42,27 +42,48 @@ def inline(s):
     return s.replace("  \n", "<br>\n")
 
 
+def split_notes(body):
+    """Return (prose, note_items). Lists only ever occur under `## Notes`, and a
+    note may run to several paragraphs, so the notes are parsed line by line
+    rather than by blank-line blocks — otherwise a note with a second paragraph
+    swallows every note after it."""
+    marker = re.search(r"^## Notes\s*$", body, re.M)
+    if not marker:
+        return body, []
+    prose, rest = body[:marker.start()], body[marker.end():]
+    items, cur = [], None
+    for line in rest.splitlines():
+        if line.startswith("- "):              # a new note begins
+            if cur is not None:
+                items.append(cur)
+            cur = [line[2:].strip()]
+        elif cur is None:
+            continue                            # nothing open yet
+        elif not line.strip():
+            cur.append("")                      # paragraph break inside a note
+        else:
+            if cur and cur[-1] == "":
+                cur.append(line.strip())        # start of a continuation para
+            else:
+                cur[-1] = (cur[-1] + " " + line.strip()).strip()
+    if cur is not None:
+        items.append(cur)
+    # each item is a list of paragraphs
+    return prose, [[p for p in it if p] for it in items]
+
+
 def to_html(body):
     """Render the narrow Markdown subset the spec permits."""
-    out, in_notes = [], False
-    for block in re.split(r"\n\s*\n", body):
+    prose, notes = split_notes(body)
+    out = []
+    for block in re.split(r"\n\s*\n", prose):
         block = block.strip()
         if not block or block == "---":
             continue
         if block.startswith("# "):
             out.append(f"<h1>{inline(block[2:])}</h1>")
         elif block.startswith("## "):
-            heading = block[3:].strip()
-            in_notes = heading.lower() == "notes"
-            cls = ' class="notes-head"' if in_notes else ""
-            out.append(f"<h2{cls}>{inline(heading)}</h2>")
-        elif block.startswith("- "):
-            items = "".join(
-                f"<li>{inline(ln[2:].strip())}</li>"
-                for ln in block.splitlines()
-                if ln.strip().startswith("- ")
-            )
-            out.append(f'<ul class="{"notes" if in_notes else ""}">{items}</ul>')
+            out.append(f"<h2>{inline(block[3:].strip())}</h2>")
         else:
             m = VERSE_RE.match(block)
             if m:
@@ -73,6 +94,13 @@ def to_html(body):
                 )
             else:
                 out.append(f"<p>{inline(block)}</p>")
+    if notes:
+        out.append('<h2 class="notes-head">Notes</h2>')
+        lis = "".join(
+            "<li>" + "".join(f"<p>{inline(p)}</p>" for p in item) + "</li>"
+            for item in notes
+        )
+        out.append(f'<ul class="notes">{lis}</ul>')
     return "\n".join(out)
 
 
@@ -175,7 +203,7 @@ SHELL = r"""<!doctype html>
   nav a.on{border-left-color:var(--accent);color:var(--accent);font-weight:700}
   nav a .ct{float:right;color:var(--muted);font-size:12px;font-weight:400}
   nav a.pending{color:var(--muted)}
-  main{flex:1;min-width:0;padding:44px 6vw 120px;max-width:820px}
+  main{flex:1;min-width:0;padding:44px 6vw 140px;max-width:820px}
   .chips{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 30px}
   .chips a{display:block;min-width:40px;text-align:center;padding:7px 10px;
            border:1px solid var(--rule);border-radius:4px;text-decoration:none;
@@ -191,9 +219,24 @@ SHELL = r"""<!doctype html>
        vertical-align:super;margin-right:6px;text-decoration:none}
   a.vn:hover{color:var(--accent)}
   ul.notes{font-size:14.5px;color:var(--muted);padding-left:20px}
-  ul.notes li{margin:0 0 11px}
+  ul.notes li{margin:0 0 16px}
+  ul.notes li p{margin:0 0 9px}
+  ul.notes li p:last-child{margin-bottom:0}
   ul.notes strong{color:var(--ink)}
   .lede{color:var(--muted);margin:0 0 34px;font-size:15px}
+  .pager{display:flex;gap:10px;align-items:stretch;margin:48px 0 0;
+         border-top:1px solid var(--rule);padding-top:22px}
+  .pager a{flex:1;display:flex;flex-direction:column;justify-content:center;
+           gap:3px;padding:14px 16px;border:1px solid var(--rule);
+           border-radius:6px;text-decoration:none;color:var(--ink);
+           font:14px/1.3 ui-sans-serif,system-ui,sans-serif}
+  .pager a:hover{border-color:var(--accent)}
+  .pager a.up{flex:0 0 auto;justify-content:center;text-align:center;
+              color:var(--muted)}
+  .pager a.nx{text-align:right}
+  .pager small{color:var(--muted);font-size:12px;letter-spacing:.06em;
+               text-transform:uppercase}
+  .pager b{font-weight:600;font-size:16px}
   .stub{border:1px dashed var(--rule);padding:22px;color:var(--muted);
         border-radius:5px}
   p.v.speaking{background:rgba(122,92,46,.14);border-radius:3px;
@@ -215,18 +258,16 @@ SHELL = r"""<!doctype html>
   #pvoicewrap[hidden]{display:none}
   #ptxt{flex:1;color:var(--muted);overflow:hidden;text-overflow:ellipsis;
         white-space:nowrap}
-  main{padding-bottom:96px}
   @media(max-width:760px){
     #player{flex-wrap:wrap;gap:8px;padding:8px 10px}
     #player button{flex:1 1 auto;min-width:0;padding:13px 10px}
     #player label{font-size:13px}
     #ptxt{display:none}
     nav{max-height:30vh}
-    main{padding-bottom:120px}
     #wrap{display:block}
     nav{width:auto;height:auto;position:static;border-right:0;
         border-bottom:1px solid var(--rule);max-height:42vh}
-    main{padding:28px 20px 80px}
+    main{padding:28px 20px 190px}
   }
 </style>
 <div id="wrap"><nav id="rail"></nav><main id="view"></main></div>
@@ -259,6 +300,21 @@ async function load(slug){
   if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json`)).json();
   return cache[slug];
 }
+function pager(d,cur){
+  const list=d.chapters, i=list.findIndex(c=>c.n==cur);
+  if(i<0) return '';
+  const prev=list[i-1], next=list[i+1], slug=d.book.slug, title=d.book.title;
+  const cell=(c,cls,label)=>c
+    ? `<a class="${cls}" href="#/${slug}/${c.n}"><small>${label}</small>`+
+      `<b>${title} ${c.n}</b></a>`
+    : '';
+  return '<div class="pager">'+
+    cell(prev,'pv','Previous')+
+    `<a class="up" href="#/${slug}"><small>All</small><b>${title}</b></a>`+
+    cell(next,'nx','Next')+
+    '</div>';
+}
+
 function chips(d,cur){
   if(!d.chapters.length) return '';
   return '<div class="chips">'+d.chapters.map(c=>
@@ -286,7 +342,8 @@ async function route(){
     return;
   }
   const c=d.chapters.find(x=>x.n==ch);
-  view.innerHTML=chips(d,ch)+(c?c.html:'<p class="stub">Not yet rendered.</p>');
+  view.innerHTML=chips(d,ch)+(c?c.html:'<p class="stub">Not yet rendered.</p>')
+             +pager(d,ch);
   window.scrollTo(0,0);
   const wasPlaying=P.on;
   stop(); P.q=(c&&c.speech)||[]; P.i=0;
