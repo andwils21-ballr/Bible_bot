@@ -239,6 +239,21 @@ That is the target depth. Note also what the example does *not* do: it invents
 no manuscript, cites no scholar, and claims no secret. Every load-bearing claim
 is a fact about the word.
 
+### Notes are written for a reader, not for us
+
+Every note is addressed to someone who picked this up and knows nothing about
+how it was made. Keep the project out of them:
+
+- No first person about the work — not *I was wrong*, not *this note exists
+  because*, not *we decided*. State the finding, not the process that reached it.
+- No addressing the reader as though they were in the conversation.
+- Where a rendering choice needs defending, defend it from the language: what
+  the source word means, what each English candidate would imply, and which one
+  lands closest. That is useful to a stranger. The history of how the choice got
+  made is not.
+
+The record of decisions belongs in `NOTES_FOR_ANDREW.md` and in commit messages.
+
 ### The test every note must pass
 
 **Would someone who reads the source language agree this is actually in the
