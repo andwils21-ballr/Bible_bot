@@ -31,25 +31,17 @@ The lesson worth keeping: the manifest is still partly from memory, and the
 remaining books' chapter counts have not been checked against anything.
 Expect more of these as the project reaches books with no source file.
 
-## Genesis 31/32: a one-verse numbering difference from English Bibles (2026-09-16)
+## Genesis 31/32 numbering — RESOLVED, we follow the KJV division (2026-09-16)
 
-The Hebrew text in `sources/` starts chapter 32 with Laban going home in the
-morning. Every English Bible I know of puts that sentence at the **end of
-chapter 31** instead, as 31:55, and then numbers chapter 32 as verses 1–32.
+The Hebrew source starts chapter 32 with Laban going home in the morning;
+English Bibles put that sentence at the end of chapter 31 as 31:55. I had
+followed the Hebrew. You said KJV-close numbering is more convenient for
+comparisons, so I moved it: **Genesis 31 now ends at verse 55 and Genesis 32 has
+32 verses**, the same as a KJV/NIV/ESV. Cross-references in the notes of
+chapters 30, 33 and 35 were updated to match.
 
-I followed the Hebrew, because that is the text I am rendering from and the spec
-says to work from the source. The result:
-
-- our Genesis 31 ends at verse 54; an English Bible's ends at 55
-- our Genesis 32 has 33 verses; an English Bible's has 32
-- so for this one chapter, our verse numbers run **one higher** than an NIV/ESV.
-  The wrestling match is 32:25–33 here, 32:24–32 there.
-- Genesis 33 lines up again, and so does everything after it.
-
-I put a note at the top of the Genesis 32 notes so a reader comparing to a
-printed Bible isn't lost. If you'd rather match the English numbering
-everywhere — which would mean moving that verse back into chapter 31 — say so
-and I'll change it before we get much further into the canon. It's a one-time
-decision that will recur in a few other books (the Psalm headings in particular
-are numbered as verse 1 in Hebrew and not counted in English, which shifts whole
-psalms by one).
+This is now a standing rule in `RENDERING_SPEC.md` under "Versification": where
+an English tradition exists, match it; where it does not (Enoch, Jubilees,
+Meqabyan), follow the source. The next place it will bite is Psalms, where the
+Hebrew counts *A psalm of David* as verse 1 and English does not — we'll follow
+English there too.

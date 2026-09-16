@@ -136,6 +136,47 @@ allowance is a place name with no received English identity at all, where the
 gloss is the only way a reader gets anything — *Beer-lahai-roi — Well of the
 Living One who sees me*. Even there, prefer the note.
 
+## Versification: follow the English chapter and verse divisions
+
+Where an English Bible tradition exists for a book, **use its chapter and verse
+numbering, matching the King James division**, even where the Hebrew or Greek
+source file divides differently. Andrew reads this alongside printed Bibles and
+a one-verse offset makes every comparison a puzzle.
+
+The two places this comes up constantly:
+
+- **A verse the Hebrew puts at the top of the next chapter.** Genesis 31/32 is
+  the type case: the Hebrew begins chapter 32 with Laban going home; English
+  Bibles make it 31:55. Follow the English — our Genesis 31 ends at 55 and our
+  32 has 32 verses.
+- **Psalm superscriptions.** Hebrew counts *A psalm of David* as verse 1;
+  English does not count it at all. Follow English, and put the superscription
+  above the first verse without a number.
+
+Where no English tradition exists — Enoch, Jubilees, Meqabyan, the Ethiopian
+books generally — follow the source, and say so in the first note of chapter 1.
+
+When the two numbering systems differ in a way a reader might trip over, one
+short note is enough. Do not renumber the source file, and do not add a running
+commentary about it.
+
+## Note length: one note is not an essay
+
+Andrew's standing rule: **no single note should be exceptionally long unless it
+is carrying something that matters to the whole Bible.**
+
+The depth standard below is about how far to dig, not how long to write. A note
+that has found one real thing says it and stops. The failure mode is a note that
+keeps going because the research was interesting — a letter-by-letter table, a
+second and third example of a pattern already demonstrated, a paragraph
+answering an objection nobody raised.
+
+A rough working limit is **150 words**, and the honest test is whether every
+paragraph is still carrying the point or is just more of it. Notes that earn
+more are the ones a reader will still need five books later: *logos*, the
+covenant, the *toldot* formula, a name the rest of the canon turns on. Those can
+run long. A minor character's name cannot.
+
 ## Work from the source text, never from memory
 
 Before rendering any chapter, print its source and keep it in front of you:
