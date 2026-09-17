@@ -1,12 +1,12 @@
 # Progress
 
-**45 of 1554 chapters rendered (2.9%).**
+**49 of 1554 chapters rendered (3.2%).**
 
-Next up: **Genesis 46**
+Next up: **Genesis 50**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
-| 1 | Genesis | primary | 45/50 |
+| 1 | Genesis | primary | 49/50 |
 | 2 | Exodus | primary | 0/40 |
 | 3 | Leviticus | primary | 0/27 |
 | 4 | Numbers | primary | 0/36 |
