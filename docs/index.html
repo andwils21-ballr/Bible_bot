@@ -188,7 +188,7 @@ async function route(){
 }
 
 /* ---- read aloud -------------------------------------------------------- */
-const P={q:[],i:0,on:false,lock:null,tick:null,voices:[]};
+const P={q:[],i:0,on:false,lock:null,tick:null,voices:[],tok:0};
 const el=id=>document.getElementById(id);
 const bar=el('player'), bPlay=el('pplay'), bStop=el('pstop'),
       bPrev=el('pprev'), bFwd=el('pfwd'),
@@ -207,7 +207,7 @@ async function wake(want){
 }
 
 function stop(){
-  P.on=false; speechSynthesis.cancel(); clearInterval(P.tick); P.tick=null;
+  P.on=false; P.tok++; speechSynthesis.cancel(); clearInterval(P.tick); P.tick=null;
   document.querySelectorAll('p.v.speaking').forEach(n=>n.classList.remove('speaking'));
   bPlay.textContent='Read aloud'; out.textContent=''; wake(false);
 }
@@ -232,8 +232,10 @@ function speakAt(n){
   const u=new SpeechSynthesisUtterance(chunk.text);
   const v=P.voices.find(x=>x.name===selVoice.value);
   if(v){ u.voice=v; u.lang=v.lang; }
-  u.rate=parseFloat(selRate.value); u.onend=()=>speakAt(n+1);
-  u.onerror=()=>speakAt(n+1);
+  u.rate=parseFloat(selRate.value);
+  const tok=++P.tok;                       // this utterance's ticket
+  u.onend  =()=>{ if(tok===P.tok) speakAt(n+1); };
+  u.onerror=()=>{ if(tok===P.tok) speakAt(n+1); };
   speechSynthesis.speak(u);
 }
 
@@ -247,7 +249,7 @@ function play(){
   speakAt(P.i);
 }
 
-bPlay.onclick=()=>{ if(P.on){ P.on=false; speechSynthesis.cancel();
+bPlay.onclick=()=>{ if(P.on){ P.on=false; P.tok++; speechSynthesis.cancel();
                               clearInterval(P.tick); bPlay.textContent='Resume';
                               wake(false); } else play(); };
 bStop.onclick=()=>{ P.i=0; stop(); };
@@ -256,6 +258,7 @@ bStop.onclick=()=>{ P.i=0; stop(); };
 function jump(n){
   if(!P.q.length) return;
   n=Math.max(0,Math.min(n,P.q.length-1));
+  P.tok++;                                 // void the utterance we are killing
   speechSynthesis.cancel();
   P.i=n;
   if(P.on) speakAt(n); else play();
@@ -270,8 +273,7 @@ view.addEventListener('click',e=>{
   const n=P.q.findIndex(c=>c.id===p.id);
   if(n>=0) jump(n);
 });
-selRate.onchange=()=>{ keep('rate',selRate.value);
-                       if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
+selRate.onchange=()=>{ keep('rate',selRate.value); if(P.on) jump(P.i); };
 cbNext.onchange=()=>keep('next',cbNext.checked?'1':'0');
 function loadVoices(){
   // English first, then the rest; the list is whatever this phone has installed
@@ -288,8 +290,7 @@ function loadVoices(){
   ).join('');
   if(want && P.voices.some(v=>v.name===want)) selVoice.value=want;
 }
-selVoice.onchange=()=>{ keep('voice',selVoice.value);
-                        if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
+selVoice.onchange=()=>{ keep('voice',selVoice.value); if(P.on) jump(P.i); };
 loadVoices();
 speechSynthesis.onvoiceschanged=loadVoices;   // most browsers load them late
 
