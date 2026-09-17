@@ -153,13 +153,26 @@ For *pen*, the Hebrew behind most of the *lest* clauses, use what English
 actually says: *or you will…*, *otherwise…*, *in case…*, *he might…*, or a dash
 and a plain clause.
 
-**Not banned, and not archaism:** plain old words that are still current and are
-doing real work — *flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*, *sojourn*.
-Simplicity is the goal, not blandness. If the source is blunt or strange, stay
-blunt and strange; it is the *translationese* that goes, not the force.
+**The test is whether the word carries anything.** *Thee*, *thou*, *unto*,
+*verily*, *lest* are substance-less: they mean exactly what *you*, *to*, *truly*
+and *or else* mean, and the only thing they add is a half-beat of friction while
+the reader steps over them. A thousand of those beats is the difference between
+reading and studying. Those go.
 
-The test is not whether a reader could work the word out. It is whether they
-would ever say it.
+**Two formulas stay, and this is a ruling, not an oversight.** They look archaic
+and are not substance-less — each renders a Hebrew formula that is doing work:
+
+- **"And it came to pass"** for *va-yehi*, the scene-opening formula. Sixty-four
+  times in Genesis.
+- **"And here —"** for *hinneh*, the word that drops the reader inside someone's
+  eyes at the moment of seeing. Fifty-six times in Genesis.
+
+Do not strip these in the name of this section. They were considered and kept.
+
+**Also not archaism:** plain old words still in current use and doing real work —
+*flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*, *sojourn*. Simplicity is
+the goal, not blandness. If the source is blunt or strange, stay blunt and
+strange; it is the *translationese* that goes, not the force.
 
 ## Versification: follow the English chapter and verse divisions
 
