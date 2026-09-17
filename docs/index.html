@@ -79,6 +79,10 @@
                  border:1px solid var(--rule);background:var(--bg);color:var(--ink)}
   #pvoice{max-width:44vw;text-overflow:ellipsis}
   #pvoicewrap[hidden]{display:none}
+  .chips a.last{outline:2px solid var(--accent);outline-offset:1px}
+  a.resume{display:inline-block;padding:11px 16px;border-radius:8px;
+    background:var(--accent);color:#fff;text-decoration:none;font-weight:600}
+  p.v{cursor:pointer}
   #ptxt{flex:1;color:var(--muted);overflow:hidden;text-overflow:ellipsis;
         white-space:nowrap}
   @media(max-width:760px){
@@ -95,7 +99,9 @@
 </style>
 <div id="wrap"><nav id="rail"></nav><main id="view"></main></div>
 <div id="player">
+  <button id="pprev" title="Previous verse">&#9664;&#9664;</button>
   <button id="pplay" class="primary">Read aloud</button>
+  <button id="pfwd" title="Next verse">&#9654;&#9654;</button>
   <button id="pstop">Stop</button>
   <label id="pvoicewrap">Voice
     <select id="pvoice"></select>
@@ -140,9 +146,14 @@ function pager(d,cur){
 
 function chips(d,cur){
   if(!d.chapters.length) return '';
-  return '<div class="chips">'+d.chapters.map(c=>
-    `<a href="#/${d.book.slug}/${c.n}" class="${c.n==cur?'on':''}">`+
-    `${c.status==='need_source'?'—':c.n}</a>`).join('')+'</div>';
+  const last=(say('last')||'').split('/');            // #/slug/ch
+  const lastSlug=last[1], lastCh=last[2];
+  return '<div class="chips">'+d.chapters.map(c=>{
+    const here = c.n==cur ? ' on' : '';
+    const seen = (d.book.slug===lastSlug && String(c.n)===lastCh) ? ' last' : '';
+    return `<a href="#/${d.book.slug}/${c.n}" class="${here}${seen}">`+
+           `${c.status==='need_source'?'—':c.n}</a>`;
+  }).join('')+'</div>';
 }
 async function route(){
   const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
@@ -154,7 +165,7 @@ async function route(){
     view.innerHTML='<h1>A Close Rendering</h1><p class="lede">'+
       'The Ethiopian Orthodox Tewahedo canon, rendered chapter by chapter with '+
       'attention to what English normally loses. Choose a book at left.</p>'+
-      `<p class="lede">${done} of ${all} chapters rendered.</p>`;
+      `<p class="lede">${done} of ${all} chapters rendered.</p>`+resumeLink();
     return;
   }
   const d=await load(slug);
@@ -180,6 +191,7 @@ async function route(){
 const P={q:[],i:0,on:false,lock:null,tick:null,voices:[]};
 const el=id=>document.getElementById(id);
 const bar=el('player'), bPlay=el('pplay'), bStop=el('pstop'),
+      bPrev=el('pprev'), bFwd=el('pfwd'),
       selRate=el('prate'), cbNext=el('pnext'), out=el('ptxt'),
       selVoice=el('pvoice'), voiceWrap=el('pvoicewrap');
 
@@ -239,6 +251,25 @@ bPlay.onclick=()=>{ if(P.on){ P.on=false; speechSynthesis.cancel();
                               clearInterval(P.tick); bPlay.textContent='Resume';
                               wake(false); } else play(); };
 bStop.onclick=()=>{ P.i=0; stop(); };
+
+// step one verse at a time, and start playing if we were not
+function jump(n){
+  if(!P.q.length) return;
+  n=Math.max(0,Math.min(n,P.q.length-1));
+  speechSynthesis.cancel();
+  P.i=n;
+  if(P.on) speakAt(n); else play();
+}
+bPrev.onclick=()=>jump(P.i-1);
+bFwd .onclick=()=>jump(P.i+1);
+
+// tap any verse to hear it from there
+view.addEventListener('click',e=>{
+  if(String(getSelection())) return;           // let people select text
+  const p=e.target.closest('p.v'); if(!p||!p.id) return;
+  const n=P.q.findIndex(c=>c.id===p.id);
+  if(n>=0) jump(n);
+});
 selRate.onchange=()=>{ keep('rate',selRate.value);
                        if(P.on){ speechSynthesis.cancel(); speakAt(P.i); } };
 cbNext.onchange=()=>keep('next',cbNext.checked?'1':'0');
@@ -265,9 +296,36 @@ speechSynthesis.onvoiceschanged=loadVoices;   // most browsers load them late
 if(say('rate')) selRate.value=say('rate');
 if(say('next')==='0') cbNext.checked=false;
 
+function resumeLink(){
+  const h=say('last'); if(!h) return '';
+  const [,slug,ch]=h.split('/'); if(!slug||!ch) return '';
+  const b=BOOKS.find(x=>x.slug===slug); if(!b) return '';
+  return `<p class="lede"><a class="resume" href="${h}">`+
+         `Continue reading &middot; ${b.title} ${ch}</a></p>`;
+}
+
+// remember how far down the chapter we were
+let restoring=false;
+addEventListener('scroll',()=>{
+  if(restoring) return;
+  const h=location.hash; if(h.split('/').length<3) return;
+  keep('pos', h+'|'+Math.round(scrollY));
+},{passive:true});
+function restoreScroll(){
+  const v=say('pos'); if(!v) return;
+  const [h,y]=v.split('|');
+  if(h!==location.hash) return;
+  restoring=true;
+  scrollTo(0,Number(y)||0);
+  setTimeout(()=>{restoring=false;},400);
+}
+
 addEventListener('hashchange',route);
 (async()=>{
   BOOKS=(await (await fetch('data/manifest.json')).json()).books;
-  route();
+  const back=!location.hash && say('last');
+  if(back){ location.hash=back; }               // open where we left off
+  await route();
+  if(back) restoreScroll();
 })();
 </script>
