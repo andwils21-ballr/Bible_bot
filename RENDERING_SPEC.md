@@ -258,6 +258,23 @@ And a claim about the **Ge'ez** is not checkable the way a claim about the
 Hebrew or Greek is. Quote the Ge'ez, report where it differs, and do not build
 an argument on what a Ge'ez word supposedly means.
 
+`source_text.py` prints three things for these books, in this order, and each
+has a different standing:
+
+1. **The witnesses themselves** — Greek, Aramaic, Ge'ez, Latin. The Greek and
+   Aramaic can be read and argued from. The Ge'ez and Latin can be quoted.
+2. **The scholarly English of each witness**, from the same critical edition.
+   A claim about what a witness *means* rests on these, never on a private
+   reading of a language that cannot be checked.
+3. **A mechanical divergence list** — which witnesses carry each verse, and
+   where one runs markedly longer than another. This makes no claim at all. It
+   says where to look.
+
+Work the divergence list. It is the best material in these books and no English
+Bible gives a reader any of it. But a flagged verse is a lead, not a finding:
+go read the witnesses and their English before writing anything, and say which
+witness each statement comes from.
+
 Provenance and licence for these texts are in `SOURCES.md`. Keep that file with
 them.
 

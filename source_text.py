@@ -68,6 +68,8 @@ def main():
         found = True
         covered = True
     if covered:
+        _english(slug, lookup_chapter)
+        _divergence(slug, lookup_chapter)
         return
     if found:
         # Witness files exist for this book, but none of them reaches this
@@ -93,6 +95,83 @@ def main():
         print("This book is tier 'primary' but has no source file — that is a\n"
               "gap in fetch_sources.py, not a licence to render from memory.\n"
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
+
+
+WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "latin")
+
+
+def _load(path, chapter):
+    rows = {}
+    if not os.path.exists(path):
+        return rows
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            ref, _, text = line.partition("\t")
+            ch, _, vs = ref.partition(":")
+            if ch == chapter and vs.isdigit():
+                rows[int(vs)] = text.rstrip("\n")
+    return rows
+
+
+def _english(slug, chapter):
+    """The OCP's scholarly English for each witness.
+
+    A claim about what a witness *means* rests on these, not on the renderer's
+    own reading of a language it cannot check.
+    """
+    import glob
+    files = sorted(glob.glob(os.path.join(ROOT, "sources", "english",
+                                          slug + ".*.txt")))
+    printed = False
+    for path in files:
+        rows = _load(path, chapter)
+        if not rows:
+            continue
+        name = os.path.basename(path).split(".")[1]
+        if not printed:
+            print("# " + "=" * 62)
+            print("# scholarly English of each witness — use this for MEANING")
+            printed = True
+        print(f"\n## {name} (English)")
+        for v in sorted(rows):
+            print(f"{v}\t{rows[v]}")
+    if printed:
+        print()
+
+
+def _divergence(slug, chapter):
+    """Flag, mechanically, where the witnesses disagree.
+
+    This makes no claim about meaning — it only says where to look. Two things
+    are checkable without reading any of these languages: which witnesses carry
+    a verse at all, and where one is markedly fuller than another.
+    """
+    wit = {}
+    for lang in WITNESS_LANGS:
+        rows = _load(os.path.join(ROOT, "sources", lang, slug + ".txt"), chapter)
+        if rows:
+            wit[lang] = rows
+    if len(wit) < 2:
+        return
+    print("# " + "=" * 62)
+    print("# WHERE THE WITNESSES DIVERGE (mechanical: coverage and length only)")
+    langs = list(wit)
+    for v in sorted(set().union(*(set(r) for r in wit.values()))):
+        has = [l for l in langs if v in wit[l]]
+        missing = [l for l in langs if v not in wit[l]]
+        flags = []
+        if missing:
+            flags.append("only in " + ", ".join(has))
+        if len(has) > 1:
+            lens = {l: len(wit[l][v]) for l in has}
+            lo, hi = min(lens, key=lens.get), max(lens, key=lens.get)
+            if lens[lo] and lens[hi] / lens[lo] >= 2.0:
+                flags.append(f"{hi} is {lens[hi]/lens[lo]:.1f}x the length of {lo}")
+        if flags:
+            print(f"  v{v}: " + "; ".join(flags))
+    print("\n# These are places to look, not findings. What a difference means")
+    print("# has to come from the English above or from the Greek/Aramaic.")
+    print()
 
 
 if __name__ == "__main__":

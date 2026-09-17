@@ -29,7 +29,10 @@ The texts come from the **Online Critical Pseudepigrapha**
 (<https://pseudepigrapha.org>, [source repository](https://github.com/OnlineCriticalPseudepigrapha/Online-Critical-Pseudepigrapha)),
 used under a [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
 Their TEI XML has been converted to this project's plain `chapter:verse<TAB>text`
-format; nothing has been altered, added to, or corrected.
+format; nothing has been altered, added to, or corrected. Their scholarly
+English rendering of each witness is kept alongside, in `sources/english/`,
+because a claim about what the Ge'ez or Latin *means* has to rest on published
+scholarship rather than on a reading this project cannot check.
 
 The editions the OCP built those witnesses from, as cited in their own
 manuscript metadata:
