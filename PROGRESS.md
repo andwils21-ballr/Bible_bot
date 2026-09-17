@@ -1,13 +1,13 @@
 # Progress
 
-**60 of 1554 chapters rendered (3.9%).**
+**64 of 1554 chapters rendered (4.1%).**
 
-Next up: **Exodus 5**
+Next up: **Exodus 9**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
 | 1 | Genesis | primary | done |
-| 2 | Exodus | primary | 4/40 |
+| 2 | Exodus | primary | 8/40 |
 | 3 | Leviticus | primary | 0/27 |
 | 4 | Numbers | primary | 0/36 |
 | 5 | Deuteronomy | primary | 0/34 |

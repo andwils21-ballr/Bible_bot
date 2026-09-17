@@ -45,3 +45,19 @@ an English tradition exists, match it; where it does not (Enoch, Jubilees,
 Meqabyan), follow the source. The next place it will bite is Psalms, where the
 Hebrew counts *A psalm of David* as verse 1 and English does not — we'll follow
 English there too.
+
+## Exodus 7/8 — the Hebrew and English chapter divisions differ
+
+Found while rendering, 2026-09-17. The Hebrew of Exodus 7 runs to **29 verses**,
+not 25: the announcement of the frogs sits at Hebrew 7:26-29, where English
+Bibles print it as 8:1-4. Hebrew chapter 8 then has 28 verses where English has
+32. The totals match exactly (4 + 28 = 32), so nothing is missing on either
+side -- only the seam between the chapters moves.
+
+Per the spec's versification rule this rendering follows the English division,
+so `books/2-exodus/08.md` has 32 verses while `source_text.py exodus 8` prints
+28. That mismatch is expected and is stated in the first note of chapter 8.
+`manifest.json` is correct at 40 chapters and needs no change.
+
+Worth knowing this will recur: the same offset affects Hebrew/English numbering
+in several places later (Psalms superscriptions, Malachi, Joel).
