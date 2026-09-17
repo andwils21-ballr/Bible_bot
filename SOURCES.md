@@ -14,23 +14,20 @@ Public domain.
 `sources/greek/` holds the **SBL Greek New Testament**, from
 [morphgnt](https://github.com/morphgnt/sblgnt).
 
-## WARNING — the Ge'ez transcription here is incomplete
+## How the OCP witnesses are built
 
-`sources/ethiopic/1-enoch.txt` is a **partial** transcription. Of its 543
-verses, **361 (66%) break off mid-sentence**, without the Ge'ez full stop `።`.
-Truncated verses average half the length of complete ones. The cut is an
-artifact of how this file was assembled, not a feature of the Ethiopic
-manuscripts, which carry the book whole.
+The Online Critical Pseudepigrapha publishes each book as XML in which a single
+verse is split across several `<unit>` elements, so the edition can carry its
+apparatus, and each unit offers one or more `<reading option="N">`. Option 0 is
+the base reading. **A verse is every unit's option-0 reading joined in document
+order.** Reading only the first unit of each verse silently truncates about two
+thirds of them, mid-sentence, with no error -- which is exactly what this
+repository did until 2026-09-17.
 
-What this means for the notes in `books/16-1-enoch/`:
+`fetch_ocp.py` does the conversion. The XML it reads is kept in
+`sources/ocp-xml/` so the text files can be rebuilt without network access:
 
-- A claim about what the Ge'ez **says** is evidence. The words in the file are
-  really there.
-- A claim about what the Ge'ez **lacks** is worthless. The file is in no
-  position to tell us, and any note arguing from Ethiopic silence is wrong.
-
-Do not render further chapters of 1 Enoch from this file without re-sourcing
-it, and do not restore any absence-based note.
+    python3 fetch_ocp.py sources/ocp-xml
 
 ## 1 Enoch and Jubilees — four witnesses
 

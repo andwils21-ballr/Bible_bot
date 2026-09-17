@@ -21,6 +21,7 @@
 3:1	On the first day of the week, which was the third day of the formation of Adam, the eighth of the first month Nisan, the first of the month of April, and the sixth of Pharmouthi among the Egyptians, Adam named the wild beasts by a certain divine gift. On the second day of the second week he named the cattle. On the third day of the second week he named the birds. On the fourth day of the second week he named the creeping things. On the fifth day of the second week he named the swimming creatures...
 3:5	On the sixth day of the second week, which was according to the Romans the sixth of April, and according to the Egyptians the eleventh of Pharmouthi, God took a part of Adam's rib and formed the woman...
 3:9	On the forty-sixth day of the creation of the world, the fourth day of the seventh week, the fourteenth of Pachon, the ninth of May, when the sun was in Taurus and the moon diametrically in Scorpio, at the rising of the Pleiades, God brought Adam into Paradise on the fortieth day of his formation. On the eighth day of the creation of the world, and the forty-fourth of the formation of Adam, on the Lord's day, the eighteenth of Pachon, the thirteenth of May, three days after his entrance into Paradise, when the sun was in Taurus and the moon in Capricorn, God commanded Adam to abstain from eating of the tree of knowledge. On the ninety-third day of the creation, the second day of the fourteenth week, at the summer solstice, when both the sun and the moon were in Cancer, on the twenty-fifth of the month of June, the first of Epiphi, Adam's helper Eve was brought by God into Paradise, on the eightieth day of her formation.
+3:33	whom Adam received and named Eve, which is interpreted 'life.'
 3:10	For this reason God commanded through Moses in Leviticus—namely, on account of the days after their formation during which they were separated from Paradise—that in the case of bearing a male, she should be unclean for forty days,
 3:11	and in the case of bearing a female, up to eighty days. For Adam was brought into Paradise on the fortieth day of his formation, for which reason they also bring newborns into the temple on the fortieth day according to the law; but in the case of a female, that she should be unclean for eighty days, both because of her entrance into Paradise on the eightieth day and because of the uncleanness of the female compared to the male.
 3:13	For when she is in her menstrual impurity, she does not enter into the temple for seven days according to the divine law.
@@ -29,25 +30,25 @@
 3:23	The serpent became a creeping thing instead of a beast; it possessed hands and feet, but was deprived of them because it entered boldly into Paradise and because it was the first to take and eat from the tree.
 3:28	...the beasts and the four-footed animals and the creeping things... were of one language with the first-formed humans before the transgression; because... the serpent spoke with a human voice to Eve...
 3:32	In the seventh year he transgressed, and in the eighth they were cast out of Paradise... forty-five days after the transgression, at the rising of the Pleiades. And Adam spent in Paradise a week of days of three hundred and sixty-five days. And he was cast out with his wife Eve because of the transgression on the tenth of the month of May.
-3:33	whom Adam received and named Eve, which is interpreted 'life.'
 3:34	In the eighth year... Adam knew Eve his wife.
 4:1	In the seventieth year their firstborn son Cain was born to them. In the seventy-seventh year... righteous Abel was born. In the eighty-fifth year a daughter was born to them, and they named her Asuam. In the ninety-seventh year Cain made an offering. In the ninety-ninth year Abel offered a sacrifice to God, being in his twenty-second year, at the full moon of the seventh month among the Hebrews, that is, at the Feast of Tabernacles... the fruit offering sacrifice of Cain...
 4:2	In the same ninety-ninth year Cain killed Abel, and the first-formed mourned for him four week-periods, that is, twenty-eight years.
 4:7	In the one hundred and twenty-seventh year, Adam and Eve put away their mourning.
 4:9	In the one hundred and thirty-fifth year, Cain took his own sister Asuna, who was fifty years old, while he himself was sixty-five years old; Cain [was married] to the elder sister, called Saue.
-4:10	And there were also born to Adam other sons . . . nine after these three, so that he had two daughters and twelve males, one who had been killed and eleven who survived in life.
 4:11	And Seth, the third son born after Abel, [was married] to his sister who was called Azura.
+4:10	And there were also born to Adam other sons . . . nine after these three, so that he had two daughters and twelve males, one who had been killed and eleven who survived in life.
 4:13	The wife of Enosh was Noah, his sister.
 4:14	The wife of Cainan was Maolith, his sister.
 4:15	The wife of Mahalalel was Dinah, the daughter of Barachiel, his father's brother. From then on malice began to arise in the world: from the beginning indeed through Adam's disobedience, and then through Cain's fratricide, but now in the times of Jared and onward, sorcery and magic, licentiousness, adultery, and unrighteousness.
+4:18	This one (Enoch) was the first to learn writing and to teach it, and he was deemed worthy of the revelation of divine mysteries.
 4:16	The wife of Jared was Barakah, the daughter of Asuel, his father's brother.
 4:17	and arithmetic and geometry and all wisdom . . .
-4:18	This one (Enoch) was the first to learn writing and to teach it, and he was deemed worthy of the revelation of divine mysteries.
 4:20	The wife of Enoch was Eani, the daughter of Daniel, his father's brother.
 4:23	(Enoch) was caught up into Paradise.
 4:27	The wife of Methuselah was Edna, the daughter of Ezriel, his father's brother.
 4:28	The wife of Lamech was Betenos, the daughter of Barachiel, his father's brother.
 4:31	In the same 930th year Cain also died when his house collapsed upon him; for he too had killed Abel with stones. Therefore, when a year was completed after the death of Adam, he died.
+4:31b	that Cain was killed unintentionally by Lamech; for while building a wall he overturned it upon him, Cain being behind it, who was thus unintentionally killed.
 4:33	The wife of Noah was Emzara, the daughter of Barachiel, his father's brother.
 5:22	The ark of God came to us . . . on the fifth of the fifth month.
 7:1	In this 2251st year . . . Noah planted a vineyard on Mount Lubar in Armenia.
@@ -62,7 +63,7 @@
 10:8	but the devil requested to receive a portion of them for the temptation of humankind,
 10:9	and a tenth of them was given to him by divine command, so as to tempt humankind for the testing of each person's disposition toward God, while the remaining nine parts were cast into the abyss.
 10:18	The wife of Peleg was Dymna, the daughter of Shinar.
-10:21	For 43 years they continued building. The height was 5,433 cubits and two spans; the breadth was 203 bricks; the height of a brick was the third of a brick; {the extent of the one wall was} 13 stadia, {and of the other} 30.
+10:21	For 43 years they continued building. The height was 5,433 cubits and two spans; the breadth was 203 bricks; the height of a brick was the third of a brick; {the extent of the one wall was} 13 stadia, {and of the other} 30. For having built for forty years, with him (Nimrod) especially inciting them to rebellion,
 10:24	they were confounded, having been divided into many languages by God. But he (Nimrod) remained living there and not departing from the tower, ruling over a certain portion of the multitude,
 10:26	upon whom the tower, having fallen by a violent wind . . . by divine judgment struck him down.
 11:1	Reu, having become one hundred and thirty-two years old, fathered Serug.

@@ -41,7 +41,7 @@ def main():
     # A book may survive in several witnesses (1 Enoch is extant in Greek,
     # Ge'ez, Qumran Aramaic and Latin). Print every one that has this chapter,
     # because the places they disagree are the point.
-    LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "latin")
+    LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "syriac", "latin")
     found = covered = False
     for lang in LANGS:
         path = os.path.join(ROOT, "sources", lang, lookup_slug + ".txt")
@@ -97,7 +97,7 @@ def main():
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
 
 
-WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "latin")
+WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "syriac", "latin")
 
 
 def _load(path, chapter):
