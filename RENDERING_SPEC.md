@@ -136,6 +136,31 @@ allowance is a place name with no received English identity at all, where the
 gloss is the only way a reader gets anything — *Beer-lahai-roi — Well of the
 Living One who sees me*. Even there, prefer the note.
 
+## No Bible English
+
+The point of this rendering is that a modern reader gets through it without
+friction. Words nobody says any more cost a beat of attention even when they are
+perfectly understood, and a thousand of those beats is the difference between
+reading and studying.
+
+**Banned outright in the rendered text:** *lest*, *behold*, *unto*, *thee*,
+*thou*, *thy*, *thine*, *ye*, *verily*, *wherefore*, *whence*, *thence*,
+*hither*, *thither*, *peradventure*, *nay*, *yea*, *ere*, *betwixt*, *amongst*,
+*whilst*, *hearken*, *bade*, *wrought*, *albeit*, *abide* (in the sense of
+remain), *in the midst of* (use *among*, *in the middle of*, *inside*).
+
+For *pen*, the Hebrew behind most of the *lest* clauses, use what English
+actually says: *or you will…*, *otherwise…*, *in case…*, *he might…*, or a dash
+and a plain clause.
+
+**Not banned, and not archaism:** plain old words that are still current and are
+doing real work — *flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*, *sojourn*.
+Simplicity is the goal, not blandness. If the source is blunt or strange, stay
+blunt and strange; it is the *translationese* that goes, not the force.
+
+The test is not whether a reader could work the word out. It is whether they
+would ever say it.
+
 ## Versification: follow the English chapter and verse divisions
 
 Where an English Bible tradition exists for a book, **use its chapter and verse
