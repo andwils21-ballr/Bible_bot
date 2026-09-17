@@ -103,14 +103,14 @@
       "title": "Jubilees",
       "slug": "jubilees",
       "chapters": 50,
-      "tier": "secondary"
+      "tier": "witnesses"
     },
     {
       "order": 16,
       "title": "1 Enoch",
       "slug": "1-enoch",
       "chapters": 108,
-      "tier": "secondary"
+      "tier": "witnesses"
     },
     {
       "order": 17,

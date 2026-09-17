@@ -240,6 +240,27 @@ Judith, Wisdom of Solomon, Sirach, Baruch, and the Letter of Jeremiah are tier
 past the end of the Hebrew. If an LXX is ever added, those tiers should be
 raised and this paragraph corrected.
 
+### Tier `witnesses` — 1 Enoch and Jubilees
+
+These two books survive whole in no language. What survives is several partial
+witnesses that disagree with each other, and `source_text.py` prints every one
+that covers the chapter — Greek, Ge'ez, Qumran Aramaic and Latin for 1 Enoch;
+Latin and Greek for Jubilees.
+
+Render from the witnesses, and treat their disagreements as the richest material
+in the book. Where they differ, say so and say how, naming each. Where only one
+covers a chapter, say which, because the reader has no way to know.
+
+Two hard limits. Coverage is partial, so **a chapter with no witness is tier
+`secondary`** — worked from an established translation, with that stated in the
+chapter's first note; `source_text.py` will tell you when this is the case.
+And a claim about the **Ge'ez** is not checkable the way a claim about the
+Hebrew or Greek is. Quote the Ge'ez, report where it differs, and do not build
+an argument on what a Ge'ez word supposedly means.
+
+Provenance and licence for these texts are in `SOURCES.md`. Keep that file with
+them.
+
 ## The depth standard for notes
 
 The notes are the reason this project exists. A rendering without them is just

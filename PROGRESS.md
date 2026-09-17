@@ -20,8 +20,8 @@ Next up: **Exodus 1**
 | 12 | 2 Kings | primary | 0/25 |
 | 13 | 1 Chronicles | primary | 0/29 |
 | 14 | 2 Chronicles | primary | 0/36 |
-| 15 | Jubilees | secondary | 0/50 |
-| 16 | 1 Enoch | secondary | 0/108 |
+| 15 | Jubilees | witnesses | 0/50 |
+| 16 | 1 Enoch | witnesses | 0/108 |
 | 17 | Ezra | primary | 0/10 |
 | 18 | Nehemiah | primary | 0/13 |
 | 19 | Ezra Sutuel | secondary | 0/16 |

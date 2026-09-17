@@ -38,7 +38,12 @@ def main():
     offset = (book or {}).get("source_offset", 0)
     lookup_chapter = str(int(chapter) + offset)
 
-    for lang in ("hebrew", "greek"):
+    # A book may survive in several witnesses (1 Enoch is extant in Greek,
+    # Ge'ez, Qumran Aramaic and Latin). Print every one that has this chapter,
+    # because the places they disagree are the point.
+    LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "latin")
+    found = covered = False
+    for lang in LANGS:
         path = os.path.join(ROOT, "sources", lang, lookup_slug + ".txt")
         if not os.path.exists(path):
             continue
@@ -49,18 +54,28 @@ def main():
                 ch, _, vs = ref.partition(":")
                 if ch == lookup_chapter:
                     rows.append((int(vs), text.rstrip("\n")))
-        if not rows:
-            print(f"'{slug}' chapter {chapter} is BEYOND the {lang} source "
-                  f"(which ends at chapter {last_chapter(path)}).")
-            print("This chapter exists only in Greek/other traditions that are "
-                  "not in sources/.\nTreat it as tier 'secondary': work from "
-                  "established English translations,\nnever from memory, and "
-                  "say so in the first note of the chapter.")
-            return
         label = f"{lookup_slug} {lookup_chapter}" if offset else f"{slug} {chapter}"
+        if not rows:
+            print(f"# {label} — {lang}: this chapter is not extant in this "
+                  f"witness (it covers chapter {last_chapter(path)} at most).")
+            print()
+            found = True
+            continue
         print(f"# {label} — {lang} source")
-        for vs, text in rows:
+        for vs, text in sorted(rows):
             print(f"{vs}\t{text}")
+        print()
+        found = True
+        covered = True
+    if covered:
+        return
+    if found:
+        # Witness files exist for this book, but none of them reaches this
+        # chapter. That is the secondary case, and the session needs telling.
+        print("NO WITNESS COVERS THIS CHAPTER.")
+        print("Per RENDERING_SPEC.md treat it as tier 'secondary': work from an\n"
+              "established English translation, never from memory, and say so in\n"
+              "the first note of the chapter.")
         return
 
     books = json.load(open(os.path.join(ROOT, "manifest.json"),

@@ -117,7 +117,7 @@
    "title": "Jubilees",
    "slug": "jubilees",
    "chapters": 50,
-   "tier": "secondary",
+   "tier": "witnesses",
    "done": 0
   },
   {
@@ -125,7 +125,7 @@
    "title": "1 Enoch",
    "slug": "1-enoch",
    "chapters": 108,
-   "tier": "secondary",
+   "tier": "witnesses",
    "done": 0
   },
   {
