@@ -15,6 +15,13 @@ on the date in question, and label it. Tool output and logs come back in UTC;
 convert before showing him. `TZ=America/Chicago date -d "<utc timestamp>"` handles
 DST correctly.
 
+## If you are a fresh session picking this up
+
+Read **`HANDOFF.md`** first. It carries Andrew's editorial rules as settled in
+conversation, the technical facts that cost real time to learn, and how to
+recreate the scheduled Routine. Nothing about this project lives in a model's
+memory; it is all in this repo.
+
 ## Before writing anything
 
 Read `RENDERING_SPEC.md` in full. It is the style contract — the voice, the file

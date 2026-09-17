@@ -67,6 +67,73 @@ The prompt to give it is in `ROUTINE_PROMPT.md`.
   means the research stopped early — go finish it.
 - **Times in Central, never UTC.**
 
+## Andrew's editorial rules
+
+These were settled in conversation, not all of them are in the spec, and
+breaking one wastes his time. They are listed in the order they cost the most.
+
+1. **Never explain our own decisions in a note.** No "English cannot carry
+   this", no "this rendering chose", no "we changed it because". Write for a
+   reader who will never see the curtain. Record the reasoning in the commit
+   message or in `NOTES_FOR_ANDREW.md` instead.
+2. **A change that only clarifies the story does not earn a note.** Notes are
+   for things that change what a reader *understands*. Rewording a confusing
+   verse is just rewording; it needs no footnote.
+3. **Length is not the test — value is.** Andrew is fine with a long note if it
+   serves a purpose or is genuinely interesting. He is not fine with a short one
+   that carries nothing. No single note should be exceptionally long unless it
+   matters to the overarching story of the Bible.
+4. **Capital Lord means God. Lowercase lord means a human of rank.** There is no
+   ambiguity to preserve; pick one and be consistent.
+5. **No Bible English** — the banned list is in `RENDERING_SPEC.md`. Two
+   deliberate exceptions, already argued and settled: keep **"and it came to
+   pass"** and **"and here"**. Do not strip them.
+6. **Versification follows the English/KJV division** so a reader can set this
+   beside a King James Bible.
+7. **When he asks a question, the deliverable is the answer.** He is often
+   diagnosing or thinking out loud. Report the finding and stop. Do not apply a
+   fix until he asks for one.
+8. **Default is: you edit and push, he reviews the diff.** He does not want
+   before/after code blocks pasted into chat.
+9. **Times in Central, never UTC.**
+10. **Label what is a note in the project and what is just chat.** He asked for
+    this explicitly. Keep the two visibly separate in every report.
+
+## Hard-won technical facts
+
+- **The Ge'ez English in `sources/english/` is the OCP's own scholarly
+  translation, not ours.** We do not translate Ge'ez and must never claim to.
+  Quote it, report where it differs from the Greek or Aramaic, and do not build
+  an argument on what a Ge'ez word supposedly means.
+- **The OCP XML splits one verse across several `<unit>` elements.** A verse is
+  every unit's `option="0"` reading joined in order. Reading only the first unit
+  silently truncates about two thirds of them mid-sentence, with no error. That
+  bug produced a whole set of false "the Ethiopic drops this" notes before it
+  was caught. `fetch_ocp.py` does it correctly now — do not rewrite it casually.
+- **`sources/swete-src/` holds the entire Septuagint, not just the
+  deuterocanon.** Any Greek Old Testament verse can be looked up from those two
+  CSVs. That is how the Genesis 11 Kainan and Genesis 46 seventy-five findings
+  were confirmed rather than asserted.
+- **Swete follows the Greek verse division.** In Exodus it runs four verses out
+  of step with the Hebrew around chapter 7/8. See `NOTES_FOR_ANDREW.md`.
+- **The network in this container reaches GitHub and nothing else.**
+  archive.org, crosswire, ebible, wikisource and pseudepigrapha.org all fail.
+  Clone public repos over https; that works.
+- **Check a licence before you build on a source.** Andrew does not want
+  share-alike or non-commercial obligations. `SOURCES.md` records four sources
+  examined and rejected, and why.
+
+## The most expensive lesson
+
+Three other AI models were asked, independently, to translate the same Ge'ez
+passage. All three agreed with each other and with us. All four of us were
+wrong, because the file every one of us was reading had been truncated by the
+parser bug above.
+
+**Independent opinions are only independent if they do not share an input.**
+Before commissioning an outside check on a source, test the source itself. The
+thing that actually caught it was one command counting Ge'ez full stops.
+
 ## What is not automated
 
 Building the `.docx` files (`python3 build_docx.py`) and sending them to Andrew.
