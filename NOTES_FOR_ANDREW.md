@@ -61,3 +61,23 @@ so `books/2-exodus/08.md` has 32 verses while `source_text.py exodus 8` prints
 
 Worth knowing this will recur: the same offset affects Hebrew/English numbering
 in several places later (Psalms superscriptions, Malachi, Joel).
+
+## The Septuagint is now a second witness for Genesis and Exodus
+
+Added 2026-09-17, after checking the rendered work against it.
+
+`sources/greek/genesis.txt` (1,530 verses) and `sources/greek/exodus.txt`
+(1,172 verses) now sit beside the Hebrew, so `source_text.py genesis 11`
+prints both and the divergence detector runs on the pair. Swete's Greek was
+already in the repo for the deuterocanon; these two books cost nothing but
+a line in `fetch_swete.py`.
+
+**One caveat that will bite a render session.** Swete follows the *Greek*
+verse division, which parts from the Hebrew in places. Exodus is the known
+one: Hebrew 7:26-29 is Greek and English 8:1-4, so for that chapter the two
+printed sources are four verses out of step with each other. The helper
+prints both as they stand and does not try to align them.
+
+What the check turned up is in the commit; the short version is that four
+notes were strengthened, one was wrong and is fixed, and three new notes
+were added at Genesis 1:14, 11:13 and 46:27.

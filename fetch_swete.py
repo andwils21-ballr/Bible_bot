@@ -21,6 +21,11 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 # Susanna and Bel are printed as separate books; in this canon they are
 # Daniel 13 and 14, so they are written into daniel.txt at that offset.
 BOOKS = {
+    # The Greek of books we also have in Hebrew, for comparison. Swete follows
+    # the Greek verse division, which parts from the Hebrew in places -- see
+    # NOTES_FOR_ANDREW.md on Exodus 7/8.
+    "Gen": ("genesis", 0),
+    "Exo": ("exodus", 0),
     "Tob": ("tobit", 0),
     "Jdt": ("judith", 0),
     "Wis": ("wisdom-of-solomon", 0),
