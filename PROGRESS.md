@@ -1,6 +1,6 @@
 # Progress
 
-**68 of 1554 chapters rendered (4.4%).**
+**74 of 1554 chapters rendered (4.8%).**
 
 Next up: **Exodus 13**
 
@@ -21,7 +21,7 @@ Next up: **Exodus 13**
 | 13 | 1 Chronicles | primary | 0/29 |
 | 14 | 2 Chronicles | primary | 0/36 |
 | 15 | Jubilees | witnesses | 0/50 |
-| 16 | 1 Enoch | witnesses | 6/108 |
+| 16 | 1 Enoch | witnesses | 12/108 |
 | 17 | Ezra | primary | 0/10 |
 | 18 | Nehemiah | primary | 0/13 |
 | 19 | Ezra Sutuel | witnesses | 0/16 |
