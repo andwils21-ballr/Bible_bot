@@ -243,11 +243,19 @@ Obey it. A missing source is never a licence to render from memory — it is the
 instruction to work from established translations (tier `secondary`, and say so
 in the notes) or to write the stub (tier `none`).
 
-Known gaps, as of this writing: there is no Septuagint in `sources/`, so Tobit,
-Judith, Wisdom of Solomon, Sirach, Baruch, and the Letter of Jeremiah are tier
-`secondary`, and so are Psalm 151, Daniel 13-14, and Esther 11-16, which lie
-past the end of the Hebrew. If an LXX is ever added, those tiers should be
-raised and this paragraph corrected.
+Swete's Septuagint was added on 2026-09-17, which closed the gaps this
+paragraph used to list. Tobit, Judith, Wisdom of Solomon, Sirach, Baruch and the
+Letter of Jeremiah are now tier `primary`, rendered from the Greek. Psalm 151
+and Daniel 13-14 (Susanna, Bel and the Dragon) have Greek in `sources/greek/`
+under those coordinates. Greek Esther is there too, but Swete prints its ten
+chapters with the Additions folded in unlettered, so **Esther 11-16 remain tier
+`secondary`** until that mapping is worked out.
+
+Still without any source, and still tier `secondary` or `none`: 1-3 Meqabyan,
+Josippon, and the eight broader-canon books (82-89). No critical digital edition
+of these in Ge'ez has been found. Do not accept an OCR'd text with synthesised
+verse numbers as a source for them -- one was examined and rejected on
+2026-09-17; see SOURCES.md.
 
 ### Tier `witnesses` — 1 Enoch and Jubilees
 

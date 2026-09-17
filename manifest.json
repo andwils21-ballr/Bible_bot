@@ -138,14 +138,14 @@
       "title": "Tobit",
       "slug": "tobit",
       "chapters": 14,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 21,
       "title": "Judith",
       "slug": "judith",
       "chapters": 16,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 22,
@@ -224,14 +224,14 @@
       "title": "Wisdom of Solomon",
       "slug": "wisdom-of-solomon",
       "chapters": 19,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 33,
       "title": "Sirach",
       "slug": "sirach",
       "chapters": 51,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 34,
@@ -259,14 +259,14 @@
       "title": "Baruch",
       "slug": "baruch",
       "chapters": 5,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 38,
       "title": "Letter of Jeremiah",
       "slug": "letter-of-jeremiah",
       "chapters": 1,
-      "tier": "secondary"
+      "tier": "primary"
     },
     {
       "order": 39,

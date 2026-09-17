@@ -14,6 +14,41 @@ Public domain.
 `sources/greek/` holds the **SBL Greek New Testament**, from
 [morphgnt](https://github.com/morphgnt/sblgnt).
 
+## Swete's Septuagint (the deuterocanon)
+
+**H. B. Swete, THE OLD TESTAMENT IN GREEK ACCORDING TO THE SEPTUAGINT**
+(Cambridge University Press): Vol. I 4th ed. 1909, Vol. II 3rd ed. 1907,
+Vol. III 4th ed. 1912. **Public domain by age.** Swete died in 1917 and all
+three volumes were published before 1929.
+
+The digital transcription came from `github.com/eliranwong/LXX-Swete-1930`,
+which links the scanned volumes it was keyed from. That repository carries a
+GPL-3 file, which is a software licence; what this project takes from it is the
+Greek words and their verse numbers -- that is Swete's public-domain text, not
+the morphology, transliteration or gloss layers the digitisers added, none of
+which are used here.
+
+`fetch_swete.py` does the conversion, from the two CSVs kept in
+`sources/swete-src/`:
+
+    python3 fetch_swete.py sources/swete-src
+
+## Sources examined and rejected
+
+- **LXX-Rahlfs-1935** (`eliranwong/LXX-Rahlfs-1935`) -- CC BY-NC-SA 4.0:
+  non-commercial *and* share-alike, and derived from CCAT data that requires a
+  signed user declaration. Not used.
+- **`sleeptillseven/LXX`**, **`nathans/lxx-swete`**, **`LPettay/ethiopian-bible`**
+  -- CC BY-SA (share-alike). Not used.
+- **A Ge'ez Tewahedo text set** found in a public-domain-licensed repository was
+  examined for the Meqabyan books, Ge'ez Jubilees and Ge'ez 1 Enoch, and
+  **rejected**. Its own headers record it as `ocr-tier3` quality with
+  *"Parser chapter labels discarded; verses assigned sequentially to canonical
+  chapters"* -- the verse numbers are synthesised, not read from the page.
+  Sampling also showed the text to be Amharic rather than Ge'ez, carrying
+  column artifacts from a scanned parallel Bible. A source whose references are
+  manufactured is worse than no source, because it reads as authoritative.
+
 ## How the OCP witnesses are built
 
 The Online Critical Pseudepigrapha publishes each book as XML in which a single
