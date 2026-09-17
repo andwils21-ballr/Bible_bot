@@ -169,8 +169,17 @@ and are not substance-less — each renders a Hebrew formula that is doing work:
 
 Do not strip these in the name of this section. They were considered and kept.
 
+**Ruled out after being tried:** *sojourn* and its family. It is the traditional
+word for *gur*, to live somewhere as a resident outsider, and it is opaque to a
+reader who has not met it in a Bible. Use **live as a foreigner**, **a
+foreigner**, or **the years I have lived as a foreigner** — accurate to what the
+word means and readable at speed. Likewise *after its kind* for *le-mino*, now
+**of every kind**; and *the bone of that same day* for *be-etsem ha-yom*, an
+idiom where *etsem*, bone, means the very substance of a thing — now **on that
+very day**.
+
 **Also not archaism:** plain old words still in current use and doing real work —
-*flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*, *sojourn*. Simplicity is
+*flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*. Simplicity is
 the goal, not blandness. If the source is blunt or strange, stay blunt and
 strange; it is the *translationese* that goes, not the force.
 
