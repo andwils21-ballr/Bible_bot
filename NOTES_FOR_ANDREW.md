@@ -103,3 +103,25 @@ short or a passage looks missing, check the verse on either side before
 concluding anything. Two of the three false alarms in this project so far have
 been a unit or verse boundary, not a missing text. A single verse printed alone
 is not evidence that anything is absent.
+
+## Exodus 21:22-23 renders the Greek, not the Hebrew — the first such departure
+
+Added 2026-09-18, at Andrew's instruction.
+
+Everywhere else in Genesis and Exodus the body text renders the **Hebrew** and
+the Greek appears only in the notes. This verse is the exception, and it is
+deliberate, so it should not be "corrected" by a later session.
+
+- **Hebrew**: the test is *ason*, harm. No *ason* → a fine; *ason* → life for
+  life. The Hebrew never says whose harm, the woman's or the child's.
+- **Greek**: the test is whether the child came out *mē exeikonismenon*, **not
+  yet formed**. Unformed → a fine; formed → life for life.
+
+The two are not versions of each other: one asks what damage was done, the
+other how far along the pregnancy was. Andrew chose the Greek.
+
+**The precedent this sets, and its limit.** It does not make the rendering
+"whichever witness reads better." The rule stays: render the Hebrew, note the
+Greek. A departure like this one happens only when Andrew asks for it by verse,
+and every instance gets a paragraph here. If a future session finds a second
+one undocumented, that is drift, not policy.
