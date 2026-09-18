@@ -125,3 +125,22 @@ other how far along the pregnancy was. Andrew chose the Greek.
 Greek. A departure like this one happens only when Andrew asks for it by verse,
 and every instance gets a paragraph here. If a future session finds a second
 one undocumented, that is drift, not policy.
+
+## Swete's Greek reorders and shortens the tabernacle chapters
+
+Added 2026-09-18, while rendering Exodus 28.
+
+Hebrew Exodus 28 has 43 verses; Swete's Greek has 39, and the contents are not
+in the same order — Greek 28:30, for instance, is the gold bells and
+pomegranates, which is Hebrew 28:34. This is not the one-verse offset seen at
+Exodus 7/8 and 21/22. The Greek of the tabernacle section (roughly chapters
+25-40) is a genuinely different edition: shorter, differently arranged, and in
+places missing material the Hebrew has.
+
+**What this means for a render session.** Do not cite a Greek verse number in
+these chapters without checking what is actually at that number. `source_text.py`
+prints both texts as they stand and does not align them, so the two columns will
+not line up. Exodus 28 was rendered from the Hebrew with no Greek claims made,
+which is the safe default here. Where a Greek reading is worth a note in
+chapters 25-40, quote the Greek words and say where they sit, rather than
+giving a verse reference that will not check out.
