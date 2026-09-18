@@ -92,6 +92,14 @@ breaking one wastes his time. They are listed in the order they cost the most.
    over the Hebrew silently, or smooth a verse the source leaves rough. The
    test is *trivially awkward by today's standards* versus *genuinely hard in
    the source*. Fix the first, keep the second and note it.
+   **And never trade a word that carries weight for a flatter one.** Andrew's
+   ruling, 2026-09-18, on *la-tohar* at Exodus 24:10: "purity carries a FEELING
+   with it. Clearness is just something you see. I don't want to take the
+   feeling out of words. That's what strips the authenticity." Both were
+   defensible renderings of the same noun; the flatter one was wrong anyway.
+   The pass removes **friction**, never **force**. If the plainer candidate is
+   colder, drier, or more clinical than the source word, it is the wrong
+   candidate — go find a third one.
    **Then give Andrew a before/after table** — one row per change, for every
    chapter, in the reply. No table, no confidence that anything was checked.
 1. **Never explain our own decisions in a note.** No "English cannot carry
