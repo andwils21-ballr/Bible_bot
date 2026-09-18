@@ -81,3 +81,25 @@ prints both as they stand and does not try to align them.
 What the check turned up is in the commit; the short version is that four
 notes were strengthened, one was wrong and is fixed, and three new notes
 were added at Genesis 1:14, 11:13 and 46:27.
+
+## Genesis 35:21/22 — another Swete versification offset, and a near-miss
+
+Added 2026-09-18.
+
+While replacing "concubine" I read Swete's Genesis 35:22 as *And the sons of
+Jacob were twelve* and nothing else, and reported to Andrew that the Greek had
+dropped the Reuben and Bilhah incident. **That was wrong.** Checking the raw
+Swete word index (words 22100-22127) shows the incident is there in full — it
+is versified as the tail of **35:21**, not 35:22. Nothing was lost in
+`fetch_swete.py`; the offset is Swete's own.
+
+The Greek in fact has **more** than the Hebrew here. Hebrew 35:22 stops at
+*And Israel heard.* Swete adds *kai ponēron ephanē enantion autou* — **and it
+appeared evil before him**. The Hebrew records the hearing and refuses to
+record the reaction; the Greek supplies it.
+
+**The lesson, and it is the OCP truncation lesson again:** when a verse looks
+short or a passage looks missing, check the verse on either side before
+concluding anything. Two of the three false alarms in this project so far have
+been a unit or verse boundary, not a missing text. A single verse printed alone
+is not evidence that anything is absent.
