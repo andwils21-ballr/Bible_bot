@@ -72,6 +72,28 @@ The prompt to give it is in `ROUTINE_PROMPT.md`.
 These were settled in conversation, not all of them are in the spec, and
 breaking one wastes his time. They are listed in the order they cost the most.
 
+0. **The readability pass is now part of rendering, not a later round.**
+   Added 2026-09-18, because catching these by hand was eating his evenings.
+   After the chapter is written and before it is committed, read it once more
+   as an ordinary English reader and hunt for exactly two things:
+   - **Cognate-accusative literalism** — *boiled a boiling*, *a going-up*,
+     *come from coming to*, *the lives of Sarah were*. Hebrew doubles a verb
+     with its own noun constantly; English does not, and it reads as broken.
+     Render it as the plain verb and put the doubling in the note.
+   - **A preposition or idiom carried over word for word** — *opposite his
+     wife*, *from before the face of*, *press for me with*, *the silver of the
+     field*, *possess the gate of*, *by the neck*. Ask what the phrase is
+     actually doing, then say that.
+   Also: words no one says (*reprove*, *concubine*, *tamarisk* with no noun
+   after it); a noun that sounds childish (*stuff*); an elliptical Hebrew
+   sentence left elliptical in English with no note; a term rendered one way
+   in one chapter and another way elsewhere.
+   **What the pass must never do:** flatten a real difficulty, adopt the Greek
+   over the Hebrew silently, or smooth a verse the source leaves rough. The
+   test is *trivially awkward by today's standards* versus *genuinely hard in
+   the source*. Fix the first, keep the second and note it.
+   **Then give Andrew a before/after table** — one row per change, for every
+   chapter, in the reply. No table, no confidence that anything was checked.
 1. **Never explain our own decisions in a note.** No "English cannot carry
    this", no "this rendering chose", no "we changed it because". Write for a
    reader who will never see the curtain. Record the reasoning in the commit
