@@ -13,6 +13,17 @@ A close rendering of the Ethiopian Orthodox Tewahedo canon into English — 89
 books, 1,554 chapters — with notes on what English normally loses. Built a few
 chapters at a time by a scheduled Routine that fires every five hours.
 
+## Genesis is closed
+
+Andrew signed off on **Genesis 1-50** on 2026-09-21, after reading it
+through and working two rounds of fixes with it open in front of him. Treat
+the book as finished. Do not run the readability pass over it again, do not
+"improve" its wording, and do not rewrite its notes on your own initiative.
+Fix it only when he asks, or when something in it is provably wrong - a
+mistranslation, a false claim in a note, a broken cross-reference.
+
+He may reopen it himself once the whole canon is drafted. That is his call.
+
 ## Where the state lives
 
 Nowhere but this repo. There is no memory to restore.
