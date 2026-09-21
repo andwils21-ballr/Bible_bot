@@ -140,11 +140,23 @@ function pager(d,cur){
     ? `<a class="${cls}" href="#/${slug}/${c.n}"><small>${label}</small>`+
       `<b>${title} ${c.n}</b></a>`
     : '';
+  const sup=next?null:(d.supplements||[])[0];   // past the last chapter: the chart
   return '<div class="pager">'+
     cell(prev,'pv','Previous')+
     `<a class="up" href="#/${slug}"><small>All</small><b>${title}</b></a>`+
-    cell(next,'nx','Next')+
+    (sup?`<a class="nx" href="#/${slug}/s${sup.n}"><small>Next</small>`+
+         `<b>${sup.title}</b></a>`
+        :cell(next,'nx','Next'))+
     '</div>';
+}
+
+function nextStop(slug,ch){          // where "keep going" goes when a chapter ends
+  const d=cache[slug]; if(!d) return null;
+  const list=d.chapters, i=list.findIndex(c=>String(c.n)===String(ch));
+  if(i<0) return null;
+  if(list[i+1]) return `#/${slug}/${list[i+1].n}`;
+  const s=(d.supplements||[])[0];
+  return s?`#/${slug}/s${s.n}`:null;   // no next chapter and no chart: stop
 }
 
 function chips(d,cur){
@@ -187,7 +199,12 @@ async function route(){
     const s=(d.supplements||[]).find(x=>'s'+x.n===ch);
     view.innerHTML=chips(d,ch)+
       (s?`<div class="supp">${s.html}</div>`:'<p class="stub">Not found.</p>')+
-      `<div class="pager"><a class="up" href="#/${slug}">`+
+      `<div class="pager">`+
+      (d.chapters.length
+        ? `<a class="pv" href="#/${slug}/${d.chapters[d.chapters.length-1].n}">`+
+          `<small>Previous</small><b>${d.book.title} `+
+          `${d.chapters[d.chapters.length-1].n}</b></a>` : '')+
+      `<a class="up" href="#/${slug}">`+
       `<small>All</small><b>${d.book.title}</b></a></div>`;
     window.scrollTo(0,0); stop(); P.q=[]; bar.classList.remove('on');
     say('last','/'+slug+'/'+ch);
@@ -234,9 +251,9 @@ function speakAt(n){
   if(!P.on) return;
   if(n>=P.q.length){                       // chapter finished
     const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
-    if(cbNext.checked && slug && ch){
-      location.hash=`#/${slug}/${Number(ch)+1}`;   // route() restarts playback
-    } else stop();
+    const nx=(cbNext.checked && slug && ch)?nextStop(slug,ch):null;
+    if(nx) location.hash=nx;                       // route() restarts playback
+    else stop();
     return;
   }
   P.i=n; const chunk=P.q[n];
