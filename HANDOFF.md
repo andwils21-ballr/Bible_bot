@@ -17,10 +17,17 @@ chapters at a time by a scheduled Routine that fires every five hours.
 
 Andrew signed off on **Genesis 1-50** on 2026-09-21, after reading it
 through and working two rounds of fixes with it open in front of him. Treat
-the book as finished. Do not run the readability pass over it again, do not
-"improve" its wording, and do not rewrite its notes on your own initiative.
-Fix it only when he asks, or when something in it is provably wrong - a
-mistranslation, a false claim in a note, a broken cross-reference.
+the book as finished.
+
+Rule 0's readability pass is part of rendering a chapter and never sweeps
+back over finished books, so nothing in the normal cycle touches Genesis
+anyway. This section is about your own initiative: do not reopen it to
+"improve" its wording, re-pass it, or rewrite its notes. Fix it only when he
+asks, or when something in it is provably wrong - a mistranslation, a false
+claim in a note, a broken cross-reference.
+
+A whole-book pass over already-finished chapters happens only when he asks
+for one, the way he asked for Genesis 26-50 on 2026-09-18.
 
 He may reopen it himself once the whole canon is drafted. That is his call.
 
