@@ -14,8 +14,10 @@ for b in books:
     folder = os.path.join(ROOT, "books", f"{b['order']}-{b['slug']}")
     done = 0
     if os.path.isdir(folder):
+        # Only numbered chapter files count. `00.md` is a stub and any file
+        # not starting with a digit is a supplement (a chart or table).
         done = len([f for f in os.listdir(folder)
-                    if f.endswith(".md") and f != "00.md"])
+                    if f.endswith(".md") and f[0].isdigit() and f != "00.md"])
     done_total += done
     all_total += b["chapters"]
     if b["tier"] == "none":

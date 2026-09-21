@@ -142,12 +142,22 @@ def main():
     rail = []
     for book in manifest["books"]:
         folder = os.path.join(BOOKS_DIR, f"{book['order']}-{book['slug']}")
-        chapters = []
+        chapters, supps = [], []
         if os.path.isdir(folder):
             for name in sorted(os.listdir(folder)):
                 if not name.endswith(".md"):
                     continue
                 meta, body = parse_chapter(os.path.join(folder, name))
+                if meta.get("kind") == "supplement":
+                    # A chart or table that belongs to this book and sits after
+                    # its last chapter. The body is trusted HTML from the repo,
+                    # passed through as-is; its CSS is scoped under .supp.
+                    supps.append({
+                        "n": int(meta.get("order", 1)),
+                        "title": meta.get("title", ""),
+                        "html": body.strip(),
+                    })
+                    continue
                 chapters.append({
                     "n": int(meta.get("chapter", 0)),
                     "title": meta.get("title", ""),
@@ -156,9 +166,11 @@ def main():
                     "speech": to_speech(body),
                 })
             chapters.sort(key=lambda c: c["n"])
+            supps.sort(key=lambda c: c["n"])
         with open(os.path.join(DOCS, "data", f"{book['slug']}.json"), "w",
                   encoding="utf-8") as f:
-            json.dump({"book": book, "chapters": chapters}, f, ensure_ascii=False)
+            json.dump({"book": book, "chapters": chapters,
+                       "supplements": supps}, f, ensure_ascii=False)
         rail.append({**book, "done": len([c for c in chapters
                                           if c["status"] == "rendered"])})
 
@@ -257,6 +269,9 @@ SHELL = r"""<!doctype html>
   #pvoice{max-width:44vw;text-overflow:ellipsis}
   #pvoicewrap[hidden]{display:none}
   .chips a.last{outline:2px solid var(--accent);outline-offset:1px}
+  .chips a.sup{min-width:0;font-style:italic}
+  .supp{margin:0 0 30px}
+  .supp img{max-width:100%}
   a.resume{display:inline-block;padding:11px 16px;border-radius:8px;
     background:var(--accent);color:#fff;text-decoration:none;font-weight:600}
   p.v{cursor:pointer}
@@ -325,12 +340,17 @@ function chips(d,cur){
   if(!d.chapters.length) return '';
   const last=(say('last')||'').split('/');            // #/slug/ch
   const lastSlug=last[1], lastCh=last[2];
-  return '<div class="chips">'+d.chapters.map(c=>{
+  const nums=d.chapters.map(c=>{
     const here = c.n==cur ? ' on' : '';
     const seen = (d.book.slug===lastSlug && String(c.n)===lastCh) ? ' last' : '';
     return `<a href="#/${d.book.slug}/${c.n}" class="${here}${seen}">`+
            `${c.status==='need_source'?'—':c.n}</a>`;
-  }).join('')+'</div>';
+  }).join('');
+  const sups=(d.supplements||[]).map(s=>{
+    const id='s'+s.n, here = id===String(cur) ? ' on' : '';
+    return `<a href="#/${d.book.slug}/${id}" class="sup${here}">${s.title}</a>`;
+  }).join('');
+  return '<div class="chips">'+nums+sups+'</div>';
 }
 async function route(){
   const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
@@ -350,6 +370,16 @@ async function route(){
     view.innerHTML=`<h1>${d.book.title}</h1><p class="lede">`+
       (d.chapters.length?`${d.chapters.length} of ${d.book.chapters} chapters`
                         :'Not yet begun.')+'</p>'+chips(d);
+    return;
+  }
+  if(/^s\d+$/.test(ch)){                              // a supplement, not a chapter
+    const s=(d.supplements||[]).find(x=>'s'+x.n===ch);
+    view.innerHTML=chips(d,ch)+
+      (s?`<div class="supp">${s.html}</div>`:'<p class="stub">Not found.</p>')+
+      `<div class="pager"><a class="up" href="#/${slug}">`+
+      `<small>All</small><b>${d.book.title}</b></a></div>`;
+    window.scrollTo(0,0); stop(); P.q=[]; bar.classList.remove('on');
+    say('last','/'+slug+'/'+ch);
     return;
   }
   const c=d.chapters.find(x=>x.n==ch);

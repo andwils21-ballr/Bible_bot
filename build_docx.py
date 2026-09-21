@@ -61,10 +61,16 @@ def build(book):
 
     doc = Document()
     setup(doc, book["title"])
-    for idx, name in enumerate(files):
+    first = True
+    for name in files:
         meta, body = parse_chapter(os.path.join(folder, name))
-        if idx:
+        if meta.get("kind") == "supplement":
+            # A chart. Its body is HTML for the website; the printed edition
+            # needs its own layout for it, which does not exist yet.
+            continue
+        if not first:
             doc.add_page_break()
+        first = False
         prose, notes = split_notes(body)
         for block in re.split(r"\n\s*\n", prose):
             block = block.strip()
