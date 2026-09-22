@@ -279,3 +279,33 @@ because the scheduled cycle cannot wait on a decision and the whole chapter turn
 the word. If Andrew picks a different rendering it is a mechanical find-and-replace
 across `books/3-leviticus/13.md` and `14.md` plus the two notes that name it, not a
 rewrite. `books/2-exodus/04.md` still reads "diseased" and is still untouched.
+
+## Term drift: to'evah is "abomination" in Genesis and "detestable" in Exodus
+
+Found 2026-09-22 while rendering Leviticus 18, which uses the word four times.
+
+Three different Hebrew words are currently colliding onto two English ones:
+
+| Hebrew | Where | Rendered |
+|---|---|---|
+| *to'evah* | Genesis 43:32, 46:34 | abomination |
+| *to'evah* | Exodus 8:26 | detestable |
+| *sheqets* | Leviticus 11:10-13, 41-43 | detestable |
+
+So *to'evah* has two English words, and one of them is shared with a different
+Hebrew word. Worse: **the note on Exodus 8:26 misquotes our own Genesis.** It
+prints *"for that is detestable to Egypt (43:32)"*, but `books/1-genesis/43.md`
+actually reads **abomination**. That is a factual error in a note, not a style
+preference.
+
+Leviticus 18 uses **"abomination"** for *to'evah*, matching Genesis and keeping it
+distinct from *sheqets*. Exodus 8:26 was **left untouched** — fixing it means
+choosing which word wins, and that is the same kind of decision as the pending
+*tsara'at* ruling, so it should not be made unilaterally on a scheduled cycle.
+
+Andrew's options:
+1. Harmonize Exodus 8:26 to "abomination" (two words in the verse, two in the note).
+2. Leave the verse and fix only the misquote in the note.
+3. Pick a third word for *to'evah* everywhere.
+
+Genesis is signed off, so option 3 would need his explicit go-ahead to touch it.

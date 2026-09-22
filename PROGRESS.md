@@ -1,14 +1,14 @@
 # Progress
 
-**135 of 1554 chapters rendered (8.7%).**
+**139 of 1554 chapters rendered (8.9%).**
 
-Next up: **Leviticus 18**
+Next up: **Leviticus 22**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
 | 1 | Genesis | primary | done |
 | 2 | Exodus | primary | done |
-| 3 | Leviticus | primary | 17/27 |
+| 3 | Leviticus | primary | 21/27 |
 | 4 | Numbers | primary | 0/36 |
 | 5 | Deuteronomy | primary | 0/34 |
 | 6 | Joshua | primary | 0/24 |
