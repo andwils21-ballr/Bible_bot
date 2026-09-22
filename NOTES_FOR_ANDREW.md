@@ -144,3 +144,31 @@ not line up. Exodus 28 was rendered from the Hebrew with no Greek claims made,
 which is the safe default here. Where a Greek reading is worth a note in
 chapters 25-40, quote the Greek words and say where they sit, rather than
 giving a verse reference that will not check out.
+
+---
+
+## Leviticus 5/6: the Hebrew and English chapters do not divide at the same place
+
+Found 2026-09-22, before rendering Leviticus 6, by counting verses per chapter
+in `sources/hebrew/leviticus.txt`.
+
+Hebrew Leviticus 5 runs to **26 verses**; English Leviticus 5 stops at **19**.
+Hebrew chapter 6 runs to **23 verses**; English chapter 6 has **30**. The seven
+verses in between are the same text under two different addresses:
+
+| English | Hebrew |
+|---|---|
+| 6:1-7 | 5:20-26 |
+| 6:8-30 | 6:1-23 |
+
+`RENDERING_SPEC.md` says to follow the English/KJV division, so English 6:1 must
+be rendered from Hebrew 5:20, and the Hebrew chapter-6 material starts at
+English 6:8. Getting this wrong would shift the whole chapter by seven verses
+and would not be visible from the English side.
+
+Chapters 3, 4 and 5 are unaffected — Hebrew and English agree verse for verse
+through Leviticus 5:19.
+
+**This is the same class of problem as the Exodus 7/8 and 21/22 offsets.** Check
+the per-chapter verse counts against an English Bible before rendering any
+chapter in a book where an offset is suspected, not after.
