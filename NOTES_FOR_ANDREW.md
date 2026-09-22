@@ -2,7 +2,19 @@
 
 Things found while working that are yours to decide, not mine to change.
 
-## Open: no Septuagint in `sources/` (2026-09-14)
+## RESOLVED 2026-09-17: the Septuagint IS now in `sources/`
+
+**This entry is kept for history. Do not act on it.** Three days after it was
+written, Swete's Septuagint was added (`sources/swete-src/`, 12 MB, the whole
+Greek Old Testament). Tobit, Judith, Wisdom of Solomon, Sirach, Baruch, the
+Letter of Jeremiah, Psalm 151 and Daniel 13-14 are all tier `primary` now and
+are rendered from the Greek. Only Esther 11-16 stayed `secondary`, because
+Swete prints Greek Esther with the Additions folded in unlettered and that
+mapping has not been worked out.
+
+The original entry, as written on 2026-09-14:
+
+### (superseded) Open: no Septuagint in `sources/`
 
 Hebrew (Westminster Leningrad Codex) and the Greek New Testament (SBLGNT) are
 both in `sources/`. No freely-fetchable Septuagint was found, so these are
