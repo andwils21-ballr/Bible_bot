@@ -172,3 +172,29 @@ through Leviticus 5:19.
 **This is the same class of problem as the Exodus 7/8 and 21/22 offsets.** Check
 the per-chapter verse counts against an English Bible before rendering any
 chapter in a book where an offset is suspected, not after.
+
+## Twelve British spellings survive in Genesis and Exodus
+
+Found 2026-09-22 while rendering Leviticus 6-9, by checking the new chapters
+against the rest of the corpus.
+
+The project is overwhelmingly American-spelled: 49 `color`, 35 `favor`, 27
+`neighbor`, 10 `honor`. Against that, twelve stragglers remain across ten
+files, all of them inside notes rather than rendered verses:
+
+| File | Word |
+|---|---|
+| `1-genesis/01.md` | neighbour |
+| `1-genesis/24.md` | defence |
+| `1-genesis/31.md` | honour, defence |
+| `1-genesis/34.md` | honour |
+| `1-genesis/35.md` | favour |
+| `1-genesis/36.md` | honour |
+| `1-genesis/37.md` | colour, favour |
+| `1-genesis/40.md` | favour |
+| `1-genesis/43.md` | favour |
+| `2-exodus/28.md` | honour |
+
+Eleven of the twelve are in Genesis, which Andrew signed off on 2026-09-21, so
+they have been left alone rather than swept up on a scheduled cycle. They are a
+one-command fix whenever he wants it. New chapters use American spelling.
