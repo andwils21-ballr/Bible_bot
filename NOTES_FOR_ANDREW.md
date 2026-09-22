@@ -198,3 +198,76 @@ files, all of them inside notes rather than rendered verses:
 Eleven of the twelve are in Genesis, which Andrew signed off on 2026-09-21, so
 they have been left alone rather than swept up on a scheduled cycle. They are a
 one-command fix whenever he wants it. New chapters use American spelling.
+
+## The Hebrew source drops Masoretically marked letters — including in the Shema
+
+Found 2026-09-22 while rendering Leviticus 11. **This one matters.**
+
+Leviticus 11:42 should read *holekh al gachon*, "goes on its belly" — the word
+that ties the crawling things back to the serpent of Genesis 3:14. The file has
+`גָּח`, missing the vav and the final nun. Checking further turned up a pattern:
+`sources/hebrew/` silently drops letters that the Masoretic apparatus marks as
+visually special (enlarged, suspended), and when the dropped letter is what
+distinguishes the word, the word is truncated or disappears.
+
+Tested against the standard list of enlarged, reduced and suspended letters:
+
+| Reference | Word should be | File has | Marked letter |
+|---|---|---|---|
+| **Deuteronomy 6:4** | **שמע** | **שמ** | **large ayin** |
+| **Deuteronomy 6:4** | **אחד** | **אח** | **large dalet** |
+| Leviticus 11:42 | גחון | גח | large vav |
+| Numbers 27:5 | משפטן | משפט | large nun |
+| Deuteronomy 32:6 | הליהוה | ליהוה | large he |
+| Judges 18:30 | מנשה | *word absent* | suspended nun |
+| Psalm 80:14 | מיער | *word absent* | suspended ayin |
+| Job 38:13 | רשעים | *word absent* | suspended ayin |
+
+**The Shema is damaged in our source.** "Hear, O Israel… the LORD is one" is in
+the file as *shem… echa*. Eight failures found; ten other special letters tested
+came through intact (Genesis 1:1, Leviticus 1:1, Leviticus 13:33 and others), so
+this is not total corruption, and ordinary words are unaffected.
+
+**What this changes about how notes get written:**
+
+1. Never build a note on the exact spelling of a word that carries one of these
+   marks. The Leviticus 11:42 / Genesis 3:14 serpent link is real in the
+   Masoretic text and was **left out of the rendering** because it cannot be
+   checked here.
+2. A rarity count from a consonantal search can undercount by one if the missing
+   instance was a specially-marked word. The counts already published rest on
+   ordinary words, but the caveat is real.
+3. The rendered English is not affected — verse text and word order are intact.
+   This is about what the notes are allowed to claim.
+
+The list of these letters is finite and traditional, about twenty across the
+whole Bible, so the exposure is bounded. A second Hebrew witness would close it.
+`source_text.py` and `sources/` were left alone per the standing rule.
+
+## Terminology decision: tsara'at rendered "blight", and Exodus 4:6 does not match
+
+Made 2026-09-22 while rendering Leviticus 13. **Andrew should rule on this**, because
+it recurs through chapter 14 and into Numbers, 2 Kings and 2 Chronicles.
+
+*Tsara'at* is not leprosy. The chapter legislates for something that turns hair
+white, that can cover a body completely and leave the person **clean** (13:13),
+and that breaks out in wool, linen and leather (13:47-59) and in the plaster of
+a house (14:37). No single illness does all of that, and at Exodus 4:6 it comes
+and goes from Moses' hand inside two verses.
+
+Leviticus 13 renders it **"blight"** — the one ordinary English word that covers
+skin, cloth and masonry without naming a disease, and without flattening the
+dread the Hebrew carries. *Nega* is **"mark"**, from *naga*, to touch.
+
+**The inconsistency:** `books/2-exodus/04.md` already renders *metsora'at* as
+**"diseased"**, and its v6 note explains that it is not modern leprosy. That was
+a good call for a one-word narrative moment, but it does not match "blight", and
+rule 0 lists cross-chapter term drift as something the pass exists to catch.
+
+Exodus 4:6 was **left alone** rather than harmonized, because Andrew's ruling of
+2026-09-21 is that the readability pass applies to newly created chapters only
+and does not sweep back over finished ones. The choice is his:
+
+1. Leave both. "Diseased" in a narrative, "blight" in the law.
+2. Change Exodus 4:6 to "blighted" and trim its note to point at Leviticus 13.
+3. Use something else in both, and Leviticus 13-14 gets rewritten to match.
