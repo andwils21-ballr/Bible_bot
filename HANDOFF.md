@@ -141,8 +141,12 @@ breaking one wastes his time. They are listed in the order they cost the most.
 7. **When he asks a question, the deliverable is the answer.** He is often
    diagnosing or thinking out loud. Report the finding and stop. Do not apply a
    fix until he asks for one.
-8. **Default is: you edit and push, he reviews the diff.** He does not want
-   before/after code blocks pasted into chat.
+8. **Default is: you edit and push, he reviews the diff.** But always include a
+   before/after table in the reply too, one row per change — settled
+   2026-09-22, updating the earlier note that he didn't want these. Keep the
+   commentary short: no explanation needed for a change that's just his own
+   suggestion applied as given. Save the explaining for cases where you
+   corrected, pushed back on, or added something beyond what he asked for.
 9. **Times in Central, never UTC.**
 10. **Label what is a note in the project and what is just chat.** He asked for
     this explicitly. Keep the two visibly separate in every report.
