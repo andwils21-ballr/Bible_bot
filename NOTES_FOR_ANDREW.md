@@ -271,3 +271,11 @@ and does not sweep back over finished ones. The choice is his:
 1. Leave both. "Diseased" in a narrative, "blight" in the law.
 2. Change Exodus 4:6 to "blighted" and trim its note to point at Leviticus 13.
 3. Use something else in both, and Leviticus 13-14 gets rewritten to match.
+
+## Still waiting on the tsara'at ruling
+
+Leviticus 14 was rendered 2026-09-22 using **"blight"**, consistent with chapter 13,
+because the scheduled cycle cannot wait on a decision and the whole chapter turns on
+the word. If Andrew picks a different rendering it is a mechanical find-and-replace
+across `books/3-leviticus/13.md` and `14.md` plus the two notes that name it, not a
+rewrite. `books/2-exodus/04.md` still reads "diseased" and is still untouched.
