@@ -216,6 +216,8 @@ SHELL = r"""<!doctype html>
   nav a .ct{float:right;color:var(--muted);font-size:12px;font-weight:400}
   nav a.pending{color:var(--muted)}
   main{flex:1;min-width:0;padding:44px 6vw 140px;max-width:820px}
+  /* a supplement is a chart, not a reading column - let it have the room */
+  main.wide{max-width:1500px;padding-left:3vw;padding-right:3vw}
   .chips{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 30px}
   .chips a{display:block;min-width:40px;text-align:center;padding:7px 10px;
            border:1px solid var(--rule);border-radius:4px;text-decoration:none;
@@ -366,6 +368,7 @@ function chips(d,cur){
 }
 async function route(){
   const [,slug,ch]=(location.hash||'').replace(/^#/,'').split('/');
+  view.classList.toggle('wide',/^s\d+$/.test(ch||''));   // charts get the full width
   drawRail(slug);
   if(!ch){ stop(); bar.classList.remove('on'); }
   if(!slug){
