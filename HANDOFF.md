@@ -173,7 +173,12 @@ breaking one wastes his time. They are listed in the order they cost the most.
   Clone public repos over https; that works.
 - **Check a licence before you build on a source.** Andrew does not want
   share-alike or non-commercial obligations. `SOURCES.md` records four sources
-  examined and rejected, and why.
+  examined and rejected, and why. Exception: CC BY-SA is allowed for the
+  Ethiopian-only books (Andrew, 2026-09-23).
+- **The Word files carry the charts as pictures.** `build_docx.py` draws each
+  supplement in headless Chromium, so it needs `playwright`. In the cloud
+  container, run it as `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`.
+  `docx/` is gitignored: send the files to Andrew; don't just mention them.
 
 ## The most expensive lesson
 

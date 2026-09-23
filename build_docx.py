@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build one printable .docx per book from the chapter Markdown.
 
-    pip install python-docx
+    pip install python-docx playwright
     python3 build_docx.py            # every book that has chapters
     python3 build_docx.py matthew    # one book by slug
 """
@@ -11,10 +11,14 @@ import re
 import sys
 
 from docx import Document
+from docx.enum.section import WD_ORIENT, WD_SECTION
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt, Inches
 
 from build_site import parse_chapter, split_notes, VERSE_RE
+
+import io
+import struct
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docx")
@@ -51,6 +55,103 @@ def setup(doc, title):
     doc.add_page_break()
 
 
+# Text area of a portrait page (8.5 x 11 less margins) and of a landscape one,
+# each less room for a heading.
+PORTRAIT = (6.2, 8.4)
+LANDSCAPE = (8.7, 5.6)
+CHART_PX = 760   # layout width the chart is drawn at; it reflows to fit
+
+# Where to cut a chart into pages without slicing through a line of text.
+# axis "y" cuts top to bottom inside [lo, hi); axis "x" cuts across one wide
+# element. Each cut backs up from the ideal spot until no text box crosses it.
+CUTS_JS = """([axis, lo, hi, ideal, sel]) => {
+  const root = sel ? document.querySelector(sel) : document.body, boxes = [];
+  const walk = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  while (walk.nextNode()) {
+    if (!walk.currentNode.textContent.trim()) continue;
+    const r = document.createRange(); r.selectNodeContents(walk.currentNode);
+    for (const b of r.getClientRects())
+      boxes.push(axis === "y" ? [b.top + scrollY, b.bottom + scrollY]
+                              : [b.left + scrollX, b.right + scrollX]);
+  }
+  const cuts = [lo];
+  while (hi - cuts[cuts.length - 1] > ideal) {
+    const start = cuts[cuts.length - 1];
+    let v = start + ideal;
+    while (v > start + ideal / 2 && boxes.some(([a, b]) => a < v && b > v)) v -= 2;
+    cuts.push(v);
+  }
+  cuts.push(hi);
+  return cuts;
+}"""
+
+# Elements that scroll sideways on the website (the Table of Nations tree).
+WIDE_JS = """() => [...document.querySelectorAll('.supp *')].filter(e =>
+  e.scrollWidth > e.clientWidth + 5 && getComputedStyle(e).overflowX !== 'visible'
+).map((e, i) => { e.dataset.wide = i; const r = e.getBoundingClientRect();
+  return [i, r.top + scrollY, r.bottom + scrollY]; })"""
+
+
+def chart_slices(html):
+    """Draw a supplement's HTML in a headless browser, light theme, and return
+    it as page-sized PNG slices, each tagged "portrait" or "landscape".
+    Anything that scrolls sideways on the site is printed whole across
+    landscape pages instead of being cut off at the page edge."""
+    from playwright.sync_api import sync_playwright
+    out = []
+    with sync_playwright() as pw:
+        # CHROMIUM_PATH lets a machine point at a browser it already has.
+        browser = pw.chromium.launch(executable_path=os.environ.get("CHROMIUM_PATH"))
+        page = browser.new_page(viewport={"width": CHART_PX, "height": 1000},
+                                device_scale_factor=2, color_scheme="light")
+        page.set_content(f'<body style="margin:0"><div class="supp">{html}</div></body>',
+                         wait_until="load")
+        wide = page.evaluate(WIDE_JS)
+        total = page.evaluate("document.documentElement.scrollHeight")
+        # Portrait runs are the stretches between the wide elements.
+        runs, y = [], 0
+        for i, top, bottom in wide:
+            runs.append(("y", y, top, None))
+            runs.append(("x", 0, 0, i))
+            y = bottom
+        runs.append(("y", y, total, None))
+
+        for axis, lo, hi, i in runs:
+            if axis == "y":
+                if hi - lo < 4:
+                    continue
+                ideal = int(CHART_PX * PORTRAIT[1] / PORTRAIT[0])
+                cuts = page.evaluate(CUTS_JS, ["y", lo, hi, ideal, None])
+                for a, b in zip(cuts, cuts[1:]):
+                    if b - a > 4:
+                        out.append(("portrait", page.screenshot(full_page=True,
+                            clip={"x": 0, "y": a, "width": CHART_PX, "height": b - a})))
+                continue
+            sel = f'[data-wide="{i}"]'
+            el = page.locator(sel)
+            el.evaluate("e => { e.style.overflow = 'visible'; e.style.width = e.scrollWidth + 'px'; }")
+            w = el.evaluate("e => e.scrollWidth")
+            page.set_viewport_size({"width": w + 40, "height": 1000})
+            box = el.bounding_box()
+            ideal = int(box["height"] * LANDSCAPE[0] / LANDSCAPE[1])
+            cuts = page.evaluate(CUTS_JS, ["x", box["x"], box["x"] + w, ideal, sel])
+            for a, b in zip(cuts, cuts[1:]):
+                if b - a > 4:
+                    out.append(("landscape", page.screenshot(full_page=True,
+                        clip={"x": a, "y": box["y"], "width": b - a, "height": box["height"]})))
+        browser.close()
+    return out
+
+
+def set_orientation(doc, landscape):
+    """Start a new section (and so a new page) in the given orientation."""
+    sec = doc.add_section(WD_SECTION.NEW_PAGE)
+    sec.orientation = WD_ORIENT.LANDSCAPE if landscape else WD_ORIENT.PORTRAIT
+    short, long_ = sorted((sec.page_width, sec.page_height))
+    sec.page_width, sec.page_height = (long_, short) if landscape else (short, long_)
+    sec.left_margin = sec.right_margin = Inches(1.15)
+    sec.top_margin = sec.bottom_margin = Inches(1)
+
 def build(book):
     folder = os.path.join(ROOT, "books", f"{book['order']}-{book['slug']}")
     if not os.path.isdir(folder):
@@ -62,11 +163,14 @@ def build(book):
     doc = Document()
     setup(doc, book["title"])
     first = True
+    supps = []
     for name in files:
         meta, body = parse_chapter(os.path.join(folder, name))
         if meta.get("kind") == "supplement":
-            # A chart. Its body is HTML for the website; the printed edition
-            # needs its own layout for it, which does not exist yet.
+            # A chart. Its body is HTML for the website, so the printed edition
+            # carries a picture of it, one page per slice, after the chapters.
+            supps.append(meta.get("title", "Chart"))
+            supps.append(body)
             continue
         if not first:
             doc.add_page_break()
@@ -101,6 +205,22 @@ def build(book):
                     add_rich(par, para)
                     for run in par.runs:
                         run.font.size = Pt(9.5)
+
+    for title, html in zip(supps[::2], supps[1::2]):
+        landscape = None
+        for n, (orient, png) in enumerate(chart_slices(html)):
+            want = orient == "landscape"
+            if want != landscape:
+                set_orientation(doc, want)
+                landscape = want
+            elif n:
+                doc.add_page_break()
+            if n == 0:
+                doc.add_heading(title, level=1)
+            # Fit the slice to the page on whichever side runs out first.
+            box_w, box_h = LANDSCAPE if want else PORTRAIT
+            px_w, px_h = struct.unpack(">II", png[16:24])
+            doc.add_picture(io.BytesIO(png), width=Inches(min(box_w, box_h * px_w / px_h)))
 
     os.makedirs(OUT, exist_ok=True)
     path = os.path.join(OUT, f"{book['order']:02d}-{book['slug']}.docx")
