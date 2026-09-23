@@ -321,3 +321,12 @@ Andrew's options:
 3. Pick a third word for *to'evah* everywhere.
 
 Genesis is signed off, so option 3 would need his explicit go-ahead to touch it.
+
+## Decided 2026-09-23: CC BY-SA allowed for the Ethiopian-only books
+
+Andrew approved it. The Ge'ez of 1 and 2 Meqabyan (and possibly Qalementos and
+others) is available from Beta Masaheft under CC BY-SA 4.0, which beats both the
+English-only fallback and the all-rights-reserved Amharic from the app. The
+Amharic chapters 1-8 in the private `Ethiopic` repo stay as a cross-check.
+Details and the credit line are in `SOURCES.md`. **Andrew does not need to type
+any more chapters.**

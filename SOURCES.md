@@ -38,8 +38,8 @@ which are used here.
 - **LXX-Rahlfs-1935** (`eliranwong/LXX-Rahlfs-1935`) -- CC BY-NC-SA 4.0:
   non-commercial *and* share-alike, and derived from CCAT data that requires a
   signed user declaration. Not used.
-- **`sleeptillseven/LXX`**, **`nathans/lxx-swete`**, **`LPettay/ethiopian-bible`**
-  -- CC BY-SA (share-alike). Not used.
+- **`sleeptillseven/LXX`**, **`nathans/lxx-swete`** -- CC BY-SA (share-alike). Not used.
+  (`LPettay/ethiopian-bible` was on this list too; see the exception below.)
 - **A Ge'ez Tewahedo text set** found in a public-domain-licensed repository was
   examined for the Meqabyan books, Ge'ez Jubilees and Ge'ez 1 Enoch, and
   **rejected**. Its own headers record it as `ocr-tier3` quality with
@@ -48,6 +48,35 @@ which are used here.
   Sampling also showed the text to be Amharic rather than Ge'ez, carrying
   column artifacts from a scanned parallel Bible. A source whose references are
   manufactured is worse than no source, because it reads as authoritative.
+
+## Exception: CC BY-SA allowed for Ethiopian-only books (Andrew, 2026-09-23)
+
+The no-share-alike rule stands for everything else. For books that survive only
+in the Ethiopian canon and have no other usable source, Andrew approved CC BY-SA.
+
+**Ge'ez from Beta Masaheft** (Universität Hamburg, <https://betamasaheft.eu/>),
+CC BY-SA 4.0, as packaged in `github.com/LPettay/ethiopian-bible`
+(`public/data/chapters/<Book>/<n>.json`). Checked 2026-09-23 for 1 Meqabyan:
+36 chapters, 753 verses, none empty, real verse numbers; verse counts match
+Andrew's Amharic (Ethiopian Bible App) in chapters 1-4 and 7-8, and chapters
+5-6 differ only by one verse boundary (77 verses across the pair in both).
+
+What the licence requires, and all it requires:
+- credit on every chapter built from it: *Ge'ez text: Beta Masaheft,
+  Universität Hamburg, CC BY-SA 4.0. English translation by this project.*
+- those chapters are themselves published under CC BY-SA 4.0 (no "all rights
+  reserved", no restrictions on copying them). Selling a printed book is fine.
+- nothing applies to any book not built from this source.
+
+Open before use:
+- the folder labelled `3Meq` (21 chapters) opens with Meqabis attacking the
+  Jews in Mesopotamia and looks like **2 Meqabyan** under another label; the
+  real 3 Meqabyan (10 ch) appears to be absent. Confirm before rendering.
+- the same collection has `Clem` (Qalementos, 67 ch, Ge'ez) and several folders
+  with English headings (`Sinod`, `Teach`, `Lef`, `MysHE`, `TestLd`, `KN`) that
+  may cover some of the nine tier-`none` books. Not yet checked.
+- prefer pulling from Beta Masaheft's own published files over the LPettay
+  copy if they are reachable on GitHub; same licence, one step closer.
 
 ## How the OCP witnesses are built
 
