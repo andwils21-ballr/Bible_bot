@@ -271,6 +271,36 @@ is, they stay `english-only`. No Ge'ez text of the other nine has been found. Do
 verse numbers as a source for them -- one was examined and rejected on
 2026-09-17; see SOURCES.md.
 
+## Which text to render when the witnesses differ
+
+Andrew's rule, 2026-09-23. The aim is the most accurate and thorough account of
+the real event the text describes, not a faithful copy of any one manuscript.
+
+1. **Start from the text closest to the original language.** For the Old
+   Testament that is the Hebrew; for the New, the Greek. It is the default,
+   and most verses never leave it.
+2. **Use another witness where it tells the event better and the context backs
+   it.** Every language has holes. Where the Greek, Aramaic, Latin, Syriac or
+   Ge'ez has a word that captures what happened better than the source
+   language can, or preserves a reading the rest of the book supports, render
+   that reading in the body text.
+3. **Where one witness has detail another lacks, keep the detail if the context
+   supports it.** A fuller account is not dropped because the default text is
+   shorter, and the default text is not cut because a translation is shorter.
+4. **"The context supports it" means something checkable:** another passage
+   that says the same thing (Numbers 26:59 naming Miriam as Amram's daughter
+   supports the Greek of Exodus 6:20 adding her), the internal logic of the
+   passage, or agreement among independent witnesses. It never means that a
+   reading is smoother or more familiar.
+5. **Every departure is visible.** The note on that verse names the witness the
+   body text follows, quotes what the default text says, and gives the reason
+   in a sentence. A reader must always be able to see which text a verse
+   came from. The witness must be in `sources/`; never adopt a reading from
+   memory.
+
+Exodus 21:22-23 was the first departure (the Greek, chosen by Andrew). Under this
+rule, a departure no longer needs a per-verse ruling, but it still needs its note.
+
 ### Tier `witnesses` — 1 Enoch and Jubilees
 
 These two books survive whole in no language. What survives is several partial
