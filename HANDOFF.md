@@ -176,6 +176,7 @@ breaking one wastes his time. They are listed in the order they cost the most.
   Exodus 7/8, 21/22 and Genesis 35:21/22. In the tabernacle chapters (Exodus
   25-40) it is a shorter, reordered edition, so check what is actually at a
   Greek verse number before citing it.
+  Leviticus 7 is also offset: Hebrew 7:21 is Swete 7:11.
 - **`sources/hebrew/` used to drop letters the Masoretes wrote large, small or
   raised** (the ayin and dalet of the Shema, Deuteronomy 6:4, among them).
   `fetch_sources.py` read only the text before such a letter. Fixed and
