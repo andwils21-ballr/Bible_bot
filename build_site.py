@@ -5,6 +5,7 @@ Left rail = books, click a book = its chapters, click a chapter = read it.
 Output is a shell page plus one JSON file per book, so the rail never reloads.
 Stdlib only. Run from the repo root:  python3 build_site.py
 """
+import hashlib
 import html
 import json
 import os
@@ -178,8 +179,15 @@ def main():
               encoding="utf-8") as f:
         json.dump({"books": rail}, f, ensure_ascii=False, indent=1)
 
+    # A fingerprint of the data, added to every data URL, so a browser holding
+    # an old copy of a book fetches the new one as soon as the content changes.
+    h = hashlib.sha1()
+    data_dir = os.path.join(DOCS, "data")
+    for name in sorted(os.listdir(data_dir)):
+        with open(os.path.join(data_dir, name), "rb") as f:
+            h.update(f.read())
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
-        f.write(SHELL)
+        f.write(SHELL.replace("__BUILD__", h.hexdigest()[:12]))
 
     done = sum(b["done"] for b in rail)
     total = sum(b["chapters"] for b in rail)
@@ -320,7 +328,7 @@ function drawRail(slug){
     `${b.order}. ${b.title}<span class="ct">${b.done||'—'}</span></a>`).join('');
 }
 async function load(slug){
-  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json`)).json();
+  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json?v=__BUILD__`)).json();
   return cache[slug];
 }
 function pager(d,cur){
@@ -550,7 +558,7 @@ function restoreScroll(){
 
 addEventListener('hashchange',route);
 (async()=>{
-  BOOKS=(await (await fetch('data/manifest.json')).json()).books;
+  BOOKS=(await (await fetch('data/manifest.json?v=__BUILD__')).json()).books;
   const back=!location.hash && say('last');
   if(back){ location.hash=back; }               // open where we left off
   await route();
