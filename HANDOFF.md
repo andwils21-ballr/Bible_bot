@@ -176,11 +176,12 @@ breaking one wastes his time. They are listed in the order they cost the most.
   Exodus 7/8, 21/22 and Genesis 35:21/22. In the tabernacle chapters (Exodus
   25-40) it is a shorter, reordered edition, so check what is actually at a
   Greek verse number before citing it.
-- **`sources/hebrew/` drops letters the Masoretes mark as enlarged or
-  suspended.** Examples: Deuteronomy 6:4 reads שמ and אח instead of שמע and אחד;
-  Leviticus 11:42 reads גח instead of גחון; Numbers 27:5 and Deuteronomy 32:6
-  are also affected; and Judges 18:30, Psalm 80:14 and Job 38:13 lose a whole
-  word. Never build a note on the spelling of a word like that.
+- **`sources/hebrew/` used to drop letters the Masoretes wrote large, small or
+  raised** (the ayin and dalet of the Shema, Deuteronomy 6:4, among them).
+  `fetch_sources.py` read only the text before such a letter. Fixed and
+  re-fetched 2026-09-23: 11 verses in the whole Hebrew Bible changed, and the
+  only rendered one was Leviticus 11:42, whose rendering was already right.
+  The OCP and Swete fetchers were checked and do not have the bug.
 - **Hebrew regex must allow final letter forms** (ך ם ן ף ץ), or searches
   quietly return nothing. Check the vowel points as well as the consonants.
 - **The network in this container reaches GitHub and nothing else.**

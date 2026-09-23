@@ -54,7 +54,10 @@ def get(url):
 
 def hebrew_book(code):
     """WLC OSIS XML -> [(chapter, verse, text)]. Slashes mark morpheme splits
-    in the source; they are stripped so the line reads as running Hebrew."""
+    in the source; they are stripped so the line reads as running Hebrew.
+    A letter the Masoretes wrote large, small or raised sits in its own <seg>
+    inside the word, so the word is all of its text, not just w.text (which
+    stops at the first such letter and once dropped the ayin of Shema)."""
     root = ET.fromstring(get(WLC.format(code)))
     out = []
     for v in root.iter(OSIS + "verse"):
@@ -62,7 +65,8 @@ def hebrew_book(code):
         if not osis_id:
             continue
         _, ch, vs = osis_id.split(".")
-        words = [w.text.replace("/", "") for w in v.iter(OSIS + "w") if w.text]
+        words = ["".join(w.itertext()).replace("/", "") for w in v.iter(OSIS + "w")]
+        words = [w for w in words if w]
         out.append((int(ch), int(vs), " ".join(words)))
     return out
 
