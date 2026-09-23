@@ -341,3 +341,17 @@ any more chapters.**
   but holds only headings or empty chapter frames, not the text. The Qalementos
   look-alike is a different, shorter work. These nine still need a printed or
   scanned edition. File names are in `SOURCES.md`.
+
+## Decided 2026-09-23: word rulings and tier names
+
+- *tsara'at* = **blight** everywhere. Exodus 4:6 now reads "blighted".
+- *to'evah* = **detestable** everywhere (Genesis 43:32, 46:34 and the 47 note;
+  Leviticus 18 and 20:13). The Exodus 8:26 misquote is gone, because Genesis
+  now says what the note quotes.
+- *sheqets* = **loathsome** (Leviticus 11, 20:25), so it no longer collides with
+  *to'evah*. This also fixed Leviticus 7:21, which had printed "swarming thing"
+  where the Hebrew has *sheqets*. That verse now has a note.
+- Tiers renamed: `primary` becomes `source`, `secondary` becomes `english-only`.
+  `witnesses` and `none` are unchanged.
+- Fixed terms now live in a table in `RENDERING_SPEC.md`, so render sessions
+  stop drifting.

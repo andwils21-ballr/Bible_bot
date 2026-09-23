@@ -5,7 +5,7 @@
     python3 source_text.py john 1
 
 When there is no source file, says what the book's tier requires instead —
-a secondary-tier book is worked from established translations, a none-tier
+an english-only-tier book is worked from established translations, a none-tier
 book gets a stub. Neither is ever rendered from memory.
 """
 import json
@@ -73,9 +73,9 @@ def main():
         return
     if found:
         # Witness files exist for this book, but none of them reaches this
-        # chapter. That is the secondary case, and the session needs telling.
+        # chapter. That is the english-only case, and the session needs telling.
         print("NO WITNESS COVERS THIS CHAPTER.")
-        print("Per RENDERING_SPEC.md treat it as tier 'secondary': work from an\n"
+        print("Per RENDERING_SPEC.md treat it as tier 'english-only': work from an\n"
               "established English translation, never from memory, and say so in\n"
               "the first note of the chapter.")
         return
@@ -84,7 +84,7 @@ def main():
                            encoding="utf-8"))["books"]
     tier = next((b["tier"] for b in books if b["slug"] == slug), None)
     print(f"NO SOURCE-LANGUAGE FILE for '{slug}' (tier: {tier}).")
-    if tier == "secondary":
+    if tier == "english-only":
         print("Per RENDERING_SPEC.md this book is worked from established English\n"
               "translations, NOT from the Ge'ez and NOT from memory. Say which\n"
               "tradition you are following in the first note of chapter 1.")
@@ -92,7 +92,7 @@ def main():
         print("Per RENDERING_SPEC.md write the (NEED SOURCE TO TRANSLATE) stub\n"
               "and move on to the next renderable book. Do not attempt the text.")
     else:
-        print("This book is tier 'primary' but has no source file — that is a\n"
+        print("This book is tier 'source' but has no source file — that is a\n"
               "gap in fetch_sources.py, not a licence to render from memory.\n"
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
 

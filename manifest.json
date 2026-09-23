@@ -5,98 +5,98 @@
       "title": "Genesis",
       "slug": "genesis",
       "chapters": 50,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 2,
       "title": "Exodus",
       "slug": "exodus",
       "chapters": 40,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 3,
       "title": "Leviticus",
       "slug": "leviticus",
       "chapters": 27,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 4,
       "title": "Numbers",
       "slug": "numbers",
       "chapters": 36,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 5,
       "title": "Deuteronomy",
       "slug": "deuteronomy",
       "chapters": 34,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 6,
       "title": "Joshua",
       "slug": "joshua",
       "chapters": 24,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 7,
       "title": "Judges",
       "slug": "judges",
       "chapters": 21,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 8,
       "title": "Ruth",
       "slug": "ruth",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 9,
       "title": "1 Samuel",
       "slug": "1-samuel",
       "chapters": 31,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 10,
       "title": "2 Samuel",
       "slug": "2-samuel",
       "chapters": 24,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 11,
       "title": "1 Kings",
       "slug": "1-kings",
       "chapters": 22,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 12,
       "title": "2 Kings",
       "slug": "2-kings",
       "chapters": 25,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 13,
       "title": "1 Chronicles",
       "slug": "1-chronicles",
       "chapters": 29,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 14,
       "title": "2 Chronicles",
       "slug": "2-chronicles",
       "chapters": 36,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 15,
@@ -117,14 +117,14 @@
       "title": "Ezra",
       "slug": "ezra",
       "chapters": 10,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 18,
       "title": "Nehemiah",
       "slug": "nehemiah",
       "chapters": 13,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 19,
@@ -138,70 +138,70 @@
       "title": "Tobit",
       "slug": "tobit",
       "chapters": 14,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 21,
       "title": "Judith",
       "slug": "judith",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 22,
       "title": "Esther",
       "slug": "esther",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 23,
       "title": "1 Meqabyan",
       "slug": "1-meqabyan",
       "chapters": 36,
-      "tier": "secondary"
+      "tier": "english-only"
     },
     {
       "order": 24,
       "title": "2 Meqabyan",
       "slug": "2-meqabyan",
       "chapters": 21,
-      "tier": "secondary"
+      "tier": "english-only"
     },
     {
       "order": 25,
       "title": "3 Meqabyan",
       "slug": "3-meqabyan",
       "chapters": 10,
-      "tier": "secondary"
+      "tier": "english-only"
     },
     {
       "order": 26,
       "title": "Job",
       "slug": "job",
       "chapters": 42,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 27,
       "title": "Psalms",
       "slug": "psalms",
       "chapters": 151,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 28,
       "title": "Proverbs",
       "slug": "proverbs",
       "chapters": 24,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 29,
       "title": "Reproof (Tegsat)",
       "slug": "reproof-tegsat",
       "chapters": 7,
-      "tier": "primary",
+      "tier": "source",
       "source_book": "proverbs",
       "source_offset": 24
     },
@@ -210,63 +210,63 @@
       "title": "Ecclesiastes",
       "slug": "ecclesiastes",
       "chapters": 12,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 31,
       "title": "Song of Songs",
       "slug": "song-of-songs",
       "chapters": 8,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 32,
       "title": "Wisdom of Solomon",
       "slug": "wisdom-of-solomon",
       "chapters": 19,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 33,
       "title": "Sirach",
       "slug": "sirach",
       "chapters": 51,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 34,
       "title": "Isaiah",
       "slug": "isaiah",
       "chapters": 66,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 35,
       "title": "Jeremiah",
       "slug": "jeremiah",
       "chapters": 52,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 36,
       "title": "Lamentations",
       "slug": "lamentations",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 37,
       "title": "Baruch",
       "slug": "baruch",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 38,
       "title": "Letter of Jeremiah",
       "slug": "letter-of-jeremiah",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 39,
@@ -280,98 +280,98 @@
       "title": "Ezekiel",
       "slug": "ezekiel",
       "chapters": 48,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 41,
       "title": "Daniel",
       "slug": "daniel",
       "chapters": 14,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 42,
       "title": "Hosea",
       "slug": "hosea",
       "chapters": 14,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 43,
       "title": "Amos",
       "slug": "amos",
       "chapters": 9,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 44,
       "title": "Micah",
       "slug": "micah",
       "chapters": 7,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 45,
       "title": "Joel",
       "slug": "joel",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 46,
       "title": "Obadiah",
       "slug": "obadiah",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 47,
       "title": "Jonah",
       "slug": "jonah",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 48,
       "title": "Nahum",
       "slug": "nahum",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 49,
       "title": "Habakkuk",
       "slug": "habakkuk",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 50,
       "title": "Zephaniah",
       "slug": "zephaniah",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 51,
       "title": "Haggai",
       "slug": "haggai",
       "chapters": 2,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 52,
       "title": "Zechariah",
       "slug": "zechariah",
       "chapters": 14,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 53,
       "title": "Malachi",
       "slug": "malachi",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 54,
@@ -385,189 +385,189 @@
       "title": "Matthew",
       "slug": "matthew",
       "chapters": 28,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 56,
       "title": "Mark",
       "slug": "mark",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 57,
       "title": "Luke",
       "slug": "luke",
       "chapters": 24,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 58,
       "title": "John",
       "slug": "john",
       "chapters": 21,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 59,
       "title": "Acts",
       "slug": "acts",
       "chapters": 28,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 60,
       "title": "Romans",
       "slug": "romans",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 61,
       "title": "1 Corinthians",
       "slug": "1-corinthians",
       "chapters": 16,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 62,
       "title": "2 Corinthians",
       "slug": "2-corinthians",
       "chapters": 13,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 63,
       "title": "Galatians",
       "slug": "galatians",
       "chapters": 6,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 64,
       "title": "Ephesians",
       "slug": "ephesians",
       "chapters": 6,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 65,
       "title": "Philippians",
       "slug": "philippians",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 66,
       "title": "Colossians",
       "slug": "colossians",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 67,
       "title": "1 Thessalonians",
       "slug": "1-thessalonians",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 68,
       "title": "2 Thessalonians",
       "slug": "2-thessalonians",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 69,
       "title": "1 Timothy",
       "slug": "1-timothy",
       "chapters": 6,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 70,
       "title": "2 Timothy",
       "slug": "2-timothy",
       "chapters": 4,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 71,
       "title": "Titus",
       "slug": "titus",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 72,
       "title": "Philemon",
       "slug": "philemon",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 73,
       "title": "Hebrews",
       "slug": "hebrews",
       "chapters": 13,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 74,
       "title": "James",
       "slug": "james",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 75,
       "title": "1 Peter",
       "slug": "1-peter",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 76,
       "title": "2 Peter",
       "slug": "2-peter",
       "chapters": 3,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 77,
       "title": "1 John",
       "slug": "1-john",
       "chapters": 5,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 78,
       "title": "2 John",
       "slug": "2-john",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 79,
       "title": "3 John",
       "slug": "3-john",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 80,
       "title": "Jude",
       "slug": "jude",
       "chapters": 1,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 81,
       "title": "Revelation",
       "slug": "revelation",
       "chapters": 22,
-      "tier": "primary"
+      "tier": "source"
     },
     {
       "order": 82,

@@ -73,8 +73,9 @@ python3 build_docx.py matthew   # one book
 
 | tier | meaning | books |
 |---|---|---|
-| `primary` | worked from the Hebrew, Aramaic, or Greek | 73 |
-| `secondary` | no source-language access; worked from established English translations, and said so in the notes | 7 |
+| `source` | worked from the Hebrew, Aramaic, or Greek | 73 |
+| `witnesses` | several ancient witnesses (Greek, Ge'ez, Aramaic, Latin) that disagree; worked from all of them | 4 |
+| `english-only` | no source-language access yet; worked from established English translations, and said so in the notes | 3 |
 | `none` | no usable source text — gets a `(NEED SOURCE TO TRANSLATE)` stub, never a guess | 9 |
 
 The tier system exists because the failure mode of this project is fluent

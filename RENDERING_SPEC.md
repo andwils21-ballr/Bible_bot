@@ -57,7 +57,7 @@ slug: matthew
 chapter: 1
 title: The Origin of Jesus the Messiah
 status: rendered
-tier: primary
+tier: source
 rendered: 2026-09-14
 ---
 
@@ -183,6 +183,19 @@ very day**.
 the goal, not blandness. If the source is blunt or strange, stay blunt and
 strange; it is the *translationese* that goes, not the force.
 
+## Fixed terms: one Hebrew word, one English word
+
+Andrew's rulings. Use these everywhere, and never give two of these Hebrew
+words the same English word.
+
+| Hebrew | English | Decided |
+|---|---|---|
+| *tsara'at* (and *metsora*) | blight | 2026-09-23 |
+| *to'evah* | detestable (plural: detestable things) | 2026-09-23 |
+| *sheqets* / *shiqquts* (verb *shiqqets*) | loathsome (verb: loathe) | 2026-09-23 |
+
+When a new recurring word needs a fixed rendering, add it here.
+
 ## Versification: follow the English chapter and verse divisions
 
 Where an English Bible tradition exists for a book, **use its chapter and verse
@@ -240,20 +253,21 @@ confident.
 
 When the helper reports no source, it tells you what that book's tier requires.
 Obey it. A missing source is never a licence to render from memory — it is the
-instruction to work from established translations (tier `secondary`, and say so
+instruction to work from established translations (tier `english-only`, and say so
 in the notes) or to write the stub (tier `none`).
 
 Swete's Septuagint was added on 2026-09-17, which closed the gaps this
 paragraph used to list. Tobit, Judith, Wisdom of Solomon, Sirach, Baruch and the
-Letter of Jeremiah are now tier `primary`, rendered from the Greek. Psalm 151
+Letter of Jeremiah are now tier `source`, rendered from the Greek. Psalm 151
 and Daniel 13-14 (Susanna, Bel and the Dragon) have Greek in `sources/greek/`
 under those coordinates. Greek Esther is there too, but Swete prints its ten
 chapters with the Additions folded in unlettered, so **Esther 11-16 remain tier
-`secondary`** until that mapping is worked out.
+`english-only`** until that mapping is worked out.
 
-Still without any source, and still tier `secondary` or `none`: 1-3 Meqabyan,
-Josippon, and the eight broader-canon books (82-89). No critical digital edition
-of these in Ge'ez has been found. Do not accept an OCR'd text with synthesised
+Still tier `english-only` or `none`: 1-3 Meqabyan, Josippon, and the eight
+broader-canon books (82-89). Beta Masaheft's Ge'ez of all three Meqabyan books
+was found on 2026-09-23 (see SOURCES.md) but is not yet in `sources/`; until it
+is, they stay `english-only`. No Ge'ez text of the other nine has been found. Do not accept an OCR'd text with synthesised
 verse numbers as a source for them -- one was examined and rejected on
 2026-09-17; see SOURCES.md.
 
@@ -269,7 +283,7 @@ in the book. Where they differ, say so and say how, naming each. Where only one
 covers a chapter, say which, because the reader has no way to know.
 
 Two hard limits. Coverage is partial, so **a chapter with no witness is tier
-`secondary`** — worked from an established translation, with that stated in the
+`english-only`** — worked from an established translation, with that stated in the
 chapter's first note; `source_text.py` will tell you when this is the case.
 And a claim about the **Ge'ez** is not checkable the way a claim about the
 Hebrew or Greek is. Quote the Ge'ez, report where it differs, and do not build
@@ -412,9 +426,9 @@ that reads exactly as authoritative as real work.
    `books/<order>-<slug>/00.md`, whose body is the book title and the line
    `(NEED SOURCE TO TRANSLATE)`, with `status: need_source`. Then move on to
    the next book that can actually be rendered. Do not attempt the text.
-2. **Tier `secondary` books say so.** These are worked from established English
+2. **Tier `english-only` books say so.** These are worked from established English
    translations, not from the Ge'ez. The first note on chapter 1 of every
-   secondary book states which tradition it is following and that no source
+   english-only book states which tradition it is following and that no source
    language access was involved.
 3. **If you do not know a word, say so in the notes.** "Uncertain" is a real
    answer and is always better than a confident wrong one.
