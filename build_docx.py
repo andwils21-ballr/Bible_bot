@@ -139,6 +139,10 @@ def chart_slices(html):
                 if b - a > 4:
                     out.append(("landscape", page.screenshot(full_page=True,
                         clip={"x": a, "y": box["y"], "width": b - a, "height": box["height"]})))
+            # Put the page back as it was, so the portrait runs below still
+            # line up with the positions measured at the start.
+            el.evaluate("e => { e.style.overflow = ''; e.style.width = ''; }")
+            page.set_viewport_size({"width": CHART_PX, "height": 1000})
         browser.close()
     return out
 
