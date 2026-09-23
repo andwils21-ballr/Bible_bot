@@ -330,3 +330,14 @@ English-only fallback and the all-rights-reserved Amharic from the app. The
 Amharic chapters 1-8 in the private `Ethiopic` repo stay as a cross-check.
 Details and the credit line are in `SOURCES.md`. **Andrew does not need to type
 any more chapters.**
+
+## Checked 2026-09-23: what Ge'ez exists for the missing books
+
+- **3 Meqabyan: found.** Full Ge'ez, all 10 chapters, in Beta Masaheft's own
+  files (CC BY-SA, already approved). So are 1 and 2 Meqabyan, so all three can
+  be worked from Ge'ez instead of English-only.
+- The "3Meq" folder in the other collection was 2 Meqabyan under the wrong label.
+- **The nine "nothing at all" books: still nothing.** Beta Masaheft lists them
+  but holds only headings or empty chapter frames, not the text. The Qalementos
+  look-alike is a different, shorter work. These nine still need a printed or
+  scanned edition. File names are in `SOURCES.md`.

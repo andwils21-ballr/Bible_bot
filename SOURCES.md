@@ -68,15 +68,29 @@ What the licence requires, and all it requires:
   reserved", no restrictions on copying them). Selling a printed book is fine.
 - nothing applies to any book not built from this source.
 
-Open before use:
-- the folder labelled `3Meq` (21 chapters) opens with Meqabis attacking the
-  Jews in Mesopotamia and looks like **2 Meqabyan** under another label; the
-  real 3 Meqabyan (10 ch) appears to be absent. Confirm before rendering.
-- the same collection has `Clem` (Qalementos, 67 ch, Ge'ez) and several folders
-  with English headings (`Sinod`, `Teach`, `Lef`, `MysHE`, `TestLd`, `KN`) that
-  may cover some of the nine tier-`none` books. Not yet checked.
-- prefer pulling from Beta Masaheft's own published files over the LPettay
-  copy if they are reachable on GitHub; same licence, one step closer.
+Checked 2026-09-23 against Beta Masaheft's own repo, `github.com/BetaMasaheft/Works`
+(commit a0b38ff, TEI XML, CC BY-SA 4.0, reachable from here). Use these files, not
+the LPettay copy:
+
+| Book | Beta Masaheft file | State |
+|---|---|---|
+| 1 Meqabyan | `1001-2000/LIT1819Maccab.xml` | full text, 36 chapters |
+| 2 Meqabyan | `5001-6000/LIT5840SecondEthioMaccabees.xml` | full text, 21 chapters |
+| 3 Meqabyan | `5001-6000/LIT5839ThirdEthioMaccabees.xml` | full text, 10 chapters, every chapter filled |
+
+- LPettay's `3Meq` folder is **2 Meqabyan** mislabelled: its opening and closing
+  words are identical to Beta Masaheft's Second Book. LPettay has no 3 Meqabyan.
+- The nine tier-`none` books: **no usable Ge'ez anywhere in either collection.**
+  - Josippon (`LIT2598Yosipp.xml`): section headings and scraps only (about
+    8,000 letters across 153 sections; most sections empty).
+  - Didascalia (`LIT1309Didesq.xml`) and Testamentum Domini, the source of the
+    two Books of the Covenant (`LIT2461Testam.xml`): chapter structure with no text.
+  - Gitzew, Sirate Tsion, Te'ezaz, Abtilis: catalogue entries only.
+  - `LIT2680ClemPeter.xml` (= LPettay `Clem`) is the short *Canons of Clement*
+    from Peter, about 7,500 letters. It is not the seven-part Book of Qalementos
+    in the canon. Do not use it as Qalementos.
+  - LPettay's `Sinod`, `TestLd`, `Lef`, `MysHE`, `Teach` hold English headings
+    or scraps, not text. `KN` is the Kebra Nagast, which is not one of the 89.
 
 ## How the OCP witnesses are built
 
