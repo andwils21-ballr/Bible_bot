@@ -166,8 +166,23 @@ breaking one wastes his time. They are listed in the order they cost the most.
   deuterocanon.** Any Greek Old Testament verse can be looked up from those two
   CSVs. That is how the Genesis 11 Kainan and Genesis 46 seventy-five findings
   were confirmed rather than asserted.
-- **Swete follows the Greek verse division.** In Exodus it runs four verses out
-  of step with the Hebrew around chapter 7/8. See `NOTES_FOR_ANDREW.md`.
+- **Hebrew and English chapters split in different places.** We follow the
+  English (KJV) numbering; `source_text.py` prints the Hebrew numbering. Known
+  cases so far: Genesis 31/32 (Hebrew 32:1 = English 31:55); Exodus 7/8
+  (Hebrew 7:26-29 = English 8:1-4); Leviticus 5/6 (English 6:1-7 = Hebrew
+  5:20-26, English 6:8-30 = Hebrew 6:1-23). More are coming (Psalm titles,
+  Joel, Malachi). Count verses per chapter in the Hebrew file before rendering.
+- **Swete's Greek does not line up with the Hebrew.** It is out of step at
+  Exodus 7/8, 21/22 and Genesis 35:21/22. In the tabernacle chapters (Exodus
+  25-40) it is a shorter, reordered edition, so check what is actually at a
+  Greek verse number before citing it.
+- **`sources/hebrew/` drops letters the Masoretes mark as enlarged or
+  suspended.** Examples: Deuteronomy 6:4 reads שמ and אח instead of שמע and אחד;
+  Leviticus 11:42 reads גח instead of גחון; Numbers 27:5 and Deuteronomy 32:6
+  are also affected; and Judges 18:30, Psalm 80:14 and Job 38:13 lose a whole
+  word. Never build a note on the spelling of a word like that.
+- **Hebrew regex must allow final letter forms** (ך ם ן ף ץ), or searches
+  quietly return nothing. Check the vowel points as well as the consonants.
 - **The network in this container reaches GitHub and nothing else.**
   archive.org, crosswire, ebible, wikisource and pseudepigrapha.org all fail.
   Clone public repos over https; that works.

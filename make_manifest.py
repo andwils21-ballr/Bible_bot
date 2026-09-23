@@ -3,6 +3,7 @@ import json
 
 # (order, title, slug, chapters, tier)
 #   tier "source"       - I can work from the Hebrew/Aramaic/Greek text itself
+#   tier "witnesses"    - several ancient witnesses that disagree; worked from all of them
 #   tier "english-only" - no source language access; work from established English translations
 #   tier "none"         - no usable source text available; emit a NEED SOURCE stub
 BOOKS = [
@@ -20,11 +21,11 @@ BOOKS = [
     (12, "2 Kings",              "2-kings",          25,  "source"),
     (13, "1 Chronicles",         "1-chronicles",     29,  "source"),
     (14, "2 Chronicles",         "2-chronicles",     36,  "source"),
-    (15, "Jubilees",             "jubilees",         50,  "english-only"),
-    (16, "1 Enoch",              "1-enoch",         108,  "english-only"),
+    (15, "Jubilees",             "jubilees",         50,  "witnesses"),
+    (16, "1 Enoch",              "1-enoch",         108,  "witnesses"),
     (17, "Ezra",                 "ezra",             10,  "source"),
     (18, "Nehemiah",             "nehemiah",         13,  "source"),
-    (19, "Ezra Sutuel",          "ezra-sutuel",      16,  "english-only"),
+    (19, "Ezra Sutuel",          "ezra-sutuel",      16,  "witnesses"),
     (20, "Tobit",                "tobit",            14,  "source"),
     (21, "Judith",               "judith",           16,  "source"),
     (22, "Esther",               "esther",           16,  "source"),
@@ -44,7 +45,7 @@ BOOKS = [
     (36, "Lamentations",         "lamentations",      5,  "source"),
     (37, "Baruch",               "baruch",            5,  "source"),
     (38, "Letter of Jeremiah",   "letter-of-jeremiah",1,  "source"),
-    (39, "4 Baruch",             "4-baruch",          9,  "english-only"),
+    (39, "4 Baruch",             "4-baruch",          9,  "witnesses"),
     (40, "Ezekiel",              "ezekiel",          48,  "source"),
     (41, "Daniel",               "daniel",           14,  "source"),
     (42, "Hosea",                "hosea",            14,  "source"),
@@ -97,8 +98,11 @@ BOOKS = [
     (89, "Qalementos",           "qalementos",        0,  "none"),
 ]
 
+# Books whose text sits inside another book's source file.
+EXTRA = {"reproof-tegsat": {"source_book": "proverbs", "source_offset": 24}}
+
 books = [
-    {"order": o, "title": t, "slug": s, "chapters": c, "tier": tier}
+    {"order": o, "title": t, "slug": s, "chapters": c, "tier": tier, **EXTRA.get(s, {})}
     for o, t, s, c, tier in BOOKS
 ]
 with open("manifest.json", "w") as f:
