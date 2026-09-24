@@ -92,12 +92,19 @@ Read them before writing notes.
 
 ## 5. Where things go: the reporting format
 
-- **`PASTE/edits.md`** is Andrew's alone: he pastes requests, Claude reads.
-  Write nothing in it except a checkmark (✅) on an item that is finished. No
-  answers, tables or `Delivered` sections there; those go in the chat reply,
-  kept short. Clear the file only when every item in it has been decided and
-  the edits made.
-- **`PASTE/renders.md`** gets every render cycle's report, newest at the top.
+Three files, each with a permanent header line at the top that is never
+removed:
+
+- **`PASTE/edits.md`, "Andrew's Edit Requests"**, is Andrew's alone: he pastes
+  requests, Claude reads. Write nothing in it except a checkmark (✅) on an item
+  that is finished. Clear it (down to the header) only when every item has been
+  decided and the edits made.
+- **`PASTE/changes.md`, "Decision Making with Before/After"**, is for changes to
+  chapters already rendered, newest at the top. Each entry: the request, the
+  options with every verse involved, and a `Where | Before | After` table of
+  every change made. Never cleared; it is the record.
+- **`PASTE/renders.md`, "New Chapters"**, gets every render cycle's report,
+  newest at the top.
   - For each chapter: a table `Verse | Word-for-word | In the text now`, one
     row per judgment call, meaning anywhere the English departs from
     word-for-word.

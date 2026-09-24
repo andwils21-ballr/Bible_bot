@@ -1,4 +1,4 @@
-# Render reports (newest first)
+# New Chapters
 
 Each scheduled render cycle adds its report at the top. Format: CLAUDE.md, section 5.
 
