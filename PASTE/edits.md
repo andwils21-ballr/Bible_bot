@@ -56,3 +56,66 @@ So your chain (Pharaoh → dragon → Devil, the path through the waters, the so
 2. **Later:** when we reach each of those chapters (Ezekiel 29, Isaiah 51, Revelation 12, 15, 21), its note points back to Exodus 14–15. That's where the link is strongest, because it's where the Bible makes it.
 
 The reader who follows those links will see the pattern you saw, with nothing added.
+
+---
+
+## Request (chat, 2026-09-24 afternoon)
+
+> Yes on the Exodus 15:1 note. 22:22 wart. 23:11 … the day after Saturday … Sunday. 23:24 – is there a different word instead of blast? toshav = resident. Soothing aroma if I have to choose, but perhaps "pleasing aroma"? ger = resident; ben nekhar = traveler or outsider? All word choices work with servant. Lev 25:42 … "For they are slaves, whom I brought out…"?
+
+## Delivered 2026-09-24
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 15 notes | — | New note at v1: the song retold (Isaiah 51:10, Psalm 77:19, 1 Corinthians 10:2, Revelation 15:3) |
+| Leviticus 22:22 | or with a running sore | or with a **wart** (the Greek literally says "warted"; note updated) |
+| Genesis 23:4 | A foreigner and a **settler** I am among you | A foreigner and a **resident** I am among you |
+| Leviticus 25:23 note | quoted "settler" | quotes "resident" |
+| Genesis 8:21 | the **quieting smell** | the **soothing aroma** (note updated) |
+| Exodus 29:18, 25, 41 | a **quieting smell** | a **soothing aroma** (note updated) |
+| Leviticus 25:42 | For they are **My slaves** | For they are **My servants** (… "sold as a slave is sold" stays) |
+| Leviticus 25:55 | slaves to Me… My slaves | **servants** to Me… My **servants** (note rewritten) |
+| RENDERING_SPEC fixed terms | — | *toshav* = resident; *re'ach nichoach* = soothing aroma; *eved* (God the master) = servant |
+
+### Your questions
+
+**23:11 "the day after the sabbath" (no change made).** The Hebrew says *the sabbath*, with no "day" and no "seventh". Two readings are old:
+- **The weekly Sabbath (your reading):** the sheaf is waved on a Sunday. Then Pentecost, fifty days later, also always falls on a Sunday.
+- **The first day of Unleavened Bread (v7):** that day is kept like a sabbath, so the sheaf would fall on a fixed date, whatever the weekday.
+
+Your reading has a New Testament echo. Jesus rose *on the first day of the week* after the Sabbath (Matthew 28:1), and Paul calls Him *the firstfruits of those who have fallen asleep* (1 Corinthians 15:20): the firstfruits sheaf of v10–11. If you want, the v11 note can add that.
+
+**23:24 "a remembrance by a blast" (no change made).** *Teru'ah* covers two sounds:
+- **a great shout** (the shout at Jericho, Joshua 6:5)
+- **the blast of a horn** (Leviticus 25:9, *shofar teru'ah*)
+
+Options:
+- *a remembrance by shouting*
+- *a remembrance with horn blasts*
+- *a day of remembrance and shouting*
+- keep *a blast*
+
+Numbers 29:1 calls the same day *yom teru'ah*. My recommendation: **"a remembrance with horn blasts"**, which is clear, and Leviticus 25:9 shows horns were what sounded on these days. The note would say the word is also "shout."
+
+**"Pleasing aroma" vs "soothing aroma".** Both are honest translations. *Nichoach* is built from *nuach*, rest. "Soothing" keeps that; "pleasing" is the more common English but loses the rest idea, and the Genesis 8:21 note ties this word to Noah's name. You chose soothing if you had to choose, so that's applied. Say the word if you'd rather have "pleasing" everywhere.
+
+**Lev 25:42 "For they are slaves, whom I brought out…"** Dropping "My" isn't possible: the Hebrew is *avadai*, "My servants", and the "My" is the point. "Servant" is a fully legitimate meaning of *eved*, and it fits the context, so the text now reads **"For they are My servants… They shall not be sold as a slave is sold."** The note says the Hebrew uses one word for both.
+
+**ger = resident, ben nekhar = traveler or outsider: it doesn't quite work, for two reasons.**
+1. **"Resident" is now *toshav*.** *Ger* and *toshav* stand side by side in Genesis 23:4 and Leviticus 25:23, 35 and 47. Both can't be "resident."
+2. **"Outsider" is already *zar*,** the word for a non-priest or an unauthorized person (Exodus 29:33, 30:33; Leviticus 22:10, 12, 13; Numbers 1:51). "Traveler" isn't what *ben nekhar* means: it means a person of a foreign nation, whether or not he travels.
+
+What each word actually means:
+
+| Hebrew | Meaning | Candidates |
+|---|---|---|
+| *ger* | someone living long-term in a land not his own, without land or inheritance rights (Israel was *gerim* in Egypt) | **stranger** ("you were strangers in the land of Egypt"), immigrant, alien, foreigner (now) |
+| *ben nekhar* | a person of another nation | **foreigner** |
+| *toshav* | a settled resident without land of his own | resident (decided) |
+| *zar* | anyone not entitled (a non-priest, a non-family member) | outsider (now) |
+
+**My recommendation:**
+- *ger* = **stranger**: the old English word that means exactly this, and it reads naturally in the famous verses.
+- *ben nekhar* = **foreigner**, the plainest word for a person of another nation.
+
+That changes every *ger* in Genesis–Numbers from "foreigner" to "stranger", roughly 40 verses. I'll list every verse before doing it if you say go.

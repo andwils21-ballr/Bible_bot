@@ -105,6 +105,9 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *tsara'at* (and *metsora*) | blight | 2026-09-23 |
 | *to'evah* | detestable (plural: detestable things) | 2026-09-23 |
 | *sheqets* / *shiqquts* (verb *shiqqets*) | loathsome (verb: loathe) | 2026-09-23 |
+| *toshav* | resident | 2026-09-24 |
+| *re'ach nichoach* | soothing aroma | 2026-09-24 |
+| *eved* when God is the master | servant | 2026-09-24 |
 
 When a recurring word needs a fixed rendering, bring the choice to Andrew with
 every verse it occurs in, then add it here.
