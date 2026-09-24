@@ -148,12 +148,12 @@ breaking one wastes his time. They are listed in the order they cost the most.
    suggestion applied as given. Save the explaining for cases where you
    corrected, pushed back on, or added something beyond what he asked for.
 9. **Times in Central, never UTC.**
-11. **Stay close to the text; clean up in its own style.** Andrew, 2026-09-24,
-    after a clarity pass went too far: do not change things on your own, and
-    do not let his picture of an event push a rendering past what the word
-    says (*full force* for *eitan*, which only means constant, ever-flowing).
-    No casual words the rest of the text would never use (*get me out*). When
-    he gives exact wording, use his exact wording.
+11. **Stay close to the text; clean up in its own style.** Andrew, 2026-09-24:
+    no changes on your own, and no casual words the rest of the text would
+    never use (*get me out*). When he proposes wording, check it against the
+    Hebrew, the Greek and the literal possibilities before using it, and lay
+    those options out so the two of you decide together. His picture of an
+    event is a question to test against the text, not a ruling to apply.
 10. **Label what is a note in the project and what is just chat.** He asked for
     this explicitly. Keep the two visibly separate in every report.
 
@@ -201,7 +201,7 @@ breaking one wastes his time. They are listed in the order they cost the most.
 - **The Word files carry the charts as pictures.** `build_docx.py` draws each
   supplement in headless Chromium, so it needs `playwright`. In the cloud
   container, run it as `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`.
-  `docx/` is gitignored: send the files to Andrew; don't just mention them.
+  `docx/` is gitignored. Do not send Word files in chat unless Andrew asks for them.
 
 ## The most expensive lesson
 
