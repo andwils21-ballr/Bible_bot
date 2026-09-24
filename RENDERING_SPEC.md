@@ -108,6 +108,7 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *toshav* | resident | 2026-09-24 |
 | *re'ach nichoach* | soothing aroma | 2026-09-24 |
 | *eved* when God is the master | servant | 2026-09-24 |
+| *ben nekhar* (a person of another nation) | foreigner | 2026-09-24 |
 
 When a recurring word needs a fixed rendering, bring the choice to Andrew with
 every verse it occurs in, then add it here.

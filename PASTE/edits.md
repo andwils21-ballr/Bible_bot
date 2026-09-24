@@ -164,3 +164,11 @@ Jesus uses *allogenēs* once: of the one healed leper who came back to give than
 **Recommendation:** ***ben nekhar* = foreigner** (as it is now in all four verses), and ***ger* = stranger**, which frees "foreigner" to mean only *ben nekhar*. The Greek *proselyte* ("one who has come over") is why "stranger" fits *ger*: someone who came in from outside and lives among you.
 
 That still needs your go before I list the *ger* verses and change them.
+
+## Delivered 2026-09-24 (ben nekhar)
+
+| Where | Before | After |
+|---|---|---|
+| RENDERING_SPEC fixed terms | — | *ben nekhar* = foreigner (already the wording in Genesis 17:12, 17:27; Exodus 12:43; Leviticus 22:25, so no verse changes) |
+
+Still open: ***ger*** is also "foreigner" today (Exodus 12:48, 49; Leviticus 22:18 and others). Until *ger* gets its own word ("stranger" is the recommendation), the two stay blurred.
