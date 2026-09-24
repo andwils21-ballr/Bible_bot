@@ -118,4 +118,4 @@ What each word actually means:
 - *ger* = **stranger**: the old English word that means exactly this, and it reads naturally in the famous verses.
 - *ben nekhar* = **foreigner**, the plainest word for a person of another nation.
 
-That changes every *ger* in Genesis–Numbers from "foreigner" to "stranger", roughly 40 verses. I'll list every verse before doing it if you say go.
+That changes every *ger* in Genesis–Numbers from "foreigner" to "stranger", a few dozen verses (my quick count also caught the name Hagar, which is spelled the same way, so the exact number still needs checking). I will list every verse before changing anything, if you say go.
