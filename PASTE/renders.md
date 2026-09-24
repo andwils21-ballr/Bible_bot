@@ -1,38 +1,8 @@
-# Answers — 2026-09-24 (morning)
+# Render reports (newest first)
 
-## Your question: should the creation → judgment pattern go in the notes?
+Each scheduled render cycle adds its report at the top. Format: CLAUDE.md, section 5.
 
-**Short answer: the parts the Bible itself says, yes. The parts it doesn't say, no, and those stay in our conversation.**
-
-The test every note has to pass is: would someone who reads Hebrew and Greek agree this is actually in the words? Here is where that line falls.
-
-**Already in the notes (Exodus 14–15):** the crossing is told in creation's and the flood's own words. *Dry ground* (*yabbashah*) is from Genesis 1:9, and the *dry ground* where everything died (*charavah*) is from Genesis 7:22. *Split* is the flood's verb, *ruach* is wind and Spirit, and *the deeps* are *tehom* (Genesis 1:2).
-
-**Belongs in the notes, and the Bible itself draws the line.** Every item below is checked against our Hebrew and Greek texts:
-
-| Text | What it says | Your point it supports |
-|---|---|---|
-| Ezekiel 29:3 | Pharaoh is called *the great dragon lying in the middle of his rivers* | the enemy's leader |
-| Isaiah 51:9–10 | *Was it not You who pierced the dragon? Who dried up the sea, the waters of the great deep, and made the depths of the sea a road for the redeemed to cross?* | the dragon is defeated at the sea; *the great deep* is the flood's phrase (Genesis 7:11) |
-| Revelation 12:9 | *the great dragon, the ancient serpent, who is called the Devil and Satan* | the dragon is the Devil |
-| Psalm 77:19; Isaiah 43:16 | *Your way was through the sea, Your path through the mighty waters*; *who makes a way in the sea* | God provides the path |
-| 1 Corinthians 10:1–2 | *all were baptized into Moses in the cloud and in the sea* | passing through the waters = passing into new life |
-| Revelation 15:2–3 | beside a *sea of glass mixed with fire*, the victors sing *the song of Moses* | the end of the story is this song |
-| Revelation 21:1 | *a new heaven and a new earth… and the sea is no more* | the old waters are gone |
-
-So your chain (Pharaoh → dragon → Devil, the path through the waters, the song sung at the end) is not just a feeling. **Scripture builds it, one link at a time, across Ezekiel, Isaiah, the Psalms, Paul and Revelation.**
-
-**Doesn't belong in a note:** "the Passover as the demarcation of God's people on earth", "the drowned go to hell", "left on the shore as they go to hell". Exodus says nothing about what happens to the Egyptians after death, and no later text makes that link. A note that said so would be reading our theology into the word, which is the one thing the rules forbid, and it would make readers doubt the true notes too.
-
-**My recommendation, for your yes or no:**
-1. **Now:** add one short note at Exodus 15:1 listing where the Bible itself retells the crossing (Isaiah 51:9–10, Psalm 77:19, 1 Corinthians 10:1–2, Revelation 15:3), so a reader can follow the thread.
-2. **Later:** when we reach each of those chapters (Ezekiel 29, Isaiah 51, Revelation 12, 15, 21), its note points back to Exodus 14–15. That's where the link is strongest, because it's where the Bible makes it.
-
-The reader who follows those links will see the pattern you saw, with nothing added.
-
----
-
-## Render report: Leviticus 22–25 (routine fired 8:02 AM Central)
+## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 
 **Landed:** Leviticus 22, 23, 24, 25. Progress 139 → **143 of 1,554 (9.2%)**. Next is Leviticus 26.
 
@@ -56,13 +26,13 @@ Every note was checked against the printed Hebrew; cross-references were checked
 | 12 | "becomes a stranger man's" | is married to an outsider |
 | 12 | *terumat ha-qodashim* | the holy contributions |
 | 15 | *yarimu*, "they raise" | which they raise up |
-| 16 | *avon ashmah*, "iniquity of guilt" | guilt that must be paid for (**left standing:** whether *them* is the priests or the people is unclear in the Hebrew) |
+| 16 | *avon ashmah*, "iniquity of guilt" | ***KEPT AS IS*** guilt that must be paid for (**left standing:** whether *them* is the priests or the people is unclear in the Hebrew) |
 | 19 | *li-retsonkhem*, "for your acceptance" | so that it is accepted for you |
 | 21 | *le-falle neder*, "to make a vow wonderful" | to fulfill a special vow |
-| 22 | *avveret, shavur, charuts, yabbelet, garav, yallefet* | blind, broken, maimed, a running sore, a scab, a skin eruption (**yabbelet uncertain:** occurs once) |
+| 22 | *avveret, shavur, charuts, yabbelet, garav, yallefet* | ***KEPT AS IS*** blind, broken, maimed, a running sore, a scab, a skin eruption (**yabbelet uncertain:** occurs once) |
 | 23 | *sarua ve-qalut* | a limb too long or too short |
 | 24 | *ma'ukh, katut, nattuq, karut* | bruised, crushed, torn, cut |
-| 24 | "and in your land you shall not do" | in your land you shall not do this (**left open:** the object isn't stated) |
+| 24 | "and in your land you shall not do" | ***KEPT AS IS*** in your land you shall not do this (**left open:** the object isn't stated) |
 | 25 | *ben nekhar* | a foreigner (distinct from *ger*, noted) |
 | 25 | *mashchatam*, "their corruption" | their ruin |
 | 28 | *oto ve-et beno*, "it and its son" | it and its young |
@@ -80,7 +50,7 @@ Every note was checked against the printed Hebrew; cross-references were checked
 | 7 | *melekhet avodah*, "work of labor" | ordinary work (distinct from *kol melakhah*, "no work at all", noted) |
 | 10 | *omer* | the sheaf |
 | 11 | *yaniphennu* | wave |
-| 11 | "the day after the sabbath" | same (**left open:** which sabbath) |
+| 11 | "the day after the sabbath" | ***KEPT AS IS*** same (**left open:** which sabbath) |
 | 12 | *ben shenato*, "son of its year" | a year old |
 | 13 | *re'ach nichoach* | a soothing aroma |
 | 14 | *qali ve-kharmel* | roasted grain and fresh grain |
@@ -88,7 +58,7 @@ Every note was checked against the printed Hebrew; cross-references were checked
 | 15 | *sheva shabbatot temimot* | seven full sabbaths |
 | 17 | *lechem tenufah* | bread for waving |
 | 24 | *shabbaton* | a rest |
-| 24 | *zikhron teru'ah* | a remembrance by a blast (**left open:** what is blown, what is remembered) |
+| 24 | *zikhron teru'ah* | ***KEPT AS IS*** a remembrance by a blast (**left open:** what is blown, what is remembered) |
 | 27 | *yom ha-kippurim* (plural) | the Day of Atonement |
 | 27 | "afflict your souls" | afflict yourselves (as 16:29) |
 | 30 | *ve-ha'avadti* | I will destroy |
@@ -155,12 +125,70 @@ Every note was checked against the printed Hebrew; cross-references were checked
 | 51 | "according to their mouth" | a matching part |
 | 53 | "to your eyes" | in your sight |
 
-### Worth your eye
+### Left standing on purpose
 
-- **Two words drifted before today, and I did not touch them:**
-  - *toshav* is "settler" in Genesis 23:4 and "resident" in Exodus 12:45 and Leviticus. Leviticus 25:23 echoes Genesis 23:4 exactly, so matching them would show the echo.
-  - *re'ach nichoach* is "a quieting smell" in Genesis 8:21 and some of Exodus, and "a soothing aroma" everywhere else.
+- **22:16:** whether *them* (who carries the guilt) is the priests or the people. The Hebrew doesn't say.
+- **22:22:** *yabbelet* occurs only here in the Bible. It is "running sore" or "wart"; nothing narrows it.
+- **22:24:** "you shall not do this": the Hebrew doesn't say what *this* is (offering such animals, or gelding).
+- **23:11:** "the day after the sabbath": which sabbath is not stated.
+- **23:24:** "a remembrance by a blast": what is blown, and what is remembered, are not stated.
 
-  Pick one for each and I'll make it consistent everywhere.
-- **Exodus 12:43 and 12:48** render both *ben nekhar* and *ger* as "foreigner." Leviticus 22 keeps them apart ("a foreigner" vs. "the foreigners living in Israel").
-- **Leviticus 25:42, 55 says "My slaves."** The same Hebrew word as the slave being sold in the same sentence. "Servants" would soften it and hide the link. Your call.
+### Choices for you (every verse listed)
+
+**1. *toshav* (a non-Israelite living long-term among Israel): "settler" or "resident"?**
+
+| Verse | Reads now |
+|---|---|
+| Genesis 23:4 | "A foreigner and a **settler** I am among you" (Abraham) |
+| Exodus 12:45 | "A **resident** and a hired man shall not eat of it" |
+| Leviticus 22:10 | "A priest's **resident** or a hired man" |
+| Leviticus 25:6 | "your hired man and your **resident**, who live with you as foreigners" |
+| Leviticus 25:23 | "you are foreigners and **residents** with Me" (echoes Genesis 23:4 word for word) |
+| Leviticus 25:35 | "As a foreigner and a **resident**, he shall live with you" |
+| Leviticus 25:40 | "As a hired man, as a **resident**, he shall be with you" |
+| Leviticus 25:45 | "the sons of the **residents** who live with you as foreigners" |
+| Leviticus 25:47 | "a foreigner or a **resident** with you" |
+
+Either word works. One word everywhere makes Leviticus 25:23 visibly echo Abraham.
+
+**2. *re'ach nichoach* (the smell of an offering): "quieting smell" or "soothing aroma"?**
+
+| Verse | Reads now |
+|---|---|
+| Genesis 8:21 | "the LORD smelled **the quieting smell**" (Noah; the note ties *nichoach* to *nuach*, rest, and to Noah's name) |
+| Exodus 29:18, 29:25, 29:41 | "**a quieting smell**" |
+| Leviticus 1:9, 1:13, 1:17 | "**a soothing aroma**" |
+| Leviticus 2:2, 2:9, 2:12 | "**a soothing aroma**" |
+| Leviticus 3:5, 3:16 | "**a soothing aroma**" |
+| Leviticus 4:31 | "**a soothing aroma**" |
+| Leviticus 6:15, 6:21 | "**a soothing aroma**" |
+| Leviticus 8:21, 8:28 | "**a soothing aroma**" |
+| Leviticus 17:6 | "**a soothing aroma**" |
+| Leviticus 23:13, 23:18 | "**a soothing aroma**" |
+
+*Nichoach* is from *nuach*, to rest: the smell that brings rest. "Quieting" keeps that link (and Noah's name). "Soothing aroma" is smoother but loses the root. A third option is "**a restful smell**".
+
+**3. *ben nekhar* (a foreigner from outside) vs. *ger* (a foreigner living among Israel): both are "foreigner" in places.**
+
+| Verse | Hebrew | Reads now |
+|---|---|---|
+| Genesis 17:12 | *ben nekhar* | "bought with silver from any **foreigner**" |
+| Genesis 17:27 | *ben nekhar* | "bought with silver from a **foreigner**" |
+| Exodus 12:43 | *ben nekhar* | "No **foreigner** shall eat of it" |
+| Exodus 12:48 | *ger* | "when a **foreigner** lives with you" |
+| Exodus 12:49 | *ger* | "the **foreigner** living among you" |
+| Leviticus 22:18 | *ger* | "the **foreigners** living in Israel" |
+| Leviticus 22:25 | *ben nekhar* | "from the hand of a **foreigner**" |
+
+In Exodus 12:43 vs 12:48, one kind may not eat the Passover and the other may (once circumcised). Using the same English word hides that. Option: *ben nekhar* = "**an outsider from abroad**" or "**a foreigner from abroad**"; *ger* stays "a foreigner living among you".
+
+**4. *eved* when God is the master: "slave" or "servant"?**
+
+| Verse | Reads now |
+|---|---|
+| Genesis 26:24 | "for the sake of Abraham **My servant**" |
+| Exodus 14:31 | "in Moses **His servant**" |
+| Leviticus 25:42 | "For they are **My slaves**… They shall not be sold as a **slave** is sold" |
+| Leviticus 25:55 | "the sons of Israel are **slaves** to Me. They are **My slaves**" |
+
+In Leviticus 25 the same word is used in the same sentence for the human slave being sold, which is the point. "Servant" for Abraham and Moses reads naturally. Options: keep both as they are, or make Leviticus 25 "servants" too.

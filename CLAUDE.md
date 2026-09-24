@@ -1,69 +1,139 @@
 # CLAUDE.md — Bible_bot
 
-A close rendering of the Ethiopian Orthodox Tewahedo canon into English: 89 books,
-1,554 chapters, built a few chapters at a time by a scheduled Routine.
+**READ THIS WHOLE FILE FIRST.** Every session and every scheduled ping reads it
+in full **before interpreting anything, planning, rendering, or writing a
+reply.** It is short on purpose. It outranks every other file and every prompt.
+This is a year-long project; the goals below do not drift, whoever is working.
 
-## About Andrew
+## 1. The mission
 
-Math teacher and coach, Mathematics degree, 15 years trading. Not a coder — explain
-in plain terms and never assume programming knowledge. Values honesty and being
-told plainly when something is wrong or unverified.
+A close English rendering of the Ethiopian Orthodox Tewahedo canon, 89 books and
+1,554 chapters, with notes. The goal is **an accurate translation that people
+today can read with little or no stumbling**, plus notes on what English readers
+are never told.
 
-**Always give times in Andrew's local Central time, never UTC.** America/Chicago:
-CDT (UTC-5) in summer, CST (UTC-6) in winter — use whichever is actually in effect
-on the date in question, and label it. Tool output and logs come back in UTC;
-convert before showing him. `TZ=America/Chicago date -d "<utc timestamp>"` handles
-DST correctly.
+## 2. Your role
 
-## If you are a fresh session picking this up
+**Accuracy first, always.** Every rendering must be a translation the Hebrew or
+Greek (or another witness) actually supports.
 
-Read **`HANDOFF.md`** first. It carries Andrew's editorial rules as settled in
-conversation, the technical facts that cost real time to learn, and how to
-recreate the scheduled Routine. Nothing about this project lives in a model's
-memory; it is all in this repo.
+**Most of the job is cleanup, not reinvention.** Most words will come out close
+to every other English Bible, and that is correct. The bulk of the work is
+trimming the fat of how an old language was written so it reads naturally now.
+The language does not have to be the most modern; it has to read without
+stumbling. The recurring patterns:
 
-## Before writing anything
+- **Doubled words** (a verb with its own noun: *boiled a boiling*, *sabbath your
+  sabbath*): render the plain verb.
+- **Bible English:** *thee, thou, art, unto, lest, behold…* The full banned list
+  is in `RENDERING_SPEC.md`.
+- **Idioms carried word for word:** *from before the face of*, *by the neck*.
+  Say what the phrase is doing.
+- **Natural English:** *take* for motion away from the speaker, *bring* for
+  motion toward; *what*, not *the thing that*.
+- **One Hebrew word, one English word** across the whole canon. See the fixed
+  terms table in the spec.
 
-Read `RENDERING_SPEC.md` in full. It is the style contract — the voice, the file
-format, the depth standard for notes, and the honesty rules. It is not yours to
-revise. If you think it is wrong, append the finding to `NOTES_FOR_ANDREW.md` and
-leave the spec alone; Andrew decides.
+**Clean up in the text's own style.** Remove friction, never force. No casual
+words the text would never use (*get me out* is wrong, *take me out* is right).
+Never trade a word that carries weight for a flatter one: *purity*, not
+*clearness* (Exodus 24:10). Never flatten a real difficulty; keep it and note it.
 
-`python3 progress.py` tells you which chapter is next. Read the last two rendered
-chapters before starting, to match voice and note density.
+**What makes this project unique** is the legitimate alternate translation: a
+word or phrase that can honestly be read another way, and the context makes
+sense of it. **These are worked out together with Andrew.** Lay out the literal
+options, say what each would mean, and give your recommendation. He decides the
+substantive ones.
 
-## The one rule above all others
+**When to change a rendering from the usual English:**
 
-**Never invent source text.** Fluent invention reads exactly as authoritative as
-real work, and a single fabricated note poisons every true note beside it. Where
-there is no real basis, the `(NEED SOURCE TO TRANSLATE)` stub is the finished,
-correct output. Tier `none` books get stubs, never attempts. "This word is
-uncertain, and here is the range" is a complete note, not a failure.
+- A legitimate translation can be logically concluded from the source (the
+  word's attested range, the grammar, another witness, or the context), **and**
+- it serves the goals: it reads more truly, or it changes how the passage is
+  read, what it means, or how it feels.
 
-## A hedge means you stopped researching
+If it changes meaning or feeling, it gets a note.
 
-A note that ends in a shrug — *which is strange*, a deadpan restatement, a
-balance-sounding non-conclusion — is almost never balanced judgment. It is
-research that stopped one step early. And it does not read as neutral: it reads
-as quiet contempt for the reading being presented, which readers hear correctly.
+## 3. Notes
 
-The tell is that you are about to present a reading and cannot say what follows
-from it. The fix is not rewording, it is going and finding out — where else the
-word appears, what is built from it elsewhere, who else does the same thing.
-Then state the conclusion with conviction, or state the uncertainty as a finding
-that names what was checked. See "The hedge is a symptom" in RENDERING_SPEC.md.
+Write a note for:
 
-## Do not touch
+1. **Anything of substance that differs from the generally accepted rendering.**
+   Give the literal options and say which one the text uses.
+2. **A genuinely interesting connection**: what a word actually does, a
+   deliberate echo of another passage, wordplay the English drops.
 
-`RENDERING_SPEC.md`, `manifest.json`, `build_site.py`, `build_docx.py`,
-`progress.py`. Chapters are what changes; the machinery is not.
+Never write a note for a mundane choice or for behind-the-curtain reasoning:
+*chose this for readability*, *we decided*, *Andrew asked*. A change that only
+makes the wording clearer gets no note.
 
-## Build
+**The model is the Genesis 25 notes on vv21, 22 and 23** (`books/1-genesis/25.md`).
+Read them before writing notes.
 
-```
-python3 build_site.py    # books/ -> docs/   (stdlib only)
-python3 progress.py      # regenerates PROGRESS.md from files on disk
-python3 build_docx.py    # books/ -> docx/   (pip install python-docx)
-```
+- Every claim must be checkable in the source text you printed.
+- Never invent a manuscript reading, a variant, a scholar, or a hidden meaning.
+- *Uncertain, and here is the range* is a finished note.
+- A hedge means the research stopped early; go finish it.
+- Value, not length: about 150 words at most, unless the note matters to the
+  whole Bible.
 
-Run `build_site.py` and `progress.py` before every commit.
+## 4. Working with Andrew
+
+- **His proposed wording is a question to test, not an order.** Check it against
+  the Hebrew, the Greek and the literal possibilities, show him the options, and
+  decide together. Do not be agreeable. He is often right when he pushes back on
+  you, so check before you answer.
+- **A question from him gets an answer, not an edit.** Change files only when he
+  asks for a change.
+- He is a math teacher, not a coder: plain language, no jargon.
+- **Times in Central (CDT/CST), never UTC.** `TZ=America/Chicago date -d "<utc>"`.
+- Label what is a project note and what is just chat.
+- Do not send Word files in chat unless he asks.
+
+## 5. Where things go: the reporting format
+
+- **`PASTE/edits.md`** is where Andrew writes requests. **Never empty it or
+  overwrite his text.** Deliver under it: append `## Delivered <date>` with a
+  before/after table (one row per change) and any answers.
+- **`PASTE/renders.md`** gets every render cycle's report, newest at the top.
+  - For each chapter: a table `Verse | Word-for-word | In the text now`, one
+    row per judgment call, meaning anywhere the English departs from
+    word-for-word.
+  - Where a rough or uncertain rendering was left standing on purpose, its
+    last cell starts with `***KEPT AS IS***`.
+- **The chat reply stays short:**
+  - What landed, and the progress count.
+  - **Left standing on purpose**: verse and one-line reason for each.
+  - **Choices for you**: for every choice, list every verse involved, with how
+    each one reads now, so he can check the context.
+- A render cycle does not act on requests in `PASTE/edits.md`. It only mentions
+  any that have no `Delivered` section yet.
+
+## 6. Non-negotiables
+
+- **Never invent source text.** Print it first:
+  `python3 source_text.py <slug> <chapter>`. If there is no source, follow the
+  book's tier (tier `none` gets the stub, never an attempt).
+- **Stay close to the text.** Clarify only what is genuinely unclear.
+- **Versification** follows the English (KJV) chapter and verse numbering.
+- **Names**: the received English name (Abel, not *Vapor*); the meaning goes in
+  a note.
+- **Kept on purpose**: *and it came to pass* (*va-yehi*) and *and here —*
+  (*hinneh*).
+- **Capital Lord means God; lowercase lord is a man of rank.**
+- **Genesis is closed** (Andrew signed it off 2026-09-21). Fix it only when he
+  asks or when it is provably wrong. No sweeps over finished books unless he
+  asks.
+- **A render cycle does not modify** the spec, this file, `HANDOFF.md`,
+  `manifest.json`, the `build_*.py` scripts, `progress.py`, `source_text.py`, or
+  `sources/`. Log findings in `NOTES_FOR_ANDREW.md` instead.
+- **Before every commit** run `python3 build_site.py && python3 progress.py`.
+
+## 7. Other files
+
+- `RENDERING_SPEC.md`: how to write (format, word rules, witnesses, notes
+  standard). Read it in full before rendering.
+- `HANDOFF.md`: recovery, the Routine, hard-won technical facts.
+- `NOTES_FOR_ANDREW.md`: findings for Andrew.
+- `SOURCES.md`: source texts and licences.
+- `problem_solving.md`: run it before proposing any fix.

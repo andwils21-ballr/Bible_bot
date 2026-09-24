@@ -1,220 +1,76 @@
 # Handoff
 
-If the session that was driving this project is gone — hit a limit, was
-reclaimed, ended — nothing is lost. Everything needed to continue is in this
-repo. This file is how a new Claude picks it up.
+How a new Claude picks this project up if the driving session is gone. Nothing
+lives in a model's memory; everything is in this repo.
 
-**Andrew: hand this file to a fresh Claude Code session and say "read HANDOFF.md
-and take over."** That is the whole recovery procedure.
-
-## What the project is
-
-A close rendering of the Ethiopian Orthodox Tewahedo canon into English — 89
-books, 1,554 chapters — with notes on what English normally loses. Built a few
-chapters at a time by a scheduled Routine that fires every five hours.
-
-## Genesis is closed
-
-Andrew signed off on **Genesis 1-50** on 2026-09-21, after reading it
-through and working two rounds of fixes with it open in front of him. Treat
-the book as finished.
-
-Rule 0's readability pass is part of rendering a chapter and never sweeps
-back over finished books, so nothing in the normal cycle touches Genesis
-anyway. This section is about your own initiative: do not reopen it to
-"improve" its wording, re-pass it, or rewrite its notes. Fix it only when he
-asks, or when something in it is provably wrong - a mistranslation, a false
-claim in a note, a broken cross-reference.
-
-A whole-book pass over already-finished chapters happens only when he asks
-for one, the way he asked for Genesis 26-50 on 2026-09-18.
-
-He may reopen it himself once the whole canon is drafted. That is his call.
+**Andrew: give a fresh Claude Code session this repo and say "read CLAUDE.md,
+then HANDOFF.md, and take over."** That is the whole recovery procedure.
 
 ## Where the state lives
 
-Nowhere but this repo. There is no memory to restore.
-
-| Question | Answer lives in |
+| Question | Answer |
 |---|---|
-| What chapter is next? | `python3 progress.py` — reads the files on disk |
-| How am I supposed to write? | `RENDERING_SPEC.md` — read it in full, it is the contract |
-| What are the standing rules? | `CLAUDE.md` — loads automatically each session |
-| What is the source text? | `sources/hebrew/`, `sources/greek/`; print with `source_text.py` |
-| What is known-broken? | `NOTES_FOR_ANDREW.md` |
+| The goals, your role, the rules | `CLAUDE.md` (read first, every time) |
+| How to write a chapter | `RENDERING_SPEC.md` |
+| What chapter is next? | `python3 progress.py` |
+| The source text | `python3 source_text.py <slug> <chapter>` |
+| Andrew's requests, and what was delivered | `PASTE/edits.md` |
+| Render reports | `PASTE/renders.md` |
+| Known problems, findings for Andrew | `NOTES_FOR_ANDREW.md` |
 
-## Taking over in four steps
+## Taking over
 
-1. **Attach the repo.** `add_repo` with owner `andwils21-ballr`, repo
-   `Bible_bot`, access `push`. Clone where the tool says, then
-   `register_repo_root`.
-2. **Read `RENDERING_SPEC.md` in full.** Especially "Work from the source text,
-   never from memory", "The depth standard for notes", "The hedge is a symptom",
-   and "Honesty rules".
-3. **Read the last three rendered chapters** to match voice and note density
-   before writing anything.
-4. **Recreate the Routine** (below), then do a render cycle by hand to confirm
-   the pipeline works before trusting the schedule.
+1. Attach the repo: `add_repo` with owner `andwils21-ballr`, repo `Bible_bot`,
+   access `push`. Clone where the tool says, then `register_repo_root`.
+2. Read `CLAUDE.md`, then `RENDERING_SPEC.md`, in full.
+3. Read the last three rendered chapters, and the Genesis 25 notes, for voice.
+4. Recreate the Routine (below), and do one render cycle by hand first.
 
-## Recreating the Routine
+## The Routine
 
-Use `create_trigger` with `cron_expression: "0 */5 * * *"` (every five hours;
-the server anchors it to the creation minute). Bind it to the new session by
-passing neither `create_new_session_on_fire` nor `persistent_session_id` — it
-then fires into the session that created it, which is what you want, because a
-self-bound Routine inherits that session's repo access and model.
-
-**Do not test it with `fire_trigger`.** That spawns a separate session instead
-of delivering into yours, which produces a misleading failure. This was learned
-the hard way; it cost two hours. Wait for a real scheduled firing.
-
-The prompt to give it is in `ROUTINE_PROMPT.md`.
-
-## Things that were learned the hard way
-
-- **The model matters.** Fresh-session Routines defaulted to a cheaper model and
-  produced nothing usable. Andrew asked for Opus. A self-bound Routine inherits
-  the model of the session that created it, so create it from an Opus session.
-- **Never render from memory.** Print the source text for every chapter first.
-  Within minutes of wiring `sources/` in, the actual Hebrew exposed four errors
-  in `manifest.json` that had been written from recall — including one that
-  would have rendered Proverbs 1 twice under two different book names.
-- **Andrew pushes back, and he is usually right.** Several of the best notes in
-  this corpus exist because he questioned a claim. Do not be agreeable; he has
-  said so directly. When he says a note sounds like it has no conviction, it
-  means the research stopped early — go finish it.
-- **Times in Central, never UTC.**
-
-## Andrew's editorial rules
-
-These were settled in conversation, not all of them are in the spec, and
-breaking one wastes his time. They are listed in the order they cost the most.
-
-0. **The readability pass is now part of rendering, not a later round.**
-   Added 2026-09-18, because catching these by hand was eating his evenings.
-   After the chapter is written and before it is committed, read it once more
-   as an ordinary English reader and hunt for exactly two things:
-   - **Cognate-accusative literalism** — *boiled a boiling*, *a going-up*,
-     *come from coming to*, *the lives of Sarah were*. Hebrew doubles a verb
-     with its own noun constantly; English does not, and it reads as broken.
-     Render it as the plain verb and put the doubling in the note.
-   - **A preposition or idiom carried over word for word** — *opposite his
-     wife*, *from before the face of*, *press for me with*, *the silver of the
-     field*, *possess the gate of*, *by the neck*. Ask what the phrase is
-     actually doing, then say that.
-   Also: words no one says (*reprove*, *concubine*, *tamarisk* with no noun
-   after it); a noun that sounds childish (*stuff*); an elliptical Hebrew
-   sentence left elliptical in English with no note; a term rendered one way
-   in one chapter and another way elsewhere.
-   **What the pass must never do:** flatten a real difficulty, adopt the Greek
-   over the Hebrew silently, or smooth a verse the source leaves rough. The
-   test is *trivially awkward by today's standards* versus *genuinely hard in
-   the source*. Fix the first, keep the second and note it.
-   **And never trade a word that carries weight for a flatter one.** Andrew's
-   ruling, 2026-09-18, on *la-tohar* at Exodus 24:10: "purity carries a FEELING
-   with it. Clearness is just something you see. I don't want to take the
-   feeling out of words. That's what strips the authenticity." Both were
-   defensible renderings of the same noun; the flatter one was wrong anyway.
-   The pass removes **friction**, never **force**. If the plainer candidate is
-   colder, drier, or more clinical than the source word, it is the wrong
-   candidate — go find a third one.
-   **Then give Andrew a before/after table** — one row per change, for every
-   chapter, in the reply. No table, no confidence that anything was checked.
-1. **Never explain our own decisions in a note.** No "English cannot carry
-   this", no "this rendering chose", no "we changed it because". Write for a
-   reader who will never see the curtain. Record the reasoning in the commit
-   message or in `NOTES_FOR_ANDREW.md` instead.
-2. **A change that only clarifies the story does not earn a note.** Notes are
-   for things that change what a reader *understands*. Rewording a confusing
-   verse is just rewording; it needs no footnote.
-3. **Length is not the test — value is.** Andrew is fine with a long note if it
-   serves a purpose or is genuinely interesting. He is not fine with a short one
-   that carries nothing. No single note should be exceptionally long unless it
-   matters to the overarching story of the Bible.
-4. **Capital Lord means God. Lowercase lord means a human of rank.** There is no
-   ambiguity to preserve; pick one and be consistent.
-5. **No Bible English** — the banned list is in `RENDERING_SPEC.md`. Two
-   deliberate exceptions, already argued and settled: keep **"and it came to
-   pass"** and **"and here"**. Do not strip them.
-6. **Versification follows the English/KJV division** so a reader can set this
-   beside a King James Bible.
-7. **When he asks a question, the deliverable is the answer.** He is often
-   diagnosing or thinking out loud. Report the finding and stop. Do not apply a
-   fix until he asks for one.
-8. **Default is: you edit and push, he reviews the diff.** But always include a
-   before/after table in the reply too, one row per change — settled
-   2026-09-22, updating the earlier note that he didn't want these. Keep the
-   commentary short: no explanation needed for a change that's just his own
-   suggestion applied as given. Save the explaining for cases where you
-   corrected, pushed back on, or added something beyond what he asked for.
-9. **Times in Central, never UTC.**
-11. **Stay close to the text; clean up in its own style.** Andrew, 2026-09-24:
-    no changes on your own, and no casual words the rest of the text would
-    never use (*get me out*). When he proposes wording, check it against the
-    Hebrew, the Greek and the literal possibilities before using it, and lay
-    those options out so the two of you decide together. His picture of an
-    event is a question to test against the text, not a ruling to apply.
-10. **Label what is a note in the project and what is just chat.** He asked for
-    this explicitly. Keep the two visibly separate in every report.
+- **Timing:** currently fires at 8:01 AM, 1:01 PM and 6:01 PM Central, which is
+  cron `1 13,18,23 * * *` in UTC during daylight time.
+- **Binding:** it is self-bound, meaning it fires into the session that created
+  it, which gives it that session's repo access and model.
+- **To recreate it:** `create_trigger` with neither `create_new_session_on_fire`
+  nor `persistent_session_id`, from an Opus session, with the prompt in
+  `ROUTINE_PROMPT.md`.
+- **Do not test with `fire_trigger`.** It spawns a separate session and gives a
+  misleading failure. Wait for a real scheduled firing.
 
 ## Hard-won technical facts
 
-- **The Ge'ez English in `sources/english/` is the OCP's own scholarly
-  translation, not ours.** We do not translate Ge'ez and must never claim to.
-  Quote it, report where it differs from the Greek or Aramaic, and do not build
-  an argument on what a Ge'ez word supposedly means.
+- **Hebrew and English chapter divisions differ.** We follow the English;
+  `source_text.py` prints the Hebrew numbering. Known offsets:
+  - Genesis 31:55 = Hebrew 32:1.
+  - Exodus 8:1–4 = Hebrew 7:26–29.
+  - Leviticus 6:1–7 = Hebrew 5:20–26, and Leviticus 6:8–30 = Hebrew 6:1–23.
+
+  Count the verses per chapter in the Hebrew file before rendering.
+- **Swete's Greek does not line up with the Hebrew.**
+  - It is out of step at Genesis 35:21–22, Exodus 7/8, Exodus 21/22 and
+    Leviticus 7 (Hebrew 7:21 is Swete 7:11).
+  - In Exodus 25–40 it is a shorter, reordered edition, so check what is
+    actually at a Greek verse number before citing it.
+- **Hebrew searches must allow final letter forms** (ך ם ן ף ץ) or they quietly
+  return nothing. Check the vowel points, not just the consonants.
+- **Letters written large or small in the Hebrew were once dropped** by
+  `fetch_sources.py`. Fixed and re-fetched 2026-09-23; 11 verses changed.
 - **The OCP XML splits one verse across several `<unit>` elements.** A verse is
-  every unit's `option="0"` reading joined in order. Reading only the first unit
-  silently truncates about two thirds of them mid-sentence, with no error. That
-  bug produced a whole set of false "the Ethiopic drops this" notes before it
-  was caught. `fetch_ocp.py` does it correctly now — do not rewrite it casually.
-- **`sources/swete-src/` holds the entire Septuagint, not just the
-  deuterocanon.** Any Greek Old Testament verse can be looked up from those two
-  CSVs. That is how the Genesis 11 Kainan and Genesis 46 seventy-five findings
-  were confirmed rather than asserted.
-- **Hebrew and English chapters split in different places.** We follow the
-  English (KJV) numbering; `source_text.py` prints the Hebrew numbering. Known
-  cases so far: Genesis 31/32 (Hebrew 32:1 = English 31:55); Exodus 7/8
-  (Hebrew 7:26-29 = English 8:1-4); Leviticus 5/6 (English 6:1-7 = Hebrew
-  5:20-26, English 6:8-30 = Hebrew 6:1-23). More are coming (Psalm titles,
-  Joel, Malachi). Count verses per chapter in the Hebrew file before rendering.
-- **Swete's Greek does not line up with the Hebrew.** It is out of step at
-  Exodus 7/8, 21/22 and Genesis 35:21/22. In the tabernacle chapters (Exodus
-  25-40) it is a shorter, reordered edition, so check what is actually at a
-  Greek verse number before citing it.
-  Leviticus 7 is also offset: Hebrew 7:21 is Swete 7:11.
-- **`sources/hebrew/` used to drop letters the Masoretes wrote large, small or
-  raised** (the ayin and dalet of the Shema, Deuteronomy 6:4, among them).
-  `fetch_sources.py` read only the text before such a letter. Fixed and
-  re-fetched 2026-09-23: 11 verses in the whole Hebrew Bible changed, and the
-  only rendered one was Leviticus 11:42, whose rendering was already right.
-  The OCP and Swete fetchers were checked and do not have the bug.
-- **Hebrew regex must allow final letter forms** (ך ם ן ף ץ), or searches
-  quietly return nothing. Check the vowel points as well as the consonants.
-- **The network in this container reaches GitHub and nothing else.**
-  archive.org, crosswire, ebible, wikisource and pseudepigrapha.org all fail.
-  Clone public repos over https; that works.
-- **Check a licence before you build on a source.** Andrew does not want
-  share-alike or non-commercial obligations. `SOURCES.md` records four sources
-  examined and rejected, and why. Exception: CC BY-SA is allowed for the
-  Ethiopian-only books (Andrew, 2026-09-23).
-- **The Word files carry the charts as pictures.** `build_docx.py` draws each
-  supplement in headless Chromium, so it needs `playwright`. In the cloud
-  container, run it as `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`.
-  `docx/` is gitignored. Do not send Word files in chat unless Andrew asks for them.
-
-## The most expensive lesson
-
-Three other AI models were asked, independently, to translate the same Ge'ez
-passage. All three agreed with each other and with us. All four of us were
-wrong, because the file every one of us was reading had been truncated by the
-parser bug above.
-
-**Independent opinions are only independent if they do not share an input.**
-Before commissioning an outside check on a source, test the source itself. The
-thing that actually caught it was one command counting Ge'ez full stops.
-
-## What is not automated
-
-Building the `.docx` files (`python3 build_docx.py`) and sending them to Andrew.
-He reads the chapters that way. Do it after a render cycle worth looking at.
+  every unit's `option="0"` reading joined in order. `fetch_ocp.py` does this
+  correctly; do not rewrite it casually. Reading only the first unit once
+  produced a set of false notes.
+- **The Ge'ez English in `sources/english/` is the OCP's translation, not ours.**
+  Quote it; never claim to translate Ge'ez.
+- **Independent checks are only independent if they don't share an input.**
+  Three outside models once "confirmed" a reading taken from the same truncated
+  file. Test the source before trusting agreement.
+- **The network reaches GitHub and nothing else.** Clone public repos over https.
+- **Licences:** no share-alike or non-commercial sources, except CC BY-SA for the
+  Ethiopian-only books (Andrew, 2026-09-23). Details are in `SOURCES.md`.
+- **Word files:** `build_docx.py` draws the charts in headless Chromium. In the
+  cloud container, run
+  `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`. The `docx/`
+  folder is gitignored. Send Word files only when Andrew asks.
+- **The website caches by a content fingerprint**, so a normal refresh shows
+  new chapters once GitHub Pages has deployed.

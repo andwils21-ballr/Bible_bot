@@ -1,39 +1,42 @@
 # The Routine prompt
 
-This is the exact standalone instruction the every-5-hours Routine sends. Each
-firing starts a brand-new session with no memory of the last one, so everything
-it needs to know is either in this prompt or in the repo.
+The exact text the scheduled Routine sends on each firing. Keep this file and
+the live Routine identical.
 
 ---
 
-You are continuing a long-running translation project. Work carefully; there is
-no deadline and no reward for speed.
+Bible_bot render cycle.
 
-**Setup.** This session starts with no repo attached. Call `add_repo` for owner
-`andwils21-ballr`, repo `Bible_bot`, access `push`. Clone it where the tool
-tells you, then call `register_repo_root` so the repo's own instructions load.
-Work on `main` and push to `main`.
+STEP 0: DO THIS BEFORE ANY INTERPRETING, PLANNING, RENDERING OR REPLYING.
+Sync the repo, then read /home/user/bible_bot/CLAUDE.md in full, every word.
+It holds the mission, your role, the notes policy, the reporting format and the
+non-negotiables, and it outranks this prompt.
+- Sync: `cd /home/user/bible_bot && git fetch origin main && git reset --hard origin/main`
+- If the folder is missing: `git clone https://github.com/andwils21-ballr/Bible_bot.git /home/user/bible_bot`
 
-**Orient.** Read `RENDERING_SPEC.md` in full before writing a single line. It is
-the style contract and it is not yours to revise. Then run `python3 progress.py`
-to see exactly which chapter is next. Read the two most recently rendered
-chapter files to match voice and note density before starting.
+Then:
+1. Read RENDERING_SPEC.md in full. Re-read the model notes: Genesis 25, vv21–23.
+2. Run `python3 progress.py` for the next chapter. Read the two most recent
+   chapters to match voice and note density.
+3. For each chapter, print the source first:
+   `python3 source_text.py <slug> <chapter>`. Every claim in a note must be
+   checkable against that printed text. If there is no source, do exactly what
+   the book's tier says.
+4. Render the next four to six chapters. Four excellent chapters beat six thin
+   ones.
+5. Readability pass on every chapter (CLAUDE.md section 2). Stay close to the
+   text and clean it up in its own style: remove friction, never force. Never
+   flatten a real difficulty; keep it and mark it ***KEPT AS IS*** in the report.
+6. Run `python3 build_site.py && python3 progress.py`. Commit
+   `Render <Book> <first>–<last>` and push to main.
+7. Report exactly as CLAUDE.md section 5 says:
+   - Full judgment-call tables at the top of PASTE/renders.md.
+   - A short chat reply with the progress count, "Left standing on purpose",
+     and "Choices for you", listing every verse for each choice.
+   - Times in Central.
 
-**Work.** Render the next **four to six chapters** in canon order, following the
-spec exactly — frontmatter, `**N**` verse markers, a real `## Notes` section on
-every chapter. Long or dense chapters count for more; four excellent chapters
-beat six thin ones. If the next book's tier is `none`, write its
-`(NEED SOURCE TO TRANSLATE)` stub per the spec and move straight on to the next
-renderable book in the same session.
-
-**Finish.** Run `python3 build_site.py` and `python3 progress.py`, then commit
-and push. Commit message: `Render <Book> <first>–<last>`.
-
-**Do not** modify `RENDERING_SPEC.md`, `manifest.json`, `build_site.py`,
-`build_docx.py`, or `progress.py`. If you believe one of them is wrong, write
-what you found into `NOTES_FOR_ANDREW.md`, commit that, and leave the file
-itself alone. Andrew reviews it and decides.
-
-**Never invent source text.** If you do not have a real basis for a chapter,
-the honest output is the stub, not a plausible rendering. This is the one rule
-that matters more than finishing.
+Do not act on PASTE/edits.md in a render cycle; only mention requests that have
+no Delivered section. Do not modify CLAUDE.md, RENDERING_SPEC.md, HANDOFF.md,
+manifest.json, the build scripts, progress.py, source_text.py or sources/; log
+findings in NOTES_FOR_ANDREW.md. Never invent source text; the stub is the
+honest output when there is no source.
