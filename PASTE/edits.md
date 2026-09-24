@@ -172,3 +172,69 @@ That still needs your go before I list the *ger* verses and change them.
 | RENDERING_SPEC fixed terms | — | *ben nekhar* = foreigner (already the wording in Genesis 17:12, 17:27; Exodus 12:43; Leviticus 22:25, so no verse changes) |
 
 Still open: ***ger*** is also "foreigner" today (Exodus 12:48, 49; Leviticus 22:18 and others). Until *ger* gets its own word ("stranger" is the recommendation), the two stay blurred.
+
+---
+
+## Request (chat, 2026-09-24)
+
+> List the verses [for *ger*], and also give me a list of other possible words.
+
+## Delivered 2026-09-24: *ger* (answer only, nothing changed)
+
+### Every *ger* verse rendered so far, and how it reads now
+
+Two forms:
+- **the noun** *ger*: a person
+- **the verb** *gur*: to live as a *ger*, marked "(verb)"
+
+| Verse | Reads now |
+|---|---|
+| Genesis 15:13 | your seed will **live as foreigners** in a land not theirs |
+| Genesis 23:4 | "A **foreigner** and a resident I am among you" |
+| Genesis 35:27 | where Abraham and Isaac had **lived as foreigners** (verb) |
+| Exodus 2:22 | "I have been a **foreigner** in a foreign land" (Gershom's name) |
+| Exodus 6:4 | the land where they **lived as foreigners** (verb) |
+| Exodus 12:19 | whether a **foreigner** or a native of the land |
+| Exodus 12:48 | when a **foreigner** lives with you and would keep the Passover |
+| Exodus 12:49 | one law for the native and for the **foreigner** living among you |
+| Exodus 18:3 | "I have been a **foreigner** in a foreign land" (Gershom again) |
+| Exodus 20:10 | the **foreigner** who is inside your gates (Sabbath command) |
+| Exodus 22:21 | you shall not wrong a **foreigner**… for you were **foreigners** in the land of Egypt |
+| Exodus 23:9 | you shall not press down a **foreigner**, for you yourselves know |
+| Exodus 23:12 | the son of your slave woman and the **foreigner** may draw breath |
+| Leviticus 16:29 | neither the native nor the **foreigner** living among you |
+| Leviticus 17:8, 10, 13 | of the **foreigners** living among them |
+| Leviticus 17:12 | the **foreigner** living among you shall not eat blood |
+| Leviticus 18:26 | neither the native nor the **foreigner** living among you |
+| Leviticus 19:10 | for the poor and for the **foreigner** |
+| Leviticus 19:33 | when a **foreigner** lives with you in your land |
+| Leviticus 19:34 | the **foreigner** living with you shall be to you as a native… (you were **foreigners** in Egypt) |
+| Leviticus 20:2 | of the **foreigners** living in Israel |
+| Leviticus 22:18 | of the **foreigners** living in Israel |
+| Leviticus 23:22 | for the poor and for the **foreigner** |
+| Leviticus 24:16 | the **foreigner** as well as the native |
+| Leviticus 24:22 | one law, for the **foreigner** and for the native alike |
+| Leviticus 25:6 | your resident, who **live with you as foreigners** |
+| Leviticus 25:23 | you are **foreigners** and residents with Me |
+| Leviticus 25:35 | as a **foreigner** and a resident, he shall live with you |
+| Leviticus 25:45 | the residents who **live with you as foreigners** |
+| Leviticus 25:47 | if a **foreigner** or a resident with you prospers… sells himself to the **foreigner** |
+
+Two more notes on the list:
+- **Exodus 2:22 and 18:3.** Moses names his son *Gershom* from this word: *ger sham*, "a *ger* there". Whatever English word is chosen will sit in the pun on his name, and the note explains it.
+- **The other languages.** The Greek mostly has *prosēlytos*, "one who has come over", in the laws, and *paroikos*, "one living beside", in the stories (Genesis 23:4; Exodus 20:10). The Latin has *advena*, "one who has come", or *peregrinus*, "pilgrim".
+
+### Possible English words for *ger*
+
+| Word | Fits? |
+|---|---|
+| **stranger** | the classic English word ("love the stranger, for you were strangers in Egypt"); reads naturally in laws and in Gershom's name; modern ear also hears "someone I don't know" |
+| **immigrant** | exact modern meaning (came from elsewhere to live here); politically loaded today, and too modern for the text's style |
+| **alien / resident alien** | legally exact; "alien" now suggests outer space; "resident" is taken by *toshav* |
+| **newcomer** | captures "one who has come" (the Greek and Latin sense); too casual for law |
+| **guest** | captures "living on someone else's land" (Leviticus 25:23, "you are guests with Me"); too light for the laws |
+| **sojourner** | ruled out earlier: Bible English |
+| **foreigner** | now taken by *ben nekhar* |
+| **settler** | freed up; but "settler" suggests someone who takes land, the opposite of a *ger* |
+
+**Recommendation: stranger.** It is the only candidate that works in all three places: the laws ("one law for the native and the stranger"), the stories ("strangers in a land not theirs"), and the verb ("where Abraham and Isaac lived as strangers"). It keeps the book's style. The verb would become "live as a stranger" everywhere, including the ruled phrase in RENDERING_SPEC ("live as a foreigner" → "live as a stranger").
