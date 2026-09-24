@@ -2,6 +2,152 @@
 
 Each scheduled render cycle adds its report at the top. Format: CLAUDE.md, section 5.
 
+## Leviticus 26–Numbers 2 (routine fired 1:01 PM Central, 2026-09-24)
+
+**Landed:** Leviticus 26, 27 (Leviticus is complete), Numbers 1, 2. Progress 143 → **147 of 1,554 (9.5%)**. Next is Numbers 3.
+
+### Leviticus 26: Blessing and Warning
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *elilim* | worthless gods (as 19:4) |
+| 1 | *even maskit*, "a stone of display" | a carved stone |
+| 5 | "threshing will overtake the vintage" | your threshing will reach to the grape harvest |
+| 6 | *ein macharid*, "none making tremble" | with no one to make you afraid |
+| 6 | *chayyah ra'ah*, "an evil beast" | harmful beasts |
+| 9 | *u-faniti aleikhem*, "I will face toward you" | I will turn to you |
+| 10 | *yashan noshan*, "old, made old" | old stored grain |
+| 10 | "bring out the old from before the new" | clear out the old to make room for the new |
+| 11 | *mishkan* / *tig'al nafshi* | My dwelling / My soul will not abhor (*ga'al* = "abhor" throughout; "loathe" is taken by *sheqets*) |
+| 13 | *motot ullkhem*, "the bars of your yoke" / *qomemiyut* | the bars of your yoke / walk upright |
+| 16 | *behalah* / *shachefet* / *qaddachat* | sudden terror / wasting disease / fever |
+| 16 | "consuming eyes and making the soul pine" | that wear out the eyes and drain the life away |
+| 17 | "I will give My face against you" | I will set My face against you |
+| 19 | *ge'on uzzkhem* | the pride of your strength |
+| 21–41 | *qeri* | ***KEPT AS IS*** in hostility (the usual reading; see Choices) |
+| 22 | *ve-shikkelah etkhem*, "will bereave you" | rob you of your children |
+| 25 | *cherev noqemet neqam berit*, "a sword avenging the vengeance of the covenant" | a sword that avenges the covenant |
+| 26 | *matteh lechem* | your staff of bread |
+| 28 | *ba-chamat qeri*, "in the heat of qeri" | in furious hostility |
+| 30 | *chammanim* | ***KEPT AS IS*** incense altars (the word's meaning is uncertain; "sun pillars" is the other reading) |
+| 30 | *gillulim* | idols |
+| 31 | *re'ach nichoach* | soothing aroma (see Choices) |
+| 34, 43 | *tirtseh*, "will be paid / accept" | will be paid its sabbaths |
+| 36 | *morekh*, "softness" | faintness |
+| 36 | *qol aleh niddaf* | the sound of a driven leaf |
+| 39 | *yimmaqqu*, "melt away / rot" | rot away |
+| 40 | *ma'al* | treachery |
+| 41 | *levavam he-arel* | their uncircumcised heart |
+| 43 | *ya'an u-ve-ya'an*, "because and by because" | because — and only because — |
+| 45 | *berit rishonim*, "covenant of the first ones" | the covenant with the first generation |
+
+### Leviticus 27: Vows, Valuations and Tithes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *yafli neder* | makes a special vow |
+| 2 | *be-erkekha*, "by your valuation" (a frozen term) | by the valuation |
+| 3 | *sheqel ha-qodesh*, "shekel of holiness" | the shekel of the sanctuary (see Choices) |
+| 8 | *mach mei-erkekha*, "low from the valuation" | too poor to pay the valuation |
+| 8 | "as far as the hand of the vower reaches" | according to what the one who made the vow can afford |
+| 10 | *lo yachalifennu ve-lo yamir* | not exchange it or substitute it |
+| 12 | "between good and between bad" | as good or bad |
+| 14 | *yaqdish*, "makes holy" | sets apart as holy |
+| 16 | *lefi zar'o*, "by its seed" / *chomer* | by its seed / a homer |
+| 21 | *ki-sdeh ha-cherem* | like a devoted field |
+| 23 | *mikhsat*, "the computation" | the amount |
+| 25 | *esrim gerah* | twenty gerahs |
+| 28 | *cherem* | devoted |
+| 29 | "shall surely be put to death" | ***KEPT AS IS*** he shall surely be put to death (hard, and the text gives no case) |
+| 30 | *ma'aser* | every tenth |
+| 32 | *asher ya'avor tachat ha-shavet* | that passes under the rod |
+| 33 | *lo yevaqqer*, "he shall not inspect" | he shall not pick out |
+
+### Numbers 1: The Count of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *se'u et rosh*, "lift the head" | take a count |
+| 2 | *le-gulgelotam*, "by their skulls" | head by head |
+| 2 | *be-mispar shemot* | by the number of names |
+| 3 | *kol yotse tsava*, "all going out to the army" | all who can go out to war |
+| 3 | *tifqedu* (*paqad*) | count |
+| 3 | *le-tsiv'otam* | by their divisions |
+| 5–15 | names | received English forms (Elizur, Shedeur, Zurishaddai, Ocran, Deuel…) |
+| 16 | *qeru'ei ha-edah* (written *qeri'ei*, read *qeru'ei*) | the ones called from the congregation |
+| 16 | *nesi'ei* | the chiefs |
+| 16, 21–46 | *elef* | ***KEPT AS IS*** thousand(s) (see Choices: *elef* also means "clan") |
+| 17 | *nikkevu be-shemot* | designated by name |
+| 18 | *va-yityaldu*, "had themselves born" | registered their descent |
+| 20–43 | the repeated census formula | kept identical, as the Hebrew repeats it |
+| 50 | *mishkan ha-edut* | the dwelling of the Testimony (as Exodus) |
+| 51 | *ha-zar* | the outsider |
+| 52 | *degel* | banner |
+| 53 | *qetsef* | wrath |
+| 53 | *ve-shamru… et mishmeret*, "keep the keeping" | keep the charge |
+
+### Numbers 2: The Camp Around the Tent
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *be-otot*, "with signs" | under the signs |
+| 2 | *mi-neged saviv*, "from opposite, around" | facing the tent of meeting, at a distance, all around it |
+| 3 | *qedmah mizrachah*, "eastward, toward the sunrise" | on the east side, toward the sunrise |
+| 4 | *u-tseva'o u-fequdeihem*, "and his army and their counted ones" | and his army, those of them counted |
+| 10 | *teimanah* | on the south |
+| 14 | *Re'uel* | ***KEPT AS IS*** Reuel (the Hebrew has Deuel in 1:14, 7:42, 7:47, 10:20; see Choices) |
+| 17 | *ish al yado*, "each at his hand" | each in his place |
+| 18 | *yammah*, "seaward" | on the west |
+| 25 | *tsafonah* | on the north |
+
+### Left standing on purpose
+
+- **Leviticus 26:21–41:** *qeri* ("hostility"), a word found nowhere else; see Choices.
+- **Leviticus 26:30:** *chammanim*: incense altars or sun pillars; uncertain.
+- **Leviticus 27:29:** a devoted person "shall surely be put to death": hard, and the text gives no case.
+- **Numbers 1:16 and the census:** *elef* read as "thousand"; see Choices.
+- **Numbers 2:14:** "Reuel" where the other four mentions say "Deuel"; see Choices.
+
+### Choices for you (every verse listed)
+
+**1. *qeri* (Leviticus 26 only, 7 times): "in hostility" or "by chance"?**
+
+| Verse | Reads now |
+|---|---|
+| 26:21 | "if you walk with Me **in hostility**" |
+| 26:23 | "but walk with Me **in hostility**" |
+| 26:24 | "then I too will walk with you **in hostility**" |
+| 26:27 | "but walk with Me **in hostility**" |
+| 26:28 | "then I will walk with you **in furious hostility**" |
+| 26:40 | "that they walked with Me **in hostility**" |
+| 26:41 | "so that I too walked with them **in hostility**" |
+
+From *qarah*, to meet or happen. **Option A (now):** opposition. **Option B:** "as if by chance", living as if what happens has nothing to do with God, and God answers by leaving them to chance: *if you walk with Me carelessly… I will walk with you carelessly*. Both are real readings of the word.
+
+**2. *elef* (the census): "thousand" or "clan"?** Numbers 1:16 ("the heads of the thousands of Israel") and every total in 1:21–46 and 2:4–32. Judges 6:15 uses *elef* for Gideon's clan. The text's own sums (1:46, 2:32) and Exodus 38:26 add up on the *thousand* reading. My recommendation: keep "thousand"; the note on 1:16 gives both.
+
+**3. Gad's chief's father: Deuel or Reuel?**
+
+| Verse | Hebrew | Reads now |
+|---|---|---|
+| Numbers 1:14 | *De'uel* | Eliasaph son of **Deuel** |
+| Numbers 2:14 | *Re'uel* | Eliasaph son of **Reuel** |
+| Numbers 7:42, 7:47, 10:20 | *De'uel* | (not rendered yet) |
+
+The Greek has *Reuel* all five times. Options: keep each verse as the Hebrew has it (now), or use one name everywhere: Deuel (the Hebrew majority) or Reuel (the Greek).
+
+**4. *sheqel ha-qodesh*: "shekel of the sanctuary" or "shekel of the holy place"?**
+
+| Verse | Reads now |
+|---|---|
+| Exodus 30:13, 30:24 | the shekel of **the sanctuary** |
+| Exodus 38:24, 38:25, 38:26 | the shekel of **the holy place** |
+| Leviticus 5:15 | the shekel of **the holy place** |
+| Leviticus 27:3, 27:25 | the shekel of **the sanctuary** |
+
+**5. Still open from this morning:** *toshav* (settler/resident), *re'ach nichoach* (now also Leviticus 26:31), *ben nekhar* vs *ger*, and *eved* when God is the master. The verse lists are in the report below.
+
+
 ## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 
 **Landed:** Leviticus 22, 23, 24, 25. Progress 139 → **143 of 1,554 (9.2%)**. Next is Leviticus 26.
