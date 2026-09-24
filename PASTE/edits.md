@@ -238,3 +238,33 @@ Two more notes on the list:
 | **settler** | freed up; but "settler" suggests someone who takes land, the opposite of a *ger* |
 
 **Recommendation: stranger.** It is the only candidate that works in all three places: the laws ("one law for the native and the stranger"), the stories ("strangers in a land not theirs"), and the verb ("where Abraham and Isaac lived as strangers"). It keeps the book's style. The verb would become "live as a stranger" everywhere, including the ruled phrase in RENDERING_SPEC ("live as a foreigner" → "live as a stranger").
+
+---
+
+## Request (chat, 2026-09-24)
+
+> I think guest is the right word here… a person staying inside someone's personal space… versatile enough for the law and for someone known to you.
+
+## Delivered 2026-09-24: *ger* = guest
+
+**Tested against every verse first.** It holds, and in the stories it fits better than any alternative:
+- Lot in Sodom: *This one came here as a guest* (Genesis 19:9).
+- Jacob: *I have lived as a guest with Laban* (Genesis 32:4).
+- Moses, taken in and fed by Jethro: *I have been a guest in a foreign land* (Exodus 2:22).
+- Israel, which came into Egypt by Pharaoh's invitation (Genesis 45:18, 47:4): *you were guests in the land of Egypt* (Exodus 22:21).
+- *You are guests and residents with Me* (Leviticus 25:23).
+
+The core of *ger* is someone living under another people's protection, which is what a guest is.
+
+**One weakness, carried in a note:** a *ger* could stay for generations (Leviticus 25:45), and "guest" usually sounds short-term. The Genesis 23:4 note now says "a guest who may stay for generations."
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 12:10; 15:13; 17:8; 19:9; 20:1; 21:23, 34; 23:4; 26:3; 28:4; 32:4; 35:27; 36:7; 37:1; 47:4, 9 | live(d) as a foreigner / foreigners | live(d) as a **guest** / **guests** |
+| Exodus 2:22; 18:3 | I have been a foreigner in a foreign land | I have been a **guest** in a foreign land ("foreign" stays: it's a different word, *nokhriyyah*) |
+| Exodus 6:4; 12:19, 48, 49; 20:10; 22:21; 23:9, 12 | foreigner(s) | **guest(s)** |
+| Leviticus 16:29; 17:8, 10, 12, 13, 15; 18:26; 19:10, 33, 34; 20:2; 22:18; 23:22; 24:16, 22; 25:6, 23, 35, 45, 47 | foreigner(s) | **guest(s)** |
+| Notes: Genesis 16:6, 23:4, 36:6–7; Exodus 2:19, 2:22, 12:49, 18:3–4, 22:21, 23:9; Leviticus 17, 19 (×2), 22:25, 25:23 | foreigner | guest (Exodus 2:22 and 22:21 notes rewritten; the old 22:21 note had a behind-the-curtain line, now removed) |
+| RENDERING_SPEC | *gur* = live as a foreigner | ***ger* = guest; *gur* = live as a guest**; *ben nekhar* = foreigner |
+
+**Unchanged on purpose:** the *ben nekhar* verses keep "foreigner" (Genesis 17:12, 17:27; Exodus 12:43; Leviticus 22:25), and so do "foreign gods" (Genesis 35:2, 4), "made himself a stranger" (Genesis 42:7) and "a foreign people" (Exodus 21:8). Those are all the *nekhar* word.

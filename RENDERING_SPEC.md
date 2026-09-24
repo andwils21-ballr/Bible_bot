@@ -84,7 +84,7 @@ case…*, or a dash and a plain clause.
 
 | Instead of | Use |
 |---|---|
-| *sojourn* (*gur*) | *live as a foreigner*, *a foreigner* |
+| *sojourn* (*gur*) | *live as a guest*; the noun *ger* is *a guest* |
 | *after its kind* (*le-mino*) | *of every kind* |
 | *the bone of that same day* (*be-etsem ha-yom*) | *on that very day* |
 | *bring* for motion away from the speaker | *take* (*take me out of this house*); the formula *the LORD who brought you out of Egypt* stays |
@@ -109,6 +109,7 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *re'ach nichoach* | soothing aroma | 2026-09-24 |
 | *eved* when God is the master | servant | 2026-09-24 |
 | *ben nekhar* (a person of another nation) | foreigner | 2026-09-24 |
+| *ger* (and the verb *gur*) | guest (verb: live as a guest) | 2026-09-24 |
 
 When a recurring word needs a fixed rendering, bring the choice to Andrew with
 every verse it occurs in, then add it here.
