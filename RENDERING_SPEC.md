@@ -178,11 +178,15 @@ word means and readable at speed. Likewise *after its kind* for *le-mino*, now
 idiom where *etsem*, bone, means the very substance of a thing — now **on that
 very day**.
 
-**Say it the way people talk.** Andrew's ruling, 2026-09-24, for every chapter
-already published and every one to come:
+**Say it the way people talk — in the text's own style.** Andrew's ruling,
+2026-09-24, for every chapter already published and every one to come. Clean
+up the wording without changing the register: no casual words the rest of the
+text would never use (*get me out* is wrong; *take me out* is right), and no
+rendering that goes further than the Hebrew or Greek supports. Stay as close
+to the text as it allows, and clarify only where it is genuinely unclear:
 
 - **take** for motion away from where the speaker is, **bring** for motion
-  toward: *what have you done, taking us out of Egypt?*; *get me out of this
+  toward: *what have you done, taking us out of Egypt?*; *take me out of this
   house*. The deliverance formula *the LORD who brought you out of the land of
   Egypt* is not motion away, and it stays.
 - **what**, not *the thing that*: *this is what the LORD has commanded*; *is

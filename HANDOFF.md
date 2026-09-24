@@ -148,6 +148,12 @@ breaking one wastes his time. They are listed in the order they cost the most.
    suggestion applied as given. Save the explaining for cases where you
    corrected, pushed back on, or added something beyond what he asked for.
 9. **Times in Central, never UTC.**
+11. **Stay close to the text; clean up in its own style.** Andrew, 2026-09-24,
+    after a clarity pass went too far: do not change things on your own, and
+    do not let his picture of an event push a rendering past what the word
+    says (*full force* for *eitan*, which only means constant, ever-flowing).
+    No casual words the rest of the text would never use (*get me out*). When
+    he gives exact wording, use his exact wording.
 10. **Label what is a note in the project and what is just chat.** He asked for
     this explicitly. Keep the two visibly separate in every report.
 
