@@ -127,12 +127,16 @@ def to_speech(body):
             continue
         else:
             m = VERSE_RE.match(block)
-            if not m:
-                continue
-            text = m.group(2).replace("  \n", " ")
+            text = (m.group(2) if m else block).replace("  \n", " ")
             text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
             text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"\1", text)
-            chunks.append({"id": "v" + m.group(1), "text": text})
+            if m:
+                chunks.append({"id": "v" + m.group(1), "text": text})
+            elif chunks and chunks[-1]["id"]:
+                # A paragraph with no verse number continues the verse above:
+                # the lines of a song after "and they said:". Skipping it once
+                # left Exodus 15:1 and 15:21 announcing a song and never singing.
+                chunks[-1]["text"] += " " + text
     return chunks
 
 

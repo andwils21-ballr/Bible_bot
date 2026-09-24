@@ -178,6 +178,19 @@ word means and readable at speed. Likewise *after its kind* for *le-mino*, now
 idiom where *etsem*, bone, means the very substance of a thing — now **on that
 very day**.
 
+**Say it the way people talk.** Andrew's ruling, 2026-09-24, for every chapter
+already published and every one to come:
+
+- **take** for motion away from where the speaker is, **bring** for motion
+  toward: *what have you done, taking us out of Egypt?*; *get me out of this
+  house*. The deliverance formula *the LORD who brought you out of the land of
+  Egypt* is not motion away, and it stays.
+- **what**, not *the thing that*: *this is what the LORD has commanded*; *is
+  this not what we said to you?*
+- An idiom a reader has to decode gets said plainly in the text, with the
+  literal form in the note: *marching out in open defiance* for *with a high
+  hand*.
+
 **Also not archaism:** plain old words still in current use and doing real work —
 *flesh*, *seed*, *loins*, *womb*, *dread*, *kindred*. Simplicity is
 the goal, not blandness. If the source is blunt or strange, stay blunt and
