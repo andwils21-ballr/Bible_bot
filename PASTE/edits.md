@@ -119,3 +119,48 @@ What each word actually means:
 - *ben nekhar* = **foreigner**, the plainest word for a person of another nation.
 
 That changes every *ger* in Genesis–Numbers from "foreigner" to "stranger", a few dozen verses (my quick count also caught the name Hagar, which is spelled the same way, so the exact number still needs checking). I will list every verse before changing anything, if you say go.
+
+---
+
+## Request (chat, 2026-09-24)
+
+> 23:24 yes. For ben nekhar do we have any other possible words, and what do other languages translate it as?
+
+## Delivered 2026-09-24
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 23:24 | a remembrance by a blast | a remembrance **with horn blasts** (note: the word also means a great shout) |
+
+### ben nekhar: the other languages (checked in our Greek and Latin texts)
+
+| Verse | Hebrew | Greek (Septuagint) | Latin (Vulgate) |
+|---|---|---|---|
+| Genesis 17:12 | *ben nekhar* | *allotrios*, "belonging to another" | *de stirpe* (paraphrased: "not of your stock") |
+| Genesis 17:27 | *ben nekhar* | *allogenēs*, "of another birth" | *alienigena*, "born elsewhere" |
+| Exodus 12:43 | *ben nekhar* | *allogenēs* | *alienigena* |
+| Leviticus 22:25 | *ben nekhar* | *allogenēs* | *alienigena* |
+
+For comparison, the other two words:
+- ***ger*:** the Greek has *prosēlytos*, "one who has come over" (Exodus 12:48; Leviticus 19:34), which gives English *proselyte*, or *paroikos*, "one living beside" (Genesis 23:4). The Latin has *advena*, "one who has come", or *peregrinus*, the root of English *pilgrim*.
+- ***zar* (Leviticus 22:10):** the Greek uses the same *allogenēs*. So the Greek blurs *zar* and *ben nekhar*, and the Hebrew keeps them apart.
+
+Jesus uses *allogenēs* once: of the one healed leper who came back to give thanks, *this foreigner* (Luke 17:18).
+
+**All three ancient languages say the same thing: *a person born of another people*.** It carries no sense of traveling and no sense of being unauthorized.
+
+### English candidates for ben nekhar
+
+| Word | Fits? |
+|---|---|
+| **foreigner** | exactly the meaning; plain; what the Greek and Latin say |
+| alien | Latin's word, but modern English hears legal status or outer space |
+| outlander | accurate, but old-fashioned |
+| man of another nation | exact but wordy; could be used where a verse needs it |
+| stranger | taken, if *ger* becomes "stranger" |
+| outsider | taken by *zar* |
+| gentile | wrong word: that is *goy*, "nation" |
+
+**Recommendation:** ***ben nekhar* = foreigner** (as it is now in all four verses), and ***ger* = stranger**, which frees "foreigner" to mean only *ben nekhar*. The Greek *proselyte* ("one who has come over") is why "stranger" fits *ger*: someone who came in from outside and lives among you.
+
+That still needs your go before I list the *ger* verses and change them.
