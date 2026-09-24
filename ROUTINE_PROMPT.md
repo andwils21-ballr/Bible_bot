@@ -35,8 +35,8 @@ Then:
      and "Choices for you", listing every verse for each choice.
    - Times in Central.
 
-Do not act on PASTE/edits.md in a render cycle; only mention requests that have
-no Delivered section. Do not modify CLAUDE.md, RENDERING_SPEC.md, HANDOFF.md,
+Do not act on or write in PASTE/edits.md in a render cycle; only mention items
+not yet checked off. Do not modify CLAUDE.md, RENDERING_SPEC.md, HANDOFF.md,
 manifest.json, the build scripts, progress.py, source_text.py or sources/; log
 findings in NOTES_FOR_ANDREW.md. Never invent source text; the stub is the
 honest output when there is no source.

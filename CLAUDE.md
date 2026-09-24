@@ -92,9 +92,11 @@ Read them before writing notes.
 
 ## 5. Where things go: the reporting format
 
-- **`PASTE/edits.md`** is where Andrew writes requests. **Never empty it or
-  overwrite his text.** Deliver under it: append `## Delivered <date>` with a
-  before/after table (one row per change) and any answers.
+- **`PASTE/edits.md`** is Andrew's alone: he pastes requests, Claude reads.
+  Write nothing in it except a checkmark (✅) on an item that is finished. No
+  answers, tables or `Delivered` sections there; those go in the chat reply,
+  kept short. Clear the file only when every item in it has been decided and
+  the edits made.
 - **`PASTE/renders.md`** gets every render cycle's report, newest at the top.
   - For each chapter: a table `Verse | Word-for-word | In the text now`, one
     row per judgment call, meaning anywhere the English departs from
@@ -107,7 +109,7 @@ Read them before writing notes.
   - **Choices for you**: for every choice, list every verse involved, with how
     each one reads now, so he can check the context.
 - A render cycle does not act on requests in `PASTE/edits.md`. It only mentions
-  any that have no `Delivered` section yet.
+  any items not yet checked off.
 
 ## 6. Non-negotiables
 

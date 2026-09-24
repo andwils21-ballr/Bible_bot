@@ -14,7 +14,7 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 | How to write a chapter | `RENDERING_SPEC.md` |
 | What chapter is next? | `python3 progress.py` |
 | The source text | `python3 source_text.py <slug> <chapter>` |
-| Andrew's requests, and what was delivered | `PASTE/edits.md` |
+| Andrew's requests (checkmarks only; cleared when all are done) | `PASTE/edits.md` |
 | Render reports | `PASTE/renders.md` |
 | Known problems, findings for Andrew | `NOTES_FOR_ANDREW.md` |
 
