@@ -35,7 +35,12 @@ Changes to chapters already rendered, filed under the book the request started i
 
 **On 6:** the Hebrew has no words for "after the battle". *Then… there* gives the order of events without adding any, and the rewritten note explains that the altar is named for the staff Moses held up over the battle.
 
-**On 12:** "him" is **not God**. It is the person or animal that touched the mountain (v12). They are put to death from a distance, by stoning or arrows, so no one lays a hand on them. If it were God, it would be a capital *Him*. Left as it was, as you asked.
+**On 12 (revised the same night):** my first answer was wrong. I argued from the lowercase *him*, which I had written myself. In the sources, *bo* in v13 is the same pronoun ending as *its edge* in v12, and both point to the mountain; the Greek uses the same word, *autou*, for both. Your cadence reading was right, and your point that the danger is God's presence on the mountain is in the text (vv18, 21, 23).
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 19:13 | No hand shall touch **him** | No hand shall touch **it** |
+| Exodus 19 notes | — | New note at vv12–13: *him* and *it* are one Hebrew pronoun; the mountain is deadly because the LORD came down on it (v18) and made it holy (v23), as with the holy things in Numbers 4:15, 20 |
 
 ---
 
