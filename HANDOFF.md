@@ -29,10 +29,10 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 
 ## The Routine
 
-- **Timing:** four runs a day, at 3:01 AM, 7:51 AM, 1:01 PM and 6:01 PM Central
+- **Timing:** four runs a day, at 3:01 AM, 7:45 AM, 1:01 PM and 6:01 PM Central
   (daylight time). 8:01 AM–1:01 PM is kept free for Andrew. It takes two
   triggers, because one cron line cannot hold two different minutes:
-  `1 8,18,23 * * *` and `51 12 * * *` (UTC). Both use the prompt in
+  `1 8,18,23 * * *` and `45 12 * * *` (UTC). Both use the prompt in
   `ROUTINE_PROMPT.md`. The cron is UTC, so when daylight time ends every run
   moves one hour earlier in Central.
 - **Binding:** it is self-bound, meaning it fires into the session that created
