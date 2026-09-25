@@ -1,3 +1,4 @@
 # Notes for Andrew
 
 - **2026-09-25, Swete's Greek of Numbers 13 is one verse ahead of the Hebrew.** Greek 13:1 is Hebrew 12:16, so Hebrew 13:33 is Greek 13:34. HANDOFF's list of known offsets should get this line.
+- **2026-09-25, Numbers 16–17 chapter break.** The Hebrew ends chapter 16 at the fire (16:35). English 16:36–50 is Hebrew 17:1–15, and English 17:1–13 is Hebrew 17:16–28. Swete's Greek follows the English numbering here. HANDOFF's list of known offsets should get this line.

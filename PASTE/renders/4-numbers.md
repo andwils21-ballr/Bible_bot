@@ -2,6 +2,89 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 15–18 (routine fired 1:01 PM Central, 2026-09-25)
+
+**Landed:** Numbers 15, 16, 17, 18. Progress 159 → **163 of 1,554 (10.5%)**. Next is Numbers 19.
+
+### Numbers 15: Laws for the Land Ahead
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *erets moshvotekhem*, "the land of your dwellings" | the land where you will live |
+| 3 | *le-falle neder*, "to make a vow wonderful" | to fulfill a special vow |
+| 13 | *ha-ezrach*, "the native" | every native |
+| 15 | *ka-khem ka-ger*, "as you, as the guest" | as you are, so shall the guest be |
+| 20 | *challah*, "a ring-loaf" | a loaf |
+| 24 | *me-einei ha-edah*, "from the eyes of the congregation" | without the congregation knowing |
+| 24 | *ka-mishpat*, "according to the ruling" | according to the rule |
+| 30 | *be-yad ramah*, "with a high hand" | in open defiance |
+| 30 | *megaddef*, "reviles" | is reviling the LORD |
+| 31 | *hikkaret tikkaret*, "cut off, shall be cut off" | shall surely be cut off |
+| 34 | *ki lo forash*, "for it had not been made plain" | because it had not been made clear |
+| 35 | *ragom oto va-avanim*, "stone him with stones" | stone him |
+| 39 | *asher attem zonim achareihem*, "after which you whore" | which you follow like a prostitute |
+
+### Numbers 16: Korah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yiqqach Qorach*, "Korah took" (no object) | ***KEPT AS IS*** Korah… took men (the object is missing in the Hebrew; noted) |
+| 2 | *anshei shem*, "men of name" | men with a name |
+| 3 | *rav lakhem*, "much for you" | You have gone too far! |
+| 3 | *titnasse'u*, "lift yourselves up" | lift yourselves up above |
+| 13 | *tistarer aleinu gam histarer*, "make yourself chief over us, also making yourself chief" | you must also make yourself chief over us |
+| 14 | *ha-einei ha-anashim ha-hem tenaqqer*, "will you bore out the eyes" | Will you put out the eyes of these men? |
+| 15 | *al tefen el minchatam*, "do not turn to their offering" | Do not accept their offering |
+| 21 | *ke-raga*, "as a moment" | in an instant |
+| 26 | *pen tissafu*, "lest you be swept away" | or you will be swept away |
+| 28 | *ki lo mi-libbi*, "for not from my heart" | ***KEPT AS IS*** it is not from my own heart |
+| 29 | *u-fequddat kol ha-adam*, "the visitation of all people" | the fate of all people |
+| 30 | *beri'ah yivra*, "creates a creation" | creates something new |
+| 37 (Heb 17:2) | *zereh halah*, "scatter yonder" | scatter the fire far and wide |
+| 38 (Heb 17:3) | *ha-chatta'im ha-elleh be-nafshotam*, "these sinners against their lives" | these men who sinned at the cost of their lives |
+| 40 (Heb 17:5) | *be-yad Moshe lo*, "by the hand of Moses to him" | as the LORD had told Eleazar through Moses |
+| 45 (Heb 17:10) | *herommu*, "lift yourselves up from" | Get away from |
+
+### Numbers 17: Aaron's Staff
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 (Heb 17:17) | *matteh matteh le-veit av*, "staff, staff for a father's house" | a staff for each fathers' house |
+| 5 (Heb 17:20) | *hashikkoti me-alai*, "I will make quiet from on Me" | I will quiet before Me |
+| 8 (Heb 17:23) | *va-yatsets tsits*, "flowered a flower" | bloomed with flowers |
+| 8 (Heb 17:23) | *va-yigmol sheqedim*, "weaned almonds" | ripened almonds |
+| 10 (Heb 17:25) | *li-mishmeret*, "for keeping" | to be kept |
+| 12 (Heb 17:27) | *hen gava'nu avadnu kullanu avadnu*, "we expire, we perish, all of us perish" | Look, we are dying! We are lost, all of us lost! |
+| 13 (Heb 17:28) | *ha-im tamnu li-gvoa*, "are we finished to expire?" | Are we all to die? |
+
+### Numbers 18: The Share of the Priests and Levites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tis'u et avon*, "carry the guilt" | carry the guilt |
+| 6 | *lakhem mattanah netunim la-YHWH*, "to you a gift, given to the LORD" | a gift to you, given to the LORD |
+| 7 | *u-mi-beit la-parokhet*, "and from within to the veil" | inside the veil |
+| 7 | *avodat mattanah*, "a service of gift" | a service that is a gift |
+| 8 | *le-mashchah*, "for anointing" | as the share that comes with your anointing (as Leviticus 7:35) |
+| 9 | *min ha-esh*, "from the fire" | kept back from the fire |
+| 12 | *chelev*, "fat" | the best (noted) |
+| 15 | *padoh tifdeh*, "redeem, you shall redeem" | you shall redeem |
+| 16 | *u-feduyav*, "and its redeemed ones" | You shall redeem them |
+| 21 | *ma'aser*, "tenth" | every tenth (as Leviticus 27:30) |
+| 27 | *ha-mele'ah min ha-yaqev*, "the fullness from the wine vat" | the full yield of the winepress |
+| 29 | *et miqdesho mimmennu*, "its holy part from it" | the part of them that is holy |
+
+### Left standing on purpose
+
+- **16:1** "took men": the Hebrew never says what Korah took; *men* is the usual fill, and the note gives the Greek *spoke*.
+- **16:28** "not from my own heart": the heart is where the Hebrew decides and plans, and *my own mind* would lose the idiom without making it clearer.
+
+### Choices for you
+
+None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording (18:16 now reads "by the shekel of the sanctuary"), the optional Leviticus 23:11 note, and the three open Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
+
+**Logged in NOTES_FOR_ANDREW.md:** the Hebrew numbers Numbers 16:36–50 as 17:1–15, and Numbers 17 as 17:16–28. Swete's Greek follows the English here.
+
 ## Numbers 11–14 (routine fired 7:46 AM Central, 2026-09-25)
 
 **Landed:** Numbers 11, 12, 13, 14. Progress 155 → **159 of 1,554 (10.2%)**. Next is Numbers 15.
