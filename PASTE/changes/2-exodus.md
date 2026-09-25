@@ -2,9 +2,44 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
-## Exodus 16–19 requests (2026-09-25) — waiting on your decisions
+## Exodus 16–19 requests (2026-09-25) — decided and applied
 
-Nothing is changed yet. Each item: what it says now, what the Hebrew says, the options, and my recommendation. Answer by number ("1 yes, 3 B…"), and the Before/After table goes here once the changes are made.
+### Your decisions
+
+> 1. Smooth "And what are we, that you…" and "grumblings you grumble", and put *weight* back. 3 yes. 4. Make it clear it was Amalek's people against Israel's, and anything else appropriate. 5 yes. 6. Give context for why he built the altar. 7 B. 8. "which says" or "and it says"? It only needs to show why he was given the name. 9, 10, 11 yes. 12. Leave "touch him".
+
+### Changes made
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 16:6 | "Evening — and you will know that it was the LORD… | "**This evening** you will know that it was the LORD… |
+| 16:7 | And morning — and you will see the weight of the LORD's glory, in His hearing your grumblings against the LORD. And what are we, that you grumble against us?" | **and in the morning** you will see the weight of the LORD's glory, **because He has heard** your grumblings against the LORD. **Who are we, that you should grumble against us?**" |
+| 16:8 | "When the LORD gives you meat… and bread in the morning to be full — in the LORD's hearing your grumblings, which you are grumbling against Him — and what are we? | "**It will happen when** the LORD gives you meat… and bread in the morning **to fill you, because the LORD has heard your grumblings against Him. Who are we?** |
+| 16:31 | called its name **Man** | called its name **manna** (v15 note updated) |
+| 17:8 | And **Amalek** came and fought **with** Israel | **Then the Amalekites** came and fought **against** Israel (new note: who Amalek is, Deuteronomy 25:17–18) |
+| 17:9 | go out, fight with Amalek. Tomorrow I will be standing on the top of the hill | go out **and fight the Amalekites**. Tomorrow I **will stand** on the top of the hill |
+| 17:10 | did as Moses had said to him, to fight with Amalek | did as Moses had **told him and fought the Amalekites** |
+| 17:11 | And it was that when Moses raised his hand, Israel prevailed; and when he let his hand rest, Amalek prevailed. | And **whenever** Moses **held up** his hand, Israel **was winning**; and **whenever he let his hand down, the Amalekites were winning**. |
+| 17:12 | And Moses' hands were heavy. And they took a stone… one on this side and one on that side. And his hands were steady | **But** Moses' hands **grew** heavy. **So** they took a stone… one on **one side and one on the other**. And his hands **stayed** steady |
+| 17:13 | Joshua **weakened** Amalek and his people **by the mouth of** the sword | Joshua **overpowered** Amalek and his people **with** the sword |
+| 17:14 | Write this **as a memorial in the book** | Write this **in a scroll as a record** (note updated) |
+| 17:15 | **And** Moses built an altar **and called its name** | **Then** Moses built an altar **there and named it** |
+| 17:16 | "**For a hand upon** the throne of Yah: the LORD **is** at war with Amalek | "**Because a hand was raised against** the throne of Yah, the LORD **will be** at war with Amalek (note rewritten: the other readings) |
+| 18:3 and 2:22 | Gershom, **for he had said** / **for he said** | Gershom, **because he said** |
+| 18:21 | And you shall look out from all the people men of ability… who hate a cut taken by force — and set them over them | **But you — look among all the people for capable men**… who hate **dishonest gain**, and set them over **the people** (note heading updated) |
+| 18:25 | chose **men of ability** | chose **capable men** (the same Hebrew phrase as v21) |
+| 18:23 | If you do this **thing**, and God commands you, **then** you will be able to stand, and **also** all this people **will come to its place** in peace | If you do this, and God **so** commands you, you will be able to stand, and all this people **too will go home** in peace |
+| 19:1 | In the third month **of the going out of** the sons of Israel **from** the land of Egypt, on that day | In the third month **after** the sons of Israel **went out of** the land of Egypt, on that **very** day |
+
+**On 8, "which says":** the Hebrew *ki amar* means *because he said*. The name doesn't say anything; Moses did, and he chose the name because of what he said. So "because he said" is both literal and clear about why.
+
+**On 6:** the Hebrew has no words for "after the battle". *Then… there* gives the order of events without adding any, and the rewritten note explains that the altar is named for the staff Moses held up over the battle.
+
+**On 12:** "him" is **not God**. It is the person or animal that touched the mountain (v12). They are put to death from a distance, by stoning or arrows, so no one lays a hand on them. If it were God, it would be a capital *Him*. Left as it was, as you asked.
+
+---
+
+### The original options (for the record)
 
 **13:13** — the line in edits.md is empty. 13:13 was answered on 2026-09-23 (the donkey redeemed with a lamb; see the bottom of this file). Tell me if there's something new.
 

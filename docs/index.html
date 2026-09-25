@@ -131,7 +131,7 @@ function drawRail(slug){
     `${b.order}. ${b.title}<span class="ct">${b.done||'—'}</span></a>`).join('');
 }
 async function load(slug){
-  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json?v=bea4501db8a6`)).json();
+  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json?v=cd5d4c2161fb`)).json();
   return cache[slug];
 }
 function pager(d,cur){
@@ -361,7 +361,7 @@ function restoreScroll(){
 
 addEventListener('hashchange',route);
 (async()=>{
-  BOOKS=(await (await fetch('data/manifest.json?v=bea4501db8a6')).json()).books;
+  BOOKS=(await (await fetch('data/manifest.json?v=cd5d4c2161fb')).json()).books;
   const back=!location.hash && say('last');
   if(back){ location.hash=back; }               // open where we left off
   await route();
