@@ -92,8 +92,9 @@ report. The kept cases so far:
 - **Exodus 1:1**, *And these are the names*, where the note is built on the book
   continuing Genesis;
 - **Leviticus 1:1**, *And He called*, the book's Hebrew title;
-- **Genesis 1:3**, *"Light — be." And light was.*, where the *And* is the word
-  taking effect.
+- **Genesis 1:1–2:3**, the creation week: *And God said… And it was so… And
+  God saw that it was good… And it was evening, and it was morning.* The *And*
+  carries the rhythm of the seven days (Andrew, 2026-09-25).
 
 Where the joining word means *but*, *so* or *then*, use that word.
 
