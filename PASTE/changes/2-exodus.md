@@ -2,6 +2,99 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Exodus 16–19 requests (2026-09-25) — waiting on your decisions
+
+Nothing is changed yet. Each item: what it says now, what the Hebrew says, the options, and my recommendation. Answer by number ("1 yes, 3 B…"), and the Before/After table goes here once the changes are made.
+
+**13:13** — the line in edits.md is empty. 13:13 was answered on 2026-09-23 (the donkey redeemed with a lamb; see the bottom of this file). Tell me if there's something new.
+
+### 1. 16:6–8 "Evening — and you will know…"
+
+- **Now:** *"Evening — and you will know that it was the LORD who brought you out… And morning — and you will see the weight of the LORD's glory, in His hearing your grumblings…"*
+- **Hebrew:** *erev vi-ydatem… u-voqer u-re'item*, literally "evening, and you will know… and morning, and you will see". It's a promise with two times in it: **this evening** (the quail, v13) and **in the morning** (the manna, v14). The Greek reads it the same way: *in the evening you will know… and in the morning you will see.* *Be-shom'o* ("in His hearing") means **because He has heard**.
+- **Recommend:**
+  - v6: *"This evening you will know that it was the LORD who brought you out of the land of Egypt,*
+  - v7: *and in the morning you will see the glory of the LORD, because He has heard your grumblings against the LORD. And what are we, that you grumble against us?"*
+  - v8: *And Moses said, "It will happen when the LORD gives you meat to eat in the evening and bread in the morning to fill you, because the LORD has heard the grumblings you grumble against Him. What are we? Your grumblings are not against us, but against the LORD."*
+- Also in v7, "the **weight** of the LORD's glory" becomes plain "**the glory of the LORD**". *Kevod* is simply "glory" here. The v7 note already explains that the root means heavy, so nothing is lost.
+
+### 2. 16:16 "omer?"
+
+**An answer, not a change.** An *omer* is a dry measure, the name of a unit like *shekel* or *ephah*. Verse 36 defines it: *the omer is a tenth of an ephah*. That's roughly two quarts (a few liters; the exact size isn't known). One omer per person per day. **Recommend: keep "omer".** It's used in six verses of this chapter (vv16, 18, 22, 32, 33, 36), and v36 exists to explain it.
+
+### 3. 16:31 "Man"
+
+- **Now:** *the house of Israel called its name Man.* But vv33 and 35 already say **manna**, and they are the same Hebrew word, *man*.
+- **Why "Man" was used:** it is the *man hu*, "What is it?", of v15, turned into a name.
+- **The Greek:** here it has *man*. By Numbers 11:6–9 it has *manna*, and that is the form the New Testament uses (John 6:31).
+- **Recommend: "they called its name manna"**, so the chapter uses one word throughout. The v15 note already explains the "What is it?" joke and will point to v31.
+
+### 4. 17:8–16 the fight with Amalek (explained; no change asked)
+
+**Who Amalek is:** a grandson of Esau (Genesis 36:12), and a chief of Edom (36:16). They are a desert people of the south, relatives of Israel through Esau. They don't come out of nowhere in the story's own terms. Moses retells it in Deuteronomy 25:17–18: *remember what Amalek did to you on the way when you came out of Egypt, how he met you on the way and **struck at your rear, all the stragglers behind you, when you were faint and weary**, and he did not fear God.* They attacked the weakest, at the back of the column.
+
+**The battle:** it's the other way round from how you read it.
+- When Moses **raised** his hand (holding *the staff of God*, v9), **Israel** prevailed.
+- When he **let it rest**, **Amalek** prevailed (v11).
+- His arms got tired, so Aaron and Hur sat him on a stone and held his hands up until sunset (v12), and Joshua won.
+
+The point: the battle is fought by Joshua's army, but it is decided by the staff lifted to God on the hill. Israel's first battle is won with God's sign held up over it. The v12 note on *emunah*, "steady", covers the word.
+
+### 5. 17:14 "in the book" — what book?
+
+- **Hebrew:** *ba-sefer*. A *sefer* is anything written, a document or scroll. The text doesn't name one. It is the first time God tells Moses to write anything. Later, Moses *wrote down all the words of the LORD* and read *the book of the covenant* to the people (24:4, 7).
+- **Recommend:** *"Write this in a scroll as a record"*. That reads naturally and matches Numbers 5:23 ("write these curses in a scroll"). Change if you agree.
+
+### 6. 17:15 "Banner?"
+
+**An answer.** *Nes* is a pole raised high where everyone can see it, a rallying signal in battle. It is the same word as:
+- the **pole** Moses sets the bronze serpent on (Numbers 21:8–9);
+- Isaiah's *root of Jesse, who stands as a **banner** to the peoples* (Isaiah 11:10).
+
+Moses's raised staff was the signal Israel fought under, so the altar is named for it: *The LORD Is My Banner*. **Recommend: keep "Banner".** If you'd like it plainer, *The LORD Is My Standard* is the other honest option.
+
+### 7. 17:16 "For a hand upon the throne of Yah"
+
+- **Hebrew:** *ki yad al kes Yah*, literally "for a hand on/against the *kes* of Yah". *Kes* occurs only here. It is usually taken as a short form of *kisse*, "throne".
+- **The options:**
+
+| | Reading | Would read |
+|---|---|---|
+| A | an oath, a hand raised to God's throne | *"A hand is raised to the throne of the LORD: the LORD will be at war with Amalek…"* |
+| B | Amalek's hand raised against God | *"Because a hand was raised against the throne of the LORD, the LORD will be at war with Amalek from generation to generation."* |
+| C | *kes* read as *nes*, banner (the letters are close) | *"A hand on the banner of the LORD!"*, tying back to v15 |
+| D | the Greek | *"with a hidden hand the LORD wars against Amalek"* |
+
+- **Recommend: B.** It is the only reading that explains the sentence's *because*: why the war lasts forever. It also matches Deuteronomy 25:18, where Amalek attacked the weary and *did not fear God*. The note keeps A, C and D.
+
+### 8. 18:3 "for he had said"
+
+- **Hebrew:** *ki amar*, "for he said". The Greek has *legōn*, "saying". Neither has "which means". What the name means is carried by what Moses said, and the note on 2:22 explains it (*ger sham*, "a guest there").
+- **Recommend:** *"the name of the one was Gershom, because he said, 'I have been a guest in a foreign land'"*, and the same wording at **2:22** so the two match.
+
+### 9. 18:21 "you shall look out from all the people"
+
+- **Hebrew:** *ve-attah techezeh*, "and you, you shall see / look for".
+- **Recommend:** *"But you — look among all the people for capable men who fear God, men of truth who hate dishonest gain, and set them over the people as officers of thousands…"*
+- This also fixes "hate a cut taken by force". *Betsa* means gain made by cutting corners, **dishonest gain**. The Greek has *hating arrogance*.
+
+### 10. 18:23 "this thing" → "these"?
+
+- **Hebrew:** *et ha-davar ha-zeh*, singular: "this thing", meaning Jethro's whole plan. "These" would change the grammar.
+- **Recommend:** *"If you do this, and God so commands you, you will be able to stand, and all this people too will go home in peace."* (*Al meqomo yavo*: "will come to its place".)
+
+### 11. 19:1 "of the going out of the sons of Israel"
+
+- **Recommend:** *"In the third month after the sons of Israel went out of the land of Egypt, on that very day, they came to the wilderness of Sinai."*
+- *On that very day* is *ba-yom ha-zeh*, "on this day". The text doesn't say which day of the month. Usually it's read as the day the month began.
+
+### 12. 19:13 "touch him" — who?
+
+- **The person or animal that touched the mountain** (v12). They are put to death from a distance, by stoning or arrows, so that no one has to lay a hand on them or step onto the mountain to get them.
+- **Recommend:** *"No hand shall touch such a one: he shall be stoned or shot through…"*
+
+---
+
 ## The creation → judgment question (2026-09-24)
 
 ### Answer (nothing changed)
