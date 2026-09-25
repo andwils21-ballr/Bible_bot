@@ -15,8 +15,8 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 | What chapter is next? | `python3 progress.py` |
 | The source text | `python3 source_text.py <slug> <chapter>` |
 | Andrew's requests (checkmarks only; cleared when all are done) | `PASTE/edits.md` |
-| Render reports (new chapters) | `PASTE/renders.md` |
-| Before/after of every change to finished chapters | `PASTE/changes.md` |
+| Render reports (new chapters), one file per book | `PASTE/renders/` |
+| Before/after of every change to finished chapters, one file per book | `PASTE/changes/` |
 | Known problems, findings for Andrew | `NOTES_FOR_ANDREW.md` |
 
 ## Taking over

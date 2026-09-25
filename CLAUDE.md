@@ -92,19 +92,23 @@ Read them before writing notes.
 
 ## 5. Where things go: the reporting format
 
-Three files, each with a permanent header line at the top that is never
+Three places, each file with a permanent header line at the top that is never
 removed:
 
 - **`PASTE/edits.md`, "Andrew's Edit Requests"**, is Andrew's alone: he pastes
   requests, Claude reads. Write nothing in it except a checkmark (✅) on an item
   that is finished. Clear it (down to the header) only when every item has been
   decided and the edits made.
-- **`PASTE/changes.md`, "Decision Making with Before/After"**, is for changes to
-  chapters already rendered, newest at the top. Each entry: the request, the
-  options with every verse involved, and a `Where | Before | After` table of
-  every change made. Never cleared; it is the record.
-- **`PASTE/renders.md`, "New Chapters"**, gets every render cycle's report,
-  newest at the top.
+- **`PASTE/changes/<order>-<slug>.md`, "Decision Making with Before/After:
+  <Book>"**, one file per book, for changes to chapters already rendered, filed
+  under the book the request started in. Newest at the top. Each entry: the
+  request, the options with every verse involved, and a `Where | Before |
+  After` table of every change made. Never cleared; it is the record.
+- **`PASTE/renders/<order>-<slug>.md`, "New Chapters: <Book>"**, one file per
+  book (same names as the `books/` folders), gets every render cycle's report
+  for that book, newest at the top. A cycle that crosses into a new book
+  splits its report and starts the new book's file with its header. Mark a
+  choice `✅ Decided: …` once Andrew rules on it.
   - For each chapter: a table `Verse | Word-for-word | In the text now`, one
     row per judgment call, meaning anywhere the English departs from
     word-for-word.

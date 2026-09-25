@@ -30,7 +30,8 @@ Then:
 6. Run `python3 build_site.py && python3 progress.py`. Commit
    `Render <Book> <first>–<last>` and push to main.
 7. Report exactly as CLAUDE.md section 5 says:
-   - Full judgment-call tables at the top of PASTE/renders.md.
+   - Full judgment-call tables at the top of PASTE/renders/<order>-<slug>.md,
+     one file per book (start a new book's file with its header).
    - A short chat reply with the progress count, "Left standing on purpose",
      and "Choices for you", listing every verse for each choice.
    - Times in Central.
