@@ -2,6 +2,96 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 11–14 (routine fired 7:46 AM Central, 2026-09-25)
+
+**Landed:** Numbers 11, 12, 13, 14. Progress 155 → **159 of 1,554 (10.2%)**. Next is Numbers 15.
+
+### Numbers 11: The Graves of Craving
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ke-mit'onenim ra*, "as complainers of evil" | became complainers, and it was evil |
+| 4 | *hit'avu ta'avah*, "craved a craving" | felt a craving |
+| 4 | *va-yashuvu va-yivku*, "returned and wept" | wept again |
+| 6 | *nafshenu yeveshah*, "our soul is dry" | our throat is dried up |
+| 7 | *eino ke-ein ha-bedolach*, "its eye like the eye of bdellium" | it looked like bdellium |
+| 8 | *leshad ha-shamen*, "the moisture of oil" | cakes made with rich oil |
+| 10 | "in Moses' eyes it was evil" | ***KEPT AS IS*** in Moses' eyes it was evil (it echoes v1) |
+| 11 | *harei'ota le-avdekha*, "done evil to Your servant" | brought trouble on Your servant |
+| 12 | *be-cheiqekha*, "in your bosom" | in your arms |
+| 15 | *horgeni na harog*, "kill me, killing" | kill me now |
+| 20 | *le-zara* | disgusting (not "loathsome", which is fixed for *sheqets*) |
+| 21 | *ragli*, "on foot" | on foot (men of fighting age) |
+| 23 | *ha-yikrekha devari*, "whether My word will meet you" | whether My word comes true for you |
+| 25 | *ve-lo yasafu*, "and did not add" | but they did not do so again (the Greek agrees) |
+| 26 | *ba-ketuvim*, "among the written" | among those written down |
+| 31 | *ke-ammatayim al penei ha-arets* | ***KEPT AS IS*** about two cubits above the ground (unclear whether high or deep; noted) |
+| 32 | *va-yishtechu shatoach*, "spread a spreading" | spread them out |
+| 33 | *terem yikkaret*, "before it was cut off" | before it was chewed |
+
+### Numbers 12: Miriam, Aaron, and Moses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-tedabber*, "and she spoke" | Miriam and Aaron spoke (the feminine verb noted) |
+| 1 | *ha-kushit* | the Cushite woman (Greek: "Ethiopian", noted) |
+| 2 | *diber be-*, "spoken in" | spoken through |
+| 3 | written *anw*, read *anav* | humble |
+| 8 | *u-mar'eh ve-lo ve-chidot*, "and sight, and not in riddles" | plainly and not in riddles |
+| 11 | *asher no'alnu va-asher chatanu*, "which we did foolishly and which we sinned" | the sin we committed in our folly |
+| 14 | *yaroq yaraq*, "spitting spat" | had spit |
+| 14 | *tissager / te'asef* | shut away / brought back in (as Leviticus 13:4) |
+
+### Numbers 13: The Twelve Scouts
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-yaturu*, "and let them go about" | to scout out |
+| 11 | "of the tribe of Joseph, of the tribe of Manasseh" | from the tribe of Joseph, that is, from the tribe of Manasseh |
+| 19 | *ha-be-machanim im be-mivtsarim* | open camps or fortified |
+| 20 | *ve-hitchazzaqtem*, "strengthen yourselves" | be brave |
+| 21 | *levo chamat*, "the entering of Hamath" | Lebo-hamath (a place name) |
+| 22 | *va-yavo*, "and he came" | ***KEPT AS IS*** he came to Hebron (singular in the Hebrew; noted) |
+| 30 | *aloh na'aleh… yakhol nukhal*, "going up let us go up… being able we are able" | we must go up at once… we can surely overcome it |
+| 32 | *anshei middot*, "men of measures" | men of great size |
+| 33 | "the sons of Anak are from the Nephilim" | ***KEPT AS IS*** set off as an aside (the Greek lacks it; noted) |
+
+### Numbers 14: Forty Years for Forty Days
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *nittenah rosh*, "let us give a head" | let us appoint a leader |
+| 7 | *me'od me'od* | a very, very good land |
+| 9 | *lachmenu hem*, "they are our bread" | ***KEPT AS IS*** they are bread for us (the picture is the point; noted) |
+| 10 | *lirgom otam ba-avanim*, "to stone them with stones" | to stone them |
+| 11 | *ad anah yena'atsuni*, "until where will they spurn Me" | how long will this people despise Me |
+| 18 | God's words from Exodus 34:6–7 | worded exactly as Exodus 34 now reads |
+| 21 | "and the glory of the LORD shall fill all the earth" | and as all the earth shall be filled with the glory of the LORD |
+| 25 | *yam suf* | the Sea of Reeds (as Exodus 15) |
+| 27 | "the grumblings… which they grumble against Me" | the grumblings of the sons of Israel against Me |
+| 28 | *im lo*, "if not" (an oath) | I will do to you exactly |
+| 30 | *nasati et yadi*, "I lifted My hand" | I raised My hand (as Exodus 6:8) |
+| 33 | *zenutekhem* | your unfaithfulness |
+| 34 | *yom la-shanah yom la-shanah* | a year for each day |
+| 34 | *tenu'ati*, "My opposition" | what it is to have Me against you |
+| 36 | written *vylwnw*, read *vayyalinu* | made the whole congregation grumble |
+| 41 | "why are you crossing the mouth of the LORD" | why are you going against the command of the LORD |
+| 44 | *va-ya'pilu* | they presumed |
+
+### Left standing on purpose
+
+- **11:10** "in Moses' eyes it was evil": the same *evil* as v1.
+- **11:31** "two cubits above the ground": the Hebrew doesn't say whether the quail flew that low or lay that deep.
+- **13:22** "he came to Hebron": the verb is singular in the Hebrew.
+- **13:33** "the sons of Anak are from the Nephilim": kept as an aside. The Greek doesn't have it.
+- **14:9** "they are bread for us": the picture answers the scouts' "a land that devours."
+
+### Choices for you
+
+None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the four Leviticus choices in `PASTE/changes/3-leviticus.md`.
+
+**Logged in NOTES_FOR_ANDREW.md:** Swete's Greek of Numbers 13 is one verse ahead of the Hebrew.
+
 ## Numbers 7–10 (routine fired 3:02 AM Central, 2026-09-25)
 
 **Landed:** Numbers 7, 8, 9, 10. Progress 151 → **155 of 1,554 (10.0%)**. Next is Numbers 11. These are the first chapters written with the new readability pass in the spec.
