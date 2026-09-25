@@ -2,6 +2,105 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 19–22 (routine fired 6:01 PM Central, 2026-09-25)
+
+**Landed:** Numbers 19, 20, 21, 22. Progress 163 → **167 of 1,554 (10.7%)**. Next is Numbers 23.
+
+### Numbers 19: The Red Heifer
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *chuqqat ha-torah*, "the statute of the instruction" | ***KEPT AS IS*** the statute of the instruction (the formula) |
+| 2 | *temimah asher ein bah mum*, "whole, which has no blemish in her" | without defect, with no blemish on her |
+| 3 | *ve-hotsi… ve-shachat*, "he shall bring out… and slaughter" | she shall be taken outside… and slaughtered (the Hebrew doesn't say who) |
+| 4 | *el nokhach penei*, "toward the front of the face of" | toward the front of |
+| 6 | *el tokh serefat ha-parah*, "into the midst of the burning of the heifer" | into the fire where the heifer is burning |
+| 9 | *mei niddah*, "water of separation" | the water for impurity (see Choices) |
+| 12 | *yitchatta*, "un-sin himself" | purify himself (noted) |
+| 13 | *be-nefesh ha-adam asher yamut*, "the soul of the man who dies" | the body of anyone who has died |
+| 15 | *tsamid patil*, "a lid, a cord" | a lid fastened on it |
+| 16 | *chalal cherev*, "a slain one of the sword" | someone killed by the sword |
+| 17 | *mayim chayyim*, "living water" | fresh running water (as Leviticus 14:5) |
+
+### Numbers 20: The Waters of Meribah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ve-lu gava'nu bi-gva acheinu*, "if only we had expired in the expiring of our brothers" | If only we had died when our brothers died |
+| 5 | *ha-maqom ha-ra*, "the evil place" | this terrible place |
+| 5 | *lo meqom zera*, "not a place of seed" | no place for grain |
+| 10 | *ha-min ha-sela ha-zeh notsi*, "from this rock shall we bring out" | must we bring water out of this rock for you? |
+| 12 | *le-haqdisheni le-einei*, "to make Me holy to the eyes of" | to show Me holy before the eyes of |
+| 14 | *kol ha-tela'ah asher metsa'atnu*, "all the hardship that found us" | all the hardship that has come on us |
+| 15 | *va-yare'u lanu*, "did evil to us" | treated us… badly |
+| 16 | *ve-hinneh anachnu*, "and here, we" | Here we are (in speech, not a moment of seeing) |
+| 18 | *pen ba-cherev etse*, "lest with the sword I go out" | or I will come out against you with the sword |
+| 19 | *raq ein davar*, "only, there is no thing" | It is nothing |
+| 20 | *be-am kaved*, "with a heavy people" | with a large army |
+| 24 | *meritem et pi*, "rebelled against My mouth" | rebelled against My command |
+| 29 | *gava*, "expired" | had died |
+
+### Numbers 21: The Bronze Serpent
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *derekh ha-atarim* | the road to Atharim (a place name, as the Greek; noted) |
+| 2 | *va-yiddar… neder*, "vowed a vow" | made a vow |
+| 2 | *natton titten*, "giving You give" | If You will indeed give |
+| 4 | *va-tiqtsar nefesh ha-am*, "the soul of the people grew short" | the people grew impatient |
+| 5 | *nafshenu qatsah ba-lechem ha-qeloqel*, "our soul loathes the worthless bread" | we are sick of this miserable bread |
+| 11 | *mi-mizrach ha-shemesh*, "from the rising of the sun" | toward the sunrise |
+| 14–15 | *et Vahev be-Sufah…* | ***KEPT AS IS*** Waheb in Suphah (a fragment with no verb; noted) |
+| 18 | *bi-mchoqeq*, "with a lawgiver's staff" | with the scepter |
+| 20 | *ha-yeshimon* | the wasteland |
+| 25 | *u-ve-khol benoteha*, "and in all its daughters" | and all its villages |
+| 27 | *ha-moshlim*, "the ones who speak sayings" | the singers of sayings |
+| 30 | *va-niram… va-nashim… asher* | ***KEPT AS IS*** We shot at them… we laid waste… which reaches (the Hebrew as written; the dotted letter and the Greek *fire* and *women* noted) |
+| 32 | written *vyyrsh*, read *vayyoresh* | drove out (the reading; see Choices, *qeri*) |
+| 35 | *ad bilti hish'ir lo sarid*, "until not leaving him a survivor" | until no survivor was left to him |
+
+### Numbers 22: Balaam and the Donkey
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *me-ever le-Yarden Yerecho*, "beyond the Jordan, Jericho" | across the Jordan from Jericho |
+| 3 | *va-yagor… va-yaqots*, "feared… dreaded" | was very afraid… dreaded (as Exodus 1:12) |
+| 4 | *ha-qahal*, "the assembly" | this company |
+| 5 | *kissah et ein ha-arets*, "covered the eye of the land" | ***KEPT AS IS*** covered the eye of the land (the locust phrase of Exodus 10:5; noted) |
+| 5 | *mi-mmuli*, "from opposite me" | living opposite me |
+| 7 | *u-qesamim be-yadam*, "and divinations in their hand" | with the fees for divination in their hand |
+| 8 | *linu fo*, "lodge here" | Spend the night here |
+| 16 | *al na timmana me-halokh*, "do not be withheld from going" | let nothing keep you from coming |
+| 17 | *kabbed akhabbedkha*, "honor, I will honor you" | I will honor you greatly |
+| 18 | *la'avor et pi YHWH*, "cross the mouth of the LORD" | go beyond the command of the LORD |
+| 20, 35, 38 | "the word that I speak to you, it you shall do" | you shall do only what I tell you (object after the verb) |
+| 30 | *ha-haskhen hiskanti*, "have I been accustomed, accustomed" | Have I ever been in the habit |
+| 32 | *yarat ha-derekh le-negdi* | ***KEPT AS IS*** your way is headlong before me (a rare word; noted) |
+| 34 | *im ra be-einekha*, "if it is evil in your eyes" | if it is displeasing to you |
+| 37 | *shaloach shalachti*, "sending, I sent" | Did I not send |
+| 38 | *ha-yakhol ukhal*, "am I able, able" | am I able |
+| 41 | *qetseh ha-am*, "the edge of the people" | ***KEPT AS IS*** the edge of the people (only part of the camp is in view) |
+
+### Left standing on purpose
+
+- **19:2** "the statute of the instruction": the formula opening the law; it comes back in 31:21.
+- **21:14–15** "Waheb in Suphah": a quotation from a lost book, starting mid-sentence with no verb.
+- **21:30** the whole verse: the Hebrew as written, with a letter the scribes dotted as doubtful.
+- **22:5, 11** "covered the eye of the land": the locust phrase of Exodus 10:5, and the note is built on it.
+- **22:32** "headlong": the word is rare and its meaning uncertain.
+- **22:41** "the edge of the people": Balak shows Balaam only part of the camp.
+
+### Choices for you
+
+1. **New: *mei niddah*, the water in Numbers 19.** *Niddah* is "monthly separation" in Leviticus 15 and "impurity" in Leviticus 20:21. Numbers 19 now says "the water for impurity" in every place:
+   - 19:9 "for the water for impurity"
+   - 19:13 "the water for impurity was not thrown on him"
+   - 19:20 "The water for impurity has not been thrown on him"
+   - 19:21 "The one who sprinkles the water for impurity… the one who touches the water for impurity"
+
+   The other option is "the water of separation", which matches Leviticus 15 but reads less plainly. My recommendation is to keep "impurity". The water removes the state; it doesn't cause a separation.
+2. **Still open:** *qeri* (21:32 follows the read form, "drove out"), *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
+
 ## Numbers 15–18 (routine fired 1:01 PM Central, 2026-09-25)
 
 **Landed:** Numbers 15, 16, 17, 18. Progress 159 → **163 of 1,554 (10.5%)**. Next is Numbers 19.
