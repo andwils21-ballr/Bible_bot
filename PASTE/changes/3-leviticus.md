@@ -29,7 +29,7 @@ Every place was checked by what follows the "And". Four verses that start a quot
 
 1. *And it came to pass* **stays**: it is the traditional phrase, and what follows it usually matters.
 2. *And here —* in the stories **stays**.
-3. **Genesis gets the same treatment.** Done: 1,532 removed. The creation week, Genesis 1:1–2:3, keeps every *And* (your ruling: the *And God said… And it was so* rhythm stays, and *And light was* stays). 36 notes that quoted a changed verse were updated to match.
+3. **Genesis gets the same treatment.** Done: 1,517 removed. The creation week, Genesis 1:1–2:3, keeps every *And* (your ruling: the *And God said… And it was so* rhythm stays, and *And light was* stays). 36 notes that quoted a changed verse were updated to match.
 
 ### Questions for you (answered above)
 
