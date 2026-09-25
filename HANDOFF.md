@@ -29,8 +29,12 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 
 ## The Routine
 
-- **Timing:** currently fires at 8:01 AM, 1:01 PM and 6:01 PM Central, which is
-  cron `1 13,18,23 * * *` in UTC during daylight time.
+- **Timing:** four runs a day, at 3:01 AM, 7:51 AM, 1:01 PM and 6:01 PM Central
+  (daylight time). 8:01 AM–1:01 PM is kept free for Andrew. It takes two
+  triggers, because one cron line cannot hold two different minutes:
+  `1 8,18,23 * * *` and `51 12 * * *` (UTC). Both use the prompt in
+  `ROUTINE_PROMPT.md`. The cron is UTC, so when daylight time ends every run
+  moves one hour earlier in Central.
 - **Binding:** it is self-bound, meaning it fires into the session that created
   it, which gives it that session's repo access and model.
 - **To recreate it:** `create_trigger` with neither `create_new_session_on_fire`
