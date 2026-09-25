@@ -78,7 +78,22 @@ case…*, or a dash and a plain clause.
 
 - **"And it came to pass"** for *va-yehi*, the scene-opening formula.
 - **"And here —"** for *hinneh*, the word that puts the reader inside someone's
-  eyes at the moment of seeing.
+  eyes at the moment of seeing. **Not in laws that describe an inspection**
+  (Andrew, 2026-09-25): there *hinneh* only introduces what the priest finds, so
+  the sentence ends and the finding starts a new one: *The priest shall look at
+  him on the seventh day. If the mark has stayed as it was…* (Leviticus 13:5).
+
+### No "And" at the start of a sentence (Andrew, 2026-09-25)
+
+Hebrew joins almost every clause with *ve-*, "and". Do not start a sentence or a
+verse with *And*. Keep it only where it does real work, and say why in the
+report. The kept cases so far:
+- *And it came to pass* and *And here —* (above);
+- **Exodus 1:1**, *And these are the names*, where the note is built on the book
+  continuing Genesis;
+- **Leviticus 1:1**, *And He called*, the book's Hebrew title.
+
+Where the joining word means *but*, *so* or *then*, use that word.
 
 ### Already ruled
 

@@ -134,7 +134,8 @@ removed:
 - **Names**: the received English name (Abel, not *Vapor*); the meaning goes in
   a note.
 - **Kept on purpose**: *and it came to pass* (*va-yehi*) and *and here —*
-  (*hinneh*).
+  (*hinneh*), except in inspection laws (see the spec).
+- **No sentence starts with "And"** unless it does real work (spec, "No And").
 - **Capital Lord means God; lowercase lord is a man of rank.**
 - **Genesis is closed** (Andrew signed it off 2026-09-21). Fix it only when he
   asks or when it is provably wrong. No sweeps over finished books unless he

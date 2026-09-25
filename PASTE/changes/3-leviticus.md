@@ -2,6 +2,67 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Your rulings: "and here —" in Leviticus 13–14, and "And" at the start of sentences (2026-09-25)
+
+### Your request (chat, 2026-09-25)
+
+> For "and here —" in Leviticus 13–14: end the sentence before it with a period, cut "and here", and start the new sentence with what follows. Nearly all, if not all, can go; use your best judgment, not a blind sweep. For "And" at the beginning of a sentence: if it is not helping to clarify what follows, cut it. If it's best to take them all out, except for some major reason, take them all out.
+
+### What was done
+
+**1. "and here —" (✅ Decided; the Leviticus sweep's choice 1).** All 25 verses were rewritten one at a time.
+- Where the priest's look is a whole sentence, it now ends with a period, and the finding starts a new sentence with *If* (19 verses).
+- Where the look is itself inside an *if* (*But if the priest looks at it, and here — there is no white hair*), there is no sentence to end. There the dash simply becomes *and* (6 verses: 13:21, 26, 31, 53, 56; 14:48).
+- Each verse keeps its own outcome. Your 13:5 example ended *declare him clean*, but 13:5 actually ends *shut him away another seven days*; it is v6 that declares him clean.
+
+**2. "And" at the start of a sentence: 1,913 removed** in Exodus (1,008), Leviticus (509), Numbers (228) and 1 Enoch (168). Where the next word needed a capital, it got one, and 9 notes that quoted a changed verse were updated. Kept on purpose:
+- ***And it came to pass*** and ***And here —*** in the stories: these are your earlier rulings, so they wait for your word (see the questions below).
+- **Exodus 1:1, *And these are the names*:** the note is built on it. The book *starts with **and***, because it continues Genesis.
+- **Leviticus 1:1, *And He called*:** the book's Hebrew title is those two words, *Vayiqra*.
+- **"and" inside a sentence, and at the start of a poetry line that continues a sentence:** these were not touched.
+
+Every place was checked by what follows the "And". Four verses that start a quoted speech (Exodus 30:18, 30:23, 31:13; Numbers 3:12) were read by hand, and they are fine without it.
+
+**3. The rule is now in the spec** (*No "And" at the start of a sentence*, and the inspection-law exception under *Kept on purpose*), so renders from here on follow both.
+
+### Questions for you (nothing changed)
+
+1. ***And it came to pass*** (*va-yehi*, the scene opener) still starts with *And* in about 25 places. Drop it to *It came to pass*? My recommendation: yes. The formula is the words *it came to pass*, and the *And* is the same joining letter as everywhere else.
+2. ***And here —*** in the stories (for example Numbers 12:10, *and here — Miriam was blighted*): keep it. There it does what your ruling said, putting the reader inside someone's eyes.
+3. **Genesis** is closed, so none of this was applied there. Do you want the same "And" rule in Genesis, so the books match?
+
+### "and here —": before and after (25)
+
+| Verse | Before | After |
+|---|---|---|
+| 13:5 | And the priest shall look at him on the seventh day, and here — if the mark has stayed as it was and has not spread in the skin, the priest shall shut him away another seven days. | The priest shall look at him on the seventh day. If the mark has stayed as it was and has not spread in the skin, the priest shall shut him away another seven days. |
+| 13:6 | And the priest shall look at him again on the seventh day, and here — if the mark has faded and has not spread in the skin, the priest shall declare him clean. It is a scab. And he shall wash his clothes and be clean. | The priest shall look at him again on the seventh day. If the mark has faded and has not spread in the skin, the priest shall declare him clean. It is a scab. He shall wash his clothes and be clean. |
+| 13:8 | And the priest shall look, and here — if the scab has spread in the skin, the priest shall declare him unclean. It is blight. | The priest shall look. If the scab has spread in the skin, the priest shall declare him unclean. It is blight. |
+| 13:10 | And the priest shall look, and here — if there is a white swelling in the skin and it has turned the hair white, and there is raw flesh in the swelling, | The priest shall look. If there is a white swelling in the skin and it has turned the hair white, and there is raw flesh in the swelling, |
+| 13:13 | then the priest shall look, and here — if the blight has covered all his flesh, he shall declare the marked man clean. It has all turned white; he is clean. | then the priest shall look. If the blight has covered all his flesh, he shall declare the marked man clean. It has all turned white; he is clean. |
+| 13:17 | and the priest shall look at him, and here — if the mark has turned white, the priest shall declare the marked man clean. He is clean. | and the priest shall look at him. If the mark has turned white, the priest shall declare the marked man clean. He is clean. |
+| 13:20 | And the priest shall look, and here — if it looks lower than the skin and its hair has turned white, the priest shall declare him unclean. It is a mark of blight that has broken out in the boil. | The priest shall look. If it looks lower than the skin and its hair has turned white, the priest shall declare him unclean. It is a mark of blight that has broken out in the boil. |
+| 13:21 | But if the priest looks at it, and here — there is no white hair in it, and it is not lower than the skin, and it is faded, then the priest shall shut him away seven days. | But if the priest looks at it and there is no white hair in it, and it is not lower than the skin, and it is faded, then the priest shall shut him away seven days. |
+| 13:25 | the priest shall look at it, and here — if the hair in the bright spot has turned white and it looks deeper than the skin, it is blight that has broken out in the burn. And the priest shall declare him unclean. It is a mark of blight. | the priest shall look at it. If the hair in the bright spot has turned white and it looks deeper than the skin, it is blight that has broken out in the burn. The priest shall declare him unclean. It is a mark of blight. |
+| 13:26 | But if the priest looks at it, and here — there is no white hair in the bright spot, and it is not lower than the skin, and it is faded, then the priest shall shut him away seven days. | But if the priest looks at it and there is no white hair in the bright spot, and it is not lower than the skin, and it is faded, then the priest shall shut him away seven days. |
+| 13:30 | the priest shall look at the mark, and here — if it looks deeper than the skin and there is thin yellow hair in it, the priest shall declare him unclean. It is a scaly patch; it is blight of the head or of the beard. | the priest shall look at the mark. If it looks deeper than the skin and there is thin yellow hair in it, the priest shall declare him unclean. It is a scaly patch; it is blight of the head or of the beard. |
+| 13:31 | And when the priest looks at the mark of the scaly patch, and here — it does not look deeper than the skin, and there is no black hair in it, then the priest shall shut the marked person away for seven days. | When the priest looks at the mark of the scaly patch and it does not look deeper than the skin, and there is no black hair in it, then the priest shall shut the marked person away for seven days. |
+| 13:32 | And the priest shall look at the mark on the seventh day, and here — if the scaly patch has not spread, and there is no yellow hair in it, and the patch does not look deeper than the skin, | The priest shall look at the mark on the seventh day. If the scaly patch has not spread, and there is no yellow hair in it, and the patch does not look deeper than the skin, |
+| 13:34 | And the priest shall look at the scaly patch on the seventh day, and here — if the patch has not spread in the skin and does not look deeper than the skin, the priest shall declare him clean. And he shall wash his clothes and be clean. | The priest shall look at the scaly patch on the seventh day. If the patch has not spread in the skin and does not look deeper than the skin, the priest shall declare him clean. He shall wash his clothes and be clean. |
+| 13:36 | the priest shall look at him, and here — if the patch has spread in the skin, the priest does not need to look for the yellow hair. He is unclean. | the priest shall look at him. If the patch has spread in the skin, the priest does not need to look for the yellow hair. He is unclean. |
+| 13:39 | the priest shall look, and here — if the bright spots on the skin of their body are a faded white, it is a rash that has broken out in the skin. He is clean. | the priest shall look. If the bright spots on the skin of their body are a faded white, it is a rash that has broken out in the skin. He is clean. |
+| 13:43 | And the priest shall look at him, and here — if the swelling of the mark is reddish-white on his bald head or his bald forehead, looking like blight on the skin of the body, | The priest shall look at him. If the swelling of the mark is reddish-white on his bald head or his bald forehead, looking like blight on the skin of the body, |
+| 13:53 | But if the priest looks, and here — the mark has not spread in the garment, or in the warp or the weft, or in any leather object, | But if the priest looks and the mark has not spread in the garment, or in the warp or the weft, or in any leather object, |
+| 13:55 | And the priest shall look after the mark has been washed, and here — if the mark has not changed its look, and the mark has not spread, it is unclean. You shall burn it in the fire. It is an eaten-through spot, whether on the back of it or on the front. | The priest shall look after the mark has been washed. If the mark has not changed its look, and the mark has not spread, it is unclean. You shall burn it in the fire. It is an eaten-through spot, whether on the back of it or on the front. |
+| 13:56 | But if the priest looks, and here — the mark has faded after it was washed, then he shall tear it out of the garment, or out of the leather, or out of the warp or the weft. | But if the priest looks and the mark has faded after it was washed, then he shall tear it out of the garment, or out of the leather, or out of the warp or the weft. |
+| 14:3 | and the priest shall go outside the camp. And the priest shall look, and here — if the mark of blight has healed in the blighted man, | and the priest shall go outside the camp. The priest shall look. If the mark of blight has healed in the blighted man, |
+| 14:37 | And he shall look at the mark, and here — if the mark is in the walls of the house, in greenish or reddish hollows that look lower than the wall, | He shall look at the mark. If the mark is in the walls of the house, in greenish or reddish hollows that look lower than the wall, |
+| 14:39 | And the priest shall come back on the seventh day and look, and here — if the mark has spread in the walls of the house, | The priest shall come back on the seventh day and look. If the mark has spread in the walls of the house, |
+| 14:44 | the priest shall come and look, and here — if the mark has spread in the house, it is a malignant blight in the house. It is unclean. | the priest shall come and look. If the mark has spread in the house, it is a malignant blight in the house. It is unclean. |
+| 14:48 | But if the priest comes and looks, and here — the mark has not spread in the house after the house was plastered, then the priest shall declare the house clean, because the mark has healed. | But if the priest comes and looks, and the mark has not spread in the house after the house was plastered, then the priest shall declare the house clean, because the mark has healed. |
+
+---
+
 ## Leviticus readability sweep (2026-09-25): 308 changes made, 4 choices waiting
 
 ### Your request (chat, 2026-09-25, after midnight)
@@ -29,7 +90,7 @@ Changes to chapters already rendered, filed under the book the request started i
 
 ### Choices for you (nothing changed yet)
 
-**1. "and here —" in the priest's inspections (Leviticus 13–14, 25 verses).** Your ruling keeps *And here —* for *hinneh*, the word that puts the reader inside someone's eyes. In these two chapters it sits in front of *if* (*and here — if the mark has spread*), and the pair stumbles. In a diagnosis, *hinneh* means *and if he sees that*.
+**1. "and here —" in the priest's inspections (Leviticus 13–14, 25 verses).** ✅ Decided 2026-09-25: removed and stitched (see the entry above). Your ruling keeps *And here —* for *hinneh*, the word that puts the reader inside someone's eyes. In these two chapters it sits in front of *if* (*and here — if the mark has spread*), and the pair stumbles. In a diagnosis, *hinneh* means *and if he sees that*.
 - **A:** keep as it is.
 - **B:** *the priest shall look, and if the mark has spread…*. Where there is no *if*: *and finds that there is no white hair…*.
 
