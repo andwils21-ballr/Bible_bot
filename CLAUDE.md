@@ -33,6 +33,8 @@ stumbling. The recurring patterns:
   motion toward; *what*, not *the thing that*.
 - **One Hebrew word, one English word** across the whole canon. See the fixed
   terms table in the spec.
+- **The readability pass** in `RENDERING_SPEC.md`: eight patterns from Andrew's
+  rulings. Run it on every chapter before committing.
 
 **Clean up in the text's own style.** Remove friction, never force. No casual
 words the text would never use (*get me out* is wrong, *take me out* is right).

@@ -2,6 +2,8 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+The "In the text now" column shows each chapter as first rendered. The 2026-09-25 readability sweep changed 308 places in Leviticus; see `PASTE/changes/3-leviticus.md`.
+
 ## Leviticus 26–27 (routine fired 1:01 PM Central, 2026-09-24; reported with Numbers 1–2)
 
 **Landed:** Leviticus 26, 27 (Leviticus is complete).

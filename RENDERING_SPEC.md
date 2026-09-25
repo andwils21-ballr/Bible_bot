@@ -96,6 +96,43 @@ Plain old words still in use stay: *flesh, seed, loins, womb, dread, kindred*.
 The goal is simplicity, not blandness. It is the translationese that goes, not
 the force.
 
+### The readability pass (Andrew's rulings on Exodus 16–19, 2026-09-25)
+
+Run this on every chapter before it is committed. Each item is a pattern Andrew
+had to flag by hand; the reader should never meet one.
+
+1. **Doubled words.** A verb with its own noun becomes the plain verb: *the sin
+   he sinned* → *the sin he has committed*; *grumblings you grumble* → *your
+   grumblings*; *stone him with stones* → *stone him*; *swarming things that
+   swarm* → *things that swarm*. The same noun twice in one clause becomes a
+   pronoun when the pronoun is clear: *bring the blood and dash the blood* →
+   *dash it*.
+2. **Word order.** The object goes after the verb: *And all its fat he shall
+   turn into smoke* → *He shall turn all its fat into smoke*. Keep the Hebrew
+   order only where a note is built on the emphasis.
+3. **Hebrew verb-nouns become clauses.** *in His hearing your grumblings* →
+   *because He has heard your grumblings*; *of the going out of the sons of
+   Israel* → *after the sons of Israel went out*.
+4. **Strings of small words.** *on the wood that is on the fire that is on the
+   altar* → *on the wood burning on the altar*; *for he had said* → *because he
+   said*; *this thing* → *this*.
+5. **Who is doing it.** When two people are in the scene (priest and worshipper,
+   owner and buyer) and *he* could be either, name the one who acts. A people
+   called by its ancestor's name is the people: *Amalek came* → *the Amalekites
+   came*.
+6. **Hand and face idioms.** *his hand cannot reach* → *he cannot afford*;
+   *favor the face of the poor* → *show favor to the poor*; *by the mouth of the
+   sword* → *with the sword*. The literal form goes in a note when the note has
+   something to say about it.
+7. **Read the English for what it says.** *The land will not vomit you out when
+   you make it unclean* said the opposite of the Hebrew; it is now *Otherwise,
+   when you make the land unclean, it will vomit you out* (Leviticus 18:28).
+8. **Old words with a plain equal.** *talebearer* → *slanderer*; *earthen
+   vessel* → *clay pot*; *go in to a dead body* → *go near*.
+
+Keep a literal phrase only when a note is built on it, and say so in the render
+report (`***KEPT AS IS***`).
+
 ### Fixed terms: one Hebrew word, one English word
 
 Use these everywhere. Never give two of these Hebrew words the same English word.
