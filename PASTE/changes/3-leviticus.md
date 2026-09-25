@@ -25,7 +25,13 @@ Every place was checked by what follows the "And". Four verses that start a quot
 
 **3. The rule is now in the spec** (*No "And" at the start of a sentence*, and the inspection-law exception under *Kept on purpose*), so renders from here on follow both.
 
-### Questions for you (nothing changed)
+### Your answers (2026-09-25)
+
+1. *And it came to pass* **stays**: it is the traditional phrase, and what follows it usually matters.
+2. *And here —* in the stories **stays**.
+3. **Genesis gets the same treatment.** Done: 1,563 removed. Genesis 1:3, *"Light — be." And light was.*, keeps its *And*, because there the *And* is the word taking effect. Say so if you'd rather cut it too. 36 notes that quoted a changed verse were updated to match.
+
+### Questions for you (answered above)
 
 1. ***And it came to pass*** (*va-yehi*, the scene opener) still starts with *And* in about 25 places. Drop it to *It came to pass*? My recommendation: yes. The formula is the words *it came to pass*, and the *And* is the same joining letter as everywhere else.
 2. ***And here —*** in the stories (for example Numbers 12:10, *and here — Miriam was blighted*): keep it. There it does what your ruling said, putting the reader inside someone's eyes.
