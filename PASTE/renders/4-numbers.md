@@ -2,6 +2,94 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 7–10 (routine fired 3:02 AM Central, 2026-09-25)
+
+**Landed:** Numbers 7, 8, 9, 10. Progress 151 → **155 of 1,554 (10.0%)**. Next is Numbers 11. These are the first chapters written with the new readability pass in the spec.
+
+### Numbers 7: The Gifts of the Twelve Chiefs
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | "and he anointed it and set it apart… and he anointed them and set them apart" | had anointed it and set it apart (the doubled clause said once) |
+| 2 | *ha-omdim al ha-pequdim*, "those standing over the counted" | the men who stood over those who were counted |
+| 3 | *egelot tsav* | covered wagons (Greek: litter-wagons) |
+| 5 | "take from them, and they shall be to work the work" | accept these from them, and let them be used for the work |
+| 7, 8 | *ke-fi avodatam*, "according to the mouth of their work" | as their work required |
+| 10 | "the chiefs presented… and the chiefs presented their offering" | brought their offerings… and presented them |
+| 11 | "one chief to the day, one chief to the day" | one chief each day |
+| 13 etc. | *qe'arah / mizraq / kaf* | dish / basin / pan (as Exodus 25:29, 27:3) |
+| 13 etc. | "its weight a hundred and thirty" | weighing a hundred and thirty shekels ("shekels" supplied, as v85 shows) |
+| 13, 19, 25… | *sheqel ha-qodesh* | the shekel of the sanctuary (see Choices) |
+| 16 / 17 | *se'ir izzim* / *attudim* | male goat / he-goats (two words kept apart, as Genesis 31:10) |
+| 12–83 | the same six verses for each chief | ***KEPT AS IS*** written out in full twelve times, identical each time |
+| 24, 30… | "on the third day, chief of the sons of Zebulun" (no verb) | On the third day it was the chief of the sons of Zebulun |
+| 42, 47 | *De'uel* | ***KEPT AS IS*** Deuel (the Hebrew here; see Choices) |
+
+### Numbers 8: The Lamps and the Levites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *be-ha'alotekha*, "when you make go up" | when you set up the lamps |
+| 2–3 | *el mul penei ha-menorah*, "toward the front of the face of the lampstand" | toward the front of the lampstand |
+| 4 | *ka-mar'eh asher her'ah*, "according to the sight He showed" | just as the LORD had shown Moses |
+| 7 | *mei chattat*, "water of sin" | the water of purification (literal form in the note) |
+| 7 | "let them pass a razor over all their flesh" | have them shave their whole body |
+| 11, 13, 15, 21 | "wave them a wave offering" | present them as a wave offering |
+| 16, 19 | *netunim netunim* / *netunim* | wholly given (as 3:9) |
+| 19 | "the sons of Israel" five times | ***KEPT AS IS*** five times (the note explains) |
+| 25 | *yashuv mi-tseva ha-avodah*, "return from the army of the work" | leave the service of the work |
+| 26 | *sheret et echav*, "minister with his brothers" | assist his brothers |
+
+### Numbers 9: The Second Passover and the Cloud
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3, 14 | *mishpatav* | its rulings (as Exodus 21:1; Leviticus now matches) |
+| 3, 5, 11 | *bein ha-arbayim* | ***KEPT AS IS*** between the evenings (as Exodus 12:6) |
+| 6 | *teme'im le-nefesh adam*, "unclean for a soul of a man" | unclean because of a human corpse |
+| 6 | "on that day… on that day" | on that day… that same day |
+| 7 | *lamah nigara*, "why are we diminished" | why should we be kept back |
+| 10 | *ish ish*, "a man, a man" | any one of you |
+| 13 | *chet'o yissa* | shall carry his sin (as Leviticus now) |
+| 14 | *ki yagur ittekhem ger*, "if a guest lives as a guest with you" | if a guest lives among you |
+| 15 | "the cloud covered the dwelling… over the dwelling" | the second *dwelling* made *it* |
+| 18–23 | *al pi YHWH*, "at the mouth of the LORD" | at the command of the LORD (seven times; the note counts them) |
+| 22 | *o yamim*, "or days" | or longer (the note gives "a year") |
+
+### Numbers 10: The Trumpets, and Leaving Sinai
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *le-miqra ha-edah u-le-massa et ha-machanot* | to summon the congregation and to set the camps moving |
+| 3 | "and they shall blow with them" | when both are blown |
+| 5–7 | *taqa* / *heri'a teru'ah* | blow / sound a blast (kept apart; the note explains) |
+| 9 | *ha-tsar ha-tsorer etkhem*, "the oppressor oppressing you" | the enemy who oppresses you |
+| 14 etc. | *al tseva'o*, "over his army" | over its army |
+| 21 | *nos'ei ha-miqdash*, "carrying the sanctuary" | carrying the holy things (literal form in the note) |
+| 20 | *De'uel* | ***KEPT AS IS*** Deuel (see Choices) |
+| 30 | "to my land and to my kindred I will go" | I will go back to my own land and my own kindred |
+| 33 | "a three days' journey… a three days' journey" | a three days' journey… those three days |
+| 36 | *rivevot alfei Yisrael*, "the ten thousands of the thousands of Israel" | the countless thousands of Israel |
+
+### Left standing on purpose
+
+- **7:12–83:** the twelve identical gifts, written out in full. That is how the Hebrew records them, and the note says why it matters.
+- **7:42, 47; 10:20 "Deuel":** as the Hebrew has it in these verses (see Choices).
+- **8:19:** "the sons of Israel" five times in one verse.
+- **9:3, 5, 11 "between the evenings":** the Passover phrase, kept as in Exodus 12:6.
+
+### Choices for you
+
+1. **Deuel or Reuel (still open).** This cycle adds the rest of the verses:
+   - **Numbers 1:14, 7:42, 7:47 and 10:20** read *Eliasaph son of **Deuel***.
+   - **Numbers 2:14** reads ***Reuel***.
+   - The Greek has *Reuel* in all five.
+
+   **Recommendation:** use one name everywhere. That would be *Deuel*, since four of the five Hebrew verses have it, with the note giving *Reuel*.
+2. **The shekel wording (still open).** Numbers 7 adds fourteen more verses reading *the shekel of the sanctuary*: 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85 and 86. The recommendation stands: *of the holy place* throughout.
+
+Still open from earlier: *qeri*, *elef*, the optional Leviticus 23:11 note, and the four Leviticus choices in `PASTE/changes/3-leviticus.md`.
+
 ## Numbers 3–6 (routine fired 6:01 PM Central, 2026-09-24)
 
 **Landed:** Numbers 3, 4, 5, 6. Progress 147 → **151 of 1,554 (9.7%)**. Next is Numbers 7.
