@@ -2,6 +2,84 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 47–50 (Enoch loop, run 3, 2026-09-26)
+
+**Landed:** 1 Enoch 47–50: the blood of the righteous comes before the Head of Days, the Son of Man is named before the sun, the Chosen One receives the spirit of Isaiah 11, and a door is opened for "the others" to repent.
+
+### 1 Enoch 47: The Blood of the Righteous
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 4 | *wa-dama ṣādəq*, "and the blood of (the) righteous (one)" (singular) | the blood of the righteous (singular noted) |
+| 1, 4 | *tafaqda*, "it was required" | it was required (EOTC has it in v1 too; noted) |
+| 2 | *yaḫabbəru*, "they will join together" (EOTC only) | will join together |
+| 2 | *wa-təʿgəśt ʾiyəkun lomu la-ʿālam*, "and patience may not be for them forever" | ***KEPT AS IS*** their patience may not have to last forever |
+| 4 | *baṣḥa ʾəlqʷā la-ṣədq*, "its number for righteousness had arrived" | the number of righteousness had arrived (Knibb lacks *number*; noted) |
+
+### 1 Enoch 48: The Name Before the Sun
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *za-ʾiyətḫwallaqʷ*, "which is not counted" | which never runs out |
+| 1 | *ʾəmənnēhu*, "from it" (EOTC) / "from them" (Knibb) | drank from it (noted) |
+| 2 | *taṣawʿa zəku walda sabʾ*, "that Son of Man was called" | that Son of Man was named |
+| 4 | *batra*, "a staff" | a staff for the righteous and the holy |
+| 6 | *ḫəruya wa-ḫəbuʾa*, "chosen and hidden" | chosen and hidden (EOTC lacks *and forever*; noted) |
+| 7 | *wa-faqāde kona la-ḥəywatomu*, "and will was for their life" | ***KEPT AS IS*** he has been the keeper of their life (sense uncertain; noted) |
+| 8 | *təḥutāna gaṣṣ*, "low of face" | downcast in face |
+| 10 | *fərhat* (EOTC, "fear") / *ʿəraft* (Knibb, "rest") | there will be fear on the earth (noted) |
+| 10 | *wa-la-masiḥu*, "and His Messiah" | and His Anointed (first use; noted) |
+
+### 1 Enoch 49: The Spirit on the Chosen One
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *wa-ʿamaḍā ka-ṣəlālot yaḫalləf wa-məqwām ʾalbo*, "and wrongdoing like a shadow passes and standing there is none" | wrongdoing will pass like a shadow and have no standing |
+| 3 | *manfasa za-yālebu*, "the spirit that gives understanding" | the spirit that gives understanding |
+| 3 | *manfasa ʾəlla nomu ba-ṣədq*, "the spirit of those who slept in righteousness" | the spirit of those who have fallen asleep in righteousness |
+| 4 | *nagara bak*, "an empty word" | an idle word (as Matthew 12:36; noted) |
+
+### 1 Enoch 50: Repentance for the Others
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *miṭat*, "a change" | a change |
+| 1 | *yətmayyaṭ*, "will turn" | will turn to the holy |
+| 2 | *la-kālʾān*, "to the others" | to the others |
+| 3 | *wa-yəkawwən lomu kəbr* (EOTC) / *wa-ʾiyəkawwən* (Knibb) | They will have honor (noted) |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **47:1** *it was required* in the EOTC; Knibb's Ge'ez has it only in v4.
+- **47:4** EOTC *the number of righteousness had arrived*; Knibb's Ge'ez lacks *number*.
+- **48:1** EOTC *in that place… from it* (the fountain of righteousness); Knibb *in those days… from them* (the fountains of wisdom).
+- **48:6** the EOTC lacks *and forever*.
+- **48:10** EOTC *fear* on the earth; Knibb *rest*.
+- **49:2** where *pass* stands: the EOTC puts it with *like a shadow*, Knibb's Ge'ez later, where it breaks the sense.
+- **50:3** EOTC *they will have honor*; Knibb and Charles *no honor*.
+
+Small, not noted:
+- **47:2** the EOTC adds *will join together*.
+- **48:7** EOTC *to the righteous and the chosen*; Knibb *to the holy and righteous*.
+- **50:1–2** Knibb's copy ends v1 with *in the day of distress*; the EOTC starts v2 with it. The English follows the EOTC.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 47 (4), 48 (10), 49 (4), 50 (5).
+- Every Old and New Testament quotation in the notes was printed and checked. One was corrected before commit: Revelation 6:11 has no word for *number* in the Greek, so the 47:4 note now quotes it as *until their fellow servants and their brothers… were made complete*.
+- Three note sentences were cut before commit because the text does not state them: 49:3 "the righteous dead live on in the Chosen One", 50:2 "a door… that chapters 1–36 did not", and the 50:1 claim resting on the root of *miṭat*.
+
+### Left standing on purpose
+
+- **47:1, 4** *the blood of the righteous*: the Ge'ez is singular, *ṣādəq*, the word used for the Righteous One. Rendered as the righteous in general, as both English renderings of the Ge'ez take it; the singular is noted.
+- **47:2** "their patience may not have to last forever": the Ge'ez clause as it stands.
+- **48:7** "he has been the keeper of their life": the sense of the Ge'ez is uncertain; both English renderings are given in the note.
+
+### Choices for you
+
+None.
+
 ## 1 Enoch 42–46 (Enoch loop, run 2, 2026-09-26)
 
 **Landed:** 1 Enoch 42–46: Wisdom's homelessness, the stars called by name, and the start of the second parable, where the Head of Days and the Son of Man first appear (46).
