@@ -1,15 +1,15 @@
 # Progress
 
-**167 of 1554 chapters rendered (10.7%).**
+**171 of 1554 chapters rendered (11.0%).**
 
-Next up: **Numbers 23**
+Next up: **Numbers 27**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
 | 1 | Genesis | source | done |
 | 2 | Exodus | source | done |
 | 3 | Leviticus | source | done |
-| 4 | Numbers | source | 22/36 |
+| 4 | Numbers | source | 26/36 |
 | 5 | Deuteronomy | source | 0/34 |
 | 6 | Joshua | source | 0/24 |
 | 7 | Judges | source | 0/21 |

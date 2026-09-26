@@ -2,6 +2,120 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 23–26 (routine fired 3:01 AM Central, 2026-09-26)
+
+**Landed:** Numbers 23, 24, 25, 26. Progress 167 → **171 of 1,554 (11.0%)**. Next is Numbers 27.
+
+**Consistency fixes in chapters already rendered (not yet reviewed by Andrew):**
+- **22:7:** *qesamim*, "fees for divination" → "fees for soothsaying". *Nachash* is already "divination" in Leviticus 19:26, and 23:23 needed both words.
+- **22:31:** "opened Balaam's eyes" → "uncovered Balaam's eyes", to match 24:4 and 24:16, "with his eyes uncovered".
+- **21:18:** "with the scepter" → "with the ruler's rod", the rendering of *mechoqeq* in Genesis 49:10.
+
+### Numbers 23: Balaam's First Two Sayings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yelekh shefi*, "went bare" | ***KEPT AS IS*** went to a bare height (the word is uncertain; noted) |
+| 3 | *ulai yiqqareh YHWH liqrati*, "perhaps the LORD will happen to meet me" | Perhaps the LORD will come to meet me |
+| 3 | *u-devar mah yar'eni*, "and the word of what He shows me" | whatever He shows me |
+| 7 | *va-yissa meshalo*, "lifted up his saying" | He took up his saying |
+| 7 | *me-harerei qedem*, "from the mountains of the east" | from the mountains of the east |
+| 9 | *lo yitchashav*, "does not reckon itself" | does not count itself among the nations |
+| 10 | *rova Yisra'el*, "the fourth of Israel" | ***KEPT AS IS*** the fourth part of Israel (the word is uncertain; noted) |
+| 11 | *berakhta varekh*, "you have blessed, blessing" | you have done nothing but bless them |
+| 12 | *oto eshmor le-dabber*, "it I must keep to speak" | Must I not take care to speak |
+| 13 | *efes qatsehu tir'eh*, "only its edge you will see" | You will see only the edge of them |
+| 19 | *ve-lo yeqimennah*, "and not make it stand" | will He not make it stand? |
+| 20 | *barekh laqachti*, "to bless I have received" | I have received a command to bless |
+| 21 | *teru'at melekh*, "the shout of a king" | ***KEPT AS IS*** the shout of a king |
+| 22 | *ke-to'afot re'em*, "as the peaks of a wild ox" | he has the horns of the wild ox |
+| 23 | *nachash… qesem* | divining… soothsaying (to keep the two words apart) |
+| 25 | *gam qov lo tiqqevennu gam barekh lo tevarakhennu*, "neither cursing curse, nor blessing bless" | Do not curse them at all, and do not bless them at all |
+| 27 | *ulai yishar be-einei ha-Elohim*, "perhaps it will be right in the eyes of God" | ***KEPT AS IS*** Perhaps it will be right in the eyes of God (Balak's own words) |
+
+### Numbers 24: A Star out of Jacob
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ki-fa'am be-fa'am*, "as time by time" | as at the other times |
+| 1 | *li-qrat nechashim*, "to meet divinings" | to look for divinings |
+| 2 | *shokhen li-shvatav*, "dwelling to his tribes" | camping tribe by tribe |
+| 3, 15 | *ne'um*, "utterance" | The word of |
+| 3, 15 | *shetum ha-ayin* | ***KEPT AS IS*** whose eye is opened (could be *shut*; noted) |
+| 4, 16 | *nofel u-geluy einayim*, "falling and uncovered of eyes" | falling down, with his eyes uncovered |
+| 6 | *ki-nchalim nittayu*, "like valleys they are stretched out" | Like valleys they stretch out |
+| 7 | *yizzal mayim mi-dalyav*, "water flows from his two buckets" | Water shall flow from his buckets |
+| 8 | *ve-chitsav yimchats*, "and his arrows he will shatter" | and strike them through with his arrows |
+| 10 | *va-yispoq et kappav*, "clapped his palms" | struck his hands together |
+| 11 | *berach lekha*, "flee for yourself" | Now flee to your own place |
+| 13 | *ra'ah mi-libbi*, "evil from my heart" | good or bad from my own heart |
+| 14 | *be-acharit ha-yamim*, "in the end of the days" | in the end of days (as Genesis 49:1) |
+| 16 | *ve-yodea da'at Elyon*, "knowing the knowledge of the Most High" | knows what the Most High knows |
+| 17 | *darakh kokhav*, "a star has trodden" | A star shall march |
+| 17 | *shevet* | a staff (as Genesis 49:10) |
+| 17 | *pa'atei Mo'av*, "the corners of Moab" | the brow of Moab |
+| 17 | *qarqar kol benei Shet* | tear down all the sons of Sheth |
+| 18 | *oseh chayil*, "doing strength" | does valiantly |
+| 20 | *acharito adei oved*, "his end, to perishing" | his end is destruction |
+| 21 | *eitan moshavekha*, "enduring is your seat" | Enduring is your dwelling place |
+| 22 | *ki im yihyeh le-va'er Qayin* | ***KEPT AS IS*** Yet Kain shall be burned (uncertain; noted) |
+| 23 | *mi yichyeh missumo El*, "who will live from His setting it, God" | ***KEPT AS IS*** who shall live when God does this? (uncertain) |
+| 24 | *tsim miyyad Kittim*, "ships from the hand of Kittim" | Ships shall come from the coast of Kittim |
+
+### Numbers 25: Baal of Peor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *liznot el*, "to whore to" | to prostitute themselves with |
+| 3 | *va-yitsamed*, "was yoked" | yoked itself to |
+| 4 | *ve-hoqa otam*, "hang/impale them" | ***KEPT AS IS*** hang them up… in the sun (the method is uncertain; noted) |
+| 4 | *charon af YHWH*, "the burning of the nose of the LORD" | the fierce anger of the LORD |
+| 5 | *hirgu ish anashav*, "kill, each man his men" | Each of you kill those of his men |
+| 6 | *ve-hinneh*, "and here" | And here — (a moment of seeing) |
+| 8 | *el ha-qubbah*, "into the vault" | into the tent chamber |
+| 11 | *be-qan'o et qin'ati*, "in his being jealous My jealousy" | because he was jealous with My jealousy |
+| 15 | *rosh ummot beit av*, "head of the peoples of a fathers' house" | head of the clans of a fathers' house |
+| 17 | *tsaror*, "harass" | Harass |
+| 18 | *be-nikhleihem asher nikkelu lakhem*, "with their tricks that they tricked you" | with their tricks, the tricks they played on you |
+
+### Numbers 26: The Second Count
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | Hebrew 25:19 + 26:1 | one verse, as the English and the Greek |
+| 2 | *se'u et rosh*, "lift the head of" | Take a count of |
+| 3 | *al Yarden Yerecho*, "on the Jordan of Jericho" | by the Jordan at Jericho |
+| 4 | no main verb | ***KEPT AS IS*** the sentence joins the command to the list (noted) |
+| 5 etc. | *le-Chanokh mishpachat ha-Chanokhi*, "to Hanoch, the clan of the Hanochite" | of Hanoch, the clan of the Hanochites |
+| 9 | *qeri'ei ha-edah* (written *qeru'ei*) | called to the congregation (the reading; see Choices, *qeri*) |
+| 9 | *hitsu*, "struggled" | fought against |
+| 10 | *va-yihyu le-nes*, "they became a banner" | they became a warning sign |
+| 29 | *holid*, "caused to be born" | fathered |
+| 54 | *la-rav tarbeh… ve-la-me'at tam'it*, "to the many make it many… to the few make it few" | To the larger… a larger… to the smaller… a smaller |
+| 55 | *le-shemot mattot avotam*, "by the names of the tribes of their fathers" | by the names of their fathers' tribes |
+| 59 | *asher yaldah otah le-Levi* | ***KEPT AS IS*** who was born to Levi in Egypt (no subject for "she"; noted) |
+| 61 | *esh zarah* | strange fire (as Leviticus 10:1) |
+| 65 | *mot yamutu*, "dying they shall die" | They shall surely die |
+
+### Left standing on purpose
+
+- **23:3** "a bare height": the word *shefi* is uncertain.
+- **23:10** "the fourth part of Israel": *rova* is uncertain; the Greek has "the clans".
+- **23:21** "the shout of a king": kept as the Hebrew has it; the king is the LORD among them.
+- **23:27** "right in the eyes of God": Balak's own words, a pagan king's idiom.
+- **24:3, 15** "whose eye is opened": the verb appears only here and could mean "shut".
+- **24:22–23**: two uncertain lines, left as the Hebrew reads.
+- **25:4** "hang them up": the verb names a public execution but not its method.
+- **26:4**: a sentence with no main verb in the Hebrew.
+- **26:59** "who was born to Levi": the Hebrew has no subject for "she bore".
+
+### Choices for you
+
+1. **Still open from yesterday: *mei niddah*,** "the water for impurity" (19:9, 13, 20, 21), or "the water of separation". I recommend "impurity".
+2. **Still open:** *qeri* (21:32 "drove out", and 26:9 "called", both follow the read form), *elef* (26:51 now points to the note on 1:16), Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+
+**Logged in NOTES_FOR_ANDREW.md:** English 26:1 is Hebrew 25:19 plus 26:1.
+
 ## Numbers 19–22 (routine fired 6:01 PM Central, 2026-09-25)
 
 **Landed:** Numbers 19, 20, 21, 22. Progress 163 → **167 of 1,554 (10.7%)**. Next is Numbers 23.
@@ -51,7 +165,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 5 | *nafshenu qatsah ba-lechem ha-qeloqel*, "our soul loathes the worthless bread" | we are sick of this miserable bread |
 | 11 | *mi-mizrach ha-shemesh*, "from the rising of the sun" | toward the sunrise |
 | 14–15 | *et Vahev be-Sufah…* | ***KEPT AS IS*** Waheb in Suphah (a fragment with no verb; noted) |
-| 18 | *bi-mchoqeq*, "with a lawgiver's staff" | with the scepter |
+| 18 | *bi-mchoqeq*, "with a lawgiver's staff" | with the ruler's rod (as Genesis 49:10) |
 | 20 | *ha-yeshimon* | the wasteland |
 | 25 | *u-ve-khol benoteha*, "and in all its daughters" | and all its villages |
 | 27 | *ha-moshlim*, "the ones who speak sayings" | the singers of sayings |
@@ -68,7 +182,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 4 | *ha-qahal*, "the assembly" | this company |
 | 5 | *kissah et ein ha-arets*, "covered the eye of the land" | ***KEPT AS IS*** covered the eye of the land (the locust phrase of Exodus 10:5; noted) |
 | 5 | *mi-mmuli*, "from opposite me" | living opposite me |
-| 7 | *u-qesamim be-yadam*, "and divinations in their hand" | with the fees for divination in their hand |
+| 7 | *u-qesamim be-yadam*, "and divinations in their hand" | with the fees for soothsaying in their hand |
 | 8 | *linu fo*, "lodge here" | Spend the night here |
 | 16 | *al na timmana me-halokh*, "do not be withheld from going" | let nothing keep you from coming |
 | 17 | *kabbed akhabbedkha*, "honor, I will honor you" | I will honor you greatly |
