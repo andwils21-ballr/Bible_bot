@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 82 (Enoch loop, run 14, 2026-09-26)
+
+**Landed:** 1 Enoch 82, the end of the Astronomical Book: Enoch gives Methuselah the books, repeats the warning about the four added days and the 364-day year, and names the leaders of the seasons; the chapter describes spring and summer and stops.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *maṣāḥəfta ʾədēhu la-ʾabuka*, "the books of your father's hand" | the books from your father's hand |
+| 4 | *ʾarʾəsta ʿašartu məʾt*, "heads of ten hundred" | the heads of thousands |
+| 7 | *wa-nafḫa diběya*, "and he breathed on me" | breathed on me (noted) |
+| 11 | *śalastu məʾt wa-sassā wa-ʾarbāʿtu*, "364" (EOTC) | the year of three hundred and sixty-four days (Charles *360*; noted) |
+| 13–20 | the names | spelled from the EOTC |
+| 16 | *ḥazan*, "sorrow" | ***KEPT AS IS*** sorrow (Charles *calms*; noted) |
+| 19 | *rəsuna wa-bəsula*, "hot and cooked" | ripe and cooked |
+
+**Checks:** verse count 20 = EOTC; Psalm 19:10 printed and checked; the four added days checked again against 72 and 75.
+
+**Left standing on purpose:** 82:16 "sorrow"; the chapter's abrupt end after the second season (noted).
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 82).
+
 ## 1 Enoch 79–81 (Enoch loop, run 13, 2026-09-26)
 
 **Landed:** 1 Enoch 79–81: Enoch closes the law of the stars for Methuselah (79); Uriel foretells the order breaking in the days of the sinners (80); Enoch reads the tablets of heaven, is set down at his own door, and is given one year to teach his children (81).
