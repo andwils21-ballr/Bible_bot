@@ -2,6 +2,24 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## 1 Enoch 1–36 checked against the EOTC Ge'ez (2026-09-26): three choices
+
+**Why:** Andrew made the EOTC Ge'ez the base text of 1 Enoch (see `SOURCES.md`). Chapters 1–36 were rendered from Knibb's Ge'ez and the Greek, so every verse was compared with the EOTC. The two Ge'ez texts agree closely (median 93% letter-for-letter). Of 29 verses that differ most, 26 are spelling, name forms or where a verse ends, and change nothing in English. Three differences matter. Nothing has been changed yet.
+
+**Choice 1: 9:6–7, "made known sorceries."** Knibb's Ge'ez ends 9:6 with *and made known sorceries* (Azazel is the one doing it). The EOTC has the same words at the start of 9:7, before Shemihazah: *and Shemihazah made known spells, to whom You gave authority…*. The Greek has neither; it ends 9:6 *which men were striving to learn*, and that is what the text says now.
+- 9:6 now: *See then what Azazel has done — how he taught all unrighteousness on the earth, and revealed the eternal secrets that are kept in heaven, which men were striving to learn.*
+- 9:7 now: *Shemihazah, to whom You gave authority to rule over those who are with him.*
+- **Recommendation:** follow the EOTC: 9:7 becomes *And Shemihazah has made known spells — he to whom You gave authority to rule over those who are with him*, with a note that Knibb gives the sorceries to Azazel and the Greek has neither. (The *And* would go; it is written here only to match the Ge'ez.)
+
+**Choice 2: 21:6, "stars" or "angels."** The EOTC reads *These are the **angels** who transgressed the command of God Most High*. Knibb's Ge'ez and the Greek read *These are **among the stars** (of heaven) that transgressed*.
+- 21:6 now: *"These are among the stars of heaven that transgressed the command of the Lord…"*
+- **Recommendation:** keep *stars*. Verse 3 of the same chapter says *seven stars of heaven bound*, and 18:15 calls the punished ones stars, so the context backs Knibb and the Greek (the spec's rule for differing witnesses). Add a note giving the EOTC's *angels*: the book treats the bound stars as angelic beings, and the EOTC says so outright.
+
+**Choice 3: chapter 28, two verses or three.** The EOTC divides chapter 28 into 2 verses; Knibb and Charles into 3. The words are the same, only the verse boundaries move: the EOTC's 28:1 ends *yet it was full of trees*, and its 28:2 holds the rest.
+- **Recommendation:** follow the EOTC numbering (the spec now says 1 Enoch verse numbers follow it), and note that other English editions number it 28:1–3.
+
+**No choice needed:** the EOTC transcription has no 21:1 (its chapter 21 starts at verse 2). Knibb and the Greek both have it, *I went on as far as the place where nothing was made*, so it stays; this is a gap in the digital copy, not a different text.
+
 ## "And now" restored in speech (Andrew's ruling, 2026-09-26)
 
 **The ruling:** keep *And now* when it opens a turn inside a speech (see `PASTE/changes/3-leviticus.md`). The "No And" sweep of 2026-09-25 had removed it in five places in 1 Enoch, all in speech.

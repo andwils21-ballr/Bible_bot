@@ -268,7 +268,8 @@ witness, its scholarly English, and a mechanical divergence list.
   chapters 1-71), the Greek, the Aramaic and the Latin are the other witnesses.
   For meaning, use the OCP English (1-71) and Charles (all chapters); never
   follow Charles's reordering or his emendations without a note. Every 1 Enoch
-  chapter carries the credit line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
+  chapter from 37 on ends with a last note, **Source text**, carrying the credit
+  line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
 
 ## The notes standard
 
