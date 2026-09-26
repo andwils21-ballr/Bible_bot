@@ -95,6 +95,15 @@ report. The kept cases so far:
 - **Genesis 1:1–2:3**, the creation week: *And God said… And it was so… And
   God saw that it was good… And it was evening, and it was morning.* The *And*
   carries the rhythm of the seven days (Andrew, 2026-09-25).
+- **"And it shall come to pass"** / **"And it will come to pass"** for
+  *ve-hayah*, the future twin of *And it came to pass* (Andrew, 2026-09-26).
+- **"And now"** for *ve-attah* inside speech: it keeps the speaker's own turn
+  toward what they want, heard through their mouth (Andrew, 2026-09-26). Where
+  the sense is contrast or consequence, *But now* or *So now* stays.
+
+Not kept: *The LORD spoke to Moses, saying*; *These are the generations of*;
+*He lifted up his eyes and saw* (the *And here —* that follows is the marker);
+*the word of the LORD came to* (Andrew, 2026-09-26).
 
 Where the joining word means *but*, *so* or *then*, use that word.
 

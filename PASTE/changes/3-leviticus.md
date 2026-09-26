@@ -2,6 +2,68 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## "And" kept: *And it shall come to pass* and *And now* (Andrew, 2026-09-26)
+
+**The request:** after the "No And" sweep, Andrew asked which other common phrases work like *And it came to pass*. His rulings:
+- **Keep** *And it shall come to pass* / *And it will come to pass* (*ve-hayah*), the future twin of *And it came to pass*.
+- **Keep** *And now* (*ve-attah*) inside speech, as part of hearing the speaker through their own mouth.
+- **Not kept** (agreed): *The LORD spoke to Moses, saying*; *These are the generations of*; *He lifted up his eyes and saw*; *the word of the LORD came to*.
+- **Judges refrain** (*And the sons of Israel did evil…*): examples sent in chat; not yet decided.
+
+Both kept phrases are added to the spec's list under "No And". Left as they are: *But now* (Numbers 11:6) and *So now* (Genesis 31:16, Numbers 14:17), where *ve-attah* carries contrast or consequence; and *it will come to pass* in Genesis 44:31, which is inside a sentence.
+
+**Still open:** *ve-hayah* is also rendered *It will be, when…* in these places: Genesis 9:14, 12:12; Exodus 12:25, 12:26, 13:5, 13:11, 13:14, 16:5, 33:22 (and *It would be, when…* in Exodus 33:8, 33:9). They are the same Hebrew formula. Change them to *And it shall/will come to pass, when…*, or leave them?
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 3:22 | …good and evil. Now — in case he puts out his hand and take also from t… | …good and evil. And now — in case he puts out his hand and take also fr… |
+| Genesis 4:11 | Now, cursed are you from the ground, which opened its mouth to take yo… | And now, cursed are you from the ground, which opened its mouth to tak… |
+| Genesis 11:6 | …y begin to do. Now nothing will be held back from them, all that they… | …y begin to do. And now nothing will be held back from them, all that t… |
+| Genesis 12:19 | …elf as a wife? Now — here is your wife. Take her and go."… | …elf as a wife? And now — here is your wife. Take her and go."… |
+| Genesis 20:7 | Now, return the man's wife, for he is a prophet, and he will pray for… | And now, return the man's wife, for he is a prophet, and he will pray… |
+| Genesis 21:23 | Now, swear to me here by God that you will not deal falsely with me, n… | And now, swear to me here by God that you will not deal falsely with m… |
+| Genesis 24:49 | Now, if you are doing kindness and truth with my master, tell me. If n… | And now, if you are doing kindness and truth with my master, tell me.… |
+| Genesis 27:3 | Now take up, please, your gear — your quiver and your bow — and go out… | And now take up, please, your gear — your quiver and your bow — and go… |
+| Genesis 27:8 | Now, my son, listen to my voice, to what I am commanding you.… | And now, my son, listen to my voice, to what I am commanding you.… |
+| Genesis 27:43 | Now, my son, listen to my voice. Rise, flee for yourself to Laban my b… | And now, my son, listen to my voice. Rise, flee for yourself to Laban… |
+| Genesis 30:30 | …ou at my foot. Now — when shall I do something for my own house, I als… | …ou at my foot. And now — when shall I do something for my own house, I… |
+| Genesis 31:30 | Now, you have indeed gone, because you deeply longed for your father's… | And now, you have indeed gone, because you deeply longed for your fath… |
+| Genesis 31:44 | Now, come, let us cut a covenant, I and you, and let it be a witness b… | And now, come, let us cut a covenant, I and you, and let it be a witne… |
+| Genesis 37:20 | Now, come, let us kill him and throw him into one of the pits, and we… | And now, come, let us kill him and throw him into one of the pits, and… |
+| Genesis 41:33 | Now, let Pharaoh look out a man discerning and wise, and set him over… | And now, let Pharaoh look out a man discerning and wise, and set him o… |
+| Genesis 44:30 | Now, when I come to your servant my father and the boy is not with us… | And now, when I come to your servant my father and the boy is not with… |
+| Genesis 44:33 | Now, let your servant stay instead of the boy as a slave to my lord, a… | And now, let your servant stay instead of the boy as a slave to my lor… |
+| Genesis 45:5 | Now, do not be grieved, and do not let it burn in your eyes that you s… | And now, do not be grieved, and do not let it burn in your eyes that y… |
+| Genesis 45:8 | Now — it was not you who sent me here, but God. He has made me a fathe… | And now — it was not you who sent me here, but God. He has made me a f… |
+| Genesis 47:4 | …and of Canaan. Now, let your servants please dwell in the land of Gosh… | …and of Canaan. And now, let your servants please dwell in the land of… |
+| Genesis 48:5 | Now, your two sons born to you in the land of Egypt before I came to y… | And now, your two sons born to you in the land of Egypt before I came… |
+| Genesis 50:5 | …shall bury me. Now let me go up, please, and bury my father, and I wil… | …shall bury me. And now let me go up, please, and bury my father, and I… |
+| Genesis 50:17 | …alt you evil.' Now, lift, please, the offense of the servants of the G… | …alt you evil.' And now, lift, please, the offense of the servants of t… |
+| Genesis 50:21 | Now, do not be afraid. I myself will sustain you and your little ones.… | And now, do not be afraid. I myself will sustain you and your little o… |
+| Exodus 3:9 | Now, here — the cry of the sons of Israel has come to Me, and I have a… | And now, here — the cry of the sons of Israel has come to Me, and I ha… |
+| Exodus 3:10 | Now come, and I will send you to Pharaoh, and bring out My people, the… | And now come, and I will send you to Pharaoh, and bring out My people,… |
+| Exodus 3:18 | …s met with us. Now let us go, please, a three days' journey into the w… | …s met with us. And now let us go, please, a three days' journey into t… |
+| Exodus 4:12 | Now go, and I Myself will be with your mouth, and I will teach you wha… | And now go, and I Myself will be with your mouth, and I will teach you… |
+| Exodus 5:18 | Now go, work! Straw will not be given to you, and you will hand over t… | And now go, work! Straw will not be given to you, and you will hand ov… |
+| Exodus 9:19 | Now, send word — bring your livestock into shelter, and everything you… | And now, send word — bring your livestock into shelter, and everything… |
+| Exodus 10:17 | Now, lift my sin just this once, and plead with the LORD your God, and… | And now, lift my sin just this once, and plead with the LORD your God,… |
+| Exodus 19:5 | Now, if you will truly listen to My voice and keep My covenant, then y… | And now, if you will truly listen to My voice and keep My covenant, th… |
+| Exodus 32:10 | Now, leave Me alone, and My anger will burn against them, and I will f… | And now, leave Me alone, and My anger will burn against them, and I wi… |
+| Exodus 32:30 | …d a great sin. Now I will go up to the LORD. Perhaps I can make atonem… | …d a great sin. And now I will go up to the LORD. Perhaps I can make at… |
+| Exodus 32:32 | Now, if You would forgive their sin — and if not, blot me out, please,… | And now, if You would forgive their sin — and if not, blot me out, ple… |
+| Exodus 32:34 | Now, go, lead the people to where I told you. Here — My messenger will… | And now, go, lead the people to where I told you. Here — My messenger… |
+| Exodus 33:5 | …ld finish you. Now, take your ornaments off yourself, and I will know… | …ld finish you. And now, take your ornaments off yourself, and I will k… |
+| Exodus 33:13 | Now, if I have found favor in Your eyes, let me know Your ways, so tha… | And now, if I have found favor in Your eyes, let me know Your ways, so… |
+| Numbers 22:6 | Now please come and curse this people for me, for they are too mighty… | And now please come and curse this people for me, for they are too mig… |
+| Numbers 22:19 | Now please stay here tonight, you also, so that I may know what more t… | And now please stay here tonight, you also, so that I may know what mo… |
+| Numbers 22:34 | …ad against me. Now, if it is displeasing to you, I will go back."… | …ad against me. And now, if it is displeasing to you, I will go back."… |
+| Numbers 24:11 | Now flee to your own place. I said I would honor you greatly, but here… | And now flee to your own place. I said I would honor you greatly, but… |
+| Numbers 24:14 | Now I am going to my people. Come, I will tell you what this people wi… | And now I am going to my people. Come, I will tell you what this peopl… |
+| Genesis 46:33 | It will come to pass, when Pharaoh calls you and says, 'What is your w… | And it will come to pass, when Pharaoh calls you and says, 'What is yo… |
+| Genesis 47:24 | It will come to pass at the harvests that you shall give a fifth to Ph… | And it will come to pass at the harvests that you shall give a fifth t… |
+| Exodus 4:8 | "It will come to pass, if they do not believe you and do not listen to… | "And it will come to pass, if they do not believe you and do not liste… |
+| Exodus 4:9 | It will come to pass, if they do not believe even these two signs and… | And it will come to pass, if they do not believe even these two signs… |
+
 ## Your rulings: "and here —" in Leviticus 13–14, and "And" at the start of sentences (2026-09-25)
 
 ### Your request (chat, 2026-09-25)
