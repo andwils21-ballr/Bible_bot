@@ -2,6 +2,30 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 100–102 (Enoch loop, run 22, 2026-09-26)
+
+**Landed:** 1 Enoch 100–102: the day when fathers and brothers kill one another, the righteous guarded by angels, and the rain held back (100); the masters of the ships fear the sea, but the sinners do not fear the Most High (101); the terror of that day, comfort for the righteous dead, and the sinners' taunt, *As we die, the righteous die* (102). Every verse compared with the Greek.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 100:2 | *məḥira*, with the Greek *his beloved* | even the beloved (noted) |
+| 100:4 | *ʾəlla yāraddəʾəwwā la-ḫaṭiʾat*, "who help sin" | all who helped sin (with the Greek; Charles *brought down*; noted) |
+| 100:6 | *maṣḥaf*, "book" | this book (Greek *epistle*; noted) |
+| 100:11 | *wa-ʾiyəḫelləyu diba ḫaṭiʾatkəmu*, with *not* | ***KEPT AS IS*** they will not be mindful of you because of your sins (Charles drops the *not*; noted) |
+| 100:12 | holds Charles's and the Greek's vv12–13 | EOTC numbering kept (noted) |
+| 101:1 | *ʿəluda samāy*, "children of heaven" | ***KEPT AS IS*** (Greek *children of men*; noted) |
+| 101:3 | *ʾakkonu ʾantəmu za-tāstabaqʷʿəwwo*, "are you not the ones who will plead with Him" | will you not be the ones pleading with Him? (with the Greek; Charles reverses it; noted) |
+| 101:4, 9 | *nagaśta ʾaḥmār*, "kings of ships" | the masters of the ships |
+| 102:5 | *ba-ʿəlat ʾənta bāti konkəmu ḫaṭəʾāna*, "in the day in which you were sinners" | It was only that the days you lived in were days of sinners (**the Greek's sense followed; noted**) |
+| 102:10 | *tafṣāmetomu salāma*, "their end (was) peace" | how their end is peace (Charles lacks *peace*; noted) |
+| 102:11 | no speaker named | in quotation marks as the sinners' answer (Charles; noted) |
+
+**Checks:** verse counts equal the EOTC's (12, 9, 11); quotations printed and checked.
+
+**Left standing on purpose:** 100:11 and 101:1, the EOTC as it stands. 102:5 and 102:11 are readings, not certainties: 102:5 follows the Greek's sense of a hard Ge'ez clause, and 102:11 follows Charles on who is speaking. Both notes say so.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 100–102).
+
 ## 1 Enoch 98–99 (Enoch loop, run 21, 2026-09-26)
 
 **Landed:** 1 Enoch 98–99, the woes go on: the rich who are adorned like women, sin as men's own making, and the sins written in heaven every day (98); the twisters of the law, the prayers of the righteous set before the angels, the days when mothers abandon their children, and the worshipers of stones (99). Only two chapters this run: both are compared verse by verse with the Greek, and 99 with the Latin too.
