@@ -77,6 +77,16 @@ the LPettay copy:
 | 1 Meqabyan | `1001-2000/LIT1819Maccab.xml` | full text, 36 chapters |
 | 2 Meqabyan | `5001-6000/LIT5840SecondEthioMaccabees.xml` | full text, 21 chapters |
 | 3 Meqabyan | `5001-6000/LIT5839ThirdEthioMaccabees.xml` | full text, 10 chapters, every chapter filled |
+| 1 Enoch | `1001-2000/LIT1340EnochE.xml`, edition `EOTCed` ("Text of the EOTC printed Bible") | full text, 108 chapters, 1,058 numbered verses; in `sources/ethiopic-eotc/` |
+
+**1 Enoch (Andrew, 2026-09-26):** 1 Enoch is rendered from the EOTC Ge'ez
+(`sources/ethiopic-eotc/1-enoch.txt`), which is the base text and sets the verse
+numbering. Knibb's Ge'ez from the OCP (`sources/ethiopic/`, chapters 1-71)
+stays as a second witness to check against. Andrew chose this knowing the
+share-alike terms above then apply to the 1 Enoch renderings. Converted from
+Beta Masaheft commit `90ab9cf` (2026-09-26); the XML is kept in
+`sources/betamasaheft-xml/`. Only the markup was removed; no word was altered.
+The EOTC numbering matches Knibb's in 69 of 71 chapters (not 21 and 28).
 
 - LPettay's `3Meq` folder is **2 Meqabyan** mislabelled: its opening and closing
   words are identical to Beta Masaheft's Second Book. LPettay has no 3 Meqabyan.
@@ -91,6 +101,29 @@ the LPettay copy:
     in the canon. Do not use it as Qalementos.
   - LPettay's `Sinod`, `TestLd`, `Lef`, `MysHE`, `Teach` hold English headings
     or scraps, not text. `KN` is the Kebra Nagast, which is not one of the 89.
+
+## R. H. Charles's English of 1 Enoch (public domain)
+
+`sources/english/1-enoch.charles.txt` is **R. H. Charles, *The Book of Enoch*
+(London: SPCK, 1917)**, the revised version of his 1912 translation. Charles died
+in 1931, so the text is public domain. It is used only as the scholarly English
+for checking *meaning*, chiefly in chapters 72-108, where the OCP has no English.
+It is not a witness.
+
+Taken from `github.com/scrollmapper/bible_databases_deuterocanonical`
+(commit `271173e`, `sources/en/1-enoch/1-enoch.md`, kept in
+`sources/charles-src/`). Converted to `chapter:verse<TAB>text`, with three things
+to know:
+- Charles prints a second recension beside the first in 22, 27:3 and 32:1-3;
+  the second is kept as a lettered verse (`22:2b`).
+- Charles moves verses (91-93, 106) and emends the text. The file keeps his
+  numbering; the rendering follows the EOTC order and numbering, not his.
+- One repair: a stray `[106:1]` marker had split 106:8; the fragment is joined
+  back to 106:8 with the missing word shown as `[I]`.
+
+His chapter 44 is missing from that copy. Charles's numbering differs from the
+EOTC's by one verse in chapters 8, 10, 15, 20, 21, 28, 40, 51, 68, 85, 89, 98
+and 100.
 
 ## How the OCP witnesses are built
 
@@ -115,7 +148,7 @@ reason this rendering prints all of them together.
 
 | Book | Witnesses held here |
 |---|---|
-| **1 Enoch** | Greek (48 chapters), Ge'ez (71), Qumran Aramaic (8), Latin (3) |
+| **1 Enoch** | Greek (48 chapters), Ge'ez (71), Qumran Aramaic (8), Latin (3); plus the EOTC Ge'ez, all 108 chapters, from Beta Masaheft (see the exception above) |
 | **Jubilees** | Latin (34 chapters), Greek (26) |
 
 The texts come from the **Online Critical Pseudepigrapha**

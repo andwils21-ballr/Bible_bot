@@ -263,6 +263,13 @@ witness, its scholarly English, and a mechanical divergence list.
   quote it and report differences, but build no argument on what it supposedly
   means.
 
+- **1 Enoch (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
+  (`ethiopic-eotc`), and verse numbers follow it. Knibb's Ge'ez (`ethiopic`,
+  chapters 1-71), the Greek, the Aramaic and the Latin are the other witnesses.
+  For meaning, use the OCP English (1-71) and Charles (all chapters); never
+  follow Charles's reordering or his emendations without a note. Every 1 Enoch
+  chapter carries the credit line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
+
 ## The notes standard
 
 **Dig as far as the word goes.** The worked example is John 1:1, *logos*. English
