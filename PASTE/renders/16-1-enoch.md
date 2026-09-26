@@ -2,6 +2,24 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 86–88 (Enoch loop, run 16, 2026-09-26)
+
+**Landed:** 1 Enoch 86–88: the Watchers as falling stars, the giants as elephants, camels and donkeys (86); seven beings like white men lift Enoch to a high tower (87); the first star bound, the giants set against each other, the other stars bound in the abyss (88) — the judgments of chapter 10 told as a dream.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 86:2 | *yaʿawwəyəwu*, "they wail" | began to wail one with another (Charles *live*; noted) |
+| 86:4 | *ḫafratātihomu*, "their shame" | their members |
+| 87:2 | *ʾaḥadu*, "one" (EOTC) | Four came out (88:1, 3 and 90:21 require it; Charles; noted; **case under choice #1 of the 72 report**) |
+| 87:3 | *māḫfad*, "tower" | a tower |
+| 88:3 | *wa-wagara ʾəm-samāy*, "threw from heaven" | ***KEPT AS IS*** threw stones from heaven (*stones* as Charles) |
+
+**Checks:** verse counts equal the EOTC's (6, 4, 3); cross-references to chapters 7, 9 and 10 checked in this project's rendering; Revelation 9:1 printed.
+
+**Left standing on purpose:** 88:3, the Ge'ez as it stands.
+
+**Choices for you:** none new; 87:2 is another case under choice #1 of the 72 report, still open.
+
 ## 1 Enoch 83–85 (Enoch loop, run 15, 2026-09-26)
 
 **Landed:** 1 Enoch 83–85, the start of the Dream Visions: Enoch's boyhood dream of the earth swallowed, told to his grandfather Mahalalel (83); his prayer for a remnant (84); the second dream begins, the history of the world told with animals, from the white bull (Adam) to Seth (85).
