@@ -2,6 +2,61 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 72 (Enoch loop, run 10, 2026-09-26)
+
+**Landed:** 1 Enoch 72, the first chapter of the Astronomical Book (72–82): the six gates of the sun in the east and the west, the length of day and night in eighteen parts month by month, and the 364-day year. From here there is no Knibb Ge'ez and no OCP English. The text rests on the EOTC, with Charles for meaning (the Greek has 77–78 only).
+
+**A decision that affects the whole Astronomical Book (72–82):** three numbers or words in the EOTC here break the chapter's own arithmetic (72:25, 26, 28). The English follows the reading the arithmetic requires, which is also Charles's, and a note gives the EOTC's reading. The alternative is to print the EOTC's word as it stands, with a note. The same question will come up again in 73–82. See **Choices for you**, #1.
+
+### 1 Enoch 72: The Sun and the Gates of Heaven
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *maṣḥafa miṭata bərhānāta samāy*, "the book of the turning of the lights of heaven" | The book of the turnings of the lights of heaven |
+| 1 | *ba-ba ḥəzbihomu*, "by their peoples" | by their classes |
+| 1 | *wa-kʷəllo maṣḥafomu*, "and all their book" | their whole record |
+| 1 | *gəbr ḥadis*, "a new work" | the new creation (noted) |
+| 2 | *ḫawāḫəwa samāy*, "the doors of heaven" | the gates of heaven (fixed for 72–82; noted) |
+| 3 | *masākəw*, "windows" | windows |
+| 5 | *wa-śaragalāta ba-ḫaba yaʿarrəg nafās yənaffəḫ*, "and the chariots where it goes up, the wind blows" | The wind drives the chariot on which it goes up |
+| 10 | *kāʿbata*, "double" | by two parts (noted) |
+| 12, 28 | *ʾəd*, "hand" (a portion) | portion(s) |
+| 13, 19, 25, 31 | *ba-ʾənta təʾmərta ziʾahā*, "because of its sign" | because of its sign (noted) |
+| 25 | *ziʾaya*, "my" (EOTC) | its (noted; **choice #1**) |
+| 26 | *sabʿata kəfla*, "seven parts" (EOTC) | six parts (noted; **choice #1**) |
+| 27 | *ʾarʾəstihu*, "its heads" | ***KEPT AS IS*** its turning points |
+| 28 | *ʾaḥada kəfla*, "one part" (EOTC) | seven parts (noted; **choice #1**) |
+| 32 | *śalasta məʾta sassā wa-rabuʿa*, "three hundred sixty and four" | three hundred and sixty-four days (noted) |
+| 34 | *wa-ʿəlat ʾəm-ʿəlat yəqarrəb*, "and day from day draws near" | ***KEPT AS IS*** day draws near to day, and night to night |
+| 35 | *la-ʾənta sassā yəgabbəʾ*, "for sixty it returns" | ***KEPT AS IS*** it returns sixty times (so Charles too) |
+| 37 | *sabʿata ʾəda*, "seven hands" | seven times brighter (Isaiah 30:26; noted) |
+
+### Checks this run
+
+- Verse count equals the EOTC's: 72 (37).
+- The month-by-month arithmetic was checked against the chapter itself. In every month the day and night add to 18 parts, the nights mirror the days, and the 30/30/31 pattern gives 91 days a quarter and 364 in the year. The three EOTC readings in the choice below are the only places that break it.
+- Every Old and New Testament quotation in the notes was printed and checked; Genesis is quoted in this project's own rendering.
+
+### Left standing on purpose
+
+- **72:27, 29** "its turning points": the Ge'ez *ʾarʾəstihu*, **its heads**, as it stands.
+- **72:34** "day draws near to day, and night to night": the Ge'ez as it stands.
+- **72:35** "it returns sixty times": the Ge'ez as it stands, and Charles has the same.
+
+### Choices for you
+
+**1. When the EOTC's numbers break the text's own arithmetic, what goes in the English?** This affects the whole Astronomical Book (72–82) and possibly later chapters with numbers. The three cases in 72:
+- **72:25** EOTC *because of my sign*; vv13, 19 and 31 have *its sign*, one letter different.
+  - Now: *…rises in the first gate for thirty-one mornings, because of its sign…*
+- **72:26** EOTC night *twelve* parts, day *seven*, in the same verse that says *the night… becomes double the day*.
+  - Now: *…the night is exactly twelve parts and the day six parts.*
+- **72:28** EOTC night *eleven* parts, day *one*.
+  - Now: *…the night is eleven parts and the day seven parts.*
+- The options:
+  - (a) **Follow the arithmetic** (in the text now): print what the chapter's own sums require (and Charles has), and give the EOTC's reading in a note.
+  - (b) **Follow the EOTC as it stands**: print *my sign*, *seven*, *one*, and give the arithmetic in a note.
+- Recommendation: **(a)**. Each case is a single word, the chapter itself shows the right number, and a reader meeting "day one part" would stop there. The note keeps the EOTC's reading visible. If you choose (b), every case is listed in the note of the verse it belongs to, so the switch is quick.
+
 ## 1 Enoch 71 (Enoch loop, run 9, 2026-09-26)
 
 **Landed:** 1 Enoch 71, the last chapter of the Parables: Enoch's spirit is taken into the heaven of heavens, he sees the Head of Days, and an angel tells him, *You are the Son of Man who was born for righteousness*. This run takes one chapter because it closes the Parables. From chapter 72 the Astronomical Book begins, and there is no Knibb Ge'ez or OCP English past 71.
