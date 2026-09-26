@@ -2,6 +2,43 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 6–7 (Jubilees loop, run 3, 2026-09-26)
+
+**Landed:**
+- **Chapter 6:** Noah's sacrifice and covenant, and the blood law. The Festival of Weeks is kept in heaven since creation and renewed at Sinai. The four new moons and the year of 364 days close the chapter, with the warning against following the moon.
+- **Chapter 7:** Noah's vineyard, the cursing of Canaan, the three cities, and Noah's charge to his sons about blood, planting and the law of new trees.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6:1, 3, 5, 10, 11, 12, 16, 19, 22, 23, 29, 30, 31, 32, 34, 35, 36, 37, 38 | cut | [filled from Charles] (noted) |
+| 6:2 | *ʾastarʾaya*, "appeared" | ***KEPT AS IS*** He appeared on the earth (Charles *made atonement*; noted) |
+| 6:8 | *ba-malkəʿa ʾƎgziʾabəḥer gabro la-ʾAdām* | in the image of the Lord He made Adam (noted) |
+| 6:17, 21 | *baʿāl*, "feast" | Festival of Weeks, festival (as Exodus 34:22 in this project) |
+| 6:3–4 | *maʿāzā śannāy* | soothing aroma (the fixed term, as Genesis 8:21) |
+| 6:23 | first, fourth and tenth new moons only | [and on the new moon of the seventh month] (Charles; noted) |
+| 6:36 | *yāstaḥayyəṣu warḫa ba-ḥuyyāṣe warḫ*, "watch the moon with watching of the moon" | watch the moon closely |
+| 6:37 | *mənnənta*, "rejected" | a worthless day |
+| 7:3, 4, 8, 11, 13, 15, 18, 22, 24, 26, 27, 29, 31, 35, 36 | cut | [filled from Charles] (noted) |
+| 7:10 | *qənuya gabra*, "a subject servant" | A servant, a slave |
+| 7:12 | *ʾƎgziʾabəḥer* dwells in Shem's dwelling | may the Lord dwell in the dwelling of Shem (noted) |
+| 7:17 | *samen*, "north" | ***KEPT AS IS*** on its north side (Charles *south*; noted) |
+| 7:19 | *ʾIyuʾayātobel* | Javan, Tubal (as Genesis 10:2) |
+| 7:38 | *Henok ʾabuhu la-ʾabukəmu*, "Enoch, the father of your father" | your forefather Enoch |
+
+**Also:** "festival" and "soothing aroma" were brought into line in chapters 1–3 (logged in `PASTE/changes/15-jubilees.md`).
+
+**Checks:**
+- Verse counts equal the EOTC's (38, 39).
+- 26 × 49 + 5 × 7 = 1309, the year Noah leaves the ark. Seven jubilees and a week make 350 years, Noah's years after the flood (Genesis 9:28).
+- 4 × 13 = 52 weeks, and 52 × 7 = 364 days.
+- Quotations printed and checked.
+
+**Left standing on purpose:**
+- **6:2:** "He appeared on the earth", as both Ge'ez texts read.
+- **7:17:** "north", as the EOTC reads.
+
+**Choices for you:** none new.
+
 ## Jubilees 4–5 (Jubilees loop, run 2, 2026-09-26)
 
 **Landed:**
