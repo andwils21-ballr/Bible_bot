@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
-## 1 Enoch 1–36 checked against the EOTC Ge'ez (2026-09-26): three choices
+## 1 Enoch 1–36 checked against the EOTC Ge'ez (2026-09-26): three choices, ✅ decided
 
 **Why:** Andrew made the EOTC Ge'ez the base text of 1 Enoch (see `SOURCES.md`). Chapters 1–36 were rendered from Knibb's Ge'ez and the Greek, so every verse was compared with the EOTC. The two Ge'ez texts agree closely (median 93% letter-for-letter). Of 29 verses that differ most, 26 are spelling, name forms or where a verse ends, and change nothing in English. Three differences matter. Nothing has been changed yet.
 
@@ -17,6 +17,36 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 **Choice 3: chapter 28, two verses or three.** The EOTC divides chapter 28 into 2 verses; Knibb and Charles into 3. The words are the same, only the verse boundaries move: the EOTC's 28:1 ends *yet it was full of trees*, and its 28:2 holds the rest.
 - **Recommendation:** follow the EOTC numbering (the spec now says 1 Enoch verse numbers follow it), and note that other English editions number it 28:1–3.
+
+**✅ Decided (Andrew, 2026-09-26): EOTC on all three.** Applied:
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 9:7 | Shemihazah, to whom You gave authority to rule over those who are with him. | Shemihazah has made known spells — he to whom You gave authority to rule over those who are with him. |
+| 1 Enoch 9, note | (none) | v7 "Shemihazah has made known spells": EOTC; Knibb gives the sorceries to Azazel (end of v6); the Greek has neither; 8:3 has Shemihazah teaching spell-binding. |
+| 1 Enoch 9, note | v11 "What ought we to do to them about this?" | v11 "What are we to do with them about this?" (the note's heading now matches the verse, which the 9/18 readability pass had changed) |
+| 1 Enoch 21:6 | "These are among the stars of heaven that transgressed the command of the Lord… | "These are the angels who transgressed the command of the Lord Most High… |
+| 1 Enoch 21, note | (none) | v6 "These are the angels": EOTC; Knibb and the Greek have *among the stars*; the book's star-angels (18:13–15, 86–88, 90:24; Revelation 1:20). |
+| 1 Enoch 21, note | v10: the book keeps the stars and the Watchers apart | v10: two prisons for two offenses; the EOTC calls the prisoners of both *angels* |
+| 1 Enoch 28:1–3 | three verses: …a wilderness, alone and empty. / Yet it was full of trees from this seed, and water gushed out over it from above. / A torrent appeared… | two verses: …a wilderness, alone and empty, yet full of trees. / They were from this seed, and water gushed out over it from above, and a torrent appeared… |
+| 1 Enoch 28, note | (none) | The verses: the EOTC has two; Knibb, the Greek and Charles have three. |
+
+### For Andrew to check: #2, "stars" or "angels" (21:6)
+
+The text now says *angels*, with the EOTC. To test it against the book's own usage, these are the verses where 1 Enoch (and the Bible) treats stars as angels, or keeps them apart:
+
+- **1 Enoch 18:13–16:** *seven stars like great burning mountains… this has become a prison for the stars and the host of heaven… the stars which roll over the fire are they which have transgressed the commandment of the Lord… because they did not come forth at their appointed times* (Charles). Here the stars' sin is lateness, not the Watchers' sin.
+- **1 Enoch 21:3 and 21:6:** v3 *seven stars of heaven bound*; v6 now *these are the angels who transgressed*.
+- **1 Enoch 21:10:** the second prison, *the prison of the angels*.
+- **1 Enoch 86:1–3:** in the dream-vision, *a star fell from heaven*, then *many stars descend and cast themselves down… and they became bulls*: the Watchers pictured as falling stars.
+- **1 Enoch 88:1:** *he seized that first star which had fallen from the heaven, and bound it hand and foot and cast it into an abyss*.
+- **1 Enoch 90:21, 24:** *the first star which led the way… the judgement was held first over the stars… they were cast into an abyss, full of fire*.
+- **Revelation 1:20:** *the seven stars are the angels of the seven churches*.
+- **Revelation 9:1 and 12:4:** *a star fallen from heaven to the earth*, given the key of the abyss; the dragon's tail *drew the third part of the stars of heaven*.
+- **Jude 13:** *wandering stars, for whom the blackness of darkness has been reserved forever*; Jude quotes 1 Enoch two verses later (Jude 14–15).
+- **Job 38:7:** *when the morning stars sang together, and all the sons of God shouted for joy*, stars and sons of God side by side.
+
+The question to settle: does 21:1–6 describe the same prisoners as 18:13–16 (stars that broke their appointed times, which Knibb and the Greek call *stars*), or does the EOTC's *angels* describe them rightly, as the dream-vision does? If you prefer *stars*, the verse goes back to *These are among the stars of heaven that transgressed…* and the note keeps the EOTC's *angels*.
 
 **No choice needed:** the EOTC transcription has no 21:1 (its chapter 21 starts at verse 2). Knibb and the Greek both have it, *I went on as far as the place where nothing was made*, so it stays; this is a gap in the digital copy, not a different text.
 
