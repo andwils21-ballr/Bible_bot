@@ -2,6 +2,25 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 107–108 (Enoch loop, run 25, 2026-09-26): the book is complete
+
+**Landed:** 1 Enoch 107–108, the end of the book. Enoch's last reading from the tablets, and Methuselah naming the child Noah, *for he will gladden the earth* (107). *Another book, which Enoch wrote*: the waste place beyond the earth where the sinners burn, and the humble and faithful brought out in shining light and seated on thrones (108). 107 compared with the Greek; the Greek has nothing of 108. **All 108 chapters of 1 Enoch are now rendered.**
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 107:1 | *təʾebbəs*, "does evil, transgresses" | will do evil (Greek *worse*; noted) |
+| 107:3 | *yāstafeśśəḥā la-mədr*, "he will gladden the earth" | he will gladden the earth (with the Greek; Charles *comfort*; noted) |
+| 108:2 | *ʾəlla gabarkəmu*, "you who have done" | You who have done good (*good* supplied, as Charles; noted) |
+| 108:3 | *ʾəmmaṣāḥəfta qəddusān*, "from the books of the holy ones" | the books of the holy ones (Charles adds *the book of life*; noted) |
+| 108:3 | *ba-makāna badw za-ʾiyāstarəʾi* | in a waste place that cannot be seen (Charles *a chaotic wilderness*) |
+| 108:10–12 | speaker changes to God without a marker | kept inside the angel's quotation, as Charles (noted) |
+
+**Checks:** verse counts equal the EOTC's (3, 15); quotations printed and checked; every chapter file 1–108 present.
+
+**Left standing on purpose:** none new.
+
+**Choices for you:** none new. Still open from earlier runs: 105:2 *My Son* (105–106 report); choice #1 of the 72 report; 51:4, 57:1, 62:5, 71:14.
+
 ## 1 Enoch 105–106 (Enoch loop, run 24, 2026-09-26)
 
 **Landed:** 1 Enoch 105–106. The Lord's charge to those who hold the books, *I and My Son will be joined with them forever*, ends the Epistle (105). Noah's birth follows: the shining child who praises the Lord in the midwife's hands, Lamech's fear, Methuselah's journey to Enoch at the ends of the earth, and Enoch's answer and the naming of Noah (106). 106 compared verse by verse with the Greek and the Latin; the Greek has nothing of 105. **Order:** the EOTC's order and numbering are kept (19 verses; the Greek's 17a and 17b are noted at v17).
