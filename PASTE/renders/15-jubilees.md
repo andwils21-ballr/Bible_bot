@@ -2,6 +2,45 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 4–5 (Jubilees loop, run 2, 2026-09-26)
+
+**Landed:**
+- **Chapter 4:** Cain and Abel, Seth, and the line from Enosh to Noah with every wife named; Enoch the first writer, taken into Eden; Adam's death at 930 years; Cain killed by his own house.
+- **Chapter 5:** the Watchers' marriages and their sons, God's judgment, Noah alone shown favor, and the flood day by day.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4:2 | EOTC runs from *Cain killed* into the end of v14 | Cain killed [Abel…] (the stray end is rendered at v14; noted) |
+| 4:3–14 | not in the EOTC | from the second Ge'ez text (noted) |
+| 4:1, 2, 7, 9, 15, 16, 17, 19, 20, 21, 22, 23, 29, 30, 33 | cut | [filled from Charles] (noted) |
+| 4:31 | cut | [filled from the Greek] (noted) |
+| 4:15–28 | *walatta ʾəḫta ʾabuhu*, "daughter of his father's sister" | ***KEPT AS IS*** (Greek and Charles *father's brother*; noted) |
+| 4:33 | *walatta ʾəḫtu*, "daughter of his sister" | the daughter of his [father's] sister (noted) |
+| 4:24 | *ʾi-maṣʾa*, "did not come" | ***KEPT AS IS*** the flood did not come over the land of Eden (Charles the opposite; noted) |
+| 4:25 | *dabra qatr*, "mountain of noon" | the Mountain of Midday (Charles *the Mount*; noted) |
+| 4:9, 11 | *ʾUnokh*, *Henos* (second Ge'ez) | Enoch, Enosh |
+| 4:14 | *Masalul* (second Ge'ez); *Malalel* (EOTC, v2) | Mahalalel |
+| 5:1, 2, 6, 9, 12, 13, 14, 18, 19, 23, 25, 29, 30, 31 | cut | [filled from Charles] (noted) |
+| 5:3 | *wa-nāhu*, "and here" | and here — it was corrupt |
+| 5:16, 19 | *yənaśśəʾ gaṣṣa*, "lifts the face" | shows partiality, showed favor (noted) |
+| 5:22 | *ba-kəlʾetu ʾiyobelwu*, "in the two jubilees" | in the twenty-seventh jubilee (**the book's arithmetic; case under choice #1 of the 1 Enoch 72 report**; noted) |
+| 5:24–25, 29 | *manbaḥbaḥt* | floodgates (Charles) |
+
+**Checks:**
+- Verse counts: chapter 4 has 33 verses (the EOTC's 21, plus 3–14 from the second Ge'ez); chapter 5 has 32, equal to the EOTC's.
+- Dates checked:
+  - Adam dies at 18 × 49 + 6 × 7 + 6 = 930 years (Genesis 5:5).
+  - Abel dies in year 99, mourning ends in 127, and Seth is born in 130 (Genesis 5:3).
+  - The flood comes in year 1307, about Noah's six hundredth year.
+  - Five months of 30 days make 150 days.
+- Quotations printed and checked.
+
+**Left standing on purpose:**
+- **4:15–28:** "the daughter of his father's sister", as the Ge'ez reads.
+- **4:24:** the Ge'ez says the flood did not come over the land of Eden; Charles reads the opposite.
+
+**Choices for you:** none new. 5:22 is a case under choice #1 of the 1 Enoch 72 report (when a number breaks the text's own arithmetic).
+
 ## Jubilees 1–3 (Jubilees loop, run 1, 2026-09-26)
 
 **Widespread, decided before this run (Andrew, 2026-09-26):** the EOTC Ge'ez from Beta Masaheft is the base text. About 150 of its verses are cut short, in both Ge'ez texts. The missing words are filled from the Latin or Greek where they have them, otherwise from Charles, in [square brackets], with a note naming each source.
