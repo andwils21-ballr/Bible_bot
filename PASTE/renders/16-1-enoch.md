@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 91–93 (Enoch loop, run 19, 2026-09-26)
+
+**Landed:** 1 Enoch 91–93, the start of the Epistle of Enoch: Enoch's charge to his gathered children and the last three of the ten weeks (91); the title *What was written by Enoch* (92); the first seven weeks and the questions no man can answer (93). **Order:** the EOTC's order and numbering are kept; Charles's move of 91:12–17 to after 93:10 is not followed (noted at 91:12–17).
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 91:4 | *ba-kəlʾē ləbb*, "with two hearts" | with a double heart |
+| 91:9 | *wa-kʷəllu yətwahhab məsla ʾaḥzāb*, "and all will be given with the nations" | Everything will be handed over with the nations (Charles *idols… abandoned*; noted) |
+| 91:15 | *wa-samāy… za-yəbaqʷəl ʾəm-māʾkalomu la-malāʾəkt* | ***KEPT AS IS*** the great eternal heaven that will spring up from among the angels (noted) |
+| 91:16 | *sabʿata məkʿəbita*, "seven double" | sevenfold |
+| 92:1 | *za-taṣəḥfa ʾəm-Hēnok*, "what was written by Enoch" | What was written by Enoch (noted) |
+| 93:3 | *taʿagśa*, "was patient, waited" | while judgment and righteousness still waited |
+| 93:10 | *sabʿatu məkʿəbitāta təmhərt*, "sevenfold instruction" | sevenfold instruction |
+
+**Checks:** verse counts equal the EOTC's (19, 5, 14); quotations printed and checked.
+
+**Left standing on purpose:** 91:15, the Ge'ez as it stands.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 91–93).
+
 ## 1 Enoch 90 (Enoch loop, run 18, 2026-09-26)
 
 **Landed:** 1 Enoch 90, the end of the Dream Visions: the last shepherds and the birds of prey, the lambs and the great horn, the throne and the opened books, judgment on the stars, the shepherds and the blinded sheep, the old house folded up and a new one set in its place, and the white bull whose kind all creatures become.
