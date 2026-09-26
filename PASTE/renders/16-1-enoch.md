@@ -38,7 +38,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 1 | *nāhu*, "behold" | here — |
 | 2 | *yəgabbəru malāʾəkt ʿəḍawa*, "the angels are making woods" | the angels are working on timber |
 | 2 | *la-wəʾətu malʾəkt* (EOTC, "for that task") / *malāʾəkt* (Knibb, "angels") | when they have gone out to that task |
-| 2 | *yəbar ʿərāqu*, "remain naked" | remain empty |
+| 2 | *ʾiyənbar yabs ʿərāqu*, "the dry land will not remain naked" | remain empty |
 | 3 | *ʾəzarrəʾomu*, "I will sow them" | I will sow those who live with you (as 62:8; noted) |
 | 3 | *qədma yabs* (EOTC, "before the dry land") / *diba yabs* (Knibb, "on the dry land") | ***KEPT AS IS*** before the dry land (noted) |
 | 6 | *naṭabṭāba ʾəsāt*, "soft metal of fire" | that fiery molten metal (noted) |
