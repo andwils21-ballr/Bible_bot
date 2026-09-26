@@ -2,6 +2,36 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 10–11 (Jubilees loop, run 5, 2026-09-26)
+
+**Landed:**
+- **Chapter 10:** Noah's prayer against the demons; nine tenths are bound and one tenth is left to Mastema (Satan). Noah is taught healing and dies at 950. Then come the tower of Babel and its fall, Canaan seizing Shem's land against the oath, and Madai settling in Media.
+- **Chapter 11:** wars and kingdoms, the first idols at Ur, and Mastema's ravens; Abram is born, prays to the Creator at fourteen, turns back the ravens, and invents the seed-plow.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 10:3, 5, 8, 16, 17, 22, 25, 26, 29, 30, 31 | cut | [filled from Charles] (noted) |
+| 10:8 | *malʾaka manāfəst* | the chief of the spirits (Charles; noted) |
+| 10:16 | "nineteen jubilees and two weeks" | [and five years] from Charles, so the sum is 950 (Genesis 9:29; noted) |
+| 10:21 | *thirteen within it, and a third of one for its height* | ***KEPT AS IS*** (Charles and the Greek give the fuller measure; noted) |
+| 10:28 | *dabub* | south (Charles; Ham's hot land; noted) |
+| 10:35 | *la-ʾElām* | from Elam (Charles *Ham*; noted) |
+| 10:35–36 | *Medqin*, *Mediqin* | Media (noted) |
+| 11:1–24 | EOTC numbering, 24 verses | kept (other editions 23; noted) |
+| 11:2, 4, 7, 11, 12, 14, 15, 16, 17, 18, 21, 22 | cut | [filled from Charles; the Greek agrees in part] (noted) |
+| 11:3 | *ʾUd* | Ur (as v1) |
+| 11:5, 11 | *makʷannən* | the prince |
+
+**Checks:**
+- Verse counts equal the EOTC's (36, 24).
+- 19 × 49 + 2 × 7 + 5 = 950 years for Noah.
+- Terah is born in year 1806 and Abram in 1876, so Terah is seventy at Abram's birth (Genesis 11:26).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 10:21, the tower's measures, as the Ge'ez has them.
+
+**Choices for you:** none new.
+
 ## Jubilees 8–9 (Jubilees loop, run 4, 2026-09-26)
 
 **Landed:**
