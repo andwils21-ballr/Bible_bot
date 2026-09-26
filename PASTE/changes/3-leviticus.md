@@ -2,17 +2,42 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Follow-up: "It will be, when…" made "And it will come to pass, when…"; Judges refrain without "And" (Andrew, 2026-09-26)
+
+**The request:** "I think those in Judges can be taken out. Go back and make the Genesis phrase consistent."
+- **Judges:** the refrain (*The sons of Israel did evil in the eyes of the LORD*) and its companions take no "And". Added to the spec's not-kept list.
+- **The *ve-hayah* formula:** every place it was written *It will be, when…* or *it will be that…* now reads *And it will come to pass…*. The past habitual in Exodus 33:8–9 reads *And it would come to pass*. Where *ve-hayah* is only "it shall be" plus a noun (*It shall be a sign for you*, Exodus 13:9), it stays plain.
+- **Left as it is:** Exodus 22:27 renders the formula as a plain *When he cries out to Me*, with no "it will be" to change.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 4:14 | …and it will be that whoever finds me… | …and it will come to pass that whoever finds me… |
+| Genesis 9:14 | It shall be, when I cloud a cloud… | And it shall come to pass, when I cloud a cloud… |
+| Genesis 12:12 | It will be, when the Egyptians see you… | And it will come to pass, when the Egyptians see you… |
+| Genesis 27:40 | It shall be, when you break loose, | And it shall come to pass, when you break loose, |
+| Exodus 1:10 | …and it will happen that if war breaks out… | …and it will come to pass that if war breaks out… |
+| Exodus 4:16 | …and it will be that he will be a mouth for you… | …and it will come to pass that he will be a mouth for you… |
+| Exodus 12:25 | It will be, when you come to the land… | And it will come to pass, when you come to the land… |
+| Exodus 12:26 | It will be, when your sons say to you… | And it will come to pass, when your sons say to you… |
+| Exodus 13:5 | It will be, when the LORD brings you… | And it will come to pass, when the LORD brings you… |
+| Exodus 13:11 | "It will be, when the LORD brings you… | "And it will come to pass, when the LORD brings you… |
+| Exodus 13:14 | It will be, when your son asks you tomorrow… | And it will come to pass, when your son asks you tomorrow… |
+| Exodus 16:5 | It will be on the sixth day that… | And it will come to pass on the sixth day that… |
+| Exodus 33:8 | It would be, when Moses went out to the tent… | And it would come to pass, when Moses went out to the tent… |
+| Exodus 33:9 | It would be, when Moses went into the tent… | And it would come to pass, when Moses went into the tent… |
+| Exodus 33:22 | It will be, when My glory passes by… | And it will come to pass, when My glory passes by… |
+
 ## "And" kept: *And it shall come to pass* and *And now* (Andrew, 2026-09-26)
 
 **The request:** after the "No And" sweep, Andrew asked which other common phrases work like *And it came to pass*. His rulings:
 - **Keep** *And it shall come to pass* / *And it will come to pass* (*ve-hayah*), the future twin of *And it came to pass*.
 - **Keep** *And now* (*ve-attah*) inside speech, as part of hearing the speaker through their own mouth.
 - **Not kept** (agreed): *The LORD spoke to Moses, saying*; *These are the generations of*; *He lifted up his eyes and saw*; *the word of the LORD came to*.
-- **Judges refrain** (*And the sons of Israel did evil…*): examples sent in chat; not yet decided.
+- **Judges refrain** (*And the sons of Israel did evil…*): ✅ Decided, no "And" (see the follow-up above).
 
 Both kept phrases are added to the spec's list under "No And". Left as they are: *But now* (Numbers 11:6) and *So now* (Genesis 31:16, Numbers 14:17), where *ve-attah* carries contrast or consequence; and *it will come to pass* in Genesis 44:31, which is inside a sentence.
 
-**Still open:** *ve-hayah* is also rendered *It will be, when…* in these places: Genesis 9:14, 12:12; Exodus 12:25, 12:26, 13:5, 13:11, 13:14, 16:5, 33:22 (and *It would be, when…* in Exodus 33:8, 33:9). They are the same Hebrew formula. Change them to *And it shall/will come to pass, when…*, or leave them?
+**✅ Decided (see the follow-up above):** the *It will be, when…* places were changed to match.
 
 | Where | Before | After |
 |---|---|---|

@@ -96,14 +96,20 @@ report. The kept cases so far:
   God saw that it was good… And it was evening, and it was morning.* The *And*
   carries the rhythm of the seven days (Andrew, 2026-09-25).
 - **"And it shall come to pass"** / **"And it will come to pass"** for
-  *ve-hayah*, the future twin of *And it came to pass* (Andrew, 2026-09-26).
+  *ve-hayah* as a formula (*ve-hayah ki…*, *ve-hayah ka'asher…*: "and it shall
+  be, when…"), the future twin of *And it came to pass*; the past habitual is
+  *And it would come to pass* (Exodus 33:8). Not *It will be, when* (Andrew,
+  2026-09-26). Where *ve-hayah* is only "it shall be" + a noun (*It shall be a
+  sign*), it stays plain.
 - **"And now"** for *ve-attah* inside speech: it keeps the speaker's own turn
   toward what they want, heard through their mouth (Andrew, 2026-09-26). Where
   the sense is contrast or consequence, *But now* or *So now* stays.
 
 Not kept: *The LORD spoke to Moses, saying*; *These are the generations of*;
 *He lifted up his eyes and saw* (the *And here —* that follows is the marker);
-*the word of the LORD came to* (Andrew, 2026-09-26).
+*the word of the LORD came to*; the Judges refrain, *The sons of Israel did
+evil in the eyes of the LORD*, and its companions (*cried out to the LORD*,
+*the land had rest*) (Andrew, 2026-09-26).
 
 Where the joining word means *but*, *so* or *then*, use that word.
 
