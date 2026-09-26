@@ -53,7 +53,7 @@ def main():
                 ref, _, text = line.partition("\t")
                 ch, _, vs = ref.partition(":")
                 if ch == lookup_chapter:
-                    rows.append((int(vs), text.rstrip("\n")))
+                    rows.append((vs, text.rstrip("\n")))
         label = f"{lookup_slug} {lookup_chapter}" if offset else f"{slug} {chapter}"
         if not rows:
             print(f"# {label} — {lang}: this chapter is not extant in this "
@@ -62,7 +62,7 @@ def main():
             found = True
             continue
         print(f"# {label} — {lang} source")
-        for vs, text in sorted(rows):
+        for vs, text in sorted(rows, key=lambda r: _vkey(r[0])):
             print(f"{vs}\t{text}")
         print()
         found = True
@@ -100,6 +100,14 @@ def main():
 WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic", "syriac", "latin")
 
 
+def _vkey(vs):
+    """Sort key for a verse number that may carry a letter (1 Enoch 106:17b)."""
+    digits = "".join(c for c in vs if c.isdigit())
+    if not digits or not vs.startswith(digits):
+        return (-1, vs)
+    return (int(digits), vs[len(digits):])
+
+
 def _load(path, chapter):
     rows = {}
     if not os.path.exists(path):
@@ -108,8 +116,8 @@ def _load(path, chapter):
         for line in f:
             ref, _, text = line.partition("\t")
             ch, _, vs = ref.partition(":")
-            if ch == chapter and vs.isdigit():
-                rows[int(vs)] = text.rstrip("\n")
+            if ch == chapter and _vkey(vs)[0] >= 0:
+                rows[vs] = text.rstrip("\n")
     return rows
 
 
@@ -133,7 +141,7 @@ def _english(slug, chapter):
             print("# scholarly English of each witness — use this for MEANING")
             printed = True
         print(f"\n## {name} (English)")
-        for v in sorted(rows):
+        for v in sorted(rows, key=_vkey):
             print(f"{v}\t{rows[v]}")
     if printed:
         print()
@@ -156,7 +164,7 @@ def _divergence(slug, chapter):
     print("# " + "=" * 62)
     print("# WHERE THE WITNESSES DIVERGE (mechanical: coverage and length only)")
     langs = list(wit)
-    for v in sorted(set().union(*(set(r) for r in wit.values()))):
+    for v in sorted(set().union(*(set(r) for r in wit.values())), key=_vkey):
         has = [l for l in langs if v in wit[l]]
         missing = [l for l in langs if v not in wit[l]]
         flags = []
