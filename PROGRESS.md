@@ -1,6 +1,6 @@
 # Progress
 
-**219 of 1554 chapters rendered (14.1%).**
+**222 of 1554 chapters rendered (14.3%).**
 
 Next up: **Numbers 31**
 
@@ -21,7 +21,7 @@ Next up: **Numbers 31**
 | 13 | 1 Chronicles | source | 0/29 |
 | 14 | 2 Chronicles | source | 0/36 |
 | 15 | Jubilees | witnesses | 0/50 |
-| 16 | 1 Enoch | witnesses | 72/108 |
+| 16 | 1 Enoch | witnesses | 75/108 |
 | 17 | Ezra | source | 0/10 |
 | 18 | Nehemiah | source | 0/13 |
 | 19 | Ezra Sutuel | witnesses | 0/16 |

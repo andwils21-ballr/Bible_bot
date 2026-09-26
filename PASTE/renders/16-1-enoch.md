@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 73–75 (Enoch loop, run 11, 2026-09-26)
+
+**Landed:** 1 Enoch 73–75: the law of the moon and the growth of its light by parts (73), the moon's year of 354 days set against the sun's 364 over three, five and eight years (74), and the four added days that people fail to count, with the gates and windows of heaven (75). Numbers follow the approach of choice #1 in the 72 report (still open).
+
+### 1 Enoch 73: The Law of the Moon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *sobā yəʿerri kawina bərhānu*, "when its light becomes level" | When its light is full |
+| 4 | *śalāsā ba-śalāsā ṣəbāḥ*, "thirty in thirty mornings" | every thirty mornings |
+| 4 | *rəʾsa warḫ*, "the head of the month" | the beginning of the month |
+| 5 | *wa-manfaqu rəḥuq sabʿatu ʾəd ʾaḥadu*, "and its half is distant, seven hand, one" | ***KEPT AS IS*** Half of it stands out by one seventh part (noted) |
+| 6 | *yəkawwən sabʿatu sabʿata ʾəd ʾaḥatti wa-manfaqā* | ***KEPT AS IS*** one seventh part and a half (noted) |
+| 7 | *sabʿatu wa-sədsətu ʾəd wa-manfaqā*, "seven and six portions and its half" | thirteen parts and a half (Charles *fourteen and a half*; noted) |
+| 8 | *sabʿata wa-sabʿata ʾəda*, "seven and seven portions" | ***KEPT AS IS*** seven and seven parts (Charles *thirteen*; noted) |
+
+### 1 Enoch 74: The Year of the Moon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *sabʿata sabʿata ʾəda*, "seven by seven portions" | One seventh at a time |
+| 4 | *ʾawrāḫ ʾəmurāt*, "known months" | appointed months |
+| 6, 7 | *samuna mawāʿəla*, "eight(fold) of days" | in eight days (Charles) |
+| 10 | *wa-yəbaṣṣəḥo la-ḍaḥāy śalāsā mawāʿəl*, "and thirty days reach the sun" | thirty days are added to the sun |
+| 12 | *wa-warḫ* (EOTC, "and the moon") | The moon brings in the years (Charles *the sun and the stars*; noted) |
+| 13 | *mawāʿəlihu*, "its days" | the days (the sun's; *its* after v12 would point to the moon) |
+| 13–16 | the totals | 1,092 / 1,820 / 2,912; 1,062 / 1,770 / 2,832; 50; 80 (all agree; noted) |
+| 14 | *ʾəsma yətwēssak ba-ḍaʾatu diba sassā wa-kəlʾētu mawāʿəl* | ***KEPT AS IS*** because it is increased in its going out by sixty-two days (noted) |
+| 17 | *ba-kama manbara ziʾahomu*, "according to their throne" | by their stations |
+
+### 1 Enoch 75: The Four Added Days
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾəlla yətwēssaku*, "those that are added" | the four days that are added (noted) |
+| 2 | *yəgēggəyu bomu sabʾ*, "people err concerning them" | Because of them people go wrong |
+| 3 | *qənyatāt*, "services, servants" | all the serving powers |
+| 4 | *ʾəgarihā la-ḍaḥāy*, "the feet of the sun" | the rays of the sun (noted) |
+| 5 | a clause with no main verb | So too for the winds… they stand open in heaven at the ends |
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 73 (8), 74 (17), 75 (9).
+- The day totals in 74:13–16 were checked against each other and all agree: 3 × 364, 5 × 364, 8 × 364; 3 × 354, 5 × 354, 8 × 354; the differences 50 and 80.
+- The four gates of 75:2 were checked against the 31-day months of 72:13, 19, 25, 31 (gates six, four, one, three). They match.
+- The 75:4 note's claim that *ʾəgar* is **foot** rests on the OCP's English at 65:2 (*he lifted up his feet*), where the EOTC has the same word.
+
+### Left standing on purpose
+
+- **73:5, 6, 8** the parts of the moon's light: the sense of the Ge'ez is uncertain, and the numbers are given as the EOTC has them (noted).
+- **74:12** "The moon brings in the years exactly": the EOTC's word, which conflicts with vv11 and 14. It is a word, not a number, so choice #1 of the 72 report does not cover it; Charles's *the sun and the stars* is noted.
+- **74:14** "because it is increased in its going out by sixty-two days": the sense is uncertain.
+
+### Choices for you
+
+None new. Choice #1 in the 72 report (numbers that break the text's arithmetic) is still open; none of 73–75 needed it.
+
 ## 1 Enoch 72 (Enoch loop, run 10, 2026-09-26)
 
 **Landed:** 1 Enoch 72, the first chapter of the Astronomical Book (72–82): the six gates of the sun in the east and the west, the length of day and night in eighteen parts month by month, and the 364-day year. From here there is no Knibb Ge'ez and no OCP English. The text rests on the EOTC, with Charles for meaning (the Greek has 77–78 only).
