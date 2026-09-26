@@ -2,6 +2,76 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 69–70 (Enoch loop, run 8, 2026-09-26)
+
+**Landed:** 1 Enoch 69–70: the names of the fallen angels and what each taught, the oath that holds creation, the Son of Man on the throne of his glory, the end of the third parable (69), and Enoch taken up alive to the Son of Man and the Lord of Spirits (70). Chapter 69 alone has 29 verses, so this run takes two chapters.
+
+### 1 Enoch 69: The Names of the Fallen and the Oath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yādanaggəḍəwwomu wa-yāmʿəʿəwwomu*, "they will terrify them and anger them" | they will terrify them and make them angry |
+| 2 | the twenty-one names | spelled from the EOTC; earlier spellings kept for names already met (noted) |
+| 2 | *ʿəśrā wa-ʾaḥadu ʾAzāzʾēl* (EOTC) / *ʾIzēzēʾēl* (Knibb) | the twenty-first Azazel (noted) |
+| 3 | *makʷannəna məʾt… ḫamsā… ʿaśartu*, "judges of hundreds… fifties… tens" | their chiefs of hundreds, of fifties and of tens (Exodus 18:21; noted) |
+| 4 | *daqiqa malāʾəkt* (EOTC, "sons of the angels") / *… qəddusān* (Knibb, "holy") | the sons of the angels |
+| 5 | *kama yāmāsənu śəgāhomu*, "that they ruin their flesh" | so that they ruined their bodies |
+| 6 | *zəbṭatāta mot*, "the blows of death" | the blows of death |
+| 9 | *ba-māya ḥəmat wa-kərtās* | with ink and paper |
+| 10 | *ʾitawalda sabʾ*, "men were not born" | men were not born for this |
+| 11 | *wa-ba-ʾənta zəntu yəbalʿani ḫayl*, "and because of this the power eats me" | ***KEPT AS IS*** because of this the power is consuming me (noted) |
+| 12 | *Kaʿdəyāʿ* (EOTC) / *Kasdəyāʾ* (Knibb) | Kadeya |
+| 12 | *ḍāʾḍāʾ ba-maḥḍan*, "the embryo in the womb" | the child in the womb |
+| 12 | *ba-qatr*, "at midday" | at midday (Psalm 91:6; noted) |
+| 13 | *ḫʷəlqʷu*, "his number" | the task (both English renderings) |
+| 13 | *sobā yaḫaddər ləʿul ba-səbḥat*, "when he dwelt high in glory" | when he dwelt on high in glory |
+| 17 | *la-ḥəyāwān* (EOTC only), "for the living" | beautiful waters for the living |
+| 22 | a clause with no verb | ***KEPT AS IS*** So too the souls of the waters and the souls of the winds… |
+| 24 | *wa-sisāyomu ba-kʷəllu ʾakʷatēt*, "and their food is in all thanksgiving" | Their food is in every thanksgiving |
+| 27 | *ʾarʾəsu la-kʷənnanē*, "the head of judgment" | the whole of judgment (John 5:27; noted) |
+| 29 | *walda bəʾəsi* | that Son of Man (third form, first here; noted) |
+| 29 | *wa-yənaggəru la-wəʾətu walda bəʾəsi*, "and they will speak to that son of a man" | They will speak to that Son of Man (English renderings *the word of*; noted) |
+
+### 1 Enoch 70: Enoch Taken Up
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-kona*, "and it was" | And it came to pass (the kept formula) |
+| 1 | *səmu ḥəyāw*, "his name, living" | his name, while he was living (noted) |
+| 2 | *wa-waḍʾa səm ba-māʾkalomu*, "and the name went out in their midst" | his name went out from among them |
+| 3 | *ʾitasəḥbəku*, "I was not drawn (counted)" | I was no longer counted among them |
+| 4 | *ʾabawa qadamta*, "the first fathers" | the first fathers |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **69:2** the twenty-first name: EOTC *Azazel* (so Azazel is named twice), Knibb *Izezeel*.
+- **69:12** the serpent's son: EOTC *Tabāʿ*, Knibb *Tabāʿət*.
+- **69:29** EOTC *the third parable*; Knibb *the parable*.
+
+Small, not noted:
+- **69:4** Knibb adds *holy* (*the sons of the holy angels*); the EOTC has it in v5.
+- **69:6** Knibb adds *all* before *the blows of death*.
+- **69:9** EOTC *go astray* (ongoing); Knibb *went astray*.
+- **69:12** the fifth name: EOTC *Kadeya*, Knibb *Kasdeya*.
+- **69:17** the EOTC adds *for the living*.
+- **70:1** EOTC *and to the Lord of Spirits*; Knibb *with the Lord of Spirits*.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 69 (29), 70 (4).
+- Every Old and New Testament quotation in the notes was printed and checked, including Wisdom 2:23–24 from the Greek source. Genesis and Exodus are quoted in this project's own rendering.
+- Before commit: the 69:2 note said the spelling of 6:7 was kept, but Kokabiel and Baraqiel come from 8:3 and Azazel from 8:1, so the note now names all three verses. A gloss of *māya ḥəmat* as "soot-water" was cut, because it rested on the word's parts and not on either English rendering. A sentence reading the charge in 69:10 more narrowly than v9 allows was also cut.
+
+### Left standing on purpose
+
+- **69:11** "because of this the power is consuming me": the Ge'ez as it stands; the *me* is unexplained (noted).
+- **69:22** "So too the souls of the waters and the souls of the winds…": the clause has no verb in either Ge'ez witness.
+
+### Choices for you
+
+None.
+
 ## 1 Enoch 65–68 (Enoch loop, run 7, 2026-09-26)
 
 **Landed:** 1 Enoch 65–68, Noah's part of the Parables: Noah cries out to Enoch as the earth tilts (65), the angels of the waters held back (66), the ark built by angels and the burning valley whose waters heal the kings (67), and Michael and Raphael on the judgment of the angels (68).
