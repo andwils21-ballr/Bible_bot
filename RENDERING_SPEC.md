@@ -226,6 +226,13 @@ If the helper reports no source, obey what it says for the book's tier:
 
 Never accept an OCR'd text with made-up verse numbers as a source.
 
+### Written and read forms (Andrew, 2026-09-26)
+
+Where the Hebrew is written one way and the scribes' reading tradition says it
+another way (*ketiv* and *qere*), follow the **read** form. Add a note only where
+the two differ in meaning (Numbers 21:32, *took possession* or *drove out*); a
+spelling difference gets no note.
+
 ### When the witnesses differ (Andrew's rule, 2026-09-23)
 
 The aim is the most accurate account of the event the text describes.
