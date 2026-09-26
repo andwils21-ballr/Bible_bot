@@ -23,9 +23,17 @@ run.** Each run follows this file exactly. `CLAUDE.md` outranks it.
      count and numbering. Every EOTC verse gets a verse.
    - The **second Ge'ez text** (`ethiopic`, Ran HaCohen's) checks the EOTC.
      Where the EOTC lacks a verse (4:3–14, 26:33), fill it from the second
-     Ge'ez; failing that from the Latin; failing that from Charles; and say in
-     a note which source the verse comes from. A real difference in meaning
-     between the two Ge'ez texts gets a note.
+     Ge'ez. A real difference in meaning between the two Ge'ez texts gets a
+     note.
+   - **Cut verses (Andrew, 2026-09-26).** About 150 verses of this Ge'ez are
+     cut short, in both texts (3:5–6 has no rib and no woman; 22:4 stops
+     mid-verse). Compare every verse with Charles. Where the Ge'ez lacks what
+     Charles has, fill it: from the Latin or the Greek if they have the
+     passage, otherwise from Charles. Filled words go in **[square brackets]**
+     in the verse, and the chapter's notes name the source of every bracket
+     (one note listing them all is enough; a fill that matters gets its own
+     note too). Word-level differences are not fills: keep the Ge'ez and note
+     them as usual.
    - Compare the **Latin** (chapters 13–49 in part) and the **Greek** where they
      exist. The Greek lines are mostly short excerpts and summaries made by
      later writers, not continuous text; a difference there is worth a note

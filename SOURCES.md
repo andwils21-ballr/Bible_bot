@@ -109,6 +109,11 @@ altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
   Chapter 1 skips the numbers 18 and 19, and chapter 11 has 24 verses to
   Charles's 23. Whether a gap is in the printed Bible or in the transcription
   cannot be checked from here.
+- **Cut verses.** Beyond those gaps, about 150 verses (roughly one in eight)
+  are cut to under half of what Charles translates, in both Ge'ez texts and in
+  nearly every chapter: 3:5-6 has Adam sleep and wake with no rib and no woman
+  made, 3:20-21 never has the fruit eaten, 22:4 stops at *before Ishmael his
+  brother*. The rendering fills them in brackets (see the spec's Jubilees rule).
 - The Latin and Greek witnesses (OCP, below) are numbered as in Charles, as far
   as spot checks show (20:5, 30:1, 45:10). The EOTC's verse count matches
   Charles's in 46 of the 50 chapters (not 1, 4, 11, 26).

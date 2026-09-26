@@ -276,9 +276,12 @@ witness, its scholarly English, and a mechanical divergence list.
   the Greek lines are mostly short excerpts and summaries, not continuous text.
   For meaning, use the OCP English (Latin, Greek) and Charles (all chapters);
   never carry Charles's bracketed dates or his emendations into the text. Where
-  the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text, or
-  failing that the Latin, or failing that Charles, with a note naming the
-  source. Every chapter ends with the **Source text** note.
+  the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text.
+  **Cut verses (Andrew, 2026-09-26):** where this Ge'ez is cut short against
+  Charles (about 150 verses), fill the missing words from the Latin or Greek if
+  they have them, otherwise from Charles, in [square brackets] in the verse,
+  with a note naming the source of each. Every chapter ends with the **Source
+  text** note.
 
 ## The notes standard
 
