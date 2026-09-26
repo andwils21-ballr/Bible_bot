@@ -65,5 +65,5 @@ list when a recurring term is settled; bring real choices to Andrew.
 | *Ḫəruy* (of the one figure) | the Chosen One | first use; older English *the Elect One* |
 | *ḫəruyān* | the chosen | as in chapters 1–36 |
 | *Ṣādəq* (of the one figure) | the Righteous One | first use (38:2) |
-| the "Son of Man" expressions: *walda sabʾ* (from 46:2), *walda ʿəgwāla ʾəmmaḥəyāw* (from 62:7) | the Son of Man | say which form, the first time each appears. At 62:5 the EOTC reads *walda bəʾəsit*, **son of a woman**, where other manuscripts have *son of a man*: note it there |
+| the "Son of Man" expressions: *walda sabʾ* (46:2–4, 48:2), *walda ʿəgʷāla ʾəmmaḥəyāw* (from 62:7), *walda bəʾəsi* (69:29, 71:14) | the Son of Man | say which form, the first time each appears. At 62:5 both Ge'ez witnesses read *walda bəʾəsit*, **son of a woman**; rendered *that Son of a woman* (see the 62:5 note and the choice in the 61–64 report) |
 | *Masiḥ* | the Anointed One | 48:10, 52:4; note *Messiah* |

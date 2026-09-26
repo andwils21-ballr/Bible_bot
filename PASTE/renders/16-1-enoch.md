@@ -2,6 +2,103 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 61–64 (Enoch loop, run 6, 2026-09-26)
+
+**Landed:** 1 Enoch 61–64: the angels with measuring cords and the Chosen One seated to judge even the holy ones (61), the kings before the throne of the Son of Man, and at 62:5 *that Son of a woman* (62), the kings' confession that comes too late (63), and the fallen Watchers seen in their place (64).
+
+### 1 Enoch 61: The Measuring Cords
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *yəmaṭṭənu ʾamṭānāta ṣādəqān*, "measure the measures of the righteous" | take the measurements of the righteous |
+| 3 | *yətmargʷazu*, "lean on" | lean on (as 48:4) |
+| 5 | *kama yāgbəʾu*, "that they bring back" (EOTC) / *yəgbəʾu*, "return" (Knibb) | so that they may be brought back |
+| 7 | *wa-la-wəʾətu maqdəma qāl yəbārəkəwwo*, "and Him, with the first word, they bless" | ***KEPT AS IS*** With their first word they bless Him |
+| 8 | *wa-ba-madāləw yədallu*, "and in the balance they are weighed" | will be weighed in the balance |
+| 10 | *ḫayla ʾƎgziʾabəḥer*, "the host of the Lord" | the host of the Lord (*ʾƎgziʾabəḥer* as at 10:9, 40:10) |
+| 10 | *Kirubēl, Surāfēl, ʾAfnin* | the cherubim, the seraphim and the ophanim (noted) |
+| 10 | *malāʾəkta ʾagāʾəzt*, "angels of lordships" | the angels of the dominions |
+| 12 | *za-fadfada ʾəm-ḫayl*, "exceeding in power" | beyond measure (both English renderings) |
+
+### 1 Enoch 62: The Kings Before the Son of Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾaziz… ḫayyālān*, "mighty… strong" | the mighty… the strong (the EOTC adds *the strong*) |
+| 1 | *ʾanśəʾu ʾaqrəntikəmu*, "lift up your horns" | ***KEPT AS IS*** lift up your horns (Psalm 75:5; noted) |
+| 2 | *wa-nabara ʾƎgziʾa Manāfəst*, "and the Lord of Spirits sat" | The Lord of Spirits sat (Charles's *seated him* noted) |
+| 4 | *wa-yāʿaṣṣəbā walid*, "and giving birth is hard for her" | for whom giving birth is hard |
+| 5 | *mənfaqomu la-mənfaqomu*, "half of them to half of them" | One group of them will look at the other |
+| 5 | *zəku walda bəʾəsit*, "that son of a woman" | that Son of a woman (noted; **choice below**) |
+| 7 | *walda ʿəgʷāla ʾəmmaḥəyāw* | the Son of Man (second form, first here; noted) |
+| 7 | *ba-qədma ḫaylu*, "before His host" | in the presence of His host |
+| 12 | *ʾarʾayā*, "a spectacle" (EOTC only) | They will be a spectacle for His chosen (noted) |
+| 12 | *maqśaftu… təsakkər* (EOTC, "His punishment… is drunk") / *maṭbāḥtu* (Knibb, "His sword") | the punishment of the Lord of Spirits is drunk with them (noted) |
+| 14 | *yərʿəf* (EOTC, "will rest") / *yaḫaddər* (Knibb, "will dwell") | The Lord of Spirits will rest on them |
+| 15 | *wa-ḫadagu ʾatḥəto gaṣṣomu*, "and left off lowering their faces" | stop casting down their faces (noted) |
+
+### 1 Enoch 63: The Kings Confess Too Late
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *wa-yəbarrəh botu kʷəllu ḫəbuʾ*, "and by Him every hidden thing shines" | By Him every hidden thing comes to light |
+| 5 | *mannu ʾəm-wahabana*, "who would have given us" | If only someone would give us rest |
+| 6 | *nəssaddad wa-ʾinəʾəḫḫəz*, "we are driven and do not grasp" | We are driven off and cannot lay hold of it |
+| 7 | *diba batra manbara mangəśtəna*, "on the scepter of the throne of our kingdom" | in the scepter of the throne of our kingdom |
+| 8 | *wa-gaṣṣa kʷənnanēhu ʾiyənaśśəʾu*, "and his judgments do not lift a face" | His judgments show no partiality (noted) |
+| 10 | *ʾəm-lāhbā la-kəbada Siʾol*, "from its flame to the heaviness of Sheol" | ***KEPT AS IS*** into the flame of the heaviness of Sheol (noted) |
+| 12 | *śərʿatomu*, "their ordinance" | the law |
+
+### 1 Enoch 64: The Angels Who Came Down
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kāləʾāta gaṣṣāta*, "other faces" | other faces |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **61:2–3** the EOTC gives the angel's answer (*They are going to measure*) in v3; Knibb's Ge'ez gives it at the end of v2 and adds *the cords of the righteous*.
+- **62:12** EOTC *His punishment is drunk*; Knibb *His sword*. The EOTC also has *They will be a spectacle for His chosen*, which Knibb lacks.
+- **62:14** the EOTC adds *drink*.
+
+Small, not noted:
+- **61:5** EOTC *brought back*; Knibb *return*.
+- **61:10–11** EOTC starts v11 with *On that day*; Knibb ends v10 with it and repeats *the other host*.
+- **61:12** EOTC merges Knibb's two lines (*all who do not sleep… will bless Him; all His holy ones… will bless Him*) into one.
+- **62:1** the EOTC adds *the strong*.
+- **62:9** Knibb adds *before him*.
+- **62:14** EOTC *rest on them*; Knibb *dwell over them*.
+- **63:2–3** EOTC places *By Him every hidden thing comes to light* at the end of v2; Knibb opens v3 with it.
+
+### A correction to `ENOCH_LOOP.md`
+
+The fixed-terms row for *Son of Man* said the EOTC reads *son of a woman* at 62:5 "where other manuscripts have *son of a man*". The printed sources show otherwise: **both** Ge'ez witnesses here read *walda bəʾəsit* at 62:5, and only the two English renderings have *Son of Man*. The EOTC also has a third form of the title, *walda bəʾəsi*, **son of a man**, at 69:29 and 71:14. The row now lists all three forms and their verses.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 61 (13), 62 (16), 63 (12), 64 (2).
+- Every Old and New Testament quotation in the notes was printed and checked. Zechariah is cited by English verse numbers (Hebrew 2:5–6).
+- Every *Son of Man* form in the EOTC was searched before the 62:5 and 62:7 notes were written. A draft line, "From here the Parables use this form," was wrong (69:29 and 71:14 use *walda bəʾəsi*) and was replaced with the verse list.
+
+### Left standing on purpose
+
+- **61:7** "With their first word they bless Him": the Ge'ez *maqdəma qāl* as it stands.
+- **62:1** "lift up your horns": the idiom is kept because the note is built on it (Psalm 75:5).
+- **62:2** "The Lord of Spirits sat on the throne of His glory, and the spirit of righteousness was poured out on him": both Ge'ez witnesses read *sat*. Charles's *seated him* is noted.
+- **63:10** "into the flame of the heaviness of Sheol": the Ge'ez as it stands; both English renderings are in the note.
+
+### Choices for you
+
+**1. 62:5 — "that Son of a woman" or "that Son of Man"?** Both Ge'ez witnesses read *zəku walda bəʾəsit*, **that son of a woman**. *Bəʾəsit* is the word for the woman in labor in v4, one verse earlier. Both English renderings (OCP, Charles) give *that Son of Man*, as if the word were *bəʾəsi*, **man**; the two differ only by the final letter. Where the title returns in the EOTC at 69:29 and 71:14, it reads *walda bəʾəsi*, **son of a man**.
+- (a) **Son of a woman** (in the text now), v5: *…and pain will seize them when they see that Son of a woman sitting on the throne of his glory.*
+- (b) **Son of Man**, v5: *…and pain will seize them when they see that Son of Man sitting on the throne of his glory.*
+- The verses around it, as they read now:
+  - v4: *Pain will come on them like a woman in labor, for whom giving birth is hard when her child comes to the mouth of her womb and she labors hard to give birth.*
+  - v7: *For from the beginning the Son of Man was hidden…*
+  - v9: *…They will set their hope on that Son of Man…*
+- Recommendation: **(a)**. It is what the base text and Knibb's Ge'ez both say, and it follows directly on v4's woman in labor. The note gives the English renderings' *Son of Man*, the one-letter difference, and Galatians 4:4, *born of a woman*. The capital *S* keeps it plainly a title.
+
 ## 1 Enoch 57–60 (Enoch loop, run 5, 2026-09-26)
 
 **Landed:** 1 Enoch 57–60: the chariots on the winds close the second parable (57), the third parable opens with the righteous in the light of the sun (58), the secrets of lightning and thunder (59), and Noah's vision of Leviathan and Behemoth and the spirits of the weather (60).
