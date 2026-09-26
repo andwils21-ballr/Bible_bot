@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 8–9 (Jubilees loop, run 4, 2026-09-26)
+
+**Landed:**
+- **Chapter 8:** Kainam finds the Watchers' star-lore on a rock. Then come Shelah, Eber and Peleg; the earth is divided by lot among Shem, Ham and Japheth; and Noah rejoices over Shem's middle land, with Eden, Sinai and Zion in it.
+- **Chapter 9:** each of the three brothers divides his portion among his sons, under an oath and a curse.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 8:5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 18, 19, 21, 22, 27, 29 | cut | [filled from Charles] (noted) |
+| 8:13–16, 22–28; 9:5, 8 | *samen*, *dabub* | south, north (Charles; the chapter's hot and cold lands; noted) |
+| 8:9 | *ba-ʾəkuy*, "in evil" | wrongly (Charles *secretly*; noted) |
+| 8:16 | *mangala samenu la-samen*, "toward its south of south" | on its southern side |
+| 8:21 | *baḥra ʾErtrā* | the Red Sea (noted) |
+| 9:1, 8, 13, 14 | cut | [filled from Charles] (noted) |
+| 9:1 | *Meṣrem* | Egypt (as Genesis 10:6 in this project) |
+| 9:2 | *la-ʾElām* | for Elam (Charles misprints *Ham*; noted) |
+| 9:3 | *wa-Sak* | ***KEPT AS IS*** and Sek (not in Charles) |
+
+**Also:** 7:13 and 7:17 were changed to match ("Egypt"; "south"), logged in the changes file. The north/south finding and its bearing on the 1 Enoch 26:2 note are logged in `NOTES_FOR_ANDREW.md`.
+
+**Checks:** verse counts equal the EOTC's (30, 15); quotations printed and checked.
+
+**Left standing on purpose:** 9:3, "Sek", a name only this Ge'ez has.
+
+**Choices for you:** none new. There is a finding in `NOTES_FOR_ANDREW.md`: Charles and Knibb disagree on the Ge'ez word *samen*. Jubilees follows Charles (south), which the chapter's hot and cold lands bear out.
+
 ## Jubilees 6–7 (Jubilees loop, run 3, 2026-09-26)
 
 **Landed:**

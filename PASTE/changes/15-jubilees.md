@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 7:13, 7:17: "Egypt" and "south" (2026-09-26, Jubilees loop run 4)
+
+**Why:** chapter 8 shows that the Ge'ez *samen* is the side of Ham's hot land, where Charles has *south*, so 7:17 now follows him (see the 8 note on north and south). Chapter 9 names Ham's son as this project's Genesis 10:6 does, *Egypt*.
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 7:13 | Cush and Mizraim and Put and Canaan | Cush and Egypt and Put and Canaan |
+| Jubilees 7:17 | Naeltamauk on its north side | Naeltamauk on its south side |
+| Jubilees 7:17, note | the EOTC reads *samen*, north; Charles has *south* | *samen*, as Charles renders it; chapter 8 shows the same word on the side of Ham's hot land |
+
 ## Jubilees 1–3: "festival" and "soothing aroma" (2026-09-26, Jubilees loop run 3)
 
 **Why:** chapter 6 retells Genesis 8:21 and Exodus 34:22, where this project has *soothing aroma* (a fixed term) and *the Festival of Weeks*. The loop file says to use the same English where Jubilees says the same thing, so the same Ge'ez words were brought into line in chapters 1–3.
