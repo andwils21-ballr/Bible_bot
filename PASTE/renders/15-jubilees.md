@@ -62,7 +62,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
      - 2:2 *the angels of the presence, and the angels of holiness, and the angels of the spirit of fire…*
      - 2:18 *All the angels of the presence and all the angels of holiness*
      - 1:25 *every angel and every spirit will know them*
-   - **Recommendation:** keep "angel". It is the same Ge'ez word as in 1 Enoch, and the book treats these as heavenly beings, not as a job. Where Jubilees retells a Genesis "messenger of the LORD" scene (the binding of Isaac, 18:10), I will mention it in the note.
+   - **Recommendation:** keep "angel". It is the same Ge'ez word as in 1 Enoch, and the book treats these as heavenly beings, not as a job. Where Jubilees retells a Genesis "messenger of the LORD" scene (the binding of Isaac, chapter 18), I will mention it in the note.
 2. **Chapter 1's verse numbers.**
    - The EOTC fits the text other editions number 1–19 into 1–17, then continues at 20, so there are no verses 18 and 19. Nothing is missing.
    - **Now:** the EOTC's numbers, as the spec requires, with a note.
