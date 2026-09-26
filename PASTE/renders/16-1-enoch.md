@@ -2,6 +2,31 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 89 (Enoch loop, run 17, 2026-09-26)
+
+**Landed:** 1 Enoch 89, the heart of the Animal Apocalypse: Noah and the flood, Abraham to Joseph, the exodus, Sinai, the tabernacle, the judges, Saul, David and Solomon, the prophets and Elijah, the seventy shepherds, the fall of the temple and the return. 77 verses; one chapter this run.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾənza yərʿəd*, "while he trembled" | while he trembled (Charles *without being terrified*; noted) |
+| 1 | *maskar*, "vessel" | a great vessel |
+| 2 | *ʾasrāb*, "torrents"; *ʿaṣad*, "enclosure" | torrents; enclosure |
+| 10 | *hobāy wa-foqāns* | ***KEPT AS IS*** *hobay* and *foqanas* (animals unknown; noted) |
+| 22 | *wa-gaṣṣu səbuḥ wa-kəbur*, "his face glorious and honored" | His face was glorious and honored |
+| 44 | *za-ḫadaga səbḥato… wa-ḥora za-ʾənbala tadlā*, "left his glory… went without dignity" | left his glory… went on without dignity (Greek differs; noted) |
+| 48 | the second half (the little sheep made ram) | in v48, as the EOTC (Charles moves it to 48b) |
+| 52 | *ʾaʿrago ḫabēya*, "brought it up to me" | brought it up to me (Elijah; noted) |
+| 54 | *wa-ʾagbəʾu makāno*, "and gave up His place" | ***KEPT AS IS*** gave up His place |
+| 59 | *sabʿa nolāwyān*, "seventy shepherds" | seventy shepherds (noted) |
+| 73 | *rəkus wa-ʾikona nəṣuḥa*, "defiled and not pure" | defiled and not pure (Malachi 1:7; noted) |
+| 76 | *ḫaba ʾabyāta*, "at the houses" | in the dwellings of the Lord of the sheep |
+
+**Checks:** verse count 77 = EOTC; Greek of vv42–49 compared; OT references printed and checked; "And"-starts removed in vv9, 10, 46, 60.
+
+**Left standing on purpose:** 89:10 *hobay* and *foqanas*; 89:54 "gave up His place".
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 89).
+
 ## 1 Enoch 86–88 (Enoch loop, run 16, 2026-09-26)
 
 **Landed:** 1 Enoch 86–88: the Watchers as falling stars, the giants as elephants, camels and donkeys (86); seven beings like white men lift Enoch to a high tower (87); the first star bound, the giants set against each other, the other stars bound in the abyss (88) — the judgments of chapter 10 told as a dream.
