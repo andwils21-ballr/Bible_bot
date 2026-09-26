@@ -2,6 +2,66 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 71 (Enoch loop, run 9, 2026-09-26)
+
+**Landed:** 1 Enoch 71, the last chapter of the Parables: Enoch's spirit is taken into the heaven of heavens, he sees the Head of Days, and an angel tells him, *You are the Son of Man who was born for righteousness*. This run takes one chapter because it closes the Parables. From chapter 72 the Astronomical Book begins, and there is no Knibb Ge'ez or OCP English past 71.
+
+### 1 Enoch 71: You Are the Son of Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-kona*, "and it was" | And it came to pass (the kept formula) |
+| 1 | *tətkabbat manfasəya*, "my spirit was hidden" | my spirit was hidden away (noted) |
+| 1 | *ka-barad*, "like hail" | like snow (as *barad* at 14:20) |
+| 2 | *yākənt* | jacinth (Revelation 21:20; noted) |
+| 3 | *ʾaḥadu ʾəm-ʾarʾəsta malāʾəkt*, "one of the heads of the angels" | one of the archangels |
+| 5 | *wa-kabato manfas la-Hēnok*, "and the spirit hid Enoch" | The spirit hid Enoch away (noted) |
+| 5 | *ʾəm-ʾəbna ʾasḥatyā*, "of stone of frost" | of stones of crystal (as *ʾasḥatyā* at 14:18) |
+| 6 | *ʿawda za-yəʿawwədo*, "the circle that surrounds it" | the ring that surrounds |
+| 6 | *falag* (EOTC, "a river") / *ʾaflāg* (Knibb, "rivers") | a river full of living fire |
+| 10 | *wa-ləbsu za-ʾiyəttargʷam*, "and his garment that cannot be interpreted" | His clothing was beyond description |
+| 11 | *wa-manfasəya tawallaṭa*, "and my spirit was changed" | my spirit was changed |
+| 14 | *ʾanta wəʾətu walda bəʾəsi*, "you are the son of a man" | You are the Son of Man (noted; **choice below**) |
+| 15 | *ba-səmu la-ʿālama ʿālam za-yəkawwən*, "in his name, for the world of the world that will be" | in the name of the everlasting world to come |
+| 16 | *wa-kʷəllu yəkawwən wa-yaḥawwər*, "and all will be and walk" | All will walk in your way |
+| 17 | *nuḫa mawāʿəl*, "length of days" | length of days (Psalm 21:4; noted) |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Small, not noted:
+- **71:1** EOTC *the heaven of heavens*; Knibb *the heavens*.
+- **71:6** EOTC *a river*; Knibb *rivers*.
+- **71:7** EOTC *cherubim, seraphim and ophanim*; Knibb *seraphim, cherubim and ophanim*.
+- **71:8–9** the order of the four archangels differs (EOTC *Michael and Gabriel, Phanuel and Raphael*; Knibb *Michael, Raphael, Gabriel, Phanuel*).
+- **71:10** Knibb's copy has *the Head of the oath*, a slip; the EOTC has *the Head of Days*, as the English renderings do.
+- **71:17** Knibb repeats *length of* and *upright to the righteous*.
+
+Charles's changes not followed (noted at v14): he rewrites 71:14 as *This is the Son of Man*, and after v13 he marks a lost passage. Both Ge'ez witnesses have *You are*, and neither has a gap.
+
+### Checks this run
+
+- Verse count equals the EOTC's: 71 (17).
+- Every Old and New Testament quotation in the notes was printed and checked.
+- The Son of Man forms were checked against the EOTC text: 71:14 has *walda bəʾəsi*, the form of 69:29. 60:10, where Noah is addressed, has *walda sabʾ*. 71:17 has *walda ʿəgʷāla ʾəmmaḥəyāw*.
+- Before commit: the 71:5 note claimed the house *is* the house of chapter 14. It now says only that it is described the same way.
+
+### Left standing on purpose
+
+None.
+
+### Choices for you
+
+**1. 71:14 — "You are the Son of Man" or "You are the son of man"?** The angel speaks to Enoch: *ʾanta wəʾətu walda bəʾəsi zatawaladka la-ṣədq*, **you are the son of a man who was born for righteousness**. Ge'ez has no capital letters; English has to choose. The capital makes Enoch the Son of Man of the Parables. The lower case makes it an address, as the angel called Noah *son of man* at 60:10, and leaves the question open.
+- (a) **Capital** (in the text now), v14: *"You are the Son of Man who was born for righteousness. Righteousness has dwelt on you, and the righteousness of the Head of Days will not forsake you."*
+- (b) **Lower case**, v14: *"You are the son of man who was born for righteousness. Righteousness has dwelt on you…"*
+- The verses around it, as they read now:
+  - v16: *All will walk in your way, since righteousness will never forsake you. With you will be their dwelling, and with you their portion…*
+  - v17: *So there will be length of days with that Son of Man, and the righteous will have peace…*
+- For (a): the Ge'ez form is *walda bəʾəsi*, the title's form at 69:29, *that Son of Man has appeared and sat on the throne of his glory*. It is not *walda sabʾ*, the words used to address Noah at 60:10. And v16 gives Enoch the promise the Parables gave the Son of Man, *they will live with that Son of Man* (62:14): *with you will be their dwelling*.
+- For (b): v17 goes straight back to *that Son of Man* in the third person, with the other form of the title.
+- The OCP's English of the Ge'ez has the capital. Charles avoids the question by changing *You are* to *This is*.
+- Recommendation: **(a)**. The note gives the reasons and names Charles's change.
+
 ## 1 Enoch 69–70 (Enoch loop, run 8, 2026-09-26)
 
 **Landed:** 1 Enoch 69–70: the names of the fallen angels and what each taught, the oath that holds creation, the Son of Man on the throne of his glory, the end of the third parable (69), and Enoch taken up alive to the Son of Man and the Lord of Spirits (70). Chapter 69 alone has 29 verses, so this run takes two chapters.
