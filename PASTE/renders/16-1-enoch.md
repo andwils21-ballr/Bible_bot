@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 83–85 (Enoch loop, run 15, 2026-09-26)
+
+**Landed:** 1 Enoch 83–85, the start of the Dream Visions: Enoch's boyhood dream of the earth swallowed, told to his grandfather Mahalalel (83); his prayer for a remnant (84); the second dream begins, the history of the world told with animals, from the white bull (Adam) to Seth (85).
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 83:3 | *ʾəmḥēwəya*, "my forefather" | my grandfather Mahalalel (Jared's father; noted) |
+| 83:7 | *ḫayala rāʾya ḥəlməka*, "your dream vision is strong" | Your dream vision is grave |
+| 83:11 | *wa-lotu wahabku ʿəbaya*, "and to Him I gave greatness" | and gave Him greatness |
+| 84:2 | *malakotəka*, "your godhead" | Your godhead |
+| 84:2 | *makyada ʾəgarika*, "the treading place of your feet" | the footstool of Your feet (Isaiah 66:1; noted) |
+| 85:3 | *lāḥm* / *ṭāʿwā* / *ʿəgʷəlt* | bull / calf (female: heifer calf) / heifer |
+| 85:3 | *ʾƎdnā* | Edna (noted) |
+
+**Checks:** verse counts equal the EOTC's (11, 6, 10); quotations printed and checked; Genesis quoted in this project's rendering.
+
+**Left standing on purpose:** none.
+
+**Choices for you:** none new; choice #1 of the 72 report still open.
+
 ## 1 Enoch 82 (Enoch loop, run 14, 2026-09-26)
 
 **Landed:** 1 Enoch 82, the end of the Astronomical Book: Enoch gives Methuselah the books, repeats the warning about the four added days and the 364-day year, and names the leaders of the seasons; the chapter describes spring and summer and stops.
