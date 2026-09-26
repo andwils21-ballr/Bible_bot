@@ -2,6 +2,30 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 98–99 (Enoch loop, run 21, 2026-09-26)
+
+**Landed:** 1 Enoch 98–99, the woes go on: the rich who are adorned like women, sin as men's own making, and the sins written in heaven every day (98); the twisters of the law, the prayers of the righteous set before the angels, the days when mothers abandon their children, and the worshipers of stones (99). Only two chapters this run: both are compared verse by verse with the Greek, and 99 with the Latin too.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 98:1 | *ʾəmməḥḥəl… la-ṭabibān wa-la-ʾabdān*, "to the wise and to the foolish" | the wise and the foolish (Greek *and not to the foolish*; noted) |
+| 98:5 | short in the EOTC | ***KEPT AS IS*** Barrenness was not given to the woman (the Greek's longer verse noted) |
+| 98:7 | *ʾitaʾammərū wa-ʾitəreʾəyu*, "you do not know and do not see" | ***KEPT AS IS*** (Greek *they*; noted) |
+| 98:12 | *yəmattəru kəsāwədikəmu*, "they will cut your necks" | they will cut off your heads (noted) |
+| 98:15 | *kama yəsməʿəwwā wa-ʾiyərsəʿəwwā la-ʾəbad* | so that people may hear them and act wickedly in folly (**hard Ge'ez; Charles's sense followed; noted**) |
+| 99:2 | *wa-yəresəyu rəʾsomu za-ʾikonu ḫaṭəʾāna*, "make themselves not sinners" | count themselves not sinners (with the Greek *reckon yourselves sinless*; Charles differs) |
+| 99:5 | *ʾəlla yəṣṣennasu*, "those in want" | ***KEPT AS IS*** those in want (Greek *those who give birth*; noted) |
+| 99:7 | *wa-la-kʷəllu ṭāʿot wa-la-məḥrāmāt* | all kinds of idols (Charles) |
+| 99:12 | *masarata ḫaṭiʾat*, "the foundation of sin" | lay the foundation of sin (Charles *measures*; noted) |
+
+**Numbering:** the EOTC's 98:15 holds what Charles and the Greek number 98:15–16; the EOTC's 15 verses are kept.
+
+**Checks:** verse counts equal the EOTC's (15, 16); quotations printed and checked.
+
+**Left standing on purpose:** 98:5, 98:7, 99:5: the EOTC as it stands. 98:15: the one place in this run where the Ge'ez could not be rendered with confidence; the English gives Charles's sense and the note says so.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 98–99).
+
 ## 1 Enoch 94–97 (Enoch loop, run 20, 2026-09-26)
 
 **Landed:** 1 Enoch 94–97, the Epistle's exhortation and first woes: the two paths and the woes on the builders of wrong and on the rich (94); Enoch's tears and the woes on cursers, false witnesses and persecutors (95); hope for the righteous and woes on those who live in plenty (96); the day of judgment and the boast of the rich (97). The Greek begins at 97:6. The lines numbered 97:1–5 in the Greek source file are not this chapter's text: they speak of the mountain of the oath and of 120 years. They were not used.
