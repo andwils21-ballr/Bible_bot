@@ -2,6 +2,130 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 51–56 (Enoch loop, run 4, 2026-09-26)
+
+**Landed:** 1 Enoch 51–56: the dead are given back and the Chosen One takes his throne (51), the mountains of metal melt before him (52), the valley that is never filled and the instruments for Satan (53), the chains for Azazel's hosts and the waters of the flood (54), the Head of Days' oath and the sign in the heavens (55), and the Parthians and Medes broken at the city of the righteous (56).
+
+### 1 Enoch 51: The Dead Given Back
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tāgabbəʾ mədr maḥḍantā*, "the earth will return its deposit" | the earth will give back what was entrusted to it |
+| 1 | *wa-hagʷl yāgabbəʾ za-yəfaddi*, "and destruction will return what it owes" | destruction will pay back what it owes |
+| 2 | *wa-yaḫerri*, "and he will choose" (no subject named) | He will choose (noted; Charles's reordering not followed) |
+| 3 | *ḫəllināta ṭəbab… ḫəllina ʾafuhu*, "the counsels of wisdom… the counsel of his mouth" | all the counsels of wisdom from the counsel of his mouth (Knibb *secrets*; noted) |
+| 4 | *maḥasʾ ṣəgubāna ḥalib*, "lambs sated with milk" | lambs filled with milk |
+| 4 | *wa-yəkawwənu kʷəllomu malāʾəkt ba-samāy*, "and they will all be angels in heaven" | and all will become angels in heaven (**choice below**) |
+| 5 | *ḫəruy tanśəʾa*, "the Chosen One arose" | the Chosen One will arise |
+| 5 | *yaḥawwəru wa-yānsosəwu*, "they will walk and move about" | will walk and go about on it |
+
+### 1 Enoch 52: The Mountains of Metal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tamaśaṭku ba-naqʷarqʷāra nafās*, "I was snatched away by a wheel of wind" | I had been snatched away by a whirlwind (as 39:3) |
+| 1 | *ʿarab*, "the west" | the west |
+| 2 | *naṭabṭāb* | soft metal (both English renderings) |
+| 5 | *za-takalā*, "which He has set up" | that the Lord of Spirits has established |
+| 6 | *ka-maʿāra gərā*, "like honey-wax" | like wax |
+| 7 | *wa-yəkawwən*, "and it shall be" | And it shall come to pass (the kept formula) |
+| 8 | *wa-ʾiyətḫwallaqʷ*, "and will not be counted" | will count for nothing |
+| 9 | *yətkayyadu* (EOTC, "trampled") / *yətkaḥadu* (Knibb, "denied") | will be trampled (noted) |
+
+### 1 Enoch 53: The Valley That Is Never Filled
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-rəḫəw ʾafuhu*, "and open its mouth" | with its mouth open wide |
+| 1 | *lotu*, "to it / to him" | will bring it gifts (Charles's *to him* noted) |
+| 2 | *wa-kʷəllo za-yəṣāmməwu la-gēgāy ḫāṭəʾān yəbalʿu*, "and all that they toil for wrongfully, sinners devour" | ***KEPT AS IS*** the sinners devour everything they wrongfully toil for (sense uncertain; noted) |
+| 2 | *wa-ʾiyaḫalləqu la-ʿālama ʿālam*, "and they will not come to an end forever and ever" | without end, forever and ever (noted) |
+| 6 | *yāstarʾi*, "will make appear" | will make the house of his assembly appear |
+| 7 | *wa-ʾəllu ʾadbār… ka-mədr* (EOTC) / *wa-ʾi-ʾəllu* (Knibb, "not") | These mountains will be like the ground before him (noted) |
+| 7 | *ʾəm-ṣāmā ḫāṭəʾān*, "from the toil of the sinners" | from the oppression of the sinners (both English) |
+
+### 1 Enoch 54: Chains for the Hosts of Azazel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kāləʾa gaṣṣa mədr*, "another face of the earth" | another part of the earth |
+| 3 | *maʾsarta ḫaṣin za-ʾalbo madlot*, "fetters of iron without weight" | chains of iron too heavy to be weighed |
+| 5 | *matəḥta kʷəllu dayn*, "beneath all condemnation" | into the lowest depths of condemnation |
+| 5 | *yəkaddənu malātəḥihomu*, "they will cover their jaws" | They will cover their jaws with rough stones |
+| 6 | *yāṣannəʿəwwomu*, "they will hold them fast" | will seize them |
+| 7 | *wa-diba ʾanqəʿt ʾəlla matəḥta samāyāt wa-za-malʿəlta mədr*, "and upon the fountains beneath the heavens and above the earth" | ***KEPT AS IS*** and the fountains that are beneath the heavens and above the earth (Knibb *beneath the earth*; noted) |
+| 9 | *wa-yədamassasu*, "and they will be wiped out" | will be wiped out |
+
+### 1 Enoch 55: The Sign in the Heavens
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *nassəḥa*, "repented" | repented (the verb of 50:2, 4; noted) |
+| 1 | *bak*, "in vain" | In vain |
+| 2 | *hāymānot*, "faith" | a pledge of faith (noted) |
+| 2 | *maṭana mawāʿəla samāy diba mədr*, "as the measure of the days of heaven over the earth" | as long as the days of heaven are over the earth (Deuteronomy 11:21; noted) |
+| 3 | *wa-ʾəm-zə ba-təʾzāzəya wəʾətu… qədma zə*, "and after this it is by My command… before this" | ***KEPT AS IS*** After this, it is by My command… Before this, My wrath and My punishment will rest on them (compressed; noted) |
+| 3 | *ʾƎgziʾabəḥer ʾƎgziʾa Manāfəst* | the Lord, the Lord of Spirits (as *ʾƎgziʾabəḥer* at 10:9 and 40:10) |
+| 4 | *ba-manbara səbḥatihu* (EOTC, "his glory") / *səbḥatəya* (Knibb, "My glory") | the throne of his glory (noted) |
+
+### 1 Enoch 56: The Parthians and the Medes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *masāgəra ḫaṣin wa-bərt* | chains of iron and bronze (as the OCP English) |
+| 3 | *ʾaḥadu ʾaḥadu*, "one, one" | Each of them |
+| 3 | *nəqʿata māʿəmq za-qʷallā*, "the clefts of the deep of the valley" | the deep chasms of the valley |
+| 5 | *wa-yəwaddəyu ʾarʾəstihomu la-məsrāq*, "and they will cast their heads to the east" | turn their heads to the east |
+| 6 | *məkyāda wa-ʾaśara*, "a treading place and a track" | a threshing floor and a beaten path |
+| 7 | *māʿqəfa*, "an obstacle" | a stumbling block |
+| 7 | *ʾəska yəkawwən ḫʷəlqʷa ʾabdəntihomu ʾəm-motomu wa-ʾəm-maqśaftomu*, "until the number of their corpses is, from their death and their punishment" | ***KEPT AS IS*** until their corpses are counted up through their death and their punishment |
+| 8 | *wa-hagʷlomu*, "and their destruction" | to their destruction |
+| 8 | *ʾəm-qədma gaṣṣa ḫəruyān*, "from before the face of the chosen" | from the presence of the chosen |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **51:3** EOTC *the counsels of wisdom*, which the Chosen One *brings out*; Knibb *the secrets of wisdom*, which *go out*.
+- **51:4–5** the EOTC ends v4 at *angels in heaven* and opens v5 with *and their faces*; Knibb runs the words on (see the choice below).
+- **52:9** EOTC *trampled*; Knibb *denied*.
+- **53:1** the EOTC adds *gifts* to *presents and tribute*.
+- **53:7** EOTC *these mountains will be like the ground*; Knibb *will not be*.
+- **54:7** EOTC fountains *above the earth*; Knibb *beneath the earth*.
+- **55:3** Knibb repeats *My punishment and My wrath*; the EOTC has them once.
+- **55:4** EOTC *the throne of his glory*; Knibb *of My glory*.
+
+Small, not noted:
+- **52:1** EOTC *all the hidden visions*; Knibb *all the visions of what is hidden*.
+- **53:6** EOTC *will make appear* (singular); Knibb plural.
+- **56:6** EOTC *the land of His chosen ones* twice; Knibb *their chosen ones* the first time.
+- **56:7** Knibb adds *the path* before *the city of My righteous ones*.
+
+Charles's reorderings not followed: he moves 51:5a into 51:1 and the opening words of 55:3 (*by My command*) into 55:2. Both Ge'ez witnesses keep the order rendered here.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 51 (5), 52 (9), 53 (7), 54 (10), 55 (4), 56 (8).
+- Every Old and New Testament quotation in the notes was printed and checked; Genesis and Numbers are quoted in this project's own rendering.
+- Cut or corrected before commit: a claim that the metals of 52:2 were all taught by Azazel (8:1 names only iron and bronze, now noted at 52:8); "level ground" at 53:7, which added a word; "the same words as 46:8" at 53:6 (46:8 has the plural); a geography remark at 56:5 not in any source.
+
+### Left standing on purpose
+
+- **53:2** "the sinners devour everything they wrongfully toil for": the sense of the Ge'ez is uncertain; both English renderings are in the note.
+- **54:7** "the fountains that are beneath the heavens and above the earth": the EOTC as it stands; Knibb's *beneath the earth* is noted.
+- **55:3** "After this, it is by My command… Before this, My wrath and My punishment will rest on them": compressed in both Ge'ez witnesses.
+- **56:7** "until their corpses are counted up through their death and their punishment": the Ge'ez as it stands. Charles adds a *no* (*till there be no number*), which neither Ge'ez witness has.
+
+### Choices for you
+
+**1. 51:4 — do the raised righteous become angels?** The EOTC ends the verse at *angels in heaven* and starts v5 with *and*. Read that way, the words say *all will become angels in heaven*. Knibb's Ge'ez runs the same words straight on without the *and*, and both English renderings (OCP, Charles) read them as *the faces of all the angels in heaven will shine with joy*.
+- (a) **EOTC division** (in the text now):
+  - v4: *In those days the mountains will leap like rams, and the hills will skip like lambs filled with milk, and all will become angels in heaven.*
+  - v5: *Their faces will shine with joy, for in those days the Chosen One will arise. The earth will rejoice, and the righteous will live on it, and the chosen will walk and go about on it.*
+- (b) **Knibb and the English renderings:**
+  - v4: *…like lambs filled with milk, and the faces of all the angels in heaven will shine with joy.*
+  - v5: *For in those days the Chosen One will arise…*
+- Recommendation: **(a)**. The EOTC is the base text, and its verse break and its *and* leave only that reading. It also fits the chapter: v1–2 are about the dead being given back and chosen. The note sets out both readings, and cites Mark 12:25 and Luke 20:36.
+
 ## 1 Enoch 47–50 (Enoch loop, run 3, 2026-09-26)
 
 **Landed:** 1 Enoch 47–50: the blood of the righteous comes before the Head of Days, the Son of Man is named before the sun, the Chosen One receives the spirit of Isaiah 11, and a door is opened for "the others" to repent.
