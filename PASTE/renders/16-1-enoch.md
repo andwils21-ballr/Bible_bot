@@ -2,6 +2,93 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 65–68 (Enoch loop, run 7, 2026-09-26)
+
+**Landed:** 1 Enoch 65–68, Noah's part of the Parables: Noah cries out to Enoch as the earth tilts (65), the angels of the waters held back (66), the ark built by angels and the burning valley whose waters heal the kings (67), and Michael and Raphael on the judgment of the angels (68).
+
+### 1 Enoch 65: Noah Cries Out to Enoch
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾaṣnanat mədr*, "the earth bowed" | the earth had tilted |
+| 2 | *wa-ʾanśəʾa ʾəgarihu*, "and he lifted his feet" | He set out |
+| 2 | *la-ʾəmḥēwu*, "to his forefather" | to his forefather Enoch (as 60:8) |
+| 3 | *yogi*, "perhaps" | Perhaps I will perish with it |
+| 6 | *śərāyāt… ḫəbrāt*, "sorceries… (the word the English renders) enchantments" | sorcery… spells |
+| 6 | *la-ʾəlla yəsabbəku səbko*, "for those who cast a casting" | those who cast molten images |
+| 8 | *kama qadāmi*, "like the first" | ***KEPT AS IS*** as the first is |
+| 8 | *wa-yəbaddər*, "and he is foremost" | that angel is preeminent |
+| 10 | *wa-ʾiyətḫwallaqʷ ba-qədmēya*, "and it will not be counted before Me" | ***KEPT AS IS*** it will not be counted before Me |
+| 10 | *ʾawrāḫ*, "months" | the months they searched out (both English renderings *sorceries*; noted) |
+| 11 | *məgbāʾ*, "place of return" | no return |
+| 12 | *ʾaṣnəʿo*, "He has made it firm" | He has established |
+
+### 1 Enoch 66: The Angels of the Waters
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾəlla yənabbəru wa-yaḫaddəru*, "who sit and dwell" | all who stay and live |
+| 2 | *kama ʾiyānśəʾu ʾədawa*, "not to raise hands" | not to raise their hands |
+
+### 1 Enoch 67: The Ark and the Burning Valley
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾƎgziʾabəḥer* | the Lord (as 10:9, 40:10) |
+| 1 | *nāhu*, "behold" | here — |
+| 2 | *yəgabbəru malāʾəkt ʿəḍawa*, "the angels are making woods" | the angels are working on timber |
+| 2 | *la-wəʾətu malʾəkt* (EOTC, "for that task") / *malāʾəkt* (Knibb, "angels") | when they have gone out to that task |
+| 2 | *yəbar ʿərāqu*, "remain naked" | remain empty |
+| 3 | *ʾəzarrəʾomu*, "I will sow them" | I will sow those who live with you (as 62:8; noted) |
+| 3 | *qədma yabs* (EOTC, "before the dry land") / *diba yabs* (Knibb, "on the dry land") | ***KEPT AS IS*** before the dry land (noted) |
+| 6 | *naṭabṭāba ʾəsāt*, "soft metal of fire" | that fiery molten metal (noted) |
+| 6 | *ṭēnā tay*, "smell of sulfur" | a smell of sulfur |
+| 8 | *tawnēt*, "lust, pleasure" | lust |
+| 11 | *yətwēllaṭ rāʾyomu* (EOTC only), "their appearance will change" | the appearance of those springs of water will change |
+| 13 | *la-malāʾəkt*, "of the angels" | the bodies of the angels (Charles *kings*; noted) |
+
+### 1 Enoch 68: Michael and Raphael
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *təʾmərta*, "signs" | the signs of all the secrets |
+| 1 | *maṣḥaf za-məsālē* | the book of the parables (noted) |
+| 2 | *yəmaśśəṭani wa-yāmʿəʿani*, "snatches me and angers me" | seizes me and stirs me to anger |
+| 3 | *kʷəlyātihu*, "his kidneys" | whose inmost being |
+| 3 | *ʾəmənnēhomu za-ʾawḍəʾəwwomu kama zə*, "from those who led them out thus" | ***KEPT AS IS*** because of those who led them out like this |
+| 4 | *wa-kona*, "and it was" | And it came to pass (the kept formula) |
+| 4 | *məḥrat* (EOTC only), "mercy" | They will have no mercy (noted) |
+| 4 | *ba-ʾamsāla ʾƎgziʾ*, "in the likeness of the Lord" | as if they were the Lord (noted) |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **67:3** EOTC *before the dry land*; Knibb *on the dry land*, and Knibb adds *it will not be barren on the face of the earth*.
+- **68:4** the EOTC has *mercy*; Knibb's Ge'ez lacks it.
+
+Small, not noted:
+- **65:6** EOTC *the presence of the Lord of Spirits*; Knibb *of the Lord*.
+- **67:2** EOTC *that task* (*malʾəkt*); Knibb *those angels* (*malāʾəkt*), one letter apart.
+- **67:3** EOTC *the Lord of Spirits*; Knibb *the Lord*.
+- **67:8** the EOTC adds *the exalted*.
+- **67:11** the EOTC adds *the appearance of*.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 65 (12), 66 (3), 67 (13), 68 (5).
+- Every Old Testament quotation in the notes was printed and checked; Genesis is quoted in this project's own rendering.
+
+### Left standing on purpose
+
+- **65:8** "as the first is": the Ge'ez *kama qadāmi* as it stands.
+- **65:10** "it will not be counted before Me": the Ge'ez as it stands.
+- **67:3** "It will multiply and be blessed before the dry land": the EOTC as it stands; Knibb's *on the dry land* is noted.
+- **68:3** "because of those who led them out like this": the Ge'ez as it stands.
+
+### Choices for you
+
+None.
+
 ## 1 Enoch 61–64 (Enoch loop, run 6, 2026-09-26)
 
 **Landed:** 1 Enoch 61–64: the angels with measuring cords and the Chosen One seated to judge even the holy ones (61), the kings before the throne of the Son of Man, and at 62:5 *that Son of a woman* (62), the kings' confession that comes too late (63), and the fallen Watchers seen in their place (64).
