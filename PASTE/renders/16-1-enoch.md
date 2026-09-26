@@ -2,6 +2,41 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 76–78 (Enoch loop, run 12, 2026-09-26)
+
+**Landed:** 1 Enoch 76–78: the twelve gates of the winds, four of blessing and eight of harm, closing with Enoch's first word to *my son Methuselah* (76); the names of the four quarters, the seven mountains, rivers and islands (77); the names of the sun and the moon, and the moon's month day by day (78).
+
+### Word-for-word decisions
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 76:5, 6, 13 | *yabs*, "dry land, dryness" | drought |
+| 76:10 | *za-səmu bāḥr*, "whose name is Sea" (EOTC only) | ***KEPT AS IS*** whose name is Sea (noted) |
+| 76:11 | *maʾkalāwit ʾanqaṣ rətʿət*, "the middle gate, the straight one" | the middle gate, the straight one |
+| 76:12 | *ʾarbāʿtu*, "four" | After these, the fourth |
+| 76:12 | *Dadak* | Dadak (as 60:18; Charles *frost*; noted) |
+| 77:2 | *natug*, "diminished" | the Diminished |
+| 77:6–7 | *Bāḥra ʾErtrā* | the Red Sea (Greek scraps agree; noted) |
+| 77:7 | *wa-ba-həya yəbēlu madbarā* | ***KEPT AS IS*** and there, they say, is the desert (noted) |
+| 78:4 | *wa-ba-masfart tətwaddai…* | ***KEPT AS IS*** by measure it is put in until the seventh part of the sun passes |
+| 78:7 | *šalastu təḫəmsəta* (EOTC, sense uncertain) | Fifteen parts (Charles; noted; falls under open choice #1 of the 72 report) |
+| 78:12 | *śarq*, "rising" | the Rising (Charles *the new moon*; noted) |
+| 78:17 | *ba-ba ʿəśrā*, "twenty at a time" | ***KEPT AS IS*** for twenty days at a time (*days* supplied, as Charles) |
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 76 (14), 77 (8), 78 (17).
+- 76: the four good winds are the four middle gates (vv6, 8, 11, 13); the count of four and eight holds.
+- 78: the wane counts down by one part a day, 14 to 2, then half a seventh, then nothing; 3 × 30 + 3 × 29 = 177 (v15).
+
+### Left standing on purpose
+
+- **76:10** "whose name is Sea"; **77:7** "and there, they say, is the desert"; **78:4** and **78:17**: the Ge'ez as it stands, sense uncertain.
+
+### Choices for you
+
+None new. Choice #1 of the 72 report (numbers against the text's arithmetic) is still open; 78:7 is one more case under it.
+
 ## 1 Enoch 73–75 (Enoch loop, run 11, 2026-09-26)
 
 **Landed:** 1 Enoch 73–75: the law of the moon and the growth of its light by parts (73), the moon's year of 354 days set against the sun's 364 over three, five and eight years (74), and the four added days that people fail to count, with the gates and windows of heaven (75). Numbers follow the approach of choice #1 in the 72 report (still open).
