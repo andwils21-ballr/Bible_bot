@@ -2,6 +2,29 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 105–106 (Enoch loop, run 24, 2026-09-26)
+
+**Landed:** 1 Enoch 105–106. The Lord's charge to those who hold the books, *I and My Son will be joined with them forever*, ends the Epistle (105). Noah's birth follows: the shining child who praises the Lord in the midwife's hands, Lamech's fear, Methuselah's journey to Enoch at the ends of the earth, and Enoch's answer and the naming of Noah (106). 106 compared verse by verse with the Greek and the Latin; the Greek has nothing of 105. **Order:** the EOTC's order and numbering are kept (19 verses; the Greek's 17a and 17b are noted at v17).
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 105:1 | *ʿəsseyāt*, "rewards" | a reward over all the earth (Charles *recompense*) |
+| 105:2 | *ʾana wa-waldəya*, "I and my son" | I and **My Son** (see the choice below) |
+| 105:2 | *ba-ʾamān*, "in truth" | truly (Charles *Amen*; noted) |
+| 106:3 | *tanāgara səbḥatihu la-ʾƎgziʾa ṣədq* | spoke the praise of the Lord of righteousness |
+| 106:5 | *daqiqa malāʾəkta samāy*, "children of the angels of heaven" | the children of the angels of heaven (with the Greek; Charles *God of heaven*; noted) |
+| 106:5, 10 | *ʾəgarihu la-ḍaḥāy*, "the feet (rays) of the sun" | the rays of the sun |
+| 106:13 | *ʾaḫlafu nagro la-ʾƎgziʾ ʾəmmalʿəlta samāy* | some from the height of heaven transgressed the word of the Lord (noted) |
+| 106:17 | *ʾəlla yārbəḥ… ʾakko za-manfas ʾallā za-śəgā* | giants, not of the spirit but of the flesh (Charles; Greek *fleshly*) |
+| 106:18 | *tarafa*, "what is left" | a remnant (noted) |
+
+**Checks:** verse counts equal the EOTC's (2, 19); quotations printed and checked.
+
+**Left standing on purpose:** 106:13, *from the height of heaven*, as the Ge'ez has it.
+
+**Choices for you:**
+1. **105:2, "I and My Son."** The Lord is the speaker, and the Ge'ez is *ʾana wa-waldəya*. Capitalized, *My Son* reads as the Son of God, which is how an Ethiopian Orthodox reader will hear it. Charles prints *my son*, leaving it open who is meant. **Now:** *My Son*, with a note citing John 14:23 and Psalm 2:7. **Recommendation:** keep *My Son*. The speaker is the Lord and every pronoun for Him is capitalized. The alternative is *my son* with a note. This is the same kind of choice as 71:14.
+
 ## 1 Enoch 103–104 (Enoch loop, run 23, 2026-09-26)
 
 **Landed:** 1 Enoch 103–104: Enoch's oath and the mystery read on the tablets of heaven, the good prepared for the righteous dead, the sinners' praise of their own dead, and the long complaint of the righteous (103); the answer: the angels remember them, their names are written, they will shine like the lights of heaven; the warning to the sinners; and the mystery of the books, their corruption and their faithful copying (104). Every verse compared with the Greek.
