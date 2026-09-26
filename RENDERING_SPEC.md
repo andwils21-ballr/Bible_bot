@@ -270,6 +270,15 @@ witness, its scholarly English, and a mechanical divergence list.
   follow Charles's reordering or his emendations without a note. Every 1 Enoch
   chapter from 37 on ends with a last note, **Source text**, carrying the credit
   line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
+- **Jubilees (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
+  (`ethiopic-eotc`), and verse numbers follow it. The second Ge'ez text
+  (`ethiopic`, Ran HaCohen's), the Latin and the Greek are the other witnesses;
+  the Greek lines are mostly short excerpts and summaries, not continuous text.
+  For meaning, use the OCP English (Latin, Greek) and Charles (all chapters);
+  never carry Charles's bracketed dates or his emendations into the text. Where
+  the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text, or
+  failing that the Latin, or failing that Charles, with a note naming the
+  source. Every chapter ends with the **Source text** note.
 
 ## The notes standard
 

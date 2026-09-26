@@ -78,6 +78,7 @@ the LPettay copy:
 | 2 Meqabyan | `5001-6000/LIT5840SecondEthioMaccabees.xml` | full text, 21 chapters |
 | 3 Meqabyan | `5001-6000/LIT5839ThirdEthioMaccabees.xml` | full text, 10 chapters, every chapter filled |
 | 1 Enoch | `1001-2000/LIT1340EnochE.xml`, edition `EOTCed` ("Text of the EOTC printed Bible") | full text, 108 chapters, 1,058 numbered verses; in `sources/ethiopic-eotc/` |
+| Jubilees | `1001-2000/LIT1697Jubilees.xml`, editions `EOTCed` and `Ran` | EOTC: 50 chapters and a 2-verse prologue, 1,292 numbered verses, none empty; in `sources/ethiopic-eotc/`. `Ran`: a second Ge'ez text, 1,139 verses; in `sources/ethiopic/` |
 
 **1 Enoch (Andrew, 2026-09-26):** 1 Enoch is rendered from the EOTC Ge'ez
 (`sources/ethiopic-eotc/1-enoch.txt`), which is the base text and sets the verse
@@ -87,6 +88,30 @@ share-alike terms above then apply to the 1 Enoch renderings. Converted from
 Beta Masaheft commit `90ab9cf` (2026-09-26); the XML is kept in
 `sources/betamasaheft-xml/`. Only the markup was removed; no word was altered.
 The EOTC numbering matches Knibb's in 69 of 71 chapters (not 21 and 28).
+
+**Jubilees (Andrew, 2026-09-26):** Jubilees is rendered from the EOTC Ge'ez
+(`sources/ethiopic-eotc/jubilees.txt`), which is the base text and sets the verse
+numbering, on the same terms as 1 Enoch: the share-alike terms above apply to the
+Jubilees renderings. Converted from Beta Masaheft commit `90ab9cf`; the XML is
+kept in `sources/betamasaheft-xml/`. Only the markup was removed; no word was
+altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
+
+- **The second Ge'ez text** (`sources/ethiopic/jubilees.txt`) is the file's `Ran`
+  edition: Ran HaCohen's transcription, from his *Biblia Veteris Testamenti
+  Aethiopica* site, released under the same licence. It has misspellings that
+  look like typing or OCR slips (4:5 *ጽሳተ* where the EOTC's word elsewhere is
+  *ጽላተ*), and repeats the numbers 26:26, 27:27 and 28:28. Use it to check the
+  EOTC and to fill its gaps, never silently over it.
+- **Gaps in the EOTC text as held here.** Chapter 4 jumps from verse 2 to verse
+  15: its verse 2 runs from Cain killing Abel straight into the end of 4:14
+  (Mahalalel's birth), and 4:3-14 are absent. The `Ran` text has 4:3-11 and
+  4:13-14. Verse 26:33 (Isaac's answer to Esau) is in neither Ge'ez text.
+  Chapter 1 skips the numbers 18 and 19, and chapter 11 has 24 verses to
+  Charles's 23. Whether a gap is in the printed Bible or in the transcription
+  cannot be checked from here.
+- The Latin and Greek witnesses (OCP, below) are numbered as in Charles, as far
+  as spot checks show (20:5, 30:1, 45:10). The EOTC's verse count matches
+  Charles's in 46 of the 50 chapters (not 1, 4, 11, 26).
 
 - LPettay's `3Meq` folder is **2 Meqabyan** mislabelled: its opening and closing
   words are identical to Beta Masaheft's Second Book. LPettay has no 3 Meqabyan.
@@ -125,6 +150,22 @@ His chapter 44 is missing from that copy. Charles's numbering differs from the
 EOTC's by one verse in chapters 8, 10, 15, 20, 21, 28, 40, 51, 68, 85, 89, 98
 and 100.
 
+## R. H. Charles's English of Jubilees (public domain)
+
+`sources/english/jubilees.charles.txt` is **R. H. Charles's English translation
+of Jubilees**. The copy does not say which of his editions it is; every one was
+published before 1929 and Charles died in 1931, so all are public domain. Used
+only for checking *meaning*, like his Enoch; it is not a witness.
+
+Taken from `github.com/scrollmapper/bible_databases_deuterocanonical`
+(commit `271173e`, `sources/en/book-of-jubilees/book-of-jubilees.md`, kept in
+`sources/charles-src/jubilees.md`). Converted to `chapter:verse<TAB>text`, 1,305
+verses. Two things to know:
+- The copy has 24:1 twice, once with Charles's date `[2073 A.M.]` and once
+  without; the first is kept.
+- Square brackets are Charles's own. Seventeen verses carry a year from creation
+  (`[2073 A.M.]`) that he worked out; it is not in any witness.
+
 ## How the OCP witnesses are built
 
 The Online Critical Pseudepigrapha publishes each book as XML in which a single
@@ -149,7 +190,7 @@ reason this rendering prints all of them together.
 | Book | Witnesses held here |
 |---|---|
 | **1 Enoch** | Greek (48 chapters), Ge'ez (71), Qumran Aramaic (8), Latin (3); plus the EOTC Ge'ez, all 108 chapters, from Beta Masaheft (see the exception above) |
-| **Jubilees** | Latin (34 chapters), Greek (26) |
+| **Jubilees** | Latin (34 chapters), Greek (26); plus the EOTC Ge'ez and a second Ge'ez text, all 50 chapters, from Beta Masaheft (see the exception above) |
 
 The texts come from the **Online Critical Pseudepigrapha**
 (<https://pseudepigrapha.org>, [source repository](https://github.com/OnlineCriticalPseudepigrapha/Online-Critical-Pseudepigrapha)),
