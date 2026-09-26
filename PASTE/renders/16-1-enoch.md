@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 79–81 (Enoch loop, run 13, 2026-09-26)
+
+**Landed:** 1 Enoch 79–81: Enoch closes the law of the stars for Methuselah (79); Uriel foretells the order breaking in the days of the sinners (80); Enoch reads the tablets of heaven, is set down at his own door, and is given one year to teach his children (81).
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 79:4 | "177 days… 25 weeks and 2 days" | as the Ge'ez (25 × 7 + 2 = 177; noted) |
+| 80:2 | *kərāmāt*, "rainy seasons" | the rainy seasons (Charles *years*; noted) |
+| 80:5 | *wa-yəbaṣṣəḥ ʿābar*, "and drought will come" | ***KEPT AS IS*** heaven will be seen, and drought will come… (noted) |
+| 81:1 | *ṣafṣafa samāy* | the tablets of heaven |
+| 81:3 | *wa-bakayku*, "and I wept" | I wept over the sons of Adam (Charles differs; noted) |
+| 81:5 | *śalastu*, "three" | Those three holy ones (Charles *seven*; noted) |
+| 81:8 | *məyyuṭ*, "one turned away" | the one who turns away |
+| 81:10 | *ʾƎgziʾa ʿālamāt* | the Lord of the ages (as 58:4) |
+
+**Checks:** verse counts equal the EOTC's (6, 8, 10); OT/NT quotations printed and checked.
+
+**Left standing on purpose:** 80:5, the Ge'ez as it stands.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 79–81).
+
 ## 1 Enoch 76–78 (Enoch loop, run 12, 2026-09-26)
 
 **Landed:** 1 Enoch 76–78: the twelve gates of the winds, four of blessing and eight of harm, closing with Enoch's first word to *my son Methuselah* (76); the names of the four quarters, the seven mountains, rivers and islands (77); the names of the sun and the moon, and the moon's month day by day (78).
