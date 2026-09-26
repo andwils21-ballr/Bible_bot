@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 103–104 (Enoch loop, run 23, 2026-09-26)
+
+**Landed:** 1 Enoch 103–104: Enoch's oath and the mystery read on the tablets of heaven, the good prepared for the righteous dead, the sinners' praise of their own dead, and the long complaint of the righteous (103); the answer: the angels remember them, their names are written, they will shine like the lights of heaven; the warning to the sinners; and the mystery of the books, their corruption and their faithful copying (104). Every verse compared with the Greek.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 103:2 | *ṣəḥfata qəddusān*, "the writing of the holy ones" | the writing of the holy ones (Greek *the holy writing*; noted) |
+| 103:8 | *marbabt*, "net" | a net (Greek *snare*; Charles *chains*; noted) |
+| 103:9 | *ʾitəbaləwwomu la-ṣādəqān*, "do not say to/of the righteous" | ***KEPT AS IS*** Do not say of the righteous (Greek *do not say, you righteous*; noted) |
+| 103:14 | *malāʾəkt*, "angels" | ***KEPT AS IS*** to the angels (Charles *rulers*; noted) |
+| 104:2 | *ḫoḫta samāy*, "the gate of heaven" | the gate of heaven (Greek *windows*; noted) |
+| 104:3 | *ʾəmna malāʾəkt*, "from the angels" | ***KEPT AS IS*** from the angels (Charles *rulers*; noted) |
+| 104:11 | *diba ləsānātihomu*, "in their languages" | in their languages (Greek *in their names*; noted) |
+| 104:13 | *yətḥaśśayu*, "they will be glad" | will be glad (Charles *recompensed*) |
+
+**Checks:** verse counts equal the EOTC's (15, 13); quotations printed and checked.
+
+**Left standing on purpose:** 103:9, 103:14, 104:3: the EOTC as it stands. At 103:14 and 104:3 the EOTC has *angels* where Charles has *rulers*; the EOTC's reading is kept both times and at 100:10.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 103–104).
+
 ## 1 Enoch 100–102 (Enoch loop, run 22, 2026-09-26)
 
 **Landed:** 1 Enoch 100–102: the day when fathers and brothers kill one another, the righteous guarded by angels, and the rain held back (100); the masters of the ships fear the sea, but the sinners do not fear the Most High (101); the terror of that day, comfort for the righteous dead, and the sinners' taunt, *As we die, the righteous die* (102). Every verse compared with the Greek.
