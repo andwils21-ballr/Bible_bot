@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 90 (Enoch loop, run 18, 2026-09-26)
+
+**Landed:** 1 Enoch 90, the end of the Dream Visions: the last shepherds and the birds of prey, the lambs and the great horn, the throne and the opened books, judgment on the stars, the shepherds and the blinded sheep, the old house folded up and a new one set in its place, and the white bull whose kind all creatures become.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *śalāsā wa-sabʿatu*, "thirty-seven" (EOTC) | thirty-five (the chapter's own count of seventy; Charles; noted; **case under choice #1 of the 72 report**) |
+| 5 | "fifty-eight times" | fifty-eight times (35 + 23; noted) |
+| 9 | *qarn ʿabiy*, "a great horn" | one great horn |
+| 10 | *dābēlāt*, "rams" | the rams |
+| 15 | *wəsta ṣəlālot*, "into the shadow" | fell into the shadow before His face |
+| 24 | *ʿəmuq*, "a deep (place)" | a deep place |
+| 28 | *ba-yamāna mədr*, "on the right of the land" | to the right of the land |
+| 34 | *wa-ʾiyāgmaromu*, "and it did not hold them" | it could not hold them |
+| 38 | *nagar*, "word" (EOTC) | became a word (Charles prints *a lamb*; noted) |
+
+**Checks:** verse count 42 = EOTC; the shepherd count checked (35 + 23 + 12 = 70; v5's 58 = 35 + 23); quotations printed and checked.
+
+**Left standing on purpose:** none.
+
+**Choices for you:** none new; 90:1 is another case under choice #1 of the 72 report. **For your attention:** 90:38 — the EOTC says the first of the white bulls *became a word, and that word became a great beast*. Charles, judging the text corrupt, prints *a lamb*. The English follows the EOTC and the note gives both.
+
 ## 1 Enoch 89 (Enoch loop, run 17, 2026-09-26)
 
 **Landed:** 1 Enoch 89, the heart of the Animal Apocalypse: Noah and the flood, Abraham to Joseph, the exodus, Sinai, the tabernacle, the judges, Saul, David and Solomon, the prophets and Elijah, the seventy shepherds, the fall of the temple and the return. 77 verses; one chapter this run.
