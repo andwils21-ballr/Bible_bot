@@ -2,6 +2,75 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 42–46 (Enoch loop, run 2, 2026-09-26)
+
+**Landed:** 1 Enoch 42–46: Wisdom's homelessness, the stars called by name, and the start of the second parable, where the Head of Days and the Son of Man first appear (46).
+
+### 1 Enoch 42: Wisdom Finds No Home
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾiraḫabat makāna*, "she did not find a place" | Wisdom found no place where she could live |
+| 2 | *wa-taṣaʿnat māʾəkala malāʾəkt*, "she was seated among the angels" | took her seat among the angels |
+| 3 | *ʾəmmazāgəbtihā*, "from her storehouses" | out of her storehouses |
+
+### 1 Enoch 43: The Stars by Name
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-yəsammǝʿəwwo*, "and they hear Him" | and they listen to Him |
+| 2 | *mabrəq mabrəqa yəwalləd… ba-ʾəlqʷa malāʾəktihomu* | ***KEPT AS IS*** lightning begets lightning, and their revolution is by the number of their angels (hard in both witnesses; noted) |
+| 4 | *məsla za-ziʾahomu*, "the likeness of what is theirs" | their likeness (the word behind *parable*; noted) |
+
+### 1 Enoch 44: Lightning from the Stars
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-ʾiyəklu ḫadiga məslēhomu*, "and cannot leave (from) with them" | and cannot leave them |
+
+### 1 Enoch 45: The Second Parable
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾəlla yəkəḥədu səmo la-māḫdara qəddusān wa-la-ʾƎgziʾa Manāfəst*, "who deny the name of the dwelling of the holy ones and of the Lord of Spirits" | ***KEPT AS IS*** those who deny the name of the dwelling of the holy ones and of the Lord of Spirits |
+| 2 | *la-ʿəlata śərāḥ wa-məndābē*, "for the day of toil and distress" | for the day of suffering and distress |
+| 3 | *wa-yaḫerri*, "and he will choose/test" | and will test their deeds (the Chosen One chooses; noted) |
+| 3 | *la-ʾəlla yəsakkəyu*, "those who appeal to" | those who call on My holy and glorious name |
+| 4 | *ʾanabbəro*, "I will seat him" (EOTC); Knibb adds "My Chosen One" | I will make him dwell among them (noted) |
+| 5 | *yabs*, "dry land" | the dry land |
+
+### 1 Enoch 46: The Head of Days and the Son of Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *za-lotu rəʾsa mawāʿəl*, "one to whom (was) a head of days" | One who had a head of days (the title of v2; noted) |
+| 1 | *mulʾa ṣaggā*, "full of grace" | full of grace |
+| 2 | *walda sabʾ* | the Son of Man (first form; noted) |
+| 2 | *Rəʾsa Mawāʿəl* (EOTC) / *Bəluya Mawāʿəl* (Knibb) | the Head of Days (Knibb's *Ancient of Days* noted) |
+| 3 | *wa-za-kəflu kʷəllo moʾa*, "and whose portion has conquered all" | his portion has prevailed |
+| 4 | *yanaśśəʾomu… ʾəmməskābātihomu*, "raise them from their resting places" | rouse… from their couches |
+| 5 | *ʾiyəgannəyu*, "they do not submit" | or humbly acknowledge |
+| 7 | *kʷəllo tagbāromu ʿamaḍā yārʾəyu wa-kʷəllu tagbāromu ʿamaḍā*, "all their deeds show wrongdoing, and all their deeds are wrongdoing" | ***KEPT AS IS*** the doubled clause (in both witnesses) |
+| 8 | *wa-yəsaddədu* (EOTC, "they drive out") / *wa-yəssaddadu* (Knibb, "they will be driven out") | They drive the faithful out of His houses of assembly (noted) |
+
+### Where the EOTC and Knibb's Ge'ez differ in meaning (all noted)
+
+- **45:4** the EOTC has *him*; Knibb names *My Chosen One*. Same figure.
+- **46:2** *Head of Days* (EOTC) / *Ancient of Days* (Knibb, Daniel's title).
+- **46:8** the kings persecute the faithful (EOTC) / the kings are driven out (Knibb).
+
+**For a later run:** at 62:5 the EOTC reads *walda bəʾəsit*, **son of a woman**, where the usual text has *son of a man*. `ENOCH_LOOP.md` now flags it so the run that reaches 62 notes it.
+
+### Left standing on purpose
+
+- **43:2** "lightning begets lightning… by the number of their angels": hard in both Ge'ez witnesses.
+- **45:1** "the name of the dwelling of the holy ones and of the Lord of Spirits": the Ge'ez phrase as it stands.
+- **46:7** "All their deeds show wrongdoing, and all their deeds are wrongdoing": the doubling is in both witnesses.
+
+### Choices for you
+
+None.
+
 ## 1 Enoch 37–41 (Enoch loop, run 1, 2026-09-26)
 
 **Landed:** 1 Enoch 37–41, the opening of the Parables (37–71). First chapters rendered from the EOTC Ge'ez as the base text; Knibb's Ge'ez compared verse by verse. Every chapter ends with the Source text credit.
