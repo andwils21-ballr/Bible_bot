@@ -2,6 +2,86 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 27–30 (routine fired 7:45 AM Central, 2026-09-26)
+
+**Landed:** Numbers 27, 28, 29, 30. Progress 171 → **175 of 1,554 (11.3%)**. Next is Numbers 31.
+
+### Numbers 27: The Daughters of Zelophehad
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *be-chet'o met*, "in his sin he died" | He died for his own sin |
+| 4 | *yiggara*, "be subtracted" | be taken away |
+| 5 | *mishpatan*, "their ruling" | their case |
+| 7 | *ken… dovrot*, "rightly… speaking" | are right in what they say |
+| 7 | *naton titten*, "giving you shall give" | You shall give |
+| 7 | *ve-ha'avarta*, "cause to pass over" | pass… on to them |
+| 8 | *ve-el benei Yisra'el tedabber*, "and to the sons of Israel you shall speak" | Say to the sons of Israel as well |
+| 11 | *le-chuqqat mishpat*, "for a statute of ruling" | a statute and a ruling |
+| 14 | *meritem pi*, "rebelled against My mouth" | rebelled against My command (as 20:24) |
+| 16 | *yifqod*, "appoint/muster" | appoint |
+| 17 | *yetse… yavo*, "go out… come in" | ***KEPT AS IS*** go out before them and come in before them (the note is built on it) |
+| 18 | *samakhta et yadkha*, "lean your hand" | lean your hand on him (as Leviticus 1:4) |
+| 19 | *ve-tsivvitah oto*, "command him" | give him his charge |
+| 20 | *me-hodkha*, "from your splendor" | some of your authority (noted) |
+| 21 | *mishpat ha-Urim* | the judgment of the Urim (as Exodus 28:30) |
+| 21 | *al piv*, "at his mouth" | At his word |
+
+### Numbers 28: The Offerings of the Year
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *qorbani lachmi le-ishai*, "My offering, My bread, for My fires" | My offering, My bread for My offerings by fire (*bread* as Leviticus 21:6) |
+| 2 | *tishmeru le-haqriv*, "keep to present" | take care to present |
+| 3 | *la-yom*, "for the day" | day by day |
+| 4 | *bein ha-arbayim* | ***KEPT AS IS*** between the evenings (as Exodus 12:6 and 29:41) |
+| 5 | *shemen katit* | beaten oil (as Exodus 29:40) |
+| 5, 7 | *revi'it ha-hin* | a fourth of a hin (as 15:4) |
+| 10 | *olat shabbat be-shabbato*, "the burnt offering of a sabbath in its sabbath" | the burnt offering of every sabbath |
+| 14 | *olat chodesh be-chodsho*, "burnt offering of a month in its month" | the burnt offering of every new moon, month by month |
+| 18 | *kol melekhet avodah*, "any work of labor" | no ordinary work (as Leviticus 23:7) |
+| 24 | *lechem ishsheh*, "bread of fire" | the bread of the offering by fire |
+| 26 | *bi-shvu'oteikhem*, "in your weeks" | at your Festival of Weeks |
+
+### Numbers 29: The Seventh Month
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yom teru'ah*, "a day of shouting" | a day of horn blasts |
+| 6 | *ke-mishpatam*, "according to their ruling" | according to the rule for them (as 15:24) |
+| 7 | *ve-innitem et nafshoteikhem*, "afflict your souls" | you shall afflict yourselves (as Leviticus 16:29) |
+| 12 | *ve-chaggotem chag*, "festival a festival" | keep a festival |
+| 18 etc. | *be-mispparam ka-mishpat*, "in their number, as the ruling" | by their number, according to the rule |
+| 35 | *atseret* | a closing assembly (as Leviticus 23:36) |
+| 40 | Hebrew 30:1 | kept as English 29:40 |
+
+### Numbers 30: Vows
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *le'sor issar al nafsho*, "to bind a binding on his soul" | to bind himself with a pledge |
+| 2 | *lo yachel devaro*, "not profane his word" | he shall not break his word (noted) |
+| 2 | *ke-khol ha-yotse mi-piv*, "as all that goes out of his mouth" | everything that has come out of his mouth |
+| 4 | *ve-hecherish lah*, "is silent to her" | says nothing to her |
+| 5 | *heni otah*, "restrains her" | forbids her |
+| 6 | *mivta sefateha*, "rash utterance of her lips" | a rash word from her lips |
+| 12 | *hafer yafer*, "annulling annuls" | annuls them |
+| 13 | *le'annot nefesh*, "to afflict a soul" | to afflict herself |
+| 14 | *mi-yom el yom*, "from day to day" | ***KEPT AS IS*** from day to day |
+| 15 | *ve-nasa et avonah*, "carry her guilt" | he shall carry her guilt (the Greek has *his sin*; noted) |
+
+### Left standing on purpose
+
+- **27:17** "go out before them and come in before them": the note connects it to David in 1 Samuel 18:16.
+- **28:4, 8** "between the evenings": the fixed phrase of Exodus 12:6 and 29:41.
+- **30:14** "from day to day": the husband's silence runs past the day he heard.
+
+### Choices for you
+
+None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21); *qeri* (21:32, 26:9); *elef*; Deuel or Reuel; the shekel wording; the optional Leviticus 23:11 note; and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+
+**Logged in NOTES_FOR_ANDREW.md:** English 29:40 is Hebrew 30:1, and English 30:1–16 is Hebrew 30:2–17. Swete's Greek follows the Hebrew numbering here.
+
 ## Numbers 23–26 (routine fired 3:01 AM Central, 2026-09-26)
 
 **Landed:** Numbers 23, 24, 25, 26. Progress 167 → **171 of 1,554 (11.0%)**. Next is Numbers 27.
