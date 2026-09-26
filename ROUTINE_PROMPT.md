@@ -35,7 +35,9 @@ Then:
    - Full judgment-call tables at the top of PASTE/renders/<order>-<slug>.md,
      one file per book (start a new book's file with its header).
    - A short chat reply with the progress count, "Left standing on purpose",
-     and "Choices for you", listing every verse for each choice.
+     and "Choices for you" (only this run's new choices, every verse listed;
+     older ones stay in their book's file and are not repeated). Put any
+     decision that could affect many books at the top of the reply.
    - Times in Central.
 
 Do not act on or write in PASTE/edits.md in a render cycle; only mention items

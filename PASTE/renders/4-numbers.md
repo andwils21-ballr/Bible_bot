@@ -78,7 +78,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 ### Choices for you
 
-None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21); *qeri* (21:32, 26:9); *elef*; Deuel or Reuel; the shekel wording; the optional Leviticus 23:11 note; and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21); *elef*; Deuel or Reuel; the shekel wording; the optional Leviticus 23:11 note; and the three Leviticus choices (moshav, 19:26 Greek, tevel).
 
 **Logged in NOTES_FOR_ANDREW.md:** English 29:40 is Hebrew 30:1, and English 30:1–16 is Hebrew 30:2–17. Swete's Greek follows the Hebrew numbering here.
 
@@ -167,7 +167,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 | 3 | *al Yarden Yerecho*, "on the Jordan of Jericho" | by the Jordan at Jericho |
 | 4 | no main verb | ***KEPT AS IS*** the sentence joins the command to the list (noted) |
 | 5 etc. | *le-Chanokh mishpachat ha-Chanokhi*, "to Hanoch, the clan of the Hanochite" | of Hanoch, the clan of the Hanochites |
-| 9 | *qeri'ei ha-edah* (written *qeru'ei*) | called to the congregation (the reading; see Choices, *qeri*) |
+| 9 | *qeri'ei ha-edah* (written *qeru'ei*) | called to the congregation (the read form) |
 | 9 | *hitsu*, "struggled" | fought against |
 | 10 | *va-yihyu le-nes*, "they became a banner" | they became a warning sign |
 | 29 | *holid*, "caused to be born" | fathered |
@@ -192,7 +192,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 ### Choices for you
 
 1. **Still open from yesterday: *mei niddah*,** "the water for impurity" (19:9, 13, 20, 21), or "the water of separation". I recommend "impurity".
-2. **Still open:** *qeri* (21:32 "drove out", and 26:9 "called", both follow the read form), *elef* (26:51 now points to the note on 1:16), Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+2. **Still open:** *elef* (26:51 now points to the note on 1:16), Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices (moshav, 19:26 Greek, tevel).
 
 **Logged in NOTES_FOR_ANDREW.md:** English 26:1 is Hebrew 25:19 plus 26:1.
 
@@ -250,7 +250,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 | 25 | *u-ve-khol benoteha*, "and in all its daughters" | and all its villages |
 | 27 | *ha-moshlim*, "the ones who speak sayings" | the singers of sayings |
 | 30 | *va-niram… va-nashim… asher* | ***KEPT AS IS*** We shot at them… we laid waste… which reaches (the Hebrew as written; the dotted letter and the Greek *fire* and *women* noted) |
-| 32 | written *vyyrsh*, read *vayyoresh* | drove out (the reading; see Choices, *qeri*) |
+| 32 | written *vyyrsh*, read *vayyoresh* | drove out (the read form) |
 | 35 | *ad bilti hish'ir lo sarid*, "until not leaving him a survivor" | until no survivor was left to him |
 
 ### Numbers 22: Balaam and the Donkey
@@ -293,7 +293,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
    - 19:21 "The one who sprinkles the water for impurity… the one who touches the water for impurity"
 
    The other option is "the water of separation", which matches Leviticus 15 but reads less plainly. My recommendation is to keep "impurity". The water removes the state; it doesn't cause a separation.
-2. **Still open:** *qeri* (21:32 follows the read form, "drove out"), *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
+2. **Still open:** *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
 
 ## Numbers 15–18 (routine fired 1:01 PM Central, 2026-09-25)
 

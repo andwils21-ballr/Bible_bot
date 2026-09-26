@@ -119,8 +119,14 @@ removed:
 - **The chat reply stays short:**
   - What landed, and the progress count.
   - **Left standing on purpose**: verse and one-line reason for each.
-  - **Choices for you**: for every choice, list every verse involved, with how
-    each one reads now, so he can check the context.
+  - **Choices for you**: only the choices new in this run. For every choice,
+    list every verse involved, with how each one reads now, so he can check the
+    context. Open choices stay in their own book's file (renders or changes)
+    and are **not** carried from book to book or repeated in later replies;
+    Andrew takes them up when he reaches that book (Andrew, 2026-09-26).
+  - **Widespread decisions go first.** Anything that could affect many books
+    (like the "And" rule) is raised at the top of the reply, as soon as it is
+    spotted, so it is settled before it spreads, not swept afterward.
 - A render cycle does not act on requests in `PASTE/edits.md`. It only mentions
   any items not yet checked off.
 
