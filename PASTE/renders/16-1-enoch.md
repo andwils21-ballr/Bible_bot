@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 57–60 (Enoch loop, run 5, 2026-09-26)
+
+**Landed:** 1 Enoch 57–60: the chariots on the winds close the second parable (57), the third parable opens with the righteous in the light of the sun (58), the secrets of lightning and thunder (59), and Noah's vision of Leviathan and Behemoth and the spirits of the weather (60).
+
+### 1 Enoch 57: The Chariots on the Winds
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-kona*, "and it was" | And it came to pass (the kept formula) |
+| 1 | *ʾəska manfaqa ʿəlat*, "until half the day" | until midday (Charles *to the south*; noted; **choice below**) |
+| 2 | *wa-ʿamda mədr taḥawsa ʾəm-manbaru*, "and the pillar of the earth moved from its seat" | the pillar of the earth was shaken from its place |
+| 2 | *ʾəm-ʾaṣnāfa samāy ʾəska ʾaṣnāfa samāy*, "from the ends of heaven to the ends of heaven" | from one end of heaven to the other (Knibb *earth… heaven*; noted) |
+
+### 1 Enoch 58: The Third Parable
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *səbuḥ kəfləkəmu*, "glorious is your portion" | your portion is glorious |
+| 4 | *ʾƎgziʾa ʿālam* | the Lord of the ages (as *King of the ages*, 12:3; noted) |
+| 5 | *kəfla hāymānot*, "the portion of faith" | the portion of faith |
+| 5 | *śaraqa*, "it rose (as the sun)" | it has risen like the sun |
+| 6 | *wa-ba-ḫʷəlqʷa mawāʿəl ʾiyəbawwəʾu*, "and into a number of days they will not enter" | their days will not be counted |
+
+### 1 Enoch 59: Lightning and Thunder
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ba-kama faqada*, "as He willed" | as the Lord of Spirits wills |
+| 2 | *ʾastarʾayani*, "he showed me" | He showed me the dwellings of the dry land (Charles differs; noted) |
+| 3 | *la-ṣəgāb*, "for fullness" | for plenty |
+
+### 1 Enoch 60: Leviathan and Behemoth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tādlaqalləq… dəlqəlqa ʿabiya*, "shook… a great shaking" | shook violently |
+| 1 | *tahawku ʿabiya hukata*, "were troubled a great trouble" | were thrown into great turmoil |
+| 3 | *ḥaqʷēya taqaṣʿa wa-tafatḥa*, "my loins broke and were loosed" | My loins gave way and went slack |
+| 6 | *ʿəlata ḫayl* (EOTC, "the day of power") / *ʿəlat wa-ḫayl* (Knibb, "the day and the power") | the day of power and punishment and judgment |
+| 6 | *la-ʾəlla yəsaggədu la-kʷənnanē ṣədq*, "for those who bow down to righteous judgment" | for those who bow down to the righteous judgment (Charles adds *not*; noted) |
+| 6 | *maḥalā… ḥatatā*, "an oath… an inquiry" | a covenant… an inquiry (both English renderings) |
+| 8 | *Dēndāyn* | Dendayn (Knibb *Dandayn*; noted) |
+| 8 | *ʾəm-ḥēwəya*, "my forefather" | my forefather (Enoch; noted) |
+| 10 | *walda sabʾ* | son of man (said to the seer; noted) |
+| 12 | *manāfəst*, "spirits" | the spirits (as in *Lord of Spirits*; noted) |
+| 12 | *wa-kama ḫayla ṣədq*, "and as a power of righteousness" | ***KEPT AS IS*** and how it is a power of righteousness |
+| 12, 13 | *kʷəllu kəfl yətkaffal*, "every division is divided" | how each is divided |
+| 14 | *məʿrāfāt ba-təʿgəśt la-qāla ziʾahu tawəhba*, "resting places, in patience to its voice it was given" | ***KEPT AS IS*** resting places; they are given to its voice with patience (Charles marks it corrupt; noted) |
+| 15 | *za-ḫoṣā*, "of sand" | like the sand |
+| 18 | *malʾaka ḥamadā… ba-ʾənta ʾəkaya ziʾahu* (EOTC) / *manfasa ḥamadā… ḫayla ziʾahu* (Knibb) | The angel of the snow has departed because of his wickedness (noted) |
+| 19 | *wa-malʾakā wəʾətu*, "and he is its angel" | ***KEPT AS IS*** and the spirit is its angel |
+| 21 | the sentence breaks off in both witnesses | ends with a dash |
+| 24 | *kama maqśaftu la-ʾƎgziʾabəḥer bak*, "that the punishment of the Lord… in vain" (no *not*) | so that the punishment of the Lord may not be in vain (*not* supplied from v25; noted) |
+
+### Where the EOTC and Knibb's Ge'ez differ
+
+Noted in the chapters:
+- **57:2** EOTC *from one end of heaven to the other*; Knibb *from the ends of the earth to the ends of heaven*.
+- **58:4** EOTC *there will be peace*; Knibb *peace to the righteous* (a greeting).
+- **60:8** the name: EOTC *Dēndāyn*, Knibb *Dandayn*.
+- **60:18** EOTC *the angel of the snow… because of his wickedness*; Knibb *the spirit of the snow… because of his strength*.
+
+Small, not noted:
+- **57:1** EOTC men riding *in* the chariots, on *the winds*; Knibb *on* them, on *the wind*.
+- **58:5** EOTC *the holy ones in heaven will be told*; Knibb *told to seek in heaven*.
+- **60:6** EOTC *the day of power*; Knibb *the day and the power*.
+- **60:14** EOTC *by the spirit of the two of them*; Knibb *not one; in spirit the two of them go*.
+- **60:16** Knibb adds *and strong* after *male*.
+
+### Checks this run
+
+- Verse counts equal the EOTC's: 57 (3), 58 (6), 59 (3), 60 (25).
+- Every Old and New Testament quotation in the notes was printed and checked. Genesis and Exodus are quoted in this project's own rendering.
+- Before commit: the Job 41:1 quotation was put back into its own words (a question); the 60:18 note now names *wickedness* by its adjective at 10:16, *every wicked deed*, the way that verse reads in this project.
+
+### Left standing on purpose
+
+- **60:12** "and how it is a power of righteousness": the Ge'ez phrase as it stands.
+- **60:14** "they are given to its voice with patience": the sense is uncertain; Charles marks the passage corrupt.
+- **60:19** "and the spirit is its angel": the Ge'ez as it stands.
+- **60:21** the sentence breaks off with a dash, as it does in both Ge'ez witnesses.
+
+### Choices for you
+
+**1. 57:1 — "until midday" or "to the south"?** The Ge'ez is *ʾəska manfaqa ʿəlat*, literally **until half the day**. The OCP's English gives *until midday*; Charles takes it as a direction beside *east* and *west* and gives *to the south*. The chapter has no Greek to check.
+- (a) **until midday** (in the text now): *…and they came on the winds from the east and from the west until midday.* v2 then ends *in one day*.
+- (b) **to the south**: *…and they came on the winds from the east, and from the west to the south.*
+- Recommendation: **(a)**. It is what the Ge'ez says, and v2's *in one day* keeps the verse about time. The note gives Charles's reading.
+
 ## 1 Enoch 51–56 (Enoch loop, run 4, 2026-09-26)
 
 **Landed:** 1 Enoch 51–56: the dead are given back and the Chosen One takes his throne (51), the mountains of metal melt before him (52), the valley that is never filled and the instruments for Satan (53), the chains for Azazel's hosts and the waters of the flood (54), the Head of Days' oath and the sign in the heavens (55), and the Parthians and Medes broken at the city of the righteous (56).
