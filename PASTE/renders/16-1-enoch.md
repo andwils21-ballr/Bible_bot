@@ -13,7 +13,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 100:6 | *maṣḥaf*, "book" | this book (Greek *epistle*; noted) |
 | 100:11 | *wa-ʾiyəḫelləyu diba ḫaṭiʾatkəmu*, with *not* | ***KEPT AS IS*** they will not be mindful of you because of your sins (Charles drops the *not*; noted) |
 | 100:12 | holds Charles's and the Greek's vv12–13 | EOTC numbering kept (noted) |
-| 101:1 | *ʿəluda samāy*, "children of heaven" | ***KEPT AS IS*** (Greek *children of men*; noted) |
+| 101:1 | *wəluda samāy*, "children of heaven" | ***KEPT AS IS*** (Greek *children of men*; noted) |
 | 101:3 | *ʾakkonu ʾantəmu za-tāstabaqʷʿəwwo*, "are you not the ones who will plead with Him" | will you not be the ones pleading with Him? (with the Greek; Charles reverses it; noted) |
 | 101:4, 9 | *nagaśta ʾaḥmār*, "kings of ships" | the masters of the ships |
 | 102:5 | *ba-ʿəlat ʾənta bāti konkəmu ḫaṭəʾāna*, "in the day in which you were sinners" | It was only that the days you lived in were days of sinners (**the Greek's sense followed; noted**) |
