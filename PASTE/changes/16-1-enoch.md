@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## 1 Enoch 93:14, closing quotation mark (2026-09-26, Enoch loop run 20)
+
+**Why:** Enoch's speech opens with a quotation mark at 93:3 and never closed it.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 93:14 | …and where all the lights rest? | …and where all the lights rest?" |
+
 ## 1 Enoch 1–36 checked against the EOTC Ge'ez (2026-09-26): three choices, ✅ decided
 
 **Why:** Andrew made the EOTC Ge'ez the base text of 1 Enoch (see `SOURCES.md`). Chapters 1–36 were rendered from Knibb's Ge'ez and the Greek, so every verse was compared with the EOTC. The two Ge'ez texts agree closely (median 93% letter-for-letter). Of 29 verses that differ most, 26 are spelling, name forms or where a verse ends, and change nothing in English. Three differences matter. Nothing has been changed yet.

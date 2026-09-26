@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Enoch 94–97 (Enoch loop, run 20, 2026-09-26)
+
+**Landed:** 1 Enoch 94–97, the Epistle's exhortation and first woes: the two paths and the woes on the builders of wrong and on the rich (94); Enoch's tears and the woes on cursers, false witnesses and persecutors (95); hope for the righteous and woes on those who live in plenty (96); the day of judgment and the boast of the rich (97). The Greek begins at 97:6. The lines numbered 97:1–5 in the Greek source file are not this chapter's text: they speak of the mountain of the oath and of 120 years. They were not used.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 94:5 | *kama yəgbaru ṭəbaba ʾəkuya*, "to make wisdom evil" | to treat wisdom wickedly |
+| 94:7 | *ba-kʷənnanē*, "in judgment" | Those who gain gold and silver in judgment (placement noted) |
+| 94:9 | *kəʿwata dam*, "shedding of blood" | the day of the shedding of blood (Charles *slaughter*; noted) |
+| 95:1 | *mannu yəhubanni*, "who will give me" | Oh that |
+| 95:7 | *ʾarʿuta ziʾahomu*, "their yoke" | their yoke (Charles *its*; noted) |
+| 96:3 | opening sentence also at 97:4 | ***KEPT AS IS*** You will not be like them… companions of the sinners (Charles lacks it; noted) |
+| 96:5 | *ḫayla šərwa nəqʿ*, "strength of the root of the spring"; *ḫaṭəʾān*, "sinners" | ***KEPT AS IS*** the EOTC (Charles *wine in large bowls*, *the lowly*; noted) |
+| 96:6 | *ba-kʷəllu gize*, "at every time" | at every hour (Charles *from every fountain*; noted) |
+| 97:4 | *dibehomu*, "against them" | ***KEPT AS IS*** a witness against them (noted) |
+| 97:6 | *ʿammaḍāhomu*, "their wrongdoing" | ***KEPT AS IS*** their wrongdoing (Greek and Charles *your*; noted) |
+| 97:9 | *ḥarasta ʾabyātina*, "the farmers of our houses" | the workers of our houses (Greek *many goods*; noted) |
+
+**Quotation marks:** the Epistle is Enoch's own writing, so 94–97 carry no quotation marks, as in 92. The quotation opened at 93:3 was never closed; it now closes at 93:14 (logged in the changes file).
+
+**Checks:** verse counts equal the EOTC's (11, 7, 8, 10); quotations printed and checked.
+
+**Left standing on purpose:** 96:3, 96:5, 97:4, 97:6: the EOTC as it stands.
+
+**Choices for you:** none new; choice #1 of the 72 report still open (no case in 94–97).
+
 ## 1 Enoch 91–93 (Enoch loop, run 19, 2026-09-26)
 
 **Landed:** 1 Enoch 91–93, the start of the Epistle of Enoch: Enoch's charge to his gathered children and the last three of the ten weeks (91); the title *What was written by Enoch* (92); the first seven weeks and the questions no man can answer (93). **Order:** the EOTC's order and numbering are kept; Charles's move of 91:12–17 to after 93:10 is not followed (noted at 91:12–17).
