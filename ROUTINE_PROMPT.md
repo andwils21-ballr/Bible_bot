@@ -27,6 +27,8 @@ Then:
 5. Readability pass on every chapter (CLAUDE.md section 2). Stay close to the
    text and clean it up in its own style: remove friction, never force. Never
    flatten a real difficulty; keep it and mark it ***KEPT AS IS*** in the report.
+   Before committing, search this run's new chapters for any sentence that
+   starts with "And" and fix every one not on the spec's kept list.
 6. Run `python3 build_site.py && python3 progress.py`. Commit
    `Render <Book> <first>–<last>` and push to main.
 7. Report exactly as CLAUDE.md section 5 says:
