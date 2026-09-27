@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 43–44 (Jubilees loop, run 21, 2026-09-27)
+
+**Landed:**
+- **Chapter 43:** the silver cup in Benjamin's sack; Judah offers himself in the boy's place; Joseph sees their hearts are one for good and makes himself known in Hebrew; the wagons, and Jacob's disbelief.
+- **Chapter 44:** Jacob keeps the Festival of Weeks at the Well of the Oath, sees God in a vision, and goes down to Egypt; the seventy souls of Jacob's house.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 43:3, 4, 5, 11, 13, 15, 16, 23, 24 | cut | [filled from Charles] (noted) |
+| 43:10 | Joseph's cup, without divining | kept (Genesis 44:5, 15 has divining; noted) |
+| 44:3, 5, 18, 33 | cut | [filled from Charles] (noted) |
+| 44:1 | "from Harran" | kept (Jacob lived at Hebron; noted) |
+| 44:12–30 | the names of the seventy | as Genesis 46 in this project; *Jashub* from Numbers 26:24; Jubilees-only names in the EOTC's form (noted) |
+| 44:13 | *wald-ā la-Finisawat* | the son of Finisawet (Genesis *the Canaanite woman*; noted) |
+| 44:20, 21 | the EOTC's own square brackets around Eri, Ishvi | rendered as plain text (noted) |
+| 44:28 | "six," with five names | kept (noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (24, 34).
+- 43:17: the second year of the famine, 2172 (42:1, 20).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 44:1 *Harran*; 44:28, six sons of Dan with five names.
+
+**Choices for you:** none new.
+
 ## Jubilees 41–42 (Jubilees loop, run 20, 2026-09-27)
 
 **Landed:**
