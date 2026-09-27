@@ -2,6 +2,36 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 12–13 (Jubilees loop, run 6, 2026-09-27)
+
+**Landed:**
+- **Chapter 12:** Abram argues with Terah against the idols, burns the house of idols at sixty, and Haran dies in the fire. Abram gives up reading the stars for rain and prays to God Most High. The call of Genesis 12 follows; the angel gives Abram back the Hebrew tongue, and Terah blesses him.
+- **Chapter 13:** Canaan, Bethel and Ai; the famine and Egypt, with Tanis built seven years after Hebron; Lot parts from Abram; the war of the kings; the tithe given to Melchizedek, made a law for the priests forever.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 12:4, 7, 12, 15, 17, 20, 22, 23, 27, 29 | cut | [filled from Charles] (noted) |
+| 12:12 | the burning of the idols missing | [filled from Charles; the Greek has it too] (noted) |
+| 12:22 | the call itself missing | [filled from Charles; Genesis 12:1–2] (noted) |
+| 12:15, 28 | *Karān* | Harran (the town, as the spec spells it) |
+| 12:25 | *wa-yəbelanni*, "said to me" | The Lord God said to me |
+| 12:30 | *mədra ʾadām*, "a pleasant land" | a land pleasant to your eyes |
+| 13:10, 14, 17, 19, 20, 21 | cut | [filled from the Latin] (noted) |
+| 13:1, 22, 25, 29 | cut | [filled from Charles] (noted) |
+| 13:6 | *libānos* | frankincense trees (Charles *date trees*; noted) |
+| 13:10 | *bo'a Lot* | Bealoth (with the Latin; noted) |
+| 13:22–23 | *Tergal*, *Sellasar*, *ʾAdām* | Tidal, Ellasar, Admah (as Genesis 14 in this project) |
+| 13:25 | the Melchizedek words, marked with an opening bracket in both Ge'ez texts | rendered, with the mark noted |
+
+**Checks:**
+- Verse counts equal the EOTC's (31, 29).
+- Abram's sixtieth year is 39 × 49 + 3 × 7 + 4 = 1936, sixty years after 1876.
+- Quotations printed and checked.
+
+**Left standing on purpose:** none new.
+
+**Choices for you:** none new.
+
 ## Jubilees 10–11 (Jubilees loop, run 5, 2026-09-26)
 
 **Landed:**
