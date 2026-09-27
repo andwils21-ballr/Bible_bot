@@ -597,6 +597,10 @@ work has seven books.
   left out: that volume's scan is too poor to read reliably. In the last
   installment (1927-28) Grébaut prints no section numbers; 43:5 onward are his
   paragraphs, counted in order.
+- Section 1 of chapters 1, 10, 20 and 37 was at first dropped with the
+  chapter's summary (the scan prints its "1." as "L", or runs it on from the
+  line before); restored 2026-09-27. Chapter 0 is Grébaut's opening line before
+  chapter 1 (*Au nom du Père… A dit Saint Clément*).
 - No Ge'ez text has been found in print; Gibson's *Apocrypha Arabica* (1901)
   has the Arabic Book I with English, not used here.
 
