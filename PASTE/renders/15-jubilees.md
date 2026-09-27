@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 45–46 (Jubilees loop, run 22, 2026-09-27)
+
+**Landed:**
+- **Chapter 45:** Jacob meets Joseph in Goshen; the famine years, Joseph buys Egypt for Pharaoh, and the fifth part; Jacob dies at 147 and is buried in the double cave, and gives his books and his fathers' books to Levi.
+- **Chapter 46:** Israel multiplies in peace while Joseph lives; Joseph dies at 110 and makes them swear about his bones; war between Egypt and Canaan, the bones of Jacob's sons buried at Hebron; a new king, and the bondage.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 45:8, 9, 10, 13, 14 | cut | [filled from the Latin] (noted) |
+| 45:5, 6 | cut | [filled from Charles] (noted) |
+| 45:11 | "the fourth week" | kept (the Latin has *fifth*; noted) |
+| 46:14 | cut | [filled from the Latin] (noted) |
+| 46:1, 2, 3, 6, 9 | cut | [filled from Charles] (noted) |
+| 46:10 | *ʾAbrām*, in both Ge'ez texts | Amram (the father of Moses; noted) |
+| 46:16 | *yāstarākwəsəwwomu*, "held them unclean" | held the sons of Israel to be unclean |
+
+**Checks:**
+- Verse counts equal the EOTC's (16, 16).
+- 45:1 is 2172, 45:11 is 2178, 45:13 is 2188; by 19:13 Jacob is 126 on arrival and 142 at death, where the text has 130 and 147, as Genesis (noted).
+- 46:8 is 2242, when Joseph, born 2134, is 108, where v3 has 110 (noted); 46:9 is 2263.
+- Quotations printed and checked.
+
+**Left standing on purpose:** 45:6, 45:13 and 46:3, the ages of Jacob and Joseph; 46:10, where the English says *Amram* against both Ge'ez texts.
+
+**Choices for you:** none new.
+
 ## Jubilees 43–44 (Jubilees loop, run 21, 2026-09-27)
 
 **Landed:**
