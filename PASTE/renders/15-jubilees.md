@@ -2,6 +2,33 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 29–30 (Jubilees loop, run 14, 2026-09-27)
+
+**Landed:**
+- **Chapter 29:** Jacob leaves Laban with his wives and children; the covenant at the Heap of Witness; the land of the Rephaim; the meeting with Esau at the Jabbok; Jacob settles beyond the Jordan and provides for Isaac and Rebekah at the tower of Abraham, while Esau takes his father's flocks to Seir.
+- **Chapter 30:** Dinah is carried off at Shechem; Simeon and Levi kill the men of the city; the angel makes it a law against giving or taking daughters from the nations, and names Levi's zeal as the reason his seed is chosen for the priesthood.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 29:9, 11, 12, 13, 18, 20 | cut | [filled from the Latin] (noted) |
+| 29:2, 3, 4 | cut | [filled from Charles] (noted) |
+| 29:8 | *fəśśəḥat*, "joy" | heap (with Charles and the Latin; noted) |
+| 29:9 | "the land of Raphael" | the land of the Rephaim (noted) |
+| 29:14 | *bāḥra Faḥaḥat* | the Sea of the Heap (Charles; the Latin has *the Salt Sea*; noted) |
+| 30:2, 3, 6, 7, 8, 14, 15, 17, 18 | cut | [filled from the Latin] (noted) |
+| 30:16 | cut; the Latin breaks off | [filled from Charles] (noted) |
+| 30:1 | *Salem* | kept (Genesis 33:18 *in one piece*; noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (20, 26).
+- 29:5 is 2135 and 29:14 is 2136; 30:1 is 2143.
+- 30:2: the Latin's *twelve years* for Dinah, where 28:23 gives a birth in 2134 and so an age of nine (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 29:8, where the English says *heap* against the EOTC's *joy*; 30:2, Dinah's age.
+
+**Choices for you:** none new.
+
 ## Jubilees 27–28 (Jubilees loop, run 13, 2026-09-27)
 
 **Landed:**
