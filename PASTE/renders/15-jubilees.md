@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 41–42 (Jubilees loop, run 20, 2026-09-27)
+
+**Landed:**
+- **Chapter 41:** Judah and Tamar (Genesis 38): Tamar an Aramean, Er and Onan's deaths, Judah's pledge, Perez and Zerah; Judah repents and is forgiven, and the law of burning for lying with a daughter-in-law.
+- **Chapter 42:** the famine; the brothers' first journey to Egypt and Simeon kept; Jacob's refusal; Reuben's and Judah's pledges; the second journey with Benjamin, and Joseph's plan with the silver cup.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 41:7, 8, 12, 15, 16 | cut | [filled from the Latin] (noted) |
+| 41:5, 25, 27 | cut | [filled from Charles] (noted) |
+| 41:7 | *Bedsuel* | kept; 34:20's bracket (from Charles) has *Betasuel*, the Latin *Bathshua* (noted) |
+| 41:11, 18 | *ḥəlqat*, "ring" | ring (Genesis 38:18 *seal*; noted) |
+| 42:2, 4, 5, 11, 13 | cut | [filled from the Latin] (noted) |
+| 42:19, 21, 22, 25 | cut | [filled from Charles] (noted) |
+| 42:20 | the gifts | as the Ge'ez names them (Genesis 43:11 differs; noted) |
+| 42:23 | "seven times" | kept (Genesis *five*; noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (28, 25).
+- 41:1 is 2165, 41:21 is 2170; 42:1 is 2171, 42:20 is 2172.
+- Quotations printed and checked.
+
+**Left standing on purpose:** 41:7 and 34:20, one woman spelled two ways (the EOTC's *Bedsuel* here; Charles's *Betasuel* in 34:20's bracket).
+
+**Choices for you:** none new.
+
 ## Jubilees 39–40 (Jubilees loop, run 19, 2026-09-27)
 
 **Landed:**
