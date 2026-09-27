@@ -2,6 +2,38 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 19–20 (Jubilees loop, run 9, 2026-09-27)
+
+**Landed:**
+- **Chapter 19:** Sarah dies and Abraham buys the double cave without a word of complaint, his tenth trial, and is written on the tablets of heaven as the friend of God. Isaac marries Rebekah, Keturah bears six sons, and Jacob and Esau are born. Abraham sees Esau's ways, charges Rebekah to guard Jacob, and blesses Jacob himself.
+- **Chapter 20:** Abraham gathers all his sons and grandsons and commands them to do righteousness, keep circumcision, flee fornication and idols, and marry no Canaanite; he sends the sons of Ishmael and Keturah east, where they become the Arabs.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 19:3, 5, 6, 9, 16, 20, 21 | cut | [filled from the Latin] (noted) |
+| 19:27, 30 | cut | [filled from Charles] (noted) |
+| 19:30 | *Go in peace, my son* missing | [filled from Charles]; Abraham's closing quotation mark sits inside the bracket |
+| 19:10 | *wa-Batuʾel waladomu la-Batuʾelāwiyān*, run together | the sense of the Latin and Charles (noted) |
+| 19:10 | *Melka* | Milcah (as Genesis 22:20 in this project) |
+| 19:25, 27 | *maṣnaʿāt* | expanse (fixed term) |
+| 20:8, 9, 10, 13 | cut | [filled from the Latin] (noted) |
+| 20:2 | *ṣabʾ*, "war, strife" | strife (Charles *among all men*; noted) |
+| 20:5 | *raʿayt* | the giants (with Charles) |
+| 20:6 | *la-təmkəḥt*, the word rendered "glory" at 19:17 | a hissing (with the Latin and Charles; noted) |
+| 20:12 | *Farmon* | Paran (noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (31, 13).
+- 19:2 is 2024 and 19:7 is 98 + 28 + 1 = 127, as Genesis 23:1 (the Latin's *minus one year* would give 125; noted).
+- 19:10 is 2027: Isaac, born 1987, is forty, as in Genesis 25:20.
+- 19:13 is 2046: Isaac is fifty-nine, where Genesis 25:26 and the Greek have sixty (noted).
+- 20:1 is 2052, which makes Abraham 176 by 11:15; Genesis gives him 175 years in all (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 20:6, where the English follows the Latin and Charles against the EOTC's word, and says so in a note.
+
+**Choices for you:** none new.
+
 ## Jubilees 16–18 (Jubilees loop, run 8, 2026-09-27)
 
 **Landed:**
