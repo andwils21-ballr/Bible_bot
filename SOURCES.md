@@ -416,3 +416,28 @@ Platt."
   verse may run into its neighbour. Harden's chapters 4 and 5 fall in one section
   of Platt's (filed under 4), and two of Platt's sections make Harden's chapter
   17. Chapters 24-43 have no Ge'ez here.
+
+### 2nd Book of the Covenant — Guerrier and Grébaut 1913 (public domain)
+
+**L. Guerrier with S. Grébaut, *Le Testament en Galilée de Notre-Seigneur
+Jésus-Christ*, Patrologia Orientalis 9, fasc. 3 (Paris: Firmin-Didot, 1913)**,
+archive.org `patrologia-orientalis_202105`, file `9.pdf`, PDF pages 186-241
+(fascicle pp. [37]-[92]). Guerrier died in 1933 (BnF) and Grébaut in 1955, so
+the edition is public domain in the United States and in Europe. Cowley: the
+second part of the Book of the Covenant, "a discourse of our Lord to his
+disciples in Galilee after his resurrection," "has been printed as L. Guerrier
+and S. Grébaut, *Le Testament en Galilée*."
+
+- `sources/french/2-covenant.guerrier.txt`: Guerrier's French translation.
+  Chapter = his section, 0 (prologue) to 62, located by the titles in his table
+  of contents; verse = paragraph. His variant apparatus and footnotes are left
+  out. OCR'd and corrected only where one French word fits; misreadings remain,
+  especially in the small-capital section titles.
+- `sources/ethiopic-ocr/2-covenant.txt`: his Ethiopic text (manuscript C with
+  variants from A, B, D), uncorrected OCR. The Ge'ez carries no section numbers,
+  so each printed page is filed under every section whose French is on that page
+  (`[p. N]` is the fascicle page); a section's first and last verse may run into
+  its neighbour.
+- His part 1 (sections 1-11) is the apocalypse spoken in Galilee; parts 2-4 are
+  the text known elsewhere as the *Epistle of the Apostles*. Both are the second
+  Book of the Covenant as the manuscripts give it.
