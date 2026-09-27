@@ -2,6 +2,46 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 16–18 (Jubilees loop, run 8, 2026-09-27)
+
+**Landed:**
+- **Chapter 16:** the angels at Mamre name Isaac; Sodom is judged and Lot's seed condemned; Isaac is born at the festival of first fruits and circumcised; Abraham keeps the first Festival of Booths, with the seven spices, the wreaths and the palm branches, and it is made a law for Israel.
+- **Chapter 17:** Isaac is weaned; Hagar and Ishmael are sent away, and Ishmael's son Nebaioth is born; in heaven the prince Mastema challenges Abraham's faithfulness.
+- **Chapter 18:** the binding of Isaac, with Mastema watching and put to shame; the mountain is named Zion; Abraham keeps a seven-day festival for the days he went and returned.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 16:5, 16, 17, 20, 23 | cut | [filled from the Latin] (noted) |
+| 16:5 | the start of the Latin's fill is broken | *even as I have told you* from Charles (noted) |
+| 16:2 | cut | [filled from Charles] (noted) |
+| 16:8 | *wa-lattu*, "his daughter" | his daughter (Charles, Latin *daughters*; noted) |
+| 16:11, 15 | *ʿazaqta maḥalā* | the Well of the Oath (Beersheba; noted) |
+| 16:13 | "third month" | kept (the Latin has *seventh*; noted) |
+| 16:16 | *wa-bārakənāhā*, "we blessed her" | kept (Charles, Latin *him*; noted) |
+| 16:21, 29 | *baʿāla maṣallat* | the Festival of Booths (as Leviticus 23:34 in this project) |
+| 16:24 | *māya ləbn*; *sanbalt* | stacte; spice (noted) |
+| 16:26 | *ʾəsma ʾaʾmara*, "for he knew" | he, Abraham, with the Latin (Charles *He*; noted) |
+| 17:3, 4 | cut | [filled from the Latin] (noted) |
+| 17:12, 15, 16, 17 | cut | [filled from Charles] (noted) |
+| 17:4, 6, 7 | *walatt* | slave woman (as Genesis 21 in this project) |
+| 17:13 | *lomu*, "for them" | for him (noted) |
+| 18:15, 16, 17 | cut | [filled from the Latin] (noted) |
+| 18:3, 5, 6, 7 | cut | [filled from Charles] (noted) |
+| 18:2 | *mədra ləʿəlt* | the high land (Genesis *Moriah*; noted) |
+| 18:9, 11 | *ʾaʾmarku*, "I know" | kept (Charles, Latin *I have shown*; noted) |
+| 18:10 | "Abraham" once | kept (Charles, Latin twice; noted) |
+| 18:11, 15 | *bakwraka*, "your firstborn" | kept (noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (31, 18, 19).
+- 16:15 is 1987, the year of Isaac's birth, yet 16:16 finds Sarah with child in its seventh month, after the birth in the third. Left as the text has it, and noted.
+- 17:1 is 1989 (Isaac two); 17:15 is 2003, which makes Isaac sixteen, while the Greek has twenty-five (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 16:15–16, the visit that finds Sarah with child after Isaac's birth.
+
+**Choices for you:** none new.
+
 ## Jubilees 14–15 (Jubilees loop, run 7, 2026-09-27)
 
 **Landed:**
