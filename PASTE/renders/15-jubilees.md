@@ -2,6 +2,36 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 23–24 (Jubilees loop, run 11, 2026-09-27)
+
+**Landed:**
+- **Chapter 23:** Abraham dies with Jacob asleep in his bosom and is buried in the double cave. The angel then foretells the shortening of men's days, an evil generation that forgets the covenant and the calendar, invasion by the nations, and a turn when the children search the law and life lengthens toward a thousand years; Moses is told to write it down.
+- **Chapter 24:** Esau sells his birthright; Isaac in Gerar, the wells and their names, the dry well that follows his oath to the Philistines, and his curse on them.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 23:9, 10, 11, 13, 15, 16, 17, 18 | cut | [filled from the Latin] (noted) |
+| 23:1, 3, 4, 6, 7, 30, 31 | cut | [filled from Charles] (noted) |
+| 23:9 | the Latin's first words confused | the bracket follows Charles's sense there (noted) |
+| 23:25 | "a child three weeks old" | kept (a *week* is seven years elsewhere; noted) |
+| 23:30 | "He will drive out His enemies" | kept (Charles *they… their adversaries*; noted) |
+| 24:15, 17, 18, 19, 23, 25, 28, 30, 31, 32 | cut | [filled from the Latin] (noted) |
+| 24:3, 10, 11 | cut | [filled from Charles] (noted) |
+| 24:3, 6 | *sərnāy*, "wheat" | red (with Charles, as the name Edom needs; noted) |
+| 24:2 | "in the year of the fourth week", no number | In the fourth week (noted) |
+| 24:19, 20 | the wells' names | Hardship (Latin), Narrow (*Ṣabāb*), Room (*Səfuḥ*) (noted against Genesis 26) |
+| 24:26 | *ʿaqābihu*, "his keeper" | the commander of his army (as Genesis 26:26 in this project) |
+
+**Checks:**
+- Verse counts equal the EOTC's (32, 33).
+- 23:8 is 147 + 28 = 175.
+- 24:1 is 2122 and 24:17 is 2150 in the forty-fourth jubilee, but 24:21 puts Isaac at the Well of the Oath in the first year of that same jubilee, 2108, before both (noted; Charles's English agrees with the EOTC).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 24:21's date; 24:3 and 6, where the English follows Charles's *red* against the EOTC's *wheat*.
+
+**Choices for you:** none new.
+
 ## Jubilees 21–22 (Jubilees loop, run 10, 2026-09-27)
 
 **Landed:**
