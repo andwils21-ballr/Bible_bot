@@ -105,7 +105,7 @@ altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
 - **Gaps in the EOTC text as held here.** Chapter 4 jumps from verse 2 to verse
   15: its verse 2 runs from Cain killing Abel straight into the end of 4:14
   (Mahalalel's birth), and 4:3-14 are absent. The `Ran` text has 4:3-11 and
-  4:13-14. Verse 26:33 (Isaac's answer to Esau) is in neither Ge'ez text.
+  4:13-14. Verse 26:33 (Isaac's answer to Esau) is in neither Beta Masaheft text; the Asmara printing has it.
   Chapter 1 skips the numbers 18 and 19, and chapter 11 has 24 verses to
   Charles's 23. Whether a gap is in the printed Bible or in the transcription
   cannot be checked from here.
@@ -113,7 +113,7 @@ altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
   are cut to under half of what Charles translates, in both Ge'ez texts and in
   nearly every chapter: 3:5-6 has Adam sleep and wake with no rib and no woman
   made, 3:20-21 never has the fruit eaten, 22:4 stops at *before Ishmael his
-  brother*. The rendering fills them in brackets (see the spec's Jubilees rule).
+  brother*. The rendering now gives them from the Asmara printing (see below and the spec's Jubilees rule); brackets remain only where no Ge'ez text here has the words (all repaired 2026-09-27; record in `PASTE/changes/15-jubilees.md`).
 - **Correction (2026-09-27): the "cut verses" are losses in the digitization,
   not in the Ge'ez.** A third, complete Ge'ez text (below) has the words in
   every cut verse checked (3:5-6, the rib; 47:4, Miriam and the birds; 47:10,
