@@ -2,6 +2,31 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 37–38 (Jubilees loop, run 18, 2026-09-27)
+
+**Landed:**
+- **Chapter 37:** after Isaac's death Esau's sons force him to break his oath; he hires Aram, Moab, Ammon, Philistia, Edom, the Horites and the Kittim and marches on Jacob's tower; Esau answers Jacob with a string of impossible things.
+- **Chapter 38:** pressed by Judah, Jacob shoots Esau; his sons rout the army on the four sides of the tower; Edom is put under tribute; the kings of Edom (Genesis 36).
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 37:1, 3 | cut | [filled from the Latin] (noted) |
+| 37:10, 14, 17, 18, 20, 21, 22, 23, 24 | cut | [filled from Charles] (noted) |
+| 37:20 | Charles's last sentence breaks off | given as a plain statement (noted) |
+| 37:23 | *rāzā* | kept untranslated, as Charles (noted) |
+| 38:2, 8, 9 | cut | [filled from the Latin] (noted) |
+| 38:8 | *ʾEnok*, Reuben's son | Hanoch (as Genesis 46:9 in this project) |
+| 38:16–23 | the EOTC's forms of the Edomite kings | the names as in Genesis 36 in this project (noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (25, 24).
+- No dates in these chapters.
+- Quotations printed and checked.
+
+**Left standing on purpose:** none new.
+
+**Choices for you:** none new.
+
 ## Jubilees 35–36 (Jubilees loop, run 17, 2026-09-27)
 
 **Landed:**
