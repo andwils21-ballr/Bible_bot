@@ -94,6 +94,12 @@ def main():
     elif tier == "none":
         print("Per RENDERING_SPEC.md write the (NEED SOURCE TO TRANSLATE) stub\n"
               "and move on to the next renderable book. Do not attempt the text.")
+        import glob
+        found_tr = glob.glob(os.path.join(ROOT, "sources", "*", slug + ".*.txt"))
+        if found_tr:
+            print("(Source files for this book have been found and are listed in\n"
+                  "SOURCES.md; the book stays tier 'none' until Andrew sets its tier\n"
+                  "and chapters in manifest.json.)")
     else:
         print("This book is tier 'source' but has no source file — that is a\n"
               "gap in fetch_sources.py, not a licence to render from memory.\n"

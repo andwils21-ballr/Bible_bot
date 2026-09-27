@@ -383,3 +383,27 @@ Schodde translated Fell's text.
   Canons", not printed (this is Abtilis, see below); and *30 decrees of the
   apostles given through Clement*, extant in Arabic and in a Syriac version in
   27 decrees printed by Lagarde (1856) (this is Sirate Tsion, see below).
+
+### Didascalia — Harden 1920 and Platt 1834 (public domain)
+
+**J. M. Harden, *The Ethiopic Didascalia* (London: SPCK, 1920)**, archive.org
+`cu31924096083336` (Cornell's scan: two book pages per image, every other image
+blank; all 188 printed pages of the translation are present). Harden died in
+1931. Cowley: "Complete English translation in J. M. Harden, *The Ethiopic
+Didascalia*, London 1920."
+
+- `sources/english/didascalia.harden.txt`: Harden's translation. Chapter =
+  Harden's chapter, 1 to 43; verse = his paragraph (verse 1 is the chapter's
+  title). His references to the Greek *Apostolic Constitutions* (`[ii., 57.]`)
+  are kept at the head of paragraphs; his footnotes (variant readings) are left
+  out. OCR'd with each two-page image split in two; the letter confusions of
+  this print (*c* for *e*, *y* for *g*) were corrected only where one English
+  word fits, and the rest checked against archive.org's own OCR. A few OCR slips
+  remain (roughly one word in 500); read with the page when a word matters.
+
+**T. P. Platt, *The Ethiopic Didascalia* (London: Oriental Translation Fund,
+1834)**, archive.org `ethiopicdidascal00platrich`. Platt died in 1852. Ge'ez text
+with his English below it on each page, in 22 sections that cover Harden's
+chapters 1 to about 23 (Platt's section numbering differs from Harden's: his
+section X is Harden's chapter XII). Cowley: "Incomplete text and translation in
+T. P. Platt."
