@@ -2,6 +2,33 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 39–40 (Jubilees loop, run 19, 2026-09-27)
+
+**Landed:**
+- **Chapter 39:** Joseph in Potiphar's house; he refuses Potiphar's wife, remembering the law against adultery that Jacob read from the words of Abraham; prison; the cupbearer and the baker.
+- **Chapter 40:** Pharaoh's dreams; Joseph made second in the kingdom, a just ruler with no Satan in the land; his name and marriage; the seven years of plenty.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 39:9, 11, 12, 17 | cut | [filled from the Latin] (noted) |
+| 39:2, 3, 5, 6, 10 | cut | [filled from Charles] (noted) |
+| 39:8 | "one year and a second" | kept (Charles *a year*; noted) |
+| 40:3, 7, 8 | cut | [filled from the Latin] (noted) |
+| 40:8, 10 | cut | [filled from Charles] (noted) |
+| 40:3–4 | Joseph's words begin in the bracket | the opening quotation mark sits inside it (noted) |
+| 40:10 | *Sefānṭifānəs* | Zaphenath-paneah (as Genesis 41:45 in this project; noted) |
+| 40:10 | Charles's *Heliopolis* | On (as Genesis 41:45) |
+
+**Checks:**
+- Verse counts equal the EOTC's (18, 13).
+- 39:2: Joseph *seventeen* at his sale, as Genesis 37:2; 34:10 gave fifteen (noted).
+- 40:11–12: Joseph thirty in the year of Isaac's death, where 36:1 and 28:24 give twenty-eight (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 39:2 and 40:12, Joseph's ages.
+
+**Choices for you:** none new.
+
 ## Jubilees 37–38 (Jubilees loop, run 18, 2026-09-27)
 
 **Landed:**
