@@ -536,3 +536,26 @@ Horovitz died in 1931. He prints Ge'ez excerpts from the Frankfurt manuscript
   3:28 are not in the excerpts: their EOTC text (ወቦቱ, ወመጽኡ) is one word and
   matched other passages, which were checked and rejected. Its orthography is
   the Frankfurt manuscript's, not the EOTC's.
+
+### Qalementos — Grébaut 1911-1928 (French)
+
+**S. Grébaut, "Littérature éthiopienne pseudo-clémentine. III. Traduction du
+Qalêmentos," *Revue de l'Orient chrétien* 16 (1911) to 26 (1927-28)**,
+archive.org `revuedelorientch161911pari` and the following volumes. Grébaut
+died in 1955; the volumes are public domain in the United States (published
+before 1931) and in Europe from 2026. He translated the d'Abbadie manuscript
+78 and stopped partway through Book III ("à suivre", never continued): the
+work has seven books.
+
+- `sources/french/qalementos.grebaut.txt`: his translation, from archive.org's
+  OCR of each volume, corrected only where one French word fits. Chapter =
+  Grébaut's chapter numbered straight through the books: Book I chapters I-XXIV
+  = 1-24, Book II I-IX = 25-33, Book III I-X = 34-43. Verse = his numbered
+  section (verse 1 of a section begins with his section title).
+- Gaps: chapter 25 (Book II ch. I) is missing: its first page (ROC 17, p. 244)
+  is absent from the scan. Chapter 40 (Book III ch. VII, ROC 21, 1918-19) is
+  left out: that volume's scan is too poor to read reliably. In the last
+  installment (1927-28) Grébaut prints no section numbers; 43:5 onward are his
+  paragraphs, counted in order.
+- No Ge'ez text has been found in print; Gibson's *Apocrypha Arabica* (1901)
+  has the Arabic Book I with English, not used here.
