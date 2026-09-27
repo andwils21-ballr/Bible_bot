@@ -518,3 +518,21 @@ PDF pages 20-34. Dillmann died in 1894.
   the same letter (ለ/ሰ, ን/ነ).
 - HaCohen's file runs some verses together with the number inline (15:9 holds
   15:10, "10 [ወእሁብ ..."); it is not missing them.
+
+## 1 Meqabyan: Horovitz's excerpts, 1905 (public domain)
+
+**J. Horovitz, "Das äthiopische Maccabäerbuch," *Zeitschrift für Assyriologie*
+19 (1905-06), pp. 194-233**; archive.org `dedupmrg1016100231_IE146043324-5-47`.
+Horovitz died in 1931. He prints Ge'ez excerpts from the Frankfurt manuscript
+(Rüppell II 7) with a German translation.
+
+- `sources/ethiopic-ocr/1-meqabyan.txt`: his Ge'ez, uncorrected OCR (see *OCR
+  Ge'ez* above), keyed to the EOTC verses where the EOTC's opening words are
+  found in it: 1:12-4:18 (pp. 196-204) and 17:4-19:6 (pp. 218-219). A verse
+  whose opening could not be placed is joined to the verse before.
+- **Cut verses.** It completes four of the twenty (see above): 2:27 "two men"
+  (ክልኤቱ፡ አደው), 3:31 the brothers "together" (ኅቡረ), 4:5 "for the bodies
+  of the five martyrs" (ለኃምስቲሆሙ፡ ሰማዕት), 4:8 "the five martyrs". 2:2 and
+  3:28 are not in the excerpts: their EOTC text (ወቦቱ, ወመጽኡ) is one word and
+  matched other passages, which were checked and rejected. Its orthography is
+  the Frankfurt manuscript's, not the EOTC's.
