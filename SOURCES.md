@@ -305,6 +305,11 @@ manuscript metadata:
   Clarendon, 1895); A.-M. Denis, *Fragmenta pseudepigraphorum quae supersunt
   graeca* (PVTG 3; Leiden: Brill, 1970)
 
+The OCP also supplies the witnesses held for **Ezra Sutuel** (4 Ezra, chapters
+3-14): the Latin, edited by David M. Miller, and the Syriac, edited by Andy Chi
+Kit Wong, each with the OCP's English; and the Greek of **4 Baruch** with its
+English. The same licence and credit apply.
+
 CC BY 4.0 asks one thing: that this credit stays with the text. It places no
 condition on the renderings or the notes in this repository, which are original
 work, and none on what is done with them.
@@ -441,3 +446,32 @@ and S. Grébaut, *Le Testament en Galilée*."
 - His part 1 (sections 1-11) is the apocalypse spoken in Galilee; parts 2-4 are
   the text known elsewhere as the *Epistle of the Apostles*. Both are the second
   Book of the Covenant as the manuscripts give it.
+
+## Ezra Sutuel: the Ge'ez, from Dillmann 1894 (public domain)
+
+**A. Dillmann, *Veteris Testamenti Aethiopici Tomus Quintus, quo continentur
+Libri Apocryphi* (Berlin: Asher, 1894)**, pp. 153-192, the book headed ዕዝራ፡ ነቢይ
+("Ezra the prophet"); archive.org `veteristestamen00dillgoog`, PDF pages
+162-201. Dillmann died in July 1894. He edited it from ten manuscripts (his
+list, p. 192) and printed it with verse numbers.
+
+- `sources/ethiopic-ocr/ezra-sutuel.txt`: his Ge'ez, uncorrected OCR (see *OCR
+  Ge'ez* above), in the Latin chapter and verse numbers the other witnesses use.
+  Dillmann's chapters I-IV are Latin 3-6; he divides Latin 7 into V (7:1-35),
+  VI (7:36-105) and VII (7:106-139); VIII-XIV are Latin 8-14. His verses match
+  the Latin one for one, checked by content, with one exception: he splits
+  Latin 7:104 in two (his VI:69-70, joined here as 7:104), so his VI:71 is
+  7:105.
+- Each page's two columns were read separately. The verse numbers were found as
+  small raised numerals on the page, read, and checked in sequence; every
+  doubtful one was checked on the page image.
+- Where the Ethiopic has a gap, Dillmann prints dots, and so does this file
+  (`...`): 3:16 and 5:48 are dots only; 3:17, 3:36, 4:29, 6:5, 6:9, 7:51-52,
+  9:35, 9:38 and 10:55 have dots in them. He has no verses 9:36-37, and prints
+  no number 40 in Latin chapter 9: 9:40 here begins at ወእቤላ, where the Latin
+  verse begins.
+- 5:56 is his, numbered as the Syriac numbers it (the Latin has it as the end
+  of 5:55). 14:48 is the Ethiopic ending, which the Latin lacks.
+- No English translation of the Ethiopic is held here. Laurence's (1820, from
+  one manuscript, Dillmann's L) could not be downloaded: Google Books refused
+  and HathiTrust blocks downloads. For meaning, use the Latin and Syriac English.

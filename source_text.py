@@ -21,7 +21,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 
 def last_chapter(path):
     with open(path, encoding="utf-8") as f:
-        return max(int(line.split(":", 1)[0]) for line in f if ":" in line)
+        # a chapter key may carry a letter (the Latin's '8b', the Confession of Ezra)
+        return max(int(c) for c in (line.split(":", 1)[0] for line in f if ":" in line)
+                   if c.isdigit())
 
 
 def main():
@@ -32,6 +34,12 @@ def main():
     books = json.load(open(os.path.join(ROOT, "manifest.json"),
                            encoding="utf-8"))["books"]
     book = next((b for b in books if b["slug"] == slug), None)
+
+    # A tier-none book gets the stub whatever files exist: its sources are being
+    # gathered (SOURCES.md) and it waits for Andrew to set a tier and chapters.
+    if (book or {}).get("tier") == "none":
+        _none_stub(slug)
+        return
 
     # Some books are a slice of another book's source (Reproof = Proverbs 25-31).
     lookup_slug = (book or {}).get("source_book", slug)
@@ -62,7 +70,9 @@ def main():
             print()
             found = True
             continue
-        print(f"# {label} — {lang} source")
+        note = (" (machine-read, not proofread: check names, numbers and the shape"
+                " of a passage only; never quote it — see SOURCES.md)") if lang == "ethiopic-ocr" else ""
+        print(f"# {label} — {lang} source{note}")
         for vs, text in sorted(rows, key=lambda r: _vkey(r[0])):
             print(f"{vs}\t{text}")
         print()
@@ -91,19 +101,23 @@ def main():
               "translations, NOT from the Ge'ez and NOT from memory. Say which\n"
               "tradition you are following in the first note of chapter 1.")
         _english(slug, lookup_chapter)
-    elif tier == "none":
-        print("Per RENDERING_SPEC.md write the (NEED SOURCE TO TRANSLATE) stub\n"
-              "and move on to the next renderable book. Do not attempt the text.")
-        import glob
-        found_tr = glob.glob(os.path.join(ROOT, "sources", "*", slug + ".*.txt"))
-        if found_tr:
-            print("(Source files for this book have been found and are listed in\n"
-                  "SOURCES.md; the book stays tier 'none' until Andrew sets its tier\n"
-                  "and chapters in manifest.json.)")
     else:
         print("This book is tier 'source' but has no source file — that is a\n"
               "gap in fetch_sources.py, not a licence to render from memory.\n"
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
+
+
+def _none_stub(slug):
+    import glob
+    found = glob.glob(os.path.join(ROOT, "sources", "*", slug + ".*txt"))
+    if found:
+        print(f"'{slug}' is tier 'none'. Source files for it have been found (see\n"
+              "SOURCES.md), but the book stays tier 'none' until Andrew sets its\n"
+              "tier and chapters in manifest.json.")
+    else:
+        print(f"NO SOURCE-LANGUAGE FILE for '{slug}' (tier: none).")
+    print("Per RENDERING_SPEC.md write the (NEED SOURCE TO TRANSLATE) stub\n"
+          "and move on to the next renderable book. Do not attempt the text.")
 
 
 WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic",
