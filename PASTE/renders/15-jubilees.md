@@ -2,6 +2,34 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 21–22 (Jubilees loop, run 10, 2026-09-27)
+
+**Landed:**
+- **Chapter 21:** Abraham, at 175, teaches Isaac the law of the peace offering, the salt, the twelve woods fit for the altar, washing before and after sacrifice, and the law of blood, and warns him against the ways of men.
+- **Chapter 22:** Abraham's last Festival of Weeks with Isaac and Ishmael; Rebekah sends new cakes by Jacob; Abraham gives thanks, blesses Jacob openly as heir of the covenant, charges him to separate from the nations and take no Canaanite wife, and sleeps his last night with Jacob in his bosom.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 21:3 | cut | [filled from the Latin] (noted) |
+| 21:10, 14, 20, 21, 22 | cut | [filled from Charles] (noted) |
+| 21:12 | thirteen names of trees | Charles's eleven names, then *the cedar called arbat* and *besem* as the Ge'ez writes them (noted) |
+| 21:7–9 | *maʿāzā śannāy* | a soothing aroma (fixed term) |
+| 22:4, 8, 10, 11, 14, 15, 16, 17, 18 | cut | [filled from the Latin] (noted) |
+| 22:20, 22, 29, 30 | cut | [filled from Charles] (noted) |
+| 22:10–11 | Abraham's words to Jacob break across a cut | the quotation marks sit inside the brackets (noted) |
+| 22:11 | Latin *seed of truth*, *before your name* | kept (Charles *righteousness*, *seed*; noted) |
+| 22:27 | a sentence with no main verb | kept, ending in a dash (Charles *blessed be the Most High*; noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (26, 30).
+- 21:1 is 2057, which makes Abraham 181 by 11:15, while he says 175 (noted).
+- 22:1 is 2109, the year of Abraham's death, where 175 years from 1876 give 2051; Charles's English also has *forty-fourth* (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 21:1 and 22:1, the dates that do not fit Abraham's age; chapters 15 to 22 now carry several of these, all under choice #1 of the 1 Enoch 72 report.
+
+**Choices for you:** none new.
+
 ## Jubilees 19–20 (Jubilees loop, run 9, 2026-09-27)
 
 **Landed:**
