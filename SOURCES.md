@@ -48,6 +48,15 @@ which are used here.
   Sampling also showed the text to be Amharic rather than Ge'ez, carrying
   column artifacts from a scanned parallel Bible. A source whose references are
   manufactured is worse than no source, because it reads as authoritative.
+- **Wikisource "Translation:1 Meqabyan", "2 Meqabyan", "3 Meqabyan"** -- English
+  added anonymously in January 2026 and proposed for deletion in June 2026 as not
+  meeting Wikisource's translation policy. Where they came from cannot be traced.
+  Not used.
+- **"The Three Books of Meqabyan: A CC0 1.0 English Translation from Amharic"**
+  (archive.org, `three-books-of-meqabyan-cc0-translation`, May 2026). CC0, so free
+  to use, but it is an AI-assisted translation of the modern Amharic, not of the
+  Ge'ez. Not used as a source; held for Andrew to decide (see the report of
+  2026-09-27).
 
 ## Exception: CC BY-SA allowed for Ethiopian-only books (Andrew, 2026-09-23)
 
@@ -75,8 +84,8 @@ the LPettay copy:
 | Book | Beta Masaheft file | State |
 |---|---|---|
 | 1 Meqabyan | `1001-2000/LIT1819Maccab.xml` | full text, 36 chapters |
-| 2 Meqabyan | `5001-6000/LIT5840SecondEthioMaccabees.xml` | full text, 21 chapters |
-| 3 Meqabyan | `5001-6000/LIT5839ThirdEthioMaccabees.xml` | full text, 10 chapters, every chapter filled |
+| 2 Meqabyan | `5001-6000/LIT5840SecondEthioMaccabees.xml` | full text, 21 chapters; in `sources/ethiopic-eotc/` |
+| 3 Meqabyan | `5001-6000/LIT5839ThirdEthioMaccabees.xml` | full text, 10 chapters, every chapter filled; in `sources/ethiopic-eotc/` |
 | 1 Enoch | `1001-2000/LIT1340EnochE.xml`, edition `EOTCed` ("Text of the EOTC printed Bible") | full text, 108 chapters, 1,058 numbered verses; in `sources/ethiopic-eotc/` |
 | Jubilees | `1001-2000/LIT1697Jubilees.xml`, editions `EOTCed` and `Ran` | EOTC: 50 chapters and a 2-verse prologue, 1,292 numbered verses, none empty; in `sources/ethiopic-eotc/`. `Ran`: a second Ge'ez text, 1,139 verses; in `sources/ethiopic/` |
 
@@ -168,6 +177,33 @@ was altered. 36 chapters, 753 verses.
 - **No other witness.** There is no Greek, Latin or Hebrew text of this book, and
   no public-domain English translation has been found. The Amharic may be read
   to check meaning, never copied or quoted.
+
+**2 and 3 Meqabyan (2026-09-27):** rendered from the EOTC Ge'ez on the same terms
+as 1 Meqabyan (`sources/ethiopic-eotc/2-meqabyan.txt`, `3-meqabyan.txt`), from
+`5001-6000/LIT5840SecondEthioMaccabees.xml` and `LIT5839ThirdEthioMaccabees.xml`
+(Beta Masaheft commit `90ab9cf`, edition "Text of the EOTC printed Bible"; the XML
+is kept in `sources/betamasaheft-xml/`). Only the markup was removed; no word was
+altered. 2 Meqabyan: 21 chapters, 424 verses. 3 Meqabyan: 10 chapters, 208
+verses. Both match the EOTC Amharic chapter by chapter (EOTCOpenSource, read
+privately; CC BY-NC-ND, never copied).
+
+- **Numerals rejoined** as in 1 Meqabyan: 2 Meqabyan 5:3, 8:23 (twice), 9:8,
+  10:26, 11:10, 13:1, 13:9, 16:15; 3 Meqabyan 2:13. Every one is a single digit
+  (1, 2 or 5), and each agrees with the Amharic.
+- **Why numbers are damaged, in all three books.** The printed Bible's Ethiopic
+  numerals did not survive the conversion to Unicode. The units (፩ to ፱) came
+  through as digits; larger numbers were cut short to a digit (1 Meqabyan 1:21
+  *4* for forty, 4:5 *4* for fourteen), turned into `%` or `)` (1 Meqabyan 1:16,
+  1:22, 10:3; 2 Meqabyan 3:9 *))*, 8:23 *2))*), or lost.
+- **Verses cut off at a number.** Twenty verses stop mid-sentence, and in fifteen
+  of them the Amharic has a number at the point where the Ge'ez stops (1 Meqabyan
+  2:2, *and he had* [three sons]; 2 Meqabyan 4:26, [five hundred] horses; 3
+  Meqabyan 2:23, [ten] thoughts). The words after the number are lost with it.
+  - 1 Meqabyan: 2:2, 2:27, 3:28, 3:31, 4:5, 4:8, 4:26, 5:25, 8:24, 8:35, 25:18,
+    28:34, 30:11.
+  - 2 Meqabyan: 4:26, 15:15.
+  - 3 Meqabyan: 2:23, 3:1, 3:2, 3:5, 4:26.
+- No second complete Ge'ez text of these books has been found online.
 
 - LPettay's `3Meq` folder is **2 Meqabyan** mislabelled: its opening and closing
   words are identical to Beta Masaheft's Second Book. LPettay has no 3 Meqabyan.

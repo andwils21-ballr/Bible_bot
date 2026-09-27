@@ -166,14 +166,14 @@
       "title": "2 Meqabyan",
       "slug": "2-meqabyan",
       "chapters": 21,
-      "tier": "english-only"
+      "tier": "source"
     },
     {
       "order": 25,
       "title": "3 Meqabyan",
       "slug": "3-meqabyan",
       "chapters": 10,
-      "tier": "english-only"
+      "tier": "source"
     },
     {
       "order": 26,

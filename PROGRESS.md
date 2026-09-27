@@ -29,8 +29,8 @@ Next up: **Numbers 31**
 | 21 | Judith | source | 0/16 |
 | 22 | Esther | source | 0/16 |
 | 23 | 1 Meqabyan | source | 1/36 |
-| 24 | 2 Meqabyan | english-only | 0/21 |
-| 25 | 3 Meqabyan | english-only | 0/10 |
+| 24 | 2 Meqabyan | source | 0/21 |
+| 25 | 3 Meqabyan | source | 0/10 |
 | 26 | Job | source | 0/42 |
 | 27 | Psalms | source | 0/151 |
 | 28 | Proverbs | source | 0/24 |
