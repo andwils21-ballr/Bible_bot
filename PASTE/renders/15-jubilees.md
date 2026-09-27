@@ -2,6 +2,33 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 33–34 (Jubilees loop, run 16, 2026-09-27)
+
+**Landed:**
+- **Chapter 33:** Reuben lies with Bilhah; Jacob never comes near her again; the law against lying with a father's wife is written on the tablets of heaven, with the reason Reuben was spared; Jacob settles with all his sons near Isaac and Rebekah.
+- **Chapter 34:** Jacob defeats the seven Amorite kings; Joseph is sold into Egypt; his bloodied coat reaches Jacob on the tenth of the seventh month, which becomes the Day of Atonement; Bilhah and Dinah die; the wives of Jacob's sons.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 33:4, 19, 20, 22, 23 | cut | [filled from the Latin] (noted) |
+| 33:16 | cut | [filled from Charles] (noted) |
+| 33:9 | second sentence missing in the EOTC | from the second Ge'ez text, unbracketed (noted) |
+| 33:1 | *Magdaladrāʾef* | Migdal-eder (as Genesis 35:21 in this project; noted) |
+| 33:6 | "told no one" | kept (the Latin: *told everyone*; noted) |
+| 34:1 | cut | [filled from the Latin] (noted) |
+| 34:7, 8, 9, 10, 11, 18, 20 | cut | [filled from Charles] (noted) |
+| 34:4, 7 | the Amorite kings' names | as the EOTC writes them; Beth-horon as in the Bible (noted) |
+| 34:20 | the wives' names | Charles's forms, without his apostrophes; Asenath as Genesis 41:45 |
+
+**Checks:**
+- Verse counts equal the EOTC's (23, 21).
+- 33:21 is 2145; 34:1 is 2148; 34:10 is 2149, when Joseph, born 2134, is fifteen, where Genesis 37:2 has seventeen (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 34:10, Joseph's age.
+
+**Choices for you:** none new.
+
 ## Jubilees 31–32 (Jubilees loop, run 15, 2026-09-27)
 
 **Landed:**
