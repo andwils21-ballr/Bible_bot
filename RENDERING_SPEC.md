@@ -1,7 +1,7 @@
 # Rendering Spec
 
 How to write a chapter. The mission, your role, the notes policy and the
-non-negotiables are in `CLAUDE.md`; read that first. Consistency across 2,019
+non-negotiables are in `CLAUDE.md`; read that first. Consistency across 1,989
 chapters matters more than any one chapter being clever.
 
 ## Style
@@ -219,14 +219,17 @@ the deuterocanon). `sources/swete-src/` holds the whole Septuagint.
 If the helper reports no source, obey what it says for the book's tier:
 
 - **`english-only`** is worked from established translations, and chapter 1's
-  first note says so. Currently: Esther 11–16 and books 82–89 (below).
-- **`none`** gets the stub only (see Honesty rules). Currently: Josippon.
+  first note says so. Currently: Esther 11–16 and books 82–89 except
+  Sirate Tsion (below).
+- **`none`** gets the stub only (see Honesty rules). Currently: Josippon and
+  Sirate Tsion.
 
 Never accept an OCR'd text with made-up verse numbers as a source.
 
 ### Books 82–89, the broader canon (Andrew, 2026-09-27)
 
-Tier `english-only`: no Ge'ez text of these books can be quoted, so each is
+Tier `english-only` (Sirate Tsion excepted: no text of it has been found, so it
+is tier `none`): no Ge'ez text of these books can be quoted, so each is
 worked from a public-domain scholar's translation (`SOURCES.md`, "The broader
 canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
 
@@ -234,7 +237,6 @@ canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
 |---|---|---|
 | 1st Book of the Covenant | Cooper and Maclean 1902, **from the Syriac** | 73 |
 | 2nd Book of the Covenant | Guerrier and Grébaut 1913 (French); James 1924 for sections 12–62 | 62 |
-| Sirate Tsion | Tattam 1848, **from the Coptic** | 30 |
 | Te'ezaz | Horner 1904 | 72 |
 | Gitzew | Schodde 1885 | 57 |
 | Abtilis | Tattam 1848, **from the Coptic** | 85 |

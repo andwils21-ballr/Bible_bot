@@ -8,7 +8,7 @@ This is a year-long project; the goals below do not drift, whoever is working.
 ## 1. The mission
 
 A close English rendering of the Ethiopian Orthodox Tewahedo canon, 89 books and
-2,019 chapters, with notes. The goal is **an accurate translation that people
+1,989 chapters, with notes. The goal is **an accurate translation that people
 today can read with little or no stumbling**, plus notes on what English readers
 are never told.
 

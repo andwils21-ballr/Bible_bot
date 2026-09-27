@@ -1,7 +1,7 @@
 # Bible_bot
 
 A close rendering of the Ethiopian Orthodox Tewahedo canon into English — 89
-books, 2,019 chapters — aiming at the intent, tone, and context the source
+books, 1,989 chapters — aiming at the intent, tone, and context the source
 actually carries, with notes on what English normally loses.
 
 Built chapter by chapter by scheduled Claude Code sessions. A Routine fires
@@ -75,8 +75,8 @@ python3 build_docx.py matthew   # one book
 |---|---|---|
 | `source` | worked from the Hebrew, Aramaic, or Greek | 76 |
 | `witnesses` | several ancient witnesses (Greek, Ge'ez, Aramaic, Latin) that disagree; worked from all of them | 4 |
-| `english-only` | no source-language access yet; worked from established English translations, and said so in the notes | 8 |
-| `none` | no usable source text — gets a `(NEED SOURCE TO TRANSLATE)` stub, never a guess | 1 |
+| `english-only` | no source-language access yet; worked from established English translations, and said so in the notes | 7 |
+| `none` | no usable source text — gets a `(NEED SOURCE TO TRANSLATE)` stub, never a guess | 2 |
 
 The tier system exists because the failure mode of this project is fluent
 invention that reads exactly as authoritative as real work. A stub is the

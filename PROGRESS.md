@@ -1,6 +1,6 @@
 # Progress
 
-**306 of 2019 chapters rendered (15.2%).**
+**306 of 1989 chapters rendered (15.4%).**
 
 Next up: **Numbers 31**
 
@@ -89,7 +89,7 @@ Next up: **Numbers 31**
 | 81 | Revelation | source | 0/22 |
 | 82 | 1st Book of the Covenant | english-only | 0/73 |
 | 83 | 2nd Book of the Covenant | english-only | 0/62 |
-| 84 | Sirate Tsion | english-only | 0/30 |
+| 84 | Sirate Tsion | none | — |
 | 85 | Te'ezaz | english-only | 0/72 |
 | 86 | Gitzew | english-only | 0/57 |
 | 87 | Abtilis | english-only | 0/85 |

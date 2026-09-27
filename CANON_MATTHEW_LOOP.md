@@ -1,6 +1,6 @@
 # The broader-canon and Matthew loop
 
-Andrew (2026-09-27): render chapter 1 of each of books 82–89, to make sure they
+Andrew (2026-09-27): render chapter 1 of each of books 82–89 (Sirate Tsion excepted, tier `none`), to make sure they
 render, run after run until those are done; then Matthew, chapter 1 to 28, run
 after run until it is finished. **Do your best work on every run.** Each run
 follows this file exactly. `CLAUDE.md` outranks it.
@@ -13,10 +13,10 @@ follows this file exactly. `CLAUDE.md` outranks it.
    Genesis 25:21–23.
 2. **Find the next chapters.**
    - **Phase 1:** the books among 82–89 with no `01.md` yet, in order:
-     `82-1-covenant`, `83-2-covenant`, `84-sirate-tsion`, `85-teezaz`,
+     `82-1-covenant`, `83-2-covenant`, `85-teezaz`,
      `86-gitzew`, `87-abtilis`, `88-didascalia`, `89-qalementos`. Render up to
      four of them in a run.
-   - **Phase 2**, once all eight have `01.md`: the first Matthew chapter with no
+   - **Phase 2**, once all seven have `01.md`: the first Matthew chapter with no
      file in `books/55-matthew/`. Render four to six chapters.
    - If Matthew 28 exists, the loop is done: say so and stop the loop.
 3. **Match the voice.** Read the two most recent chapters of the same book (for
@@ -78,8 +78,8 @@ checks names, numbers and the shape of a passage only; never quote it.
   words apply as everywhere; the English must read as this project's, not as
   the editor's.
 - **Chapter 1's first note** names the translation the book is worked from and
-  says no Ge'ez or other source language was used. For 1st Covenant, Sirate
-  Tsion and Abtilis it says plainly that the text is a sister version (the
+  says no Ge'ez or other source language was used. For 1st Covenant and
+  Abtilis it says plainly that the text is a sister version (the
   Syriac or Coptic form of the work) and that the Ethiopic differs from it in
   wording and in places in order. For Abtilis: Tattam's numbering of the 85
   Apostolic Canons is followed; the Ethiopic has 81. For Qalementos: the text

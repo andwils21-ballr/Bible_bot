@@ -393,7 +393,8 @@ Schodde translated Fell's text.
   (Ethiopic *Abtelisat*), "nothing other than a longer edition of the Apostolic
   Canons", not printed (this is Abtilis, see below); and *30 decrees of the
   apostles given through Clement*, extant in Arabic and in a Syriac version in
-  27 decrees printed by Lagarde (1856) (this is Sirate Tsion, see below).
+  27 decrees printed by Lagarde (1856) (this is Sirate Tsion, of which no text
+  has been found; see below).
 
 ### Didascalia — Harden 1920 and Platt 1834 (public domain)
 
@@ -628,23 +629,27 @@ English from the Syriac* (Edinburgh: T. & T. Clark, 1902)**, archive.org
   wording and in places in order; use it for the substance of a chapter and say
   that it is the Syriac.
 
-### Sirate Tsion and Abtilis — Tattam 1848 (sister versions)
+### Abtilis — Tattam 1848 (a sister version); Sirate Tsion — none found
 
 No Ge'ez text of either has been printed (Fell 1871 names both and prints
-neither; see Gitzew above). Both survive in Coptic, and the Ethiopic Sinodos
-was translated from the same Coptic-Arabic collection.
+neither; see Gitzew above).
+
+**Sirate Tsion: corrected 2026-09-27.** Tattam's first book (canons 1-30, the
+Apostolic Church Order) was first filed here as Sirate Tsion. It is not: Fell
+(p. 9) says the 71 decrees that open the Sinodos, which Cowley calls Te'ezaz,
+begin with the Apostolic Church Order, and that their Coptic version, "almost
+word for word", is Tattam pp. 1-172. Horner's Te'ezaz statute 1 and Tattam's
+canon 1 are indeed the same text. Sirate Tsion is Fell's separate section of
+30 decrees through Clement, known in Arabic and in a Syriac version of 27; no
+edition or translation of it has been found. The book is tier `none` again,
+and the Tattam file was removed. Tattam pp. 1-172 remain a Coptic witness to
+Te'ezaz, not yet keyed to Horner's statute numbers.
 
 **Henry Tattam, *The Apostolical Constitutions, or Canons of the Apostles, in
 Coptic, with an English translation* (London: Oriental Translation Fund,
 1848)**, archive.org `apostolicalconst00tattrich`. Tattam died in 1868. The
 book alternates Coptic and English pages; only the English is taken.
 
-- `sources/english/sirate-tsion.tattam.txt`: Tattam's first book, the 30 canons
-  "of our Fathers the Apostles … by the hands of Clemens" (the Apostolic Church
-  Order: John, Matthew, Peter and the other apostles speak in turn). This is
-  Fell's "30 decrees of the apostles given through Clement", which Cowley calls
-  Ser`atä Seyon. Chapter = canon, 1 to 30; canon 1 carries no number in the
-  print and begins with the opening address. Verse = paragraph.
 - `sources/english/abtilis.tattam.txt`: Tattam's Seventh Book, the 85 Apostolic
   Canons (pp. 174-214). Fell calls the Ethiopic Abtilis "a longer edition of the
   Apostolic Canons"; Cowley counts 81 in it, so **its numbering will not match
@@ -653,7 +658,7 @@ book alternates Coptic and English pages; only the English is taken.
   18 and 21 and chapters 13, 19 and 22 are empty. Canons 47-50 are not in the
   Coptic (his note, p. 190). He prints 66 between 63 and 64; it is kept as 66.
   The closing blessing is part of 85; the scribe's colophon is left out.
-- Both from archive.org's OCR. Footnotes, margin marks and page heads are left
+- From archive.org's OCR. Footnotes, margin marks and page heads are left
   out. About thirty OCR misreadings were corrected where context settles them (`Matfhew`,
   `Jill` for "till", `Joss` for "loss", `fleet` for "fled", and the like).
 - **It is the Coptic, not the Ethiopic.** Use it for the substance of a canon

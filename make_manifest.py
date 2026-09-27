@@ -90,7 +90,7 @@ BOOKS = [
     (81, "Revelation",           "revelation",       22,  "source"),
     (82, "1st Book of the Covenant", "1-covenant",   73,  "english-only"),
     (83, "2nd Book of the Covenant", "2-covenant",   62,  "english-only"),
-    (84, "Sirate Tsion",         "sirate-tsion",     30,  "english-only"),
+    (84, "Sirate Tsion",         "sirate-tsion",      0,  "none"),
     (85, "Te'ezaz",              "teezaz",           72,  "english-only"),
     (86, "Gitzew",               "gitzew",           57,  "english-only"),
     (87, "Abtilis",              "abtilis",          85,  "english-only"),
