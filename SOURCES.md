@@ -475,3 +475,25 @@ list, p. 192) and printed it with verse numbers.
 - No English translation of the Ethiopic is held here. Laurence's (1820, from
   one manuscript, Dillmann's L) could not be downloaded: Google Books refused
   and HathiTrust blocks downloads. For meaning, use the Latin and Syriac English.
+
+## 4 Baruch: the Ge'ez, from Dillmann 1866 (public domain)
+
+**A. Dillmann, *Chrestomathia Aethiopica* (Leipzig: Weigel, 1866)**, pp. 1-15,
+"Liber Baruch" (ተረፈ፡ ነገር፡ ዘባሮክ); archive.org `chrestomathiaaet00dilluoft`,
+PDF pages 20-34. Dillmann died in 1894.
+
+- `sources/ethiopic-ocr/4-baruch.txt`: his Ge'ez, uncorrected OCR (see *OCR
+  Ge'ez* above), keyed to the OCP Greek's chapters and verses. **Dillmann prints
+  no chapter or verse numbers**: where each Greek verse begins in the Ge'ez was
+  set by reading the Ge'ez against the OCP English, verse by verse. Where the
+  Ethiopic has words the Greek lacks, they stay with the verse before (9:22 ends
+  with Baruch and Abimelech's cry, "do not kill him by this death").
+- **The letter, 6:19-25.** In the main text the Ethiopic breaks off at "and he
+  wrote, saying: ....". Dillmann prints the letter in his note 8 (p. 9), "since
+  the words of the letter are corrupt and defective". It is taken from that note
+  (tagged `[p. 9, note 8]`); his variant readings inside it are left out.
+- Two differences worth knowing, read from the Ge'ez: in 9:1 the sacrifice
+  lasts seven days (ሰቡዐ፡ ዕለተ), not nine; in 9:15 the time to the coming is
+  given as three hundred and three weeks of days, not 477 years.
+- No English translation of the Ethiopic is held here; for meaning use the OCP
+  English of the Greek.
