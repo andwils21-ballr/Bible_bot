@@ -2,6 +2,36 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 14–15 (Jubilees loop, run 7, 2026-09-27)
+
+**Landed:**
+- **Chapter 14:** the covenant between the pieces (Genesis 15), dated to the Festival of Weeks, the same day as Noah's covenant; then Hagar and the birth of Ishmael (Genesis 16).
+- **Chapter 15:** Abram keeps the festival of first fruits; God Almighty renames him Abraham and gives the covenant of circumcision on the eighth day; Sarai becomes Sarah and Isaac is promised (Genesis 17). The angel adds that the law is written on the tablets of heaven, that Israel alone has no spirit set over it, and that Israel will one day leave its sons uncircumcised.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 14:14, 18, 19, 20, 21, 23, 24 | cut | [filled from Charles] (noted) |
+| 14:2 | *walda Maseq ʾamatya*, "the son of Maseq, my maidservant" | kept (Genesis's *ben-mesheq* read as a name; noted) |
+| 14:24 | Charles's *eighty-sixth year* | kept in the bracket; the book's dates give 89 (noted) |
+| 15:20, 25, 26, 29 | cut | [filled from the Latin] (noted) |
+| 15:2, 8, 12, 13, 19, 27, 31, 32, 34 | cut | [filled from Charles] (noted) |
+| 15:27 | Latin covers it, but its sentence has no verb | [filled from Charles instead] (noted) |
+| 15:3 | *ʾAmlāka Saday* | God Almighty (as Genesis 17:1 in this project) |
+| 15:10, 24 | the EOTC's own square brackets | rendered as plain text (noted) |
+| 15:12–13, 23–24 | *ba-warq*, "with gold" | with money (noted) |
+| 15:17 | *wa-tafaśśəḥa*, "and rejoiced" | rejoiced (Genesis *laughed*; noted) |
+| 15:25 | *ʾalbo kəsbata mawāʿəl*, "no circumcising of the days" | no cutting short of the days (noted) |
+| 15:30 | *ʾəsma*, "for" | though (with the Latin; noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (24, 34).
+- 15:1 is 40 × 49 + 3 × 7 + 5 = 1986, which makes Abram 110 by 11:15; Genesis 17:1 has 99. Left as the text has it, and noted, under choice #1 of the 1 Enoch 72 report.
+- Quotations printed and checked.
+
+**Left standing on purpose:** 14:24 and 15:1, the ages that break the book's own dates.
+
+**Choices for you:** none new.
+
 ## Jubilees 12–13 (Jubilees loop, run 6, 2026-09-27)
 
 **Landed:**
