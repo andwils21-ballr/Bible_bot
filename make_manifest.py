@@ -88,14 +88,14 @@ BOOKS = [
     (79, "3 John",               "3-john",            1,  "source"),
     (80, "Jude",                 "jude",              1,  "source"),
     (81, "Revelation",           "revelation",       22,  "source"),
-    (82, "1st Book of the Covenant", "1-covenant",    0,  "none"),
-    (83, "2nd Book of the Covenant", "2-covenant",    0,  "none"),
-    (84, "Sirate Tsion",         "sirate-tsion",      0,  "none"),
-    (85, "Te'ezaz",              "teezaz",            0,  "none"),
-    (86, "Gitzew",               "gitzew",            0,  "none"),
-    (87, "Abtilis",              "abtilis",           0,  "none"),
-    (88, "Didascalia",           "didascalia",        0,  "none"),
-    (89, "Qalementos",           "qalementos",        0,  "none"),
+    (82, "1st Book of the Covenant", "1-covenant",   73,  "english-only"),
+    (83, "2nd Book of the Covenant", "2-covenant",   62,  "english-only"),
+    (84, "Sirate Tsion",         "sirate-tsion",     30,  "english-only"),
+    (85, "Te'ezaz",              "teezaz",           72,  "english-only"),
+    (86, "Gitzew",               "gitzew",           57,  "english-only"),
+    (87, "Abtilis",              "abtilis",          85,  "english-only"),
+    (88, "Didascalia",           "didascalia",       43,  "english-only"),
+    (89, "Qalementos",           "qalementos",       43,  "english-only"),
 ]
 
 # Books whose text sits inside another book's source file.

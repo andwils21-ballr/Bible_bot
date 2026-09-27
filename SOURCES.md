@@ -55,8 +55,14 @@ which are used here.
 - **"The Three Books of Meqabyan: A CC0 1.0 English Translation from Amharic"**
   (archive.org, `three-books-of-meqabyan-cc0-translation`, May 2026). CC0, so free
   to use, but it is an AI-assisted translation of the modern Amharic, not of the
-  Ge'ez. Not used as a source; held for Andrew to decide (see the report of
-  2026-09-27).
+  Ge'ez. Not used as a source. Andrew (2026-09-27): the verses the Ge'ez loses
+  stay marked *[words lost]* until a better source is found.
+- **Read for checking only, never copied, quoted or credited** (Andrew,
+  2026-09-27; reading a text to check it needs no licence): Michal Jerabek's
+  *Library of Ethiopic Texts* (1995, noncommercial licence), as posted on Ran
+  HaCohen's website (not the HaCohen Jubilees text above, which Beta Masaheft
+  publishes under CC BY-SA), and the transcription of VanderKam's critical edition
+  of the Ge'ez Jubilees (1989, under copyright).
 
 ## Exception: CC BY-SA allowed for Ethiopian-only books (Andrew, 2026-09-23)
 
@@ -405,6 +411,15 @@ Didascalia*, London 1920."
   this print (*c* for *e*, *y* for *g*) were corrected only where one English
   word fits, and the rest checked against archive.org's own OCR. A few OCR slips
   remain (roughly one word in 500); read with the page when a word matters.
+- **Rebuilt 2026-09-27.** The first build let Harden's footnotes (two columns
+  of small type at the foot of each page, with no rule above them) into the
+  text, sometimes in mid-sentence, and split paragraphs wrongly where the scan
+  is skewed. The pages were read again, footnotes told apart by their smaller
+  type and closer spacing, and paragraphs found by indent against the lines
+  around them: 270 paragraphs, none carrying footnote text. Two passages on
+  printed pp. 27-28 that the scan warps past reading by machine were set from
+  the page image. Verse numbers changed with the rebuild (no chapter had been
+  rendered).
 
 **T. P. Platt, *The Ethiopic Didascalia* (London: Oriental Translation Fund,
 1834)**, archive.org `ethiopicdidascal00platrich`. Platt died in 1852. Ge'ez text
@@ -446,6 +461,27 @@ and S. Grébaut, *Le Testament en Galilée*."
 - His part 1 (sections 1-11) is the apocalypse spoken in Galilee; parts 2-4 are
   the text known elsewhere as the *Epistle of the Apostles*. Both are the second
   Book of the Covenant as the manuscripts give it.
+- **The French OCR is poor.** The print's italic and small capitals read badly
+  (*Var punioue ne Jésus-Cinnisr* is *Vie publique de Jésus-Christ*), and in 35
+  of the 200 paragraphs lines of the Ge'ez were read as Latin letters and left
+  in (*MAT + ALU 5 MER DANSE…*). Archive.org's two other scans of the volume
+  (`patrologiaorient09pariuoft`, `patrologiaorien09pari`) read no better.
+
+**M. R. James, *The Apocryphal New Testament* (Oxford: Clarendon, 1924)**, pp.
+485-503, "Epistle of the Apostles"; archive.org
+`JAMESApocryphalNewTestament1924`. James died in 1936, so it is public domain in
+the United States and in Europe.
+
+- `sources/english/2-covenant.james.txt`: James's English of Guerrier's
+  sections 12-62. His sections 1-51 are Guerrier's 12-62 (chapter = James's
+  section + 11; checked at 16, 30, 45 and 62); verse = his paragraph. He does not
+  translate the prophecy of sections 1-11. His footnotes and notes on the
+  witnesses are left out.
+- **James follows the Coptic where it survives** (from his section 7, Guerrier's
+  18; the Coptic lacks some passages), with the Ethiopic where it does not, and
+  marks some Ethiopic readings in parentheses (*Eth.*). Where he and Guerrier
+  differ, Guerrier's French is the Ethiopic and governs; use James for the
+  sense of a sentence the French OCR has spoiled.
 
 ## Ezra Sutuel: the Ge'ez, from Dillmann 1894 (public domain)
 

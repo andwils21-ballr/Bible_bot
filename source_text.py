@@ -41,6 +41,20 @@ def main():
         _none_stub(slug)
         return
 
+    # An english-only book's editor may print an opening before chapter 1
+    # (chapter 0 in the source files); it is rendered above verse 1, unnumbered.
+    if (book or {}).get("tier") == "english-only" and chapter == "1" and _has_opening(slug):
+        print("# OPENING (chapter 0 in the edition): render it above verse 1,")
+        print("# unnumbered, as a Psalm title is. Chapter 1 follows it below.")
+        print()
+        _print_chapter(slug, book, "0")
+        print("# " + "=" * 62)
+        print("# CHAPTER 1")
+        print()
+    _print_chapter(slug, book, chapter)
+
+
+def _print_chapter(slug, book, chapter):
     # Some books are a slice of another book's source (Reproof = Proverbs 25-31).
     lookup_slug = (book or {}).get("source_book", slug)
     offset = (book or {}).get("source_offset", 0)
@@ -89,7 +103,8 @@ def main():
         print("Per RENDERING_SPEC.md treat it as tier 'english-only': work from an\n"
               "established English translation, never from memory, and say so in\n"
               "the first note of the chapter.")
-        _english(slug, lookup_chapter)
+        if not _english(slug, lookup_chapter):
+            _empty_chapter()
         return
 
     books = json.load(open(os.path.join(ROOT, "manifest.json"),
@@ -100,11 +115,29 @@ def main():
         print("Per RENDERING_SPEC.md this book is worked from established English\n"
               "translations, NOT from the Ge'ez and NOT from memory. Say which\n"
               "tradition you are following in the first note of chapter 1.")
-        _english(slug, lookup_chapter)
+        if not _english(slug, lookup_chapter):
+            _empty_chapter()
     else:
         print("This book is tier 'source' but has no source file — that is a\n"
               "gap in fetch_sources.py, not a licence to render from memory.\n"
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
+
+
+def _has_opening(slug):
+    import glob
+    for path in glob.glob(os.path.join(ROOT, "sources", "*", slug + ".*txt")):
+        with open(path, encoding="utf-8") as f:
+            if any(line.startswith("0:") for line in f):
+                return True
+    return False
+
+
+def _empty_chapter():
+    print("NO TEXT FOR THIS CHAPTER in any file held here. SOURCES.md says why\n"
+          "(a heading the scan lost, a canon the edition joins to the one before,\n"
+          "a page missing from the scan). Per RENDERING_SPEC.md (Honesty rule 5)\n"
+          "write the stub for this chapter, with a note saying where its text is\n"
+          "or why it is missing. Do not attempt the text.")
 
 
 def _none_stub(slug):
@@ -171,6 +204,7 @@ def _english(slug, chapter):
             print(f"{v}\t{rows[v]}")
     if printed:
         print()
+    return printed
 
 
 def _divergence(slug, chapter):

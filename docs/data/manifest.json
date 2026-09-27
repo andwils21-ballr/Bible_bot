@@ -654,64 +654,64 @@
    "order": 82,
    "title": "1st Book of the Covenant",
    "slug": "1-covenant",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 73,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 83,
    "title": "2nd Book of the Covenant",
    "slug": "2-covenant",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 62,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 84,
    "title": "Sirate Tsion",
    "slug": "sirate-tsion",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 30,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 85,
    "title": "Te'ezaz",
    "slug": "teezaz",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 72,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 86,
    "title": "Gitzew",
    "slug": "gitzew",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 57,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 87,
    "title": "Abtilis",
    "slug": "abtilis",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 85,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 88,
    "title": "Didascalia",
    "slug": "didascalia",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 43,
+   "tier": "english-only",
    "done": 0
   },
   {
    "order": 89,
    "title": "Qalementos",
    "slug": "qalementos",
-   "chapters": 0,
-   "tier": "none",
+   "chapters": 43,
+   "tier": "english-only",
    "done": 0
   }
  ]

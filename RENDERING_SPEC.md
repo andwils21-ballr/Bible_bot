@@ -1,7 +1,7 @@
 # Rendering Spec
 
 How to write a chapter. The mission, your role, the notes policy and the
-non-negotiables are in `CLAUDE.md`; read that first. Consistency across 1,554
+non-negotiables are in `CLAUDE.md`; read that first. Consistency across 2,019
 chapters matters more than any one chapter being clever.
 
 ## Style
@@ -219,11 +219,48 @@ the deuterocanon). `sources/swete-src/` holds the whole Septuagint.
 If the helper reports no source, obey what it says for the book's tier:
 
 - **`english-only`** is worked from established translations, and chapter 1's
-  first note says so. Currently: Esther 11–16.
-- **`none`** gets the stub only (see Honesty rules). Currently: Josippon and
-  books 82–89.
+  first note says so. Currently: Esther 11–16 and books 82–89 (below).
+- **`none`** gets the stub only (see Honesty rules). Currently: Josippon.
 
 Never accept an OCR'd text with made-up verse numbers as a source.
+
+### Books 82–89, the broader canon (Andrew, 2026-09-27)
+
+Tier `english-only`: no Ge'ez text of these books can be quoted, so each is
+worked from a public-domain scholar's translation (`SOURCES.md`, "The broader
+canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
+
+| Book | Worked from | Chapters |
+|---|---|---|
+| 1st Book of the Covenant | Cooper and Maclean 1902, **from the Syriac** | 73 |
+| 2nd Book of the Covenant | Guerrier and Grébaut 1913 (French); James 1924 for sections 12–62 | 62 |
+| Sirate Tsion | Tattam 1848, **from the Coptic** | 30 |
+| Te'ezaz | Horner 1904 | 72 |
+| Gitzew | Schodde 1885 | 57 |
+| Abtilis | Tattam 1848, **from the Coptic** | 85 |
+| Didascalia | Harden 1920 | 43 |
+| Qalementos | Grébaut 1911-1928 (French) | 43 |
+
+- **Chapter 1's first note** names the translation the book is worked from.
+  Where it is a sister version (in bold above), the note says so plainly: the
+  text is the Syriac or Coptic form of the work, and the Ethiopic differs from
+  it in wording and in places in order. Abtilis follows Tattam's numbering of
+  the 85 Apostolic Canons; the Ethiopic has 81, and the note says so.
+  Qalementos stops where Grébaut stopped, in its third of seven books.
+- **2nd Book of the Covenant:** Guerrier's French is the Ethiopic and governs.
+  James's English follows the Coptic where it survives; use it for the sense of
+  a sentence the French OCR has spoiled, and where the two differ in substance,
+  follow the French and note the Coptic reading.
+- **The opening.** Where the edition prints an opening before chapter 1,
+  `source_text.py` prints it with chapter 1; render it above verse 1,
+  unnumbered.
+- **A chapter with no text** (a heading the scan lost, canons the edition prints
+  as one, a page missing from the scan): the helper says so. Write the stub
+  (Honesty rule 5) with a note saying where the text is or why it is missing.
+- **The Ge'ez OCR** (`ethiopic-ocr`), where there is one, checks names, numbers
+  and the shape of a passage. Never quote it.
+- Every chapter ends with the **Source text** note naming the edition and
+  translator (all public domain), and *English translation by this project*.
 
 ### Written and read forms (Andrew, 2026-09-26)
 
@@ -303,8 +340,11 @@ text** note.
 2 and 3 Meqabyan follow the same rule (Ge'ez added 2026-09-27); their private
 Amharic check is the EOTCOpenSource Amharic, on the same never-copied terms. In
 all three books some verses stop where a number was due (`SOURCES.md` lists
-them): render what the Ge'ez has and note where it breaks off. Filling the lost
-words waits for Andrew's decision on a source.
+them). In 1 Meqabyan 2:27, 3:31, 4:5 and 4:8 Horovitz's Ge'ez excerpts
+(`ethiopic-ocr`, 1905) have the rest: render it without brackets and name
+Horovitz in the chapter's notes. Everywhere else render what the Ge'ez has,
+write *[words lost]* where it breaks off, and note it; a better source is still
+being sought (Andrew, 2026-09-27).
 
 ## The notes standard
 
