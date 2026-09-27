@@ -2,6 +2,33 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 35–36 (Jubilees loop, run 17, 2026-09-27)
+
+**Landed:**
+- **Chapter 35:** Rebekah foretells her death; she asks Isaac to bind Esau by oath, Isaac says he now loves Jacob more, and Esau swears to love his brother; she dies at 155 and is buried in the double cave.
+- **Chapter 36:** Isaac's last charge and great oath to his two sons; the birthright settled; Isaac dies at 180; Esau goes to Seir and Jacob stays at Hebron; Leah dies and Jacob mourns her.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 35:9 | cut | [filled from the Latin, then Charles] (noted) |
+| 35:6, 10, 12, 13, 14, 15, 22, 23, 25, 27 | cut | [filled from Charles] (noted) |
+| 35:6 | the Latin broken at Rebekah's age | the bracket follows Charles (noted) |
+| 35:27 | Rebekah's death and burial missing | [filled from Charles] (noted) |
+| 36:20, 23 | cut | [filled from the Latin; *upright* in v23 from Charles] (noted) |
+| 36:7, 10, 12, 18 | cut | [filled from Charles] (noted) |
+| 36:18 | Isaac's death and burial missing | [filled from Charles] (noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (27, 24).
+- 35:1 is 2157; 35:27, 147 + 7 + 1 = 155, the age of her dream (35:6).
+- 36:1 is 2162: Isaac, born 1987, is 175 by the book's dates, while 36:18 has 180, as Genesis 35:28 (noted).
+- 36:21 is 2167.
+- Quotations printed and checked.
+
+**Left standing on purpose:** 36:18, Isaac's age.
+
+**Choices for you:** none new.
+
 ## Jubilees 33–34 (Jubilees loop, run 16, 2026-09-27)
 
 **Landed:**
