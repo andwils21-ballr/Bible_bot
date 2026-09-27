@@ -2,6 +2,31 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 47–48 (Jubilees loop, run 23, 2026-09-27)
+
+**Landed:**
+- **Chapter 47:** the birth of Moses in the time of distress; the ark on the river, Tharmuth, Jochebed as nurse; Amram teaches Moses to write; the royal court; the Egyptian killed, and the flight.
+- **Chapter 48:** Midian and the return; Mastema tries to kill Moses at the lodging place; the ten plagues; the sorcerers; Mastema drives the Egyptians after Israel; the sea; Mastema bound from the fourteenth to the eighteenth; Israel does not leave empty-handed.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 47:3, 4, 7, 10 | cut | [filled from the Latin] (noted) |
+| 47:5 | "her Hebrew women" | kept (Charles *her maidens*; noted) |
+| 47:9 | *ʿƏbrān* | Amram (as Exodus 6:20 in this project) |
+| 48:1, 4, 5 | cut | [filled from the Latin] (noted) |
+| 48:8, 13, 14 | cut | [filled from Charles] (noted) |
+| 48:17 | *ʾalbāsihomu*, "their garments" | their hearts (with Charles and the sense; noted) |
+
+**Checks:**
+- Verse counts equal the EOTC's (12, 19).
+- 47:1: Amram comes in 2303, Moses is born in 2330; court in 2351; leaves at forty-two in 2372 (Acts 7:23 has forty; noted).
+- 48:1: Midian from 2372, return in 2410 at eighty, as Exodus 7:7; *five weeks and one year* is thirty-six, the dates give thirty-eight (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 48:1, the years in Midian; 48:17, *hearts* against the EOTC's *garments*.
+
+**Choices for you:** none new.
+
 ## Jubilees 45–46 (Jubilees loop, run 22, 2026-09-27)
 
 **Landed:**
