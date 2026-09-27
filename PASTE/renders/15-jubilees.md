@@ -5,7 +5,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 ## Jubilees 21–22 (Jubilees loop, run 10, 2026-09-27)
 
 **Landed:**
-- **Chapter 21:** Abraham, at 175, teaches Isaac the law of the peace offering, the salt, the twelve woods fit for the altar, washing before and after sacrifice, and the law of blood, and warns him against the ways of men.
+- **Chapter 21:** Abraham, at 175, teaches Isaac the law of the peace offering, the salt, the woods fit for the altar, washing before and after sacrifice, and the law of blood, and warns him against the ways of men.
 - **Chapter 22:** Abraham's last Festival of Weeks with Isaac and Ishmael; Rebekah sends new cakes by Jacob; Abraham gives thanks, blesses Jacob openly as heir of the covenant, charges him to separate from the nations and take no Canaanite wife, and sleeps his last night with Jacob in his bosom.
 
 | Verse | Word-for-word | In the text now |
