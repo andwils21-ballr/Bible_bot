@@ -507,7 +507,11 @@ PDF pages 20-34. Dillmann died in 1894.
 
 - `sources/ethiopic-ocr/jubilees.txt`: his Ge'ez for chapters 7 and 14-16,
   uncorrected OCR (see *OCR Ge'ez* above). These are the chapters where the
-  rendered text has words in [brackets] as "in no Ge'ez text here". Both Beta
+  rendered text had words in [brackets] as "in no Ge'ez text here"; they are
+  now rendered from this text (2026-09-27), except three words or phrases
+  that Charles supplied by his own correction (his notes say *emended*: 7:18
+  *and Lud*, 7:24 *they sinned against*, 15:32 *all His powers*), which stay
+  in brackets. Both Beta
   Masaheft texts (EOTC and HaCohen) are cut short in the same verses, and the
   Asmara file lacks 14:16-16:13. Charles's Ge'ez has the missing words in all
   24 bracketed verses (7:11, 7:18, 7:24; 14:18-24; 15:2-34; 16:2, 16:5).

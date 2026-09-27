@@ -280,9 +280,12 @@ witness, its scholarly English, and a mechanical divergence list.
   EOTC text as held here is cut short in several hundred verses; these are
   losses in its digitization, not in the Ge'ez. Where it is cut, render the
   missing words from the **Asmara printing** (`ethiopic-gff`), without
-  brackets, and name that text in the chapter's notes. Only words that no Ge'ez
-  text here has (14:16-16:13 and 7:15, which the Asmara file lacks) are filled
-  from the Latin, the Greek or Charles, in [square brackets], with a note. Every
+  brackets, and name that text in the chapter's notes. Where the Asmara file
+  lacks them too (7:11, 7:15 and 14:16-16:13), render them from **Charles's
+  edition of the Ge'ez** (1895, `ethiopic-ocr`, read through his English),
+  also without brackets (Andrew, 2026-09-27). Words Charles supplied by his own
+  correction (his footnote says *emended* or *restored*) are in no manuscript:
+  they go in [square brackets] with a note saying so (7:18, 7:24, 15:32). Every
   chapter ends with the **Source text** note.
 
 ### 1–3 Meqabyan (Andrew, 2026-09-27)
