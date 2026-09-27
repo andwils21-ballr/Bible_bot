@@ -1,6 +1,6 @@
 # Progress
 
-**306 of 1989 chapters rendered (15.4%).**
+**310 of 1989 chapters rendered (15.6%).**
 
 Next up: **Numbers 31**
 
@@ -87,11 +87,11 @@ Next up: **Numbers 31**
 | 79 | 3 John | source | 0/1 |
 | 80 | Jude | source | 0/1 |
 | 81 | Revelation | source | 0/22 |
-| 82 | 1st Book of the Covenant | english-only | 0/73 |
-| 83 | 2nd Book of the Covenant | english-only | 0/62 |
+| 82 | 1st Book of the Covenant | english-only | 1/73 |
+| 83 | 2nd Book of the Covenant | english-only | 1/62 |
 | 84 | Sirate Tsion | none | — |
-| 85 | Te'ezaz | english-only | 0/72 |
-| 86 | Gitzew | english-only | 0/57 |
+| 85 | Te'ezaz | english-only | 1/72 |
+| 86 | Gitzew | english-only | 1/57 |
 | 87 | Abtilis | english-only | 0/85 |
 | 88 | Didascalia | english-only | 0/43 |
 | 89 | Qalementos | english-only | 0/43 |
