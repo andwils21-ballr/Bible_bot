@@ -2,6 +2,29 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 49–50 (Jubilees loop, run 24, 2026-09-27) — book complete
+
+**Landed:**
+- **Chapter 49:** the law of the Passover: the night in Egypt, the sign of the blood, slaughter between the evenings, roasting, no bone broken, the one place of the sanctuary, and the seven days of Unleavened Bread.
+- **Chapter 50:** the jubilee of jubilees (Israel enters the land in the fiftieth jubilee from Adam), the law of the Sabbath and its penalties; *Here is completed the account of the division of the days.*
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 49:13, 14, 18 | cut | [filled from the Latin] (noted) |
+| 49:2 | cut | [filled from Charles] (noted) |
+| 50:9, 12, 13 | cut | [filled from Charles] (noted) |
+| 50:1 | *gadāma Sinā* | the wilderness of Sin (as Exodus 16:1 in this project) |
+
+**Checks:**
+- Verse counts equal the EOTC's (23, 13).
+- 50:4: 49 × 49 + 7 + 2 = 2410, the year of 48:1; forty years more is 2450, fifty jubilees.
+- Quotations printed and checked.
+- All 50 chapters of Jubilees are now in `books/15-jubilees/`.
+
+**Left standing on purpose:** none new.
+
+**Choices for you:** none new. The dates that break the book's own arithmetic, listed run by run above (chapters 14–48), all wait on your ruling on choice #1 of the 1 Enoch 72 report.
+
 ## Jubilees 47–48 (Jubilees loop, run 23, 2026-09-27)
 
 **Landed:**
