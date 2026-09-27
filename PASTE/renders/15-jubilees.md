@@ -2,6 +2,32 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 25–26 (Jubilees loop, run 12, 2026-09-27)
+
+**Landed:**
+- **Chapter 25:** Rebekah charges Jacob not to marry a Canaanite as Esau did; Jacob, at sixty-three, swears he never will and has set his heart on Laban's daughters; the spirit of righteousness comes into Rebekah's mouth and she blesses him.
+- **Chapter 26:** the blessing Isaac meant for Esau goes to Jacob (Genesis 27), with heaven turning Isaac's mind aside; Esau's tears, Isaac's word to him, and Esau's plan to kill his brother.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 25:12, 20, 21 | cut | [filled from Charles] (noted) |
+| 26:10, 11, 21 | cut | [filled from the Latin] (noted) |
+| 26:34 | cut | [filled from the Greek, then Charles] (noted) |
+| 26:23, 25, 26, 30, 31 | cut | [filled from Charles] (noted) |
+| 26:33 | the whole verse missing from both Ge'ez texts | [filled from Charles] (noted); the chapter has 35 verses |
+| 26:13, 19 | "I am your son" | kept (Genesis *I am Esau your firstborn*; noted) |
+| 26:18 | *miṭat… ʾəm-samāy*, "a turning from heaven" | a turning from heaven to lead his spirit aside (noted) |
+
+**Checks:**
+- Verse counts: 23, the EOTC's; 35, the EOTC's 34 plus v33.
+- 25:1 is 2109: Jacob, born 2046, is sixty-three, the *nine weeks of years* of 25:4.
+- 26:1 is 2114.
+- Quotations printed and checked.
+
+**Left standing on purpose:** none new.
+
+**Choices for you:** none new.
+
 ## Jubilees 23–24 (Jubilees loop, run 11, 2026-09-27)
 
 **Landed:**
