@@ -2,6 +2,35 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 31–32 (Jubilees loop, run 15, 2026-09-27)
+
+**Landed:**
+- **Chapter 31:** Jacob purifies his house and goes up to Bethel; he visits Isaac and Rebekah with Levi and Judah; Isaac's blindness lifts, the spirit of prophecy comes on him, and he blesses Levi for the priesthood and Judah for rule.
+- **Chapter 32:** Levi dreams he is made priest; Jacob tithes all he has and Levi, the tenth son counted from Benjamin, is consecrated; the law of the second tithe; the name Israel; the seven tablets and the command not to build at Bethel; the eighth day, Addition; Deborah's death; Benjamin's birth and Rachel's death.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 31:13, 14, 15, 16, 30 | cut | [filled from the Latin] (noted) |
+| 31:9 | cut | [filled from Charles, then the Latin] (noted) |
+| 31:3, 6, 7, 8, 18, 20, 22, 24, 27, 28, 29 | cut | [filled from Charles] (noted) |
+| 31:27 | "one hundred and sixty-five years" | kept (156 by the book's dates; noted) |
+| 32:1, 2, 3, 6, 22, 25, 28, 33, 34 | cut | [filled from the Latin] (noted) |
+| 32:9, 10, 11, 15, 31 | cut | [filled from Charles] (noted) |
+| 32:26 | the Latin's *concealed* | wrote down (Charles, as v24 commands; noted) |
+| 32:4 | "sixty lambs, twenty-nine kids" | kept (Charles and the Latin: seven, twenty-one; noted) |
+| 32:8 | "the unclean animals he gave to Levi" | kept (Charles: *gave (not)*; noted) |
+| 32:17 | "not… Jacob only" | kept (noted against Genesis 35:10) |
+
+**Checks:**
+- Verse counts equal the EOTC's (32, 34).
+- 32:33 is 2143, the year of 30:1.
+- 31:27: Isaac says 165; by 16:13–15 and 30:1 he is 156 (noted).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 31:27, Isaac's age; 32:4, the EOTC's numbers.
+
+**Choices for you:** none new.
+
 ## Jubilees 29–30 (Jubilees loop, run 14, 2026-09-27)
 
 **Landed:**
