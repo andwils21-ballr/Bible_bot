@@ -404,6 +404,15 @@ Didascalia*, London 1920."
 **T. P. Platt, *The Ethiopic Didascalia* (London: Oriental Translation Fund,
 1834)**, archive.org `ethiopicdidascal00platrich`. Platt died in 1852. Ge'ez text
 with his English below it on each page, in 22 sections that cover Harden's
-chapters 1 to about 23 (Platt's section numbering differs from Harden's: his
-section X is Harden's chapter XII). Cowley: "Incomplete text and translation in
-T. P. Platt."
+chapters 1 to 23 (Platt's section numbering differs from Harden's: his section
+X is Harden's chapter XII). Cowley: "Incomplete text and translation in T. P.
+Platt."
+
+- `sources/ethiopic-ocr/didascalia.txt`: Platt's Ethiopic text, printed pp.
+  1-131 (PDF pages 26-156), uncorrected OCR, filed under Harden's chapters 1-23
+  by Platt's own table of sections (the page where each section begins). Verse =
+  one printed page, marked `[p. N]`; a page where one section ends and the next
+  begins is filed under both chapters, so the Ge'ez of a chapter's first and last
+  verse may run into its neighbour. Harden's chapters 4 and 5 fall in one section
+  of Platt's (filed under 4), and two of Platt's sections make Harden's chapter
+  17. Chapters 24-43 have no Ge'ez here.
