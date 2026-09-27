@@ -356,3 +356,30 @@ been printed in G. Horner, *The Statutes of the Apostles*."
   Gessew (56) and Abtelis (81), and this project follows him. An Ethiopian
   scholar cited by Wanger (2013) gives the names to the canon collections
   differently; the difference is noted for Andrew, not settled here.
+
+### Gitzew — Fell 1871 and Schodde 1885 (public domain)
+
+**Winand Fell, *Canones Apostolorum aethiopice* (Leipzig: Brockhaus, 1871)**,
+archive.org `canonesapostolor00unse` (a second, poorer scan is
+`canonesapostolo00canogoog`). Cowley: Gessew, the 56 or 57 canons, "has been
+printed in W. Fell." It is the Ethiopic version of the Apostolic Canons (the
+Greek has 85), which Fell edited from Berlin and Tübingen manuscripts.
+
+**George H. Schodde, "The Apostolic Canons, Translated from the Ethiopic,"
+*Journal of the Society of Biblical Literature and Exegesis* 5 (1885), pp.
+61-72**, archive.org `jstor-3268629` (JSTOR's free Early Journal Content).
+Schodde translated Fell's text.
+
+- `sources/english/gitzew.schodde.txt`: Schodde's translation. Chapter = canon,
+  1 to 57; chapter 0 is the opening. Checked word by word against archive.org's
+  OCR; four misreadings corrected from it.
+- `sources/ethiopic-ocr/gitzew.txt`: Fell's Ethiopic text, printed pp. 13-25,
+  uncorrected OCR. All 57 canon headings were found, in order, so the chapters
+  line up with Schodde's. Fell's variant readings (pp. 26-32) and his Latin
+  translation are not transcribed.
+- Fell's introduction lists the whole Ethiopic Sinodos. Two of its sections
+  matter for the canon: *81 further decrees of the apostles, called "tituli"*
+  (Ethiopic *Abtelisat*), "nothing other than a longer edition of the Apostolic
+  Canons", not printed (this is Abtilis, see below); and *30 decrees of the
+  apostles given through Clement*, extant in Arabic and in a Syriac version in
+  27 decrees printed by Lagarde (1856) (this is Sirate Tsion, see below).
