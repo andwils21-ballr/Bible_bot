@@ -41,7 +41,8 @@ def main():
     # A book may survive in several witnesses (1 Enoch is extant in Greek,
     # Ge'ez, Qumran Aramaic and Latin). Print every one that has this chapter,
     # because the places they disagree are the point.
-    LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic", "syriac", "latin")
+    LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic",
+             "ethiopic-ocr", "syriac", "latin")
     found = covered = False
     for lang in LANGS:
         path = os.path.join(ROOT, "sources", lang, lookup_slug + ".txt")
@@ -78,6 +79,7 @@ def main():
         print("Per RENDERING_SPEC.md treat it as tier 'english-only': work from an\n"
               "established English translation, never from memory, and say so in\n"
               "the first note of the chapter.")
+        _english(slug, lookup_chapter)
         return
 
     books = json.load(open(os.path.join(ROOT, "manifest.json"),
@@ -88,6 +90,7 @@ def main():
         print("Per RENDERING_SPEC.md this book is worked from established English\n"
               "translations, NOT from the Ge'ez and NOT from memory. Say which\n"
               "tradition you are following in the first note of chapter 1.")
+        _english(slug, lookup_chapter)
     elif tier == "none":
         print("Per RENDERING_SPEC.md write the (NEED SOURCE TO TRANSLATE) stub\n"
               "and move on to the next renderable book. Do not attempt the text.")
@@ -97,7 +100,8 @@ def main():
               "Record it in NOTES_FOR_ANDREW.md and skip to the next book.")
 
 
-WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic", "syriac", "latin")
+WITNESS_LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic",
+                 "ethiopic-ocr", "syriac", "latin")
 
 
 def _vkey(vs):
@@ -128,19 +132,21 @@ def _english(slug, chapter):
     own reading of a language it cannot check.
     """
     import glob
-    files = sorted(glob.glob(os.path.join(ROOT, "sources", "english",
-                                          slug + ".*.txt")))
+    # English first; French and German scholarly translations where no English exists
+    files = [f for d in ("english", "french", "german")
+             for f in sorted(glob.glob(os.path.join(ROOT, "sources", d, slug + ".*.txt")))]
     printed = False
     for path in files:
         rows = _load(path, chapter)
         if not rows:
             continue
         name = os.path.basename(path).split(".")[1]
+        lang = os.path.basename(os.path.dirname(path)).capitalize()
         if not printed:
             print("# " + "=" * 62)
-            print("# scholarly English of each witness — use this for MEANING")
+            print("# scholarly translation of each witness — use this for MEANING")
             printed = True
-        print(f"\n## {name} (English)")
+        print(f"\n## {name} ({lang})")
         for v in sorted(rows, key=_vkey):
             print(f"{v}\t{rows[v]}")
     if printed:

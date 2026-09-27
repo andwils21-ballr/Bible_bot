@@ -308,3 +308,51 @@ manuscript metadata:
 CC BY 4.0 asks one thing: that this credit stays with the text. It places no
 condition on the renderings or the notes in this repository, which are original
 work, and none on what is done with them.
+
+## The broader canon: public-domain editions found 2026-09-27
+
+Cowley (*Ostkirchliche Studien* 23, 1974, pp. 318-323) names the printed edition
+of each book of the broader canon. The ones that are public domain by age are on
+archive.org and are being added here. Scans are not kept in this repository;
+the archive.org identifier and page range are given so the text can be checked.
+
+**OCR Ge'ez** (`sources/ethiopic-ocr/`). Ge'ez read by machine (Tesseract, its
+Amharic model) from a scanned public-domain edition and **not proofread**. Letter
+accuracy is roughly 95%; the word dividers are normalized to ፡. Every line starts
+`[p. N]`, the printed page, so any word can be checked against the scan. Use it
+only to check names, numbers and the shape of a passage against the editor's
+translation. Never quote a Ge'ez word from it without looking at the page.
+
+**Editors' translations** sit in `sources/english/` (and `sources/french/`,
+`sources/german/` where there is no English), named `<slug>.<editor>.txt`. They
+are OCR'd, then compared word by word with archive.org's own OCR of the same
+pages; the two agree except where noted, and the disagreements were settled from
+the page image. Where the edition has no verse numbers, the verse number is the
+edition's paragraph, counted in order, and the chapter is the edition's own
+numbered unit.
+
+### Te'ezaz — Horner 1904 (public domain)
+
+**G. W. Horner, *The Statutes of the Apostles, or Canones Ecclesiastici*
+(London: Williams & Norgate, 1904)**, archive.org `statutesapostle00unkngoog`.
+Horner died in 1930. Cowley: Te'ezaz, the 71 or 72 canons of the Sinodos, "has
+been printed in G. Horner, *The Statutes of the Apostles*."
+
+- `sources/english/teezaz.horner.txt`: Horner's *Translation of the Ethiopic
+  Text*, pp. 127-232 (PDF pages 173-278). Chapter = Horner's statute number, 1 to
+  72; chapter 0 is the opening blessing. Horner prints two statutes numbered 40
+  (pp. 162 and 178); both are chapter 40. Verse = Horner's paragraph. Footnotes
+  are left out. His transliterated names keep their macrons (Pētros, Amēn).
+- `sources/ethiopic-ocr/teezaz.txt`: his Ethiopic text, pp. 1-87 (PDF 45-131).
+  The Google scan repeats some pages and **lacks printed pages 5, 9, 17, 21, 25,
+  35, 41, 49, 53, 60, 70 and 71**; the file marks each gap. The headings of
+  statutes 12-13, 17-21, 27-28, 35-37, 48-49, 51-52 and 67-68 fall on missing
+  pages or could not be read, so their Ge'ez, where the scan has it, sits under
+  the statute before. Chapter = statute; verse = the statute's share of one
+  printed page.
+- The other copy on archive.org (`bwb_T4-BAF-989`) is the 1915 reprint, which
+  leaves out the Ethiopic.
+- Naming: Cowley's four sections are Ser`atä Seyon (30 canons), Te'ezaz (71),
+  Gessew (56) and Abtelis (81), and this project follows him. An Ethiopian
+  scholar cited by Wanger (2013) gives the names to the canon collections
+  differently; the difference is noted for Andrew, not settled here.
