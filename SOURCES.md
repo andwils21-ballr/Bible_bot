@@ -559,3 +559,22 @@ work has seven books.
   paragraphs, counted in order.
 - No Ge'ez text has been found in print; Gibson's *Apocrypha Arabica* (1901)
   has the Arabic Book I with English, not used here.
+
+### 1st Book of the Covenant — Cooper and Maclean 1902 (a sister version)
+
+The first Book of the Covenant is the Ethiopic *Testamentum Domini*. Its only
+edition of the Ge'ez (Beylot, 1984) is under copyright. The work survives
+more fully in Syriac, and the Ethiopic descends from the same text.
+
+**J. Cooper and A. J. Maclean, *The Testament of Our Lord, translated into
+English from the Syriac* (Edinburgh: T. & T. Clark, 1902)**, archive.org
+`cu31924029296170`. Cooper died in 1922, Maclean in 1943.
+
+- `sources/english/1-covenant.cooper.txt`: their translation, from archive.org's
+  OCR. Chapter = their chapter, Book II numbered on from Book I (Book I 1-46,
+  Book II 1-27 = 47-73); chapter 0 is the opening narrative. Verse = paragraph.
+  Their footnotes are left out. The headings of chapters 7 and 19 are
+  unreadable in the scan, so those chapters sit under 6 and 18.
+- **It is the Syriac, not the Ethiopic.** The Ethiopic differs from it in
+  wording and in places in order; use it for the substance of a chapter and say
+  that it is the Syriac.
