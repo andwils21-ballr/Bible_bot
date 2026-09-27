@@ -449,9 +449,12 @@ disciples in Galilee after his resurrection," "has been printed as L. Guerrier
 and S. Grébaut, *Le Testament en Galilée*."
 
 - `sources/french/2-covenant.guerrier.txt`: Guerrier's French translation.
-  Chapter = his section, 0 (prologue) to 62, located by the titles in his table
-  of contents; verse = paragraph. Where a section's title stands as a paragraph
-  of its own (sections 1, 20, 56) it is verse 0; elsewhere the title opens
+  Chapter = his section, 1 (the prologue) to 62, located by the titles in his
+  table of contents; verse = paragraph. Verse 0 holds a heading: the book's
+  title over section 1, and his headings over sections 2, 20 and 56
+  (corrected 2026-09-27 from the page: the scan reads the prologue's "1." as
+  "D.", and the part title *I. — Prédictions relatives à la fin du monde* had
+  been taken for section 1); elsewhere the title opens
   verse 1 (*16. — Vie publique de Jésus-Christ. —*). The titles are Guerrier's. His variant apparatus and footnotes are left
   out. OCR'd and corrected only where one French word fits; misreadings remain,
   especially in the small-capital section titles.
