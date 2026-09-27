@@ -277,11 +277,14 @@ witness, its scholarly English, and a mechanical divergence list.
   For meaning, use the OCP English (Latin, Greek) and Charles (all chapters);
   never carry Charles's bracketed dates or his emendations into the text. Where
   the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text.
-  **Cut verses (Andrew, 2026-09-26):** where this Ge'ez is cut short against
-  Charles (about 150 verses), fill the missing words from the Latin or Greek if
-  they have them, otherwise from Charles, in [square brackets] in the verse,
-  with a note naming the source of each. Every chapter ends with the **Source
-  text** note.
+  **Cut verses (Andrew, 2026-09-27, replacing the rule of 2026-09-26):** the
+  EOTC text as held here is cut short in several hundred verses; these are
+  losses in its digitization, not in the Ge'ez. Where it is cut, render the
+  missing words from the **Asmara printing** (`ethiopic-gff`), without
+  brackets, and name that text in the chapter's notes. Only words that no Ge'ez
+  text here has (14:16-16:13 and 7:15, which the Asmara file lacks) are filled
+  from the Latin, the Greek or Charles, in [square brackets], with a note. Every
+  chapter ends with the **Source text** note.
 
 ### 1 Meqabyan (Andrew, 2026-09-27)
 

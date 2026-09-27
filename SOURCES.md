@@ -114,6 +114,32 @@ altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
   nearly every chapter: 3:5-6 has Adam sleep and wake with no rib and no woman
   made, 3:20-21 never has the fruit eaten, 22:4 stops at *before Ishmael his
   brother*. The rendering fills them in brackets (see the spec's Jubilees rule).
+- **Correction (2026-09-27): the "cut verses" are losses in the digitization,
+  not in the Ge'ez.** A third, complete Ge'ez text (below) has the words in
+  every cut verse checked (3:5-6, the rib; 47:4, Miriam and the birds; 47:10,
+  the Egyptian; 50:12-13, the Sabbath list). The two Beta Masaheft texts share
+  spellings and gaps (both write *ወአንቅሆ* at 3:6, where the printed text below
+  has *ወአንቅሖ*), so they are not independent of each other.
+- **The Asmara printing** (`sources/ethiopic-gff/jubilees.txt`): the Ge'ez
+  Octateuch and Jubilees printed at Asmara in 1955 E.C. (1962/63), in the 32nd
+  year of Haile Selassie, typed by the Ge'ez Frontier Foundation,
+  `github.com/geezorg/ebooks` (commit 8ec402c),
+  `geez/religious/BiluyKidan/src/`, licensed **CC BY-SA 4.0**, the same licence
+  as Beta Masaheft. The source file is kept in `sources/gff-src/`. The printing
+  divides Jubilees into 39 chapters; its text has been aligned word by word to
+  the EOTC's verse numbers, so the verse boundaries are approximate (a few words
+  can sit in the neighbouring verse). The typed file lacks 14:16-16:13 (its
+  chapter 15), and has no text for 7:15. The alignment matched 15,728 of the
+  EOTC's 19,627 words; the printing has about 5,000 more words than the EOTC
+  text as held here.
+- **Dates checked against it (2026-09-27).** Most of the dates that break the
+  book's arithmetic read the same in the Asmara printing (5:22, 21:1, 22:1,
+  24:21, 31:27), so they are in the printed text, not the digitization. It
+  differs at 16:16 (*seven* sons, where the EOTC has *six*), 46:8 (Joseph dies
+  in the *third week of the forty-seventh* jubilee, where the EOTC has the
+  *sixth week of the forty-sixth*) and 48:1 (*six* weeks and one year, where the
+  EOTC has *five*). It carries dates the EOTC text had lost: 11:15 (Abram's
+  naming), 28:24 (Joseph's birth), 36:18 (Isaac's age at death).
 - The Latin and Greek witnesses (OCP, below) are numbered as in Charles, as far
   as spot checks show (20:5, 30:1, 45:10). The EOTC's verse count matches
   Charles's in 46 of the 50 chapters (not 1, 4, 11, 26).

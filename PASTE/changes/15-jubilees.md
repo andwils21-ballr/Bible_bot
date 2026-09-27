@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+**Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: none. Next: chapter 1.
+
+## Jubilees: the cut verses restored from the Asmara printing (Andrew, 2026-09-27)
+
+**Request:** Andrew approved (1) adding the Asmara printing of the Ge'ez (Ge'ez Frontier Foundation, CC BY-SA 4.0) as a source, (2) re-rendering the bracketed verses from it, (3) checking the dates against it.
+
+**Finding:** the "cut verses" are losses in the Beta Masaheft digitization. The Asmara printing has the words in 258 of the 455 bracketed verses by a mechanical length test; the rest are checked by hand, chapter by chapter. It lacks 14:16–16:13 and 7:15, where the brackets stay.
+
+**Dates:** most read the same in both printings (5:22, 21:1, 22:1, 24:21, 31:27), so they belong to the printed text and still wait on choice #1 of the 1 Enoch 72 report. The Asmara printing differs at 16:16 (seven sons, not six), 46:8 (Joseph dies in the third week of the forty-seventh jubilee: 2270, not 2242) and 48:1 (six weeks and one year, not five), and restores the dates at 11:15, 28:24 and 36:18.
+
+The verse-by-verse tables follow, one entry per run.
+
 ## Jubilees 7:13, 7:17: "Egypt" and "south" (2026-09-26, Jubilees loop run 4)
 
 **Why:** chapter 8 shows that the Ge'ez *samen* is the side of Ham's hot land, where Charles has *south*, so 7:17 now follows him (see the 8 note on north and south). Chapter 9 names Ham's son as this project's Genesis 10:6 does, *Egypt*.
