@@ -2,6 +2,34 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jubilees 27–28 (Jubilees loop, run 13, 2026-09-27)
+
+**Landed:**
+- **Chapter 27:** Rebekah learns in a dream of Esau's plan and sends Jacob away; Isaac charges and blesses him and comforts Rebekah; Jacob's dream of the stairway at Bethel, the pillar and the vow.
+- **Chapter 28:** Jacob serves for Rachel and is given Leah; the law of the elder daughter is written on the tablets of heaven; the twelve children are born, each with its date; the wages of the marked flocks, and Laban's jealousy.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 27:15, 21, 23 | cut | [filled from the Latin] (noted) |
+| 27:1, 6, 8, 27 | cut | [filled from Charles] (noted) |
+| 27:10, 12 | *Masṗeṭomyā* | Mesopotamia (Genesis *Paddan-aram*; noted) |
+| 27:23 | "the sand of the earth" | kept (Genesis *dust*; noted) |
+| 27:25 | *wa-noma*, "and he slept" | Jacob woke (with Charles and the sense; noted) |
+| 28:17, 18, 22, 24 | cut | [filled from the Latin] (noted) |
+| 28:4–7, 11, 13, 14, 15, 16 | cut | [filled from Charles] (noted) |
+| 28:18, 23 | the Latin's birth dates scrambled | the dates follow Charles (noted) |
+| 28:27–28 | the colors of the flocks | dark, speckled, spotted, marked (as Genesis 30:32 in this project) |
+
+**Checks:**
+- Verse counts equal the EOTC's (27, 30).
+- 27:19 is 2115: Jacob is sixty-nine; the Latin has *the second year* (noted).
+- 28:11–24: the births run from 2122 to 2134, all inside the chapter's own weeks (listed in the notes).
+- Quotations printed and checked.
+
+**Left standing on purpose:** 27:25, where the English says *woke* against the EOTC's *slept*.
+
+**Choices for you:** none new.
+
 ## Jubilees 25–26 (Jubilees loop, run 12, 2026-09-27)
 
 **Landed:**
