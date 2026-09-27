@@ -497,3 +497,24 @@ PDF pages 20-34. Dillmann died in 1894.
   given as three hundred and three weeks of days, not 477 years.
 - No English translation of the Ethiopic is held here; for meaning use the OCP
   English of the Greek.
+
+## Jubilees: Charles's Ethiopic, 1895 (public domain), chapters 7 and 14-16
+
+**R. H. Charles, *The Ethiopic Version of the Hebrew Book of Jubilees*
+(Oxford: Clarendon, 1895)**, pp. 25-30 and 48-60; archive.org
+`CharlesEthiopicJubilees` (the scan holds the book twice; PDF pages 60-65 and
+119-131 are used).
+
+- `sources/ethiopic-ocr/jubilees.txt`: his Ge'ez for chapters 7 and 14-16,
+  uncorrected OCR (see *OCR Ge'ez* above). These are the chapters where the
+  rendered text has words in [brackets] as "in no Ge'ez text here". Both Beta
+  Masaheft texts (EOTC and HaCohen) are cut short in the same verses, and the
+  Asmara file lacks 14:16-16:13. Charles's Ge'ez has the missing words in all
+  24 bracketed verses (7:11, 7:18, 7:24; 14:18-24; 15:2-34; 16:2, 16:5).
+- Charles prints verse numbers only in the margin. Each verse here starts
+  where the EOTC's opening words are found in his text. Five starts were set
+  by reading (7:14, 7:15, 14:19, 15:12, 15:25). 14:15 and 15:3 could not be
+  placed and are joined to the verse before. The OCR confuses vowel forms of
+  the same letter (ለ/ሰ, ን/ነ).
+- HaCohen's file runs some verses together with the number inline (15:9 holds
+  15:10, "10 [ወእሁብ ..."); it is not missing them.
