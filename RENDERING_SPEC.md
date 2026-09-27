@@ -219,7 +219,7 @@ the deuterocanon). `sources/swete-src/` holds the whole Septuagint.
 If the helper reports no source, obey what it says for the book's tier:
 
 - **`english-only`** is worked from established translations, and chapter 1's
-  first note says so. Currently: 1–3 Meqabyan (Ge'ez found, not yet in
+  first note says so. Currently: 2–3 Meqabyan (Ge'ez found, not yet in
   `sources/`) and Esther 11–16.
 - **`none`** gets the stub only (see Honesty rules). Currently: Josippon and
   books 82–89.
@@ -282,6 +282,18 @@ witness, its scholarly English, and a mechanical divergence list.
   they have them, otherwise from Charles, in [square brackets] in the verse,
   with a note naming the source of each. Every chapter ends with the **Source
   text** note.
+
+### 1 Meqabyan (Andrew, 2026-09-27)
+
+Tier `source`, worked from the one text there is: the EOTC Ge'ez
+(`ethiopic-eotc`), which sets the verse count and numbering. There is no Greek,
+Latin or Hebrew witness and no public-domain English. Andrew's Amharic (chapters
+1-8, private) may be read to check meaning, never copied, quoted or credited as a
+source. Where a numeral in the Ge'ez is cut short or lost (see `SOURCES.md`), the
+verse follows the Amharic's number and a note quotes what the Ge'ez has. A claim
+about what a Ge'ez word means is stated as a rendering, with the Ge'ez quoted;
+build no argument on its supposed root. Every chapter ends with the **Source
+text** note.
 
 ## The notes standard
 

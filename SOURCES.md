@@ -118,6 +118,31 @@ altered. The prologue before chapter 1 is stored as chapter 0 (`0:1`, `0:2`).
   as spot checks show (20:5, 30:1, 45:10). The EOTC's verse count matches
   Charles's in 46 of the 50 chapters (not 1, 4, 11, 26).
 
+**1 Meqabyan (Andrew, 2026-09-27):** 1 Meqabyan is rendered from the EOTC Ge'ez
+(`sources/ethiopic-eotc/1-meqabyan.txt`, from `1001-2000/LIT1819Maccab.xml`,
+edition "Text of the EOTC printed Bible"), which is the base text and sets the
+verse numbering, on the same terms as 1 Enoch and Jubilees: the share-alike terms
+above apply to the 1 Meqabyan renderings. Downloaded 2026-09-27 from the `master`
+branch of `BetaMasaheft/Works` (the commit hash could not be read from here); the
+XML is kept in `sources/betamasaheft-xml/`. Only the markup was removed; no word
+was altered. 36 chapters, 753 verses.
+
+- **Numerals split off as verses.** Nine `<l n>` lines in the XML carry a verse
+  number out of sequence. They are Arabic numerals written inside the text (the
+  file writes numbers as digits elsewhere too, *ለ5አኃው*), which the markup read
+  as verse numbers. They are rejoined to the verse they belong to, as digits:
+  1:21, 4:5, 5:4, 8:3, 8:6, 10:3, 14:2, 28:6 (twice). Some are cut short: 1:21
+  has *4* where Andrew's Amharic has *forty*, and 4:5 has *4* where it has
+  *fourteen*. Other numerals are lost to stray characters (`%` or `)`, as in
+  1:16, 1:22, 10:3).
+- **Checked against Andrew's Amharic** (Ethiopian Bible App, chapters 1-8, held
+  privately in `andwils21-ballr/Ethiopic`, not cleared for redistribution): verse
+  counts match in chapters 1-4 and 7-8; chapters 5-6 differ by one verse
+  boundary (40/37 here, 39/38 there).
+- **No other witness.** There is no Greek, Latin or Hebrew text of this book, and
+  no public-domain English translation has been found. The Amharic may be read
+  to check meaning, never copied or quoted.
+
 - LPettay's `3Meq` folder is **2 Meqabyan** mislabelled: its opening and closing
   words are identical to Beta Masaheft's Second Book. LPettay has no 3 Meqabyan.
 - The nine tier-`none` books: **no usable Ge'ez anywhere in either collection.**

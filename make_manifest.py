@@ -29,7 +29,7 @@ BOOKS = [
     (20, "Tobit",                "tobit",            14,  "source"),
     (21, "Judith",               "judith",           16,  "source"),
     (22, "Esther",               "esther",           16,  "source"),
-    (23, "1 Meqabyan",           "1-meqabyan",       36,  "english-only"),
+    (23, "1 Meqabyan",           "1-meqabyan",       36,  "source"),
     (24, "2 Meqabyan",           "2-meqabyan",       21,  "english-only"),
     (25, "3 Meqabyan",           "3-meqabyan",       10,  "english-only"),
     (26, "Job",                  "job",              42,  "source"),

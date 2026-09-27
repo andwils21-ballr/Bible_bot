@@ -28,7 +28,7 @@ Next up: **Numbers 31**
 | 20 | Tobit | source | 0/14 |
 | 21 | Judith | source | 0/16 |
 | 22 | Esther | source | 0/16 |
-| 23 | 1 Meqabyan | english-only | 0/36 |
+| 23 | 1 Meqabyan | source | 0/36 |
 | 24 | 2 Meqabyan | english-only | 0/21 |
 | 25 | 3 Meqabyan | english-only | 0/10 |
 | 26 | Job | source | 0/42 |
