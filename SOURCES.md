@@ -578,3 +578,34 @@ English from the Syriac* (Edinburgh: T. & T. Clark, 1902)**, archive.org
 - **It is the Syriac, not the Ethiopic.** The Ethiopic differs from it in
   wording and in places in order; use it for the substance of a chapter and say
   that it is the Syriac.
+
+### Sirate Tsion and Abtilis — Tattam 1848 (sister versions)
+
+No Ge'ez text of either has been printed (Fell 1871 names both and prints
+neither; see Gitzew above). Both survive in Coptic, and the Ethiopic Sinodos
+was translated from the same Coptic-Arabic collection.
+
+**Henry Tattam, *The Apostolical Constitutions, or Canons of the Apostles, in
+Coptic, with an English translation* (London: Oriental Translation Fund,
+1848)**, archive.org `apostolicalconst00tattrich`. Tattam died in 1868. The
+book alternates Coptic and English pages; only the English is taken.
+
+- `sources/english/sirate-tsion.tattam.txt`: Tattam's first book, the 30 canons
+  "of our Fathers the Apostles … by the hands of Clemens" (the Apostolic Church
+  Order: John, Matthew, Peter and the other apostles speak in turn). This is
+  Fell's "30 decrees of the apostles given through Clement", which Cowley calls
+  Ser`atä Seyon. Chapter = canon, 1 to 30; canon 1 carries no number in the
+  print and begins with the opening address. Verse = paragraph.
+- `sources/english/abtilis.tattam.txt`: Tattam's Seventh Book, the 85 Apostolic
+  Canons (pp. 174-214). Fell calls the Ethiopic Abtilis "a longer edition of the
+  Apostolic Canons"; Cowley counts 81 in it, so **its numbering will not match
+  Tattam's 85**. Chapter = Tattam's canon number; verse = paragraph. Tattam
+  prints 12-13, 18-19 and 21-22 as one canon each, so their text sits under 12,
+  18 and 21 and chapters 13, 19 and 22 are empty. Canons 47-50 are not in the
+  Coptic (his note, p. 190). He prints 66 between 63 and 64; it is kept as 66.
+  The closing blessing is part of 85; the scribe's colophon is left out.
+- Both from archive.org's OCR. Footnotes, margin marks and page heads are left
+  out. About thirty OCR misreadings were corrected where context settles them (`Matfhew`,
+  `Jill` for "till", `Joss` for "loss", `fleet` for "fled", and the like).
+- **It is the Coptic, not the Ethiopic.** Use it for the substance of a canon
+  and say that it is the Coptic.
