@@ -404,8 +404,8 @@ blank; all 188 printed pages of the translation are present). Harden died in
 Didascalia*, London 1920."
 
 - `sources/english/didascalia.harden.txt`: Harden's translation. Chapter =
-  Harden's chapter, 1 to 43; verse = his paragraph (verse 1 is the chapter's
-  title). His references to the Greek *Apostolic Constitutions* (`[ii., 57.]`)
+  Harden's chapter, 1 to 43; verse = his paragraph (verse 0 is the chapter's
+  title, set above verse 1 as a Psalm title is; moved from verse 1 2026-09-27). His references to the Greek *Apostolic Constitutions* (`[ii., 57.]`)
   are kept at the head of paragraphs; his footnotes (variant readings) are left
   out. OCR'd with each two-page image split in two; the letter confusions of
   this print (*c* for *e*, *y* for *g*) were corrected only where one English
@@ -450,7 +450,9 @@ and S. Grébaut, *Le Testament en Galilée*."
 
 - `sources/french/2-covenant.guerrier.txt`: Guerrier's French translation.
   Chapter = his section, 0 (prologue) to 62, located by the titles in his table
-  of contents; verse = paragraph. His variant apparatus and footnotes are left
+  of contents; verse = paragraph. Where a section's title stands as a paragraph
+  of its own (sections 1, 20, 56) it is verse 0; elsewhere the title opens
+  verse 1 (*16. — Vie publique de Jésus-Christ. —*). The titles are Guerrier's. His variant apparatus and footnotes are left
   out. OCR'd and corrected only where one French word fits; misreadings remain,
   especially in the small-capital section titles.
 - `sources/ethiopic-ocr/2-covenant.txt`: his Ethiopic text (manuscript C with
