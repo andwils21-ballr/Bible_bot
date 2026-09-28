@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 15 (canon and Matthew loop, run 9, 2026-09-27)
+
+**Landed:**
+- **Chapter 15:** the tradition of the elders; what makes a person unclean; the Canaanite woman; healing by the Sea of Galilee; seven loaves for four thousand.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 15:4 | *thanatō teleutatō* | shall surely die (noted) |
+| 15:5 | *Dōron* | a gift to God (noted, with Mark's *Korban*) |
+| 15:11 | *koinoi* | makes unclean (noted) |
+| 15:17 | *eis aphedrōna* | into the latrine |
+| 15:26 | *tois kynariois* | to the dogs (noted) |
+| 15:36 | *eucharistēsas* | after giving thanks (noted) |
+
+**Checks:** verse count equals the Greek (39); no banned words; the only "And"-start is *And here —* (15:22); quotations printed and checked (Exodus 20:12, 21:17 and Genesis 10:15, 19 in this project's wording; Isaiah 29:13 Hebrew and Greek; Mark 7:11, 26 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Matthew 14 (canon and Matthew loop, run 8, 2026-09-27)
 
 **Landed:**
