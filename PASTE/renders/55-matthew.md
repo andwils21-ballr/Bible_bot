@@ -16,7 +16,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 12:40 | *kētos* | the sea creature (noted) |
 | 12:49 | *Idou* | Here are |
 
-**Checks:** verse count equals the Greek (50); no banned words; no "And"-starts; quotations printed and checked (Leviticus 24:5–9; Numbers 28:9–10; Deuteronomy 23:26; 1 Samuel 21:7; 1 Kings 10:1; Isaiah 42:1–4 Hebrew and Greek; Jonah 2:1, 3:5).
+**Checks:** verse count equals the Greek (50); no banned words; the only "And"-start is *And here —* (12:10); quotations printed and checked (Leviticus 24:5–9; Numbers 28:9–10; Deuteronomy 23:26; 1 Samuel 21:7; 1 Kings 10:1; Isaiah 42:1–4 Hebrew and Greek; Jonah 2:1, 3:5).
 
 **Left standing on purpose:**
 - 12:47 — ***KEPT AS IS***: rendered, though the edition marks the verse as one where manuscripts differ; v48 depends on it. Noted.
