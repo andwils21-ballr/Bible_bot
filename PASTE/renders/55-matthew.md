@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 8–9 (canon and Matthew loop, run 5, 2026-09-27)
+
+**Landed:**
+- **Chapter 8:** the man with blight; the centurion's servant; Peter's mother-in-law; would-be followers; the storm; the two possessed men and the pigs.
+- **Chapter 9:** the paralyzed man forgiven; the call of Matthew; the bridegroom and new wine; the leader's daughter and the woman who touched the tassel; two blind men and a mute man; the harvest.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 8:2–3 | *lepros*, *lepra* | a man with blight, his blight (see Choices) |
+| 8:12 | *the grinding of the teeth* | grinding of teeth |
+| 8:24 | *a great shaking* (*seismos*) | a great storm (noted) |
+| 9:15 | *the sons of the bridal chamber* | the wedding guests (noted) |
+| 9:20 | *tou kraspedou* | the tassel (Numbers 15:38, noted) |
+| 9:22 | *sesōken se* | has made you well (noted: *saved*) |
+
+**Checks:** verse counts equal the Greek (34, 38); no banned words; the only "And"-starts are *And here —* and *And it came to pass* (9:10); quotations printed and checked (Leviticus 5:3, 13:45–46, 14:2–4, 15:25; Numbers 15:38 Hebrew and Greek, 27:17; 1 Kings 19:20; Psalm 107:29; Isaiah 53:4 Hebrew and Greek; Daniel 7:13; Hosea 6:6 Hebrew and Greek; Jonah 1:5–6; Matthew 10:3, 12:7).
+
+**Left standing on purpose:** none.
+
+**Choices for you:**
+1. **8:2–3, *lepra* = blight.** The Greek *lepra* is the Old Testament Greek for *tsara'at*, which this project renders *blight* by your ruling of 2026-09-23; the Gospel's man is therefore *a man with blight*. The alternative is the familiar *leper*. Either way it recurs (10:8; 11:5; 26:6).
+
 ## Matthew 5–7 (canon and Matthew loop, run 4, 2026-09-27)
 
 **Landed:**
