@@ -2,6 +2,58 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 25–27 (OT loop, run 10, 6:52 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 25, 26, 27. Progress 371 → **374 of 1,989 (18.8%)**. Next is Deuteronomy 28.
+
+### Deuteronomy 25: Remember Amalek
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-hitsdiqu et ha-tsaddiq ve-hirshi'u et ha-rasha* | declaring the righteous one righteous and the wicked one wicked |
+| 3 | *pen yosif* | or if he goes on |
+| 3 | *ve-niqlah achikha* | your brother would be degraded (noted) |
+| 5, 7 | *yabbem*, *yevamah* | do the brother's duty (as Genesis 38:8, noted); her husband's brother |
+| 6 | *yaqum al shem achiv* | shall carry on the name of his dead brother (noted) |
+| 10 | *beit chalutz ha-na'al* | The house of him whose sandal was pulled off |
+| 11 | *bi-mevushav* | by his private parts (noted) |
+| 13–14 | *even va-even… eifah ve-eifah* | two kinds of weights… two kinds of ephah (noted) |
+| 18 | *va-yezanev bekha* | cut off at your rear |
+| 19 | *timcheh et zekher Amaleq* | blot out the memory of Amalek (as Exodus 17:14, noted) |
+
+### Deuteronomy 26: A Wandering Aramean
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tene* | a basket |
+| 5 | *arammi oved avi* | A wandering Aramean was my father (noted) |
+| 6–7 | *va-ye'annunu… 'onyenu… lachatsenu* | afflicted us… our affliction… our crushing (as Exodus 1:11, 3:7, 3:9; noted) |
+| 8 | *u-ve-mora gadol* | with great terror |
+| 10 | *ve-attah hinneh heveti* | And now I have brought (*here —* cut, per ruling; *And now* in speech kept) |
+| 13 | *bi'arti ha-qodesh* | I have removed the holy portion (noted) |
+| 15 | *hashqifah* | Look down (as Genesis 18:16, noted) |
+| 17–18 | *he'emarta… he'emirkha* | You have declared… The LORD has declared (noted) |
+
+### Deuteronomy 27: Stones on Mount Ebal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 4 | *ve-sadta otam ba-sid* | plaster them with plaster (noted) |
+| 5 | *lo tanif aleihem barzel* | You shall not wield any iron tool on them (as Exodus 20:25, noted) |
+| 6 | *avanim shelemot* | whole stones (noted) |
+| 8 | *ba'er heitev* | making them very plain (as 1:5, noted) |
+| 9 | *hasket* | Be silent |
+| 15–26 | *ve-anu… ve-amar kol ha-am amen* | All the people shall (answer and) say, 'Amen' (the *and* dropped, per the And-start rule) |
+| 16 | *maqleh* | dishonors (noted) |
+| 18 | *mashgeh iver* | makes a blind man stray (noted) |
+| 20 | *kenaf aviv* | his father's skirt (as 23:1) |
+
+**Checks:** verse counts equal the Hebrew (19, 19, 26); no banned words; "And"-starts only *And it shall come to pass* (25:6, 26:1, 27:2, 27:4) and *And now* in speech (26:10); no *here —* or *look —*; every quotation printed and checked (Genesis 18:16, 31:20, 38:8–9; Exodus 1:11, 1:14, 3:7, 3:9, 17:8–16, 19:6, 20:25, 21:15, 21:17; Leviticus 19:14, 19:35–36; Deuteronomy 1:5, 5:16, 22:3; Joshua 8:32; Ruth 4:7; Matthew 22:24; Greek of 1 Corinthians 9:9, 2 Corinthians 11:24, Galatians 3:10).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 22–24 (OT loop, run 9, 6:46 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 22, 23, 24. Progress 368 → **371 of 1,989 (18.7%)**. Next is Deuteronomy 25.
