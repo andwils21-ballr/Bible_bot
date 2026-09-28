@@ -2,6 +2,51 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 28–29 (OT loop, run 11, 6:57 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 28 (69 verses), 29. Progress 374 → **376 of 1,989 (18.9%)**. Next is Deuteronomy 30.
+
+### Deuteronomy 28: Blessings and Curses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4, 18 | *peri vitnekha u-feri admatekha* | the fruit of your womb and the fruit of your ground (as the Jubilees note quoting this verse) |
+| 5, 17 | *tan'akha u-mish'artekha* | your basket and your kneading bowl |
+| 10 | *shem YHWH niqra alekha* | the name of the LORD is called over you (noted) |
+| 20 | *ha-me'erah, ha-mehumah, ha-mig'eret* | the curse, the confusion and the rebuke |
+| 22 | *shachefet, qaddachat* | wasting disease and fever (as Leviticus 26:16, noted) |
+| 27 | written *ofalim*, read *techorim* | tumors (noted) |
+| 30 | written *yishgalennah*, read *yishkavennah* | will lie with her (noted) |
+| 37 | *le-shammah, le-mashal ve-li-shninah* | a horror, a proverb and a byword |
+| 42 | *ha-tselatsal* | the cricket |
+| 50 | *az panim… lo yissa fanim* | hard of face… will not lift the face |
+| 54, 56 | *tera eino* | will look with an evil eye |
+| 63 | *sas… yasis* | delighted… will delight (noted) |
+| 65 | *lev ragaz, kilyon einayim, da'avon nefesh* | a trembling heart, failing eyes and a languishing soul |
+| 67 | *mi yitten erev* | If only it were evening! |
+| 69 | (English 29:1) | noted |
+
+### Deuteronomy 29: The Covenant in Moab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–28 | (English 29:2–29) | noted |
+| 3 | *lev la-da'at* | a heart to know (noted) |
+| 11 | *u-ve-alato* | and into His oath |
+| 16 | *shiqqutseihem… gilluleihem* | their loathsome things and their idols (fixed term; as Leviticus 26:30) |
+| 17 | *pen yesh* | Let there not be |
+| 17 | *shoresh poreh rosh ve-la'anah* | a root bearing poison and wormwood (noted) |
+| 18 | *sefot ha-ravah et ha-tseme'ah* | sweeping away the watered with the dry (***KEPT AS IS***: the phrase is obscure; noted) |
+| 19 | *ye'shan af YHWH* | the anger of the LORD… will smoke |
+| 22 | *ke-mahpekhat Sedom* | like the overthrow of Sodom (as Genesis 19:25, noted) |
+| 28 | dotted *lanu u-le-vaneinu* | to us and to our sons (the scribal dots noted) |
+
+**Checks:** verse counts equal the Hebrew (69, 28); no banned words; "And"-starts only *And it shall come to pass* (28:1, 28:15, 28:63); no *here —* or *look —*; every quotation printed and checked (Genesis 14:2, 19:24–25; Exodus 9:9; Leviticus 26:16, 26:19, 26:29–30; Deuteronomy 5:3, 8:4; Joshua 9:21; 1 Samuel 5:6; 2 Kings 6:28–29; Lamentations 4:10; Greek of Romans 11:8 and Hebrews 12:15). The "ten dotted passages" count in the 29:28 note is the traditional rabbinic count and is not printed from a source here.
+
+**Left standing on purpose:** 29:18, *sweeping away the watered with the dry*, kept close to the Hebrew because no one knows exactly what the proverb means; the note says so.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 25–27 (OT loop, run 10, 6:52 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 25, 26, 27. Progress 371 → **374 of 1,989 (18.8%)**. Next is Deuteronomy 28.
