@@ -2,6 +2,61 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 22–24 (OT loop, run 9, 6:46 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 22, 23, 24. Progress 368 → **371 of 1,989 (18.7%)**. Next is Deuteronomy 25.
+
+### Deuteronomy 22: Your Brother's Ox
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 3, 4 | *ve-hit'allamta* | hide yourself (noted) |
+| 5 | *keli gever* | a man's gear |
+| 8 | *ma'aqeh* | a parapet (noted) |
+| 9 | *kil'ayim*, *pen tiqdash* | two kinds of seed, or… will become holy (as Leviticus 19:19, noted) |
+| 11 | *sha'atnez* | mixed cloth (noted) |
+| 12 | *gedilim* | tassels (a different word from *tsitsit*, noted) |
+| 14, 17 | *alilot devarim* | charges |
+| 15–29 | written *na'ar*, read *na'arah* | the girl (the reading followed, noted) |
+| 17 | *ve-hinneh hu sam* | He has made charges (*here —* cut, per ruling) |
+| 21 | *nevalah* | an outrage (as Genesis 34:7) |
+| 24, 29 | *'innah* | violated (as 21:14 and Genesis 34:2) |
+
+### Deuteronomy 23: The Assembly of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kenaf aviv*, "his father's wing" | his father's skirt (English 22:30, noted) |
+| 2 | *petsua dakka u-khrut shofkhah* | whose testicles are crushed or whose male organ is cut off |
+| 3 | *mamzer* | one born of a forbidden union (noted) |
+| 8 | *lo tet'aev* | You shall not detest (verb of *to'evah*) |
+| 11 | *miqreh laylah* | what happened in the night (noted) |
+| 14 | *yated* | a spade |
+| 15 | *ervat davar* | anything indecent |
+| 17 | *lo tonennu* | You shall not wrong him (as Exodus 22:21, noted) |
+| 18 | *qedeshah… qadesh* | consecrated woman… consecrated man (as Genesis 38:21, noted) |
+| 19 | *mechir kelev* | the price of a dog (noted) |
+| 20–21 | *neshekh* | interest |
+
+### Deuteronomy 24: Remember That You Were a Slave
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ervat davar* | something indecent (as 23:15, noted) |
+| 1, 3 | *sefer keritut* | a certificate of divorce (as Matthew 19:7) |
+| 4 | *huttamma'ah* | she has been made unclean |
+| 6 | *ki nefesh hu chovel* | for he would be taking a life in pledge |
+| 8 | *nega ha-tsara'at* | a mark of blight (fixed term) |
+| 14 | *lo ta'ashoq* | You shall not exploit (as Leviticus 19:13) |
+| 15 | *ve-elav hu nose et nafsho* | sets his heart on it |
+| 20 | *lo tefa'er acharekha* | you shall not go over the branches after you |
+
+**Checks:** verse counts equal the Hebrew (29, 26, 22); no banned words; "And"-starts only *And it shall come to pass* (23:12); no *here —* or *look —*; every quotation printed and checked (Genesis 3:8, 9:22, 34:2, 34:7, 38:21; Exodus 21:16, 22:16–17, 22:21, 22:26–27, 23:4–5; Leviticus 15:16, 18:8, 19:9–10, 19:13, 19:19, 25:37; Numbers 12:10, 15:38, 22:5, 30:2; Deuteronomy 5:16; 2 Kings 14:5–6; Nehemiah 13:1–2; Ruth 4:17; Zechariah 9:6; Matthew 5:31–32, 9:20, 12:1, 19:7). The Shammai–Hillel note is cited to the Mishnah, Gittin 9:10; the Mishnah is not among the project's sources, so that one line rests on the citation, not on a printed text.
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 19–21 (OT loop, run 8, 6:41 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 19, 20, 21. Progress 365 → **368 of 1,989 (18.5%)**. Next is Deuteronomy 22.
