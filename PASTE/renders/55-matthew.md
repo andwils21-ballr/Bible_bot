@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 14 (canon and Matthew loop, run 8, 2026-09-27)
+
+**Landed:**
+- **Chapter 14:** Herod and the death of John; five loaves and two fish; walking on the sea; Gennesaret.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 14:1 | *ho tetraarchēs* | the tetrarch (noted) |
+| 14:8 | *epi pinaki* | on a platter |
+| 14:19 | *eulogēsen* | said the blessing (noted) |
+| 14:24 | *stadious pollous* | many stadia |
+| 14:27 | *Tharseite, egō eimi* | Take heart; I am (noted) |
+| 14:36 | *tou kraspedou* | the tassel (as 9:20) |
+
+**Checks:** verse count equals the Greek (36); no banned words; no "And"-starts; quotations printed and checked (Exodus 3:14 and Leviticus 18:16, 20:21 in this project's wording; 2 Kings 4:42–44; Job 9:8 Hebrew and Greek; Matthew 26:26 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:**
+- 14:27 — *egō eimi* is rendered **I am**, bare, so the echo of Exodus 3:14 can be heard. The usual English is **It is I**. Say which you want.
+
 ## Matthew 13 (canon and Matthew loop, run 8, 2026-09-27)
 
 **Landed:**
