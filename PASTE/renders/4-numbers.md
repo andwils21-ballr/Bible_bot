@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Numbers 31–34 (OT loop, run 1, 6:50 PM Central, 2026-09-28)
+## Numbers 31–34 (OT loop, run 1, 5:55 PM Central, 2026-09-28)
 
 **Landed:** Numbers 31, 32, 33, 34. Progress 341 → **345 of 1,989 (17.3%)**. Next is Numbers 35. The rulings of 2026-09-28 apply: no *here —* / *look —* for *hinneh*.
 
