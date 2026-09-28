@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 17 (canon and Matthew loop, run 11, 2026-09-27)
+
+**Landed:**
+- **Chapter 17:** the transfiguration; Elijah has come; the boy with a demon; the second prediction of the passion; the temple tax and the coin in the fish.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 17:2 | *metemorphōthē* | He was transfigured (noted) |
+| 17:5 | *idou… idou* | here — … here — |
+| 17:11 | *apokatastēsei* | he will restore (noted, Malachi) |
+| 17:15 | *selēniazetai* | he has seizures (noted: *moonstruck*, as 4:24) |
+| 17:24 | *ta didrachma* | the two-drachma tax (noted, Exodus 30:13) |
+| 17:27 | *statēra* | a stater (noted) |
+
+**Checks:** verse count equals the Greek (26 — the edition has no v21); no banned words; the only "And"-start is *And here —* (17:3); quotations printed and checked (Exodus 24:15, 30:13, 15 in this project's wording; Deuteronomy 18:15 Hebrew and Greek; Malachi 3:23–24 Hebrew and 4:6 Greek; Matthew 4:24).
+
+**Left standing on purpose:**
+- 17:21 — ***KEPT AS IS***: the edition has no verse 21, so none is rendered; the numbering skips from 20 to 22. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 16 (canon and Matthew loop, run 10, 2026-09-27)
 
 **Landed:**
