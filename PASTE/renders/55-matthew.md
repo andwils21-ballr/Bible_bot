@@ -2,6 +2,29 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 27 (canon and Matthew loop, run 21, 2026-09-27)
+
+**Landed:**
+- **Chapter 27:** handed over to Pilate; the death of Judas; before Pilate and Barabbas; the soldiers' mockery; the crucifixion; the death of Jesus; the burial; the guard at the tomb.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 27:6 | *eis ton korbanan* | into the treasury (noted) |
+| 27:9 | *Kai elabon* | They took (no "And" start, inside the quotation) |
+| 27:11 | *Sy legeis* | You say so |
+| 27:16–17 | *Iēsoun Barabban* | Jesus Barabbas (noted) |
+| 27:27 | *speiran* | cohort |
+| 27:46 | *Ēli ēli lema sabachthani* | Eli, Eli, lema sabachthani (kept, then translated as the text does) |
+| 27:48 | *oxous* | sour wine (noted) |
+| 27:63 | *Kyrie* | Sir |
+
+**Checks:** verse count equals the Greek (66); no banned words; the only "And"-start is *And here —* (27:51); quotations printed and checked (Zechariah 11:13, Jeremiah 18:2, 32:9, Deuteronomy 21:6–7, Psalm 22:2, 8, 9, 19, Psalm 69:22, Amos 8:9, Isaiah 53:9 Hebrew; Psalm 21:9 and 68:22 Greek).
+
+**Left standing on purpose:**
+- 27:16–17 — ***KEPT AS IS***: *Jesus Barabbas* is rendered, though the edition marks the name *Jesus* as a place where manuscripts differ. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 26 (canon and Matthew loop, run 20, 2026-09-27)
 
 **Landed:**
