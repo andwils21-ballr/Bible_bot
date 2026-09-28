@@ -2,6 +2,42 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 35–36 (OT loop, run 2, 6:25 PM Central, 2026-09-28) — Numbers complete
+
+**Landed:** Numbers 35, 36. Numbers is finished; the run went on into Deuteronomy 1–2 (see that book's file). Progress 345 → **349 of 1,989 (17.5%)**.
+
+### Numbers 35: Towns of the Levites, and Towns of Refuge
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *migrash* | pasture land (as Leviticus 25:34, noted) |
+| 11 | *ve-hiqritem*, "make happen" | you shall choose |
+| 11 | *rotseach makkeh nefesh bi-shgagah* | the one who kills a person by mistake (noted) |
+| 12, 19 | *go'el (ha-dam)* | the avenger (of blood) (noted) |
+| 15 | *la-ger ve-la-toshav* | the guest and the resident (fixed terms) |
+| 16–18 | *mot yumat* | shall be put to death |
+| 20 | *bi-tsdiyyah* | while lying in wait |
+| 23 | *be-lo re'ot*, "without seeing" | without seeing him |
+| 27 | *ein lo dam*, "there is no blood to him" | there is no bloodguilt on him |
+| 30 | *le-fi edim*, "by the mouth of witnesses" | on the word of witnesses |
+| 33 | *tachanifu* | pollute (noted) |
+
+### Numbers 36: The Inheritance Stays in the Tribe
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *nigre'ah*, "be diminished" | be taken away (as 27:4, noted) |
+| 5 | *ken… dovrim* | is right in what it says (as 27:7, noted) |
+| 6 | *la-tov be-eineihem* | whom they think best (noted) |
+| 7, 9 | *yidbequ*, "cling" | shall hold on to (noted) |
+
+**Checks:** verse counts equal the Hebrew (34, 13); no banned words; no "And"-starts; every quotation printed and checked (Genesis 2:24, 4:10, 9:6; Exodus 20:13, 21:13; Leviticus 4, 25:10, 25:25, 25:34–35, 27:34; Numbers 26:33, 27:1, 27:4, 27:7; Deuteronomy 19:15).
+
+**Left standing on purpose:**
+- 35:4–5 — ***KEPT AS IS***: *a thousand cubits* and *two thousand cubits* are both rendered as given; the text does not say how they fit, and the note says so.
+
+**Choices for you:** none new.
+
 ## Numbers 31–34 (OT loop, run 1, 5:55 PM Central, 2026-09-28)
 
 **Landed:** Numbers 31, 32, 33, 34. Progress 341 → **345 of 1,989 (17.3%)**. Next is Numbers 35. The rulings of 2026-09-28 apply: no *here —* / *look —* for *hinneh*.

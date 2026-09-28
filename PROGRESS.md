@@ -1,16 +1,16 @@
 # Progress
 
-**345 of 1989 chapters rendered (17.3%).**
+**349 of 1989 chapters rendered (17.5%).**
 
-Next up: **Numbers 35**
+Next up: **Deuteronomy 3**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
 | 1 | Genesis | source | done |
 | 2 | Exodus | source | done |
 | 3 | Leviticus | source | done |
-| 4 | Numbers | source | 34/36 |
-| 5 | Deuteronomy | source | 0/34 |
+| 4 | Numbers | source | done |
+| 5 | Deuteronomy | source | 2/34 |
 | 6 | Joshua | source | 0/24 |
 | 7 | Judges | source | 0/21 |
 | 8 | Ruth | source | 0/4 |
