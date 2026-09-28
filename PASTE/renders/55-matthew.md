@@ -2,6 +2,35 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 5–7 (canon and Matthew loop, run 4, 2026-09-27)
+
+**Landed:**
+- **Chapter 5:** the Beatitudes; salt and light; the Law fulfilled; the six *You have heard… But I tell you*.
+- **Chapter 6:** giving, prayer and fasting in secret; the Lord's Prayer; treasure; do not worry.
+- **Chapter 7:** judging; ask, seek, knock; the two ways; the two builders; the crowds astonished.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5:3–11 | *makarioi* | Blessed (noted: *happy*, Psalm 1:1) |
+| 5:18 | *one iota or one little horn* | not one iota, not one stroke of a letter (noted) |
+| 5:22 | *Raka*; *Mōre* | 'Raka'; 'You fool' (noted) |
+| 5:48 | *teleioi* | complete (noted: *tamim*, Deuteronomy 18:13) |
+| 6:2, 5, 16 | *apechousin* | they have received their reward in full |
+| 6:9 | *hagiasthētō to onoma sou* | may Your name be kept holy |
+| 6:11 | *ton arton hēmōn ton epiousion* | our bread for the coming day (noted; see Choices) |
+| 6:13 | *apo tou ponērou* | from the evil one (noted) |
+| 6:24 | *mamōna* | wealth (noted) |
+| 7:3–5 | *karphos… dokos* | the speck… the beam |
+| 7:28 | *kai egeneto* | And it came to pass (kept: *va-yehi*, noted) |
+
+**Checks:** verse counts equal the Greek (48, 34, 29); no banned words; the only "And"-start is *And it came to pass* (7:28, kept list); quotations printed and checked (Exodus 16:4, 20:13–14, 21:24; Leviticus 11:7, 19:2, 19:12, 19:18, 22:10; Numbers 30:2; Deuteronomy 18:13, 24:1, 30:19; Psalms 1:1 Greek, 6:9, 24:4, 37:11; Proverbs 28:22; Isaiah 40:6–8, 66:1; Jeremiah 21:8; Ezekiel 22:27; Matthew 11:1, 13:53, 19:1, 22:40, 26:1).
+
+**Left standing on purpose:**
+- 5:43 — ***KEPT AS IS***: *hate your enemy* is quoted as said, though no verse of the Law says it; the note says so.
+
+**Choices for you:**
+1. **6:11, the daily bread.** *Our bread for the coming day* follows the likelier sense of *epiousios* (from *hē epiousa*, the next day). The alternative is the traditional *our daily bread*, which the note says keeps the sense of both derivations. It is the best-known line in the book; your call.
+
 ## Matthew 1–4 (canon and Matthew loop, run 3, 2026-09-27)
 
 **Landed:**

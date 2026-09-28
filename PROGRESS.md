@@ -1,6 +1,6 @@
 # Progress
 
-**317 of 1989 chapters rendered (15.9%).**
+**320 of 1989 chapters rendered (16.1%).**
 
 Next up: **Numbers 31**
 
@@ -60,7 +60,7 @@ Next up: **Numbers 31**
 | 52 | Zechariah | source | 0/14 |
 | 53 | Malachi | source | 0/4 |
 | 54 | Josippon | none | — |
-| 55 | Matthew | source | 4/28 |
+| 55 | Matthew | source | 7/28 |
 | 56 | Mark | source | 0/16 |
 | 57 | Luke | source | 0/24 |
 | 58 | John | source | 0/21 |
