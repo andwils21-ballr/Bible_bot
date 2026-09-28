@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 21 (canon and Matthew loop, run 15, 2026-09-27)
+
+**Landed:**
+- **Chapter 21:** the entry into Jerusalem; the temple cleared; the fig tree; the question of authority; the two sons; the tenants of the vineyard.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 21:5 | *Idou ho basileus sou* | Here — your king (noted, Zechariah 9:9) |
+| 21:9 | *Hōsanna* | Hosanna (noted: *hoshi'ah na*, save, please) |
+| 21:10 | *eseisthē* | was shaken (noted) |
+| 21:13 | *spēlaion lēstōn* | a den of robbers (noted, Jeremiah 7:11) |
+| 21:30 | *Egō, kyrie* | I will, sir |
+| 21:41 | *Kakous kakōs apolesei* | bring those wretches to a wretched end |
+| 21:42 | *eis kephalēn gōnias* | the head of the corner (noted) |
+
+**Checks:** verse count equals the Greek (46); no banned words; no "And"-starts; quotations printed and checked (Isaiah 5:1–2, 7, 56:7, 62:11; Jeremiah 7:11; Zechariah 9:9; Psalm 8:3 Hebrew and Greek; Psalm 118:22–23, 25–26; Isaiah 5:2 Greek).
+
+**Left standing on purpose:**
+- 21:44 — ***KEPT AS IS***: rendered, though the edition marks the whole verse as a place where manuscripts differ. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 20 (canon and Matthew loop, run 14, 2026-09-27)
 
 **Landed:**
