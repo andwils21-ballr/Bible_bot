@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 23 (canon and Matthew loop, run 17, 2026-09-27)
+
+**Landed:**
+- **Chapter 23:** the seat of Moses; the seven woes on the scribes and Pharisees; Jerusalem, Jerusalem.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 23:5 | *phylaktēria… kraspeda* | phylacteries… tassels (noted, *tassel* as 9:20) |
+| 23:10 | *kathēgētai* | leaders |
+| 23:16 | *opheilei* | is bound by his oath |
+| 23:18 | *kai* | You also say (no "And" start) |
+| 23:32 | *kai hymeis plērōsate* | Fill up, then (no "And" start) |
+| 23:34, 38 | *idou* | look (a speaker's word, as 12:2) |
+
+**Checks:** verse count equals the Greek (38 — the edition has no v14); no banned words; no "And"-starts; quotations printed and checked (Genesis 4:10, Leviticus 11:4, 27:30, Numbers 15:38, 19:16 in this project's wording; Deuteronomy 6:8, Micah 6:8, 2 Chronicles 24:20–21, Zechariah 1:1, Jeremiah 22:5 Hebrew).
+
+**Left standing on purpose:**
+- 23:14 — ***KEPT AS IS***: the edition has no verse 14, so none is rendered; the numbering skips from 13 to 15. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 22 (canon and Matthew loop, run 16, 2026-09-27)
 
 **Landed:**
