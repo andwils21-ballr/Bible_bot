@@ -405,7 +405,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** none.
 
 **Choices for you:**
-1. **8:2–3, *lepra* = blight.** The Greek *lepra* is the Old Testament Greek for *tsara'at*, which this project renders *blight* by your ruling of 2026-09-23; the Gospel's man is therefore *a man with blight*. The alternative is the familiar *leper*. Either way it recurs (10:8; 11:5; 26:6).
+1. ✅ Decided (2026-09-28): *blight* stays. **8:2–3, *lepra* = blight.** The Greek *lepra* is the Old Testament Greek for *tsara'at*, which this project renders *blight* by your ruling of 2026-09-23; the Gospel's man is therefore *a man with blight*. The alternative is the familiar *leper*. Either way it recurs (10:8; 11:5; 26:6).
 
 ## Matthew 5–7 (canon and Matthew loop, run 4, 2026-09-27)
 

@@ -284,7 +284,9 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 1 Enoch 85, note v3 | - **v3 "and here —"** — *wa-nāhu*, the dreamer's own moment of seeing. | - **v3 "I saw in a vision on my bed:"** — *wa-nāhu*, **and here**, the dreamer's own moment of seeing; the colon carries it. |
 | Jubilees 14, note v13 | - **v13 "a trance fell on Abram, and here — a great terror of darkness"** — Genesis 15:12: *a deep sleep fell upon Abram; and here — a dread, a darkness, a great one*. | - **v13 "a trance fell on Abram, and a great terror of darkness"** — Genesis 15:12: *a deep sleep fell upon Abram, and a dread, a darkness, a great one*. |
 
-## *tsara'at*: "blight", "affliction" or "blemish"? (Andrew, 2026-09-28) — choices open, nothing changed
+## *tsara'at*: "blight", "affliction" or "blemish"? (Andrew, 2026-09-28) — ✅ Decided: **blight** stays
+
+**Ruling:** Andrew: "leave as blight." *Affliction*, *blemish*, *rot* and *scale* were weighed and set aside (each clashes with a word already in use: *'oni*/*'anah*, *mum*, *maqaq*, *netek*). Nothing changed. The *tamim* finding below is still open.
 
 **Request:** Andrew: "instead of 'blight'… could 'affliction' work in this place and the old testament?" Then: alternate words for *'anah* and *'oni*; could *blemish* work; show the Hebrew or Greek, the English now, the verse as it reads, and where the clash is.
 
