@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 28 (canon and Matthew loop, run 22, 2026-09-27) — Matthew complete
+
+**Landed:**
+- **Chapter 28:** the empty tomb; the risen Jesus meets the women; the guards' report; the great commission. With this chapter all 28 chapters of Matthew are rendered, and the loop is finished.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 28:1 | *eis mian sabbatōn* | the first day of the week (noted) |
+| 28:7 | *idou eipon hymin* | Look, I have told you (a speaker's word, as 24:25) |
+| 28:9 | *Chairete* | Greetings! |
+| 28:19 | *eis to onoma* | into the name |
+| 28:20 | *kai idou egō meth' hymōn eimi* | And here — I am with you (the kept formula) |
+| 28:20 | *pasas tas hēmeras* | all the days |
+
+**Checks:** verse count equals the Greek (20); no banned words; the only "And"-starts are *And here —* (28:2, 9, 20); quotations printed and checked (Matthew 1:23, 9:6, 10:5–6, 14:31, 26:32 in this project's wording; Daniel 7:9, 7:14, 10:6 Aramaic and Hebrew; Matthew 14:31 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new. Still open from earlier runs: 14:27 (*I am* or *It is I*) and 18:22 (*seventy-seven* or *seventy times seven*), with the older ones listed below.
+
 ## Matthew 27 (canon and Matthew loop, run 21, 2026-09-27)
 
 **Landed:**
