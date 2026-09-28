@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 26 (canon and Matthew loop, run 20, 2026-09-27)
+
+**Landed:**
+- **Chapter 26:** the plot; the anointing at Bethany; Judas and the thirty pieces of silver; the Passover and the Last Supper; Peter's denial foretold; Gethsemane; the arrest; before the council; Peter's denial.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 26:6 | *Simōnos tou leprou* | Simon, the man with blight (as 8:2) |
+| 26:15 | *estēsan* | they weighed out (noted, Zechariah 11:12) |
+| 26:25, 64 | *Sy eipas* | You have said it (noted) |
+| 26:28 | *to haima mou tēs diathēkēs* | my blood of the covenant (noted) |
+| 26:45, 46 | *idou* | Look (a speaker's word, as 12:2) |
+| 26:50 | *Hetaire, eph' ho parei* | Friend, do what you have come for (noted: may be a question) |
+| 26:64 | *tēs dynameōs* | the Power |
+| 26:65 | *ide* | See |
+
+**Checks:** verse count equals the Greek (75); no banned words; the only "And"-starts are *And it came to pass* (26:1) and *And here —* (26:51); quotations printed and checked (Exodus 12:18, 21:32, 24:8, Leviticus 21:10 in this project's wording; Zechariah 11:12, 13:7, Psalm 41:10, Jeremiah 31:31 Hebrew; Zechariah 11:12 and Psalm 41:6 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Matthew 25 (canon and Matthew loop, run 19, 2026-09-27)
 
 **Landed:**
