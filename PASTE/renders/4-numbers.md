@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 31–34 (OT loop, run 1, 6:50 PM Central, 2026-09-28)
+
+**Landed:** Numbers 31, 32, 33, 34. Progress 341 → **345 of 1,989 (17.3%)**. Next is Numbers 35. The rulings of 2026-09-28 apply: no *here —* / *look —* for *hinneh*.
+
+### Numbers 31: Vengeance on Midian
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *neqom niqmat*, "avenge the vengeance" | Take vengeance (noted) |
+| 3 | *hechaletsu*, "equip" | Arm |
+| 6 | *chatsotserot ha-teru'ah* | the trumpets for the blast (as 10:9, noted) |
+| 8 | *al chaleihem*, "upon their slain" | along with the rest of their slain |
+| 16 | *hen hennah*, "they, these" | These are the very ones (noted) |
+| 16 | *limsor ma'al*, "to give over unfaithfulness" | led… into unfaithfulness |
+| 17–18 | *yoda'at ish le-mishkav zakhar* | who has known a man by lying with a male |
+| 23 | *kol davar asher yavo ba-esh* | everything that can stand the fire |
+| 26 | *sa et rosh*, "lift the head" | Take a count |
+| 28 | *mekhes* | tribute |
+| 49 | *nasu et rosh* | have taken a count |
+| 50 | *ets'adah ve-tsamid tabba'at agil ve-khumaz* | armlets and bracelets, signet rings, earrings and pendants |
+
+### Numbers 32: Reuben and Gad East of the Jordan
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-hinneh ha-maqom*, "and here — the place" | and the place was (cut, per ruling) |
+| 5 | *al ta'avirenu*, "do not make us cross" | Do not take us across |
+| 7 | *teni'un et lev* | hold back the heart (as the note at 30:5, noted) |
+| 11–12 | *millu acharai*, "filled after Me" | followed Me fully (as 14:24, noted) |
+| 14 | *ve-hinneh qamtem*, "and here — you have risen" | Now you have risen up |
+| 14 | *tarbut* | a brood (noted) |
+| 17 | *nechalets chushim* | arm and go quickly (noted) |
+| 22 | *neqiyyim* | free of obligation (noted) |
+| 23 | *hinneh chatatem*, "here — you have sinned" | you will have sinned |
+| 38 | *musabbot shem*, "turned of name" | their names were changed (noted) |
+
+### Numbers 33: The Stages of the Journey
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mas'ei*, "pullings-up" | the stages (noted) |
+| 3 | *be-yad ramah*, "with a high hand" | in open defiance (as Exodus 14:8, noted) |
+| 8 | *mi-pnei ha-Chirot* | from before Hahiroth (the Hebrew drops *Pi-*) |
+| 10–11 | *yam suf* | the Sea of Reeds (as Exodus) |
+| 52 | *maskiyyotam… tsalmei massekhotam… bamotam* | their carved stones… images of cast metal… high places (noted) |
+| 55 | *le-sikkim… li-tseninim* | barbs… thorns (noted) |
+| 56 | *ve-hayah* | And it shall come to pass (the kept formula) |
+
+### Numbers 34: The Borders of the Land
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tippol lakhem*, "will fall to you" | will fall to you (noted) |
+| 4 | *ma'aleh aqrabbim* | the Ascent of Akrabbim (noted) |
+| 5 | *nachlah Mitsrayim* | the Brook of Egypt (noted) |
+| 7–8, 10 | *tetta'u*, "mark out" | mark out your line |
+| 11 | *u-machah al ketef*, "and strike on the shoulder" | strike the slope |
+
+**Checks:** verse counts equal the Hebrew (54, 42, 56, 29); no banned words; no "And"-starts except *And it shall come to pass* (33:56); no *here —* or *look —*; every quotation printed and checked, with this project's wording where the verse is rendered (Genesis 14:3, 24:8; Exodus 12:12, 14:8, 24:4, 30:12, 30:16; Leviticus 26:1; Numbers 10:9, 13:6, 13:23, 14:24, 14:30, 19:11–12, 22:29, 25:7–8, 25:17–18, 26:54–55, 27:13; Isaiah 46:1; 1 Samuel 30:24; Matthew 4:18). The division figures in 31:32–47 were checked by arithmetic.
+
+**Left standing on purpose:**
+- 31:17–18 — ***KEPT AS IS***: the order to kill the boys and the married women is rendered as the Hebrew gives it; the note states it without softening.
+
+**Choices for you:** none new.
+
 ## Numbers 27–30 (routine fired 7:45 AM Central, 2026-09-26)
 
 **Landed:** Numbers 27, 28, 29, 30. Progress 171 → **175 of 1,554 (11.3%)**. Next is Numbers 31.
