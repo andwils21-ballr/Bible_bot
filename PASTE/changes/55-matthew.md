@@ -2,6 +2,132 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *tsara'at*: "blight", "affliction" or "blemish"? (Andrew, 2026-09-28) — choices open, nothing changed
+
+**Request:** Andrew: "instead of 'blight'… could 'affliction' work in this place and the old testament?" Then: alternate words for *'anah* and *'oni*; could *blemish* work; show the Hebrew or Greek, the English now, the verse as it reads, and where the clash is.
+
+**How to read the tables:** the ⚠ column marks a verse whose English would be shared with *tsara'at* if *tsara'at* took that word. Every verse is here as it reads today.
+
+**Suggested replacements if *tsara'at* becomes "affliction":**
+- *'oni* (noun): **misery** — *I have seen the misery of My people* (Exodus 3:7); *the LORD has seen my misery* (Genesis 29:32). Other choices: *hardship*, *suffering*.
+- *'anah* (verb), where people are the object: **oppress** — *they will oppress them, four hundred years* (Genesis 15:13); *to oppress them with their burdens* (Exodus 1:11); *You shall not oppress any widow or orphan* (Exodus 22:22). For Sarai and Hagar (Genesis 16:6) and Laban's daughters (31:50), **mistreat** reads better: *Sarai mistreated her*; *If you mistreat my daughters*.
+- *'innah nefesh*, the Day of Atonement (Leviticus 16, 23; Numbers 29:7, 30:13): **deny yourselves** — *you shall deny yourselves and do no work*. Literally *afflict your soul*; the sense is fasting. Other choice: *humble yourselves*.
+
+**Why not "blemish":** *blemish* is already *mum*, a bodily defect that bars a priest from the altar and an animal from being offered (section 3), two chapters from *tsara'at* in Leviticus 13–14. It is also too mild a word for a wall, a garment or Miriam made *white as snow*.
+
+**Separate finding:** *tamim*, **whole**, is *without blemish* in Exodus 12:5 and Leviticus 9:2–3 but *without defect* in Numbers 19:2, where the same verse has *mum* as *blemish*. One of the two renderings of *tamim* should give way.
+
+### 1. *'oni*, the noun (misery, affliction): 7 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Genesis 16:11 | *'oni* (עֳנִי), noun | affliction | The messenger of the LORD said to her, "Look — you are with child, and you shall bear a son, and you shall call his name Ishmael, for the LORD has heard your **affliction**. | ⚠ would clash if *tsara'at* became **affliction** |
+| Genesis 29:32 | *'oni* (עֳנִי), noun | affliction | Leah conceived and bore a son, and she called his name Reuben, for she said, "Because the LORD has seen my **affliction** — for now my husband will love me." | ⚠ would clash if *tsara'at* became **affliction** |
+| Genesis 31:42 | *'oni* (עֳנִי), noun | affliction | Had not the God of my father, the God of Abraham and the Fear of Isaac, been mine, you would have sent me away empty now. God has seen my **affliction** and the labor of my palms, and He decided last night." | ⚠ would clash if *tsara'at* became **affliction** |
+| Genesis 41:52 | *'oni* (עֳנִי), noun | affliction | The name of the second he called Ephraim — "for God has made me fruitful in the land of my **affliction**." | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 3:7 | *'oni* (עֳנִי), noun | affliction | The LORD said, "I have seen, I have seen the **affliction** of My people who are in Egypt, and I have heard their cry because of their slave drivers, for I know their sufferings. | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 3:17 | *'oni* (עֳנִי), noun | affliction | I have said: I will bring you up out of the **affliction** of Egypt to the land of the Canaanite and the Hittite and the Amorite and the Perizzite and the Hivite and the Jebusite, to a land flowing with milk and honey.' | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 4:31 | *'oni* (עֳנִי), noun | affliction | The people believed. They heard that the LORD had attended to the sons of Israel and that He had seen their **affliction**, and they bowed down and worshiped. | ⚠ would clash if *tsara'at* became **affliction** |
+
+### 2. *'anah*, the verb (to afflict, oppress; *'innah nefesh*, to fast on the Day of Atonement): 14 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Genesis 15:13 | *'anah* (עָנָה), verb | afflict | He said to Abram, "Know, you must know, that your seed will live as guests in a land not theirs, and they will serve them, and they will **afflict** them, four hundred years. | ⚠ would clash if *tsara'at* became **affliction** |
+| Genesis 16:6 | *'anah* (עָנָה), verb | afflicted | Abram said to Sarai, "Look — your servant girl is in your hand. Do to her what is good in your eyes." Sarai **afflicted** her, and she fled from her face. | ⚠ would clash if *tsara'at* became **affliction** |
+| Genesis 31:50 | *'anah* (עָנָה), verb | afflict | If you **afflict** my daughters, and if you take other wives beside my daughters — no one else is here with us. See, God is witness between me and you." | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 1:11 | *'anah* (עָנָה), verb | afflict | They set over them chiefs of forced labor, to **afflict** them with their burdens. They built store cities for Pharaoh: Pithom and Rameses. | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 1:12 | *'anah* (עָנָה), verb | afflicted | But the more they **afflicted** them, the more they multiplied and the more they broke out. They dreaded the sons of Israel. | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 22:22 | *'anah* (עָנָה), verb | afflict | You shall not **afflict** any widow or orphan. | ⚠ would clash if *tsara'at* became **affliction** |
+| Exodus 22:23 | *'anah* (עָנָה), verb | afflict | If you do **afflict** him — if he cries out to Me, I will surely hear his cry, | ⚠ would clash if *tsara'at* became **affliction** |
+| Leviticus 16:29 | *'anah* (עָנָה), verb | afflict | This shall be a lasting statute for you: in the seventh month, on the tenth of the month, you shall **afflict** yourselves and do no work at all — neither the native nor the guest living among you — | ⚠ would clash if *tsara'at* became **affliction** |
+| Leviticus 16:31 | *'anah* (עָנָה), verb | afflict | It is a sabbath of complete rest for you, and you shall **afflict** yourselves. It is a lasting statute. | ⚠ would clash if *tsara'at* became **affliction** |
+| Leviticus 23:27 | *'anah* (עָנָה), verb | afflict | "But on the tenth of this seventh month is the Day of Atonement. It shall be a holy assembly for you, and you shall **afflict** yourselves, and you shall present an offering by fire to the LORD. | ⚠ would clash if *tsara'at* became **affliction** |
+| Leviticus 23:29 | *'anah* (עָנָה), verb | afflict | For any person who does not **afflict** himself on that very day shall be cut off from his people. | ⚠ would clash if *tsara'at* became **affliction** |
+| Leviticus 23:32 | *'anah* (עָנָה), verb | afflict | It is a sabbath of complete rest for you, and you shall **afflict** yourselves. On the ninth of the month at evening, from evening to evening, you shall keep your sabbath." | ⚠ would clash if *tsara'at* became **affliction** |
+| Numbers 29:7 | *'anah* (עָנָה), verb | afflict | On the tenth of this seventh month you shall have a holy assembly, and you shall **afflict** yourselves. You shall do no work. | ⚠ would clash if *tsara'at* became **affliction** |
+| Numbers 30:13 | *'anah* (עָנָה), verb | afflict | Every vow and every sworn pledge to **afflict** herself, her husband may let stand, and her husband may annul. | ⚠ would clash if *tsara'at* became **affliction** |
+
+### 3. *mum*, a physical defect (already **blemish**): 10 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Leviticus 21:17 | *mum* (מוּם) | blemish | "Speak to Aaron, saying: None of your offspring through their generations who has a **blemish** shall come near to present the bread of his God. | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 21:18 | *mum* (מוּם) | blemish | No man at all who has a **blemish** shall come near: a man who is blind or lame, or disfigured in the face, or with a limb too long, | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 21:21 | *mum* (מוּם) | blemish | No man of the offspring of Aaron the priest who has a **blemish** shall come forward to present the LORD's offerings by fire. He has a **blemish**; he shall not come forward to present the bread of his God. | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 21:23 | *mum* (מוּם) | blemish | But he shall not come to the veil and shall not come near the altar, because he has a **blemish**, and he shall not profane My holy places, because I am the LORD who makes them holy." | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 22:20 | *mum* (מוּם) | blemish | Anything that has a **blemish** you shall not bring, because it will not be accepted for you. | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 22:21 | *mum* (מוּם) | blemish | If a man brings a sacrifice of peace offering to the LORD to fulfill a special vow, or as a freewill offering, from the herd or from the flock, it must be unblemished to be accepted. There shall be no **blemish** in it. | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 22:25 | *mum* (מוּם) | blemish | You shall not take any of these from a foreigner and offer them as the bread of your God, because their ruin is in them; there is a **blemish** in them. They will not be accepted for you." | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 24:19 | *mum* (מוּם) | blemish | A man who puts a **blemish** on his neighbor — as he has done, so it shall be done to him: | ⚠ would clash if *tsara'at* became **blemish** |
+| Leviticus 24:20 | *mum* (מוּם) | blemish | break for break, eye for eye, tooth for tooth. As he has put a **blemish** on a person, so it shall be put on him. | ⚠ would clash if *tsara'at* became **blemish** |
+| Numbers 19:2 | *mum* (מוּם) | blemish | "This is the statute of the instruction that the LORD has commanded: Tell the sons of Israel to bring you a red heifer without **defect**, with no **blemish** on her, on which a yoke has never come. | ⚠ would clash if *tsara'at* became **blemish** |
+
+### 4. *tamim*, whole (**without blemish**): 3 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Exodus 12:5 | *tamim* (תָּמִים), whole | blemish | A lamb without **blemish**, male, a year old, shall be yours. You may take it from the sheep or from the goats. | ⚠ *tamim* is **without blemish** here but **without defect** in Numbers 19:2 (separate finding) |
+| Leviticus 9:2 | *tamim* (תָּמִים), whole | blemish | He said to Aaron, "Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without **blemish**, and bring them before the LORD. | ⚠ *tamim* is **without blemish** here but **without defect** in Numbers 19:2 (separate finding) |
+| Leviticus 9:3 | *tamim* (תָּמִים), whole | blemish | Speak to the sons of Israel, saying: Take a male goat for a sin offering, and a calf and a lamb, both a year old and without **blemish**, for a burnt offering, | ⚠ *tamim* is **without blemish** here but **without defect** in Numbers 19:2 (separate finding) |
+
+### 5. *tsara'at* (now **blight**), Hebrew: 34 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Exodus 4:6 | *tsara'at* (צָרַעַת) / *tsarua'* | blighted | The LORD said to him further, "Put your hand into your cloak." He put his hand into his cloak, and drew it out, and here — his hand was **blighted**, white as snow. | the word under review |
+| Leviticus 13:2 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | "When a person has a swelling or a scab or a bright spot on the skin of his body, and it becomes a mark of **blight** on his skin, he shall be brought to Aaron the priest, or to one of his sons the priests. | the word under review |
+| Leviticus 13:3 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look at the mark on the skin of the body. If the hair in the mark has turned white, and the mark looks deeper than the skin of his body, it is a mark of **blight**. The priest shall look at him and declare him unclean. | the word under review |
+| Leviticus 13:8 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look. If the scab has spread in the skin, the priest shall declare him unclean. It is **blight**. | the word under review |
+| Leviticus 13:9 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | When a mark of **blight** is on a person, he shall be brought to the priest. | the word under review |
+| Leviticus 13:11 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | it is an old **blight** in the skin of his body, and the priest shall declare him unclean. The priest shall not shut him away, because he is unclean. | the word under review |
+| Leviticus 13:12 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | But if the **blight** breaks out all over the skin, and covers all the skin of the marked man from his head to his feet, everywhere the priest can see, | the word under review |
+| Leviticus 13:13 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | then the priest shall look. If the **blight** has covered all his flesh, he shall declare the marked man clean. It has all turned white; he is clean. | the word under review |
+| Leviticus 13:15 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look at the raw flesh and declare him unclean. The raw flesh is unclean; it is **blight**. | the word under review |
+| Leviticus 13:20 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look. If it looks lower than the skin and its hair has turned white, the priest shall declare him unclean. It is a mark of **blight** that has broken out in the boil. | the word under review |
+| Leviticus 13:25 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | the priest shall look at it. If the hair in the bright spot has turned white and it looks deeper than the skin, it is **blight** that has broken out in the burn. The priest shall declare him unclean. It is a mark of **blight**. | the word under review |
+| Leviticus 13:27 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look at him on the seventh day. If it keeps spreading in the skin, the priest shall declare him unclean. It is a mark of **blight**. | the word under review |
+| Leviticus 13:30 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | the priest shall look at the mark. If it looks deeper than the skin and there is thin yellow hair in it, the priest shall declare him unclean. It is a scaly patch; it is **blight** of the head or of the beard. | the word under review |
+| Leviticus 13:42 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | But if there is a reddish-white mark on the bald head or the bald forehead, it is **blight** breaking out on his bald head or his bald forehead. | the word under review |
+| Leviticus 13:43 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The priest shall look at him. If the swelling of the mark is reddish-white on his bald head or his bald forehead, looking like **blight** on the skin of the body, | the word under review |
+| Leviticus 13:44 | *tsara'at* (צָרַעַת) / *tsarua'* | blighted | he is a **blighted** man. He is unclean. The priest shall certainly declare him unclean; his mark is on his head. | the word under review |
+| Leviticus 13:45 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | The person who has the **blight**, who has the mark on him — his clothes shall be torn and his hair shall hang loose, and he shall cover his upper lip and call out, "Unclean! Unclean!" | the word under review |
+| Leviticus 13:47 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | When a garment has a mark of **blight** on it, whether a wool garment or a linen garment, | the word under review |
+| Leviticus 13:49 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | and the mark is greenish or reddish in the garment, or on the leather, or on the warp or the weft, or on any leather object, it is a mark of **blight**, and it shall be shown to the priest. | the word under review |
+| Leviticus 13:51 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | He shall look at the mark on the seventh day. If the mark has spread in the garment, or in the warp or the weft, or in the leather, whatever the leather is used for, the mark is a malignant **blight**. It is unclean. | the word under review |
+| Leviticus 13:52 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | He shall burn the garment, or the warp or the weft, in wool or in linen, or any leather object that has the mark on it, because it is a malignant **blight**. It shall be burned in the fire. | the word under review |
+| Leviticus 13:59 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | This is the instruction for a mark of **blight** in a garment of wool or linen, or in the warp or the weft, or in any leather object, to declare it clean or to declare it unclean. | the word under review |
+| Leviticus 14:2 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | "This shall be the instruction for the person with the **blight** on the day of his cleansing. He shall be brought to the priest, | the word under review |
+| Leviticus 14:3 | *tsara'at* (צָרַעַת) / *tsarua'* | blight, blighted | and the priest shall go outside the camp. The priest shall look. If the mark of **blight** has healed in the **blighted** man, | the word under review |
+| Leviticus 14:7 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | and sprinkle it seven times on the one being cleansed from the **blight**, and declare him clean; and he shall let the live bird go free over the open field. | the word under review |
+| Leviticus 14:32 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | This is the instruction for the person who has a mark of **blight**, who cannot afford the full offering for his cleansing." | the word under review |
+| Leviticus 14:34 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | "When you come into the land of Canaan, which I am giving you as a holding, and I put a mark of **blight** in a house in the land you hold, | the word under review |
+| Leviticus 14:44 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | the priest shall come and look. If the mark has spread in the house, it is a malignant **blight** in the house. It is unclean. | the word under review |
+| Leviticus 14:54 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | This is the instruction for every mark of **blight**, and for a scaly patch, | the word under review |
+| Leviticus 14:55 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | and for **blight** in a garment and in a house, | the word under review |
+| Leviticus 14:57 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | to teach when something is unclean and when it is clean. This is the instruction for **blight**. | the word under review |
+| Leviticus 22:4 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | No man at all of the offspring of Aaron who has **blight** or a discharge shall eat of the holy things until he is clean. Whoever touches anything made unclean by a dead person, or a man who has an emission of semen, | the word under review |
+| Numbers 5:2 | *tsara'at* (צָרַעַת) / *tsarua'* | blight | "Command the sons of Israel to send out of the camp everyone with **blight**, and everyone with a discharge, and everyone unclean by a dead person. | the word under review |
+| Numbers 12:10 | *tsara'at* (צָרַעַת) / *tsarua'* | blighted | The cloud turned away from over the tent, and here — Miriam was **blighted**, white as snow. Aaron turned toward Miriam, and here — she was **blighted**. | the word under review |
+
+### 6. *lepra* (now **blight**), Greek, Matthew: 5 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Matthew 8:2 | Greek *lepra* / *lepros* | blight | A man with **blight** came and knelt before Him, saying, "Lord, if You are willing, You can make me clean." | Greek for *tsara'at*; follows whatever the Hebrew gets |
+| Matthew 8:3 | Greek *lepra* / *lepros* | blight | He stretched out His hand and touched him, saying, "I am willing; be made clean." At once his **blight** was made clean. | Greek for *tsara'at*; follows whatever the Hebrew gets |
+| Matthew 10:8 | Greek *lepra* / *lepros* | blight | Heal the sick, raise the dead, cleanse those with **blight**, drive out demons. You received without paying; give without being paid. | Greek for *tsara'at*; follows whatever the Hebrew gets |
+| Matthew 11:5 | Greek *lepra* / *lepros* | blight | the blind see again and the lame walk, those with **blight** are cleansed and the deaf hear, the dead are raised, and the poor have good news preached to them. | Greek for *tsara'at*; follows whatever the Hebrew gets |
+| Matthew 26:6 | Greek *lepra* / *lepros* | blight | While Jesus was at Bethany in the house of Simon, the man with **blight**, | Greek for *tsara'at*; follows whatever the Hebrew gets |
+
+### 7. *thlipsis* (**affliction**), Greek, Matthew: 3 verses
+
+| Verse | Word | English now | As it reads now | Clash |
+|---|---|---|---|---|
+| Matthew 24:9 | Greek *thlipsis* | affliction | "Then they will hand you over to **affliction** and kill you, and you will be hated by all the nations because of My name. | Greek; not a clash (see your point on languages) |
+| Matthew 24:21 | Greek *thlipsis* | affliction | For then there will be great **affliction**, such as has not been from the beginning of the world until now, and never will be. | Greek; not a clash (see your point on languages) |
+| Matthew 24:29 | Greek *thlipsis* | affliction | "Immediately after the **affliction** of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from the sky, and the powers of the heavens will be shaken. | Greek; not a clash (see your point on languages) |
+
 ## "here —" cut in Matthew, as in Leviticus 13–14 (Andrew, 2026-09-28)
 
 **Request:** Andrew: "Same treatment as Leviticus. There was a much narrower instance where we decided to keep it, but the majority get cut."
