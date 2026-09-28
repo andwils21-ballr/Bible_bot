@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-09-28, the month *Abib* / *Aviv*.** Exodus 23:15 and 34:18 say *the month of Abib*; Exodus 13:4 (and its note) and the Leviticus 2:14 note say *the month of Aviv*. Deuteronomy 16:1 follows the verse text of Exodus 23 and 34: *Abib*. Exodus and Leviticus are closed, so nothing was changed. Making Exodus 13:4 and the two notes read *Abib* would make all agree.
 - **2026-09-28, Genesis 3:22 grammar.** The verse reads *in case he puts out his hand and take also from the tree of life, and eat, and live forever*: *puts* is followed by *take… eat… live*, which do not agree with it. Genesis is closed, so it was not touched. *Puts… takes… eats… lives* (or *put… take… eat… live* after *in case he should*) would fix it.
 - **2026-09-25, Swete's Greek of Numbers 13 is one verse ahead of the Hebrew.** Greek 13:1 is Hebrew 12:16, so Hebrew 13:33 is Greek 13:34. HANDOFF's list of known offsets should get this line.
 - **2026-09-25, Numbers 16–17 chapter break.** The Hebrew ends chapter 16 at the fire (16:35). English 16:36–50 is Hebrew 17:1–15, and English 17:1–13 is Hebrew 17:16–28. Swete's Greek follows the English numbering here. HANDOFF's list of known offsets should get this line.

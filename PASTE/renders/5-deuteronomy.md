@@ -2,6 +2,57 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 16–18 (OT loop, run 7, 6:36 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 16, 17, 18. Progress 362 → **365 of 1,989 (18.4%)**. Next is Deuteronomy 19.
+
+### Deuteronomy 16: Three Times a Year
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *chodesh ha-aviv* | the month of Abib (as Exodus 23:15, 34:18; the *Aviv* spelling in Exodus 13:4 logged in NOTES_FOR_ANDREW) |
+| 3 | *lechem 'oni* | the bread of affliction (noted) |
+| 3 | *be-chippazon* | in haste (as Exodus 12:11) |
+| 7 | *u-vishshalta* | You shall cook it (noted) |
+| 8 | *atseret* | a closing assembly (as Leviticus 23:36, noted) |
+| 9 | *me-hachel chermesh ba-qamah* | From the time the sickle is first put to the standing grain |
+| 15 | *ve-hayita akh same'ach* | you shall be nothing but joyful |
+| 16 | *yera'eh… et penei YHWH* | appear before the face of the LORD (as Exodus 23:17) |
+| 19 | *lo tatteh mishpat… lo takkir panim* | You shall not bend judgment. You shall not show partiality |
+| 20 | *tsedeq tsedeq tirdof* | Justice, justice you shall pursue (noted) |
+
+### Deuteronomy 17: The Judge and the King
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mum, kol davar ra* | a blemish, any bad thing |
+| 4 | *ve-hinneh emet nakhon ha-davar* | If it is true and the thing is certain (*here —* cut, as 13:15) |
+| 6 | *al pi shenayim edim* | On the word of two witnesses |
+| 8 | *bein nega la-nega* | between mark and mark (*nega* as Leviticus 13, noted) |
+| 11 | *al pi ha-torah asher yorukha* | According to the instruction that they teach you |
+| 12, 13 | *be-zadon*, *yezidun* | acts presumptuously (as 1:43) |
+| 15 | *ish nokhri* | a foreigner (fixed term) |
+| 18 | *mishneh ha-torah ha-zot* | a copy of this instruction (noted, with the Greek) |
+
+### Deuteronomy 18: A Prophet Like Me
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ishei YHWH* | the LORD's offerings by fire |
+| 6 | *asher hu gar sham* | where he lives as a guest (fixed term) |
+| 8 | *levad mimkarav al ha-avot* | besides what he receives from the sale of his fathers' goods |
+| 10–11 | *qosem qesamim, me'onen, menachesh, mekhashef, chover chaver, sho'el ov ve-yidde'oni, doresh el ha-metim* | a soothsayer, one who reads omens, one who practices divination, a sorcerer, one who casts spells, one who asks a ghost or a spirit, one who seeks out the dead (as Leviticus 19:26, 19:31; Exodus 22:18; noted) |
+| 13 | *tamim* | whole (of a person, as Genesis 6:9, 17:1; noted) |
+| 15, 18 | *navi… kamoni* | A prophet… like me (noted) |
+| 19 | *anokhi edrosh me'immo* | I Myself will require it of him (noted) |
+| 22 | *be-zadon* | presumptuously |
+
+**Checks:** verse counts equal the Hebrew (22, 20, 22); no banned words; "And"-starts only *And it shall come to pass* (17:18, 18:19); no *here —* or *look —*; every quotation printed and checked (Genesis 6:9, 17:1; Exodus 3:7, 12:5, 12:9, 12:11, 12:31, 20:19, 22:18, 23:8, 23:15–17, 34:18; Leviticus 7:34, 13:2–3, 19:26, 19:31, 20:27, 23:16, 23:36; Numbers 33:3; 1 Samuel 8:5; 1 Kings 10:28, 11:3; 2 Chronicles 35:13; Matthew 18:16; Greek of Acts 3:22, 7:37).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new. One consistency item logged in `NOTES_FOR_ANDREW.md`: *Abib* (Exodus 23, 34, and now Deuteronomy 16) against *Aviv* (Exodus 13:4 and two notes).
+
 ## Deuteronomy 13–15 (OT loop, run 6, 6:30 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 13, 14, 15. Progress 359 → **362 of 1,989 (18.2%)**. Next is Deuteronomy 16.
