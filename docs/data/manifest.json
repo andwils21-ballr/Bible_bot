@@ -696,7 +696,7 @@
    "slug": "abtilis",
    "chapters": 85,
    "tier": "english-only",
-   "done": 0
+   "done": 1
   },
   {
    "order": 88,
@@ -704,7 +704,7 @@
    "slug": "didascalia",
    "chapters": 43,
    "tier": "english-only",
-   "done": 0
+   "done": 1
   },
   {
    "order": 89,
@@ -712,7 +712,7 @@
    "slug": "qalementos",
    "chapters": 43,
    "tier": "english-only",
-   "done": 0
+   "done": 1
   }
  ]
 }

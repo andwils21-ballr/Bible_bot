@@ -1,6 +1,6 @@
 # Progress
 
-**310 of 1989 chapters rendered (15.6%).**
+**313 of 1989 chapters rendered (15.7%).**
 
 Next up: **Numbers 31**
 
@@ -92,6 +92,6 @@ Next up: **Numbers 31**
 | 84 | Sirate Tsion | none | — |
 | 85 | Te'ezaz | english-only | 1/72 |
 | 86 | Gitzew | english-only | 1/57 |
-| 87 | Abtilis | english-only | 0/85 |
-| 88 | Didascalia | english-only | 0/43 |
-| 89 | Qalementos | english-only | 0/43 |
+| 87 | Abtilis | english-only | 1/85 |
+| 88 | Didascalia | english-only | 1/43 |
+| 89 | Qalementos | english-only | 1/43 |
