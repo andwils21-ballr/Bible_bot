@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Deuteronomy 1–2 (OT loop, run 2, 6:25 PM Central, 2026-09-28)
+## Deuteronomy 1–2 (OT loop, run 2, 6:03 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 1, 2. Progress **349 of 1,989 (17.5%)**. Next is Deuteronomy 3.
 
@@ -22,7 +22,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 28 | *hemassu et levavenu* | have made our hearts melt |
 | 28 | *betsurot ba-shamayim* | fortified up to the heavens (noted) |
 | 36 | *millé acharei YHWH* | followed the LORD fully (as Numbers 14:24) |
-| 41 | *va-tahinu*, a word found only here | thought it easy |
+| 41 | *va-tahinu* | thought it easy |
 | 43 | *va-tazidu* | acted presumptuously |
 | 46 | *ka-yamim asher yeshavtem* | ***KEPT AS IS*** as many days as you stayed there (the Hebrew's own vagueness) |
 

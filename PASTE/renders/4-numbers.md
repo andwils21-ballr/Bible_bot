@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Numbers 35–36 (OT loop, run 2, 6:25 PM Central, 2026-09-28) — Numbers complete
+## Numbers 35–36 (OT loop, run 2, 6:03 PM Central, 2026-09-28) — Numbers complete
 
 **Landed:** Numbers 35, 36. Numbers is finished; the run went on into Deuteronomy 1–2 (see that book's file). Progress 345 → **349 of 1,989 (17.5%)**.
 
