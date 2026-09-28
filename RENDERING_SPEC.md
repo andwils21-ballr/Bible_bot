@@ -193,6 +193,8 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | Hebrew | English | Decided |
 |---|---|---|
 | *tsara'at* (and *metsora*) | blight | 2026-09-23 |
+| *tamim*, of an animal for offering | without defect (never *unblemished*; *blemish* is *mum*) | 2026-09-28 |
+| Greek *lepra* / *lepros* (New Testament) | leprosy / leper, with a note on *tsara'at* | 2026-09-28 |
 | *to'evah* | detestable (plural: detestable things) | 2026-09-23 |
 | *sheqets* / *shiqquts* (verb *shiqqets*) | loathsome (verb: loathe) | 2026-09-23 |
 | *toshav* | resident | 2026-09-24 |

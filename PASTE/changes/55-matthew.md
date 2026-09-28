@@ -2,6 +2,55 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *lepra* = leprosy / leper in Matthew; *tamim* = without defect (Andrew, 2026-09-28)
+
+**Request:** Andrew: "What if we only changed lepra words to leprosy?" Then: "Yes, use leprosy and leper, with the note. And, tamim make without defect."
+
+**Done:**
+- **Matthew:** *lepros* is **leper** (8:2, 10:8, 11:5, 26:6) and *lepra* is **leprosy** (8:3); the heading of 8:1–4 is *A Leper*. The note at 8:2 says *lepra* is the Greek Bible's word for *tsara'at*, rendered *blight* from the Hebrew in Leviticus, and that it is not today's leprosy (Hansen's disease). The Old Testament keeps *blight*.
+- ***tamim*** of an offering is **without defect** everywhere (it already was in Numbers 19 and 28–29): *unblemished* and *without blemish* are gone, so *blemish* now means only *mum*. Checked against the Hebrew in every verse (Leviticus 6:6 is 5:25 in the Hebrew). Genesis notes that glossed *tamim* as *unblemished* now say *without defect*.
+- Both rulings are in the spec's fixed-terms table.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 12:5 | **5** A lamb without blemish, | **5** A lamb without defect, |
+| Exodus 29:1 | Take one bull of the herd and two rams, unblemished, | Take one bull of the herd and two rams, without defect, |
+| Exodus 29, note v1 | - **v1 "unblemished"** — *temimim* | - **v1 "without defect"** — *temimim* |
+| Leviticus 1:3 | he shall bring an unblemished male. He shall bring it to the entrance | he shall bring a male without defect. He shall bring it to the entrance |
+| Leviticus 1:10 | from the goats, he shall bring an unblemished male. | from the goats, he shall bring a male without defect. |
+| Leviticus 3:1 | he shall bring it unblemished before the LORD. | he shall bring it without defect before the LORD. |
+| Leviticus 3:6 | male or female, he shall bring it unblemished. | male or female, he shall bring it without defect. |
+| Leviticus 4:3 | he shall bring an unblemished young bull to the LORD | he shall bring a young bull without defect to the LORD |
+| Leviticus 4:23 | he shall bring as his offering an unblemished male goat. | he shall bring as his offering a male goat without defect. |
+| Leviticus 4:28 | he shall bring as his offering an unblemished female goat for his sin. | he shall bring as his offering a female goat without defect for his sin. |
+| Leviticus 4:32 | he shall bring an unblemished female. | he shall bring a female without defect. |
+| Leviticus 5:15 | as his guilt offering an unblemished ram from the flock, | as his guilt offering a ram without defect from the flock, |
+| Leviticus 5:18 | He shall bring to the priest an unblemished ram from the flock, | He shall bring to the priest a ram without defect from the flock, |
+| Leviticus 6:6 | as his guilt offering to the LORD, an unblemished ram from the flock | as his guilt offering to the LORD, a ram without defect from the flock |
+| Leviticus 9:2 | for a burnt offering, both without blemish, | for a burnt offering, both without defect, |
+| Leviticus 9:3 | both a year old and without blemish, | both a year old and without defect, |
+| Leviticus 14:10 | two unblemished male lambs, and one unblemished ewe lamb a year old, | two male lambs without defect, and one ewe lamb a year old without defect, |
+| Leviticus 22:19 | it must be an unblemished male, | it must be a male without defect, |
+| Leviticus 22:21 | it must be unblemished to be accepted. | it must be without defect to be accepted. |
+| Leviticus 23:12 | you shall offer an unblemished lamb a year old as a burnt offering | you shall offer a lamb a year old without defect as a burnt offering |
+| Leviticus 23:18 | seven unblemished lambs a year old, | seven lambs a year old without defect, |
+| Numbers 6:14 | one unblemished male lamb a year old as a burnt offering, and one unblemished ewe lamb a year old as a sin offering, and one unblemished ram as a peace offering, | one male lamb a year old without defect as a burnt offering, one ewe lamb a year old without defect as a sin offering, and one ram without defect as a peace offering, |
+| Genesis 6, note v9 | unblemished, entire, without defect. | without defect, entire. |
+| Genesis 17, note v1 | unblemished, entire, sound. | without defect, entire, sound. |
+| Genesis 25, note v27 | *be whole*, unblemished, sound, entire. | *be whole*, without defect, sound, entire. |
+| Matthew 8, heading | ## A Man with Blight | ## A Leper |
+| Matthew 8:2 | **2** A man with blight came and knelt before Him, | **2** A leper came and knelt before Him, |
+| Matthew 8:3 | At once his blight was made clean. | At once his leprosy was made clean. |
+| Matthew 10:8 | cleanse those with blight, drive out demons. | cleanse lepers, drive out demons. |
+| Matthew 10, note v8 | - **v8 "cleanse those with blight"** — *leprous katharizete*, the word of 8:2–3. | - **v8 "cleanse lepers"** — *leprous katharizete*, the word of 8:2–3. |
+| Matthew 11:5 | those with blight are cleansed and the deaf hear, | lepers are cleansed and the deaf hear, |
+| Matthew 26:6 | in the house of Simon, the man with blight, | in the house of Simon the leper, |
+| Matthew 26, note v6 | - **v6 "Simon, the man with blight"** — *tou leprou*, the word of 8:2, rendered *blight* as throughout. | - **v6 "Simon the leper"** — *tou leprou*, the word of 8:2. |
+| Matthew 8, note v2 | - **v2 "a man with blight"** — *lepros*, from *lepra*, the Greek of the Old Testament for *tsara'at*, the affliction of Leviticus 13–14. This project renders *tsara'at* **blight** throughout, and the Greek word for it is rendered the same way. *Make me clean* | - **v2 "a leper"** — *lepros*, from *lepra*, **leprosy**: the Greek Bible's word for *tsara'at*, the condition of Leviticus 13–14, which this project renders **blight** from the Hebrew. It is not the disease called leprosy today (Hansen's disease): *lepra* was a scaly or white condition of the skin, and in Leviticus *tsara'at* can appear even in cloth and in the walls of a house. *Make me clean* |
+| Matthew 8, note v3 | — the man with blight was to live alone, outside the camp, | — under the Law the person with the blight was to live alone, outside the camp, |
+| Matthew 9, note v20 | as with the man with blight in 8:3. | as with the leper in 8:3. |
+| Matthew 11, note v5 | The dead raised and blight cleansed are added beyond Isaiah's lists. | The dead raised and lepers cleansed are added beyond Isaiah's lists. |
+
 ## "look —" cut too (Andrew, 2026-09-28)
 
 **Request:** Andrew: "cut the look — ones too."
@@ -286,7 +335,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 ## *tsara'at*: "blight", "affliction" or "blemish"? (Andrew, 2026-09-28) — ✅ Decided: **blight** stays
 
-**Ruling:** Andrew: "leave as blight." *Affliction*, *blemish*, *rot* and *scale* were weighed and set aside (each clashes with a word already in use: *'oni*/*'anah*, *mum*, *maqaq*, *netek*). Nothing changed. The *tamim* finding below is still open.
+**Ruling:** Andrew: "leave as blight." *Affliction*, *blemish*, *rot* and *scale* were weighed and set aside (each clashes with a word already in use: *'oni*/*'anah*, *mum*, *maqaq*, *netek*). Nothing changed. The *tamim* finding below was decided the same day: *without defect* (see the entry above).
 
 **Request:** Andrew: "instead of 'blight'… could 'affliction' work in this place and the old testament?" Then: alternate words for *'anah* and *'oni*; could *blemish* work; show the Hebrew or Greek, the English now, the verse as it reads, and where the clash is.
 
