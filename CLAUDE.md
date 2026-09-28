@@ -143,6 +143,9 @@ removed:
   (*hinneh*), except in inspection laws (see the spec).
 - **No sentence starts with "And"** unless it does real work (spec, "No And").
 - **Capital Lord means God; lowercase lord is a man of rank.**
+- **Capital pronouns for God and for Jesus** (Andrew, 2026-09-28): *He, Him,
+  His, Himself, Me, My, Mine, You, Your* whenever the word points to God or to
+  Jesus, whoever is speaking (spec, "Pronouns for God and for Jesus").
 - **Genesis is closed** (Andrew signed it off 2026-09-21). Fix it only when he
   asks or when it is provably wrong. No sweeps over finished books unless he
   asks.

@@ -83,6 +83,18 @@ case…*, or a dash and a plain clause.
   the sentence ends and the finding starts a new one: *The priest shall look at
   him on the seventh day. If the mark has stayed as it was…* (Leviticus 13:5).
 
+### Pronouns for God and for Jesus (Andrew, 2026-09-28)
+
+Capitalize every pronoun that points to God or to Jesus: *He, Him, His,
+Himself*, and in their own speech or when they are spoken to, *Me, My, Mine,
+Myself, You, Your, Yourself*. This holds whoever is speaking: the disciples
+(*Lord, save us*), His enemies (*Let Him be crucified!*) and the narrator. It
+holds in an Old Testament quotation where the Gospel applies the words to Jesus
+(*I will put My Spirit upon Him*, Matthew 12:18; *they will lift You up*, 4:6).
+A note that quotes the Old Testament as the Old Testament keeps its pronouns as
+that book has them (*he carried our sicknesses*, Isaiah 53:4). Figures inside a
+parable (*the master of the house*) stay lowercase.
+
 ### No "And" at the start of a sentence (Andrew, 2026-09-25)
 
 Hebrew joins almost every clause with *ve-*, "and". Do not start a sentence or a
