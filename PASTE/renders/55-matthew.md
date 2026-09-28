@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 25 (canon and Matthew loop, run 19, 2026-09-27)
+
+**Landed:**
+- **Chapter 25:** the ten virgins; the talents; the judgment of the nations.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 25:6 | *Idou ho nymphios* | Look, the bridegroom! (a speaker's word, as 12:2) |
+| 25:15–16 | *apedēmēsen. eutheōs* | went abroad. / At once (the edition prints *eutheōs* at the end of v15; rendered at the start of v16, noted) |
+| 25:20, 22, 25 | *ide* | see |
+| 25:27 | *syn tokō* | with interest |
+| 25:40 | *tōn adelphōn mou tōn elachistōn* | the least of these my brothers |
+| 25:46 | *kolasin aiōnion* | eternal punishment |
+
+**Checks:** verse count equals the Greek (46); no banned words; no "And"-starts; quotations printed and checked (Matthew 7:21–23 in this project's wording; Isaiah 58:7, Ezekiel 34:17, Daniel 12:2 Hebrew).
+
+**Left standing on purpose:**
+- 25:15–16 — ***KEPT AS IS***: *At once* stands at the start of v16 in English, though the edition prints the word at the end of v15. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 24 (canon and Matthew loop, run 18, 2026-09-27)
 
 **Landed:**
