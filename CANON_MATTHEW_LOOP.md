@@ -43,7 +43,9 @@ follows this file exactly. `CLAUDE.md` outranks it.
    this run's new ones, every verse listed). Chat reply short: what landed,
    progress count, Left standing, Choices, times in Central. A decision that
    could affect many chapters or books goes at the top.
-9. **Schedule the next run** (the `/loop` wakeup) unless the loop is done.
+9. **Schedule the next run** unless the loop is done: `send_later`, 2 minutes,
+   with this loop's prompt. Not `ScheduleWakeup`: its timer does not fire once
+   the session goes idle (it missed twice on 2026-09-27).
 
 Do not touch other books, `PASTE/edits.md`, the spec, `CLAUDE.md`,
 `manifest.json`, the build scripts, `progress.py`, `source_text.py` or
