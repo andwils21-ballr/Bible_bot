@@ -2,6 +2,57 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 13–15 (OT loop, run 6, 6:30 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 13, 14, 15. Progress 359 → **362 of 1,989 (18.2%)**. Next is Deuteronomy 16.
+
+### Deuteronomy 13: If a Prophet Arises
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lo tosef… ve-lo tigra* | You shall not add… and you shall not take away (English 12:32, noted) |
+| 6 | *dibber sarah* | has spoken rebellion |
+| 6 | *u-vi'arta ha-ra mi-qirbekha*, "burn out the evil from your inside" | So you shall purge the evil from among you (noted) |
+| 7 | *eshet cheiqekha… re'akha asher ke-nafshekha* | the wife of your embrace… your friend who is as your own soul (noted) |
+| 9 | *lo tokhasseh alav* | you shall not cover for him |
+| 14 | *benei veliyya'al* | Worthless men (noted) |
+| 15 | *ve-hinneh emet nakhon ha-davar* | If it is true and the thing is certain (*here —* cut, per ruling) |
+| 16 | *le-fi cherev*, "by the mouth of the sword" | with the sword (spec rule 6) |
+| 17 | *kalil* | whole (as Leviticus 6:22–23, noted) |
+
+### Deuteronomy 14: Clean and Unclean, and the Tithe
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lo titgodedu… qorchah bein eineikhem* | gash yourselves… a bald patch between your eyes (as Leviticus 19:28, 21:5) |
+| 3 | *to'evah* | detestable thing (fixed term) |
+| 5 | *yachmur, aqqo, dishon, te'o, zemer* | roebuck, wild goat, ibex, antelope, mountain sheep (uncertain, noted) |
+| 7–8, 12–18 | (as Leviticus 11) | this project's names from Leviticus 11 |
+| 13 | *ha-ra'ah* | the buzzard (a word found only here, noted) |
+| 21 | *nevelah* | any animal that has died on its own (as Leviticus 17:15) |
+| 21 | *ger… nokhri* | guest… foreigner (fixed terms) |
+| 25 | *ve-tsarta ha-kesef be-yadekha* | bind up the silver in your hand |
+
+### Deuteronomy 15: The Year of Release
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–3, 9 | *shemittah*, *shamot* | release (noted) |
+| 2 | *ba'al masheh yado* | every creditor |
+| 4, 7, 9, 11 | *evyon* | needy (and *'ani* in v11, poor) |
+| 7 | *lo te'ammets… ve-lo tiqpots* | you shall not harden… or shut (noted) |
+| 8, 10, 11, 14 | doubled verbs | open, open; lend, lend; give, give; load, load (noted) |
+| 9 | *davar… veliyya'al* | a worthless thought (as 13:14, noted) |
+| 13 | *reqam* | empty-handed (as Exodus 3:21, noted) |
+| 17 | *eved olam* | your slave forever |
+| 21 | *mum* | blemish (fixed: *mum*, not *tamim*) |
+
+**Checks:** verse counts equal the Hebrew (19, 29, 23); no banned words; "And"-starts only *And it shall come to pass* (15:16); no *here —* or *look —*; every quotation printed and checked (Exodus 3:21, 21:2–6, 22:25, 23:11, 23:19, 34:26; Leviticus 6:22–23, 11:3–19, 17:15, 19:28, 21:5, 22:20; Numbers 18:21; Deuteronomy 4:2; Matthew 26:11). The count of nine *purge the evil* verses (13:6 to 24:7) was made on the Hebrew.
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 10–12 (OT loop, run 5, 6:24 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 10, 11, 12. Progress 356 → **359 of 1,989 (18.0%)**. Next is Deuteronomy 13.
