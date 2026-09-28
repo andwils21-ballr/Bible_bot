@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 19 (canon and Matthew loop, run 13, 2026-09-27)
+
+**Landed:**
+- **Chapter 19:** marriage and divorce; eunuchs for the kingdom; the children; the rich young man; the camel and the needle; the reward of those who follow.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 19:7 | *biblion apostasiou* | a certificate of divorce (as 5:31, noted) |
+| 19:8 | *sklērokardian* | hardness of heart |
+| 19:9 | *mē epi porneia* | except for sexual immorality (as 5:32) |
+| 19:21 | *teleios* | complete (as 5:48) |
+| 19:27 | *Idou* | Look (a speaker's word, as 12:2) |
+| 19:28 | *palingenesia* | the renewal of all things (noted) |
+
+**Checks:** verse count equals the Greek (30); no banned words; the only "And"-starts are *And it came to pass* (19:1) and *And here —* (19:16); quotations printed and checked (Genesis 1:27, 2:24, Exodus 20:12–16, Leviticus 19:18 and Matthew 5:31–32, 48 in this project's wording; Deuteronomy 24:1 Hebrew; Matthew 20:17 Greek).
+
+**Left standing on purpose:**
+- 19:9 — ***KEPT AS IS***: the last clause is rendered, though the edition marks it as a place where manuscripts differ. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 18 (canon and Matthew loop, run 12, 2026-09-27)
 
 **Landed:**
