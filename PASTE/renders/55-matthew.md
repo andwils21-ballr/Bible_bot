@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 16 (canon and Matthew loop, run 10, 2026-09-27)
+
+**Landed:**
+- **Chapter 16:** the signs of the times; the yeast of the Pharisees; Peter's confession at Caesarea Philippi; the first prediction of the passion; the way of the cross.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 16:3 | *kai prōi* | In the morning (no "And" start) |
+| 16:16 | *ho christos* | the Messiah |
+| 16:18 | *Kagō de soi legō* | I tell you too (no "And" start) |
+| 16:18 | *ekklēsian* | church (noted: *assembly*) |
+| 16:22 | *Hileōs soi* | Far be it from you (noted) |
+| 16:23 | *skandalon* | a stumbling block (noted) |
+| 16:26 | *psychēn* | life |
+
+**Checks:** verse count equals the Greek (28); no banned words; no "And"-starts; quotations printed and checked (Matthew 4:10 in this project's wording; Isaiah 22:22 Hebrew and Greek; Psalm 62:13 Hebrew and Greek; Matthew 12:39, 18:17–18 Greek).
+
+**Left standing on purpose:**
+- 16:2b–3 — ***KEPT AS IS***: rendered, though the edition marks the words as a place where manuscripts differ. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 15 (canon and Matthew loop, run 9, 2026-09-27)
 
 **Landed:**
