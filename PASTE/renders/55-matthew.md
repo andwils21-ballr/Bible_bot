@@ -2,6 +2,26 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 22 (canon and Matthew loop, run 16, 2026-09-27)
+
+**Landed:**
+- **Chapter 22:** the wedding feast; Caesar and God; the Sadducees and the resurrection; the great commandment; David's son and David's Lord.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 22:4 | *Idou* | Look (a speaker's word, as 12:2) |
+| 22:9 | *tas diexodous tōn hodōn* | the places where the roads leave the town (noted) |
+| 22:12 | *Hetaire… ephimōthē* | Friend… was speechless (noted) |
+| 22:16 | *ou blepeis eis prosōpon anthrōpōn* | you do not look at the face of men |
+| 22:21 | *Apodote* | Give back |
+| 22:44 | *Eipen kyrios tō kyriō mou* | The Lord said to my Lord (noted) |
+
+**Checks:** verse count equals the Greek (46); no banned words; no "And"-starts; quotations printed and checked (Genesis 1:27, 38:8, Exodus 3:6, Leviticus 19:18 in this project's wording; Deuteronomy 6:4–5, 25:5–6, Psalm 110:1 Hebrew; Genesis 1:27 and Deuteronomy 6:5 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Matthew 21 (canon and Matthew loop, run 15, 2026-09-27)
 
 **Landed:**
