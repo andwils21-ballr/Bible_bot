@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+
+## Leviticus 14: a note on "mold" (Andrew, 2026-09-28)
+
+**Request:** Andrew: "Keep blight, and add the mold note to Leviticus 14."
+
+**Done:** *blight* stays for *tsara'at* everywhere. The note on v37 (*hollows*) gains two sentences:
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 14, note v37 | …The rest of the sentence carries the sense even though the word itself has nothing to check it against. | …The rest of the sentence carries the sense even though the word itself has nothing to check it against. Greenish or reddish patches that sink into plaster, spread, and come back after the stones are replaced (vv43–44) are why some modern readers take the blight of a house as **mold**; a medical paper, *Mold: "tsara'at," Leviticus, and the history of a confusion* (PubMed 14593226), discusses that reading. The text keeps one word, *tsara'at*, for skin, cloth and walls alike, and so does this rendering: *blight*. |
+
 ## Follow-up: "It will be, when…" made "And it will come to pass, when…"; Judges refrain without "And" (Andrew, 2026-09-26)
 
 **The request:** "I think those in Judges can be taken out. Go back and make the Genesis phrase consistent."
