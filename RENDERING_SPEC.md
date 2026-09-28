@@ -77,19 +77,19 @@ case…*, or a dash and a plain clause.
 ### Kept on purpose (settled rulings)
 
 - **"And it came to pass"** for *va-yehi*, the scene-opening formula.
-- **No "here —" for *hinneh* / *idou*** (Andrew, 2026-09-28, replacing the
-  ruling of 2026-09-25). In every book, rendered and still to come: end the
-  sentence before it and start the next with what is seen, or let the clause
-  run on (*He looked: the bush was burning*; *A man with blight came and knelt
-  before Him*). God's *hinneh* + participle is *I am about to…* or *I will…*
-  (*I am about to strike the water*, Exodus 7:17). *I — hinneh — I* is *I
-  Myself* (Exodus 14:17). A speaker pointing may say *Look*; a presentation may
-  be *Here is* (*Here is the blood of the covenant*, Exodus 24:8; *Here is My
-  servant*, Matthew 12:18). **Keep it only where cutting loses something the
-  word carries** — so far: *and here, it was Leah* (Genesis 29:25; Jubilees
-  28:4), the morning's discovery; *And here — He came* (1 Enoch 1:9), the words
-  Jude quotes; and *look —* where Exodus 39:43 echoes Genesis 1:31 (*God saw…
-  and look — it was very good*; *Moses saw… and look — they had done it*).
+- **No "here —" or "look —" for *hinneh* / *idou*** (Andrew, 2026-09-28,
+  replacing the ruling of 2026-09-25). In every book, rendered and still to
+  come, in narrative and in speech: end the sentence before it and start the
+  next with what is seen, or let the clause run on (*He looked: the bush was
+  burning*; *A man with blight came and knelt before Him*; *I am old*, not
+  *Look now — I am old*). God's *hinneh* + participle is *I am about to…* or
+  *I will…* (*I am about to strike the water*, Exodus 7:17). *I — hinneh — I*
+  is *I Myself* (Exodus 14:17). A presentation may be *Here is* (*Here is the
+  blood of the covenant*, Exodus 24:8; *Here is My servant*, Matthew 12:18;
+  *Here is the bridegroom!*, Matthew 25:6). **Keep it only where cutting loses
+  something the word carries** — so far: *and here, it was Leah* (Genesis
+  29:25; Jubilees 28:4), the morning's discovery; and *And here — He came*
+  (1 Enoch 1:9), the words Jude quotes.
 
 ### Pronouns for God and for Jesus (Andrew, 2026-09-28)
 

@@ -139,8 +139,8 @@ removed:
 - **Versification** follows the English (KJV) chapter and verse numbering.
 - **Names**: the received English name (Abel, not *Vapor*); the meaning goes in
   a note.
-- **Kept on purpose**: *and it came to pass* (*va-yehi*). *Here —* for
-  *hinneh* / *idou* is cut in every book, kept only where it carries something
+- **Kept on purpose**: *and it came to pass* (*va-yehi*). *Here —* and
+  *look —* for *hinneh* / *idou* are cut in every book, kept only where it carries something
   (Andrew, 2026-09-28; see the spec).
 - **No sentence starts with "And"** unless it does real work (spec, "No And").
 - **Capital Lord means God; lowercase lord is a man of rank.**
