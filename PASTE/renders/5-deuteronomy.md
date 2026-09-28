@@ -2,6 +2,57 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 10–12 (OT loop, run 5, 6:24 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 10, 11, 12. Progress 356 → **359 of 1,989 (18.0%)**. Next is Deuteronomy 13.
+
+### Deuteronomy 10: What the LORD Asks of You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pesol lekha* | Cut for yourself (as Exodus 34:1) |
+| 4 | *aseret ha-devarim* | the Ten Words |
+| 6 | *mi-Be'erot Benei-Ya'aqan Moserah* | from Beeroth Bene-jaakan to Moserah (the clash with Numbers 33 noted, left as each has it) |
+| 12 | *ve-attah… mah… sho'el me'immakh* | And now… what does the LORD your God ask of you (noted) |
+| 14 | *shemei ha-shamayim* | the heavens of the heavens |
+| 16 | *u-maltem et orlat levavkhem* | Circumcise, then, the foreskin of your heart (noted) |
+| 17 | *lo yissa fanim* | shows no partiality (noted) |
+| 18–19 | *ger* | guest (fixed term, noted) |
+
+### Deuteronomy 11: The Blessing and the Curse
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *u-shamarta mishmarto* | keep His charge |
+| 6 | *kol ha-yequm asher be-ragleihem* | every standing thing that followed them (as Genesis 7:4, noted) |
+| 10 | *ve-hishqita ve-raglekha* | watered it with your foot (noted) |
+| 12 | *doresh otah* | cares for (noted) |
+| 14 | *yoreh u-malqosh* | the early rain and the late rain (as the Jubilees note quoting this verse) |
+| 16 | *pen yifteh levavkhem* | so that your heart is not enticed |
+| 18 | *le-totafot* | as frontlets (as 6:8) |
+| 21 | *ki-mei ha-shamayim al ha-arets* | as long as the heavens are above the earth |
+| 30 | *elonei Moreh* | the oaks of Moreh (as Genesis 12:6, noted) |
+
+### Deuteronomy 12: The Place the LORD Will Choose
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *abbed te'abbedun* | You shall utterly destroy |
+| 5 | *le-shikhno* | for His dwelling (noted) |
+| 6, 11, 17 | *terumat yedkhem* | the contribution of your hand (as Exodus 25) |
+| 7, 18 | *be-khol mishlach yedkhem* | in all that you put your hand to |
+| 8 | *ish kol ha-yashar be-einav* | each man whatever is right in his own eyes (noted) |
+| 13, 19, 30 | *hishamer lekha pen* | Guard yourself so that you do not |
+| 15, 20, 21 | *be-khol avvat nafshekha* | as much as you desire |
+| 23 | *ha-dam hu ha-nefesh* | the blood is the life (as Leviticus 17:11, noted) |
+| 31 | *kol to'evat YHWH* | every detestable thing (fixed term) |
+
+**Checks:** verse counts equal the Hebrew (22, 32, 31; the Hebrew's 12:31 ends the chapter, and the verse English Bibles number 12:32 opens chapter 13 here); no banned words; "And"-starts only *And now* in speech (10:12) and *And it shall come to pass* (11:13, 11:29); no *here —* or *look —*; every quotation printed and checked (Genesis 7:4, 7:23, 9:4, 12:6, 15:5, 46:27; Exodus 22:21, 23:9, 25:10, 32:16, 32:26, 34:1, 37:1–2; Leviticus 17:3–4, 17:11, 18:21, 26:41; Numbers 16:32, 18:20, 33:31–33, 33:38; Deuteronomy 30:6; Joshua 1:3, 8:33; Judges 21:25; Micah 6:8).
+
+**Left standing on purpose:** Deuteronomy 10:6–7 and Numbers 33:31–38 disagree about where Aaron died and the order of the stations. Each is rendered as it reads; the 10:6–7 note says so.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 6–9 (OT loop, run 4, 6:18 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 6, 7, 8, 9. Progress 352 → **356 of 1,989 (17.9%)**. Next is Deuteronomy 10.
