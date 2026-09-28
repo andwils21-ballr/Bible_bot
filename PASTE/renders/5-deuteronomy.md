@@ -2,6 +2,69 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 6–9 (OT loop, run 4, 6:18 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 6, 7, 8, 9. Progress 352 → **356 of 1,989 (17.9%)**. Next is Deuteronomy 10.
+
+### Deuteronomy 6: Hear, Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *YHWH eloheinu YHWH echad* | the LORD our God, the LORD is one (other reading noted) |
+| 5 | *u-vekhol me'odekha*, "and with all your muchness" | with all your strength (noted) |
+| 7 | *ve-shinnantam* | Repeat them (noted) |
+| 8 | *le-totafot* | as frontlets (as the Matthew 23 note; Exodus 13:16 has *band*, noted) |
+| 12 | *hishamer lekha pen* | guard yourself so that you do not |
+| 15 | *pen yechereh* | or the anger… will burn |
+| 16 | *ka'asher nissitem ba-Massah* | as you tested Him at Massah (as the Matthew 4 note) |
+| 17 | *shamor tishmerun* | Keep, keep (noted) |
+
+### Deuteronomy 7: A Holy People
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hacharem tacharim* | devote them to destruction (noted) |
+| 5 | *ashereihem* | their sacred poles (as Exodus 34:13) |
+| 6 | *le-am segullah* | a people for His own treasure (as Exodus 19:5, noted) |
+| 7 | *chashaq* | set His heart on (noted) |
+| 10 | *el panav* | to their face (noted) |
+| 12 | *ve-hayah eqev* | And it will come to pass, because (noted) |
+| 16 | *lo tachos einekha* | Your eye shall not pity them |
+| 22 | *pen tirbeh* | or the beasts of the field would multiply (as Exodus 23:29) |
+| 25–26 | *to'evah… shaqqets teshaqqetzennu… ta'ev teta'avennu* | detestable… utterly loathe… utterly detest (fixed terms, noted) |
+
+### Deuteronomy 8: Not on Bread Alone
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 3, 16 | *'annotekha* | to humble you (noted) |
+| 3 | *lo al ha-lechem levaddo* | not live on bread alone (as the Matthew 4 note) |
+| 5 | *yeyasser* | disciplines (noted) |
+| 11–12 | *hishamer lekha pen… pen* | Guard yourself so that you do not… so that… your heart is not lifted up |
+| 15 | *nachash saraph* | fiery serpents (as Numbers 21:6, noted) |
+| 15 | *tsur ha-challamish* | the flint rock |
+| 19 | *avod tovedun* | you will perish, perish (noted) |
+
+### Deuteronomy 9: Not for Your Righteousness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *betsurot ba-shamayim* | fortified up to the heavens (as 1:28) |
+| 3 | *esh okhelah* | a consuming fire (as 4:24, noted) |
+| 8 | *va-yit'annaf… le-hashmid* | was so angry… that He was ready to destroy |
+| 12, 16 | *massekhah*, *egel massekhah* | a molten image, a molten calf (as Exodus 32:4) |
+| 13 | *ve-hinneh am qesheh oref* | and it is a stiff-necked people (as Exodus 32:9) |
+| 16 | *va-ere ve-hinneh chatatem* | I looked, and you had sinned (cut, per ruling) |
+| 21 | *chattatkhem… ha-egel* | Your sin, the calf (noted) |
+| 26 | *Adonai YHWH* | Lord GOD |
+| 28 | *pen yomeru* | Otherwise the land… will say |
+
+**Checks:** verse counts equal the Hebrew (25, 26, 20, 29); no banned words; "And"-starts only *And it will come to pass* (7:12) and *And it shall come to pass* (8:19); no *here —* or *look —*; every quotation printed and checked (Genesis 15:6; Exodus 1:11, 13:14, 13:16, 17:7, 19:5, 23:28–30, 31:18, 32:4, 32:9–12, 32:20, 34:13, 34:28; Numbers 11:3, 11:34, 21:6; Deuteronomy 1:28, 4:10, 4:24, 5:9, 21:11, 29:4; Joshua 7:12; 2 Kings 23:25; Matthew 4:4, 4:7, 4:10, 22:37, 23:5; Greek of Deuteronomy 9:10).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 3–5 (OT loop, run 3, 6:10 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 3, 4, 5. Progress 349 → **352 of 1,989 (17.7%)**. Next is Deuteronomy 6.
