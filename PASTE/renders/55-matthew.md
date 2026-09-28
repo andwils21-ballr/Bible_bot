@@ -2,6 +2,30 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 10–11 (canon and Matthew loop, run 6, 2026-09-27)
+
+**Landed:**
+- **Chapter 10:** the twelve named and sent to the lost sheep of Israel; sheep among wolves; do not fear; not peace but a sword; receiving those who are sent.
+- **Chapter 11:** John's question from prison; more than a prophet; this generation and the unrepentant towns; *Come to me*.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 10:8 | *lepers cleanse* | cleanse those with blight (as 8:2) |
+| 10:16 | *in the midst of wolves* | among wolves |
+| 10:25 | *Beelzeboul* | Beelzebul (noted) |
+| 10:29 | *assarion* | a penny |
+| 11:10 | *ton angelon mou* | My messenger (Exodus 23:20, as this project renders it) |
+| 11:12 | *biazetai… biastai harpazousin* | is taken by force, and the violent seize it (kept ambiguous, noted) |
+| 11:23 | *Kai sy, Kapharnaoum* | You, Capernaum |
+| 11:23 | *hadou* | Hades (noted) |
+
+**Checks:** verse counts equal the Greek (42, 30); no banned words; the only "And"-starts are *And it came to pass* (11:1); quotations printed and checked (Genesis 3:1 Greek, 19:24; Exodus 23:20 Hebrew and Greek; 1 Kings 8:13; 2 Kings 1:2; Isaiah 14:13–15, 35:5–6, 61:1; Jeremiah 6:16; Micah 7:6; Malachi 3:1, 3:23; Luke 6:15; John 19:17).
+
+**Left standing on purpose:**
+- 11:12 — ***KEPT AS IS***: *taken by force… the violent seize it*: the Greek can mean the kingdom suffers violence or forces its way; the rendering keeps both open, and the note says so.
+
+**Choices for you:** none new.
+
 ## Matthew 8–9 (canon and Matthew loop, run 5, 2026-09-27)
 
 **Landed:**
