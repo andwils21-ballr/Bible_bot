@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 12 (canon and Matthew loop, run 7, 2026-09-27)
+
+**Landed:**
+- **Chapter 12:** the grainfields and the withered hand on the sabbath; *My servant* (Isaiah 42); Beelzebul and the strong man; the sign of Jonah; his mother and brothers.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 12:2 | *Idou* | Look (a speaker's word, not the narrator's *here —*) |
+| 12:4 | *the loaves of the setting-out* | the bread of the Presence (noted) |
+| 12:6, 41–42 | *meizon, pleion* (neuter) | something greater (noted) |
+| 12:34 | *from the overflow of the heart* | out of what fills the heart |
+| 12:40 | *kētos* | the sea creature (noted) |
+| 12:49 | *Idou* | Here are |
+
+**Checks:** verse count equals the Greek (50); no banned words; no "And"-starts; quotations printed and checked (Leviticus 24:5–9; Numbers 28:9–10; Deuteronomy 23:26; 1 Samuel 21:7; 1 Kings 10:1; Isaiah 42:1–4 Hebrew and Greek; Jonah 2:1, 3:5).
+
+**Left standing on purpose:**
+- 12:47 — ***KEPT AS IS***: rendered, though the edition marks the verse as one where manuscripts differ; v48 depends on it. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 10–11 (canon and Matthew loop, run 6, 2026-09-27)
 
 **Landed:**
