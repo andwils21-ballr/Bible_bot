@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## 14:27 "I am the One", 6:11 "daily bread", and three rulings (Andrew, 2026-09-28)
+
+**Request:** Andrew: "(a), and keep seventy-seven"; "Messiah"; "daily bread".
+
+**Decided:**
+- 14:27 — *egō eimi* becomes **I am the One** (option a: this verse and its note only; Exodus 3:14 is not changed).
+- 18:22 — **seventy-seven times** stays, as rendered.
+- *Christos* — **the Messiah** stays, as rendered throughout.
+- 6:11 — **daily bread** replaces *our bread for the coming day*.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 14:27 | "Take heart; I am. Do not be afraid." | "Take heart; I am the One. Do not be afraid." |
+| Matthew 14, note v27 | - **v27 "I am"** — *egō eimi*. The phrase can simply mean *It is I*; it is also the name God gave Moses at the bush, *I AM has sent me to you* (Exodus 3:14). The rendering keeps the bare words so both can be heard. | - **v27 "I am the One"** — *egō eimi*, **I am**; the words *the One* are added in English. The phrase can simply mean *It is I*. It is also the name God gave Moses at the bush, which the Greek of Exodus renders *Egō eimi ho ōn*, **I am the One who is**, and *Ho ōn has sent me*, **the One who is has sent me** (Exodus 3:14); this project renders the Hebrew there *I AM THE ONE WHO WILL BE*. The added words let both be heard. |
+| Matthew 6:11 | **11** Give us today our bread for the coming day, | **11** Give us today our daily bread, |
+| Matthew 6, note v11 | - **v11 "our bread for the coming day"** — *epiousion*, a word so rare that its meaning has been argued since antiquity. Its likeliest sense, from *hē epiousa*, **the next day**, is *bread for the day that is coming*; others take it from *ousia*, **what is needed to live**. Either way it is one day's bread, asked for each day, as the manna was: *a day's portion in its day* (Exodus 16:4). The traditional *daily bread* keeps the sense of both; this rendering follows the likelier derivation. | - **v11 "our daily bread"** — *epiousion*, a word so rare that its meaning has been argued since antiquity. Its likeliest sense, from *hē epiousa*, **the next day**, is *bread for the day that is coming*; others take it from *ousia*, **what is needed to live**. Either way it is one day's bread, asked for each day, as the manna was: *a day's portion in its day* (Exodus 16:4). The traditional *daily bread*, kept here, holds the sense of both. |
+
 ## Capital pronouns for Jesus (Andrew, 2026-09-28)
 
 **Request:** Andrew: "Use uppercase for Jesus."
