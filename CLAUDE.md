@@ -140,7 +140,7 @@ removed:
 - **Names**: the received English name (Abel, not *Vapor*); the meaning goes in
   a note.
 - **Kept on purpose**: *and it came to pass* (*va-yehi*) and *and here —*
-  (*hinneh*), except in inspection laws (see the spec).
+  (*hinneh*), except in inspection laws and in Matthew (see the spec).
 - **No sentence starts with "And"** unless it does real work (spec, "No And").
 - **Capital Lord means God; lowercase lord is a man of rank.**
 - **Capital pronouns for God and for Jesus** (Andrew, 2026-09-28): *He, Him,

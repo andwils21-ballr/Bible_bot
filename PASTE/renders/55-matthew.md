@@ -466,5 +466,5 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you (these affect the whole New Testament):**
 1. ✅ Decided (2026-09-28): *the Messiah* stays. **Christos:** *the Messiah* as a title (1:1, 16, 17, 18; 2:4), as the spec's example of Matthew 1:1 has it. The other choice is *Christ*, as most English Bibles do.
-2. **idou:** *here —* / *And here —* (1:20, 23; 2:1, 9, 13, 19; 3:16, 17; 4:11), the same ruling as *hinneh*, whose Greek it is. The other choice is *behold*, which is banned, or dropping it (*an angel appeared*).
+2. ✅ Decided (2026-09-28): cut, as in Leviticus 13–14 (see PASTE/changes/55-matthew.md). **idou:** *here —* / *And here —* (1:20, 23; 2:1, 9, 13, 19; 3:16, 17; 4:11), the same ruling as *hinneh*, whose Greek it is. The other choice is *behold*, which is banned, or dropping it (*an angel appeared*).
 3. ✅ Decided (2026-09-28): capitals for Jesus, applied to Matthew 1–28 (see PASTE/changes/55-matthew.md). **Pronouns for Jesus:** lowercase (*he*, *his*, 1:21, 25 and throughout), capitals kept for God the Father (*My Son*, 3:17; *My son*, 2:15; *My people*, 2:6). The first chapters of 1st Covenant and Te'ezaz, where Jesus speaks, capitalize *Me* and *My*; they would follow whatever you decide.

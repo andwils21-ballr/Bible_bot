@@ -82,6 +82,10 @@ case…*, or a dash and a plain clause.
   (Andrew, 2026-09-25): there *hinneh* only introduces what the priest finds, so
   the sentence ends and the finding starts a new one: *The priest shall look at
   him on the seventh day. If the mark has stayed as it was…* (Leviticus 13:5).
+  **Not in Matthew** (Andrew, 2026-09-28): *idou* is not rendered *here —*;
+  the sentence ends and the next starts with what is seen. A speaker pointing
+  may say *Look* (12:2); *Here is My servant* (12:18) presents. The other books
+  are pending Andrew's word.
 
 ### Pronouns for God and for Jesus (Andrew, 2026-09-28)
 

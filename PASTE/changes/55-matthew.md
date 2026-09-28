@@ -2,6 +2,74 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## "here —" cut in Matthew, as in Leviticus 13–14 (Andrew, 2026-09-28)
+
+**Request:** Andrew: "Same treatment as Leviticus. There was a much narrower instance where we decided to keep it, but the majority get cut."
+
+**Done in Matthew:** every *here —* / *And here —* for *idou* taken out, one verse at a time: the sentence ends where it stood and the next starts with what is seen, or the clause runs on without it. 47 in the verses, 10 in notes where this project's own rendering of a prophet was quoted. Where the words had no verb, one was supplied: 3:17 and 17:5 *a voice… said*; 12:10 *was there*; 20:30 *were sitting*. Kept in another form: 12:18 **Here is My servant** (Isaiah's presentation of the servant), 11:19 **Look, a glutton** (a speaker pointing, as 12:2). Two notes still quote *Here —* from Exodus 23:20 and 24:8 in this project's wording; Exodus is not changed.
+
+**Not done yet:** Genesis, Exodus, Numbers, Jubilees and 1 Enoch (about 160 more). The ruling of 2026-09-25 cut *and here —* in Leviticus 13–14 only and kept *And here —* everywhere else; waiting on Andrew for the other books.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 1:20 | When he had thought this over, here — an angel | When he had thought this over, an angel |
+| Matthew 1:23 | **23** "Here — the virgin will | **23** "The virgin will |
+| Matthew 1, note v23 | *here — I am with you* (*meth' hymōn eimi*) | *I am with you* (*meth' hymōn eimi*) |
+| Matthew 2:1 | in the days of Herod the king, here — magi from | in the days of Herod the king, magi from |
+| Matthew 2:9 | went on their way. And here — the star they had | went on their way. The star they had |
+| Matthew 2:13 | When they had gone, here — an angel | When they had gone, an angel |
+| Matthew 2:19 | When Herod had died, here — an angel | When Herod had died, an angel |
+| Matthew 3:16 | from the water. And here — the heavens were opened | from the water. The heavens were opened |
+| Matthew 3:17 | **17** And here — a voice from the heavens, saying, "This | **17** A voice from the heavens said, "This |
+| Matthew 4:11 | Then the devil left Him, and here — angels came | Then the devil left Him, and angels came |
+| Matthew 7:4 | out of your eye,' and here — the beam is in your own eye? | out of your eye,' when the beam is in your own eye? |
+| Matthew 7, note vv13–14 | *Here — I am setting before you the way of life | *I am setting before you the way of life |
+| Matthew 8:2 | **2** And here — a man with blight came | **2** A man with blight came |
+| Matthew 8:24 | **24** And here — a great storm arose | **24** A great storm arose |
+| Matthew 8:29 | **29** And here — they cried out, | **29** They cried out, |
+| Matthew 8:32 | went into the pigs; and here — the whole herd | went into the pigs, and the whole herd |
+| Matthew 8:34 | **34** And here — the whole town came out | **34** The whole town came out |
+| Matthew 9:2 | **2** And here — they brought to Him | **2** They brought to Him |
+| Matthew 9:3 | **3** And here — some of the scribes | **3** Some of the scribes |
+| Matthew 9:10 | in the house, that here — many tax collectors | in the house, that many tax collectors |
+| Matthew 9:18 | these things to them, here — a leader came | these things to them, a leader came |
+| Matthew 9:20 | **20** And here — a woman who had suffered | **20** A woman who had suffered |
+| Matthew 9:32 | As they were going out, here — a mute man | As they were going out, a mute man |
+| Matthew 10:16 | **16** Here — I am sending you out | **16** I am sending you out |
+| Matthew 11:8 | A man dressed in soft clothing? Here — those who wear | A man dressed in soft clothing? Those who wear |
+| Matthew 11:10 | it is written: 'Here — I am sending My messenger | it is written: 'I am sending My messenger |
+| Matthew 11:19 | and they say, 'Here — a glutton and a drunkard | and they say, 'Look, a glutton and a drunkard |
+| Matthew 11, note v10 | - **v10 "Here — I am sending My messenger before Your face"** | - **v10 "I am sending My messenger before Your face"** |
+| Matthew 11, note v10 | The rest is Malachi 3:1, *Here — I am sending My messenger | The rest is Malachi 3:1, *I am sending My messenger |
+| Matthew 11, note v14 | the prophets: *Here — I am sending you Elijah | the prophets: *I am sending you Elijah |
+| Matthew 12:10 | **10** And here — a man with a withered hand. They asked | **10** A man with a withered hand was there. They asked |
+| Matthew 12:18 | **18** "Here — My servant whom I have chosen | **18** "Here is My servant whom I have chosen |
+| Matthew 12, note vv18–21 | - **vv18–21 "Here — My servant"** | - **vv18–21 "Here is My servant"** |
+| Matthew 12:41 | at the preaching of Jonah; and here — something greater | at the preaching of Jonah; and something greater |
+| Matthew 12:42 | the wisdom of Solomon; and here — something greater | the wisdom of Solomon; and something greater |
+| Matthew 12:46 | to the crowds, here — His mother and His brothers stood | to the crowds, His mother and His brothers stood |
+| Matthew 12:47 | Someone said to Him, "Here — Your mother | Someone said to Him, "Your mother |
+| Matthew 13:3 | saying: "Here — a sower went out to sow. | saying: "A sower went out to sow. |
+| Matthew 15:22 | **22** And here — a Canaanite woman | **22** A Canaanite woman |
+| Matthew 17:3 | **3** And here — Moses and Elijah appeared | **3** Moses and Elijah appeared |
+| Matthew 17:5 | While he was still speaking, here — a bright cloud overshadowed them, and here — a voice from the cloud, saying, "This | While he was still speaking, a bright cloud overshadowed them, and a voice from the cloud said, "This |
+| Matthew 17, note v11 | The Hebrew: *Here — I am sending you Elijah | The Hebrew: *I am sending you Elijah |
+| Matthew 19:16 | **16** And here — a man came up to Him | **16** A man came up to Him |
+| Matthew 20:30 | **30** And here — two blind men sitting by the road, when they heard that Jesus was passing by, cried out, | **30** Two blind men were sitting by the road, and when they heard that Jesus was passing by, they cried out, |
+| Matthew 21:5 | Say to the daughter of Zion: Here — your king is coming to you, gentle | Say to the daughter of Zion: Your king is coming to you, gentle |
+| Matthew 21, note v5 | - **v5 "Say to the daughter of Zion: Here — your king is coming to you"** | - **v5 "Say to the daughter of Zion: Your king is coming to you"** |
+| Matthew 21, note v5 | *Say to the daughter of Zion, Here — your salvation comes*; the rest is Zechariah 9:9, *Here — your king comes to you; | *Say to the daughter of Zion, Your salvation comes*; the rest is Zechariah 9:9, *Your king comes to you; |
+| Matthew 25, note v32 | thus says the Lord GOD: Here — I am judging | thus says the Lord GOD: I am judging |
+| Matthew 26:47 | While He was still speaking, here — Judas, one of the twelve, | While He was still speaking, Judas, one of the twelve, |
+| Matthew 26:51 | **51** And here — one of those with Jesus | **51** One of those with Jesus |
+| Matthew 26, note v28 | Jeremiah promised another: *Here — days are coming… | Jeremiah promised another: *Days are coming… |
+| Matthew 27:51 | **51** And here — the curtain of the sanctuary | **51** The curtain of the sanctuary |
+| Matthew 28:2 | **2** And here — there was a great earthquake | **2** There was a great earthquake |
+| Matthew 28:7 | raised from the dead, and here — He is going ahead | raised from the dead, and He is going ahead |
+| Matthew 28:9 | **9** And here — Jesus met them | **9** Jesus met them |
+| Matthew 28:11 | While they were going, here — some of the guard | While they were going, some of the guard |
+| Matthew 28:20 | commanded you. And here — I am with you all the days | commanded you. I am with you all the days |
+
 ## 14:27 "I am the One", 6:11 "daily bread", and three rulings (Andrew, 2026-09-28)
 
 **Request:** Andrew: "(a), and keep seventy-seven"; "Messiah"; "daily bread".
