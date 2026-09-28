@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 13 (canon and Matthew loop, run 8, 2026-09-27)
+
+**Landed:**
+- **Chapter 13:** the sower; why parables (Isaiah 6); the sower explained; the weeds in the field; the mustard seed and the yeast; the weeds explained; treasure, a pearl and a net; no honor at home.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 13:3 | *Idou* | Here — |
+| 13:14 | *with hearing you will hear* | You will keep on hearing |
+| 13:15 | *epachynthē* | has grown fat (the Greek of Isaiah; the Hebrew is a command, noted) |
+| 13:25 | *zizania* | weeds |
+| 13:33 | *sata tria* | three measures (as Genesis 18:6 in this project, noted) |
+| 13:35 | *ereuxomai* | I will pour out (noted) |
+| 13:48 | *ta sapra* | the bad |
+| 13:55 | *ho tou tektonos huios* | the carpenter's son |
+
+**Checks:** verse count equals the Greek (58); no banned words; the only "And"-start is *And it came to pass* (13:53); quotations printed and checked (Genesis 18:6 in this project's wording; Isaiah 6:9–10 Hebrew and Greek; Psalm 78:1–2 Hebrew and Greek; Ezekiel 17:23; Daniel 4:9 Aramaic; Daniel 12:3).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Matthew 12 (canon and Matthew loop, run 7, 2026-09-27)
 
 **Landed:**
