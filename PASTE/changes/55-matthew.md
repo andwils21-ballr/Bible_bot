@@ -2,6 +2,227 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## "here —" cut in every book (Andrew, 2026-09-28)
+
+**Request:** Andrew: "Yes, cut them in those books, as well as any future book written. However, I want you to use discretion on any instance where it adds anything that might otherwise be less descriptive without it."
+
+**Done:** Genesis (64), Exodus, Leviticus and Numbers (55, with 2 notes in Matthew that quoted Exodus), Jubilees (51) and 1 Enoch (21), one verse at a time, with the notes that quoted the old wording. The *Here,* form (comma) was treated the same. *Here* meaning a place was left alone.
+
+**Kept, by discretion:**
+- Genesis 29:25 *And it came to pass in the morning — and here, it was Leah* (and the chapter title), with Jubilees 28:4 *He went in to her, and here — she was Leah*: the discovery at dawn is the whole scene.
+- 1 Enoch 1:9 *And here — He came with ten thousands of holy ones*: the line Jude quotes, *Behold, the Lord came*, and the note is built on it.
+- Exodus 39:43, now *Moses saw all the work, and look — they had done it*: it echoes Genesis 1:31, *God saw everything that He had made, and look — it was very good*, and the note is built on the echo.
+
+**Left as they were:** the *look —* forms in speech and in Genesis 1:31, 6:12, 8:11 (29 in all). Andrew's ruling named *here —*; say if *look —* should go the same way.
+
+**The rule** is in the spec (Word rules, "Kept on purpose") and CLAUDE.md, for every book still to be rendered.
+
+### Genesis
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 8:13 | covering of the ark and looked, and here — the face of the ground was dry. | covering of the ark and looked: the face of the ground was dry. |
+| Genesis 15:3 | no seed, and here, a son of my house is inheriting me." | no seed, and a son of my house is inheriting me." |
+| Genesis 15:4 | **4** Here, the word of the LORD came to him, | **4** The word of the LORD came to him, |
+| Genesis 15:12 | a deep sleep fell upon Abram; and here — a dread, a darkness, a great one, falling upon him. | a deep sleep fell upon Abram, and a dread, a darkness, a great one, was falling upon him. |
+| Genesis 18:2 | He lifted his eyes and looked, and here — three men standing beside him. | He lifted his eyes and looked: three men were standing beside him. |
+| Genesis 18:10 | at the time of life — and here, a son for Sarah your wife. | at the time of life, and Sarah your wife will have a son. |
+| Genesis 19:28 | and he saw — and here, the smoke of the land went up like the smoke of a kiln. | and he saw the smoke of the land going up like the smoke of a kiln. |
+| Genesis 20:3 | "Here, you are a dead man, | "You are a dead man, |
+| Genesis 20:16 | "Here — I have given a thousand of silver to your brother. Here, it is for you a covering | "I have given a thousand of silver to your brother. It is for you a covering |
+| Genesis 22:13 | Abraham lifted his eyes and saw — and here, a ram, behind, caught in the thicket by its horns. | Abraham lifted his eyes and saw a ram behind him, caught in the thicket by its horns. |
+| Genesis 22:20 | saying, "Here — Milcah has borne sons, | saying, "Milcah has borne sons, |
+| Genesis 24:15 | before he had finished speaking, that here — Rebekah was coming out, | before he had finished speaking, that Rebekah was coming out, |
+| Genesis 24:45 | speaking to my heart, and here — Rebekah was coming out, | speaking to my heart, and Rebekah was coming out, |
+| Genesis 24:63 | He lifted his eyes and saw — and here, camels coming. | He lifted his eyes and saw camels coming. |
+| Genesis 25:24 | Her days were filled to give birth, and here — twins in her belly. | Her days were filled to give birth, and there were twins in her belly. |
+| Genesis 26:9 | "So — here, she is your wife! | "So she is your wife! |
+| Genesis 27:36 | My birthright he took, and here, now, he has taken my blessing. | My birthright he took, and now he has taken my blessing. |
+| Genesis 28:12 | He dreamed — and here, a stairway set on the earth, and its head reaching to the heavens. Here, messengers of God going up and coming down on it. | He dreamed: a stairway was set on the earth, and its head reached to the heavens. Messengers of God were going up and coming down on it. |
+| Genesis 28:13 | **13** Here, the LORD standing over him, and He said, | **13** The LORD was standing over him, and He said, |
+| Genesis 28:15 | **15** And here — I am with you, and I will keep you | **15** I am with you, and I will keep you |
+| Genesis 29:2 | He looked, and here — a well in the field, and here, three flocks of sheep lying beside it, | He looked and saw a well in the field, and three flocks of sheep lying beside it, |
+| Genesis 29:6 | "Well. And here — Rachel his daughter, coming with the sheep." | "Well. Rachel his daughter is coming with the sheep." |
+| Genesis 30:34 | Laban said, "Here — let it be according to your word." | Laban said, "Good. Let it be according to your word." |
+| Genesis 31:2 | Jacob saw Laban's face, and here — it was not toward him as yesterday | Jacob saw that Laban's face was not toward him as yesterday |
+| Genesis 31:10 | and saw in a dream, and here — the he-goats mounting the flock were striped, | and saw in a dream that the he-goats mounting the flock were striped, |
+| Genesis 32:18 | It is a gift sent to my lord, to Esau. And here — he is also behind us.' | It is a gift sent to my lord, to Esau. He is also behind us.' |
+| Genesis 32:20 | 'Here — your servant Jacob is behind us.' | 'Your servant Jacob is behind us.' |
+| Genesis 33:1 | Jacob lifted his eyes and looked, and here — Esau coming, and four hundred men with him. | Jacob lifted his eyes and looked: Esau was coming, and four hundred men with him. |
+| Genesis 37:7 | **7** And here — we were binding sheaves of grain in the middle of the field, and here, my sheaf rose and also stood upright, and here, your sheaves gathered | **7** We were binding sheaves of grain in the middle of the field, and my sheaf rose and also stood upright, and your sheaves gathered |
+| Genesis 37:9 | "Here, I have dreamed a dream again, and here — the sun and the moon | "I have dreamed a dream again, and the sun and the moon |
+| Genesis 37:15 | A man found him, and here — he was wandering in the field. | A man found him wandering in the field. |
+| Genesis 37:25 | They lifted their eyes and looked, and here — a caravan of Ishmaelites coming from Gilead, | They lifted their eyes and looked, and saw a caravan of Ishmaelites coming from Gilead, |
+| Genesis 37:29 | Reuben returned to the pit, and here — Joseph was not in the pit. | Reuben returned to the pit, and Joseph was not in the pit. |
+| Genesis 38:13 | "Here — your father-in-law is going up to Timnah | "Your father-in-law is going up to Timnah |
+| Genesis 38:23 | or we will become a laughingstock. Here, I sent this young goat, | or we will become a laughingstock. I sent this young goat, |
+| Genesis 38:24 | has played the whore, and here, she is also pregnant by whoring. | has played the whore, and she is also pregnant by whoring. |
+| Genesis 38:27 | at the time of her giving birth, and here — twins in her womb. | at the time of her giving birth, that there were twins in her womb. |
+| Genesis 38:29 | as he drew back his hand, that here — his brother came out. | as he drew back his hand, that his brother came out. |
+| Genesis 40:6 | saw them, and here — they were downcast. | saw that they were downcast. |
+| Genesis 40:9 | "In my dream — and here, a vine before me. | "In my dream, there was a vine before me. |
+| Genesis 40:16 | "I also — in my dream, and here, three baskets of white bread on my head. | "I also: in my dream there were three baskets of white bread on my head. |
+| Genesis 41:1 | that Pharaoh was dreaming, and here — he was standing by the Nile. | that Pharaoh was dreaming: he was standing by the Nile. |
+| Genesis 41:2 | **2** Here, coming up out of the Nile, seven cows, | **2** Coming up out of the Nile were seven cows, |
+| Genesis 41:3 | **3** Here, seven other cows coming up after them out of the Nile, | **3** Seven other cows came up after them out of the Nile, |
+| Genesis 41:5 | dreamed a second time, and here — seven ears of grain coming up on one stalk, fat and good. | dreamed a second time: seven ears of grain were coming up on one stalk, fat and good. |
+| Genesis 41:6 | **6** Here, seven ears thin and scorched by the east wind, sprouting after them. | **6** Seven ears, thin and scorched by the east wind, were sprouting after them. |
+| Genesis 41:7 | Pharaoh awoke, and here — it was a dream. | Pharaoh awoke, and it was a dream. |
+| Genesis 41:18 | **18** Here, coming up out of the Nile, seven cows | **18** Coming up out of the Nile were seven cows |
+| Genesis 41:19 | **19** Here, seven other cows coming up after them, | **19** Seven other cows came up after them, |
+| Genesis 41:22 | I saw in my dream, and here — seven ears coming up on one stalk, full and good. | I saw in my dream seven ears coming up on one stalk, full and good. |
+| Genesis 41:23 | **23** Here, seven ears shriveled, thin, scorched by the east wind, sprouting after them. | **23** Seven ears, shriveled, thin, scorched by the east wind, were sprouting after them. |
+| Genesis 41:29 | **29** Here — seven years are coming, | **29** Seven years are coming, |
+| Genesis 42:2 | "Here, I have heard that there is grain in Egypt. | "I have heard that there is grain in Egypt. |
+| Genesis 42:13 | in the land of Canaan. Here, the youngest is with our father today, | in the land of Canaan. The youngest is with our father today, |
+| Genesis 42:27 | he saw his silver — and here, it was in the mouth of his bag. | he saw his silver in the mouth of his bag. |
+| Genesis 42:28 | "My silver has been returned, and here — it is in my bag." | "My silver has been returned; it is in my bag." |
+| Genesis 42:35 | as they were emptying their sacks, that here — each man's bundle | as they were emptying their sacks, that each man's bundle |
+| Genesis 43:21 | and opened our bags, that here — each man's silver | and opened our bags, that each man's silver |
+| Genesis 45:12 | **12** Here, your eyes see, | **12** Your eyes see, |
+| Genesis 48:1 | "Here, your father is ill." | "Your father is ill." |
+| Genesis 48:2 | "Here, your son Joseph has come to you." | "Your son Joseph has come to you." |
+| Genesis 48:11 | your face — and here, God has shown me your seed also." | your face, and God has shown me your seed also." |
+| Genesis 48:21 | "Here, I am dying. God will be with you, | "I am dying. God will be with you, |
+| Genesis 50:5 | saying, Here, I am dying. In my grave | saying, I am dying. In my grave |
+
+### Exodus, Leviticus, Numbers (and two Matthew notes)
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 2:6 | and saw him — the child — and here, a boy crying. | and saw him — the child — a boy crying. |
+| Exodus 2:13 | He went out on the second day, and here — two Hebrew men fighting. | He went out on the second day, and two Hebrew men were fighting. |
+| Exodus 3:2 | He looked, and here — the bush was burning with fire, and the bush was not consumed. | He looked: the bush was burning with fire, and the bush was not consumed. |
+| Exodus 3:9 | **9** And now, here — the cry of the sons of Israel has come to Me, | **9** And now, the cry of the sons of Israel has come to Me, |
+| Exodus 4:6 | and drew it out, and here — his hand was blighted, white as snow. | and drew it out, and his hand was blighted, white as snow. |
+| Exodus 4:7 | drew it out of his cloak, and here — it had gone back like the rest of his flesh. | drew it out of his cloak, and it had gone back like the rest of his flesh. |
+| Exodus 4:14 | I know that he can certainly speak. And here — he is even coming out to meet you, | I know that he can certainly speak. He is even coming out to meet you, |
+| Exodus 4:23 | Here — I am killing your son, your firstborn.' | I will kill your son, your firstborn.' |
+| Exodus 5:16 | 'Make bricks!' And here — your servants are being beaten, | 'Make bricks!' Your servants are being beaten, |
+| Exodus 7:16 | so they may serve Me in the wilderness. And here — you have not listened, until now. | so they may serve Me in the wilderness. Until now you have not listened. |
+| Exodus 7:17 | I am the LORD. Here — I am striking the water | I am the LORD. I am about to strike the water |
+| Exodus 8:2 | If you refuse to send them away, here — I am striking your whole territory with frogs. | If you refuse to send them away, I am about to strike your whole territory with frogs. |
+| Exodus 8:21 | For if you are not sending My people away, here — I am letting loose against you | For if you are not sending My people away, I am about to let loose against you |
+| Exodus 8:29 | Moses said, "Here — I am going out from you, | Moses said, "I am going out from you, |
+| Exodus 9:3 | **3** here — the hand of the LORD is coming against your livestock | **3** the hand of the LORD is about to come against your livestock |
+| Exodus 9:7 | Pharaoh sent, and here — not so much as one of Israel's livestock had died. | Pharaoh sent, and not so much as one of Israel's livestock had died. |
+| Exodus 9:18 | **18** Here — about this time tomorrow I am raining down very heavy hail, | **18** About this time tomorrow I will rain down very heavy hail, |
+| Exodus 10:4 | send My people away, here — tomorrow I am bringing locusts into your territory. | send My people away, tomorrow I will bring locusts into your territory. |
+| Exodus 14:10 | the sons of Israel lifted their eyes, and here — Egypt marching after them. | the sons of Israel lifted their eyes, and Egypt was marching after them. |
+| Exodus 14:17 | **17** I — here, I am making the heart of Egypt strong, | **17** I Myself am making the heart of Egypt strong, |
+| Exodus 16:4 | "Here — I am raining down bread from the sky for you. | "I am about to rain down bread from the sky for you. |
+| Exodus 16:10 | they turned toward the wilderness — and here, the glory of the LORD appeared in the cloud. | they turned toward the wilderness, and the glory of the LORD appeared in the cloud. |
+| Exodus 16:14 | The layer of dew went up, and here — on the face of the wilderness a fine, flaking thing, fine as frost on the ground. | The layer of dew went up, and on the face of the wilderness was a fine, flaking thing, fine as frost on the ground. |
+| Exodus 17:6 | **6** Here — I will be standing before you there | **6** I will be standing before you there |
+| Exodus 19:9 | "Here — I am coming to you in the thickness of the cloud, | "I am coming to you in the thickness of the cloud, |
+| Exodus 23:20 | **20** Here — I am sending a messenger before you, | **20** I am sending a messenger before you, |
+| Exodus 24:8 | "Here — the blood of the covenant that the LORD has cut | "Here is the blood of the covenant that the LORD has cut |
+| Exodus 24:14 | until we return to you. And here — Aaron and Hur are with you. | until we return to you. Aaron and Hur are with you. |
+| Exodus 31:6 | **6** I — here, I have given him Oholiab | **6** I Myself have given him Oholiab |
+| Exodus 32:9 | "I have seen this people, and here — it is a stiff-necked people. | "I have seen this people, and it is a stiff-necked people. |
+| Exodus 32:34 | where I told you. Here — My messenger will go before you. | where I told you. My messenger will go before you. |
+| Exodus 34:10 | He said, "Here — I am cutting a covenant. | He said, "I am cutting a covenant. |
+| Exodus 34:11 | today. Here — I am driving out from before you | today. I am driving out from before you |
+| Exodus 34:30 | saw Moses, and here — the skin of his face had grown horns. | saw Moses, and the skin of his face had grown horns. |
+| Exodus 39:43 (kept, as Genesis 1:31) | Moses saw all the work, and here — they had done it; | Moses saw all the work, and look — they had done it; |
+| Exodus 39, note vv32, 43 | God **saw** all that he had made, and here — very good; Exodus 39:43, *va-yar Mosheh et kol ha-melakhah ve-hinneh asu otah*, Moses **saw** all the work, and here — they had done it. | God **saw** all that he had made, and look — it was very good; Exodus 39:43, *va-yar Mosheh et kol ha-melakhah ve-hinneh asu otah*, Moses **saw** all the work, and look — they had done it. |
+| Exodus 26, note v31 | *and here — the veil of the temple was torn in two, from top to bottom.* | *The curtain of the sanctuary was torn in two, from top to bottom.* |
+| Leviticus 10:16 | Moses searched and searched for the goat of the sin offering, and here — it had been burned. | Moses searched and searched for the goat of the sin offering, and it had been burned. |
+| Numbers 3:12 | "I — here, I have taken the Levites | "I Myself have taken the Levites |
+| Numbers 12:10 | The cloud turned away from over the tent, and here — Miriam was blighted, white as snow. Aaron turned toward Miriam, and here — she was blighted. | The cloud turned away from over the tent, and Miriam was blighted, white as snow. Aaron turned toward Miriam, and she was blighted. |
+| Numbers 16:42 | toward the tent of meeting, and here — the cloud covered it, | toward the tent of meeting, and the cloud covered it, |
+| Numbers 16:47 | into the middle of the assembly, and here — the plague had begun among the people. | into the middle of the assembly, and the plague had begun among the people. |
+| Numbers 17:8 | into the tent of the Testimony, and here — the staff of Aaron | into the tent of the Testimony, and the staff of Aaron |
+| Numbers 22:5 | saying, "Here — a people has come out of Egypt. Here — they have covered the eye of the land, | saying, "A people has come out of Egypt. They have covered the eye of the land, |
+| Numbers 22:11 | **11** 'Here — the people that has come out of Egypt | **11** 'The people that has come out of Egypt |
+| Numbers 22:32 | these three times? Here — I have come out as an adversary, | these three times? I have come out as an adversary, |
+| Numbers 22:38 | Balaam said to Balak, "Here — I have come to you. | Balaam said to Balak, "I have come to you. |
+| Numbers 23:6 | So he went back to him, and here — he was standing beside his burnt offering, | So he went back to him, and he was standing beside his burnt offering, |
+| Numbers 23:11 | I took you to curse my enemies, and here — you have done nothing but bless them!" | I took you to curse my enemies, and you have done nothing but bless them!" |
+| Numbers 23:17 | He came to him, and here — he was standing beside his burnt offering, | He came to him, and he was standing beside his burnt offering, |
+| Numbers 23:20 | **20** Here — I have received a command to bless. | **20** I have received a command to bless. |
+| Numbers 24:10 | to put a curse on my enemies, and here — you have done nothing but bless them | to put a curse on my enemies, and you have done nothing but bless them |
+| Numbers 24:11 | but here — the LORD has kept you back from honor. | but the LORD has kept you back from honor. |
+| Numbers 25:6 | **6** And here — one of the sons of Israel came | **6** One of the sons of Israel came |
+| Numbers 25:12 | Therefore say: Here — I give him My covenant of peace. | Therefore say: I give him My covenant of peace. |
+| Matthew 11, note v10 | *Here — I am sending a messenger before you, to guard you on the way* | *I am sending a messenger before you, to guard you on the way* |
+| Matthew 26, note v28 | *Here — the blood of the covenant that the LORD has cut with you on all these terms* | *Here is the blood of the covenant that the LORD has cut with you on all these terms* |
+
+### Jubilees and 1 Enoch
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 2:19 | He said to us, "Here — I will set apart | He said to us, "I will set apart |
+| Jubilees 5:3 | The Lord looked at the earth, and here — it was corrupt. | The Lord looked at the earth, and it was corrupt. |
+| Jubilees 6:6 | **6** Here — I have given you all the wild animals, | **6** I have given you all the wild animals, |
+| Jubilees 7:27 | For I see, and here — the demons have begun | For I see that the demons have begun |
+| Jubilees 7:35 | **35** Here — you will go and build yourselves cities, | **35** You will go and build yourselves cities, |
+| Jubilees 10:18 | for he said, "Here — the sons of men have become evil | for he said, "The sons of men have become evil |
+| Jubilees 10:22 | "Here — they are one people, and they have begun to act, | "They are one people, and they have begun to act, |
+| Jubilees 12:22 | When he had finished speaking and praying, here — the word of the Lord was sent to him | When he had finished speaking and praying, the word of the Lord was sent to him |
+| Jubilees 13:2 | **2** He looked, and here — the land was very pleasant, | **2** He looked, and the land was very pleasant, |
+| Jubilees 13:6 | **6** He looked, and here — the land was wide and very good, | **6** He looked, and the land was wide and very good, |
+| Jubilees 14:13 | a trance fell on Abram, and here — a great terror of darkness fell on him. | a trance fell on Abram, and a great terror of darkness fell on him. |
+| Jubilees 14:17 | and there was a flame; and here — a furnace smoking, and a flame of fire passed between the pieces. | and there was a flame; a furnace was smoking, and a flame of fire passed between the pieces. |
+| Jubilees 15:6 | "Here — My ordinance is with you, | "My ordinance is with you, |
+| Jubilees 15:20 | I have heard you. Here — I will bless him | I have heard you. I will bless him |
+| Jubilees 16:9 | **9** Here — it has been commanded and engraved | **9** It has been commanded and engraved |
+| Jubilees 17:16 | said before God, "Here — Abraham loves Isaac his son | said before God, "Abraham loves Isaac his son |
+| Jubilees 18:12 | Abraham lifted up his eyes and looked, and here — a ram caught by its horns; | Abraham lifted up his eyes and looked, and saw a ram caught by its horns; |
+| Jubilees 19:19 | **19** Here — Isaac my son loves Esau more than Jacob, | **19** Isaac my son loves Esau more than Jacob, |
+| Jubilees 21:2 | **2** Here — I am one hundred and seventy-five years old, | **2** I am one hundred and seventy-five years old, |
+| Jubilees 22:7 | You have let me see this day. Here — I am one hundred and seventy-five years old, | You have let me see this day. I am one hundred and seventy-five years old, |
+| Jubilees 23:3 | Jacob woke from his sleep; and here — Abraham was cold as ice, | Jacob woke from his sleep, and Abraham was cold as ice, |
+| Jubilees 23:10 | all the days of his life; and here — he did not complete four jubilees | all the days of his life; yet he did not complete four jubilees |
+| Jubilees 23:15 | up to a thousand years, and good; but here — the days of our life, | up to a thousand years, and good; but the days of our life, |
+| Jubilees 23:18 | **18** Here — the earth will be destroyed | **18** The earth will be destroyed |
+| Jubilees 25:4 | "Here — I, mother, am nine weeks of years old, | "I, mother, am nine weeks of years old, |
+| Jubilees 26:1 | "My son, I am old, and here — my eyes are too dim to see, | "My son, I am old, and my eyes are too dim to see, |
+| Jubilees 26:5 | "Here — I heard Isaac your father speaking | "I heard Isaac your father speaking |
+| Jubilees 26:22 | "Here — the smell of my son is like the smell of a field | "The smell of my son is like the smell of a field |
+| Jubilees 26:30 | why his name is called Jacob. Here — he has supplanted me these two times: | why his name is called Jacob. He has supplanted me these two times: |
+| Jubilees 26:31 | Isaac answered and said to Esau, "Here — I have made him your lord, | Isaac answered and said to Esau, "I have made him your lord, |
+| Jubilees 26:33 | "Here — away from the dew of the earth will be your dwelling, | "Away from the dew of the earth will be your dwelling, |
+| Jubilees 27:2 | **2** "Here — Esau your brother is bearing a grudge | **2** "Esau your brother is bearing a grudge |
+| Jubilees 27:6 | "Here — you know that my father has grown old, | "You know that my father has grown old, |
+| Jubilees 27:21 | He dreamed that night, and here — a stairway set up on the earth, and its top reaching to heaven; and here — the angels of God were going up and coming down on it, and here — the Lord was standing on it. | He dreamed that night: a stairway was set up on the earth, and its top reached to heaven; the angels of God were going up and coming down on it, and the Lord was standing on it. |
+| Jubilees 27:24 | **24** Here — I will be with you and keep you | **24** I will be with you and keep you |
+| Jubilees 31:6 | "Here — Jacob your son has come" | "Jacob your son has come" |
+| Jubilees 32:21 | He saw in a vision of the night, and here — an angel coming down from heaven | He saw in a vision of the night an angel coming down from heaven |
+| Jubilees 33:4 | she woke and saw, and here — Reuben was lying with her in the bed; | she woke and saw Reuben lying with her in the bed; |
+| Jubilees 34:5 | saying, "Here — the kings of the Amorites have surrounded your sons, | saying, "The kings of the Amorites have surrounded your sons, |
+| Jubilees 37:15 | saying, "Here — your brother has come against you | saying, "Your brother has come against you |
+| Jubilees 41:8 | "Here — your father-in-law is going up to Timnah | "Your father-in-law is going up to Timnah |
+| Jubilees 41:16 | "Here — Tamar your daughter-in-law is with child by harlotry." | "Tamar your daughter-in-law is with child by harlotry." |
+| Jubilees 43:17 | **17** For here — this is the second year of the famine, | **17** For this is the second year of the famine, |
+| Jubilees 43:19 | and you, here — you see that the Lord has made me | and you see that the Lord has made me |
+| Jubilees 46:13 | "Here — the people of the sons of Israel have grown | "The people of the sons of Israel have grown |
+| Jubilees 50:6 | **6** Here — the commandment of the Sabbaths too I have written for you, | **6** The commandment of the Sabbaths too I have written for you, |
+| 1 Enoch 12:3 | King of the ages. And here — the Watchers called me, | King of the ages. The Watchers called me, |
+| 1 Enoch 13:8 | **8** And here — a dream came to me, | **8** A dream came to me, |
+| 1 Enoch 14:8 | The vision appeared to me like this. Here — clouds called me, | The vision appeared to me like this. Clouds called me, |
+| 1 Enoch 14:15 | **15** and here, another house, greater than this one, | **15** and there was another house, greater than this one, |
+| 1 Enoch 67:1 | "Noah, here — your portion has come up to Me, | "Noah, your portion has come up to Me, |
+| 1 Enoch 72, note v1 | *Here — I create new heavens and a new earth* | *I create new heavens and a new earth* |
+| 1 Enoch 80:1 | "Here — I have shown you everything, Enoch, | "I have shown you everything, Enoch, |
+| 1 Enoch 85:3 | I saw in a vision on my bed, and here — a bull came out of the earth, | I saw in a vision on my bed: a bull came out of the earth, |
+| 1 Enoch 86:1 | I saw the heaven above, and here — one star fell from heaven, | I saw the heaven above, and one star fell from heaven, |
+| 1 Enoch 86:2 | the great bulls and the black ones, and here — they all changed their stalls | the great bulls and the black ones, and they all changed their stalls |
+| 1 Enoch 86:3 | looked at the heaven, and here — I saw many stars come down | looked at the heaven, and I saw many stars come down |
+| 1 Enoch 86:4 | I looked at them, and here — they all brought out their members | I looked at them, and they all brought out their members |
+| 1 Enoch 86:6 | to devour those bulls, and here — all the children of the earth began to tremble | to devour those bulls, and all the children of the earth began to tremble |
+| 1 Enoch 87:2 | saw in the vision, and here — there came out of heaven beings | saw in the vision, and there came out of heaven beings |
+| 1 Enoch 88:3 | As I watched in the vision, here — one of those four | As I watched in the vision, one of those four |
+| 1 Enoch 89:3 | I looked again, and here — fountains were opened on the ground | I looked again, and fountains were opened on the ground |
+| 1 Enoch 89:72 | pasture for twelve hours, and here — three of those sheep turned back | pasture for twelve hours, and three of those sheep turned back |
+| 1 Enoch 90:23 | **23** And here — I saw them all bound, | **23** I saw them all bound, |
+| Jubilees 6, note vv10–11 | said, "Here — the blood of the covenant that the LORD has cut with you"* | said, "Here is the blood of the covenant that the LORD has cut with you"* |
+| Jubilees 28, note vv25–30 | *Jacob saw Laban's face, and here — it was not toward him as yesterday and the day before.* | *Jacob saw that Laban's face was not toward him as yesterday and the day before.* |
+| Jubilees 29, note vv9–11 | the remnant of the Rephaim; here — his bed was a bed of iron | the remnant of the Rephaim; his bed was a bed of iron |
+| Jubilees 35:6 | beyond a hundred and fifty-five years; and here — I have completed all the days | beyond a hundred and fifty-five years; and I have completed all the days |
+| 1 Enoch 85, note v3 | - **v3 "and here —"** — *wa-nāhu*, the dreamer's own moment of seeing. | - **v3 "I saw in a vision on my bed:"** — *wa-nāhu*, **and here**, the dreamer's own moment of seeing; the colon carries it. |
+| Jubilees 14, note v13 | - **v13 "a trance fell on Abram, and here — a great terror of darkness"** — Genesis 15:12: *a deep sleep fell upon Abram; and here — a dread, a darkness, a great one*. | - **v13 "a trance fell on Abram, and a great terror of darkness"** — Genesis 15:12: *a deep sleep fell upon Abram, and a dread, a darkness, a great one*. |
+
 ## *tsara'at*: "blight", "affliction" or "blemish"? (Andrew, 2026-09-28) — choices open, nothing changed
 
 **Request:** Andrew: "instead of 'blight'… could 'affliction' work in this place and the old testament?" Then: alternate words for *'anah* and *'oni*; could *blemish* work; show the Hebrew or Greek, the English now, the verse as it reads, and where the clash is.

@@ -77,15 +77,19 @@ case…*, or a dash and a plain clause.
 ### Kept on purpose (settled rulings)
 
 - **"And it came to pass"** for *va-yehi*, the scene-opening formula.
-- **"And here —"** for *hinneh*, the word that puts the reader inside someone's
-  eyes at the moment of seeing. **Not in laws that describe an inspection**
-  (Andrew, 2026-09-25): there *hinneh* only introduces what the priest finds, so
-  the sentence ends and the finding starts a new one: *The priest shall look at
-  him on the seventh day. If the mark has stayed as it was…* (Leviticus 13:5).
-  **Not in Matthew** (Andrew, 2026-09-28): *idou* is not rendered *here —*;
-  the sentence ends and the next starts with what is seen. A speaker pointing
-  may say *Look* (12:2); *Here is My servant* (12:18) presents. The other books
-  are pending Andrew's word.
+- **No "here —" for *hinneh* / *idou*** (Andrew, 2026-09-28, replacing the
+  ruling of 2026-09-25). In every book, rendered and still to come: end the
+  sentence before it and start the next with what is seen, or let the clause
+  run on (*He looked: the bush was burning*; *A man with blight came and knelt
+  before Him*). God's *hinneh* + participle is *I am about to…* or *I will…*
+  (*I am about to strike the water*, Exodus 7:17). *I — hinneh — I* is *I
+  Myself* (Exodus 14:17). A speaker pointing may say *Look*; a presentation may
+  be *Here is* (*Here is the blood of the covenant*, Exodus 24:8; *Here is My
+  servant*, Matthew 12:18). **Keep it only where cutting loses something the
+  word carries** — so far: *and here, it was Leah* (Genesis 29:25; Jubilees
+  28:4), the morning's discovery; *And here — He came* (1 Enoch 1:9), the words
+  Jude quotes; and *look —* where Exodus 39:43 echoes Genesis 1:31 (*God saw…
+  and look — it was very good*; *Moses saw… and look — they had done it*).
 
 ### Pronouns for God and for Jesus (Andrew, 2026-09-28)
 
@@ -104,7 +108,7 @@ parable (*the master of the house*) stay lowercase.
 Hebrew joins almost every clause with *ve-*, "and". Do not start a sentence or a
 verse with *And*. Keep it only where it does real work, and say why in the
 report. The kept cases so far:
-- *And it came to pass* and *And here —* (above);
+- *And it came to pass* (above), and *And here —* where it is kept (above);
 - **Exodus 1:1**, *And these are the names*, where the note is built on the book
   continuing Genesis;
 - **Leviticus 1:1**, *And He called*, the book's Hebrew title;
