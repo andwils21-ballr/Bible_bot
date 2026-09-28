@@ -2,6 +2,59 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 19–21 (OT loop, run 8, 6:41 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 19, 20, 21. Progress 365 → **368 of 1,989 (18.5%)**. Next is Deuteronomy 22.
+
+### Deuteronomy 19: Towns of Refuge
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ve-shillashta* | divide into three parts |
+| 4, 6 | *mi-temol shilshom*, "from yesterday and the day before" | before (as 4:42, noted) |
+| 5 | *ve-nashal ha-barzel min ha-ets* | the iron slips from the handle |
+| 6 | *pen yirdof go'el ha-dam* | Otherwise the avenger of blood… may overtake him |
+| 6 | *ve-lo ein mishpat mavet* | though he did not deserve to die |
+| 14 | *lo tassig gevul re'akha* | You shall not move your neighbor's boundary marker (noted) |
+| 16 | *ed chamas* | a violent witness (as Genesis 6:11, noted) |
+| 18 | *ve-hinneh ed sheqer ha-ed* | if the witness is a false witness (*here —* cut, per ruling) |
+| 21 | *nefesh be-nefesh, ayin be-ayin* | life for life, eye for eye (as Exodus 21:23–24) |
+
+### Deuteronomy 20: When You Go Out to War
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *al yerakh levavkhem* | Do not let your heart be faint |
+| 5, 8, 9 | *ha-shoterim* | The officials (as 1:15) |
+| 5–7 | *pen yamut* | or he may die |
+| 6 | *lo chillelo* | has not yet used its fruit (noted) |
+| 8 | *yimmas et levav echav* | make his brothers' hearts melt (as 1:28, noted) |
+| 11 | *la-mas* | forced labor |
+| 13 | *le-fi cherev* | with the sword (spec rule 6) |
+| 16 | *lo techayyeh kol neshamah* | you shall not let anything that breathes live |
+| 19 | *ki ha-adam ets ha-sadeh* | Is the tree of the field a man (the other reading noted) |
+
+### Deuteronomy 21: Blood in the Field
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *nachal eitan* | a valley with a flowing stream |
+| 4, 6 | *arafu*, *ha-arufah* | break the heifer's neck (as Exodus 13:13, noted) |
+| 5 | *kol riv ve-khol naga* | every dispute and every mark (*nega* as 17:8) |
+| 8 | *kapper… ve-nikkapper lahem ha-dam* | Make atonement… So the blood shall be atoned for them |
+| 12 | *ve-asetah et tsipporneiha* | do her nails |
+| 14 | *'innitah* | you have violated her (as Genesis 34:2, noted) |
+| 15 | *senu'ah* | hated (as Genesis 29:31, noted) |
+| 17 | *pi shenayim*, *reshit ono* | a double portion, the first of his vigor (as Genesis 49:3, noted) |
+| 18, 20 | *sorer u-moreh* | stubborn and rebellious |
+| 23 | *qilelat Elohim talui* | one who is hanged is a curse of God (noted) |
+
+**Checks:** verse counts equal the Hebrew (21, 20, 23); no banned words; "And"-starts only *And it shall come to pass* (20:2, 20:9, 20:11, 21:3, 21:14); no *here —* or *look —*; every quotation printed and checked (Genesis 6:11, 29:30–31, 34:2, 48:22, 49:3; Exodus 13:13, 14, 21:23–25; Leviticus 19:23–25; Numbers 35:11–14, 35:33; Deuteronomy 4:41–42, 24:5; Joshua 20:7–8; 2 Kings 2:9; 1 Chronicles 5:1; Proverbs 22:28; Matthew 5:38, 11:19, 18:16, 27:24; Greek of Galatians 3:13).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 16–18 (OT loop, run 7, 6:36 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 16, 17, 18. Progress 362 → **365 of 1,989 (18.4%)**. Next is Deuteronomy 19.
