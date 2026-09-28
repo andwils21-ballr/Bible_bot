@@ -2,6 +2,58 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 3–5 (OT loop, run 3, 6:10 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 3, 4, 5. Progress 349 → **352 of 1,989 (17.7%)**. Next is Deuteronomy 6.
+
+### Deuteronomy 3: Og of Bashan, and Moses' Plea
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *kol chevel Argov*, "all the cord of Argob" | the whole region of Argob |
+| 5 | *le-vad me-arei ha-perazi* | besides… unwalled villages |
+| 11 | *hinneh arso eres barzel*, "here — his bed a bed of iron" | His bed was a bed of iron (cut, per ruling; noted) |
+| 11 | *be-ammat ish* | by the cubit of a man (noted) |
+| 17 | *ashdot ha-Pisgah* | the slopes of Pisgah |
+| 24 | *Adonai YHWH* | Lord GOD (noted) |
+| 26 | *va-yit'abber* | was furious (noted) |
+| 26 | *rav lakh* | Enough! (noted) |
+| 28 | *chazzqehu ve-ammtsehu* | strengthen him and encourage him |
+
+### Deuteronomy 4: You Saw No Form
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ha-deveqim* | you who held fast (noted) |
+| 9 | *hishamer lekha u-shmor nafshekha me'od, pen* | take care, and guard yourself closely, so that you do not |
+| 11 | *ad lev ha-shamayim* | to the heart of the heavens |
+| 12 | *qol devarim… zulati qol* | the sound of words… only a voice (noted) |
+| 13 | *aseret ha-devarim* | the Ten Words (noted) |
+| 16 | *pesel temunat kol samel* | a carved image in the form of any figure |
+| 20 | *kur ha-barzel* | the iron furnace (noted) |
+| 30 | *be-acharit ha-yamim* | in the end of days (as Genesis 49:1, noted) |
+| 42 | *mi-temol shilshom* | before (noted) |
+| 48 | *Si'on* | Sion (a name of Hermon, not Zion) |
+
+### Deuteronomy 5: The Ten Words
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *panim be-fanim* | Face to face (noted) |
+| 6–11, 13, 16–17 | (as Exodus 20) | this project's wording of Exodus 20:2–13 |
+| 12 | *shamor* | Keep (noted) |
+| 18–21 | *ve-lo*, "and you shall not" | You shall not (the *and* noted) |
+| 20 | *ed shav* | an empty witness (noted) |
+| 21 | *lo tit'avveh* | You shall not desire (noted) |
+| 22 | *ve-lo yasaf* | and He added no more (noted) |
+| 29 | *mi yitten* | If only (noted) |
+
+**Checks:** verse counts equal the Hebrew (29, 49, 33); no banned words; "And"-starts only *And it came to pass* (5:23) and *And now* in speech (4:1, 5:25); no *here —* or *look —*; every quotation printed and checked (Genesis 1:20–27, 2:24, 13:14, 15:2, 49:1; Exodus 7:3, 20:2–17, 24:17; Numbers 21:33–35, 24:14, 25:3, 27:4, 32:41, 36:3).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 1–2 (OT loop, run 2, 6:03 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 1, 2. Progress **349 of 1,989 (17.5%)**. Next is Deuteronomy 3.
