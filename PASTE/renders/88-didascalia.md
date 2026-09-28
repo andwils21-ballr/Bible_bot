@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Didascalia 1 (canon and Matthew loop, run 2, 2026-09-28)
+## Didascalia 1 (canon and Matthew loop, run 2, 2026-09-27)
 
 **Landed:**
 - **Chapter 1**, under its own title: the twelve apostles, with Paul and James, send this book with Clement; the ranks of the Church; coveting as adultery, the boundary stone, the golden rule, blessing those who curse; husbands and wives, hair, beards and dress; against drunkenness.

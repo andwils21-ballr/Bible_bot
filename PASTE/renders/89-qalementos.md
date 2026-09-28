@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Qalementos 1 (canon and Matthew loop, run 2, 2026-09-28)
+## Qalementos 1 (canon and Matthew loop, run 2, 2026-09-27)
 
 **Landed:**
 - **Chapter 1**, with the opening *Saint Clement said*: Peter takes Clement as his disciple; the Jews dispute Mary's descent from Judah; Clement asks Peter to teach him the first creation; Peter agrees. Grébaut's subtitles are the section headings.
