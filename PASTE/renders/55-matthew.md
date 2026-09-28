@@ -2,6 +2,25 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 20 (canon and Matthew loop, run 14, 2026-09-27)
+
+**Landed:**
+- **Chapter 20:** the workers in the vineyard; the third prediction of the passion; the request of the mother of Zebedee's sons; a ransom for many; two blind men at Jericho.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 20:2 | *ek dēnariou tēn hēmeran* | a denarius for the day (noted) |
+| 20:13 | *Hetaire* | Friend (noted, as 26:50) |
+| 20:15 | *ho ophthalmos sou ponēros* | is your eye evil (noted, Deuteronomy 15:9) |
+| 20:18 | *Idou* | Look (a speaker's word, as 12:2) |
+| 20:28 | *lytron anti pollōn* | a ransom for many (noted) |
+
+**Checks:** verse count equals the Greek (34); no banned words; the only "And"-start is *And here —* (20:30); quotations printed and checked (Leviticus 19:13 in this project's wording; Deuteronomy 15:9, Isaiah 51:17, Isaiah 53:11–12 Hebrew; Matthew 26:50, 27:38 Greek).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Matthew 19 (canon and Matthew loop, run 13, 2026-09-27)
 
 **Landed:**
