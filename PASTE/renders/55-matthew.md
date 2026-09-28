@@ -2,6 +2,28 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 18 (canon and Matthew loop, run 12, 2026-09-27)
+
+**Landed:**
+- **Chapter 18:** like a child; causes of stumbling; the lost sheep; a brother who sins; binding and loosing; seventy-seven times and the unforgiving slave.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 18:6 | *mylos onikos* | a great millstone (noted: *a donkey's millstone*) |
+| 18:9 | *tēn geennan tou pyros* | the fire of Gehenna (as 5:22) |
+| 18:17 | *tē ekklēsia* | the church (as 16:18) |
+| 18:22 | *hebdomēkontakis hepta* | seventy-seven times (noted) |
+| 18:24 | *myriōn talantōn* | ten thousand talents |
+| 18:34 | *tois basanistais* | the torturers |
+
+**Checks:** verse count equals the Greek (34 — the edition has no v11); no banned words; no "And"-starts; quotations printed and checked (Genesis 4:24 in this project's wording and in the Greek; Deuteronomy 19:15 Hebrew; Matthew 1:23, 5:22, 5:29–30, 6:12–15 in this project's wording; Matthew 20:2 Greek).
+
+**Left standing on purpose:**
+- 18:11 — ***KEPT AS IS***: the edition has no verse 11, so none is rendered; the numbering skips from 10 to 12. Noted.
+
+**Choices for you:**
+- 18:22 — *hebdomēkontakis hepta* is rendered **seventy-seven times**, matching Genesis 4:24, where the Greek has the same words for the Hebrew's seventy-seven. The Greek can also be read **seventy times seven** (the King James reading). Say which you want.
+
 ## Matthew 17 (canon and Matthew loop, run 11, 2026-09-27)
 
 **Landed:**
