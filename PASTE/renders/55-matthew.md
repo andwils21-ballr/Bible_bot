@@ -2,6 +2,27 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Matthew 24 (canon and Matthew loop, run 18, 2026-09-27)
+
+**Landed:**
+- **Chapter 24:** not one stone upon another; the beginning of birth pains; the abomination of desolation; the coming of the Son of Man; the fig tree; no one knows the day; the faithful and the wicked slave.
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 24:3 | *parousia* | coming (noted) |
+| 24:15 | *to bdelygma tēs erēmōseōs* | the abomination of desolation (noted, Daniel) |
+| 24:23, 25, 26 | *Idou* | Look (speakers' words, as 12:2) |
+| 24:28 | *hoi aetoi* | the vultures |
+| 24:31 | *salpingos megalēs* | a great trumpet (noted, Isaiah 27:13) |
+| 24:51 | *dichotomēsei* | will cut him in two (noted) |
+
+**Checks:** verse count equals the Greek (51); no banned words; no "And"-starts; quotations printed and checked (Genesis 7:7 in this project's wording; Daniel 7:13, 9:27, 11:31, 12:1, 12:11, Isaiah 13:10, 27:13, Zechariah 12:10–12, Deuteronomy 30:4 Hebrew and Aramaic; *parousia* counted in the Greek of Matthew).
+
+**Left standing on purpose:**
+- 24:36 — ***KEPT AS IS***: *nor the Son* is rendered, though the edition marks it as a place where manuscripts differ. Noted.
+
+**Choices for you:** none new.
+
 ## Matthew 23 (canon and Matthew loop, run 17, 2026-09-27)
 
 **Landed:**
