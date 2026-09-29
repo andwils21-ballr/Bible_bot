@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Deuteronomy 30–31 (OT loop, run 12, 7:07 PM Central, 2026-09-28)
+## Deuteronomy 30–31 (OT loop, run 12, 7:03 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 30, 31. Progress 376 → **378 of 1,989 (19.0%)**. Next is Deuteronomy 32, the Song of Moses.
 
