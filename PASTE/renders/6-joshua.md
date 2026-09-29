@@ -2,6 +2,46 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 5–6 (OT loop, run 17, 7:30 PM Central, 2026-09-28)
+
+**Landed:** Joshua 5, 6. Progress 385 → **387 of 1,989 (19.5%)**. Next is Joshua 7.
+
+### Joshua 5: Circumcision and Passover at Gilgal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *ad avrenu*, read *ad avram* | until they had crossed (the reading followed) |
+| 2–3 | *charvot tsurim*, "swords of flint" | flint knives (as Exodus 4:25, noted) |
+| 3 | *Giv'at ha-Aralot* | the Hill of the Foreskins |
+| 6 | *latet lanu* | to give us (noted) |
+| 8 | *ad chayotam* | until they were healed |
+| 9 | *galloti et cherpat Mitsrayim* | I have rolled away the disgrace of Egypt (noted) |
+| 11 | *matsot ve-qalui* | unleavened bread and roasted grain (as Leviticus 23:14, noted) |
+| 13 | *ve-hinneh ish omed*, "and here — a man standing" | and looked, and a man was standing (*here —* cut, per ruling) |
+| 14 | *sar tseva YHWH* | the commander of the army of the LORD (noted) |
+| 15 | *shal na'alkha* | Take your sandal off (as Exodus 3:5, noted) |
+
+### Joshua 6: The Walls of Jericho
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sogeret u-mesuggeret* | shut up tight (noted) |
+| 2 | *re'eh natatti* | See, I have given (*re'eh* kept as *See*) |
+| 4, 6, 8, 13 | *shofrot ha-yovelim* | rams' horns (*yovel* as Exodus 19:13, noted) |
+| 5 | *bi-meshokh be-qeren ha-yovel* | when they make a long blast with the ram's horn (noted) |
+| 7, 9, 13 | *he-chaluts* | the armed men |
+| 9, 13 | *ha-me'assef* | the rear guard |
+| 17–18, 21 | *cherem*, *hecherimu* | devoted to destruction (fixed rendering) |
+| 18 | *va-akhartem* | bring trouble on it (noted) |
+| 20 | *tachteiha* | in its place (noted) |
+| 26 | *bi-vekhoro… u-vi-tse'iro* | At the cost of his firstborn… at the cost of his youngest (as 1 Kings 16:34, noted) |
+
+**Checks:** verse counts equal the Hebrew (15, 27); no banned words; "And"-starts only *And it came to pass* (5:1, 5:8, 5:13, 6:8, 6:15, 6:16, 6:20) and *And it shall come to pass* (6:5); no *here —* or *look —*; every quotation printed and checked (Exodus 3:5, 4:25, 12:6, 16:35, 19:13; Leviticus 23:14, 25:9; Numbers 9:5, 14:28–33; Deuteronomy 9:28, 20:16–17; Joshua 2:11, 2:14–15, 7:25–26; 1 Kings 16:34; Greek of Hebrews 11:30). Two notes drafted from memory were cut before commit: a claim about stone blades outlasting bronze, and a count of the Passovers.
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 3–4 (OT loop, run 16, 7:25 PM Central, 2026-09-28)
 
 **Landed:** Joshua 3, 4. Progress 383 → **385 of 1,989 (19.4%)**. Next is Joshua 5.
