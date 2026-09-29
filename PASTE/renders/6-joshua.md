@@ -2,6 +2,47 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 9–10 (OT loop, run 19, 7:40 PM Central, 2026-09-28)
+
+**Landed:** Joshua 9, 10. Progress 389 → **391 of 1,989 (19.7%)**. Next is Joshua 11.
+
+### Joshua 9: The Gibeonites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *peh echad* | with one mouth (noted) |
+| 4 | *be-ormah*, *va-yitstayyaru* | acted with cunning, disguised themselves as envoys (noted) |
+| 5 | *niqqudim* | crumbled |
+| 6, 11 | *ve-attah kirtu lanu verit* | And now make a covenant with us (*And now* in speech kept) |
+| 12, 13 | *ve-attah hinneh yavesh*, *ve-hinneh hitbaqqa'u* | and now it is dry, and they have split (*here —* cut, per ruling) |
+| 14 | *et pi YHWH lo sha'alu* | they did not ask the counsel of the LORD (noted) |
+| 15, 18–21 | *nesi'ei ha-edah* | the leaders of the congregation |
+| 21, 23, 27 | *chotvei etsim ve-sho'avei mayim* | cutters of wood and drawers of water (as Deuteronomy 29:10, noted) |
+| 24 | *hugged hugad* | it was told, told |
+| 25 | *hinnenu ve-yadekha* | we are in your hand |
+
+### Joshua 10: The Day the Sun Stood Still
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Adoni-tsedeq* | Adoni-zedek (noted) |
+| 6 | *al teref yadekha* | Do not let your hands drop |
+| 10 | *va-yehummem* | threw them into panic (as Exodus 14:24, noted) |
+| 11 | *avnei ha-barad* | the hailstones (noted) |
+| 12–13 | *shemesh be-Giv'on dom* | Sun, stand still at Gibeon (set as verse lines; noted) |
+| 13 | *sefer ha-yashar* | the Book of Jashar (noted) |
+| 13 | *ke-yom tamim* | about a whole day (noted) |
+| 19 | *ve-zinnavtem otam* | cut off their rear guard (as Deuteronomy 25:18) |
+| 21 | *lo charats… et leshono* | No one sharpened his tongue (as Exodus 11:7, noted) |
+| 40 | *ha-ashedot* | the slopes |
+| 40 | *kol ha-neshamah* | everything that breathed (as Deuteronomy 20:16) |
+
+**Checks:** verse counts equal the Hebrew (27, 43); no banned words; "And"-starts only *And it came to pass* (9:1, 9:16, 10:1, 10:11, 10:20, 10:24, 10:27) and *And now* in speech (9:6, 9:11, 9:23, 9:25); 10:13 first read *And the sun stood still* and now reads *So the sun stood still*; no *here —* or *look —*; every quotation printed and checked (Genesis 3:1, 11:1, 14:18; Exodus 9, 11:7, 14:14, 14:24; Deuteronomy 7:2, 12, 20:10–16, 21:23, 25:18, 29:10; Joshua 2:10, 8:29; 2 Samuel 1:18, 21:1–2; the Greek of Joshua 10:15 and 10:43 from Swete, where both verses are absent).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 7–8 (OT loop, run 18, 7:35 PM Central, 2026-09-28)
 
 **Landed:** Joshua 7, 8. Progress 387 → **389 of 1,989 (19.6%)**. Next is Joshua 9.
