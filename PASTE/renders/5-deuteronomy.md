@@ -2,6 +2,41 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 32 (OT loop, run 13, 7:08 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 32, the Song of Moses, set as verse lines like the Song of the Sea (Exodus 15). Progress 378 → **379 of 1,989 (19.1%)**. Next is Deuteronomy 33.
+
+### Deuteronomy 32: The Song of Moses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ya'arof ka-matar liqchi* | Let my teaching drop like the rain |
+| 4 | *ha-tsur tamim pa'olo* | The Rock — His work is whole (*tamim* of God's work kept as *whole*, noted) |
+| 5 | *shichet lo lo banav mumam* | They have acted corruptly toward Him; they are not His sons, it is their blemish (***KEPT AS IS***: the Hebrew is broken; noted) |
+| 6 | *qanekha* | who acquired you (noted) |
+| 8 | *le-mispar benei Yisra'el* | according to the number of the sons of Israel (Greek *angels of God* noted) |
+| 9 | *chevel nachalato* | the measured lot of His inheritance |
+| 10 | *ke-ishon eino* | as the pupil of His eye (noted) |
+| 14 | *chelev kilyot chittah* | the fat of the kidneys of wheat |
+| 15 | *Yeshurun* | Jeshurun (noted) |
+| 17 | *shedim* | demons (noted) |
+| 18 | *mecholelekha* | the God who brought you forth in labor (noted) |
+| 21 | *lo el… lo am* | what is no god… what is no people (noted) |
+| 24 | *mezei ra'av u-lechumei reshef* | Wasted with hunger, devoured by plague |
+| 35 | *li naqam ve-shillem* | Vengeance is Mine, and recompense (noted) |
+| 36 | *atsur ve-azuv* | bond or free |
+| 39 | *ani ani hu* | I, I am He (noted) |
+| 42 | *me-rosh par'ot oyev* | from the long-haired heads of the enemy |
+| 44 | *Hoshea bin Nun* | Hoshea son of Nun (noted) |
+| 51 | *me'altem bi* | you broke faith with Me |
+
+**Checks:** verse count equals the Hebrew (52); no banned words; no "And"-starts; no *here —* or *look —*; every quotation printed and checked (Genesis 1:2, 4:1; Exodus 15, 19:4; Numbers 13:16, 20:12, 27:12–14; Deuteronomy 18:13, 31:28; Isaiah 1:2, 43:10–13; the Greek of Deuteronomy 32:8 and 32:43 from Swete; Greek of Romans 10:19, 12:19, 15:10, 1 Corinthians 10:20, Hebrews 1:6, 10:30). The v8 note's line on the Qumran fragment (*sons of God*) is not printed from a source in this project and is worded as *reported*.
+
+**Left standing on purpose:** v5 kept close to the broken Hebrew; the note says so.
+
+**Choices for you:**
+- **32:8 and 32:43, Hebrew or Greek?** The Ethiopian Old Testament stands in the Greek tradition, and here the Greek differs in substance. At v8 the Hebrew has the nations' borders set *according to the number of the sons of Israel*; the Greek has *the angels of God*. At v43 the Greek adds *Rejoice, heavens, with Him, and let all the sons of God worship Him*, the line Hebrews 1:6 quotes. The text follows the Hebrew, as the project's Hebrew-source books do, and both Greek readings are given in the notes. If you would rather the Greek stand in the text at either verse, say so.
+
 ## Deuteronomy 30–31 (OT loop, run 12, 7:03 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 30, 31. Progress 376 → **378 of 1,989 (19.0%)**. Next is Deuteronomy 32, the Song of Moses.
