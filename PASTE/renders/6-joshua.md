@@ -2,6 +2,43 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 18–19 (OT loop, run 24, 8:04 PM Central, 2026-09-28)
+
+**Landed:** Joshua 18, 19. Progress 398 → **400 of 1,989 (20.1%)**. Next is Joshua 20.
+
+### Joshua 18: Shiloh, and the Lot of Benjamin
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *nikhbeshah* | was subdued (as Numbers 32:22, noted) |
+| 3 | *mitrappim* | be slack (noted) |
+| 4, 6, 8, 9 | *yikhtevu otah* | write a description of it |
+| 7 | *kehunnat YHWH* | the priesthood of the LORD (noted) |
+| 12, 14, 19 | written *ve-hayah*, read *ve-hayu*; 19 written *totse'otav* | ended (the reading followed) |
+| 24 | written *ha-Ammoni*, read *ha-Ammonah* | Chephar-ammoni (the written form, as English Bibles have it) |
+| 28 | *ha-Yevusi hi Yerushalayim* | the Jebusite, that is, Jerusalem (noted) |
+
+### Joshua 19: The Lots of the Remaining Tribes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 9 | *be-tokh nachalat benei Yehudah* | within the inheritance of the sons of Judah (noted) |
+| 2 | *Be'er Sheva ve-Sheva* | Beersheba, Sheba (noted) |
+| 15 | *Beit Lechem* | Bethlehem (the northern one, noted) |
+| 22 | written *Shachatsumah*, read *Shachatsimah* | Shahazumah (the written form, as English Bibles have it) |
+| 27 | *mi-semol* | on the left |
+| 29 | written *va-yihyu*, read *ve-hayu* | it ended (the reading followed) |
+| 29 | *ir mivtsar Tsor* | the fortified city of Tyre |
+| 33 | *me-Elon be-Tsa'anannim* | from the oak in Zaanannim |
+| 47 | *va-yetse gevul benei Dan mehem* | When the territory of the sons of Dan was lost to them (noted) |
+| 50 | *Timnat Serach* | Timnath-serah (noted) |
+
+**Checks:** verse counts equal the Hebrew (28, 51); no banned words; no "And"-starts; no *here —* or *look —*; every quotation printed and checked (Genesis 49:7, 49:13; Numbers 32:22; Joshua 13:14, 13:33, 14:1, 15:5–9, 15:26–32, 15:63; Judges 1:21, 1:31, 2:9, 18:29; 1 Samuel 1:3, 28:4; 2 Kings 4:8, 14:25; 1 Chronicles 4:28).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 16–17 (OT loop, run 23, 7:59 PM Central, 2026-09-28)
 
 **Landed:** Joshua 16, 17. Progress 396 → **398 of 1,989 (20.0%)**. Next is Joshua 18.
