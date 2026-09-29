@@ -2,6 +2,47 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 13–14 (OT loop, run 21, 7:50 PM Central, 2026-09-28)
+
+**Landed:** Joshua 13, 14. Progress 393 → **395 of 1,989 (19.9%)**. Next is Joshua 15.
+
+### Joshua 13: The Land That Remains
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zaqen ba ba-yamim* | old, coming on in days (as Genesis 24:1, noted) |
+| 2 | *gelilot ha-Pelishtim* | the regions of the Philistines |
+| 3 | *seranei Pelishtim* | the lords of the Philistines (noted) |
+| 5 | *Levo Chamat* | Lebo-hamath (fixed rendering) |
+| 6 | *anokhi orishem* | I Myself will drive them out (noted) |
+| 9, 16, 17, 21 | *ha-mishor* | the tableland |
+| 14 | *ishei YHWH* | The offerings by fire of the LORD (as Deuteronomy 18:1) |
+| 21 | *nesikhei Sichon* | the princes of Sihon (noted) |
+| 22 | *ha-qosem* | the soothsayer (as Deuteronomy 18:10, noted) |
+| 23, 27 | *ha-Yarden u-gevul* | the Jordan and its bank |
+| 23, 28 | *he-arim ve-chatsreihen* | the cities and their villages |
+| 30 | *Chavvot Ya'ir* | Havvoth-jair (as Numbers 32:41) |
+
+### Joshua 14: Caleb's Inheritance
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *rashei avot ha-mattot* | the heads of the fathers' houses of the tribes |
+| 2 | *be-goral* | by lot (as Numbers 26:55, noted) |
+| 4 | *migresheihem* | their pasture lands (fixed rendering) |
+| 7 | *ka'asher im levavi* | as it was in my heart (noted) |
+| 8 | *himsiyu et lev ha-am* | made the heart of the people melt (noted) |
+| 8, 9, 14 | *millé acharei YHWH* | followed the LORD… fully (fixed rendering, noted) |
+| 10 | *ve-attah hinneh hecheyah*, *ve-attah hinneh anokhi* | And now the LORD has kept me alive… And now, today I am (*here —* cut, per ruling; *And now* in speech kept) |
+| 11 | *latset ve-lavo* | for going out and coming in (as Deuteronomy 31:2) |
+| 15 | *ve-ha-arets shaqetah* | Then the land had rest (as 11:23) |
+
+**Checks:** verse counts equal the Hebrew (33, 15); no banned words; "And"-starts only *And now* in speech (13:7, 14:10, 14:12); no *here —* or *look —*; every quotation printed and checked (Genesis 23:2, 24:1, 36:11; Numbers 13–14, 14:24, 18:20, 26:55, 31:8, 32:12, 32:41, 34:17–18, 35:2–5; Deuteronomy 1:36, 3:14, 18:1, 18:10; 2 Samuel 3:3).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 11–12 (OT loop, run 20, 7:46 PM Central, 2026-09-28)
 
 **Landed:** Joshua 11, 12. Progress 391 → **393 of 1,989 (19.8%)**. Next is Joshua 13.
