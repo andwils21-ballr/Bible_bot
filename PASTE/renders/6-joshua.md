@@ -2,6 +2,35 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 15 (OT loop, run 22, 7:55 PM Central, 2026-09-28)
+
+**Landed:** Joshua 15 (63 verses). Progress 395 → **396 of 1,989 (19.9%)**. Next is Joshua 16.
+
+### Joshua 15: The Lot of Judah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 5 | *ha-lashon* | the tongue of water / of the sea |
+| 3 | *Ma'aleh Aqrabbim* | the Ascent of Akrabbim (as Numbers 34:4) |
+| 4, 47 | *nachal Mitsrayim* | the Brook of Egypt (as Numbers 34:5) |
+| 4 | written *ve-hayah*, read *ve-hayu* | ended (the reading followed) |
+| 6 | *even Bohan* | the Stone of Bohan (noted) |
+| 8 | *gei ven Hinnom* | the Valley of the Son of Hinnom (noted, with Gehenna) |
+| 9, 11 | *ve-ta'ar* | was drawn |
+| 18 | *va-tetsanach* | She got down |
+| 18 | *mah lakh* | What do you want? (noted) |
+| 19 | *gullot mayim* | springs of water (noted) |
+| 32 | *kol arim esrim va-tesha* | in all, twenty-nine cities (count against the list noted) |
+| 45–47 | *benoteiha va-chatsereiha* | its towns and its villages |
+| 53 | written *Yanim*, read *Yanum* | Janim (the written form kept, as English Bibles do) |
+| 63 | written *yukhlu*, read *yakhlu* | could not (the reading followed) |
+
+**Checks:** verse count equals the Hebrew (63); no banned words; "And"-starts only *And it came to pass* (15:18); no *here —* or *look —*; every quotation printed and checked (Numbers 10:14, 13:22, 34:3–6; Joshua 7:26, 14:15; Judges 1:10–15, 3:9; 2 Samuel 5:6–7; Matthew 5:22).
+
+**Left standing on purpose:** 15:32 — the total *twenty-nine* is kept though the names listed come to more; the note says so.
+
+**Choices for you:** none new.
+
 ## Joshua 13–14 (OT loop, run 21, 7:50 PM Central, 2026-09-28)
 
 **Landed:** Joshua 13, 14. Progress 393 → **395 of 1,989 (19.9%)**. Next is Joshua 15.
