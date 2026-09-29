@@ -2,6 +2,120 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judges 5–8 (routine ping, 5:52 PM Central, 2026-09-29)
+
+**Landed:** Judges 5, 6, 7, 8. Progress 409 → **413 of 1,989 (20.8%)**. Next is Judges 9.
+
+*Messenger of the LORD* (5:23; 6:11–22) and lowercase *the spirit of the LORD* (6:34) follow the choice made in Judges 2–3, which is still open (`NOTES_FOR_ANDREW.md`).
+
+### Judges 5: The Song of Deborah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *bi-fro'a pera'ot* | When locks hang loose (as Deuteronomy 32:42 *long-haired*; noted) |
+| 2, 9 | *be-hitnadev* | offer themselves willingly |
+| 4 | *natafu* | poured |
+| 5 | *nazelu* | flowed down (***KEPT AS IS***; the Greek *were shaken* in the note; see Choices) |
+| 5 | *zeh Sinai* | the One of Sinai (noted) |
+| 6 | *chadlu orachot* | the roads were empty |
+| 7, 11 | *perazon* | the villagers (***KEPT AS IS***: word found only here; noted) |
+| 7 | *shaqqamti* | I arose (noted: may be *you arose*) |
+| 8 | *yivchar elohim chadashim* | They chose new gods (***KEPT AS IS***: the verse is hard, and the text stays as close as it can) |
+| 10 | *tsechorot* | white |
+| 10 | *middin* | saddle-rugs (***KEPT AS IS***: word uncertain; the Greek has *a judgment seat*) |
+| 10 | *sichu* | tell of it! |
+| 11 | *mechatsetsim* | the singers (***KEPT AS IS***: word uncertain; the Greek *those who strike up* supports it) |
+| 13 | whole verse | Then a remnant went down to the nobles, the people; / the LORD went down for me against the mighty (***KEPT AS IS***: follows the Hebrew accents; the verse is obscure) |
+| 14 | *shevet sofer* | the scribe's staff |
+| 15, 16 | *chiqqei lev* / *chiqrei lev* | resolves of heart / searchings of heart (noted) |
+| 16 | *ha-mishpetayim* | the sheepfolds |
+| 17 | *yagur* | live as a guest (fixed term; noted) |
+| 17 | *mifratsav* | his landings |
+| 18 | *cheref nafsho lamut* | scorned death with their lives |
+| 21 | *nachal qedumim* | the ancient torrent (noted) |
+| 22 | *daharot daharot* | galloping, galloping (***KEPT AS IS***: repetition in a song; the sound is the hooves) |
+| 23 | *oru aror* | curse… utterly (doubled verb) |
+| 25 | *sefel addirim* | a bowl fit for nobles |
+| 25 | *chem'ah* | curds (as Genesis 18:8) |
+| 26 | *halmut amelim* | the workmen's hammer |
+| 27 | *shadud* | destroyed |
+| 28 | *va-teyabbev* | wailed (word found only here; noted) |
+| 30 | *racham rachamatayim* | A womb, two wombs (***KEPT AS IS***: her crude word; noted) |
+| 30 | *le-tsavvarei shalal* | for the necks of the spoil (***KEPT AS IS***; noted) |
+| 31 | *ke-tset ha-shemesh* | like the sun when it goes out |
+
+### Judges 6: The Call of Gideon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ha-minharot* | the dens (word found only here; noted) |
+| 3 | *ve-hayah im* (past habitual) | And it would come to pass, whenever |
+| 5 | written *yb'w*, read *u-va'u* | and come (the reading followed; same meaning) |
+| 5 | *ki-dei arbeh la-rov* | like locusts for number |
+| 6 | *va-yiddal* | was brought very low |
+| 8 | *ish navi* | a prophet |
+| 11 | *choved chittim ba-gat* | beating out wheat in the winepress (noted) |
+| 12 | *gibbor he-chayil* | mighty man of valor (as Joshua 1:14) |
+| 13, 15 | *bi adoni* / *bi Adonai* | Please, my lord / Please, my Lord (noted; as Exodus 4:10) |
+| 15 | *alpi* | my clan |
+| 16 | *ki ehyeh immakh* | Because I will be with you (as Exodus 3:12, noted) |
+| 19 | *ha-parur* | a pot |
+| 22 | *Adonai YHWH* | Lord GOD (fixed rendering) |
+| 24 | *YHWH Shalom* | The LORD Is Peace (as Exodus 17:15, noted) |
+| 25, 26, 28, 30 | *ha-asherah* | the sacred pole (as Deuteronomy 16:21) |
+| 25 | *par ha-shor… u-far ha-sheni* | your father's bull, the second bull (***KEPT AS IS***: the Hebrew is unclear whether one bull or two) |
+| 26 | *ba-ma'arakhah* | with the stones laid in order |
+| 27 | *va-yehi ka'asher yare* | Because he was too afraid (not a scene opening; the formula dropped) |
+| 28 | *ve-hinneh nuttats* | had been torn down (no *here —*) |
+| 32 | *Yerubba'al* | Jerubbaal (meaning in the note) |
+| 34 | *lavshah* | clothed (noted) |
+| 37 | *hinneh anokhi matsig* | I am laying (Gideon speaking) |
+
+### Judges 7: Gideon's Three Hundred
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Ein Charod* | the spring of Harod (noted) |
+| 2 | *pen* | or |
+| 3 | *yitspor* | leave (***KEPT AS IS***: word found only here; *Mount Gilead* also kept; noted) |
+| 4 | *etsrefennu* | I will refine them (noted) |
+| 4, 17 | *ve-hayah* | And it shall come to pass (formula) |
+| 5 | *tatsig oto levad* | set him by himself |
+| 8 | *va-yiqchu et tsedah ha-am* | The three hundred took the people's provisions |
+| 11 | *ha-chamushim* | the men in ranks (fixed *in ranks*) |
+| 13 | *ve-hinneh… ve-hinneh* | a man was telling / I had a dream: a round loaf (no *here —*) |
+| 13 | written *tslwl*, read *tselil* | a round loaf (the reading followed; same meaning) |
+| 15 | *shivro* | its interpretation (noted: *its breaking*) |
+| 19 | *ve-nafots* | smashed |
+| 21 | written *va-yenisu*, read *va-yanusu* | fled (the reading followed; the written *put to flight* is close enough to need no note) |
+
+### Judges 8: Gideon's Pursuit, and the Ephod
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *olelot… mi-vetsir* | the gleaning… the grape harvest (noted) |
+| 3 | *rafetah rucham* | their anger… subsided (noted) |
+| 4 | *ayefim ve-rodefim* | exhausted but still pursuing |
+| 6, 15 | *ha-khaf* | the hands (noted) |
+| 11 | *betach* | off guard |
+| 16 | *va-yoda* | he taught… a lesson (***KEPT AS IS***: see Choices) |
+| 18 | *ke-to'ar benei ha-melekh* | each looked like the son of a king |
+| 21 | *ha-saharonim* | the crescent ornaments |
+| 25 | *naton nitten* | We will give them (doubled verb) |
+| 27 | *va-yiznu* | prostituted themselves (as 2:17) |
+| 27 | *le-moqesh* | a snare (as 2:3) |
+| 30 | *yotse'ei yerekho* | his own offspring |
+| 32 | *be-seivah tovah* | at a good gray age (as Genesis 15:15, 25:8) |
+| 35 | *chesed* | loyal love |
+
+**Checks:** verse counts equal the Hebrew (31, 40, 25, 35); no banned words; no "And"-starts except *And it came to pass* (6:7, 6:25, 7:9, 7:15, 8:33), *And it would come to pass* (6:3), *And it shall come to pass* (7:4) and *And now* in speech (7:3); no *here —* or *look —*; notes 10, 10, 9, 10. Quotations checked against our rendered text (Genesis 15:15, 18:8, 22:14, 25:8, 37:25–28; Exodus 3:2–4, 3:12, 4:10, 15:8, 17:15, 28:4, 28:30; Numbers 6:5; Deuteronomy 3:5, 16:21, 20:8, 32:42; Joshua 1:14, 19:46) and the printed Hebrew (Isaiah 10:26, 63:19; Ezekiel 38:11; Psalm 68:9; 1 Samuel 8:7). The Greek was checked against Swete (Judges 5:2–30; 6:2; 7:3, 5, 6; 8:7, 13, 16).
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above. The Song of Deborah (chapter 5) has more of them than any chapter so far. It is among the oldest Hebrew poems, and several of its words are found nowhere else.
+
+**Choices for you:**
+- **Judges 5:5, "flowed down" or "quaked".** Now: *The mountains flowed down before the LORD, / the One of Sinai*. The Hebrew *nazelu* is **flowed** (as the *flowing waters* of Exodus 15:8). The Greek has *were shaken*, which reads the same letters as *nazollu*, **quaked**, as in Isaiah 64:1 (Hebrew 63:19). The context backs the Greek: v4 has *the earth shook*. My recommendation: keep *flowed down*. The Hebrew makes sense as it stands (rain pouring off the mountains in v4 flows on in v5), and the Greek goes in the note, where it already is.
+- **Judges 8:16, "taught" or "threshed".** Now: *with them he taught the men of Succoth a lesson*. The Hebrew *va-yoda* is **he made them know**. The Greek has *he threshed*, which is *va-yadosh*, one letter different, and is exactly what Gideon promised in v7 (*I will thresh your flesh*). My recommendation: follow the Greek. The promise in v7 is the checkable context your witnesses rule asks for.
+
 ## Judges 1–4 (routine ping, 12:51 PM Central, 2026-09-29)
 
 **Landed:** Judges 1, 2, 3, 4. Progress 405 → **409 of 1,989 (20.6%)**. Next is Judges 5, the Song of Deborah.
