@@ -2,6 +2,58 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 22–24 (routine ping, 7:54 AM Central, 2026-09-29)
+
+**Landed:** Joshua 22, 23, 24. **Joshua is finished.** Progress 402 → **405 of 1,989 (20.4%)**. Next is Judges 1.
+
+**Fixed in earlier chapters this ping (separate commit, 90b46fb):** Deuteronomy now uses the English verse numbers at 12/13, 22/23 and 28/29. Several spec checks the loop had missed are also fixed across Deuteronomy and Joshua: doubled words, notes about written/read spellings, and chapters with more than ten notes. Every change is listed in `PASTE/changes/5-deuteronomy.md`.
+
+### Joshua 22: The Altar by the Jordan
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 10 | *mizbeach gadol le-mar'eh* | a great altar to look at (noted) |
+| 16, 20, 22, 31 | *ma'al* | breach of faith / break faith (noted; as 7:1) |
+| 17 | *avon Pe'or* | the guilt of Peor (noted) |
+| 22 | *El Elohim YHWH* | The Mighty One, God, the LORD! (noted) |
+| 28 | *tavnit* | the pattern (as Exodus 25:9, noted) |
+| 34 | *va-yiqre'u… la-mizbeach ki ed hu* | called the altar Witness (noted: the name is supplied) |
+
+### Joshua 23: Joshua's Farewell to the Leaders
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 2 | *zaqen ba ba-yamim* | old, coming on in days (as 13:1) |
+| 7 | *lo tazkiru* | Do not speak the names (as Exodus 23:13, noted) |
+| 8, 12 | *davaq* | Hold fast / cling (noted) |
+| 12 | *shov tashuvu* | if you ever turn back (doubled verb, noted) |
+| 13 | *yadoa ted'u* | know for certain (doubled verb, noted) |
+| 14 | *hinneh anokhi holekh ha-yom* | Today I am going (Joshua speaking, not God) |
+
+### Joshua 24: The Covenant at Shechem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | written *va-arb*, read *va-arbeh* | I multiplied (the reading followed; same meaning) |
+| 7 | *ma'afel* | darkness (noted) |
+| 8 | written *va-avi'ah*, read *va-avi* | I brought (the reading followed; same meaning) |
+| 10 | *va-yevarekh barokh* | He blessed you instead (doubled verb, noted) |
+| 12 | *ha-tsir'ah* | the hornet (as Exodus 23:28) |
+| 14 | *be-tamim u-ve-emet* | in wholeness and in truth (noted; as Deuteronomy 18:13) |
+| 15 | written *be-ever*, read *me-ever* | beyond (the reading followed; same meaning) |
+| 19 | *Elohim qedoshim… El qanno* | a holy God… a jealous God (noted) |
+| 26 | *ha-allah* | the terebinth (as Genesis 35:4) |
+| 27 | *hinneh ha-even ha-zot* | This stone shall be (no *here —*) |
+| 32 | *be-me'ah qesitah* | for a hundred qesitah (as Genesis 33:19) |
+
+**Checks:** verse counts equal the Hebrew (34, 16, 33); no banned words; no "And"-starts except the allowed ones (*And now* in speech at 22:4, 24:14, 24:23; *And it shall come to pass* at 22:18, 22:28, 23:15; *And it came to pass* at 24:29); no *here —* or *look —*; notes 9, 10, 10. Every quotation checked against our own rendered text (Exodus 14:20, 20:2, 23:13; Numbers 33:55; Deuteronomy 3:22, 18:13, 23:5, 32:30; Genesis 12:6–7, 33:19, 35:2–4, 50:25) and the Greek against Swete (Joshua 24:1, 12, 19, 25, 26, 29–33).
+
+**Left standing on purpose:**
+- 24:7 moves from *I* to *He* and back. ***KEPT AS IS***: the Hebrew does this, and the note says so.
+- 24:31–33: the Greek adds the flint knives buried with Joshua and a closing paragraph (Phinehas, Astarte, Eglon). ***KEPT AS IS***: the text follows the Hebrew and the note gives the Greek, as with Deuteronomy 32.
+
+**Choices for you:** none new.
+
 ## Joshua 20–21 (OT loop, run 25, 8:10 PM Central, 2026-09-28)
 
 **Landed:** Joshua 20, 21. Progress 400 → **402 of 1,989 (20.2%)**. Next is Joshua 22.
