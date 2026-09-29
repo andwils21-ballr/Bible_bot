@@ -2,6 +2,44 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 3–4 (OT loop, run 16, 7:25 PM Central, 2026-09-28)
+
+**Landed:** Joshua 3, 4. Progress 383 → **385 of 1,989 (19.4%)**. Next is Joshua 5.
+
+### Joshua 3: Crossing the Jordan
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ki lo avartem ba-derekh mi-temol shilshom* | for you have not passed this way before (noted) |
+| 5 | *hitqaddeshu* | Make yourselves holy (as Exodus 19:10, noted) |
+| 10 | *el chai* | the living God (as Deuteronomy 5:26, noted) |
+| 11 | *hinneh aron ha-berit*, "here — the ark" | The ark of the covenant… is crossing over (*here —* cut, per ruling) |
+| 11, 13 | *adon kol ha-arets* | the Lord of all the earth (noted) |
+| 13, 16 | *ned echad* | a single wall (as Exodus 15:8, noted) |
+| 15 | *nitbelu bi-qtseh ha-mayim* | dipped into the edge of the water |
+| 16 | written *be-Adam*, read *me-Adam* | at Adam (noted) |
+| 17 | *be-charavah* | on dry ground (as Exodus 14:21, noted) |
+
+### Joshua 4: Twelve Stones
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3, 8 | *ba-malon* | in the lodging place |
+| 6, 21 | *ki yish'alun beneikhem machar* | When your sons ask tomorrow (as Exodus 13:14, Deuteronomy 6:20; noted) |
+| 7 | *le-zikkaron* | a memorial |
+| 12 | *chamushim* | in ranks (as 1:14) |
+| 13 | *chalutsei ha-tsava* | armed for war |
+| 16 | *aron ha-edut* | the ark of the Testimony (as Exodus, noted) |
+| 18 | *nittequ* | were lifted up |
+| 18 | *ki-temol shilshom* | as before |
+| 19 | *be-asor la-chodesh ha-rishon* | on the tenth day of the first month (as Exodus 12:3, noted) |
+
+**Checks:** verse counts equal the Hebrew (17, 24); no banned words; "And"-starts only *And it came to pass* (3:2, 3:14, 4:1, 4:11, 4:18), *And it shall come to pass* (3:13) and *And now* in speech (3:12); no *here —* or *look —*; every quotation printed and checked (Exodus 12:3, 13:14–16, 14:21–22, 15:8, 19:10; Numbers 32; Deuteronomy 5:26, 6:20, 19:4; Joshua 1:5, 1:14, 2:10, 5:9–10).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 1–2 (OT loop, run 15, 7:21 PM Central, 2026-09-28)
 
 **Landed:** Joshua 1, 2. Progress 381 → **383 of 1,989 (19.3%)**. Next is Joshua 3.
