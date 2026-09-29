@@ -2,6 +2,40 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 16–17 (OT loop, run 23, 7:59 PM Central, 2026-09-28)
+
+**Landed:** Joshua 16, 17. Progress 396 → **398 of 1,989 (20.0%)**. Next is Joshua 18.
+
+### Joshua 16: The Lot of Joseph: Ephraim
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yetse ha-goral* | The lot… went out |
+| 2 | *mi-Beit El Luzah* | from Bethel to Luz (noted) |
+| 3 | written *totsaoto*, read *totse'otav* | it ended (the reading followed) |
+| 9 | *ha-arim ha-mivdalot* | the cities set apart (noted) |
+| 10 | *mas oved* | forced labor (as Deuteronomy 20:11, noted) |
+
+### Joshua 17: The Lot of Manasseh
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ish milchamah* | a man of war (noted) |
+| 2 | *Avi'ezer* | Abiezer (the *Iezer* of Numbers 26:30, noted) |
+| 3 | *Machlah, No'ah, Choglah, Milkah, Tirtsah* | Mahlah, Noah, Hoglah, Milcah and Tirzah (as Numbers 27:1) |
+| 5 | *chavlei Menasheh asarah* | Ten portions (noted) |
+| 11 | *sheloshet ha-nafet* | the three heights (obscure, noted) |
+| 12 | *va-yo'el ha-Kena'ani* | the Canaanites were determined |
+| 13 | *ve-horesh lo horisho* | but did not drive them out completely (noted) |
+| 15, 18 | *u-vere'ta* | clear ground |
+| 16, 18 | *rekhev barzel* | chariots of iron (noted) |
+
+**Checks:** verse counts equal the Hebrew (10, 18); no banned words; "And"-starts only *And it came to pass* (17:13); no *here —* or *look —*; every quotation printed and checked (Genesis 28:19, 48:5, 48:14; Numbers 13:8, 13:16, 26:29–32, 27:1, 27:7, 32:39–40; Deuteronomy 20:10–15; Joshua 11:2, 13:31, 15:63; Judges 6:11; 1 Kings 9:16).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 15 (OT loop, run 22, 7:55 PM Central, 2026-09-28)
 
 **Landed:** Joshua 15 (63 verses). Progress 395 → **396 of 1,989 (19.9%)**. Next is Joshua 16.
