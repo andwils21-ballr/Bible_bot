@@ -1,8 +1,8 @@
 # Progress
 
-**400 of 1989 chapters rendered (20.1%).**
+**402 of 1989 chapters rendered (20.2%).**
 
-Next up: **Joshua 20**
+Next up: **Joshua 22**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -11,7 +11,7 @@ Next up: **Joshua 20**
 | 3 | Leviticus | source | done |
 | 4 | Numbers | source | done |
 | 5 | Deuteronomy | source | done |
-| 6 | Joshua | source | 19/24 |
+| 6 | Joshua | source | 21/24 |
 | 7 | Judges | source | 0/21 |
 | 8 | Ruth | source | 0/4 |
 | 9 | 1 Samuel | source | 0/31 |

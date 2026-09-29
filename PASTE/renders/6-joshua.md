@@ -2,6 +2,46 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 20–21 (OT loop, run 25, 8:10 PM Central, 2026-09-28)
+
+**Landed:** Joshua 20, 21. Progress 400 → **402 of 1,989 (20.2%)**. Next is Joshua 22.
+
+**Fixed in an earlier chapter this run:** Joshua 13 had *the tableland* for *ha-mishor* (13:9, 16, 17, 21). Deuteronomy 3:10 and 4:43 have *the plateau*, so Joshua 13 now reads *plateau* too.
+
+### Joshua 20: Towns of Refuge
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *arei ha-miqlat* | the towns of refuge (as Numbers 35) |
+| 3, 9 | *bi-shegagah* | by mistake (as Numbers 35:11, noted) |
+| 3, 5 | *bi-veli da'at* | unintentionally (as Deuteronomy 19:4, noted) |
+| 3, 5, 9 | *go'el ha-dam* | the avenger of blood (fixed rendering) |
+| 5 | *mi-temol shilshom* | before (as Deuteronomy 19:4) |
+| 6 | *ha-kohen ha-gadol* | the high priest (as Numbers 35:25, noted) |
+| 7 | *va-yaqdishu* | they set apart (noted) |
+| 8 | *ba-mishor* | on the plateau (as Deuteronomy 4:43) |
+| 8 | written *Galon*, read *Golan* | Golan (the reading followed) |
+| 9 | *arei ha-mu'adah* | the appointed towns |
+| 9 | *ve-la-ger ha-gar* | for the guest who lives as a guest (fixed term) |
+
+### Joshua 21: The Towns of the Levites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 3, 8, 11–42 | *migrasheihen* | pasture lands (fixed rendering) |
+| 10 | *ri'shonah* | first |
+| 13, 21, 27, 32, 38 | *ir miqlat ha-rotseach* | the town of refuge for the one who killed |
+| 25 | *Gat Rimmon* (a second time) | Gath-rimmon (kept; 1 Chronicles 6:55 noted) |
+| 27 | written *Galon*, read *Golan* | Golan (the reading followed) |
+| 41 | *arba'im u-shemoneh* | forty-eight (as Numbers 35:7, noted) |
+| 45 | *lo nafal davar* | Not one word failed (noted) |
+
+**Checks:** verse counts equal the Hebrew (9, 45); no banned words; no "And"-starts; no *here —* or *look —*; every quotation printed and checked (Numbers 26:57, 35:2, 35:6–7, 35:11, 35:15, 35:25; Deuteronomy 4:42–43, 19:3–4; Joshua 14:6, 14:13–14, 17:4, 23:4–5, 23:14; Jeremiah 1:1; 1 Chronicles 6:55).
+
+**Left standing on purpose:** 21:25 names Gath-rimmon a second time (after v24); kept as written, with the Chronicles reading in the note.
+
+**Choices for you:** none new.
+
 ## Joshua 18–19 (OT loop, run 24, 8:04 PM Central, 2026-09-28)
 
 **Landed:** Joshua 18, 19. Progress 398 → **400 of 1,989 (20.1%)**. Next is Joshua 20.
@@ -115,7 +155,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 3 | *seranei Pelishtim* | the lords of the Philistines (noted) |
 | 5 | *Levo Chamat* | Lebo-hamath (fixed rendering) |
 | 6 | *anokhi orishem* | I Myself will drive them out (noted) |
-| 9, 16, 17, 21 | *ha-mishor* | the tableland |
+| 9, 16, 17, 21 | *ha-mishor* | the plateau |
 | 14 | *ishei YHWH* | The offerings by fire of the LORD (as Deuteronomy 18:1) |
 | 21 | *nesikhei Sichon* | the princes of Sihon (noted) |
 | 22 | *ha-qosem* | the soothsayer (as Deuteronomy 18:10, noted) |
