@@ -2,6 +2,47 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 33–34 (OT loop, run 14, 7:15 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 33, 34. **Deuteronomy is complete, and with it the five books of Moses.** Progress 379 → **381 of 1,989 (19.2%)**. Next is Joshua 1.
+
+### Deuteronomy 33: The Blessing of Moses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ish ha-Elohim* | the man of God (noted) |
+| 2 | written *eshdat*, read *esh dat* | a fiery law (noted) |
+| 3 | *af chovev ammim* | Yes, He loves the peoples (***KEPT AS IS***: difficult Hebrew, noted) |
+| 4 | *morashah* | a possession (as Exodus 6:8, noted) |
+| 8 | *tummeikha ve-urekha* | Your Thummim and Your Urim (order reversed from Exodus 28:30, noted) |
+| 10 | *kalil* | whole burnt offerings (as 13:17) |
+| 12 | *yedid YHWH* | The beloved of the LORD |
+| 13–16 | *meged* | the choicest |
+| 16 | *shokheni seneh* | the One who dwells in the bush (as the Exodus 3:2 note quotes it) |
+| 16 | *nezir echav* | the one set apart from his brothers (as Genesis 49:26) |
+| 17 | *re'em* | the wild ox (as Numbers 23:22, 24:8) |
+| 25 | *dove'ekha* | your strength (a word found nowhere else, noted) |
+| 27 | *me'onah… zero'ot olam* | a dwelling place… the everlasting arms (noted) |
+| 29 | *ashreikha* | Happy are you (noted) |
+
+### Deuteronomy 34: The Death of Moses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Rosh ha-Pisgah* | the top of Pisgah |
+| 4 | *her'itikha ve-einekha* | I have let you see it with your eyes |
+| 5 | *al pi YHWH* | at the word of the LORD (noted) |
+| 6 | *va-yiqbor oto* | He buried him (subject unnamed, noted) |
+| 7 | *lo nas lecho* | his vigor had not fled (noted) |
+| 9 | *samakh… et yadav* | had leaned his hands on him (as Numbers 27:18, 23) |
+| 12 | *ha-mora ha-gadol* | the great terror (as 4:34, 26:8) |
+
+**Checks:** verse counts equal the Hebrew (29, 12); no banned words; no "And"-starts (poetry lines that begin with a lowercase *and* continue the sentence above them); no *here —* or *look —*; every quotation printed and checked (Genesis 12:6–7, 49:4, 49:9, 49:26; Exodus 3:2, 6:8, 28:30, 32:26–29, 33:11; Numbers 9:18–23, 12:8, 20:29, 23:22, 24:8, 27:18, 27:23; Deuteronomy 13:17, 18:15, 31:2, 32:15; Psalm 1:1, 90:1; the Hebrew of Genesis–Joshua for *ish ha-Elohim*; Greek of Jude 9). Two notes drafted from memory were cut before commit: a claim about how Jewish children learn 33:4, and the rabbinic "kiss of God" reading of 34:5.
+
+**Left standing on purpose:** 33:3, kept close to the difficult Hebrew.
+
+**Choices for you:** none new. The 32:8 / 32:43 question from run 13 is still open.
+
 ## Deuteronomy 32 (OT loop, run 13, 7:08 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 32, the Song of Moses, set as verse lines like the Song of the Sea (Exodus 15). Progress 378 → **379 of 1,989 (19.1%)**. Next is Deuteronomy 33.
