@@ -2,6 +2,49 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 7–8 (OT loop, run 18, 7:35 PM Central, 2026-09-28)
+
+**Landed:** Joshua 7, 8. Progress 387 → **389 of 1,989 (19.6%)**. Next is Joshua 9.
+
+### Joshua 7: Achan and the Valley of Achor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yim'alu… ma'al* | broke faith (noted) |
+| 3 | *al tegyagga* | Do not make… toil |
+| 5 | *va-yimmas levav ha-am va-yehi le-mayim* | The hearts of the people melted and became like water (noted) |
+| 7 | *ahah Adonai YHWH* | Ah, Lord GOD (noted) |
+| 11 | *ve-gam* ×5 | also… also (noted) |
+| 14–18 | *yilkedennu* | takes (noted) |
+| 15 | *nevalah* | an outrage (as Genesis 34:7) |
+| 19 | *ten lo todah* | give Him praise (noted) |
+| 21 | *va-ere… va-echmedem… va-eqqachem* | I saw… I coveted… I took (as Exodus 20:17, Genesis 3:6; noted) |
+| 21 | *aderet Shin'ar*, *leshon zahav* | a cloak from Shinar, a bar of gold |
+| 22 | *ve-hinneh temunah* | and it was hidden (*here —* cut, per ruling) |
+| 25 | *akhartanu… ya'kor'kha* | Why have you brought trouble on us? The LORD will bring trouble on you (noted) |
+
+### Joshua 8: Ai Taken, and the Altar on Mount Ebal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *al tira ve-al techat* | Do not be afraid and do not lose heart (as Deuteronomy 1:21) |
+| 2 | *orev* | an ambush |
+| 3, 12 | thirty thousand / five thousand | both kept (noted) |
+| 15 | *va-yinnage'u* | let themselves be struck |
+| 18, 26 | *kidon* | the javelin (noted) |
+| 20 | *ve-hinneh alah ashan ha-ir* | and the smoke of the city was going up (*here —* cut, per ruling) |
+| 22 | *sarid u-falit* | survivor or fugitive |
+| 28 | *tel olam* | a heap forever (as Deuteronomy 13:17, noted) |
+| 31 | *avanim shelemot* | whole stones (as Deuteronomy 27:6) |
+| 32 | *mishneh torat Moshe* | a copy of the instruction of Moses (as Deuteronomy 17:18, noted) |
+| 33, 35 | *ka-ger ka-ezrach*, *ha-ger* | the guest as well as the native, the guests (fixed term) |
+
+**Checks:** verse counts equal the Hebrew (26, 35); no banned words (the grep's one hit is the transliteration *va-ere*); "And"-starts only *And it came to pass* (8:14, 8:24) and *And it shall come to pass* (7:14, 7:15, 8:5, 8:8); no *here —* or *look —*; every quotation printed and checked (Genesis 3:6, 11:2, 12:8, 34:7; Exodus 17:12, 20:17; Deuteronomy 1:21, 9:28, 11:29, 13:17, 17:18, 21:23, 27:2–8, 27:12–13, 31:8, 31:12; Joshua 2:11, 5:1, 6:18; 1 Chronicles 2:7; Hosea 2:17).
+
+**Left standing on purpose:** 8:3 and 8:12 give two different sizes for the ambush; both are rendered as written and the note says so.
+
+**Choices for you:** none new.
+
 ## Joshua 5–6 (OT loop, run 17, 7:30 PM Central, 2026-09-28)
 
 **Landed:** Joshua 5, 6. Progress 385 → **387 of 1,989 (19.5%)**. Next is Joshua 7.
