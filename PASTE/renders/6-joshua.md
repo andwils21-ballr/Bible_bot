@@ -2,6 +2,41 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joshua 11–12 (OT loop, run 20, 7:46 PM Central, 2026-09-28)
+
+**Landed:** Joshua 11, 12. Progress 391 → **393 of 1,989 (19.8%)**. Next is Joshua 13.
+
+### Joshua 11: The Northern Kings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *be-nafot Dor* | on the heights of Dor |
+| 4 | *ka-chol asher al sefat ha-yam* | as the sand on the lip of the sea (as Genesis 22:17, noted) |
+| 5 | *va-yivva'adu* | met by appointment |
+| 6, 9 | *te'aqqer* | hamstring (noted) |
+| 13 | *al tillam* | on their mounds (noted) |
+| 15 | *lo hesir davar* | He left nothing undone (noted) |
+| 17 | *ha-har he-chalaq* | the bare mountain |
+| 20 | *le-chazzeq et libbam* | to make their hearts strong (as Exodus 4:21, noted) |
+| 20 | *techinnah* | favor |
+| 23 | *ve-ha-arets shaqetah* | Then the land had rest (noted; *Then*, not *And*, per the And-start rule) |
+
+### Joshua 12: The Kings Struck Down
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ashdot ha-Pisgah* | the slopes of Pisgah (as Deuteronomy 3:17) |
+| 4 | *mi-yeter ha-Refa'im* | one of the remnant of the Rephaim (as Deuteronomy 3:11, noted) |
+| 9–24 | *echad* | one (noted) |
+| 20 | *Shimron Mer'on* | Shimron-meron (noted) |
+| 23 | *melekh Goyim le-Gilgal* | the king of Goiim at Gilgal (noted) |
+
+**Checks:** verse counts equal the Hebrew (23, 24); no banned words; "And"-starts only *And it came to pass* (11:1); 11:23 first ended *And the land had rest from war* and now reads *Then the land had rest*; no *here —* or *look —*; every quotation printed and checked (Genesis 22:17; Exodus 4:21; Numbers 13:33, 21:1–3; Deuteronomy 2:10–11, 3:11, 6:10, 17:16; Joshua 13:1, 14:7–10; Judges 3:11, 4:2; 1 Samuel 17:4). One note drafted from memory was cut before commit: a claim about how the Hebrew scroll lays out the list of kings.
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Joshua 9–10 (OT loop, run 19, 7:40 PM Central, 2026-09-28)
 
 **Landed:** Joshua 9, 10. Progress 389 → **391 of 1,989 (19.7%)**. Next is Joshua 11.
