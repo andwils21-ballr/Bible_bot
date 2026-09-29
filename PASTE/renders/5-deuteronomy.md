@@ -2,6 +2,46 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Deuteronomy 30–31 (OT loop, run 12, 7:07 PM Central, 2026-09-28)
+
+**Landed:** Deuteronomy 30, 31. Progress 376 → **378 of 1,989 (19.0%)**. Next is Deuteronomy 32, the Song of Moses.
+
+### Deuteronomy 30: Choose Life
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-hashevota el levavekha* | you take them to heart (noted, with the other *shuv* forms) |
+| 3 | *ve-shav… et shevutkha* | will restore your fortunes (noted) |
+| 3 | *ve-shav ve-qibbetskha* | He will gather you again |
+| 4 | *bi-qtseh ha-shamayim* | at the end of the heavens (noted) |
+| 6 | *u-mal… et levavkha* | will circumcise your heart (as the 10:16 note quotes it) |
+| 9 | *yashuv… la-sus* | will again delight (as 28:63, noted) |
+| 11 | *lo nifle't hi* | is not too hard for you |
+| 15 | *ha-chayyim ve-et ha-tov… ha-mavet ve-et ha-ra* | life and good, and death and evil (noted) |
+| 18 | *avod tovedun* | you will perish, perish (as 8:19) |
+| 20 | *ki hu chayyekha* | for He is your life (noted) |
+
+### Deuteronomy 31: Be Strong and Courageous
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *latset ve-lavo* | go out and come in |
+| 6, 8 | *lo yarpekha ve-lo ya'azvekha* | He will not let you go or forsake you (noted) |
+| 6, 7, 23 | *chizqu ve-imtsu*, *chazaq ve-emats* | Be strong and courageous (noted) |
+| 10 | *shenat ha-shemittah* | the year of release (as 15:1) |
+| 16 | *hinnekha shokhev*, "here — you are lying down" | You are about to lie down (per the *hinneh* + participle rule) |
+| 17–18 | *haster astir panai* | I will surely hide My face (noted) |
+| 20 | *ve-dashen* | and grow fat |
+| 21 | *yitsro* | the shaping of their thoughts (as Genesis 6:5, 8:21; noted) |
+| 24, 30 | *ad tummam* | to the very end |
+| 29 | *be-acharit ha-yamim* | in the end of days (fixed rendering) |
+
+**Checks:** verse counts equal the Hebrew (20, 30); no banned words; "And"-starts only *And it shall come to pass* (30:1, 31:21), *And it came to pass* (31:24) and *And now* in speech (31:19); no *here —* or *look —*; every quotation printed and checked (Genesis 2:9, 6:3, 6:5, 8:21; Exodus 33:9–11; Deuteronomy 1:21, 3:28, 4:26, 10:16, 28:63, 34:7; Joshua 1:6, 1:9; Greek of Romans 10:6–8 and Hebrews 13:5).
+
+**Left standing on purpose:** nothing new.
+
+**Choices for you:** none new.
+
 ## Deuteronomy 28–29 (OT loop, run 11, 6:57 PM Central, 2026-09-28)
 
 **Landed:** Deuteronomy 28 (69 verses), 29. Progress 374 → **376 of 1,989 (18.9%)**. Next is Deuteronomy 30.
