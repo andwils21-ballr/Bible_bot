@@ -2,6 +2,113 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 17–20 (loop, cycle 15, 1:23 PM Central, 2026-09-30)
+
+**Landed:** 2 Samuel 17, 18, 19, 20. Progress 477 → **481 of 1,989 (24.2%)**. Next is 2 Samuel 21.
+
+**Versification:** English 18:33 is Hebrew 19:1, and English 19:1–43 is Hebrew 19:2–44. Swete follows the English. This offset is not in HANDOFF.md's list of known offsets (a render cycle does not edit that file).
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **17:3**, *as a bride comes back to her husband. You seek the life of only one man.* The Hebrew, *ke-shuv ha-kol ha-ish asher attah mevaqqesh*, does not make a sentence; the Greek's sense is the plan of v2, to strike the king alone, and *ha-kallah*, *the bride*, differs from *ha-kol* by one letter. Noted.
+- **18:3**, *But you are worth ten thousand of us.* The Hebrew has *attah* (עתה), *now there are ten thousand like us*, which cuts against the verse; the Greek reads *attah* (אתה), *you*. Noted.
+
+### 2 Samuel 17: Hushai Defeats Ahithophel's Counsel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-hacharadti oto* | throw him into a panic |
+| 3 | *ke-shuv ha-kol ha-ish* | as a bride comes back to her husband (Greek followed; noted) |
+| 8 | *marei nefesh* | bitter of soul |
+| 8 | *ke-dov shakkul* | like a bear robbed of her cubs (noted) |
+| 9 | *pechatim* | pits |
+| 10 | *himmes yimmas* | will utterly melt (doubled verb) |
+| 11 | *u-fanekha holekhim ba-qerav* | that you go into battle in person |
+| 13 | *tseror* | a pebble |
+| 14 | *le-hafer* | to defeat (noted) |
+| 15 | *kazot ve-khazot* | This and this |
+| 16 | *be-arvot* | in the plains (noted) |
+| 17 | *lo yukhlu le-hera'ot* | they could not risk being seen |
+| 19 | *ha-rifot* | grain |
+| 20 | *mikhal ha-mayim* | the brook of water (***KEPT AS IS***: word found only here; noted) |
+| 21, 27 | *va-yehi* | And it came to pass (formula) |
+| 23 | *va-yechanaq* | he hanged himself (noted) |
+| 25 | *Yitra ha-Yisre'eli* | Ithra the Israelite (***KEPT AS IS***: Chronicles has *Jether the Ishmaelite*; noted) |
+| 28 | *qali* (twice) | roasted grain (once; the second is a repeat) |
+| 29 | *shefot baqar* | cheese from the herd |
+
+### 2 Samuel 18: The Death of Absalom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ki attah kamonu* | But you are worth ten thousand of us (Greek followed; noted) |
+| 3 | written *la'zir*, read *la'zor* | to help (the reading followed) |
+| 5 | *le'at li la-na'ar* | Deal gently, for my sake, with the young man |
+| 8 | written *nafotsit*, read *nafotset* | spread (the reading followed) |
+| 8 | *va-yirbeh ha-ya'ar le-ekhol* | the forest devoured more (noted) |
+| 9 | *va-yiqqare* | happened to meet |
+| 9 | *va-yuttan bein ha-shamayim u-vein ha-arets* | he was left hanging between heaven and earth (noted) |
+| 12 | written *ve-lu*, read *ve-lo* | Even if (the reading followed) |
+| 12 | *shimru mi ba-na'ar* | Protect the young man Absalom, whoever you may be (noted) |
+| 13 | written *be-nafsho*, read *be-nafshi* | against my own life (the reading followed; noted) |
+| 14 | *lo khen ochilah lefanekha* | I will not wait like this for you |
+| 14 | *shevatim* | rods (***KEPT AS IS***: the Greek has *darts*; noted) |
+| 17 | written *le-ohalo*, read *le-ohalav* | to his tent (the reading followed) |
+| 18 | *yad Avshalom* | Absalom's Monument (noted) |
+| 19, 31 | *shefato YHWH mi-yad* | the LORD has delivered him from the hand of (noted) |
+| 20 | written *al ken*, read *ken* | because (the reading followed) |
+| 23 | *derekh ha-kikkar* | by the way of the Plain |
+| 33 | (Hebrew 19:1) | kept at 18:33 (English numbering) |
+
+### 2 Samuel 19: David Returns to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–43 | (Hebrew 19:2–44) | English numbering (noted) |
+| 2 | *teshu'ah* | the victory (noted) |
+| 3 | *va-yitganev* | stole into (noted) |
+| 4 | *la'at et panav* | covered his face |
+| 7 | *dabber al lev* | speak to the heart (noted) |
+| 11 | *u-devar kol Yisra'el ba el ha-melekh* | when the word of all Israel has come to the king (***KEPT AS IS***: stands at the end of the Hebrew verse, as in the Greek) |
+| 17 | *ve-tsalechu ha-Yarden* | They rushed down to the Jordan |
+| 18 | *ve-averah ha-avarah* | They crossed the ford (***KEPT AS IS***: ford or ferry; noted) |
+| 18 | written *be-eino*, read *be-einav* | in his eyes (the reading followed) |
+| 22 | *le-satan* | an adversary (noted) |
+| 24 | *lo asah raglav* | had not cared for his feet |
+| 25 | *ki va Yerushalayim* | When he came to Jerusalem (***KEPT AS IS***: both witnesses) |
+| 26 | *rimmani* | deceived me (as Genesis 29:25; noted) |
+| 28 | *anshei mavet* | men deserving death (noted) |
+| 29 | *amarti* | I have decided |
+| 31 | written *et ba-Yarden*, read *et ha-Yarden* | over the Jordan (the reading followed) |
+| 37, 38, 40 | *Kimham* (spelled *Kimhan* in v40) | Chimham |
+| 40 | written *va-ya'aviru*, read *he'eviru* | had brought over (the reading followed) |
+| 43 | *eser yadot* | ten shares (noted) |
+
+### 2 Samuel 20: Sheba's Revolt
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ish beliyya'al* | a worthless man (noted) |
+| 1 | Sheba's cry | set as poetry within the verse |
+| 3 | *almenut chayyut* | living as widows (noted) |
+| 5 | written *va-yyachar*, read *va-yoachar* | he took longer (the reading followed) |
+| 6 | *ve-hitsil eineinu* | escape from our sight (***KEPT AS IS***: sense uncertain; noted) |
+| 8 | *ve-hu yatsa va-tippol* | As he went forward, it fell out (***KEPT AS IS***: how the sword fell is unclear) |
+| 9 | *ha-shalom attah* | Is it well with you (noted) |
+| 10 | *ve-lo shanah lo* | He did not need to strike him twice (as 1 Samuel 26:8; noted) |
+| 14 | *ha-berim* | the Berites (***KEPT AS IS***: group named only here; noted) |
+| 14 | written *va-yiqqalhu*, read *va-yiqqahalu* | assembled (the reading followed) |
+| 15 | *va-ta'amod ba-chel* | it stood against the rampart |
+| 18–19 | the woman's proverb | kept as the Hebrew; Greek addition not taken (noted) |
+| 23 | written *ha-kari*, read *ha-kereti* | the Cherethites (the reading followed) |
+| 25 | written *Sheya*, read *Sheva* | Sheva (the reading followed; noted) |
+| 26 | *kohen le-David* | David's priest (***KEPT AS IS***: as 8:18; noted) |
+
+**Checks:** verse counts equal the Hebrew (29; 32 + 19:1 = 33; 44 − 1 = 43; 26); no banned words; no "And"-starts except *And it came to pass* (17:21, 17:27); no *here —* or *look —*; notes 10, 10, 10, 10. Quotations checked against our rendered text (Genesis 22:17, 29:25, 34:3, 50:21; Numbers 22:22; Joshua 7:26, 8:29, 15:7; Judges 5:7; Ruth 1:14; 1 Samuel 15:12, 20:31, 24:15, 26:8, 29:4; 2 Samuel 2:23, 3:27, 5:1, 9:4, 10:1–4, 11:21, 11:25, 12:5, 13:29, 14:26–27, 15:6, 15:28, 15:31, 15:34, 16:4, 16:7, 16:22, 8:16–18; Matthew 27:5) and the printed Hebrew (Hosea 13:8; Proverbs 17:12; 1 Kings 4:6, 12:16, 12:18; 1 Chronicles 2:16–17). *Ch-n-q* was searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 2 Samuel 13–16 (loop, cycle 14, 1:15 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 13, 14, 15, 16. Progress 473 → **477 of 1,989 (24.0%)**. Next is 2 Samuel 17.
