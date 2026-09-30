@@ -1,8 +1,8 @@
 # Progress
 
-**425 of 1989 chapters rendered (21.4%).**
+**429 of 1989 chapters rendered (21.6%).**
 
-Next up: **Judges 21**
+Next up: **Ruth 4**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -12,8 +12,8 @@ Next up: **Judges 21**
 | 4 | Numbers | source | done |
 | 5 | Deuteronomy | source | done |
 | 6 | Joshua | source | done |
-| 7 | Judges | source | 20/21 |
-| 8 | Ruth | source | 0/4 |
+| 7 | Judges | source | done |
+| 8 | Ruth | source | 3/4 |
 | 9 | 1 Samuel | source | 0/31 |
 | 10 | 2 Samuel | source | 0/24 |
 | 11 | 1 Kings | source | 0/22 |

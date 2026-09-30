@@ -2,6 +2,40 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judges 21 (loop, cycle 2, 8:26 AM Central, 2026-09-30)
+
+**Landed:** Judges 21. **Judges is finished.** The same cycle began Ruth; see `PASTE/renders/8-ruth.md`.
+
+### Judges 21: Wives for Benjamin
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *va-yivku bekhi gadol* | wept bitterly (doubled word) |
+| 3 | *lehippaqed* | should be missing |
+| 5 | *mot yumat* | He shall surely be put to death (doubled verb) |
+| 6, 15 | *va-yinnachamu* / *nicham* | were sorry for (noted) |
+| 6 | *nigda* | is cut off (noted) |
+| 8, 9 | *ve-hinneh* | No one had come / not one… was there (no *here —*) |
+| 11 | *tacharimu* | devote to destruction (fixed rendering) |
+| 12 | *na'arah vetulah… le-mishkav zakhar* | young virgins who had not known a man by lying with a male (as Numbers 31:18) |
+| 13 | *va-yiqre'u lahem shalom* | proclaimed peace to them |
+| 14 | *ve-lo matse'u lahem ken* | there were not enough for them |
+| 15 | *perets* | a breach |
+| 17 | *yerushat peletah le-Vinyamin* | There must be an inheritance for the survivors of Benjamin (***KEPT AS IS***: terse in the Hebrew) |
+| 19 | *hinneh chag YHWH* | There is the feast of the LORD (a presentation) |
+| 20 | written *vytsw*, read *va-yetsavvu* | They commanded (the reading followed) |
+| 21 | *ve-hinneh im* | When… (no *here —*) |
+| 21 | *va-chataftem* | seize (noted) |
+| 22 | written *larov*, read *lariv* | to complain (the reading followed) |
+| 22 | whole speech | Be gracious to us about them… otherwise you would now be guilty (***KEPT AS IS***: compressed; noted) |
+| 23 | *gazalu* | carried off (noted) |
+
+**Checks:** verse count equals the Hebrew (25); no banned words; no "And"-starts except *And it shall come to pass* (v22); no *here —* or *look —*; 10 notes. Quotations checked against our rendered text (Numbers 31:17–18; Deuteronomy 7:5; Judges 2:18, 11:40, 17:6, 18:1, 18:31, 19:1, 20:47) and the printed Hebrew (1 Samuel 1:3, 11:1, 31:11). The Greek was checked against Swete (Judges 21:15, 17, 19, 21, 22).
+
+**Left standing on purpose:** 21:17 and 21:22, marked above.
+
+**Choices for you:** none new.
+
 ## Judges 17–20 (loop, cycle 1, 8:20 AM Central, 2026-09-30)
 
 **Landed:** Judges 17, 18, 19, 20. Progress 421 → **425 of 1,989 (21.4%)**. Next is Judges 21, the end of the book.
