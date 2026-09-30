@@ -2,6 +2,127 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 16–19 (loop, cycle 7, 9:10 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 16, 17, 18, 19. Progress 445 → **449 of 1,989 (22.6%)**. Next is 1 Samuel 20.
+
+**The Greek's shorter David story, kept in the Hebrew form.** Swete's Greek has none of 17:12–31, 17:41, 17:50, 17:55–58, 18:1–5, 18:10–11, 18:17–19 or 18:30, and lacks the end of 18:21, 18:26 and 18:29. Without them there is no second introduction of David as a shepherd, no *Whose son is this youth?*, no covenant with Jonathan here, no spear, and no offer of Merab. By your rule the text starts from the Hebrew and keeps detail one witness has and another lacks; nothing in the Hebrew here is broken, so all of it stands. Two notes say so (17:12–31 with 17:55–58, and 18:1–5).
+
+**Departure from the Hebrew, by your witnesses rule:**
+- **18:6**, *with cymbals*. The Hebrew instrument is *shalishim*, built on *shalosh*, **three**; what it was is not known, and the Greek has *cymbals*. Noted.
+
+**Decided, with the reason:** **16:23**, *whenever the spirit from God was on Saul*, lowercase. The Hebrew here has *ruach Elohim* without *evil*, but the same verse ends *and the evil spirit would depart from him*, and vv14–16 call it *an evil spirit from God*. The fixed term (Spirit, capital) is for God's own Spirit; this is the evil spirit. Noted. In 19:20 and 19:23, where the Spirit of God makes the messengers and Saul prophesy, it is capital.
+
+### 1 Samuel 16: David Anointed
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ra'iti… li melekh* | I have seen… a king for Myself (noted) |
+| 2 | *eglat baqar tiqqach be-yadekha* | Take a heifer with you |
+| 3 | *et asher omar elekha* | the one I name to you |
+| 4 | *va-yecherdu… li-qrato* | came trembling to meet him (noted) |
+| 4 | *shalom bo'ekha* | Do you come in peace? |
+| 6 | *akh neged YHWH meshicho* | Surely the LORD's anointed stands before Him |
+| 7 | *ki ha-adam yir'eh la-einayim* | a man looks at what is before the eyes (noted: literally *to the eyes*) |
+| 7 | *ki lo asher yir'eh ha-adam* | For it is not as a man sees (***KEPT AS IS***: compressed; the Greek adds *God sees*; noted) |
+| 11 | *lo nasov* | we will not sit down to eat (literally *go around*, to the table) |
+| 12 | *admoni* | ruddy (noted) |
+| 12 | *ki zeh hu* | for this is the one |
+| 13 | *va-titslach* | rushed (as 10:6; noted) |
+| 14 | *bi'atattu* | terrified him (noted) |
+| 16 | *ve-hayah bi-hyot* | And it shall come to pass, when (formula) |
+| 18 | *gibbor chayil* | a man of worth (as 9:1; the open choice in Ruth 2:1) |
+| 18 | *nevon davar* | wise in speech |
+| 20 | *chamor lechem* | a donkey loaded with bread (noted) |
+| 21 | *va-ya'amod lefanav* | entered his service (literally *stood before him*) |
+| 23 | *ve-hayah* (past habitual) | And it would come to pass (formula) |
+| 23 | *ruach Elohim* | the spirit from God (lowercase; see above) |
+| 23 | *ve-ravach* | would find relief (noted) |
+
+### 1 Samuel 17: David and Goliath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ish ha-benayim* | A champion (noted) |
+| 4 | *shesh ammot va-zaret* | six cubits and a span (***KEPT AS IS***: the Greek has *four*; noted) |
+| 5 | *shiryon qasqassim* | a coat of scale armor (noted) |
+| 6 | *mitschat* | greaves (noted) |
+| 7 | written *chts*, read *ve-ets* | The shaft (the reading followed) |
+| 8 | *beru lakhem ish* | Choose a man for yourselves |
+| 10 | *cherafti* | I defy (noted) |
+| 11 | *va-yechattu* | they lost heart (as Joshua 1:9) |
+| 12 | *ba va-anashim* | well on in years (noted) |
+| 18 | *charitsei he-chalav* | cheeses |
+| 18 | *ve-et arubbatam tiqqach* | bring back some token from them |
+| 20 | *ha-ma'gal* | the encampment |
+| 22 | *ha-kelim* | his baggage (as 10:22) |
+| 23 | written *mm'rwt*, read *mi-ma'arkhot* | out of the ranks (the reading followed) |
+| 25 | *ve-hayah ha-ish* | The man who kills him (plain; *ve-hayah* + noun) |
+| 25 | *chofshi* | free |
+| 28 | *zedonkha ve-et roa levavekha* | your insolence and the evil of your heart (noted) |
+| 29 | *ha-lo davar hu* | Was it not only a word? |
+| 32 | *al yippol lev adam* | Let no one's heart fail |
+| 35 | *bi-zqano* | by its beard |
+| 37 | *mi-yad ha-ari* | from the paw of the lion (noted) |
+| 38 | *maddav* | his own garments |
+| 39 | *va-yo'el lalekhet* | tried to walk |
+| 40 | *ba-yalqut* | in the pouch |
+| 46 | *peger* | the corpses |
+| 48 | *ve-hayah ki qam* | When the Philistine rose (***KEPT AS IS***: *ve-hayah* opens a single past event; the formula is not used) |
+| 52 | *ad bo'akha gai* | as far as the approach to the valley (the Greek has *Gath*) |
+| 55 | *chei nafshekha* | As your soul lives |
+
+### 1 Samuel 18: Saul's Jealousy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *niqsherah be-nefesh* | was bound to the soul (noted) |
+| 1 | written *vy'hbw*, read *va-ye'ehavehu* | loved him (the reading followed) |
+| 5 | *yaskil* | he succeeded (noted) |
+| 6 | written *lshwr*, read *la-shir* | singing (the reading followed) |
+| 6 | *u-ve-shalishim* | and with cymbals (Greek followed; noted) |
+| 7 | *ha-mesachaqot* | as they celebrated |
+| 7 | written *b'lpw*, read *ba-alafav* | his thousands (the reading followed) |
+| 7 | the song | set as poetry |
+| 8 | *ve-od lo akh ha-melukhah* | What more can he have but the kingdom? |
+| 9 | written *'wn*, read *oyen* | kept his eye on (spelling only) |
+| 10 | *va-yitnabbe* | he prophesied (noted) |
+| 11 | *akkeh be-David u-va-qir* | I will pin David to the wall |
+| 15 | *va-yagor* | he stood in dread |
+| 17 | *hinneh bitti* | Here is my older daughter (a presentation) |
+| 17 | *ben chayil* | a man of valor (as 14:52) |
+| 21 | *bi-shtayim* | Through the second (***KEPT AS IS***: unclear; the Greek lacks the words) |
+| 21 | *le-moqesh* | a snare (fixed term; noted) |
+| 22 | *ve-attah* | And now (in speech) |
+| 23 | *ha-neqallah… ve-niqleh* | a light thing… lightly esteemed |
+| 25 | *mohar* | bride-price (noted) |
+| 27 | *matayim ish* | two hundred men (***KEPT AS IS***: the Greek has *a hundred*; noted) |
+| 27 | *va-yemalu'um* | they gave them in full number |
+| 30 | *va-yiqar shemo* | his name was held in high honor |
+
+### 1 Samuel 19: David Escapes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *chafets* | delighted (noted) |
+| 3 | *ve-ra'iti mah* | If I see anything |
+| 5 | *sam et nafsho be-khappo* | He took his life in his hand (***KEPT AS IS***: English carries the idiom; noted) |
+| 5 | *chinnam* | without cause (noted) |
+| 7 | *ke-etmol shilshom* | as before |
+| 10 | *va-yiftar* | slipped away |
+| 13 | *kevir ha-izzim* | a net of goats' hair (noted) |
+| 16 | *ve-hinneh ha-terafim* | there were the household gods (no *here —*) |
+| 18 | written *nvyt*, read *Nayot* | Naioth (the reading followed) |
+| 20 | *lahaqat* | the company (noted) |
+| 20 | *omed nitsav aleihem* | standing as leader over them |
+| 22 | *bor ha-gadol asher ba-Sekhu* | the great cistern that is in Secu |
+
+**Checks:** verse counts equal the Hebrew (23, 58, 30, 24); no banned words; no "And"-starts except *And it came to pass* (16:6; 18:1, 6, 10, 19), *And it shall come to pass* (16:16), *And it would come to pass* (16:23) and *And now* in speech (18:22); no *here —* or *look —*; 10 notes each. Quotations checked against our rendered text (Genesis 22:8, 24:1, 25:25, 31:34–35, 34:12, 44:30; Exodus 3:11; Leviticus 11:9; Deuteronomy 32:30; Joshua 1:9, 2:15; Judges 2:3, 9:23, 12:3; 1 Samuel 9:1–2, 10:6, 10:10–12, 10:23, 13:22, 14:6, 14:15, 15:17, 15:33, 15:35) and the printed Hebrew (1 Samuel 11:2, 18:12, 18:14, 18:16, 18:20, 18:22, 18:28, 21:9, 21:11, 29:5; 2 Samuel 3:14, 5:2, 5:6–9, 21:19; 1 Chronicles 20:5). *Kevir*, *lahaqat* and *Nayot* were searched across the whole Hebrew text: each occurs only in these verses (*Nayot* also in 20:1). The Greek was checked against Swete for every verse cited in the notes and for every missing verse listed above.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Samuel 12–15 (loop, cycle 6, 9:00 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 12, 13, 14, 15. Progress 441 → **445 of 1,989 (22.4%)**. Next is 1 Samuel 16.
