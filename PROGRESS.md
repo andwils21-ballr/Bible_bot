@@ -1,8 +1,8 @@
 # Progress
 
-**429 of 1989 chapters rendered (21.6%).**
+**433 of 1989 chapters rendered (21.8%).**
 
-Next up: **Ruth 4**
+Next up: **1 Samuel 4**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -13,8 +13,8 @@ Next up: **Ruth 4**
 | 5 | Deuteronomy | source | done |
 | 6 | Joshua | source | done |
 | 7 | Judges | source | done |
-| 8 | Ruth | source | 3/4 |
-| 9 | 1 Samuel | source | 0/31 |
+| 8 | Ruth | source | done |
+| 9 | 1 Samuel | source | 3/31 |
 | 10 | 2 Samuel | source | 0/24 |
 | 11 | 1 Kings | source | 0/22 |
 | 12 | 2 Kings | source | 0/25 |

@@ -2,6 +2,41 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ruth 4 (loop, cycle 3, 8:32 AM Central, 2026-09-30)
+
+**Landed:** Ruth 4. **Ruth is finished.** The same cycle began 1 Samuel; see `PASTE/renders/9-1-samuel.md`.
+
+**Departure from the Hebrew, by your witnesses rule:** Ruth 4:4, *if you will not redeem it*. The Hebrew has *if he will not redeem*; the Greek has *you*, and the whole speech is to the redeemer. Noted.
+
+### Ruth 4: The Redeemer at the Gate
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-hinneh ha-go'el over* | just then the redeemer… came by (no *here —*) |
+| 1 | *peloni almoni* | friend (***KEPT AS IS***: the Hebrew withholds a name; noted) |
+| 4 | *egleh oznekha* | let you know |
+| 4 | *yig'al* | you will (not) redeem (Greek followed; noted) |
+| 4 | written *w'd'*, read *ve-ede'ah* | so that I may know (the reading followed) |
+| 5 | written *qaniti*, read *qanitah* | you also buy (the reading followed; the meaning differs, noted) |
+| 5 | *u-me'et Rut* | you also buy Ruth (***KEPT AS IS*** in sense; noted) |
+| 6 | written *lg'wl*, read *lig'ol* | redeem (the reading followed) |
+| 6 | *pen* | or |
+| 7 | *ha-te'udah* | the way of attesting |
+| 10 | *u-mi-sha'ar meqomo* | from the gate of his place |
+| 11 | *va-aseh chayil* | May you do worthily (as 2:1 *worth*) |
+| 11 | *u-qera shem* | make a name |
+| 12 | *ve-yehi* | May your house also be |
+| 15 | *meshiv nefesh* | a restorer of life (noted) |
+| 16 | *omenet* | nurse |
+| 18 | *toledot* | generations |
+| 20, 21 | *Salmah* / *Salmon* | Salmah / Salmon (***KEPT AS IS***: two spellings; noted) |
+
+**Checks:** verse count equals the Hebrew (22); no banned words; no "And"-starts; 10 notes. Quotations checked against our rendered text (Genesis 38:29; Deuteronomy 25:5–10; Matthew 1:3–6; Ruth 1:21, 2:1, 3:11) and the printed Hebrew (1 Samuel 1:8; 1 Chronicles 2:11). The Greek was checked against Swete (Ruth 4:1, 4, 5, 7, 11, 15, 17, 20, 21).
+
+**Left standing on purpose:** marked above.
+
+**Choices for you:** none new.
+
 ## Ruth 1–3 (loop, cycle 2, 8:26 AM Central, 2026-09-30)
 
 **Landed:** Ruth 1, 2, 3, together with Judges 21 (report in `PASTE/renders/7-judges.md`). Progress 425 → **429 of 1,989 (21.6%)**. Next is Ruth 4.
