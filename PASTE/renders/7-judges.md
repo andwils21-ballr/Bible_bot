@@ -2,6 +2,107 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judges 17–20 (loop, cycle 1, 8:20 AM Central, 2026-09-30)
+
+**Landed:** Judges 17, 18, 19, 20. Progress 421 → **425 of 1,989 (21.4%)**. Next is Judges 21, the end of the book.
+
+### Judges 17: Micah's Idol and His Levite
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 4 / 5, 8–13 | *Mikhayehu* / *Mikhah* | Micah (both forms; noted) |
+| 2 | written *w'ty*, read *ve-at* | and you (the reading followed; same meaning) |
+| 2 | *alit* | you uttered a curse (noted) |
+| 3 | *haqdesh hiqdashti* | I solemnly consecrate (doubled verb) |
+| 3, 4 | *pesel u-massekhah* | a carved image and a cast image (as Deuteronomy 27:15) |
+| 4 | *la-tsoref* | the silversmith |
+| 5 | *beit elohim* | a house of God (***KEPT AS IS***: could also be *a house of gods*) |
+| 5 | *terafim* | household gods (as Genesis 31:19) |
+| 5, 12 | *va-yemalle et yad* | ordained (as Exodus 28:41; noted) |
+| 6 | *ish ha-yashar be-einav ya'aseh* | everyone did what was right in his own eyes (as Deuteronomy 12:8) |
+| 7, 8, 9 | *ger* / *la-gur* | living as a guest / to live as a guest (fixed term) |
+| 8 | *la'asot darko* | as he went on his way |
+| 10 | *la-yamim* | a year |
+| 10 | *erekh begadim u-michyatekha* | a set of clothes and your food |
+| 10 | *va-yelekh ha-Levi* | So the Levite went in (***KEPT AS IS***: the Hebrew is abrupt) |
+
+### Judges 18: The Danites Take Laish
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *benei chayil* | men of valor |
+| 4 | *ka-zoh ve-kha-zeh* | this and that |
+| 6 | *nokhach YHWH* | before the LORD (noted) |
+| 7 | *yoresh etser* | held power over them (***KEPT AS IS***: obscure; noted) |
+| 7, 10, 27 | *shoqet u-voteach* / *am boteach* | quiet and unsuspecting (noted) |
+| 9 | *ve-attem machshim* | Will you sit still? |
+| 10 | *rachavat yadayim* | spacious |
+| 12 | *hinneh acharei Qiryat Ye'arim* | it is west of Kiriath-jearim (no *here —*) |
+| 15 | *va-yish'alu lo le-shalom* | greeted him |
+| 17, 18 | *pesel ha-efod* (v18) | the carved image, the ephod (***KEPT AS IS***: v18 joins the two words; v17 and the Greek list them apart) |
+| 19 | *sim yadekha al pikha* | Put your hand over your mouth |
+| 21 | *ha-kevuddah* | the goods |
+| 25 | *anashim marei nefesh* | angry men |
+| 25 | *ve-asafta nafshekha* | you will lose your life |
+| 29 | *asher yullad le-Yisra'el* | who was born to Israel |
+| 30 | *Menashsheh* | Manasseh (noted) |
+| 30 | *ad yom galot ha-arets* | until the day the land went into exile |
+
+### Judges 19: The Levite's Concubine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yarketei har Efrayim* | the far parts of the hill country of Ephraim |
+| 2 | *va-tizneh alav* | whored against him (fixed term; ***KEPT AS IS***: see Choices) |
+| 3 | *ledabber al libbah* | to speak to her heart (as Genesis 34:3; noted) |
+| 3 | written *lhshybw*, read *lahashivah* | bring her back (the reading followed) |
+| 5, 8 | *se'ad libbekha* | Refresh yourself (as Genesis 18:5) |
+| 9 | *hinneh na rafah ha-yom* / *hinneh chanot ha-yom* | The day has worn on / The day is coming to an end (no *here —*) |
+| 16 | *ve-hinneh ish zaqen* | Then an old man came (no *here —*) |
+| 19 | *la-amatekha* | your maidservant |
+| 22 | *benei veliyya'al* | worthless men |
+| 22 | *ve-neda'ennu* | so that we may know him (as Genesis 19:5; noted) |
+| 23, 24 | *nevalah* | outrage (as Genesis 34:7) |
+| 24 | *annu otam* | Violate them |
+| 25 | *va-yachazeq ha-ish* | the Levite seized (named, since two men are in the house) |
+| 25 | written *b'lwt*, read *ka'alot* | as the dawn came up (the reading followed) |
+| 26 | *lifnot ha-boqer* | at the turning of the morning |
+| 27 | *ve-hinneh ha-ishah* | The woman… was lying (no *here —*) |
+| 29 | *ha-ma'akhelet* | the knife (as Genesis 22:10) |
+| 29 | *va-yenatcheha la-atsameha* | cut her limb by limb |
+| 30 | *ve-hayah* (past habitual) | And it would come to pass |
+
+### Judges 20: War Against Benjamin
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *pinnot* | the leaders |
+| 5 | *ba'alei ha-Giv'ah* | the lords of Gibeah (as 9:2) |
+| 6 | *zimmah u-nevalah* | lewdness and outrage |
+| 7 | *havu lakhem davar ve-etsah* | Give your word and counsel |
+| 9, 13 | *ve-attah* | And now (in speech) |
+| 10 | *le-Geva Binyamin* | to Gibeah of Benjamin (***KEPT AS IS***: the Hebrew has *Geba*; the city is Gibeah) |
+| 11 | *chaverim* | united |
+| 13 | *u-neva'arah ra'ah* | purge the evil (as Deuteronomy 13:5) |
+| 16 | *lo yachati* | not miss (noted) |
+| 22 | *va-yitchazzeq* | took courage |
+| 31 | *honteqū* | were drawn away |
+| 33 | *mi-ma'areh Gava* | from the open ground of Geba (***KEPT AS IS***: obscure; the Greek has a place name) |
+| 34 | *nogaat aleihem ha-ra'ah* | disaster was close upon them |
+| 38 | *herev* | a great (***KEPT AS IS***: the word is unclear; the Greek leaves it out) |
+| 39 | *nigof niggaf* | They are surely struck down (doubled verb) |
+| 40 | *ve-hinneh alah khelil ha-ir* | the whole city was going up (noted; no *here —*) |
+| 43 | *menuchah hidrikhuhu* | trod them down at their resting place (***KEPT AS IS***; noted) |
+| 45 | *va-ye'olleluhu* | gleaned (noted) |
+| 48 | *me-ir metom ad behemah* | the whole city, people and animals |
+
+**Checks:** verse counts equal the Hebrew (13, 31, 30, 48); no banned words; no "And"-starts except *And it came to pass* (19:1), *And it would come to pass* (19:30) and *And now* in speech (20:9, 20:13); no *here —* or *look —*; notes 9, 10, 10, 10. Quotations checked against our rendered text (Genesis 18:5, 19:4–8, 22:10, 31:19, 34:3, 34:7, 50:21; Exodus 2:22, 28:41; Leviticus 1:6, 12; Numbers 14:7; Deuteronomy 12:8, 13:5, 13:16, 17:7, 27:15; Joshua 8:20, 13:14, 18:1, 19:47, 22) and the printed Hebrew (Isaiah 44:17; 1 Samuel 11:7). The Greek was checked against Swete (Judges 17:5; 18:3, 6, 7, 18, 28, 30, 31; 19:2, 3, 18, 22, 25, 28, 29, 30; 20:2, 15, 16, 33, 38, 43, 45, 48).
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **Judges 19:2, "whored against him" or "went away from him".** Now: *His concubine whored against him, and she left him and went to her father's house.* The Greek: *his concubine went away from him*, with no word of unfaithfulness. The context gives some weight to the Greek: an unfaithful concubine going home to her father is odd, and her husband goes after her *to speak to her heart* (v3), not to accuse her. But the context does not prove it, since the Hebrew reads plainly. My recommendation: keep the Hebrew, with the Greek in the note, as it is now.
+
 ## Judges 13–16 (routine ping, 7:52 AM Central, 2026-09-30)
 
 **Landed:** Judges 13, 14, 15, 16. Progress 417 → **421 of 1,989 (21.2%)**. Next is Judges 17.
