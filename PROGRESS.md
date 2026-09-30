@@ -1,8 +1,8 @@
 # Progress
 
-**493 of 1989 chapters rendered (24.8%).**
+**497 of 1989 chapters rendered (25.0%).**
 
-Next up: **1 Kings 9**
+Next up: **1 Kings 13**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Next up: **1 Kings 9**
 | 8 | Ruth | source | done |
 | 9 | 1 Samuel | source | done |
 | 10 | 2 Samuel | source | done |
-| 11 | 1 Kings | source | 8/22 |
+| 11 | 1 Kings | source | 12/22 |
 | 12 | 2 Kings | source | 0/25 |
 | 13 | 1 Chronicles | source | 0/29 |
 | 14 | 2 Chronicles | source | 0/36 |
