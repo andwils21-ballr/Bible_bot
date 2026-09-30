@@ -2,6 +2,102 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 8–11 (loop, cycle 5, 8:45 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 8, 9, 10, 11. Progress 437 → **441 of 1,989 (22.2%)**. Next is 1 Samuel 12.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **10:1**, *You shall reign over the people of the LORD and save them from the hand of their enemies all around. This shall be the sign to you that the LORD has anointed you leader over His inheritance.* In the Greek, not the Hebrew. The Hebrew never introduces the *signs* that vv2–9 give, and the missing words sit between two copies of *anointed you… leader*, the kind of gap an eye skipping from one to the other leaves. Noted.
+- **10:21**, *Then he brought the clan of the Matrites near man by man.* In the Greek; the Hebrew goes from the clan straight to Saul. The same tribe-clan-man order is followed in Joshua 7:16–18. Noted.
+
+### 1 Samuel 8: Israel Asks for a King
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yittu acharei ha-betsa* | They turned aside after gain |
+| 5, 6 | *le-shoftenu* | to judge us (noted) |
+| 6 | *va-yera ha-davar be-einei* | the thing was evil in Samuel's eyes |
+| 9 | *ha'ed ta'id* | solemnly warn (doubled verb) |
+| 9, 11 | *mishpat ha-melekh* | the ways of the king (noted) |
+| 12 | *la-charosh charisho ve-liqtsor qetsiro* | to plow his ground and to reap his harvest (doubled words) |
+| 13 | *raqqachot* | perfumers |
+| 15 | *sarisav* | his officials |
+| 15, 17 | *ya'sor* | He will take a tenth (noted) |
+| 16 | *bachureikhem* | your young men (***KEPT AS IS***: the Greek has *your cattle*; noted) |
+| 18 | *mi-lifnei malkekhem* | because of your king |
+
+### 1 Samuel 9: Saul and the Lost Donkeys
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *mbn ymyn*, read *mi-Binyamin* | of Benjamin (the reading followed; noted) |
+| 1 | *gibbor chayil* | a man of worth (as Ruth 2:1; still open in `PASTE/renders/8-ruth.md`) |
+| 2 | *bachur va-tov* | a choice young man and handsome |
+| 5 | *pen* | or |
+| 6 | *ve-ha-ish nikhbad* | the man is held in honor |
+| 6 | *bo yavo* | comes true (doubled verb; noted) |
+| 7 | *teshurah* | gift |
+| 9 | parenthesis | set in parentheses, as the narrator's aside (noted) |
+| 12 | *ha-bamah* | the high place |
+| 14 | *ve-hinneh Shemu'el yotse* | Samuel was coming out (no *here —*) |
+| 15 | *galah et ozen* | had revealed to (literally *uncovered the ear of*) |
+| 16 | *nagid* | leader (noted) |
+| 17 | *hinneh ha-ish* | There is the man (a presentation) |
+| 17 | *ya'tsor* | restrain (***KEPT AS IS***: unusual word; noted) |
+| 20 | *chemdat Yisra'el* | the desire of Israel (noted) |
+| 24 | *ha-shoq ve-he'aleha* | the thigh and what was on it (noted) |
+| 24 | *lemor ha-am qarati* | since I said, 'I have invited the people' (***KEPT AS IS***: compressed; noted) |
+| 25 | *va-yedabber* | he spoke (***KEPT AS IS***: the Greek *they spread a bed*; noted) |
+| 26 | written *ha-gag*, read *ha-gaggah* | on the roof (the reading followed) |
+
+### 1 Samuel 10: Saul Anointed and Chosen
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | Greek addition | You shall reign… This shall be the sign (Greek followed; noted) |
+| 1 | *pakh ha-shemen* | the flask of oil (noted) |
+| 2 | *natash… et divrei ha-atonot* | has stopped caring about the donkeys |
+| 5 | *netsivei Pelishtim* | the Philistine garrison (noted) |
+| 5 | *chevel nevi'im* | a band of prophets |
+| 5 | *va-yehi* (future) | And it shall come to pass (formula) |
+| 6, 10 | *ve-tsalchah* | will rush on (as Judges 14:6; noted) |
+| 7 | written *tvy'ynh*, read *tavonah* | come (the reading followed) |
+| 7 | *aseh lekha asher timtsa yadekha* | do whatever you find to do |
+| 9 | *ve-hayah ki-hafnoto* | When he turned (***KEPT AS IS***: *ve-hayah* opens a single past event; the formula is not used, as at 1:12) |
+| 9 | *va-yahafokh lo Elohim lev acher* | God gave him another heart |
+| 11 | *etmol shilshom* | before |
+| 12 | *u-mi avihem* | But who is their father? (***KEPT AS IS***; noted) |
+| 14 | *dod Sha'ul* | Saul's uncle |
+| 16 | *haggged higgid* | He told us plainly (doubled verb) |
+| 19 | *le-alfeikhem* | by your thousands |
+| 21 | written *lmshpchtw*, read *le-mishpechotav* | by its clans (the reading followed) |
+| 21 | Greek addition | Then he brought the clan of the Matrites near man by man (Greek followed; noted) |
+| 22 | *el ha-kelim* | among the baggage |
+| 24 | *yechi ha-melekh* | Long live the king! |
+| 25 | *mishpat ha-melukhah* | the rule of the kingship (noted) |
+| 26 | *ha-chayil* | the men of valor |
+| 27 | *vay-hi ke-macharish* | But he kept silent (noted at 11:1) |
+
+### 1 Samuel 11: Saul Rescues Jabesh-gilead
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Nachash* | Nahash (meaning in the note) |
+| 2 | *bi-neqor* | that I gouge out |
+| 3 | *heref lanu* | Give us |
+| 5 | *ve-hinneh Sha'ul ba* | Just then Saul was coming (no *here —*) |
+| 6 | written *bshm'w*, read *ke-shom'o* | when he heard (the reading followed) |
+| 7 | *pachad YHWH* | The dread of the LORD |
+| 9 | written *bchm*, read *ke-chom* | by the time the sun is hot (the reading followed) |
+| 11 | *be-ashmoret ha-boqer* | in the morning watch (as Exodus 14:24; noted) |
+| 14 | *u-nechaddesh sham ha-melukhah* | renew the kingdom (noted) |
+
+**Checks:** verse counts equal the Hebrew (22, 27, 27, 15); no banned words; no "And"-starts except *And it came to pass* (8:1), *And it shall come to pass* (10:5, 10:7) and *And now* in speech (8:9); no *here —* or *look —*; 10 notes each. Quotations checked against our rendered text (Genesis 35:19–20; Exodus 3:9, 14:24, 18:21; Leviticus 7:32; Deuteronomy 16:19, 17:14, 17:18; Joshua 4:19, 7:16–18; Judges 3:9, 6:15, 7:16, 8:23, 14:6, 19:29, 20:1, 21:8–14; Ruth 2:1, 4:7) and the printed Hebrew (1 Samuel 16:7, 19:24, 31:11–13; 2 Kings 9:1). The Greek was checked against Swete (8:16; 9:1, 17, 20, 24, 25, 26; 10:1, 2, 5, 12, 21, 27; 11:1, 2, 8, 12, 14, 15).
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new. (*Gibbor chayil*, 9:1, follows the open choice in Ruth 2:1.)
+
 ## 1 Samuel 4–7 (loop, cycle 4, 8:38 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 4, 5, 6, 7. Progress 433 → **437 of 1,989 (22.0%)**. Next is 1 Samuel 8.
