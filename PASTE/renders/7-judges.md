@@ -2,6 +2,92 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judges 9–12 (routine ping, 10:51 PM Central, 2026-09-29)
+
+**Landed:** Judges 9, 10, 11, 12. Progress 413 → **417 of 1,989 (21.0%)**. Next is Judges 13, Samson.
+
+*The spirit of the LORD* (11:29) stays lowercase, following the choice still open from Judges 3 (`NOTES_FOR_ANDREW.md`).
+
+### Judges 9: Abimelech, and Jotham's Fable
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 (and 15 more) | *ba'alei Shekhem* | the lords of Shechem (as Joshua 24:11 *the lords of Jericho*; noted) |
+| 2 | *atsmekhem u-vesarkhem* | your bone and your flesh (as Genesis 29:14) |
+| 4 | *anashim reqim u-fochazim* | worthless and reckless men |
+| 6 | *elon mutsav* | the oak of the pillar (noted) |
+| 8 | *halokh halkhu* | once went out (doubled verb) |
+| 8 | written *mlwkh*, read *malkhah* | Reign (the reading followed; same meaning) |
+| 9, 11, 13 | *lanua al ha-etsim* | to sway over the trees (noted) |
+| 9 | *dishni* | my richness |
+| 16, 19 | *be-emet u-ve-tamim* | in truth and wholeness (fixed *tamim* of a person) |
+| 16 | *ki-gmul yadav* | as his deeds deserved |
+| 17 | *va-yashlekh et nafsho mi-neged* | risked his life |
+| 22 | *va-yasar* | ruled |
+| 24 | *chamas* | the violence |
+| 29 | *va-yomer la-Avimelekh* | Then he said to Abimelech (***KEPT AS IS***: the Greek has *I would say to him*) |
+| 31 | *be-tormah* | secretly (the Greek has the same; some read it as a place, *Tormah*) |
+| 33 | *ka'asher timtsa yadekha* | whatever you can |
+| 37 | *tabbur ha-arets* | the navel of the land (noted) |
+| 38 | *ayyeh efo fikha* | Where is your mouth now (***KEPT AS IS***: the taunt is plain enough) |
+| 48, 49 | *sokhat etsim* / *sokho* | a branch / his branch |
+| 53 | *pelach rekhev* | an upper millstone (noted) |
+| 54 | *pen* | or |
+
+### Judges 10: Tola, Jair, and the Ammonites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ayarim… ayarim* | donkeys… towns (noted: one spelling) |
+| 8 | *va-yir'atsu va-yerotsetsu* | shattered and crushed (noted) |
+| 12 | *u-Ma'on* | Maon (***KEPT AS IS***: see Choices) |
+| 16 | *va-tiqtsar nafsho* | He could bear… no longer (noted; as Numbers 21:4) |
+| 17 | *va-yitsa'aqu* | were called out |
+
+### Judges 11: Jephthah and His Vow
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ben ishah zonah* | the son of a prostitute (as Joshua 2:1) |
+| 3 | *va-yetse'u immo* | went out raiding with him |
+| 6, 8, 11 | *qatsin* / *rosh* | commander / head (noted) |
+| 10 | *YHWH yihyeh shome'a beinoteinu* | The LORD will be the witness between us |
+| 12 | *mah li va-lakh* | What do you have against me |
+| 13 | *otehen* | those lands |
+| 25 | *ha-tov tov* / *ha-rov rav* / *nilchom nilcham* | are you any better / Did he ever strive / did he ever fight (doubled verbs) |
+| 26 | *benoteha* | its towns (as 1:27) |
+| 30 | *va-yiddar neder* | made a vow (doubled word) |
+| 30 | *naton titten* | If You will give (doubled verb) |
+| 31 | *ha-yotse asher yetse* | whoever comes out (***KEPT AS IS***: *whoever* or *whatever*; noted) |
+| 34 | *ve-hinneh vitto yotset* | his daughter came out (no *here —*) |
+| 34 | *yechidah* | his only child (noted, with Genesis 22:2) |
+| 35 | *hakhrea hikhra'tini* | You have brought me very low (doubled verb) |
+| 35 | *be-okhrai* | the one who troubles me (noted; as Joshua 7:25) |
+| 37 | *ve-yaradti al he-harim* | go down on the mountains (***KEPT AS IS***: *go down* is the Hebrew and the Greek) |
+| 37 | written *r'yty*, read *re'otai* | my companions (the reading followed; same meaning) |
+| 39 | *choq* | a custom |
+| 40 | *letannot* | to tell of (noted; the Greek *to mourn*) |
+
+### Judges 12: Shibboleth, and Three Judges
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tsafonah* | to Zaphon (noted: may be *northward*) |
+| 3 | *va-asimah nafshi ve-khappi* | I took my life in my hands (noted) |
+| 4 | whole clause | You are fugitives of Ephraim, you Gileadites (***KEPT AS IS***: obscure; noted) |
+| 5 | *ve-hayah ki* (past habitual) | And it would come to pass, whenever |
+| 6 | *shibbolet* / *sibbolet* | Shibboleth / Sibboleth (noted) |
+| 6 | *lo yakhin* | could not pronounce it right |
+| 7 | *be-arei Gil'ad* | in one of the cities of Gilead (***KEPT AS IS***: the plural is odd; noted) |
+| 9 | *shillach ha-chutsah* | gave in marriage outside his clan |
+
+**Checks:** verse counts equal the Hebrew (57, 18, 40, 15); no banned words; no "And"-starts except *And it came to pass* (9:42, 11:4, 11:35, 11:39), *And it shall come to pass* (9:33), *And it would come to pass* (12:5) and *And now* in speech (9:16, 9:32, 11:13, 11:23, 11:25); no *here —* or *look —*; notes 10, 9, 10, 9. The count of *ba'alei* in chapter 9 (16) was taken from the printed Hebrew. Quotations checked against our rendered text (Genesis 22:2, 29:14, 34:2, 46:13; Exodus 15:20; Numbers 20:14–21, 21:4, 21:21–31, 21:26, 21:29, 30:2, 32:41; Deuteronomy 18:10, 32:37–38; Joshua 2:1, 7:25, 13:27, 24:26) and the printed Hebrew (Isaiah 42:3; Ezekiel 38:12; 1 Kings 11:5; 2 Samuel 11:21). The Greek was checked against Swete (Judges 9:6, 29, 31, 37, 46; 10:4, 12, 16; 11:31, 37, 39, 40; 12:1, 4, 6, 7).
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **Judges 10:12, "Maon" or "Midian".** Now: *When the Sidonians, Amalek and Maon oppressed you, and you cried out to Me, I saved you from their hand.* The Greek has *Midian*. The context backs the Greek: Midian is the great oppressor of chapters 6–8 (6:1, *the LORD gave them into the hand of Midian*), and Maon is never named as an oppressor anywhere in the book. My recommendation: follow the Greek. It is a list of oppressors the LORD saved them from, and Midian is the one the book has just spent three chapters on.
+
 ## Judges 5–8 (routine ping, 5:52 PM Central, 2026-09-29)
 
 **Landed:** Judges 5, 6, 7, 8. Progress 409 → **413 of 1,989 (20.8%)**. Next is Judges 9.
