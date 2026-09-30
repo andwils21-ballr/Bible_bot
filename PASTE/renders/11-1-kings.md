@@ -2,6 +2,64 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Kings 21–22 (loop, cycle 22, 2:11 PM Central, 2026-09-30)
+
+**Landed:** 1 Kings 21, 22. **1 Kings is complete.** This cycle also rendered 2 Kings 1–2 (report in `12-2-kings.md`). Progress 505 → **509 of 1,989 (25.6%)**.
+
+**Versification:** English 22:43 is Hebrew 22:43–44, and English 22:44–53 is Hebrew 22:45–54.
+
+**Departures from the Hebrew:** none.
+
+### 1 Kings 21: Naboth's Vineyard
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 15, 16, 27 | *va-yehi* | And it came to pass (formula) |
+| 2 | *le-gan yaraq* | for a vegetable garden |
+| 3 | *chalilah li me-YHWH* | The LORD forbid (noted) |
+| 4, 5 | *sar ve-za'ef*, *ruchakha sarah* | sullen and vexed, your spirit so sullen (noted) |
+| 7 | *attah attah ta'aseh melukhah* | Is it you who now rule over Israel? (noted) |
+| 8 | written *ha-sefarim*, read *sefarim* | the letters (spelling only) |
+| 8, 11 | *ha-chorim* | the nobles |
+| 10, 13 | *benei veliyya'al* | worthless men (noted) |
+| 10, 13 | *berakhta Elohim* | You cursed God (literally *blessed*; noted) |
+| 18 | *hinneh be-kherem Navot* | He is in the vineyard of Naboth (no *here —*) |
+| 19 | *ha-ratsachta ve-gam yarashta* | Have you murdered and also taken possession? (noted) |
+| 20 | *hitmakkerkha* | you have sold yourself (noted) |
+| 21 | written *mevi*, read *mevi* (spelling) | I am about to bring |
+| 23 | *be-chel Yizre'el* | by the rampart of Jezreel (***KEPT AS IS***: 2 Kings 9:36 has *portion*; noted) |
+| 26 | *va-yat'ev* | He acted very detestably (fixed term; noted) |
+| 27 | *va-yehallekh at* | went about softly (noted) |
+
+### 1 Kings 22: Micaiah and the Death of Ahab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 32, 33 | *va-yehi* | And it came to pass (formula) |
+| 4 | *kamoni khamokha* | I am as you are |
+| 13 | written *devarekha*, read *devarkha* | your word (the reading followed) |
+| 11 | *qarnei varzel* | horns of iron (noted) |
+| 17 | *ke-tso'n asher ein lahem ro'eh* | like sheep that have no shepherd (as Numbers 27:17; noted) |
+| 20–22 | *yefatteh* | entice |
+| 21–23 | *ha-ruach*, *ruach sheqer* | a spirit, a lying spirit (lowercase; noted) |
+| 23 | *ve-attah* | So now (in speech; consequence) |
+| 24 | *ruach YHWH* | the Spirit of the LORD (fixed) |
+| 27 | *lechem lachats u-mayim lachats* | a scant ration of bread and water |
+| 28 | *shim'u ammim kullam* | Hear, all you peoples! (noted: the Greek lacks it) |
+| 34 | *le-tummo* | at random (noted) |
+| 34 | *bein ha-devaqim u-vein ha-shiryan* | between the joints of his armor |
+| 38 | *ve-ha-zonot rachatsu* | the prostitutes washed themselves (fixed term; noted) |
+| 43 | (Hebrew 22:43–44) | one verse (noted) |
+| 47 | *nitsav melekh* | a deputy was king |
+| 48 | written *asar*, read *asah* | made (the reading followed; noted) |
+| 48 | written *nishberah*, read *nishberu* | were wrecked (the reading followed) |
+
+**Checks:** verse counts equal the Hebrew (29; 54 − 1 = 53); no banned words; no "And"-starts except *And it came to pass* and *And now* in speech; no *here —* or *look —*; notes 10, 10. Quotations checked against our rendered text (Exodus 22:28; Leviticus 25:23; Numbers 27:17, 36:7; Deuteronomy 17:6, 33:17) and the printed Hebrew (2 Kings 9:26, 9:36; Job 2:9; Isaiah 6:1; Micah 1:2; Amos 3:15; 2 Chronicles 20:37). The Greek (in which these chapters are 20 and 22) was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Kings 17–20 (loop, cycle 21, 2:05 PM Central, 2026-09-30)
 
 **Landed:** 1 Kings 17, 18, 19, 20. Progress 501 → **505 of 1,989 (25.4%)**. Next is 1 Kings 21.
