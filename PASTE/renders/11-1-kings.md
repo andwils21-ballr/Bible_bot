@@ -2,6 +2,115 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Kings 5–8 (loop, cycle 18, 1:45 PM Central, 2026-09-30)
+
+**Landed:** 1 Kings 5, 6, 7, 8. Progress 489 → **493 of 1,989 (24.8%)**. Next is 1 Kings 9.
+
+**Versification:** English 5:1–18 is Hebrew 5:15–32. In the Greek, 1 Kings 6–7 are ordered differently (Swete's 6:1–34; 7:1–37 = Hebrew 7:13–51 and 7:38–50 = Hebrew 7:1–12), and it lacks 6:11–14.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **5:11**, *twenty thousand baths of beaten oil*. The Hebrew has *twenty cors*; the Greek and 2 Chronicles 2:10 have *twenty thousand baths*. Noted.
+- **6:8**, *The entrance for the lowest side chambers*. The Hebrew has *the middle*, though the stairs go up from there *to the middle story*; the Greek has *the lower*. Noted.
+- **7:18**, *He made the pomegranates, two rows around on the one network… on the top of the pillar*. In the Hebrew *pillars* and *pomegranates* have changed places; the Greek and v42 have the pomegranates in rows on the networks. Noted.
+- **8:16**, *But I have chosen Jerusalem, that My name might be there, and*. Missing in the Hebrew between two clauses that end alike; the Greek and 2 Chronicles 6:5–6 have it. Noted.
+
+### 1 Kings 5: Solomon and Hiram
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–18 | (Hebrew 5:15–32) | English numbering (noted) |
+| 1 | *ohev hayah Chiram le-David* | Hiram had always been a friend of David (noted) |
+| 3 | written *raglo*, read *raglav* | his feet (the reading followed) |
+| 4 | *ein satan ve-ein pega ra* | no adversary and no misfortune (noted) |
+| 9 | *dovrot* | rafts (noted: found only here) |
+| 9 | *ve-atta tissa* | and you shall take it away |
+| 11 | *esrim kor shemen katit* | twenty thousand baths of beaten oil (Greek and Chronicles followed; noted) |
+| 13–14 | *mas* | forced labor (noted) |
+| 14 | *chalifot* | in relays |
+| 16 | *sheloshet alafim ve-shelosh me'ot* | three thousand three hundred (***KEPT AS IS***: Greek and Chronicles 3,600; the totals with 9:23 and 2 Chronicles 8:10 agree; noted) |
+| 18 | *ha-givlim* | the men of Gebal (noted) |
+
+### 1 Kings 6: Solomon Builds the House of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi* | And it came to pass (formula) |
+| 1 | *bi-shmonim shanah ve-arba me'ot shanah* | the four hundred and eightieth year (***KEPT AS IS***: Greek 440; noted) |
+| 3 | *ha-ulam*, *heikhal* | the porch, the nave (noted) |
+| 4 | *chalonei shequfim atumim* | windows with recessed frames (***KEPT AS IS***: sense uncertain) |
+| 5, 6, 10 | written *yatsu'a*, read *yatsi'a* | the side structure (the reading followed) |
+| 6 | *migra'ot* | offsets |
+| 7 | *even shelemah massa* | stone finished at the quarry (noted) |
+| 8 | *ha-tikhonah* | the lowest (Greek followed; noted) |
+| 8 | *lulim* | winding stairs |
+| 11–14 | the word of the LORD | kept (noted: the Greek lacks it) |
+| 16 | written *mi-yarkoti*, read *mi-yarketei* | at the rear (the reading followed) |
+| 16 | *qodesh ha-qodashim* | the Most Holy Place (noted) |
+| 18 | *peqa'im u-feturei tsitsim* | gourds and open flowers (noted) |
+| 20 | *zahav sagur* | pure gold |
+| 21 | written *be-rattiqot*, read *be-rattuqot* | chains (the reading followed) |
+| 23 | *atsei shemen* | olivewood (noted) |
+| 31, 33 | *chamishit*, *me'et revi'it* | five-sided, four-sided (***KEPT AS IS***: sense uncertain; noted) |
+| 34 | *gelilim* | turned on pivots |
+| 38 | written *mishpato*, read *mishpatav* | its specifications (the reading followed) |
+| 1, 37, 38 | *Ziv*, *Bul* | Ziv, Bul (old month names; noted) |
+
+### 1 Kings 7: Solomon's Palace and the Furnishings of the House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–12 | (Greek 7:38–50) | Hebrew order kept (noted) |
+| 3 | *arba'im va-chamishah chamishah asar ha-tur* | forty-five of them, fifteen in a row |
+| 4–5 | *shequfim*, *mechezeh el mechezeh* | window frames, window faced window (***KEPT AS IS***: terms uncertain; noted) |
+| 6 | *ve-av* | a canopy (***KEPT AS IS***) |
+| 7 | *me-ha-qarqa ad ha-qarqa* | from floor to floor (***KEPT AS IS***; noted) |
+| 9 | *ad ha-tefachot* | to the coping |
+| 14 | *ben ishah almanah* | the son of a widow (noted) |
+| 15 | *ve-chut shetem esreh ammah* | a line of twelve cubits (noted: Greek fourteen) |
+| 17–20, 28–36 | *sevakhim*, *gedilim*, *misgerot*, *shelabbim*, *loyot*, *chishurim* | networks, wreaths, panels, frames, wreaths, hubs (***KEPT AS IS***: technical terms uncertain; noted) |
+| 18 | *ha-ammudim… ha-rimmonim* | the pomegranates… the pillar (Greek followed; noted) |
+| 20 | written *sevakhah*, read *ha-sevakhah* | the network (the reading followed) |
+| 21 | *Yakhin*, *Bo'az* | Jachin, Boaz (noted) |
+| 23 | written *qaveh*, read *qav* | a line (the reading followed; noted) |
+| 23 | *ha-yam mutsaq* | the sea of cast metal |
+| 26 | *alpayim bat* | two thousand baths (***KEPT AS IS***: Chronicles three thousand; noted) |
+| 27 | *arba… arba… shalosh* | four, four, three cubits (***KEPT AS IS***: the Greek has five, four, six) |
+| 36 | written *ve-al misgerotav*, read *u-misgerotav* | and on its panels (the reading followed) |
+| 40 | written *Chirom*, read *Chiram* | Hiram (the reading followed) |
+| 45 | written *ha-ohel*, read *ha-elleh* | All these (the reading followed) |
+| 45 | *nechoshet memorat* | burnished bronze |
+| 46 | *be-ma'aveh ha-adamah* | in the clay ground |
+
+### 1 Kings 8: The Dedication of the House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Etanim* | Ethanim (noted) |
+| 10, 54 | *va-yehi* | And it came to pass (formula) |
+| 12–13 | Solomon's words | set as poetry; Greek placement not taken (noted) |
+| 13 | *beit zevul* | an exalted house (noted) |
+| 16 | (missing clause) | But I have chosen Jerusalem… (Greek and Chronicles followed; noted) |
+| 25, 26 | *ve-attah* | And now (in speech) |
+| 26 | written *devarekha*, read *devarkha* | Your word (the reading followed) |
+| 27 | *shemei ha-shamayim* | the highest heavens (noted) |
+| 32 | *le-harshi'a rasha… u-le-hatsdiq tsaddiq* | condemning the guilty… vindicating the righteous |
+| 37 | *shiddafon yeraqon* | scorching or mildew (as Deuteronomy 28:22; noted) |
+| 37 | *be-erets she'arav* | in the land of their gates (***KEPT AS IS***) |
+| 38 | *nega levavo* | the blow of his own heart |
+| 41 | *ha-nokhri* | the foreigner |
+| 45, 49, 59 | *ve-asita mishpatam* | uphold their cause |
+| 48 | written *banita*, read *baniti* | I have built (the reading followed) |
+| 51 | *kur ha-barzel* | the iron furnace (noted) |
+| 53 | *Adonai YHWH* | Lord GOD (fixed) |
+| 61 | *levavkhem shalem* | your heart… be whole |
+| 65 | *shiv'at yamim ve-shiv'at yamim* | seven days and seven days (***KEPT AS IS***: Greek seven; noted) |
+
+**Checks:** verse counts equal the Hebrew (18 = Hebrew 5:15–32; 38; 51; 66); no banned words; no "And"-starts except *And it came to pass* (6:1, 8:10, 8:54) and *And now* in speech (8:25, 8:26); no *here —* or *look —*; notes 10, 10, 10, 10. Quotations checked against our rendered text (Exodus 20:21, 20:25, 25:8, 25:18–20, 25:31, 31:3, 31:6, 40:35; Leviticus 23:34; Deuteronomy 4:20, 27:5, 28:22; Joshua 21:45; Ruth 4:21–22; 2 Samuel 5:11, 7:13) and the printed Hebrew (1 Kings 9:22–23, 11:14, 12:4; 2 Kings 4:39, 25:17; 1 Chronicles 22:8; 2 Chronicles 2:10, 2:14, 2:18, 3:15, 4:2, 4:5, 6:5–6, 7:9–10, 8:10). *Dovrot* and the building terms were searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes, allowing for its different order.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Kings 1–4 (loop, cycle 17, 1:37 PM Central, 2026-09-30)
 
 **Landed:** 1 Kings 1, 2, 3, 4. Progress 485 → **489 of 1,989 (24.6%)**. Next is 1 Kings 5.
