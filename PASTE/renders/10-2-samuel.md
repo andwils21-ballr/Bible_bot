@@ -2,6 +2,93 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 5–8 (loop, cycle 12, 1:00 PM Central, 2026-09-30)
+
+**Landed:** 2 Samuel 5, 6, 7, 8. Progress 465 → **469 of 1,989 (23.6%)**. Next is 2 Samuel 9.
+
+**Departures from the Hebrew, by your witnesses rule** (each backed by the Greek and by the parallel in Chronicles):
+- **6:5**, *with all their might and with songs*. The Hebrew has *with all kinds of cypress wood*, *be-khol atsei veroshim*; 1 Chronicles 13:8 has *be-khol oz u-ve-shirim*, and the Greek agrees. Noted.
+- **8:4**, *a thousand chariots, seven thousand horsemen*. The Hebrew has *a thousand seven hundred horsemen* and no chariots, though the verse goes on to the chariot horses and *a hundred chariots*. 1 Chronicles 18:4 and the Greek have the chariots. Noted.
+- **8:13**, *Edomites*. The Hebrew has *Aram*; the Greek and 1 Chronicles 18:12 have *Edom*, and the next verse puts garrisons in Edom. The two names differ by one Hebrew letter. Noted.
+
+### 2 Samuel 5: David King over All Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hinnenu atsmekha u-vesarekha* | We are your bone and your flesh (noted) |
+| 2 | written *hyyth… mwtsy'… vhmby*, read *hayita ha-motsi ve-ha-mevi* | it was you who led Israel out and brought them in (the reading followed) |
+| 2 | *tir'eh* | You shall shepherd (noted) |
+| 6 | *ki im hesirkha ha-ivrim ve-ha-pisechim* | even the blind and the lame will turn you away (***KEPT AS IS***: hard Hebrew; noted) |
+| 8 | *ve-yigga ba-tsinnor* | let him get up the water shaft (***KEPT AS IS***: word uncertain; noted) |
+| 8 | written *sn'w*, read *sen'u* | who are hated (the reading followed) |
+| 9 | *min ha-millo va-baytah* | from the Millo inward |
+| 10 | *holekh ve-gadol* | grew greater and greater (noted) |
+| 11 | *charashei even qir* | stonemasons |
+| 20 | *Ba'al Peratsim* | Baal-perazim (noted) |
+| 23, 24 | *ha-bekha'im* | the balsam trees (***KEPT AS IS***: tree uncertain; noted) |
+| 24 | *vi-hi* (written *bshm'k*, read *ke-shom'akha*) | And it shall come to pass, when you hear (formula; the reading followed) |
+| 24 | *techerats* | act quickly |
+
+### 2 Samuel 6: The Ark Brought to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *mi-Ba'alei Yehudah* | from Baale-judah (noted) |
+| 2 | *nikra shem shem* | called by the name, the name (***KEPT AS IS***: doubled in the Hebrew; noted) |
+| 3–4 | repeated clause | kept both times (***KEPT AS IS***; noted) |
+| 5 | *be-khol atsei veroshim* | with all their might and with songs (Greek and Chronicles followed; noted) |
+| 5 | *menaan'im* | rattles |
+| 6 | *va-yishlach Uzza el aron* | Uzzah put out his hand to the ark (*his hand* understood, as Chronicles; ruling on *shalach*) |
+| 7 | *al ha-shal* | for his error (noted: word found only here) |
+| 13 | *shor u-meri* | an ox and a fatted calf |
+| 14 | *mekharker* | danced (noted: *whirling*) |
+| 16 | *ve-hayah* | As (***KEPT AS IS***: *ve-hayah* opens a single past event; the formula is not used) |
+| 16 | *mefazzez u-mekharker* | leaping and dancing |
+| 19 | *eshpar* | a portion of meat (***KEPT AS IS***: word uncertain; noted) |
+| 20 | *ha-reqim* | the empty fellows |
+| 22 | *u-neqalloti od mi-zot* | I will make myself even more lightly esteemed than this |
+
+### 2 Samuel 7: The LORD's Covenant with David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 4 | *va-yehi* | And it came to pass (formula) |
+| 2 | *yeri'ah* | curtains (noted) |
+| 5 | *ha-attah tivneh li* | Will you build Me (a question; noted) |
+| 6 | *be-ohel u-ve-mishkan* | in a tent for My dwelling |
+| 8 | *min ha-naveh* | from the pasture (noted) |
+| 11 | *bayit ya'aseh lekha YHWH* | the LORD will make you a house (noted) |
+| 14 | *be-shevet anashim u-ve-nig'ei benei adam* | with the rod of men and with the blows of the sons of men |
+| 18–29 | *Adonai YHWH* | Lord GOD (fixed; noted) |
+| 19 | *ve-zot torat ha-adam* | And this is the instruction for mankind (***KEPT AS IS***: sense uncertain; noted) |
+| 23 | *goyim ve-elohav* | from nations and their gods (***KEPT AS IS***: hard Hebrew; noted) |
+| 25, 28, 29 | *ve-attah* | And now (in speech) |
+| 27 | *galita et ozen* | have made it known (literally *uncovered the ear*) |
+| 27 | *matsa… et libbo* | has found courage |
+
+### 2 Samuel 8: David's Victories
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi* | And it came to pass (formula) |
+| 1 | *meteg ha-ammah* | Metheg-ammah (***KEPT AS IS***: meaning uncertain; noted) |
+| 2 | *noseh minchah* | brought tribute |
+| 3 | *le-hashiv yado* | to restore his power (literally *hand*) |
+| 4 | Hebrew *1,700 horsemen* | a thousand chariots, seven thousand horsemen (Greek and Chronicles followed; noted) |
+| 4 | *va-ye'aqqer* | hamstrung (as Joshua 11:6; noted) |
+| 6, 14 | *va-yosha YHWH* | The LORD gave… victory (noted) |
+| 7 | *shiltei ha-zahav* | the shields of gold |
+| 13 | *Aram* | Edomites (Greek and Chronicles followed; noted) |
+| 16 | *mazkir* | recorder |
+| 17 | *Achimelekh ben Evyatar* | Ahimelech son of Abiathar (***KEPT AS IS***: reversed from 1 Samuel 22:20; noted) |
+| 18 | *kohanim* | priests (***KEPT AS IS***: Chronicles and the Greek differ; noted) |
+
+**Checks:** verse counts equal the Hebrew (25, 23, 29, 18); no banned words; no "And"-starts except *And it came to pass* (7:1, 7:4, 8:1), *And it shall come to pass* (5:24) and *And now* in speech (7:25, 7:28, 7:29); no *here —* or *look —*; notes 9, 10, 10, 10. Quotations checked against our rendered text (Genesis 18:19, 29:14; Exodus 15:17, 25:14; Numbers 4:15; Deuteronomy 7:25, 12:10–11, 17:17; Joshua 11:6, 15:9; 1 Samuel 2:18, 2:26, 2:35, 4:11, 6:7, 7:1–2, 9:16, 13:14, 16:11, 16:13, 18:18, 18:20, 19:12, 22:3–4, 22:18, 22:20, 25:28) and the printed Hebrew (1 Chronicles 13:8–10, 14:12, 14:14–15, 16:3, 17:4, 17:17, 17:21, 18:1, 18:4, 18:8, 18:12, 18:17; Psalms 42:7, 60 heading). Hebrews 1:5 checked in the Greek New Testament. *Tsinnor*, *eshpar*, *ha-shal*, *bekha'im* and *mekharker* were searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 2 Samuel 1–4 (loop, cycle 11, 12:54 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 1, 2, 3, 4. Progress 461 → **465 of 1,989 (23.4%)**. Next is 2 Samuel 5.
