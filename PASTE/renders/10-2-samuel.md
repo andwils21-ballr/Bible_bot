@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## 2 Samuel 1–4 (loop, cycle 11, 1:05 PM Central, 2026-09-30)
+## 2 Samuel 1–4 (loop, cycle 11, 12:54 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 1, 2, 3, 4. Progress 461 → **465 of 1,989 (23.4%)**. Next is 2 Samuel 5.
 
