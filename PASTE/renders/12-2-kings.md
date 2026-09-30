@@ -2,6 +2,94 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 7–10 (loop, cycle 24, 5:55 PM Central, 2026-09-30)
+
+**Landed:** 2 Kings 7, 8, 9, 10. Progress 513 → **517 of 1,989 (26.0%)**. Next is 2 Kings 11.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **7:13**, *which remain in the city — they are like all the multitude of Israel that have already perished*. The Hebrew writes the clause *which remain in it, they are like all the multitude of Israel* twice; the Greek has it once. Noted.
+
+### 2 Kings 7: The Siege Lifted
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 17, 19 | *ha-shalish asher la-melekh nish'an al yado* | the officer on whose arm the king leaned (noted) |
+| 2, 19 | *arubbot ba-shamayim* | lattices in the heavens (as Genesis 7:11; noted) |
+| 3, 8 | *metsora'im* | men with blight (fixed term; noted) |
+| 5, 10 | *ve-hinneh ein sham ish* | there was no one there (no *here —*) |
+| 6 | *Adonai* | the Lord (noted) |
+| 9 | *yom besorah* | a day of good news (noted) |
+| 9 | *u-matsa'nu avon* | punishment will overtake us |
+| 12 | written *ba-hasadeh*, read *va-sadeh* | in the open country (the reading followed) |
+| 13 | (clause written twice) | once (Greek followed; noted) |
+| 15 | written *be-hechafzam*, read *be-chofzam* | in their haste (the reading followed) |
+| 18 | *va-yehi* | For it came to pass |
+| 20 | *va-yehi lo khen* | So it happened to him |
+
+### 2 Kings 8: Hazael, Jehoram and Ahaziah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–2 | *guri… va-tagor* | live as a guest (fixed term; noted) |
+| 3, 5 | *va-yehi* | And it came to pass (formula) |
+| 5 | *ve-hinneh ha-ishah* | the woman… appealed (no *here —*) |
+| 9 | *kol tuv Dammeseq* | all kinds of good things of Damascus |
+| 10 | written *lo* (not), read *lo* (to him) | say to him, 'You shall surely recover' (the reading followed; noted) |
+| 11 | *va-ya'amed et panav va-yasem ad bosh* | He fixed his gaze and stared until he was ashamed (***KEPT AS IS***: who is not said; noted) |
+| 13 | *ha-kelev* | the dog (noted) |
+| 15 | *ha-makhber* | the blanket (***KEPT AS IS***: the word as pointed is found only here; noted) |
+| 15 | (no subject) | he took (***KEPT AS IS***; noted) |
+| 16 | *vi-Yhoshafat melekh Yehudah* | Jehoshaphat being king of Judah (***KEPT AS IS***; noted) |
+| 19 | *nir* | a lamp (noted) |
+| 26 | *bat Omri* | the daughter of Omri (noted) |
+
+### 2 Kings 9: Jehu Anointed
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 3 | *pakh ha-shemen* | this flask of oil (as 1 Samuel 10:1; noted) |
+| 4 | *ha-na'ar ha-na'ar ha-navi* | the young man, the young prophet |
+| 8 | *mashtin be-qir* | every male (as before) |
+| 10, 21, 25, 36, 37 | *chelqat*, *chelek Yizre'el* | the plot of ground (noted) |
+| 11, 20 | *meshugga*, *be-shigga'on* | madman, like a madman (noted) |
+| 13 | *el gerem ha-ma'alot* | on the bare steps |
+| 15 | written *le-gid*, read *le-haggid* | to tell (the reading followed) |
+| 17 | *shif'ah* | a company |
+| 22 | *ha-shalom*; *zenunei* | Is it peace; the whoring (fixed term; noted) |
+| 22 | *va-yehi* | And it came to pass (formula) |
+| 25 | *massa* | burden |
+| 29 | *bi-shnat achat esreh* | In the eleventh year (***KEPT AS IS***: 8:25 has the twelfth; noted) |
+| 30 | *va-tasem ba-pukh eineha* | She painted her eyes |
+| 37 | written *ve-hayat*, read *ve-hayetah* | shall be (the reading followed) |
+| 37 | *domen* | dung (noted) |
+
+### 2 Kings 10: Jehu Destroys the House of Ahab and the Worship of Baal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sarei Yizre'el* | the officials of Jezreel (***KEPT AS IS***: the Greek has *Samaria*; noted) |
+| 1, 5 | *ha-omenim* | the guardians |
+| 7, 9, 25 | *va-yehi* | And it came to pass (formula) |
+| 9 | *tsaddiqim attem* | You are innocent (noted) |
+| 12 | *Beit Eqed ha-ro'im* | Beth-eked of the shepherds |
+| 13 | *ha-gevirah* | the queen mother (noted) |
+| 15 | *yesh va-yesh* | It is… If it is |
+| 16 | *be-qin'ati* | my zeal (noted) |
+| 19 | *be-oqbah* | with cunning (noted) |
+| 20 | *atsarah* | a solemn assembly |
+| 22 | *ha-meltachah* | the wardrobe |
+| 25 | *ha-ratsim ve-ha-shalishim* | the guard and the officers |
+| 25 | *ir beit ha-Ba'al* | the inner room of the house of Baal (***KEPT AS IS***: *ir*, *city*, is hard here) |
+| 27 | written *le-machara'ot*, read *le-motsa'ot* | a latrine (the reading followed; noted) |
+| 30 | *benei revi'im* | to the fourth generation (noted) |
+| 32 | *le-qatstsot* | to cut off parts (noted) |
+
+**Checks:** verse counts equal the Hebrew (20, 29, 37, 36); no banned words; no "And"-starts except *And it came to pass* and *And now* in speech; no *here —* or *look —*; notes 8, 10, 10, 10. Quotations checked against our rendered text (Genesis 7:11, 27:36, 27:40; Leviticus 13:46; 1 Samuel 3:19, 10:1; 2 Samuel 9:8, 18:20–27; 1 Kings 11:36, 12:28–29, 15:13, 16:9–18, 19:10, 19:15–16, 21:21–24; Matthew 21:8) and the printed Hebrew (2 Kings 15:12; Hosea 1:4, 9:7, 13:16; Jeremiah 8:2, 35:6; 2 Chronicles 22:9). *Makhber* was searched across the whole Hebrew text (the letters occur elsewhere only as the altar grating of Exodus). The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 2 Kings 3–6 (loop resumed after the usage limit, cycle 23, 5:49 PM Central, 2026-09-30)
 
 **Landed:** 2 Kings 3, 4, 5, 6. Progress 509 → **513 of 1,989 (25.8%)**. Next is 2 Kings 7. The loop had stopped after 2:11 PM (usage limit) and was resumed at 5:46 PM.
