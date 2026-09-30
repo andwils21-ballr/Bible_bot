@@ -2,6 +2,103 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 21–24 (loop, cycle 16, 1:30 PM Central, 2026-09-30)
+
+**Landed:** 2 Samuel 21, 22, 23, 24. **2 Samuel is complete.** Progress 481 → **485 of 1,989 (24.4%)**. Next is 1 Kings 1.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **23:8**, *he drew his sword against eight hundred*. The Hebrew, *hu Adino ha-Etsni al shemoneh me'ot chalal*, has no verb. The Greek supplies *drew his sword*; Chronicles has *wielded his spear* (1 Chronicles 11:11), as v18 says of Abishai. The Hebrew number is kept. Noted.
+- **24:13**, *three years of famine*. The Hebrew has *seven*; the Greek and 1 Chronicles 21:12 have *three*, matching three months and three days and the *three things* of v12. Noted.
+
+### 2 Samuel 21: The Gibeonites Avenged
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *el Sha'ul ve-el beit ha-damim* | because of Saul and his house of bloodshed |
+| 3 | *ba-meh akhapper* | How shall I make atonement (noted) |
+| 6, 9, 13 | *ve-hoqa'anum*, *ha-muqa'im* | hang them up before the LORD (as Numbers 25:4; noted) |
+| 6 | *be-Giv'at Sha'ul bechir YHWH* | at Gibeah of Saul, the chosen of the LORD (***KEPT AS IS***: the Greek has *Gibeon*; noted) |
+| 8 | *Mikhal* | Michal (***KEPT AS IS***: 1 Samuel 18:19 and 6:23 point to Merab, but no witness has it; noted) |
+| 9 | written *shiv'atayim*, read *shiv'atam*; written *ve-hem*, read *ve-hemmah*; written *techillat*, read *bi-tchillat* | The seven of them… at the beginning (the readings followed) |
+| 12 | written *tela'um*, read *talum*; written *shammah Pelishtim*, read *ha-Pelishtim* | where the Philistines had hung them (the readings followed) |
+| 14 | *va-ye'ater… la-arets* | God heeded prayers for the land (noted) |
+| 16 | written *va-yeshvu be-Nov*, read *Yishbi be-Nov* | Ishbi-benob (the reading followed; noted) |
+| 16 | *chadashah* (no noun) | a new sword (***KEPT AS IS***: *sword* understood; noted) |
+| 17 | *ner Yisra'el* | the lamp of Israel (noted) |
+| 18 | *va-yehi* | And it came to pass (formula) |
+| 19 | *Elchanan ben Ya'arei Oregim… et Golyat* | Elhanan son of Jaare-oregim… struck down Goliath (***KEPT AS IS***: see Choices; noted) |
+| 20 | written *middin*, read *madon* | a man of great size (the reading followed) |
+| 21 | written *Shim'i*, read *Shim'ah* | Shimeah (the reading followed; as 13:3) |
+
+### 2 Samuel 22: David's Song of Deliverance
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2–51 | the song | set as poetry |
+| 5 | *mishberei mavet* | the breakers of death (noted: Psalm 18 *cords*) |
+| 5 | *nachalei veliyya'al* | the torrents of worthlessness (noted) |
+| 11 | *va-yera* | He was seen (noted: Psalm 18 *swooped*) |
+| 12 | *chashrat mayim* | a gathering of waters (***KEPT AS IS***: word found only here; noted) |
+| 23 | written *mishpato*, read *mishpatav* | His judgments (the reading followed) |
+| 26 | *gibbor tamim* | the blameless man |
+| 27 | *ve-im iqqesh tittappal* | with the crooked You show Yourself twisted (***KEPT AS IS***: *shrewd* is fixed for *arum*; noted) |
+| 29 | *ki attah niri* | For You are my lamp (noted) |
+| 33 | *va-yatter tamim darki*; written *darko*, read *darki* | He has set my way free and blameless (***KEPT AS IS***: verb uncertain; noted) |
+| 34 | written *raglav*, read *raglai* | my feet (the reading followed) |
+| 36 | *va-anotekha* | Your answering (***KEPT AS IS***: Psalm 18 *Your humility*; noted) |
+| 46 | *va-yachgeru* | they gird themselves (***KEPT AS IS***: Psalm 18 *come trembling*; noted) |
+| 51 | written *magdil*, read *migdol* | a tower of salvation (the reading followed; noted) |
+
+### 2 Samuel 23: David's Last Words and His Mighty Men
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ne'um* | The word of (as Numbers 24:3; noted) |
+| 1 | *ne'im zemirot Yisra'el* | the sweet singer of Israel (noted) |
+| 2 | *ruach YHWH* | The Spirit of the LORD (fixed) |
+| 7 | *ba-shavet* | where they lie |
+| 8 | *Yoshev ba-Shevet Tachkemoni* | Josheb-basshebeth the Tahchemonite (noted: Chronicles *Jashobeam*) |
+| 8 | written *ha-Etsno*, read *ha-Etsni* | the Eznite (the reading followed) |
+| 8 | (no verb) | he drew his sword (Greek followed; noted) |
+| 9 | written *Dodi*, read *Dodo*; written *ba-sheloshah gibborim*, read *ha-gibborim* | Dodo… the three mighty men (the readings followed) |
+| 10 | *va-tidbaq yado el ha-cherev* | his hand clung to the sword (noted) |
+| 13 | written *sheloshim*, read *sheloshah* | Three of the thirty (the reading followed) |
+| 13 | *el qatsir* | at harvest time (***KEPT AS IS***: Chronicles *to the rock*) |
+| 16 | *va-yassekh otam* | he poured it out (noted) |
+| 18 | written *ha-shalishi*, read *ha-sheloshah* | the Three (the reading followed) |
+| 19 | *ha-khi nikhbad* | Was he not the most honored (***KEPT AS IS***) |
+| 20 | written *ben ish chai*, read *ben ish chayil* | a man of valor (the reading followed) |
+| 20 | *shenei ari'el Mo'av* | the two Ariels of Moab (***KEPT AS IS***: meaning unknown; noted) |
+| 20 | written *ha-ari'eh*, read *ha-ari* | a lion (the reading followed) |
+| 21 | written *asher ish mar'eh* | a man of great stature |
+| 32–33 | *benei Yashen Yehonatan Shammah* | the sons of Jashen, Jonathan; Shammah (***KEPT AS IS***: Chronicles differs) |
+| 35 | written *Chetsro*, read *Chetsrai* | Hezrai (the reading followed) |
+| 37 | written *noshei*, read *nose* | armor-bearer (the reading followed) |
+| 39 | *kol sheloshim ve-shiv'ah* | thirty-seven in all (noted: the count) |
+
+### 2 Samuel 24: David's Census
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yasset* | He incited (noted: Chronicles *Satan*) |
+| 6 | *Tachtim Chodshi*, *Danah Ya'an* | Tahtim-hodshi, Dan-jaan (***KEPT AS IS***: places not known) |
+| 9 | *ish chayil* | valiant men |
+| 10 | *va-yakh lev David oto* | David's heart struck him (as 1 Samuel 24:5; noted) |
+| 13 | *sheva shanim* | three years (Greek and Chronicles followed; noted) |
+| 14 | written *rachamo*, read *rachamav* | His mercies (the reading followed) |
+| 15 | *ad et mo'ed* | until the appointed time (***KEPT AS IS***; noted) |
+| 16 | *va-yinnachem YHWH el ha-ra'ah* | the LORD relented from the evil (noted) |
+| 16, 18 | written *ha-Awarnah*, *Aranyah*, read *Aravnah* | Araunah (the reading followed; noted) |
+| 22 | written *be-eino*, read *be-einav* | in his eyes (the reading followed) |
+| 24 | *chinnam* | that cost me nothing (noted) |
+
+**Checks:** verse counts equal the Hebrew (22, 51, 39, 25); no banned words (the only hit is the transliteration *va-ye'ater* in a note); no "And"-starts except *And it came to pass* (21:18); no *here —* or *look —*; notes 10, 10, 10, 10. Quotations checked against our rendered text (Genesis 22:2; Exodus 30:12; Numbers 24:3, 25:4; Deuteronomy 12:16, 28:49, 32:5; Joshua 9:15–20; 1 Samuel 2:12, 13:13, 16:13, 17:7, 18:19, 22:5, 24:5, 31:10–13; 2 Samuel 6:23, 7:16, 11:15–17, 20:1) and the printed Hebrew (Psalm 18 title and 18:4, 10, 11, 28, 32, 35, 45, 50; 1 Kings 11:36; 1 Chronicles 11:11–15, 11:20–22, 20:4–5, 21:1, 21:5, 21:12, 21:15, 21:25; 2 Chronicles 3:1). *Hoqa'* was searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **21:19, who killed Goliath.** The Hebrew and the Greek both read: *Elhanan son of Jaare-oregim, the Bethlehemite, struck down Goliath the Gittite, the shaft of whose spear was like a weaver's beam.* 1 Samuel 17 has David kill the Philistine of Gath, *the shaft of his spear was like a weaver's beam* (17:7). Chronicles reads *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite* (1 Chronicles 20:5); *beit ha-Lachmi et* (*the Bethlehemite*) and *et Lachmi* (*Lahmi*) are close in their letters, and *oregim* (*weavers*) also ends the verse. The verse reads now as the Hebrew, with a note. The other reading would be *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*. **Recommendation: keep the Hebrew with the note.** Only Chronicles has the other reading, and it is the reading that removes the difficulty, which your rule does not count as support.
+
 ## 2 Samuel 17–20 (loop, cycle 15, 1:23 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 17, 18, 19, 20. Progress 477 → **481 of 1,989 (24.2%)**. Next is 2 Samuel 21.
