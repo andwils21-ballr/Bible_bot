@@ -1,8 +1,8 @@
 # Progress
 
-**457 of 1989 chapters rendered (23.0%).**
+**461 of 1989 chapters rendered (23.2%).**
 
-Next up: **1 Samuel 28**
+Next up: **2 Samuel 1**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -14,7 +14,7 @@ Next up: **1 Samuel 28**
 | 6 | Joshua | source | done |
 | 7 | Judges | source | done |
 | 8 | Ruth | source | done |
-| 9 | 1 Samuel | source | 27/31 |
+| 9 | 1 Samuel | source | done |
 | 10 | 2 Samuel | source | 0/24 |
 | 11 | 1 Kings | source | 0/22 |
 | 12 | 2 Kings | source | 0/25 |

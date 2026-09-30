@@ -2,6 +2,83 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 28–31 (loop, cycle 10, 12:49 PM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 28, 29, 30, 31. **1 Samuel is complete.** Progress 457 → **461 of 1,989 (23.2%)**. Next is 2 Samuel 1. (The loop stopped at the usage limit after cycle 9 at 9:25 AM and resumed at 12:46 PM.)
+
+**Departures from the Hebrew:** none.
+
+### 1 Samuel 28: Saul at En-dor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yadoa teda* | Know for certain (doubled verb) |
+| 2 | *lakhen attah teda* | Very well, you shall know (noted: two ways to hear it) |
+| 2 | *shomer le-roshi* | my bodyguard (literally *keeper of my head*) |
+| 3, 9 | *ha-ovot ve-ha-yidde'onim* | the ghosts and the spirits (as Leviticus 19:31; noted) |
+| 5 | *va-yechrad libbo* | his heart trembled |
+| 7 | *eshet ba'alat ov* | a woman who has a ghost (as Leviticus 20:27; noted) |
+| 8 | written *qswmy*, read *qosomi* | Practice soothsaying (the reading followed; fixed term; noted) |
+| 9 | *mitnaqqesh be-nafshi* | laying a snare for my life |
+| 10 | *im yiqrekh avon* | no punishment shall come upon you |
+| 13 | *elohim… olim* | a god coming up (***KEPT AS IS***: plural verb; noted) |
+| 15 | *hirgaztani* | disturbed me |
+| 16 | *arekha* | your adversary (noted) |
+| 17 | *va-ya'as YHWH lo* | The LORD has done (***KEPT AS IS***: *lo*, *for him* or *for Himself*, left unrendered; the Greek has *to you*) |
+| 20 | *melo qomato* | full length |
+| 21 | *va-asim nafshi be-khappi* | I took my life in my hand (as 19:5) |
+| 24 | *egel marbeq* | a fattened calf |
+
+### 1 Samuel 29: David Sent Back from the Philistine Army
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *serenei Pelishtim* | the lords of the Philistines |
+| 3 | *sarei Pelishtim* | the commanders of the Philistines |
+| 3 | *zeh yamim o zeh shanim* | these days, or these years |
+| 3 | *mi-yom nofelo* | from the day he came over to me (literally *his falling*) |
+| 4 | *le-satan* | an adversary (noted) |
+| 4 | *yitratseh… el adonav* | win back his lord's favor |
+| 6 | *tsetekha u-vo'akha* | your going out and coming in |
+| 9 | *ke-mal'akh Elohim* | as a messenger of God (fixed term; noted) |
+| 11 | *u-Felishtim alu* | while the Philistines went up (noted) |
+
+### 1 Samuel 30: David Recovers Ziklag's Captives
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi be-vo* | And it came to pass, when… came (formula) |
+| 6 | written *bnw*, read *banav* | his sons (the reading followed) |
+| 6 | *va-yitchazzeq* | strengthened himself (noted) |
+| 8 | *hasseg tassig ve-hatsel tatsil* | you will overtake them and you will rescue (doubled verbs) |
+| 10 | *pigg'ru* | too exhausted |
+| 12 | *va-tashov rucho elav* | his spirit came back to him (noted) |
+| 16 | *chogegim* | feasting |
+| 17 | *me-ha-neshef* | from twilight (dusk or dawn) |
+| 22 | *ish ra u-veliyya'al* | the wicked and worthless men (noted) |
+| 24 | *ke-chelek… yachdav yachaloqu* | as is the share… they shall share alike |
+| 25 | *va-yehi* | And it came to pass (formula) |
+| 25 | *le-choq u-le-mishpat* | a statute and a rule (as Exodus 15:25; noted) |
+| 26 | *berakhah* | a gift (noted: *blessing*) |
+
+### 1 Samuel 31: The Death of Saul
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *va-yadbequ* | closed in on |
+| 3 | *va-tikhbad ha-milchamah* | The battle pressed hard |
+| 3 | *va-yachel me'od* | he was in great anguish (noted; the Greek *wounded in the belly*) |
+| 4 | *ve-hit'allelu bi* | and abuse me (as Judges 19:25; noted) |
+| 8 | *va-yehi* | And it came to pass (formula) |
+| 9 | *le-vasser* | to carry the news |
+| 12 | *kol ish chayil* | all the men of valor (as 10:26) |
+
+**Checks:** verse counts equal the Hebrew (25, 11, 31, 13); no banned words; no "And"-starts except *And it came to pass* (28:1, 30:1, 30:25, 31:8); no *here —* or *look —*; 9 notes in 28, 8 in 29, 9 in 30, 9 in 31. Quotations checked against our rendered text (Genesis 18:6–7; Exodus 15:25; Leviticus 19:31, 20:27; Numbers 22:22, 31:27; Judges 9:54, 19:25; 1 Samuel 2:19, 4:1, 5:2, 7:3, 11:1–11, 12:10, 14:49, 15:23, 15:27–28, 22:6, 23:16) and the printed Hebrew (1 Chronicles 10:13–14; 2 Samuel 1:10, 2:4, 2:8, 14:17, 19:27, 21:12; Psalm 139:20). *Arekha* was searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Samuel 24–27 (loop, cycle 9, 9:25 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 24, 25, 26, 27. Progress 453 → **457 of 1,989 (23.0%)**. Next is 1 Samuel 28.
