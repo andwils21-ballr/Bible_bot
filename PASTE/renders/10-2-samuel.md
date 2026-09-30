@@ -2,6 +2,115 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 13–16 (loop, cycle 14, 1:15 PM Central, 2026-09-30)
+
+**Landed:** 2 Samuel 13, 14, 15, 16. Progress 473 → **477 of 1,989 (24.0%)**. Next is 2 Samuel 17.
+
+**Fixed from the last cycle:** 12:30 note quoted 1 Kings 11:5 as *Milcom the detestable thing*; *shiqquts* is fixed as *loathsome*, so it now reads *the loathsome thing*.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **13:21**, *But he did not grieve the spirit of Amnon his son, because he loved him, for he was his firstborn.* Not in the Hebrew, which ends *he was very angry*. Backed by 3:2 (Amnon the firstborn) and by the same thing said of Adonijah, *his father had never grieved him* (1 Kings 1:6). Noted.
+- **13:27**, *Absalom made a feast like the feast of a king.* Not in the Hebrew. v28 has Amnon *merry with wine*, and the phrase is Nabal's feast (1 Samuel 25:36). Noted.
+- **16:12**, *on my affliction*. Written *be-avoni* (*on my guilt*), read *be-eini* (*on my eye*); the Greek reads the written letters as *be-onyi*, *on my affliction*, the phrase of Genesis 29:32 and 1 Samuel 1:11. Noted. This one sets the Greek above the read form, so it is also a choice below.
+
+### 2 Samuel 13: Amnon and Tamar
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 23, 30, 36 | *va-yehi* | And it came to pass (formula) |
+| 2 | *le-hitchallot* | he made himself sick |
+| 2 | *va-yippale be-einei* | it seemed impossible to |
+| 3 | *ish chakham* | a very wise man |
+| 4 | *dal* | haggard |
+| 6, 8, 10 | *levivot*, *telabbev* | heart-cakes, make (noted) |
+| 12 | *al te'anneni* | Do not violate me |
+| 12–13 | *nevalah*, *nevalim* | outrage, fools (as Genesis 34:7; noted) |
+| 15 | *sin'ah… asher sene'ah me-ahavah asher ahevah* | the hatred with which he hated her was greater than the love with which he had loved her (***KEPT AS IS***: the doubling is the point of the sentence) |
+| 16 | *al odot* | No, for (***KEPT AS IS***: construction uncertain; noted) |
+| 18 | *ketonet passim* | a long coat (as Genesis 37:3; noted) |
+| 20 | *ha-Aminon* | Amnon (a variant spelling of the name, not marked) |
+| 20 | *ve-shomemah* | desolate |
+| 21 | Greek addition | followed (noted) |
+| 27 | Greek addition | followed (noted) |
+| 28 | *li-vnei chayil* | men of valor |
+| 32 | *al pi Avshalom hayetah sumah* | This has been Absalom's intent (noted) |
+| 34 | Greek addition | not taken (***KEPT AS IS***; noted) |
+| 37 | written *Ammichur*, read *Ammihud* | Ammihud (the reading followed) |
+| 37 | *va-yit'abbel* (no subject) | David mourned (the subject named) |
+| 39 | *va-tekhal David* (no subject) | King David's heart longed (***KEPT AS IS***: the Greek has *ceased*; noted) |
+
+### 2 Samuel 14: The Woman of Tekoa
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lev ha-melekh al Avshalom* | the king's heart was on Absalom (***KEPT AS IS***: *on* can mean *toward* or *against*) |
+| 2 | *hit'abbeli* | Pretend to be a mourner |
+| 3 | *va-yasem… be-fiha* | put the words in her mouth (noted) |
+| 4 | *hoshi'ah ha-melekh* | Save me, O king! |
+| 7 | *gachalti* | my coal (noted) |
+| 11 | written *mhrbyt*, read *me-harbat* | may not destroy any more (the reading followed) |
+| 11 | *go'el ha-dam* | the avenger of blood (as Numbers 35; noted) |
+| 13 | *ke-ashem* | like one who is guilty |
+| 14 | *ve-lo yissa Elohim nefesh* | God does not take away a life (***KEPT AS IS***: the Greek lacks *not*; noted) |
+| 17 | *li-menuchah* | bring rest (noted: Greek *sacrifices*) |
+| 17, 20 | *ke-mal'akh ha-Elohim* | like the messenger of God (fixed term) |
+| 19 | *im ish* | no one can (*ish* for *yesh*) |
+| 20 | *le-sabbev et penei ha-davar* | to change the face of the matter |
+| 22 | written *avdo*, read *avdekha* | your servant (the reading followed) |
+| 26 | *mi-qets yamim la-yamim* | at the end of every year |
+| 30 | written *ve-hotsitiha*, read *ve-hatsituha* | set it on fire (the reading followed; noted) |
+| 30 | Greek addition | not taken (noted) |
+
+### 2 Samuel 15: Absalom's Revolt
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 7, 32 | *va-yehi* | And it came to pass (formula) |
+| 5 | *ve-hayah* (habitual) | And it would come to pass (formula) |
+| 3 | *tovim u-nekhochim* | good and right |
+| 6 | *va-yegannev… et lev* | stole the hearts (noted) |
+| 7 | *arba'im shanah* | forty years (***KEPT AS IS***: both witnesses; noted) |
+| 7–8 | *ashallem et nidri asher nadarti*, *neder nadar* | pay the vow I made, made a vow (doubling removed) |
+| 8 | written *yashiv*, read *yashuv* | will indeed bring me back (the reading followed) |
+| 10 | *meraggelim* | secret messengers (noted) |
+| 10 | *shofar* | shofar |
+| 11 | *le-tummam* | in their innocence |
+| 17 | *beit ha-merchaq* | the last house |
+| 18 | Greek addition | not taken |
+| 20 | written *anu'akha*, read *ani'akha* | make you wander (the reading followed) |
+| 20 | *chesed ve-emet* | Loyal love and faithfulness be with you (as 2:6) |
+| 24 | *va-ya'al Evyatar* | Abiathar went up (***KEPT AS IS***: may mean *offered sacrifices*) |
+| 27 | *ha-ro'eh attah* | Are you not a seer? (***KEPT AS IS***: sense uncertain; noted) |
+| 28 | written *be-avrot*, read *be-arvot* | in the plains (the reading followed; noted) |
+| 31 | *sakkel* | turn… into foolishness (noted) |
+| 37 | *re'eh David* | David's friend (noted) |
+
+### 2 Samuel 16: Ziba and Shimei
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *me'ah qayits* | a hundred of summer fruit |
+| 2 | written *u-le-hallechem*, read *ve-ha-lechem* | the bread (the reading followed) |
+| 4 | *hishtachaveiti* | I pay homage |
+| 5 | *yatsa yatso u-meqallel* | came out cursing as he came |
+| 7 | *ish ha-beliyya'al* | worthless man (noted) |
+| 8 | written *tachto*, read *tachtav* | in whose place (the reading followed) |
+| 8 | *ve-hinnekha be-ra'atekha* | Now you are caught in your own evil |
+| 10 | *mah li ve-lakhem* | What have I to do with you (noted) |
+| 10 | written *ki*, read *koh* | If he curses (the reading followed; noted) |
+| 12 | written *be-avoni*, read *be-eini* | on my affliction (Greek followed; noted) |
+| 13 | *ve-iffar be-afar* | flinging dust |
+| 14 | *va-yinnafesh* | drew breath (as Exodus 23:12; noted) |
+| 16 | *va-yehi* | And it came to pass (formula) |
+| 21 | *niv'ashta* | you have become a stench (noted) |
+
+**Checks:** verse counts equal the Hebrew (39, 33, 37, 23); no banned words (the only hits are the transliterations *ye'aseh* and *va-ye'anneha* in notes); no "And"-starts except *And it came to pass* (13:1, 13:23, 13:30, 13:36, 15:1, 15:7, 15:32, 16:16) and *And it would come to pass* (15:5); no *here —* or *look —*; notes 10, 10, 10, 10. Quotations checked against our rendered text (Genesis 29:32, 31:20, 34:2, 34:7, 37:3; Exodus 4:15, 23:12; Numbers 35:19; Leviticus 22:20; Ruth 1:17, 2:10; 1 Samuel 1:11, 2:12, 3:18, 9:2, 9:9, 13:4, 13:13, 24:14, 25:36, 29:9; 2 Samuel 2:4, 2:6, 3:2, 3:7, 3:27, 3:37, 4:7, 4:9–12, 5:4, 9:7–10, 11:2, 11:3) and the printed Hebrew (2 Samuel 14:1, 17:14, 17:16, 18:18, 19:25–31, 20:16, 23:34; 1 Kings 1:6, 4:5; Psalm 84:3; Song of Songs 4:9). *Levivot* and *libbev* and *ketonet passim* were searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **16:12, the Greek over the read form.** Your rule is to follow the read form (*qere*). Here the read form is *be-eini*, *on my eye*, and the written form is *be-avoni*, *on my guilt*. The Greek reads the same written letters as *be-onyi*, *on my affliction*, and *ra'ah be-oni* is a fixed phrase: *the LORD has seen my affliction* (Genesis 29:32), *if You will indeed look on the affliction of Your servant* (1 Samuel 1:11). The verse now reads: *Perhaps the LORD will look on my affliction, and the LORD will repay me with good for his cursing today.* The read form would give *Perhaps the LORD will look on my eye*, usually taken as *my tears*. **Recommendation: keep *affliction*.**
+
 ## 2 Samuel 9–12 (loop, cycle 13, 1:08 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 9, 10, 11, 12. Progress 469 → **473 of 1,989 (23.8%)**. Next is 2 Samuel 13.
