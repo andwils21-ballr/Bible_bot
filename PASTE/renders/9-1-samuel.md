@@ -2,6 +2,108 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 24–27 (loop, cycle 9, 9:25 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 24, 25, 26, 27. Progress 453 → **457 of 1,989 (23.0%)**. Next is 1 Samuel 28.
+
+**Numbering:** English 24:1–22 is Hebrew 24:2–23 (noted at 24:1). Chapters 25–27 line up again.
+
+**Departures from the Hebrew:** none.
+
+### 1 Samuel 24: David Spares Saul at En-gedi
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tsurei ha-ye'elim* | the Rocks of the Wild Goats |
+| 3 | *le-hasekh et raglav* | to relieve himself (literally *to cover his feet*; noted) |
+| 3 | *be-yarketei ha-me'arah* | in the far recesses of the cave |
+| 4 | written *'yvyk*, read *oyivkha* | your enemy (the reading followed) |
+| 5 | *va-yakh lev David oto* | David's heart struck him (***KEPT AS IS***: English carries it) |
+| 7 | *va-yeshassa* | held… back (literally *tore*; noted) |
+| 8 | written *mn hm'rh*, read *me-ha-me'arah* | out of the cave (the reading followed) |
+| 8 | *va-yiqqod appayim artsah* | bowed with his face to the ground |
+| 10 | *ve-amar laharogekha* | Some said to kill you |
+| 10 | *va-tachas alekha* | I spared you (literally *it*, my eye, *spared you*) |
+| 11 | *tsodeh* | hunting |
+| 13 | *meshal ha-qadmoni* | the proverb of the ancients |
+| 15 | *ve-yishpeteni mi-yadekha* | and deliver me from your hand |
+| 17 | *tsaddiq attah mimmenni* | You are more in the right than I (as Genesis 38:26; noted) |
+| 18 | written *v't*, read *ve-attah* | You (the reading followed) |
+| 20, 21 | *ve-attah* | And now (in speech) |
+
+### 1 Samuel 25: Nabal and Abigail
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *midbar Paran* | the wilderness of Paran (***KEPT AS IS***: the Greek has *Maon*; see Choices) |
+| 2 | *u-ma'asehu ba-Karmel* | whose business was at Carmel |
+| 3 | written *klbw*, read *kalibbi* | He was a Calebite (the reading followed; the meaning differs, so noted) |
+| 3 | *tovat sekhel* | of good understanding |
+| 6 | *koh le-chai* | Long life to you! (***KEPT AS IS***: *to the living*; sense uncertain) |
+| 7 | *lo hekhlamnum* | we did not humiliate them |
+| 8 | *al yom tov* | on a feast day |
+| 9 | *va-yanuchu* | and they waited |
+| 10 | *ha-mitparetsim* | who are breaking away |
+| 14 | *va-ya'at bahem* | he flew at them |
+| 17 | *ben beliyya'al* | a worthless man (as 2:12, 10:27) |
+| 18 | written *'bwgyl*, read *Avigayil* | Abigail (the reading followed) |
+| 18 | *tson asuyot* | sheep ready dressed |
+| 20 | *ve-hayah hi rokhevet* | As she rode (***KEPT AS IS***: *ve-hayah* opens a single past event; the formula is not used) |
+| 21 | *akh la-sheqer* | It was all for nothing |
+| 22, 34 | *mashtin be-qir* | so much as one male (literally *one who urinates against the wall*; noted) |
+| 26, 27 | *ve-attah* | And now (in speech) |
+| 28 | *sa na le-fesha* | Please forgive the offense (literally *lift*) |
+| 30 | *ve-hayah ki* | And it shall come to pass, when (formula) |
+| 31 | *le-fuqah u-le-mikhshol lev* | a stumbling block… or a burden on my lord's heart |
+| 34 | written *vtb'ty*, read *va-tavot* | and come (the reading followed) |
+| 35 | *va-essa panayikh* | granted your request (literally *lifted your face*) |
+| 37 | *ve-hu hayah le-aven* | he became like a stone |
+| 41 | *le-shifchah* | a maidservant |
+
+### 1 Samuel 26: David Spares Saul Again
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *el nakhon* | had indeed come |
+| 5 | *ba-ma'gal* | inside the encampment (as 17:20) |
+| 5, 7 | written *sbybtw*, read *sevivotav* | around him (the reading followed) |
+| 7, 11, 16 | written *mr'shtw*, read *me-ra'ashotav* | at his head (the reading followed) |
+| 8 | *akkennu… ba-chanit u-va-arets* | pin him to the ground with the spear (noted) |
+| 8 | *ve-lo eshneh lo* | I will not need to strike him twice |
+| 10 | *yiggafennu* | will strike him (noted) |
+| 12 | *tardemat YHWH* | a deep sleep from the LORD (noted) |
+| 16 | *benei mavet* | you deserve to die (noted) |
+| 19 | *yarach minchah* | may He accept an offering (literally *smell*; noted) |
+| 19 | *me-histappeach be-nachalat YHWH* | from having a share in the inheritance of the LORD |
+| 20 | *ha-qore* | a partridge (noted) |
+| 21 | *hiskalti* | I have acted foolishly (noted) |
+| 22 | written *hchnyt*, read *chanit ha-melekh* | the king's spear (the reading followed) |
+| 25 | *gam asoh ta'aseh ve-gam yakhol tukhal* | You will do great things and will surely prevail (doubled verbs) |
+
+### 1 Samuel 27: David Among the Philistines
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-no'ash* | will give up |
+| 3 | *eshet Naval* | Nabal's widow (literally *wife*) |
+| 4 | written *ywsp*, read *yasaf* | no longer (the reading followed) |
+| 5 | *be-achat arei ha-sadeh* | in one of the country towns |
+| 5 | *be-ir ha-mamlakhah* | in the royal city |
+| 7 | *yamim* | a year (noted) |
+| 8 | written *hgrzy*, read *ha-Gizri* | the Gizrites (the reading followed) |
+| 10 | *al pashattem ha-yom* | Where have you raided today? |
+| 10 | *va-yomer David* | David would say (habitual, with v11) |
+| 11 | *mishpato* | his practice |
+| 12 | *hav'esh hiv'ish* | He has made himself utterly hateful (noted: *stink*) |
+| 12 | *eved olam* | my servant forever (noted) |
+
+**Checks:** verse counts equal the Hebrew (22 from Hebrew 24:2–23; 44; 25; 12); no banned words; no "And"-starts except *And it came to pass* (24:1, 24:5, 24:16, 25:37, 25:38), *And it shall come to pass* (25:30) and *And now* in speech (24:20, 24:21, 25:26, 25:27, 26:16); no *here —* or *look —*; 10 notes in 24–26 and 7 in 27. Quotations checked against our rendered text (Genesis 2:21, 8:21, 15:12, 38:26; Exodus 5:2; Numbers 10:12; Deuteronomy 4:28, 15:17; Joshua 13:2, 15:13, 15:31, 19:5; Judges 3:24, 7:2; Ruth 1:17; 1 Samuel 1:21, 2:12, 2:35, 10:27) and the printed Hebrew (Judges 14:6; 1 Samuel 31:3–4; 2 Samuel 1:14, 3:15–16, 7:16, 9:8, 21:7–9; Psalm 14:1). The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **25:1, *Paran* or *Maon*.** The Hebrew has *David went down to the wilderness of Paran*, the wilderness where Israel camped after Sinai (Numbers 10:12). The Greek has *the wilderness of Maon*. The next verse opens *There was a man in Maon*, and David was last *in the wilderness of Maon* (23:24–25), so the story itself places him there. **Recommendation: Maon**, with the note keeping *Paran*. Today the text has *Paran*.
+
 ## 1 Samuel 20–23 (loop, cycle 8, 9:18 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 20, 21, 22, 23. Progress 449 → **453 of 1,989 (22.6% → 22.8%)**. Next is 1 Samuel 24.
