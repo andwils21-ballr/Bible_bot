@@ -1,8 +1,8 @@
 # Progress
 
-**469 of 1989 chapters rendered (23.6%).**
+**473 of 1989 chapters rendered (23.8%).**
 
-Next up: **2 Samuel 9**
+Next up: **2 Samuel 13**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -15,7 +15,7 @@ Next up: **2 Samuel 9**
 | 7 | Judges | source | done |
 | 8 | Ruth | source | done |
 | 9 | 1 Samuel | source | done |
-| 10 | 2 Samuel | source | 8/24 |
+| 10 | 2 Samuel | source | 12/24 |
 | 11 | 1 Kings | source | 0/22 |
 | 12 | 2 Kings | source | 0/25 |
 | 13 | 1 Chronicles | source | 0/29 |
