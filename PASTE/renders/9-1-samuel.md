@@ -2,6 +2,117 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 20–23 (loop, cycle 8, 9:18 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 20, 21, 22, 23. Progress 449 → **453 of 1,989 (22.6% → 22.8%)**. Next is 1 Samuel 24.
+
+**Numbering:** the Hebrew chapters divide differently here, and the text follows the English. English 20:42 is Hebrew 20:42 plus 21:1, so English 21:1–15 is Hebrew 21:2–16. English 23:29 is Hebrew 24:1, so all of chapter 24 will run one verse behind the Hebrew. Swete's Greek follows the English numbering in chapter 21 and matches the Hebrew at 20:43 and 24:1. Each place has one short note (20:42, 21:1, 23:29). These offsets are not yet in `HANDOFF.md`'s list; a render cycle does not edit that file.
+
+**Departures from the Hebrew:** none.
+
+### 1 Samuel 20: Jonathan's Arrows
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *mnvvt*, read *mi-Nayot* | from Naioth (the reading followed) |
+| 2 | written *lw 'sh*, read *lo ya'aseh* | does nothing (the reading followed) |
+| 2 | *ve-lo yigleh et ozni* | without telling me (literally *uncovering my ear*) |
+| 3 | *yadoa yada* | knows well (doubled verb) |
+| 3 | *ki khe-fesa beini u-vein ha-mavet* | there is only a step between me and death |
+| 4 | *mah tomar nafshekha* | Whatever your soul says |
+| 6 | *paqod yifqedeni* | misses me at all (doubled verb) |
+| 6 | *nish'ol nish'al* | earnestly asked leave (doubled verb) |
+| 7 | *kaletah ha-ra'ah me-immo* | he has resolved on evil |
+| 8 | *ve-asita chesed* | Show loyal love (fixed term; noted) |
+| 12 | *YHWH Elohei Yisra'el* | The LORD, the God of Israel, is witness (*is witness* supplied; the Greek has *knows*) |
+| 12 | *ve-galiti et oznekha* | and tell you (literally *uncover your ear*) |
+| 14 | *ve-lo im odenni chai ve-lo…* | If I am still alive, will you not… (***KEPT AS IS***: the Hebrew is broken off; the sense is the plea) |
+| 16 | *va-yikhrot… im beit David* | made a covenant with the house of David (*a covenant* understood) |
+| 19 | *ve-shillashta tered me'od* | On the third day go down quickly |
+| 19 | *be-yom ha-ma'aseh* | on the day of the affair (***KEPT AS IS***: which day is not said) |
+| 19 | *ha-even ha-azel* | the stone Ezel |
+| 24 | written *'l*, read *el* | to (the reading followed) |
+| 25 | *va-yaqom Yehonatan* | Jonathan stood (***KEPT AS IS***: the Greek has *went before Jonathan*) |
+| 30 | *ben na'avat ha-mardut* | You son of a perverse, rebellious woman |
+| 31 | *ben mavet* | he deserves to die (noted) |
+| 34 | *ki hikhlimo aviv* | because his father had disgraced him |
+| 38 | written *hchtsy*, read *ha-chitstsim* | the arrows (the reading followed) |
+| 41 | *me-etsel ha-negev* | from beside the south side (***KEPT AS IS***: the Greek has *from the argab*, as in its v19) |
+| 41 | *ad David higdil* | until David wept the more |
+| 42 | *zar'i… zar'akha* | my seed… your seed |
+| 42 | Hebrew 21:1 | Then David rose and went… (numbering; noted) |
+
+### 1 Samuel 21: David at Nob and Gath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yecherad… li-qrat* | came trembling to meet (noted) |
+| 2 | *peloni almoni* | such and such a place (noted) |
+| 3 | *tachat yadekha* | on hand |
+| 5 | *ki im ishah atsurah lanu* | Women have indeed been kept from us |
+| 5 | *kelei ha-ne'arim* | The young men's vessels (***KEPT AS IS***: gear or bodies; noted) |
+| 6 | *lechem ha-panim* | the bread of the Presence (as Exodus 25:30) |
+| 7 | *ne'tsar lifnei YHWH* | detained before the LORD (noted) |
+| 7 | *abbir ha-ro'im* | the chief of Saul's shepherds |
+| 8 | *ve-in yesh po* | Is there not… here |
+| 8 | *nachuts* | urgent |
+| 13 | *va-yeshanno et ta'mo* | he changed his behavior (noted) |
+| 13 | *va-yitholel be-yadam* | acted like a madman in their hands |
+| 13 | written *vytw*, read *va-yetav* | He scratched marks (the reading followed) |
+
+### 1 Samuel 22: The Priests of Nob
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ish asher lo nose* | everyone who was in debt |
+| 2 | *mar nefesh* | bitter of soul (as 1:10; noted) |
+| 3 | *yetse na avi ve-immi ittekhem* | let my father and my mother come and stay with you |
+| 4 | *va-yanchem et penei* | He brought them before |
+| 7 | *benei Yemini* | you Benjaminites |
+| 8 | *qeshartem* | you have conspired (noted) |
+| 8 | *ve-ein choleh mikkem alai* | None of you is sorry for me |
+| 13 | written *'lw*, read *elav* | to him (the reading followed) |
+| 14 | *ve-sar el mishma'tekha* | captain of your bodyguard (noted) |
+| 15 | written *lsh'wl*, read *lish'al* | to inquire (the reading followed) |
+| 16 | *mot tamut* | You shall die (doubled verb) |
+| 17 | *la-ratsim* | to the runners |
+| 17 | *lishloach et yadam* | put out their hands (as ruled for *shalach yad*; noted) |
+| 17 | written *'znw*, read *ozni* | did not tell me (the reading followed) |
+| 18 | written *dwyg*, read *Do'eg* | Doeg (the reading followed) |
+| 18 | *ephod bad* | the linen ephod (noted) |
+| 22 | *anokhi sabboti be-khol nefesh* | I am the cause of the death of every soul |
+| 23 | *ki mishmeret attah immadi* | With me you will be kept safe |
+
+### 1 Samuel 23: Keilah and the Wilderness of Ziph
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | written *w'nshw*, read *va-anashav* | his men (the reading followed) |
+| 6 | *va-yehi bivroach* | And it came to pass, when… fled (formula) |
+| 7 | *nikkar* | has handed him over (noted) |
+| 9 | *macharish ha-ra'ah* | plotting evil |
+| 10 | *shamoa shama* | has heard for certain (doubled verb) |
+| 11, 12 | *ba'alei Qe'ilah* | the lords of Keilah (fixed usage; noted) |
+| 13 | *va-yitholekhu ba-asher yitholakhu* | went wherever they could go |
+| 13 | *va-yechdal latset* | he gave up the expedition |
+| 16 | *va-yechazzeq et yado be-Elohim* | strengthened his hand in God (***KEPT AS IS***: English carries it) |
+| 17 | *le-mishneh* | second to you (noted) |
+| 20 | *le-khol avvat nafshekha* | whenever your soul desires |
+| 21 | *chamaltem* | you have had pity (noted) |
+| 22 | *arom ya'rim hu* | he is very shrewd (as Genesis 3:1; noted) |
+| 23 | *ve-hayah im* | And it shall come to pass, if (formula) |
+| 23 | *alfei Yehudah* | the clans of Judah |
+| 26 | *otrim* | closing in |
+| 27 | *pashtu* | have made a raid |
+| 28 | *Sela ha-machleqot* | Sela-hammahlekoth (noted) |
+| 29 | Hebrew 24:1 | the strongholds of En-gedi (numbering; noted) |
+
+**Checks:** verse counts equal the Hebrew once the offsets above are counted (42 with Hebrew 21:1; 15 from Hebrew 21:2–16; 23; 29 with Hebrew 24:1); no banned words; no "And"-starts except *And it came to pass* (20:27, 20:35, 23:6) and *And it shall come to pass* (23:23); no *here —* or *look —*; 10 notes each. Quotations checked against our rendered text (Genesis 3:1; Exodus 19:15, 25:30; Leviticus 7:20, 24:9; Numbers 10:10, 28:11; Ruth 4:1, 4:17; 1 Samuel 1:10, 2:18, 2:33, 2:35, 3:20, 8:12, 8:14, 14:37, 15:3, 15:9, 16:4, 18:1) and the printed Hebrew (1 Samuel 24:6, 28:6, 31:2; 2 Samuel 9:1, 9:7, 12:5, 23:23; 1 Kings 2:27; Psalms 34 heading and 34:8, 54 heading). Mark 2:23–26 checked in the Greek New Testament. The Hebrew of 1 Samuel 24–31 was searched for Jonathan: after 23:18 he appears only at his death (31:2). The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Samuel 16–19 (loop, cycle 7, 9:10 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 16, 17, 18, 19. Progress 445 → **449 of 1,989 (22.6%)**. Next is 1 Samuel 20.
