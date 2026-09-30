@@ -202,6 +202,10 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *eved* when God is the master | servant | 2026-09-24 |
 | *ben nekhar* (a person of another nation) | foreigner | 2026-09-24 |
 | *ger* (and the verb *gur*) | guest (verb: live as a guest) | 2026-09-24 |
+| *mal'akh* of God or of the LORD (Hebrew) | messenger, never *angel*; Greek *angelos* and the Ge'ez books not yet ruled | 2026-09-30 |
+| *ruach* of God or of the LORD | the Spirit (capital S), whoever is speaking; a person's own spirit, a wind, or *a spirit of jealousy* stays lowercase | 2026-09-30 |
+| *zanah* (verb) / *zonah* (noun) | whore (verb: *whore after*) / prostitute (noun) | 2026-09-30 |
+| *aviv* (the month) | Aviv (not *Abib*) | 2026-09-30 |
 
 When a recurring word needs a fixed rendering, bring the choice to Andrew with
 every verse it occurs in, then add it here.

@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *Abib* changed to *Aviv* everywhere (2026-09-30, 7:35 AM Central)
+
+### Your decision
+
+> Keep Aviv.
+
+*Abib* and *Aviv* are one Hebrew word (*aviv*, a young ear of barley, and so the month when barley is at that stage). The text had *Abib* in three places and *Aviv* in Exodus 13:4 and two notes; it is now *Aviv* throughout, and in the spec's fixed-terms table.
+
+### Changes made
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 23:15 | month of Abib, because in | month of Aviv, because in |
+| Exodus 34:18 | month of Abib, because in … month of Abib you came | month of Aviv, because in … month of Aviv you came |
+| Deuteronomy 16:1 | month of Abib, and make … month of Abib the LORD | month of Aviv, and make … month of Aviv the LORD |
+
+
 ## Exodus 16–19 requests (2026-09-25) — decided and applied
 
 ### Your decisions
