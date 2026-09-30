@@ -2,6 +2,96 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 4–7 (loop, cycle 4, 8:38 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 4, 5, 6, 7. Progress 433 → **437 of 1,989 (22.0%)**. Next is 1 Samuel 8.
+
+**Detail kept from the Greek, by your witnesses rule (3):** 1 Samuel 5:6 *and mice sprang up in the middle of its land*, and 6:1 *and their land swarmed with mice*. The Hebrew never tells of a plague of mice, yet 6:4–5 has the Philistines make golden mice for *your mice that ravage the land*. Both are noted.
+
+**Fixed in an earlier chapter this cycle:** the note on Judges 9:37 called the *me'onen* *the soothsayer*; Deuteronomy 18:10 has *one who reads omens*. See `PASTE/changes/7-judges.md`.
+
+### 1 Samuel 4: The Ark Is Taken
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-even ha-ezer* | Ebenezer (noted) |
+| 2 | *va-tittosh ha-milchamah* | when the battle spread |
+| 3 | *ve-yavo… ve-yoshi'enu* | so that it may come… and save us (***KEPT AS IS***: *it* or *He*; noted) |
+| 4 | *yoshev ha-keruvim* | who is enthroned on the cherubim (noted) |
+| 5 | *va-tehom ha-arets* | the earth rang |
+| 7 | *etmol shilshom* | before |
+| 8 | *ha-elohim ha-addirim* | these mighty gods (noted) |
+| 9 | *hitchazzequ vi-hyu la-anashim* | Take courage and be men |
+| 12 | *u-maddav qeru'im va-adamah al rosho* | with his clothes torn and earth on his head |
+| 13 | written *yakh*, read *yad* | beside (the reading followed; noted) |
+| 13 | *ve-hinneh Eli* | Eli was sitting (no *here —*) |
+| 15 | *einav qamah* | his eyes were fixed |
+| 16 | *meh hayah ha-davar* | How did it go |
+| 17 | *ha-mevasser* | The one who brought the news |
+| 18 | *kaved* | heavy (noted) |
+| 19 | *harah lalat* | about to give birth |
+| 19 | *ki nehefkhu aleha tsireha* | for her pains came upon her |
+| 20 | *ve-lo shatah libbah* | or pay attention |
+| 21 | *I-khavod* | Ichabod (meaning in the note) |
+| 21, 22 | *galah khavod* | The glory has gone into exile (noted) |
+
+### 1 Samuel 5: The Ark Among the Philistines
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3, 4 | *ve-hinneh Dagon nofel* | Dagon had fallen (no *here —*) |
+| 4 | *raq Dagon nish'ar alav* | Only the trunk of Dagon was left to him (***KEPT AS IS***: *trunk* supplied; noted) |
+| 6, 9, 12 | written *ofalim*, read *techorim* | tumors (the reading followed; as Deuteronomy 28:27; noted) |
+| 6 | Greek *kai meson tēs chōras autēs anephyēsan myes* | and mice sprang up in the middle of its land (Greek kept; noted) |
+| 6, 11 | *va-tikhbad yad YHWH* | The hand of the LORD was heavy (noted) |
+| 7 | *qashtah yado* | His hand is hard |
+| 8 | *yissov* | be moved around |
+| 9, 11 | *mehumah* | confusion (as Deuteronomy 7:23; noted) |
+| 9 | *va-yissateru lahem* | tumors broke out on them |
+| 12 | *shav'at ha-ir* | the cry of the city (noted) |
+
+### 1 Samuel 6: The Ark Returns
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | Greek *kai exezesen hē gē autōn myas* | and their land swarmed with mice (Greek kept; noted) |
+| 2 | *qosemim* | soothsayers (as Deuteronomy 18:10) |
+| 3 | *asham* | guilt offering (as Leviticus 5:6; noted) |
+| 3 | *hashev tashivu* | be sure to return (doubled verb) |
+| 4, 5, 11, 17 | written *ofalim*, read *techorim* | tumors (the reading followed) |
+| 5 | *yaqel et yado* | lighten His hand (noted) |
+| 6 | *hit'allel* | dealt harshly (noted; *what I did* in Exodus 10:2) |
+| 7 | *parot alot* | milk cows |
+| 8 | *ba-argaz* | in a box |
+| 9 | *miqreh* | by chance (as Ruth 2:3; noted) |
+| 12 | *va-yisharnah* | went straight |
+| 12 | *halekhu halokh ve-ga'o* | lowing as they went |
+| 18 | *kofer ha-perazi* | unwalled villages |
+| 18 | *ve-ad avel ha-gedolah* | as far as the great stone (the Hebrew has *avel*, **meadow**; *stone*, *even*, is the Greek and the stone of vv14–15, one letter different) |
+| 19 | *shiv'im ish chamishim elef ish* | seventy men of the people, fifty thousand men (***KEPT AS IS***: noted) |
+
+### 1 Samuel 7: Samuel Judges Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ba-giv'ah* | on the hill |
+| 2 | *va-yinnahu* | lamented (***KEPT AS IS***: rare verb; noted) |
+| 3 | *ha-khinu levavkhem* | direct your hearts |
+| 8 | *al tacharesh mimmennu mi-ze'oq* | Do not stop crying out (noted) |
+| 9 | *teleh chalav* | a suckling lamb |
+| 9 | written *vy'lh*, read *va-ya'alehu* | offered it (the reading followed; noted) |
+| 10 | *va-yehummem* | threw them into panic (fixed, as Exodus 14:24; noted) |
+| 11 | *ad mi-tachat le-Veit Kar* | as far as below Beth-car |
+| 12 | *ha-Shen* | Shen (noted; the Greek *the old one*) |
+| 16 | *mi-dei shanah be-shanah* | year by year |
+| 17 | *u-teshuvato* | Then he would return |
+
+**Checks:** verse counts equal the Hebrew (22, 12, 21, 17); no banned words; no "And"-starts except *And it came to pass* (4:5, 4:18, 5:9, 5:10, 7:2) and *And now* in speech (6:7); no *here —* or *look —*; 10 notes each. Quotations checked against our rendered text (Genesis 35:2; Exodus 1:15–16, 2:23, 8:15, 8:32, 10:2, 12:12, 14:24, 25:22; Leviticus 5:6; Numbers 4:20, 19:2; Deuteronomy 7:23, 16:16, 18:10, 28:27; Joshua 5:9–10, 13:3, 21:16, 24:23; Judges 3:3, 4:15, 7:3, 16:23–30, 20:1, 20:18; Ruth 2:3) and the printed Hebrew (1 Samuel 14:52). The Greek was checked against Swete (4:1, 3, 8, 13, 15, 18, 21; 5:3–6, 9, 11, 12; 6:1, 4, 5, 18, 19, 20; 7:2, 6, 12).
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Samuel 1–3 (loop, cycle 3, 8:32 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 1, 2, 3, together with Ruth 4 (report in `PASTE/renders/8-ruth.md`). Progress 429 → **433 of 1,989 (21.8%)**. Next is 1 Samuel 4.

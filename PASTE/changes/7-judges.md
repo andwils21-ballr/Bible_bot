@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 9:37 note corrected (loop, 2026-09-30, 8:36 AM Central)
+
+**Request:** none; found while rendering 1 Samuel 6:2. The note on Judges 9:37 called the *me'onen* *the soothsayer*, but Deuteronomy 18:10 renders *qosem* as *soothsayer* and *me'onen* as *one who reads omens*. The note now matches Deuteronomy.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 9, note on v37 | the *me'onen*, the soothsayer forbidden in Deuteronomy 18:10 | the *me'onen*, the *one who reads omens* forbidden in Deuteronomy 18:10 |
+
 ## Four word rulings from the notes, applied to finished books (2026-09-30, 7:35 AM Central)
 
 ### Your decisions
