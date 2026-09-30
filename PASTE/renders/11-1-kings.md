@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Kings 17–20 (loop, cycle 21, 2:05 PM Central, 2026-09-30)
+
+**Landed:** 1 Kings 17, 18, 19, 20. Progress 501 → **505 of 1,989 (25.4%)**. Next is 1 Kings 21.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **19:3**, *He was afraid*. The letters *vyr'* can be read *va-yira* (*he was afraid*) or *va-yar* (*he saw*); the scribes' vowels read *he saw*. The Greek has *Elijah was afraid*, and the flight *for his life* bears it out. Only the vowels differ. Noted.
+
+### 1 Kings 17: Elijah and the Widow of Zarephath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi-toshavei Gil'ad* | of the residents of Gilead (fixed term *toshav*; noted) |
+| 1 | *asher amadti lefanav* | before whom I stand (noted) |
+| 7, 17 | *va-yehi* | And it came to pass (formula) |
+| 9 | *hinneh tsivviti* | I have commanded (no *here —*) |
+| 10 | *ve-hinneh sham ishah almanah* | a widow was there (no *here —*) |
+| 12 | *ma'og* | nothing baked |
+| 13 | *ugah* | a little cake |
+| 15 | written *hi ve-hu*, read *hu ve-hi* | He and she (the reading followed) |
+| 18 | *mah li va-lakh* | What have I to do with you (noted) |
+| 20 | *mitgorer* | live as a guest (fixed term; noted) |
+| 21 | *va-yitmoded* | he stretched himself out (noted: found only here) |
+| 21–22 | *nefesh ha-yeled* | the child's life |
+
+### 1 Kings 18: Elijah on Mount Carmel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 17, 27, 29, 36, 44, 45 | *va-yehi* | And it came to pass (formula) |
+| 8, 11, 14 | *hinneh Eliyyahu* | Elijah is here |
+| 11, 14 | *ve-attah* | And now (in speech) |
+| 12, 24 | *ve-hayah* | And it shall come to pass (formula) |
+| 12 | *ruach YHWH* | the Spirit of the LORD (fixed) |
+| 17–18 | *okher* | you who bring trouble (as Joshua 7:25; noted) |
+| 21 | *posechim al shetei ha-se'ippim* | go limping between two opinions (noted) |
+| 26 | *va-yefassechu* | They limped (noted) |
+| 27 | *siach… sig* | musing… stepped aside (***KEPT AS IS***: *sig* uncertain; noted) |
+| 28 | *va-yitgodedu* | gashed themselves (as Deuteronomy 14:1; noted) |
+| 29 | *va-yitnabbe'u* | they raved on |
+| 32 | *ke-veit sa'tayim zera* | as great as would hold two seahs of seed |
+| 36 | written *u-vi-dvarekha*, read *u-vi-dvarkha* | at Your word (the reading followed) |
+| 42 | written *birko*, read *birkav* | his knees (the reading followed) |
+| 45 | *ad koh ve-ad koh* | in a little while |
+
+### 1 Kings 19: Elijah at Horeb
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yar* | He was afraid (Greek followed; noted) |
+| 3 | *va-yelekh el nafsho* | ran for his life |
+| 4 | written *rotem achat*, read *rotem echad* | a broom tree (the reading followed) |
+| 5 | *ve-hinneh zeh mal'akh* | a messenger (no *here —*; fixed term; noted) |
+| 6 | *ugat retsafim* | a cake baked on hot stones |
+| 9 | *ve-hinneh devar YHWH* | The word of the LORD came (no *here —*) |
+| 10, 14 | *qanno qinneti* | I have been very zealous (doubled verb) |
+| 11 | *ve-hinneh YHWH over* | The LORD was passing by (noted) |
+| 12 | *qol demamah daqqah* | a sound of thin silence (see Choices; noted) |
+| 13 | *va-yehi* | And it came to pass (formula) |
+| 17 | *ve-hayah* | And it shall come to pass (formula) |
+| 21 | *bishlam ha-basar* | boiled their flesh |
+
+### 1 Kings 20: Ahab and Ben-hadad
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| (order) | Greek has chapters 20 and 21 reversed | Hebrew order kept (noted) |
+| 10 | *im yispoq afar Shomeron lish'alim* | if the dust of Samaria is enough for handfuls |
+| 11 | *al yithallel choger ki-mefatteach* | Let not the one who puts on his armor boast like the one who takes it off (noted) |
+| 12, 26, 29 | *va-yehi* | And it came to pass (formula) |
+| 12 | *simu* | Take your positions |
+| 14 | *ne'arei sarei ha-medinot* | the young men of the governors of the districts |
+| 27 | *ke-shenei chasifei izzim* | like two little flocks of goats (***KEPT AS IS***: *chasif* found only here; noted) |
+| 30 | *cheder be-cheder* | into an inner room |
+| 31 | *malkhei chesed* | merciful kings (noted) |
+| 33 | *yenachashu* | took it as an omen (as Leviticus 19:26; noted) |
+| 33 | *va-yachletu ha-mimmennu* | quickly caught it up from him (***KEPT AS IS***: sense uncertain) |
+| 34 | *chutsot* | bazaars |
+| 38, 41 | *ba-efer* | with ashes (***KEPT AS IS***: the Greek has *a bandage*; noted) |
+| 42 | *ish chermi* | the man I had devoted to destruction (noted) |
+| 43 | *sar ve-za'ef* | sullen and vexed (noted) |
+
+**Checks:** verse counts equal the Hebrew (24, 46, 21, 43); no banned words; no "And"-starts except *And it came to pass*, *And it shall come to pass* and *And now* in speech; no *here —* or *look —*; notes 9, 10, 10, 10. Quotations checked against our rendered text (Exodus 3:6, 6:7, 33:21–22, 34:28; Leviticus 9:24, 11:15, 19:26; Numbers 11:15; Deuteronomy 14:1; Genesis 35:10; Joshua 7:25; Judges 5:21; 1 Samuel 15:3, 15:9; 2 Samuel 16:10) and the printed Hebrew (2 Kings 4:34, 8:13, 9:6; Isaiah 29:5; Hosea 13:2; Jonah 4:3; Psalm 107:29) and Greek (Luke 4:25–26; James 5:17; Romans 11:4). *Va-yitmoded* and *chasif* were searched across the whole Hebrew text. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:**
+- **19:12, *qol demamah daqqah*.** The text now reads: *After the fire, a sound of thin silence.* The three words: *qol*, **sound** or **voice**; *demamah*, **silence** or **stillness** (the calm after the storm in Psalm 107:29); *daqqah*, **thin**, **fine**, the word for fine dust (Isaiah 29:5). The options:
+  - *a sound of thin silence* (now in the text): word for word; strange in English, but so is the Hebrew.
+  - *a still small voice* (KJV and many since): the familiar line; *voice* makes it speech, which the Hebrew does not say until v13.
+  - *a gentle whisper* or *the sound of a low whisper*: reads easily, but *whisper* is not in the words.
+  - *the sound of a light breeze*: the Greek.
+  **Recommendation: keep *a sound of thin silence*.** It is what the words say, and v13 then brings the *voice* separately.
+
 ## 1 Kings 13–16 (loop, cycle 20, 1:59 PM Central, 2026-09-30)
 
 **Landed:** 1 Kings 13, 14, 15, 16. Progress 497 → **501 of 1,989 (25.2%)**. Next is 1 Kings 17.
