@@ -2,6 +2,152 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 12–15 (loop, cycle 6, 9:00 AM Central, 2026-09-30)
+
+**Landed:** 1 Samuel 12, 13, 14, 15. Progress 441 → **445 of 1,989 (22.4%)**. Next is 1 Samuel 16.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **13:15**, *Then Samuel arose and went from Gilgal on his way. The rest of the people went up after Saul to meet the fighting men, and they came from Gilgal to Gibeah of Benjamin.* The Hebrew has *Samuel arose and went up from Gilgal to Gibeah of Benjamin*. *From Gilgal* stands twice in the Greek, and the Hebrew lacks what lies between: the same eye-skip gap as 10:1. Noted.
+- **13:20**, *his sickle*. The Hebrew's fourth tool, *machareshah*, is nearly the same word as its first, *macharesheth* (plowshare), so the list names the plowshare twice; the Greek has *sickle*. Noted.
+- **14:18**, *Bring the ephod here, for he carried the ephod on that day before Israel.* The Hebrew has *Bring the ark of God here, for the ark of God was on that day, and the sons of Israel*: the sentence breaks off, and the ark was at Kiriath-jearim (7:1–2; 2 Samuel 6:3). Ahijah wears the ephod (v3), and *withdraw your hand* (v19) is the priest stopping an inquiry. Noted.
+- **14:41**, Saul's prayer for Urim and Thummim. The Hebrew has only *Saul said to the LORD God of Israel, "Give perfect"*; *LORD God of Israel* stands twice in the Greek, and the Hebrew lacks what lies between. Noted, with the Greek's own compressed wording of the second half.
+- **14:42**, *Whomever the LORD takes shall die. The people said to Saul, "This shall not be." But Saul prevailed over the people, and they cast the lot between him and Jonathan his son.* The Hebrew passes from *between me and Jonathan my son* to *Jonathan was taken*; the Greek has the phrase twice. Noted.
+
+**Decided, with the reason:** **13:1** reads *Saul was [number lost] years old when he began to reign*. The Hebrew is *ben shanah*, **a son of a year**, the formula that always carries a number (2 Samuel 5:4), with the number gone, and the Greek lacks the verse. Writing *one year old* would print a text error as fact; supplying a number would invent one. The spec's honesty rule 3 and the *[words lost]* practice already used for 1–3 Meqabyan cover it. Noted, with Acts 13:21's *forty years* beside the Hebrew's *two years*.
+
+### 1 Samuel 12: Samuel's Farewell
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hinneh shama'ti* | I have listened (no *here —*) |
+| 2 | *ve-attah hinneh ha-melekh mithallekh* | And now the king walks before you (*And now* in speech) |
+| 3 | *hineni* | Here I am |
+| 3 | *kofer ve-a'lim einai bo* | a bribe to blind my eyes with it (noted; the Greek adds *and a sandal*) |
+| 5 | *ed YHWH… ve-ed meshicho* | The LORD is witness… and His anointed (noted) |
+| 6 | *YHWH asher asah et Moshe* | It is the LORD who appointed Moses (*it is* supplied; noted) |
+| 7 | *ve-ishafetah ittekhem* | so that I may plead with you |
+| 7 | *tsidqot YHWH* | the righteous acts of the LORD (noted) |
+| 9 | *va-yimkor otam be-yad* | He sold them into the hand of |
+| 11 | *Bedan* | Bedan (***KEPT AS IS***: the Greek has *Barak*; see Choices) |
+| 11 | *va-teshvu betach* | you lived in safety |
+| 12 | *lo ki melekh yimlokh aleinu* | No, a king shall reign over us |
+| 14 | *vi-hyitem… achar YHWH* | follow the LORD… it will be well (the Hebrew and the Greek give the *if* and no *then*; *it will be well* is supplied) |
+| 15 | *u-va-avoteikhem* | as it was against your fathers (***KEPT AS IS***: the Greek has *your king*; see Choices) |
+| 16 | *gam attah* | Now then |
+| 17 | *qolot* | thunder (noted) |
+| 21 | *ha-tohu* | empty things (noted) |
+| 22 | *ho'il YHWH* | it has pleased the LORD |
+| 23 | *chalilah li* | far be it from me (noted) |
+| 25 | *tissafu* | shall be swept away |
+
+### 1 Samuel 13: Saul's Sacrifice at Gilgal
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ben shanah Sha'ul* | Saul was *[number lost]* years old (noted; see above) |
+| 2 | *ish le-ohalav* | each to his tent |
+| 3 | *netsiv Pelishtim* | the Philistine garrison (as 10:5) |
+| 3 | *yishme'u ha-ivrim* | Let the Hebrews hear! (***KEPT AS IS***: the Greek *The slaves have revolted*; noted) |
+| 4 | *niv'ash* | become a stench (noted) |
+| 4 | *va-yitsa'aqu ha-am* | The people were called out |
+| 6 | *ba-tseriachim* | in strongholds (as Judges 9:46) |
+| 7 | *ve-ivrim avru* | Some Hebrews crossed (noted) |
+| 8 | written *vyychl*, read *va-yochel* | He waited (the reading followed; same meaning) |
+| 8 | *la-mo'ed asher Shemu'el* | to the appointed time that Samuel had set (*had set* supplied; noted) |
+| 10 | *ve-hinneh Shemu'el ba* | that Samuel came (no *here —*) |
+| 10 | *le-varakho* | to greet him |
+| 12 | *u-fenei YHWH lo chilliti* | I have not sought the LORD's favor (noted) |
+| 12 | *va-etappaq* | So I forced myself (noted) |
+| 13 | *niskalta* | You have acted foolishly (noted) |
+| 14 | *ish ki-levavo* | a man after His own heart (noted) |
+| 15 | Greek addition | went from Gilgal on his way… to Gibeah of Benjamin (Greek followed; noted) |
+| 17 | *ha-mashchit* | The raiders (noted) |
+| 17 | *roshim* | companies |
+| 19 | written *'mr*, read *amru* | the Philistines said (the reading followed) |
+| 19 | *pen* | In case |
+| 20 | *machareshato* | his sickle (Greek followed; noted) |
+| 21 | *ha-petsirah pim* | The charge was a pim (noted: words found only here) |
+| 22 | *ve-hayah be-yom milchemet* | So on the day of battle (***KEPT AS IS***: *ve-hayah* opens a single past event; the formula is not used) |
+
+### 1 Samuel 14: Jonathan's Victory and Saul's Oath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi ha-yom* | And it came to pass one day (formula) |
+| 4 | *shen ha-sela* | a rocky crag (literally *tooth of the rock*) |
+| 6 | *ha-arelim* | these uncircumcised |
+| 6 | *ein la-YHWH ma'tsor* | nothing restrains the LORD (noted) |
+| 7 | *neteh lakh hineni immekha kilvavekha* | Go ahead; I am with you, as your heart is |
+| 11 | *hinneh ivrim yotse'im* | See, Hebrews are coming out |
+| 12 | *ve-nodi'ah etkhem davar* | we will show you something |
+| 14 | *ke-vachatsi ma'anah tsemed sadeh* | within about half a furrow's length in an acre of field (noted) |
+| 15 | *chardat Elohim* | a trembling from God (noted) |
+| 16 | *namog va-yelekh va-halom* | melting away, surging here and there |
+| 18 | Greek reading | Bring the ephod here… before Israel (Greek followed; noted) |
+| 19 | *esof yadekha* | Withdraw your hand |
+| 20 | *va-yizza'eq* | rallied |
+| 20 | *mehumah* | confusion (fixed term) |
+| 21 | *ve-gam hemmah lihyot* | also turned to be with Israel (*turned* supplied, as the Greek) |
+| 24 | *va-yo'el* | had put… under an oath |
+| 25 | *kol ha-arets* | All the people of the land |
+| 27 | written *vtr'nh*, read *va-ta'ornah* | his eyes brightened (the reading followed; noted) |
+| 28 | *hashbe'a hishbi'a* | strictly put… under oath (doubled verb) |
+| 29 | *akhar* | brought trouble on (noted) |
+| 32 | written *vy's*, read *va-ya'at* | pounced (the reading followed) |
+| 32 | *al ha-dam* | with the blood (noted) |
+| 33 | *begadtem* | You have dealt faithlessly (noted) |
+| 36 | *niqrevah halom el ha-Elohim* | Let us draw near to God here |
+| 38 | *pinnot ha-am* | leaders of the people (as Judges 20:2) |
+| 39 | *mot yamut* | he shall die (doubled verb) |
+| 41–42 | Greek addition | Urim… Thummim; the people's protest (Greek followed; noted) |
+| 43 | *hineni amut* | Here I am; I must die |
+| 44 | *koh ya'aseh Elohim ve-khoh yosif* | May God do so, and more also (the Hebrew has no *to me* here, unlike Ruth 1:17) |
+| 45 | *im Elohim* | with God (noted) |
+| 45 | *va-yifdu* | ransomed (noted) |
+| 47 | *yarshia'* | he punished them (noted) |
+| 52 | *ben chayil* | man of valor (as 10:26) |
+
+### 1 Samuel 15: Saul Rejected
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *paqadti* | I have taken note of |
+| 2 | *asher sam lo ba-derekh* | how he set himself against him on the way |
+| 3 | *ve-hacharamtem* | devote to destruction (as Joshua 6:21; noted) |
+| 4 | *va-yishamma* | summoned |
+| 5 | *va-yarev ba-nachal* | lay in wait in the valley |
+| 6 | *pen osifkha* | in case I sweep you away |
+| 6 | *chesed* | loyal love (fixed term; noted) |
+| 9 | *ha-mishnim* | the next best (noted) |
+| 9 | *nemivzah ve-names* | despised and worthless |
+| 11 | *nichamti* | I am sorry (as Genesis 6:6; noted) |
+| 11 | *va-yichar li-Shmu'el* | Samuel was angry |
+| 12 | *matsiv lo yad* | set up a monument for himself (noted) |
+| 14 | *qol ha-tson* | bleating of sheep |
+| 16 | *heref* | Stop |
+| 16 | written *vy'mrw*, read *va-yomer* | He said (the reading followed) |
+| 18 | *ba-derekh* | on a mission |
+| 19 | *va-ta'at* | pounced (as 14:32; noted) |
+| 22–23 | set as poetry | Samuel's answer in lines (noted) |
+| 23 | *qesem* | soothsaying (fixed term, *qosem*; noted) |
+| 23 | *haftsar* | insistence (noted) |
+| 24 | *avarti et pi YHWH* | I have transgressed the command of the LORD (literally *the mouth of the LORD*) |
+| 25 | *sa na et chattati* | please forgive my sin (literally *lift my sin*) |
+| 27 | *va-yachazeq* | Saul took hold (the subject named, as the Greek; noted) |
+| 29 | *Netsach Yisra'el* | the Enduring One of Israel (noted) |
+| 29 | *yinnachem* | change His mind (as Numbers 23:19; noted) |
+| 32 | *ma'adannot* | cheerfully (noted: or *in chains*) |
+| 33 | *va-yeshassef* | hewed to pieces (noted) |
+| 35 | *hit'abbel* | mourned |
+
+**Checks:** verse counts equal the Hebrew (25, 23, 52, 35); no banned words; no "And"-starts except *And it came to pass* (13:10, 14:1, 14:19) and *And now* in speech (12:2, 12:7, 12:10, 12:13); no *here —* or *look —*; 10 notes each. Quotations checked against our rendered text (Genesis 1:2, 6:6, 19:3, 34:30, 43:31, 45:1, 49:20; Exodus 12:23, 13:13, 17:8, 17:14, 19:16, 23:8; Leviticus 19:26; Numbers 16:15, 23:19; Deuteronomy 18:10, 25:17–19; Joshua 6:21, 7:25; Judges 1:16, 5:11, 7:2, 7:12, 20:2; Ruth 1:17; 1 Samuel 2:10, 2:19, 4:19–21, 7:1–2, 7:5, 7:8–9, 8:3, 10:8) and the printed Hebrew (1 Samuel 4:6, 4:9, 24:4, 26:21, 28:6, 28:14, 28:17; 2 Samuel 2:26, 5:4, 6:3, 18:18, 24:10; 1 Chronicles 15:18; Isaiah 5:10; Job 38:31). *Pim*, *petsirah*, *qilleshon* and *shassef* were searched across the whole Hebrew text: each occurs only in these verses. Acts 13:21–22 checked in the Greek New Testament. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above. In 13:5 *thirty thousand chariots* stands in the Hebrew and the Greek alike and is left as printed.
+
+**Choices for you:**
+- **12:11, *Bedan* or *Barak*.** The Hebrew names *Jerubbaal and Bedan and Jephthah and Samuel*. No deliverer called Bedan appears anywhere in Judges; the Greek has *Barak*, Deborah's partner against Sisera, whom v9 has just named. **Recommendation: Barak**, with the note keeping *Bedan*. Today the text has *Bedan*.
+- **12:15, *your fathers* or *your king*.** The Hebrew has *against you and against your fathers*; the Greek has *against you and against your king*, which matches v14 and v25 (*both you and your king*). **Recommendation: your king.** Today the text has *your fathers*.
+
 ## 1 Samuel 8–11 (loop, cycle 5, 8:45 AM Central, 2026-09-30)
 
 **Landed:** 1 Samuel 8, 9, 10, 11. Progress 437 → **441 of 1,989 (22.2%)**. Next is 1 Samuel 12.
@@ -68,7 +214,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 11 | *etmol shilshom* | before |
 | 12 | *u-mi avihem* | But who is their father? (***KEPT AS IS***; noted) |
 | 14 | *dod Sha'ul* | Saul's uncle |
-| 16 | *haggged higgid* | He told us plainly (doubled verb) |
+| 16 | *haged higgid* | He told us plainly (doubled verb) |
 | 19 | *le-alfeikhem* | by your thousands |
 | 21 | written *lmshpchtw*, read *le-mishpechotav* | by its clans (the reading followed) |
 | 21 | Greek addition | Then he brought the clan of the Matrites near man by man (Greek followed; noted) |
@@ -76,7 +222,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 24 | *yechi ha-melekh* | Long live the king! |
 | 25 | *mishpat ha-melukhah* | the rule of the kingship (noted) |
 | 26 | *ha-chayil* | the men of valor |
-| 27 | *vay-hi ke-macharish* | But he kept silent (noted at 11:1) |
+| 27 | *va-yehi ke-macharish* | But he kept silent (noted at 11:1) |
 
 ### 1 Samuel 11: Saul Rescues Jabesh-gilead
 
