@@ -4,6 +4,18 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 **Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: 1–50. Complete.
 
+## *Harlot* changed to *prostitute* (2026-09-30, 7:54 AM Central)
+
+Follows your ruling *whore for the verb, prostitute for the noun*. It is a rule about English words, so it reaches the Jubilees text as well; nothing in the Ge'ez is argued from.
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 41:10 | took her for a harlot | took her for a prostitute |
+| Jubilees 41:14 | Where is the harlot who was here? … There is no harlot here, and we have no harlot among us | Where is the prostitute who was here? … There is no prostitute here, and we have no prostitute among us |
+| Jubilees 41:15 | There is no harlot here | There is no prostitute here |
+| Jubilees 41:16 | with child by harlotry | with child by prostitution |
+| Jubilees 30:8 | Let no harlot and no uncleanness | Let no prostitute and no uncleanness |
+
 ## Jubilees 7 and 14–16: the brackets removed, from Charles's Ge'ez (Andrew, 2026-09-27)
 
 **Request:** Andrew: "If we have the words to translate, then take the brackets off."
