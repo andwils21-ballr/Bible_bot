@@ -2,6 +2,96 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 9–12 (loop, cycle 13, 1:08 PM Central, 2026-09-30)
+
+**Landed:** 2 Samuel 9, 10, 11, 12. Progress 469 → **473 of 1,989 (23.8%)**. Next is 2 Samuel 13.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **9:11**, *So Mephibosheth ate at David's table*. The Hebrew has *at my table*, though the sentence stands after Ziba's words and is not David's speech. The Greek has *at David's table*. Noted.
+- **11:1**, *at the time when kings go out*. The Hebrew letters spell *ha-mal'akhim*, *the messengers*, but the aleph carries a *rafe* mark telling the reader not to sound it; without it the word is *kings*. The Greek and 1 Chronicles 20:1 have *kings*. Noted.
+
+### 2 Samuel 9: David and Mephibosheth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 3, 7 | *chesed* | loyal love (fixed term; noted) |
+| 3 | *chesed Elohim* | the loyal love of God (noted) |
+| 3 | *nekheh raglayim* | lame in his feet |
+| 6 | *hinneh avdekha* | Here is your servant (noted) |
+| 7 | *ki asoh e'eseh* | I will surely show |
+| 8 | *ha-kelev ha-met* | a dead dog (noted) |
+| 11 | *al shulchani* | at David's table (Greek followed; noted) |
+
+### 2 Samuel 10: The War with Ammon and Aram
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi* | And it came to pass (formula) |
+| 3 | *ha-mekhabbed David et avikha be-einekha* | Do you think David is honoring your father |
+| 3 | *u-le-hofkhah* | to overthrow it (noted) |
+| 4 | *ad shetoteihem* | as far as their buttocks (noted) |
+| 6 | *niv'ashu* | they had become a stench (as 1 Samuel 13:4; noted) |
+| 6, 8 | *Ma'akhah* | Maacah (***KEPT AS IS***: the Greek has *Amalek*; Chronicles agrees with the Hebrew; noted) |
+| 6, 8 | *ish tov* | the men of Tob (noted) |
+| 9 | written *b-yisra'el*, read *yisra'el* | of Israel (the reading followed) |
+| 12 | *chazaq ve-nitchazzaq* | Be strong, and let us show ourselves strong (noted) |
+| 12 | *va-YHWH ya'aseh* | The LORD will do (no *And*-start) |
+| 16 | *Chelam* | Helam |
+| 18 | *sheva me'ot rekhev ve-arba'im elef parashim* | the men of seven hundred chariots and forty thousand horsemen (***KEPT AS IS***: Chronicles has *seven thousand chariots and forty thousand foot soldiers*; the Greek agrees with the Hebrew; noted) |
+
+### 2 Samuel 11: David and Bathsheba
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 2, 14, 16 | *va-yehi* | And it came to pass (formula) |
+| 1 | *ha-mal'akhim* (aleph marked silent) | kings (Greek and Chronicles followed; noted) |
+| 3 | *bat Eli'am* | daughter of Eliam (noted: Greek *Eliab*, Chronicles *Ammiel*) |
+| 4 | *mitqaddeshet mi-tum'atah* | she had been purifying herself from her uncleanness (noted) |
+| 7 | *li-shlom… li-shlom… li-shlom* | the welfare of… (three times; noted) |
+| 8 | *mas'at ha-melekh* | a gift from the king (noted) |
+| 11 | *ba-sukkot* | in booths (noted) |
+| 11 | *chayyekha ve-chei nafshekha* | As you live, and as your soul lives |
+| 16 | *anshei chayil* | men of valor |
+| 21 | *Yerubbeshet* | Jerubbesheth (noted) |
+| 21 | *pelach rekhev* | an upper millstone (as Judges 9:53) |
+| 22 | Greek addition | not taken (***KEPT AS IS***: the Greek adds David's anger at Joab; noted) |
+| 24 | written *va-yor'u ha-mor'im*, read *va-yoru ha-morim* | the archers shot (the reading followed; same meaning) |
+| 25, 27 | *al yera be-einekha… va-yera… be-einei YHWH* | Do not let this thing be evil in your eyes… evil in the eyes of the LORD (noted) |
+
+### 2 Samuel 12: Nathan and David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ke-vat* | like a daughter (noted) |
+| 4 | *va-yachmol* | he could not bear to |
+| 5 | *ben mavet* | deserves to die (fixed; noted) |
+| 6 | *arba'tayim* | fourfold (***KEPT AS IS***: the Greek has *sevenfold*; the Hebrew matches Exodus 22:1; noted) |
+| 7 | *attah ha-ish* | You are the man! (noted) |
+| 8 | *kahennah ve-khahennah* | as much again and as much again |
+| 9 | written *be-eino*, read *be-einai* | in My eyes (the reading followed; noted) |
+| 10 | *ve-attah* | Now therefore (no *And*-start) |
+| 11 | *le-einei ha-shemesh ha-zot* | before the eyes of this sun (noted) |
+| 13 | *he'evir chatta'tekha* | has put away your sin |
+| 14 | *ni'etz ni'atsta et oyevei YHWH* | you have utterly scorned the enemies of the LORD (***KEPT AS IS***: wording that turns the words away from God, as 1 Samuel 25:22; noted) |
+| 15 | *va-ye'anash* | he became very sick |
+| 18 | *va-yehi* | And it came to pass (formula) |
+| 18 | *ve-asah ra'ah* | He may do something terrible |
+| 20 | written *simlato*, read *simlotav* | his clothes (the reading followed) |
+| 20 | *beit YHWH* | the house of the LORD |
+| 22 | written *yechanani*, read *ve-channani* | The LORD may be gracious to me (the reading followed) |
+| 24 | written *va-yiqra*, read *va-tiqra* | she called (the reading followed; noted) |
+| 25 | *Yedidyah ba-avur YHWH* | Jedidiah, because of the LORD (noted) |
+| 27 | *ir ha-mayim* | the city of waters |
+| 30 | *ateret malkam* | the crown of their king (***KEPT AS IS***: also the god *Milcom*; noted) |
+| 31 | *va-yasem ba-megerah* | set them to the saws (noted) |
+| 31 | written *ba-malken*, read *ba-malben* | the brick kiln (the reading followed; noted) |
+
+**Checks:** verse counts equal the Hebrew (13, 19, 27, 31); no banned words; no "And"-starts except *And it came to pass* (10:1, 11:1, 11:2, 11:14, 11:16, 12:18); no *here —* or *look —*; notes 9, 10, 10, 10. Quotations checked against our rendered text (Genesis 19:25, 43:34; Exodus 22:1; Leviticus 15:19, 28; Deuteronomy 31:7; Judges 6:32, 9:50, 9:53, 11:3; 1 Samuel 3:4, 3:18, 11:1–2, 13:4, 15:24, 15:30, 20:14–15, 20:31, 21:5, 24:14, 24:21–22, 25:22; 2 Samuel 4:4, 8:3) and the printed Hebrew (2 Samuel 13:28–29, 16:1–4, 16:22, 17:27–29, 18:14–15, 23:34, 23:39; 1 Kings 2:25, 11:5; 1 Chronicles 3:5, 19:7, 19:18, 20:1, 20:3; Psalm 51 heading; Isaiah 20:4). The *rafe* in 11:1 was read from the character codes in the source file. The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 2 Samuel 5–8 (loop, cycle 12, 1:00 PM Central, 2026-09-30)
 
 **Landed:** 2 Samuel 5, 6, 7, 8. Progress 465 → **469 of 1,989 (23.6%)**. Next is 2 Samuel 9.
