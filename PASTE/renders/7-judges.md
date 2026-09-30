@@ -2,6 +2,118 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judges 13–16 (routine ping, 7:52 AM Central, 2026-09-30)
+
+**Landed:** Judges 13, 14, 15, 16. Progress 417 → **421 of 1,989 (21.2%)**. Next is Judges 17.
+
+**Your rulings of this morning were followed:** *messenger* (13:3–21), *the Spirit of the LORD* (13:25, 14:6, 14:19, 15:14), *whore/prostitute*. See `PASTE/changes/7-judges.md`.
+
+### Judges 13: The Birth of Samson
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3–21 | *mal'akh YHWH* / *mal'akh ha-Elohim* | the messenger of the LORD / of God (fixed term) |
+| 3, 5 | *ve-harit* / *hinnakh harah* | you shall conceive / you are pregnant |
+| 4, 7, 14 | *yayin ve-shekhar* | wine or strong drink (as Numbers 6:3) |
+| 4, 7, 14 | *kol tame* | anything unclean |
+| 5 | *morah lo ya'aleh al rosho* | No razor shall go up on his head (as the Numbers 6 note already quotes it) |
+| 5, 7 | *nezir Elohim* | a Nazirite of God |
+| 5 | *yachel le-hoshia* | he shall begin to save (noted) |
+| 6, 8, 10, 11 | *ish ha-Elohim* | a man of God |
+| 8 | *ve-yorenu* | teach us |
+| 12 | *mishpat ha-na'ar u-ma'asehu* | the boy's way of life, and what shall he do |
+| 14 | *mi-gefen ha-yayin* | anything that comes from the grapevine (as Numbers 6:4) |
+| 15 | *na'atsrah na* | Please let us detain you |
+| 17 | written *dbryk*, read *devarkha* | your words (the reading followed; same meaning) |
+| 18 | *peli* | wonderful (***KEPT AS IS***: *wonderful* or *beyond understanding*; noted) |
+| 19 | *u-maflí la'asot* | He worked a wonder (***KEPT AS IS***: the sentence has no named subject; noted) |
+| 22 | *mot namut* | We shall surely die (doubled verb) |
+| 25 | *lefa'amo* | to stir him (noted) |
+| 25 | *Machaneh-Dan* | Mahaneh-dan (place name; the meaning in the note) |
+
+### Judges 14: Samson's Wedding and the Riddle
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3, 7 | *yashrah be-einai* | right in my eyes (noted; as 17:6, 21:25) |
+| 4 | *to'anah* | an occasion (***KEPT AS IS***: word found only here; the Greek has *vengeance*) |
+| 5 | *ve-hinneh kefir arayot* | A young lion came roaring at him (no *here —*) |
+| 6, 19 | *va-titslach* | rushed on him (noted; as 1 Samuel 10:6) |
+| 6 | *va-yeshassse'ehu* | he tore… in two |
+| 8 | *ve-hinneh adat devorim* | In the body of the lion was a swarm of bees (no *here —*) |
+| 9 | *va-yirdehu* | He scraped… |
+| 10 | *mishteh* | a feast (noted: **drinking feast**) |
+| 11 | *ki-re'otam oto* | When the people saw him (***KEPT AS IS***: the Hebrew and the Greek both leave *they* unclear) |
+| 12 | *chidah* | a riddle |
+| 12, 13 | *sedinim* | linen garments (***KEPT AS IS***: the sense is a linen cloth or garment) |
+| 14 | riddle | set as two lines |
+| 15 | *pattî* | Coax |
+| 15 | *hal-yareshenu qera'tem lanu* | Did you invite us here to dispossess us? |
+| 15 | *ba-yom ha-shevi'i* | On the seventh day (***KEPT AS IS***: see Choices) |
+| 16 | *chidah chadta* | You have set a riddle (doubled word) |
+| 16 | *ve-hinneh… lo higgadti* | I have not even told my father or my mother (no *here —*) |
+| 18 | *be-terem yavo ha-charsah* | before the sun went down (***KEPT AS IS***: the word is found only here; noted) |
+| 18 | *ba-eglati* | with my heifer |
+| 20 | *le-merei'ehu asher ra'ah lo* | his companion, who had been his friend (doubled word) |
+
+### Judges 15: The Foxes, and the Jawbone
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *bi-gedi izzim* | with a young goat |
+| 2 | *amor amarti ki sano seneta* | I was sure that you hated her (doubled verb) |
+| 3 | *niqqeti ha-pa'am* | This time I am blameless |
+| 4 | *shu'alim* | foxes (noted: fox or jackal) |
+| 5 | *migadish ve-ad qamah* | the stacked grain and the standing grain |
+| 8 | *shoq al yarekh* | a great slaughter (***KEPT AS IS***: the idiom *leg on thigh* is dropped and given in the note; its sense is uncertain) |
+| 12 | *pen* | that you will not… (*Swear to me that you will not attack me yourselves*) |
+| 13 | *asor ne'esorkha* | We will only bind you (doubled verb) |
+| 14 | *hera'u* | shouted |
+| 15 | *va-yishlach yado* | put out his hand (as Genesis 8:9, 22:10; see the *put* question in `NOTES_FOR_ANDREW.md`) |
+| 15 | *lechi chamor teriyyah* | a fresh jawbone of a donkey (noted) |
+| 16 | *chamor chamorattayim* | heap upon heap (noted: *donkey*/*heap*) |
+| 17 | *Ramat Lechi* | Ramath-lehi (meaning in the note) |
+| 18 | *ha-teshu'ah ha-gedolah* | this great deliverance (noted) |
+| 19 | *ha-maktesh* | the hollow place (***KEPT AS IS***: ground or jawbone; noted) |
+| 19 | *En ha-Qore* | En-hakkore (meaning in the note) |
+
+### Judges 16: Samson and Delilah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ishah zonah* | a prostitute (noun; fixed term) |
+| 2 | *va-yitcharshu* | They kept quiet |
+| 3 | *ha-berichach* | the bar |
+| 4 | *va-yehi acharei khen* | And it came to pass afterward |
+| 5, 15 | *pattî* | Coax (as 14:15) |
+| 5, 6, 19 | *le-anoto* | to subdue him |
+| 7, 8 | *yetarim lachim* | fresh bowstrings |
+| 9 | *petil ha-ne'oret* | a thread of tow |
+| 10 | *hetalta bi* | You have mocked me |
+| 13 | whole verse | into the web and fasten it with the pin, I will become weak and be like any other man (Greek followed; see below) |
+| 14 | *va-yissa et ha-yated ha-ereg ve-et ha-masseket* | pulled up the pin, the loom and the web |
+| 16 | *va-tiqtsar nafsho la-mut* | he was worn out to the point of death (noted) |
+| 17 | *morah* | razor (as 13:5) |
+| 18 | written *lah*, read *li* | for he has told me (the reading followed; same meaning) |
+| 20 | *ke-fa'am be-fa'am* | as at other times |
+| 21 | *nechushtayim* | bronze shackles |
+| 21 | written *ha-asirim*, read *ha-asurim* | the prison (the reading followed; same meaning) |
+| 21 | *tochen* | a grinder |
+| 25 | written *ki tov*, read *ke-tov* | When their hearts were merry (the reading followed; same meaning) |
+| 25 | *va-yetsacheq* | he entertained them (noted) |
+| 26 | written *ve-himshani*, read *va-hamisheni* | Let me feel (the reading followed; same meaning) |
+| 28 | *Adonai YHWH* | Lord GOD (fixed rendering) |
+| 28 | *neqam achat* | one act of revenge (doubled word, kept for the count *one*… *two eyes*) |
+
+**Checks:** verse counts equal the Hebrew (25, 20, 20, 31); no banned words; no "And"-starts except *And it came to pass* (16:4); no *here —* or *look —*; notes 10, 10, 9, 10. Quotations checked against our rendered text (Genesis 32:29; Numbers 6:3–6, 21:4; Joshua 2:1, 19:41, 19:43; Judges 6:22–23, 10:16, 14:15, 21:25) and the printed Hebrew (Isaiah 1:6, 9:5; Job 9:7; Numbers 6:5; Zephaniah 1:11; Proverbs 27:22; 1 Samuel 10:6; Judges 17:2, 17:6, 18:12, 21:25). The Greek was checked against Swete (Judges 13:5, 6, 18, 19, 25; 14:3, 4, 6, 8, 11, 14, 15, 17, 18, 19, 20; 15:4, 8, 14, 16, 19; 16:2, 5, 13, 14, 19, 20, 25, 26, 30).
+
+**Departure from the Hebrew, by your witnesses rule:** Judges 16:13. The Hebrew stops at *with the web*. The pin comes from the Greek and is needed by v14; the result (*I will become weak…*) comes from the Greek and matches vv7 and 11. Both are in the note.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above. The Nazirite question of 14:8–10 (the carcass, the feast) is left as the text has it, with no verdict.
+
+**Choices for you:**
+- **Judges 14:15, "seventh day" or "fourth day".** Now: *On the seventh day they said to Samson's wife…* The Greek: *on the fourth day*. The context backs the Greek: v14 says they failed *for three days*, and v17 says she wept *the seven days that the feast lasted*, which cannot follow a threat made on the seventh. My recommendation: follow the Greek. Verses involved: 14:12 (*seven days of the feast*), 14:14 (*for three days*), 14:15 (*on the seventh day*), 14:17 (*the seven days*; *on the seventh day he told her*), 14:18 (*on the seventh day, before the sun went down*).
+
 ## Judges 9–12 (routine ping, 10:51 PM Central, 2026-09-29)
 
 **Landed:** Judges 9, 10, 11, 12. Progress 413 → **417 of 1,989 (21.0%)**. Next is Judges 13, Samson.
