@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Kings 13–16 (loop, cycle 20, 1:59 PM Central, 2026-09-30)
+
+**Landed:** 1 Kings 13, 14, 15, 16. Progress 497 → **501 of 1,989 (25.2%)**. Next is 1 Kings 17.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **13:11**, *His sons came and told him*. The Hebrew has *his son came*, then *they told… to their father*; the Greek has *his sons*, as vv12–13 and 27 do. Noted.
+
+### 1 Kings 13: The Man of God from Judah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-hinneh ish Elohim ba* | A man of God came (no *here —*) |
+| 2 | *hinneh ven nolad* | A son shall be born (no *here —*; noted) |
+| 3 | *mofet* | sign |
+| 4, 20, 23, 31 | *va-yehi* | And it came to pass (formula) |
+| 6 | *challeh na et penei YHWH* | Entreat the favor of the LORD (noted) |
+| 7 | *u-se'adah* | refresh yourself |
+| 11 | *beno* | His sons (Greek followed; noted) |
+| 18 | *mal'akh* | a messenger (fixed term; noted) |
+| 18 | *kichesh lo* | He lied to him (noted) |
+| 21, 26 | *marita pi YHWH* | rebelled against the mouth of the LORD |
+| 24 | *nivlato mushlekhet* | His body lay thrown (noted) |
+| 30 | *hoy achi* | Alas, my brother! (noted) |
+| 32 | *hayoh yihyeh* | shall surely come to pass (doubled verb) |
+| 32 | *arei Shomeron* | the cities of Samaria (***KEPT AS IS***: the city is founded in 16:24; noted) |
+| 33 | *yemalle et yado* | he ordained (as Exodus 28:41; noted) |
+
+### 1 Kings 14: Ahijah's Word against Jeroboam
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–20 | (not in the Greek here) | Hebrew kept (noted) |
+| 2 | *ve-hishtanit* | disguise yourself |
+| 3 | *niqqudim* | crumbled cakes (as Joshua 9:5; noted) |
+| 4 | *qamu einav* | his eyes were fixed (as 1 Samuel 4:15; noted) |
+| 5, 6 | *mitnakkerah* | pretending to be another woman |
+| 6 | *shaluach elayikh qashah* | sent to you with hard news |
+| 9 | *acharei gavekha* | behind your back (noted) |
+| 10 | *mashtin be-qir* | every male (as 1 Samuel 25:22; noted) |
+| 10 | *atsur ve-azuv* | bond or free (as Deuteronomy 32:36; noted) |
+| 10 | *ka-asher yeva'er ha-galal* | as one sweeps away dung (noted) |
+| 14 | *zeh ha-yom u-meh gam attah* | this day — and what? even now (***KEPT AS IS***: sense uncertain; noted) |
+| 15 | *Asherim* | Asherim (noted) |
+| 24 | *qadesh* | consecrated men (as Deuteronomy 23:17; noted) |
+| 24 | *to'evot* | detestable things (fixed term) |
+| 25 | *va-yehi* | And it came to pass (formula) |
+| 25 | written *Shushaq*, read *Shishaq* | Shishak (the reading followed; noted) |
+| 28 | *ta ha-ratsim* | the guardroom |
+
+### 1 Kings 15: Abijam, Asa, Nadab and Baasha
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *shalosh shanim* | three years (***KEPT AS IS***: Greek six; noted) |
+| 2, 10 | *Ma'akhah bat Avishalom* | Maacah daughter of Abishalom (***KEPT AS IS***: named as mother of both kings; noted) |
+| 4 | *nir* | a lamp (noted) |
+| 5 | *raq bi-dvar Uriyyah* | except in the matter of Uriah (noted: the Greek lacks it) |
+| 6 | (repeats 14:30) | kept (noted: the Greek lacks it) |
+| 12 | *gillulim* | idols (as Leviticus 26:30; noted) |
+| 13 | *gevirah* | queen mother (noted) |
+| 13 | *mifletset* | a horrid image (noted) |
+| 19 | *shochad* | a present |
+| 21, 29 | *va-yehi* | And it came to pass (formula) |
+| 22 | *ein naqi* | none was exempt |
+| 23 | *chalah et raglav* | he was diseased in his feet (noted) |
+| 29 | *kol neshamah* | not one that breathed |
+
+### 1 Kings 16: From Baasha to Ahab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *mav'ir acharei* | sweep away |
+| 7 | *ve-al asher hikkah oto* | and also because he struck it down (noted) |
+| 9 | *shoteh shikkor* | drinking himself drunk |
+| 11, 18 | *va-yehi* | And it came to pass (formula) |
+| 11 | *go'alav ve-re'ehu* | of his kinsmen or of his friends (noted) |
+| 13, 26 | *be-havleihem* | with their empty things (as Deuteronomy 32:21; noted) |
+| 18 | *armon* | the citadel |
+| 19 | written *chatta'to*, read *chatto'tav* | the sins (the reading followed) |
+| 21 | *la-chetsi* | into two parts |
+| 23, 29 | Asa's 31st and 38th years | kept (noted: the arithmetic) |
+| 31 | *ha-naqel* | As if it had been a light thing |
+| 34 | *be-Aviram… u-vi-Seguv* | at the cost of Abiram… Segub (as Joshua 6:26; noted) |
+| 34 | written *Segiv*, read *Seguv* | Segub (the reading followed) |
+
+**Checks:** verse counts equal the Hebrew (34, 31, 34, 34); no banned words; no "And"-starts except *And it came to pass* (13:4, 13:20, 13:23, 13:31, 14:25, 15:21, 15:29, 16:11, 16:18); no *here —* or *look —*; notes 10, 10, 10, 10. Quotations checked against our rendered text (Exodus 28:41; Leviticus 26:30; Numbers 35:19; Deuteronomy 23:17, 32:21, 32:36; Joshua 6:26, 9:5, 9:12; 1 Samuel 2:8, 4:15, 25:22) and the printed Hebrew (1 Kings 16:4, 21:24; 2 Kings 23:15–18; Jeremiah 22:18; Ezekiel 23:35; 2 Chronicles 11:20, 13:2, 15:16, 16:12). The Greek was checked against Swete for every verse cited in the notes.
+
+**Left standing on purpose:** marked ***KEPT AS IS*** above.
+
+**Choices for you:** none new.
+
 ## 1 Kings 9–12 (loop, cycle 19, 1:53 PM Central, 2026-09-30)
 
 **Landed:** 1 Kings 9, 10, 11, 12. Progress 493 → **497 of 1,989 (25.0%)**. Next is 1 Kings 13.
