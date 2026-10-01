@@ -1,8 +1,8 @@
 # Progress
 
-**517 of 1989 chapters rendered (26.0%).**
+**521 of 1989 chapters rendered (26.2%).**
 
-Next up: **2 Kings 11**
+Next up: **2 Kings 15**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -17,7 +17,7 @@ Next up: **2 Kings 11**
 | 9 | 1 Samuel | source | done |
 | 10 | 2 Samuel | source | done |
 | 11 | 1 Kings | source | done |
-| 12 | 2 Kings | source | 10/25 |
+| 12 | 2 Kings | source | 14/25 |
 | 13 | 1 Chronicles | source | 0/29 |
 | 14 | 2 Chronicles | source | 0/36 |
 | 15 | Jubilees | witnesses | done |

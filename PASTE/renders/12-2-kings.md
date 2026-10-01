@@ -2,6 +2,106 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 11–14 (routine, 12:53 PM Central, 2026-10-01)
+
+**Landed:** 2 Kings 11, 12, 13, 14. Progress 517 → **521 of 1,989 (26.2%)**. Next is 2 Kings 15.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **14:26**, *the affliction of Israel was very bitter*. The Hebrew has *moreh*, which means **rebellious** (Deuteronomy 21:18) or **teacher**, and *very rebellious affliction* does not make sense; the Greek has *pikran*, **bitter**. Noted.
+
+**Choice for you:**
+- **12:4**, *kesef over ish*. (a) **the money of each man who passes the count**: the census half-shekel, from *everyone who passes over to those counted* (Exodus 30:13), which Chronicles calls *the tax of Moses* (2 Chronicles 24:6, 9). (b) **current money**: the silver in common use, as Abraham's silver was *over la-socher*, *current with the merchant* (Genesis 23:16). The text has (a), because Chronicles names the census tax in its account of this same repair. The note gives both. Recommend (a).
+
+### 2 Kings 11: Athaliah and the Crowning of Joash
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zera ha-mamlakhah* | the royal seed (noted) |
+| 1 | written *ve-ra'atah*, read *ra'atah* | saw (the reading followed) |
+| 2 | written *ha-memotatim*, read *ha-mumatim* | who were being put to death (the reading followed) |
+| 2 | *oto ve-et meniqto ba-chadar ha-mittot* (no verb) | and put him and his nurse in the bedroom (Chronicles has the verb, 2 Chronicles 22:11) |
+| 4, 19 | *ha-kari ve-ha-ratsim* | the Carites and the guard (noted) |
+| 4, 9, 10, 15 | written *ha-me'ayot*, read *ha-me'ot* | the hundreds (the reading followed) |
+| 5, 7, 9 | *ba'ei ha-shabbat*, *yots'ei ha-shabbat* | who come on duty / go off duty on the Sabbath |
+| 6 | *be-sha'ar Sur*; *massach* | at the gate Sur; as a barrier (***KEPT AS IS***: *Sur* is named nowhere else, *massach* is found only here, and the Greek lacks it; noted) |
+| 7 | *shtei ha-yadot bakhem* | the two divisions of you |
+| 8, 15 | *ha-sederot* | the ranks |
+| 12 | *ha-nezer ve-ha-edut* | the crown and the testimony (***KEPT AS IS***: what the *testimony* was is not said; noted) |
+| 12 | *va-yakku khaf* | they clapped their hands |
+| 13 | *qol ha-ratsin ha-am* | the noise of the guard and of the people (***KEPT AS IS***: the Hebrew has no *and*; noted) |
+| 14 | *ve-hinneh ha-melekh omed* | there was the king standing (no *here —*) |
+| 14 | *ka-mishpat* | as the custom was (noted) |
+| 14 | *qesher qesher* | Conspiracy! Conspiracy! |
+| 16 | *va-yasimu lah yadayim* | they laid hands on her (***KEPT AS IS***: could be *made way for her*; noted) |
+| 20 | written *melekh*, read *ha-melekh* | the king's house (the reading followed) |
+| 21 | Hebrew 12:1 | v21 (noted) |
+
+### 2 Kings 12: Jehoash Repairs the House of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–21 | Hebrew 12:2–22 | English numbering (noted) |
+| 2 | *kol yamav asher horahu* | all his days, in which Jehoiada the priest instructed him (***KEPT AS IS***: *asher* can be *in which* or *because*; noted) |
+| 4 | *kesef over ish* | the money of each man who passes the count (Choice above; noted) |
+| 4 | *kesef nafshot erko* | the money of each one's valuation of persons (noted) |
+| 4 | *asher ya'aleh al lev ish* | that it comes into anyone's heart |
+| 5, 7 | *me-et makkaro*, *me-et makkareikhem* | from the people he knows / you know (***KEPT AS IS***: the word is found only here; the Greek reads *his sale*; noted) |
+| 5–12 | *chazzeq et bedeq ha-bayit* | repair the breaches of the house (noted) |
+| 6, 10 | *va-yehi* | And it came to pass (formula) |
+| 9 | written *bimin*, read *mi-yamin* | on the right side (the reading followed) |
+| 9 | *shomrei ha-saf* | who guarded the threshold |
+| 10 | *va-yatsuru va-yimnu* | they tied up and counted |
+| 11 | written *yad*, read *yedei*; written *ha-peqidim*, read *ha-mufqadim* | into the hands; who were appointed (the reading followed) |
+| 11 | *ha-metukkan* | that had been weighed out |
+| 15 | *ki ve-emunah hem osim* | for they dealt faithfully (noted) |
+| 17 | *va-yasem Chaza'el panav* | Hazael set his face |
+| 18 | *va-ya'al me-al Yerushalayim* | So Hazael went away from Jerusalem (named) |
+| 20 | *Beit Millo ha-yored Silla* | Beth-millo, which goes down to Silla (***KEPT AS IS***: Silla is named nowhere else; noted) |
+
+### 2 Kings 13: Jehoahaz, Jehoash and the Death of Elisha
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 6, 11 | *asher hecheti* (6: written *hechti*, read *hecheti*) | with which he made Israel to sin (the reading followed) |
+| 4 | *va-yechal et penei YHWH* | entreated the LORD (noted) |
+| 5 | *moshia* | a deliverer (as Judges 3:9; noted) |
+| 5 | *ki-tmol shilshom* | as before (noted) |
+| 6, 11 | *bah halakh* | they walked / he walked in them |
+| 7 | *lo hish'ir* (no subject) | the king of Aram had left (named) |
+| 7 | *ke-afar la-dush* | like the dust at threshing |
+| 14 | *chalah et chalyo asher yamut bo* | had fallen sick with the sickness of which he would die |
+| 14 | *avi avi rekhev Yisra'el u-farashav* | My father, my father! The chariots of Israel and its horsemen! (as 2:12; noted) |
+| 17 | *chets teshu'ah* | arrow of victory (noted) |
+| 17, 19 | *Aram* (the people) | the Arameans |
+| 18 | *hak artsah* | Strike the ground |
+| 20 | *ba shanah* | as the year came in (***KEPT AS IS***: the time meant is not said; noted) |
+| 21 | *va-yehi*; *ve-hinneh ra'u* | And it came to pass (formula); they saw (no *here —*) |
+| 21 | *va-yelekh va-yigga* | The man went down and touched |
+| 23 | *ad attah* | until now (noted) |
+| 25 | *va-yashov… va-yiqqach* | took back (*returned and took*) |
+
+### 2 Kings 14: Amaziah and Jeroboam II
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | written *Yeho'addin*, read *Yeho'addan* | Jehoaddan (the reading followed) |
+| 5 | *va-yehi* | And it came to pass (formula) |
+| 6 | written *yamut*, read *yumat* | shall be put to death (the reading followed; as Deuteronomy 24:16) |
+| 7 | written *ha-melach*, read *melach* | the Valley of Salt (the reading followed) |
+| 7 | *Edom* (the people) | Edomites |
+| 8, 11 | *nitra'eh fanim*, *va-yitra'u fanim* | let us face each other; faced each other (noted) |
+| 9 | *chayyat ha-sadeh* | a wild beast |
+| 10 | *hakkeh hikkita* | You have indeed struck down |
+| 10 | *hikkaved* | Enjoy your glory (noted) |
+| 10 | *titgareh be-ra'ah* | provoke trouble |
+| 12 | written *le-oholo*, read *le-ohalav* | to his tent (the reading followed) |
+| 13 | written *va-yavo'u*, read *va-yavo* | He came (the reading followed) |
+| 14 | *benei ha-ta'arubot* | hostages (noted) |
+| 26 | *moreh me'od* | very bitter (Greek followed; noted) |
+| 26 | *efes atsur ve-efes azuv* | none left, bond or free (as Deuteronomy 32:36; noted) |
+| 27 | *limchot et shem* | wipe out the name (as Deuteronomy 29:20) |
+| 28 | *li-Yhudah be-Yisra'el* | to Judah in Israel (***KEPT AS IS***: not explained anywhere; noted) |
+
 ## 2 Kings 7–10 (loop, cycle 24, 5:55 PM Central, 2026-09-30)
 
 **Landed:** 2 Kings 7, 8, 9, 10. Progress 513 → **517 of 1,989 (26.0%)**. Next is 2 Kings 11.
