@@ -2,6 +2,106 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 15–18 (routine, 5:51 PM Central, 2026-10-01)
+
+**Landed:** 2 Kings 15, 16, 17, 18. Progress 521 → **525 of 1,989 (26.4%)**. Next is 2 Kings 19.
+
+**Departures from the Hebrew:** none this run.
+
+**Choice for you:**
+- **17:21**, *ki qara Yisra'el me-al beit David*, with no subject. (a) **For He tore Israel from the house of David**: the LORD as subject, as in Ahijah's sign, *I am about to tear the kingdom out of the hand of Solomon* (1 Kings 11:31). (b) **For Israel tore away from the house of David**: Israel as subject. The Hebrew allows both; the Greek is garbled here (*for Israel… from upon the house of David*). The text has (a), and the note gives (b). Recommend (a): the verse goes on with *they made Jeroboam king*, and in v20 and v23 the LORD is the one acting.
+
+### 2 Kings 15: Azariah, Jotham and the Last Kings of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *va-yehi metsora* | he had blight (fixed term; noted) |
+| 5 | *be-veit ha-chofshit* | in a separate house (noted) |
+| 5 | *shofet et am ha-arets* | governing the people of the land |
+| 10 | *qoval am* | before the people (***KEPT AS IS***: the Greek reads a place, *Keblaam*; noted) |
+| 12 | *va-yehi khen* | So it came to be |
+| 13 | *yerach yamim* | one full month (noted) |
+| 16 | *Tifsach… mi-Tirtsah* | Tiphsah… from Tirzah (***KEPT AS IS***: the Greek has *Tirzah* twice; noted) |
+| 16 | *ha-harotehha biqqea* | ripped open all its pregnant women (as 8:12; noted) |
+| 19 | *lihyot yadav itto* | so that his hand might be with him |
+| 20 | *va-yotse… al kol gibborei ha-chayil* | exacted the silver… from all the men of worth (fixed term; noted) |
+| 25 | written *melekh*, read *ha-melekh* | the king's house (the reading followed) |
+| 25 | *et Argov ve-et ha-Aryeh* | with Argob and with Arieh (***KEPT AS IS***; noted) |
+| 30 | *bi-shnat esrim le-Yotam* | in the twentieth year of Jotham (***KEPT AS IS***: Jotham reigns sixteen years; noted) |
+| 37 | *le-hashliach bi-Yhudah* | to send… against Judah |
+
+### 2 Kings 16: Ahaz and the Altar from Damascus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *he'evir ba-esh*; *ke-to'avot ha-goyim* | made his son pass through the fire; detestable practices (fixed term; noted) |
+| 4 | *etz ra'anan* | leafy tree (as 1 Kings 14:23) |
+| 5 | *ve-lo yakhlu le-hillachem* | but could not overcome him |
+| 6 | *le-Aram*; written *Arammim*, read *Adomim* | for Aram; The Edomites (the reading followed; noted) |
+| 6 | *ha-Yehudim* | the men of Judah |
+| 7 | *mi-kaf melekh Aram* | from the hand of the king of Aram |
+| 8 | *shochad* | a bribe (noted) |
+| 9 | *va-yagleha Qirah* | carried its people into exile to Kir (noted) |
+| 10 | *demut ha-mizbe'ach ve-et tavnito* | the likeness of the altar and its pattern (noted) |
+| 14 | *al yerekh ha-mizbe'ach* | on the north side of his altar |
+| 15 | written *va-yetsavvehu*, read *va-yetsavveh* | commanded (the reading followed) |
+| 15 | *li le-vaqqer* | for me to inquire by (***KEPT AS IS***: the Greek reads *for the morning*; noted) |
+| 17 | *ha-misgerot ha-mekhonot* | the panels of the stands (as 1 Kings 7:28) |
+| 17 | written *ve-et*, read *et* | the basins (the reading followed) |
+| 18 | written *meisakh*, read *musakh ha-shabbat* | the covered way for the Sabbath (***KEPT AS IS***: found only here; noted) |
+| 18 | *hesev beit YHWH mipnei melekh Ashur* | he turned away from the house of the LORD because of the king of Assyria (***KEPT AS IS***: not explained; noted) |
+
+### 2 Kings 17: The Fall of Samaria
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yashev lo minchah* | paid him tribute |
+| 4 | *ka-shanah ve-shanah* | as he had year by year |
+| 4 | *va-ya'atsrehu… va-ya'asrehu beit kele* | shut him up and bound him in prison |
+| 7 | *va-yehi ki* | This happened because |
+| 9 | *va-yechappe'u* | did in secret (***KEPT AS IS***: found only here; noted) |
+| 9, 18:8 | *mi-migdal notsrim ad ir mivtsar* | from watchtower to fortified city |
+| 12 | *ha-gillulim* | idols (as 1 Kings 21:26) |
+| 13 | written *nevi'o*, read *nevi'ei* | every prophet (the reading followed) |
+| 14 | *va-yaqshu et orpam* | stiffened their necks |
+| 15 | *acharei ha-hevel va-yehbalu* | after emptiness and became empty (as Jeremiah 2:5; noted) |
+| 16 | written *shnayim*, read *shnei* | two calves (the reading followed) |
+| 17 | *va-yiqsemu qesamim* | practiced divination (as Deuteronomy 18:10) |
+| 17 | *va-yitmakkeru* | sold themselves (noted) |
+| 20 | *shosim* | plunderers |
+| 21 | *qara Yisra'el* | He tore Israel (Choice above; noted) |
+| 21 | written *va-yada*, read *va-yaddach* | drove… away (the reading followed; noted) |
+| 25 | *va-yehi* | And it came to pass (formula) |
+| 26, 27, 33, 34, 37, 40 | *mishpat*, *mishpatim* | rule, rules, one word throughout (noted) |
+| 29 | *goy goy* | every nation |
+| 31 | written *Sepharim*, read *Sepharvaim* | Sepharvaim (the reading followed; noted) |
+| 32 | *mi-qetsotam* | from among all their people (as 1 Kings 12:31) |
+| 36 | *be-khoach gadol u-vi-zro'a netuyah* | with great power and with an outstretched arm |
+
+### 2 Kings 18: Hezekiah and the Rabshakeh
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 9 | *va-yehi* | And it came to pass (formula) |
+| 4 | *va-yiqra lo Nechushtan* | it was called Nehushtan (noted) |
+| 6 | *va-yidbaq ba-YHWH* | He held fast to the LORD |
+| 7 | *yaskil* | he prospered |
+| 14 | *chatati shuv me-alai* | I have done wrong; withdraw from me |
+| 16 | *qitstsets… ha-omnot* | stripped… the doorposts; and gave the gold (the object supplied) |
+| 17 | *va-ya'alu va-yavo'u* (twice) | They went up and came… and when they arrived |
+| 17 | *Tartan, Rav-saris, Rav-shaqeh* | the Tartan, the Rab-saris and the Rabshakeh (noted) |
+| 17 | *sedeh khoves* | the Washer's Field |
+| 20 | *akh devar sefatayim* | it is only a word of the lips |
+| 21 | *mish'enet ha-qaneh ha-ratsuts* | the staff of this crushed reed (noted) |
+| 23 | *hit'arev* | make a wager (noted) |
+| 24 | *tashiv et penei pachat* | turn back a single governor |
+| 26, 28 | *Aramit*, *Yehudit* | Aramaic, the language of Judah |
+| 27 | written *chorehem*, *sheneihem*; read *tso'atam*, *mei ragleihem* | their own excrement, their own urine (the reading followed; noted) |
+| 29 | *al yashi* | Do not let… deceive |
+| 31 | *asu itti verakhah* | Make peace with me (noted) |
+| 32 | *yassit* | misleads |
+| 34 | *ki hitsilu* | Have they delivered (noted) |
+
 ## 2 Kings 11–14 (routine, 12:53 PM Central, 2026-10-01)
 
 **Landed:** 2 Kings 11, 12, 13, 14. Progress 517 → **521 of 1,989 (26.2%)**. Next is 2 Kings 15.
