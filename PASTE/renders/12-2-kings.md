@@ -2,6 +2,87 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 23–25 (routine, 7:52 AM Central, 2026-10-02)
+
+**Landed:** 2 Kings 23, 24, 25: **2 Kings is complete.** The same run rendered 1 Chronicles 1 (report in `13-1-chronicles.md`). Progress 529 → **533 of 1,989 (26.8%)**. Next is 1 Chronicles 2.
+
+**The *torah* question** (raised in the 19–22 report) is still open; this run again uses **instruction** (23:24, 25).
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **23:16**, *when Jeroboam stood by the altar at the feast. Then Josiah turned and lifted his eyes to the grave of the man of God*. The Hebrew lacks these words: a copyist's eye slipped from one *the man of God… proclaimed* to the next. The Greek keeps them, and v17, *What is that marker I see?*, needs them. Noted.
+- **25:3**, *In the fourth month*. The Hebrew names no month; Jeremiah 52:6 and 39:2 have *the fourth month*. Noted.
+- **25:4**, *all the men of war fled by night*. The Hebrew has no verb; Jeremiah 52:7 has *fled*, the Greek *went out*. Noted.
+
+### 2 Kings 23: Josiah's Covenant and Reform
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 21 | *sefer ha-berit* | the book of the covenant (as Exodus 24:7; noted) |
+| 2 | *va-yiqra be-oznehem* | He read in their hearing |
+| 3 | *va-ya'amod kol ha-am ba-berit* | All the people took their stand in the covenant |
+| 4 | *kohanei ha-mishneh* | the priests of the second order |
+| 5 | *ha-kemarim*; *ha-mazzalot* | the idol priests; the constellations (noted) |
+| 6 | *qever benei ha-am* | the graves of the common people |
+| 7 | *ha-qedeshim*; *battim* | the consecrated men (fixed term); hangings (***KEPT AS IS***: the word is *houses*; noted) |
+| 8 | *bamot ha-she'arim* | the high places of the gates |
+| 10 | written *benei*, read *ben Hinnom* | the Valley of the Son of Hinnom (the reading followed; noted) |
+| 11 | *ba-parvarim* | in the precincts |
+| 12 | *va-yarats mi-sham* | He smashed them there |
+| 13 | *har ha-mashchit*; *shiqquts*; *to'evat* | the Mount of Destruction; the loathsome thing; the detestable thing (fixed terms; noted) |
+| 16 | (words lost in the Hebrew) | when Jeroboam stood… lifted his eyes to the grave (Greek followed; noted) |
+| 17 | *ha-tsiyyun ha-laz* | that marker |
+| 18 | *ha-navi asher ba mi-Shomron* | the prophet who came from Samaria (***KEPT AS IS***: he lived in Bethel; noted) |
+| 24 | *ha-ovot ve-ha-yidde'onim ve-ha-terafim* | the ghosts and the spirits, the household gods (as Deuteronomy 18:11; Genesis 31:19) |
+| 24, 25 | *ha-torah*, *torat Moshe* | the instruction, the instruction of Moses |
+| 25 | *u-vekhol me'odo* | with all his strength (as Deuteronomy 6:5; noted) |
+| 29 | *al melekh Ashur* | to the king of Assyria (***KEPT AS IS***: *to* or *against*; noted) |
+| 33 | written *bimlokh*, read *mimmelokh* | so that he might not reign (the reading followed; noted) |
+| 33 | *onesh* | a fine |
+| 35 | *he'erikh*; *ish ke-erko* | taxed; according to his assessment |
+| 36 | written *Zebidah*, read *Zebudah* | Zebudah (the reading followed; noted) |
+
+### 2 Kings 24: Jehoiakim, Jehoiachin and the First Exile
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yashov va-yimrod* | Then he turned and rebelled |
+| 3 | *al pi YHWH* | at the command of the LORD (the Greek: *because of the anger*; noted) |
+| 10 | written *alah*, read *alu* | came up (the reading followed) |
+| 10 | *va-tavo ha-ir ba-matsor* | the city came under siege |
+| 12 | *va-yetse… al melekh Bavel* | went out to the king of Babylon (noted) |
+| 14 | written *asarah*, read *aseret* | ten thousand (the reading followed; noted) |
+| 14 | *he-charash ve-ha-masger* | the craftsmen and the smiths |
+| 14 | *gibborei ha-chayil*; *dallat am ha-arets* | the men of worth (fixed term); the poorest people of the land (noted) |
+| 15 | written *ulei*, read *eilei ha-arets* | the leading men of the land (the reading followed; noted) |
+| 16 | *anshei ha-chayil* | the men of valor |
+| 17 | *dodo* | Jehoiachin's uncle (named; noted) |
+| 18 | written *Chamital*, read *Chamutal* | Hamutal (the reading followed; noted) |
+| 20 | *ki al af YHWH hayetah* | because of the anger of the LORD it came to this (noted) |
+
+### 2 Kings 25: The Fall of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 25, 27 | *va-yehi* | And it came to pass (formula) |
+| 1 | *dayeq* | a siege wall |
+| 3 | *be-tish'ah la-chodesh* | In the fourth month, on the ninth day (Jeremiah followed; noted) |
+| 4 | (no verb) | fled (Jeremiah and the Greek followed; noted) |
+| 6 | *va-yedabberu itto mishpat* | they passed sentence on him |
+| 7 | *bi-nechushtayim* | in bronze fetters |
+| 8, 10, 11, 12, 15, 18, 20 | *rav tabbachim* | the chief of the slaughterers (as Genesis 37:36; noted) |
+| 8 | *be-shiv'ah la-chodesh* | on the seventh day (***KEPT AS IS***: Jeremiah has the tenth; noted) |
+| 11 | *ha-noflim asher naflu al melekh Bavel* | the deserters who had gone over to the king of Babylon |
+| 12 | *le-khormim u-le-yogevim* | to be vinedressers and plowmen |
+| 15 | *asher zahav zahav va-asher kesef kesef* | what was of gold, in gold, and what was of silver, in silver |
+| 16 | *lo hayah mishqal* | was beyond weighing |
+| 17 | written *ammah*, read *ammot*; *shalosh ammot* | three cubits (the reading followed; ***KEPT AS IS***: 1 Kings 7:16 and Jeremiah have five; noted) |
+| 19 | *chamishah anashim* | five men (***KEPT AS IS***: Jeremiah has seven; noted) |
+| 19 | *me-ro'ei fenei ha-melekh* | of those who saw the king's face (noted) |
+| 27 | *be-esrim ve-shiv'ah* | on the twenty-seventh day (***KEPT AS IS***: Jeremiah has the twenty-fifth; noted) |
+| 27 | *nasa… et rosh* | lifted the head (as Genesis 40:13; noted) |
+| 28 | *va-yedabber itto tovot* | He spoke kindly to him |
+| 30 | *devar yom be-yomo* | a portion each day |
+
 ## 2 Kings 19–22 (routine, 10:50 PM Central, 2026-10-01)
 
 **Landed:** 2 Kings 19, 20, 21, 22. Progress 525 → **529 of 1,989 (26.6%)**. Next is 2 Kings 23.
