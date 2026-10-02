@@ -2,6 +2,88 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 6–9 (routine, 5:51 PM Central, 2026-10-02)
+
+**Landed:** 1 Chronicles 6, 7, 8, 9 — the genealogies are complete. Progress 537 → **541 of 1,989 (27.2%)**. Next is 1 Chronicles 10.
+
+**Numbering.** English 6:1–15 is Hebrew 5:27–41, and English 6:16–81 is Hebrew 6:1–66 (noted in the chapter).
+
+**Departure from the Hebrew, by your witnesses rule:**
+- **6:28**, *Joel the firstborn, and the second, Abijah*. The Hebrew reads *the firstborn and the second and Abijah*, with no name for the firstborn; the vowels and the Greek make *ve-sheni* a name, *Vashni*. The same chapter names Samuel's son *Joel* (v33), and 1 Samuel 8:2 has *his firstborn son was Joel, and his second, Abijah*. The Hebrew contradicts itself and the context backs *Joel*. Noted.
+
+### 1 Chronicles 6: The Sons of Levi
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–15, 16–81 | Hebrew 5:27–41, 6:1–66 | English numbering (noted) |
+| 1, 16 | *Gershon*, *Gershom* | Gershon, Gershom (as the Hebrew spells each; noted) |
+| 10 | *hu asher kihen ba-bayit* | he is the one who served as priest in the house (***KEPT AS IS***: placed at the second Azariah; noted) |
+| 15 | *halakh be-haglot YHWH* | went into exile when the LORD carried… into exile |
+| 26 | written *beno*, read *benei* | the sons of Elkanah (the reading followed) |
+| 28 | *ha-bekhor ve-sheni va-Aviyyah* | Joel the firstborn, and the second, Abijah (1 Samuel 8:2 and v33 followed; noted) |
+| 31 | *al yedei shir… mi-menoach ha-aron* | in charge of the song… after the ark came to rest (noted) |
+| 32 | *ke-mishpatam* | according to their rule |
+| 35 | written *Tsif*, read *Tsuf* | Zuph (the reading followed) |
+| 48 | *netunim* | appointed |
+| 49 | *le-khapper* | to make atonement (noted) |
+| 54 | *le-tirotam* | by their encampments |
+| 55, 57–81 | *migrasheha* | its pasture lands (as Joshua 21) |
+| 57 | *arei ha-miqlat* | the towns of refuge (***KEPT AS IS***: plural, though only Hebron was one; noted) |
+| 60 | *shalosh esreh ir* | thirteen towns (***KEPT AS IS***: eleven named; noted) |
+| 61 | *mi-mishpachat ha-matteh mi-machatsit matteh chatsi Menashsheh* | from the clan of the tribe, from the half-tribe, the half of Manasseh (***KEPT AS IS***: Ephraim and Dan missing; noted) |
+
+### 1 Chronicles 7: Issachar, Benjamin, Naphtali, Manasseh, Ephraim and Asher
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *Yashiv*, read *Yashuv* | Jashub (the reading followed; noted) |
+| 2, 5, 7, 9, 11, 40 | *gibborei chayil* | men of worth (fixed term; noted) |
+| 4 | *gedudei tseva milchamah* | troops of the army for war |
+| 10 | written *Ye'ish*, read *Ye'ush* | Jeush (the reading followed) |
+| 12 | *benei Acher* | the sons of Aher (***KEPT AS IS***: *Acher* is also *another*; noted) |
+| 14 | *pilagsho ha-Aramiyyah* | his Aramean secondary wife |
+| 14–15 | (subjects unclear) | ***KEPT AS IS*** (noted) |
+| 21 | *ha-noladim ba-arets* | who were born in the land |
+| 23 | *ki ve-ra'ah hayetah be-veito* | because it was in evil that it happened to his house (noted) |
+| 31 | written *Birzot*, read *Birzayit* | Birzaith (the reading followed; noted) |
+| 34 | written *ve-Rohagah*, *Yechubbah*; read *ve-Rohgah*, *ve-Chubbah* | Rohgah, Hubbah (the reading followed; noted) |
+| 40 | *berurim* | choice men |
+
+### 1 Chronicles 8: Benjamin and the House of Saul
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6–7 | *va-yaglum… hu heglam* | they carried them into exile… he carried them into exile (***KEPT AS IS***: who is not said; noted) |
+| 8 | *min shilcho otam* | after he had sent away (noted) |
+| 13 | *hivrichu* | put to flight |
+| 25 | written *u-Feni'el*, read *u-Fenu'el* | Penuel (the reading followed; noted) |
+| 29 | *avi Giv'on* | the father of Gibeon (***KEPT AS IS***: no name; noted) |
+| 30 | (no *Ner*) | ***KEPT AS IS*** (noted) |
+| 32 | *neged acheihem* | opposite their kinsmen |
+| 33 | *Eshba'al* | Eshbaal (Samuel: *Ish-bosheth*; noted) |
+| 34 | *Meriv Ba'al* | Merib-baal (Samuel: *Mephibosheth*; noted) |
+| 38 | *Bokheru* | Bocheru (the vowels followed; noted) |
+| 40 | *dorkhei qeshet* | archers (noted) |
+
+### 1 Chronicles 9: Those Who Lived in Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *malkhei Yisra'el; vi-Yhudah hoglu* | the book of the kings of Israel. Judah was carried into exile (the accents followed; noted) |
+| 1 | *be-ma'alam* | because of their unfaithfulness (noted) |
+| 2 | *ha-netinim* | the temple servants (noted) |
+| 4 | written *Binyamin*, read *Bani* | Bani (the reading followed; noted) |
+| 11 | *negid beit ha-Elohim* | the leader of the house of God |
+| 13 | *gibborei chayil* | men of worth (fixed term) |
+| 18 | *ve-ad hennah* | until now |
+| 22 | *ha-ro'eh*; *be-emunatam* | the seer; in their trust (noted) |
+| 26, 31 | *be-emunah* | in an office of trust |
+| 32 | *lechem ha-ma'arakhet* | the rows of bread (noted) |
+| 33 | written *petirim*, read *peturim* | free from other duty (the reading followed; noted) |
+| 35 | written *Ye'u'el*, read *Ye'i'el* | Jeiel (the reading followed; noted) |
+| 40 | *Meriv Ba'al… Meri Ba'al* | Merib-baal… Meri-baal (noted) |
+| 41 | (no *Ahaz*) | ***KEPT AS IS*** (noted) |
+
 ## 1 Chronicles 2–5 (routine, 12:51 PM Central, 2026-10-02)
 
 **Landed:** 1 Chronicles 2, 3, 4, 5. Progress 533 → **537 of 1,989 (27.0%)**. Next is 1 Chronicles 6.
