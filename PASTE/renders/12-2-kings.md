@@ -2,6 +2,91 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 19–22 (routine, 10:50 PM Central, 2026-10-01)
+
+**Landed:** 2 Kings 19, 20, 21, 22. Progress 525 → **529 of 1,989 (26.6%)**. Next is 2 Kings 23.
+
+**Widespread: *torah* is "instruction" from Exodus to Joshua, "law" in Kings.** Exodus 24:12, Leviticus, Numbers, Deuteronomy and Joshua render *torah* as **instruction** (*this book of the instruction*, Deuteronomy 31:26; Joshua 1:8). Kings drifted to **law** in six places rendered earlier: 1 Kings 2:3 (*as it is written in the law of Moses*), 2 Kings 10:31 (*to walk in the law of the LORD*), 14:6 (*the book of the law of Moses*), 17:13 (*according to all the law that I commanded*), 17:34 (*or according to the law and the commandment*), 17:37 (*the law and the commandment that He wrote*). This run uses **instruction** (21:8; 22:8, 11), because 2 Kings 22 is the finding of Deuteronomy's own *book of the instruction*. The six older verses are not changed; they wait for your ruling.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **20:13**, *Hezekiah was glad of them*. The Hebrew has *va-yishma*, **he listened to them**; Isaiah 39:2 has *va-yismach*, **he was glad**, and so does the Greek. The words differ by one letter, and the scene bears out *glad*. Noted.
+
+### 2 Kings 19: Isaiah's Word and the Deliverance of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 35, 37 | *va-yehi* | And it came to pass (formula) |
+| 3 | *ba'u vanim ad mashber ve-khoach ayin le-ledah* | The children have come to the mouth of the womb, and there is no strength to give birth (noted) |
+| 4, 16, 22, 23 | *lecharef* | defy (as 1 Samuel 17:26; noted) |
+| 4 | *ve-nasata tefillah* | lift up a prayer |
+| 7 | *hineni noten bo ruach* | I will put a spirit in him (lowercase; noted) |
+| 9 | *va-yashov va-yishlach* | he sent… again |
+| 15 | *yoshev ha-keruvim* | who is enthroned on the cherubim (as 1 Samuel 4:4; noted) |
+| 21 | *bazah lekha la'agah lekha* | She despises you, she scorns you |
+| 23 | written *be-rekhev*, read *be-rov rikhbi* | With the multitude of my chariots (the reading followed; noted) |
+| 23 | *melon qitsoh ye'ar karmillo* | its farthest lodging place, its densest forest |
+| 24 | *ye'orei matsor* | the streams of Egypt (noted) |
+| 26 | *qitsrei yad* | short of strength |
+| 26 | *shedefah lifnei qamah* | scorched before it is grown (noted) |
+| 28 | *sha'ananekha* | your arrogance |
+| 29 | *safiach… sachish* | what grows of itself… what springs from that (***KEPT AS IS***: *sachish* found only here; noted) |
+| 30 | *ve-yasefah* | shall again |
+| 34 | *ve-gannoti* | I will defend |
+| 35 | *ve-hinneh kullam pegarim metim* | they were all dead bodies (no *here —*) |
+
+### 2 Kings 20: Hezekiah's Illness and the Envoys from Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tsav le-veitekha* | Set your house in order |
+| 3 | *be-emet u-ve-levav shalem* | in faithfulness and with a whole heart (noted) |
+| 3 | *va-yevk… bekhi gadol* | wept bitterly |
+| 4 | written *ha-ir*, read *chatser* | the middle court (the reading followed; noted) |
+| 5 | *negid ammi* | the leader of My people (noted) |
+| 7 | *ha-shechin* | the boil (as Leviticus 13:18; noted) |
+| 9 | *halakh ha-tsel* | shall the shadow go forward |
+| 9–11 | *ma'alot*, *ma'alot Achaz* | steps; the steps of Ahaz (***KEPT AS IS***: named nowhere else; noted) |
+| 12 | *Berodakh Bal'adan* | Berodach-baladan (Isaiah and the Greek: *Merodach*; noted) |
+| 13 | *va-yishma* | was glad (Isaiah and the Greek followed; noted) |
+| 13 | *beit nekhoto*; *beit kelav* | his treasure house; his armory |
+| 17 | *hinneh yamim ba'im* | The days are coming (no *here —*) |
+| 18 | written *yiqqach*, read *yiqqachu* | shall be taken (the reading followed; noted) |
+| 19 | *halo im shalom ve-emet yihyeh be-yamai* | Is it not so, if there will be peace and security in my days? (***KEPT AS IS***; noted) |
+
+### 2 Kings 21: Manasseh and Amon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 11 | *to'avot* | detestable practices, detestable things (fixed term) |
+| 3 | *va-yashov va-yiven* | He rebuilt |
+| 6 | *ve-onen ve-nichesh ve-asah ov ve-yidde'onim* | practiced soothsaying and read omens, and appointed those who deal with ghosts and spirits (as Deuteronomy 18:10–11; noted) |
+| 8 | *le-hanid regel Yisra'el* | make the feet of Israel wander |
+| 8 | *kol ha-torah* | all the instruction (see the widespread item above) |
+| 11, 21 | *gillulim* | idols |
+| 12 | written *shom'av*, read *shom'ah* | everyone who hears of it (the reading followed) |
+| 13 | *qav Shomron… mishqolet beit Ach'av* | the measuring line of Samaria and the plumb line of the house of Ahab (noted) |
+| 13 | *ka'asher yimcheh et ha-tsallachat machah ve-hafakh al paneha* | as one wipes a dish, wiping it and turning it upside down (noted) |
+| 14 | *ve-natashti* | I will cast off |
+| 16 | *peh la-feh* | from one end to the other (as 10:21; noted) |
+| 17 | *ve-chatta'to asher chata* | the sin that he committed |
+| 26 | *va-yiqbor oto* (no subject) | He was buried |
+
+### 2 Kings 22: The Book Found in the House of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-lo sar yamin u-smol* | he did not turn aside to the right or to the left (noted) |
+| 3, 11 | *va-yehi* | And it came to pass (formula) |
+| 4 | *ve-yattem* | let him total (noted) |
+| 5 | written *va-yittenah*, read *ve-yittenuhu*; written *ba-beit*, read *beit* | Let them give it; over the house (the reading followed) |
+| 8, 11 | *sefer ha-torah* | the book of the instruction (as Deuteronomy 31:26; noted) |
+| 9 | *va-yashev et ha-melekh davar* | brought back word to the king |
+| 9 | *hittikhu* | have poured out (noted) |
+| 14 | *shomer ha-begadim* | keeper of the wardrobe |
+| 14 | *ba-mishneh* | in the Second Quarter (noted) |
+| 19 | *rakh levavkha* | your heart was tender (noted) |
+| 20 | *hineni osifkha* | I will gather you (no *here —*) |
+
 ## 2 Kings 15–18 (routine, 5:51 PM Central, 2026-10-01)
 
 **Landed:** 2 Kings 15, 16, 17, 18. Progress 521 → **525 of 1,989 (26.4%)**. Next is 2 Kings 19.
