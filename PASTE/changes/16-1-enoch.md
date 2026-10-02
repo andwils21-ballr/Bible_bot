@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## 1 Enoch 5:4, who "you" are (2026-10-02, 2:58 PM Central)
+
+**Request:** Andrew asked whether 5:4 could read *But the wicked — you…*. Every witness has only *but you* there (Ge'ez *wa-antemu-sa*, Greek *hymeis de*, Aramaic *ve-antun*); *the wicked* first appears in v7. **Decided:** the text stays as the witnesses have it, and a note on v4 names who *you* are.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 5, notes | (no note on *But you*) | **v4 "But you"** — *wa-antemu-sa*, plural in every witness. The chapter names who they are twice: *You hard-hearted* (v4) and *you, the wicked* (v7, Ge'ez *resi'an*, Greek *tois asebesin*). |
+
 ## 1 Enoch 93:14, closing quotation mark (2026-09-26, Enoch loop run 20)
 
 **Why:** Enoch's speech opens with a quotation mark at 93:3 and never closed it.
