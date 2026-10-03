@@ -42,7 +42,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 10 | *ha-mitchazzeqim immo* | who held strongly with him |
 | 11 | written *ha-sheloshim*, read *ha-shalishim* | chief of the officers (the reading followed; noted) |
 | 13–14 | (Eleazar's deed joined to Shammah's) | ***KEPT AS IS*** (noted) |
-| 14 | *va-yitystsevu* (plural) | they took their stand |
+| 14 | *va-yityatsevu* (plural) | they took their stand |
 | 17 | written *va-yit'avu*, read *va-yit'av* | David longed (the reading followed) |
 | 19 | *ha-dam ha-anashim ha-elleh eshteh be-nafshotam* | Shall I drink the blood of these men who went at the risk of their lives? (noted) |
 | 20 | written *ve-lo* (not), read *ve-lo* (to him) | and won a name (the reading followed; noted) |
