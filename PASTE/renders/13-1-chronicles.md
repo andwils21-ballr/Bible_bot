@@ -2,6 +2,92 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 10–13 (routine, 10:49 PM Central, 2026-10-02)
+
+**Landed:** 1 Chronicles 10, 11, 12, 13. Progress 541 → **545 of 1,989 (27.4%)**. Next is 1 Chronicles 14.
+
+**Numbering.** The Hebrew divides 12:4 in two, so English 12:5–40 is Hebrew 12:6–41 (noted in the chapter).
+
+**Departures from the Hebrew:** none.
+
+**Choice for you:**
+- **12:18**, *Then the spirit clothed Amasai*. The Hebrew has *ve-ruach lavshah et Amasai*, only *ruach*, with no *of God* or *of the LORD*, though the verb is the one of *The Spirit of the LORD clothed Gideon* (Judges 6:34) and Amasai then speaks in verse. (a) **the spirit** (lowercase), as the text has it now: your 2026-09-30 rule capitalizes *ruach* only when it is *of God* or *of the LORD*. (b) **the Spirit**, reading it as God's Spirit from the verb and the speech that follows. Recommend (a): the Hebrew does not say whose spirit it is, and the note gives the Judges parallel.
+
+### 1 Chronicles 10: The Death of Saul
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yachel min ha-yorim* | he was wounded by the archers (noted) |
+| 4 | *pen yavo'u… ve-hit'allelu bi* | or these uncircumcised will come and abuse me |
+| 6 | *ve-khol beito yachdav metu* | all his house died together (noted) |
+| 7 | *ki nasu* | that the army had fled |
+| 8 | *va-yehi* | And it came to pass (formula) |
+| 9 | *le-vasser et atsabbeihem* | to carry the news to their idols |
+| 10 | *gulgolto* | his skull (noted) |
+| 12 | *kol ish chayil* | all the men of valor (as 1 Samuel 31:12) |
+| 12 | *gufat* | the body (found only here; noted) |
+| 12 | *ha-elah* | the oak (noted) |
+| 13 | *be-ma'alo asher ma'al* | for his unfaithfulness with which he broke faith (noted) |
+| 13 | *sho'el ba-ov li-drosh* | he asked a ghost, to inquire of it (fixed term; noted) |
+| 14 | *va-ymitehu* | So He put him to death (noted) |
+
+### 1 Chronicles 11: David King over All Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *gam temol gam shilshom* | In times past (as 2 Samuel 5:2) |
+| 2 | *nagid* | leader |
+| 6 | *le-rosh u-le-sar* | chief and commander (noted) |
+| 8 | *yechayyeh* | restored (noted) |
+| 10 | *ha-mitchazzeqim immo* | who held strongly with him |
+| 11 | written *ha-sheloshim*, read *ha-shalishim* | chief of the officers (the reading followed; noted) |
+| 13–14 | (Eleazar's deed joined to Shammah's) | ***KEPT AS IS*** (noted) |
+| 14 | *va-yitystsevu* (plural) | they took their stand |
+| 17 | written *va-yit'avu*, read *va-yit'av* | David longed (the reading followed) |
+| 19 | *ha-dam ha-anashim ha-elleh eshteh be-nafshotam* | Shall I drink the blood of these men who went at the risk of their lives? (noted) |
+| 20 | written *ve-lo* (not), read *ve-lo* (to him) | and won a name (the reading followed; noted) |
+| 21 | *min ha-sheloshah ba-shnayim nikhbad* | Of the Three he was doubly honored (***KEPT AS IS***) |
+| 23 | *ish middah chamesh ba-ammah* | a man of great stature, five cubits tall (noted) |
+| 25 | *mishma'to* | his bodyguard (as 2 Samuel 23:23) |
+| 26–47 | (names) | Chronicles' spellings (noted) |
+| 44 | written *ve-Ye'u'el*, read *vi-Y'i'el* | Jeiel (the reading followed; noted) |
+
+### 1 Chronicles 12: Those Who Came to David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *od atsur* | while he was still kept away (noted) |
+| 2 | *mayminim u-mas'ilim* | could use both the right hand and the left (noted) |
+| 3 | written *ve-Yezu'el*, read *vi-Yzi'el* | Jeziel (the reading followed) |
+| 4 | Hebrew 12:4–5 | one verse (noted) |
+| 5 | written *ha-Charifi*, read *ha-Charufi* | the Haruphite (the reading followed) |
+| 8 | *u-fenei aryeh peneihem* | whose faces were like the faces of lions (noted) |
+| 14 | *echad le-me'ah ha-qatan ve-ha-gadol la-elef* | the least was a match for a hundred, and the greatest for a thousand |
+| 15 | written *gidyotav*, read *gedotav* | its banks (the reading followed; noted) |
+| 17 | *li-rammoteni le-tsarai* | to betray me to my enemies |
+| 18 | *ve-ruach lavshah* | Then the spirit clothed (Choice above; noted) |
+| 18 | written *ha-sheloshim*, read *ha-shalishim* | the chief of the officers (the reading followed; noted) |
+| 19 | *be-rasheinu* | At the cost of our heads (noted) |
+| 22 | *ke-machaneh Elohim* | like the camp of God (noted) |
+| 23 | *ke-fi YHWH* | according to the word of the LORD |
+| 29 | *shomrim mishmeret beit Sha'ul* | had kept their allegiance to the house of Saul |
+| 32 | *yode'ei vinah la-ittim* | men who understood the times (noted) |
+| 33 | *be-lo lev va-lev* | with an undivided heart (noted) |
+| 38 | *be-levav shalem*; *lev echad* | with a whole heart; of one heart (noted) |
+
+### 1 Chronicles 13: The Ark and Uzza
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *nifretsah nishlechah* | let us send word far and wide (noted) |
+| 3 | *lo derashnuhu* | we did not seek it (noted) |
+| 6 | *asher niqra shem* | which is called by the name (***KEPT AS IS***: as 2 Samuel 6:2) |
+| 8 | *mesachaqim* | celebrating |
+| 9 | *ki shametu ha-baqar* | for the oxen stumbled |
+| 10 | *al asher shalach yado* | because he put out his hand (noted) |
+| 11 | *parats YHWH perets* | the LORD had broken out (noted) |
+| 13 | *va-yattehu* | but turned it aside |
+
 ## 1 Chronicles 6–9 (routine, 5:51 PM Central, 2026-10-02)
 
 **Landed:** 1 Chronicles 6, 7, 8, 9 — the genealogies are complete. Progress 537 → **541 of 1,989 (27.2%)**. Next is 1 Chronicles 10.
