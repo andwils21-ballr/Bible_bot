@@ -1,0 +1,12 @@
+# Decision Making with Before/After: Ruth
+
+Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
+
+## *And it came to pass* aligned to the rule (2026-10-03, 2:25 PM Central)
+
+**Request:** Andrew: "Align the already reviewed with current practice." The rule written today (RENDERING_SPEC.md, *Kept on purpose*) keeps the formula when *va-yehi* is followed by a time or circumstance and then the event. The future form, *vi-yhi* + a time clause in an instruction, is *And it shall come to pass* (as 1 Samuel 10:5).
+
+| Where | Before | After |
+|---|---|---|
+| Ruth 3:4 | When he lies down, note the place where he lies. | And it shall come to pass, when he lies down, that you shall note the place where he lies. |
+

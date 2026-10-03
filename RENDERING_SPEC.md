@@ -87,11 +87,14 @@ case…*, or a dash and a plain clause.
     year*); or a subject with a participle (*as he was bowing down*, 2 Kings
     19:37). This holds at the start of a story and inside one (*And it came to
     pass at noon that Elijah mocked them*, 1 Kings 18:27). Inside speech, keep
-    it where the speaker tells a story step by step (1 Kings 3:18).
+    it where the speaker tells a story step by step (1 Kings 3:18). The
+    future, *vi-yhi* or *ve-hayah* + a time clause in an instruction, is
+    *And it shall come to pass, when…, that…* (Ruth 3:4; 1 Samuel 10:5).
   - **Cut it**, and write plain English, when *va-yehi* is not that formula:
     1. **was, were, became, had, there was**: *All the days of Adam were…*;
        *He had seven hundred wives*; *There was a great famine*; *This thing
-       became a sin*; every list and genealogy (*The sons of Ram were…*). The
+       became a sin*; every list and genealogy (*The sons of Ram were…*);
+       plural *va-yihyu*, **they were** (Numbers 15:32). The
        same holds where the participle is itself the main verb and no event
        follows (*So David and the elders… went*, 1 Chronicles 15:25).
     2. **the word of the LORD came to** (below).
@@ -102,7 +105,8 @@ case…*, or a dash and a plain clause.
     5. **a clause inside a sentence already running**, where the formula
        would break it: a parenthesis (1 Kings 18:4), or a quick *while…* in
        speech that runs into the point (*While your servant was busy here and
-       there, he was gone*, 1 Kings 20:40).
+       there, he was gone*, 1 Kings 20:40); or a second *va-yehi* in a verse
+       that has just used the formula (2 Samuel 1:2).
 - **No "here —" or "look —" for *hinneh* / *idou*** (Andrew, 2026-09-28,
   replacing the ruling of 2026-09-25). In every book, rendered and still to
   come, in narrative and in speech: end the sentence before it and start the
@@ -147,9 +151,18 @@ report. The kept cases so far:
   *And it would come to pass* (Exodus 33:8). Not *It will be, when* (Andrew,
   2026-09-26). Where *ve-hayah* is only "it shall be" + a noun (*It shall be a
   sign*), it stays plain.
-- **"And now"** for *ve-attah* inside speech: it keeps the speaker's own turn
-  toward what they want, heard through their mouth (Andrew, 2026-09-26). Where
-  the sense is contrast or consequence, *But now* or *So now* stays.
+- **"And now"** for *ve-attah* inside speech, where the speaker turns from what
+  has been said to what they ask or declare, and the turn itself carries weight
+  (*And now, say this to My servant David*, 2 Samuel 7:8) (Andrew, 2026-09-26).
+  Otherwise render *ve-attah* by what it does in the sentence (Andrew,
+  2026-10-03):
+  - **So** or **So now** where it draws the consequence of what was just said
+    (*So do not let my blood fall to the ground*, 1 Samuel 26:20);
+  - **But now** where it sets the present against what came before;
+  - **Now** alone where the point is the moment (*Now do it*, 2 Samuel 3:18;
+    *Now please forgive my sin*, 1 Samuel 15:25);
+  - **cut it** where the next words already carry the turn.
+  Not *Now then*.
 
 Not kept: *The LORD spoke to Moses, saying*; *These are the generations of*;
 *He lifted up his eyes and saw* (the *And here —* that follows is the marker);

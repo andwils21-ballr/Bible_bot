@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *And it came to pass* aligned to the rule (2026-10-03, 2:25 PM Central)
+
+**Request:** Andrew: "Align the already reviewed with current practice." The rule written today (RENDERING_SPEC.md, *Kept on purpose*) keeps the formula when *va-yehi* is followed by a time or circumstance and then the event. These verses had it cut.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 11:5 | When the sons of Ammon made war against Israel, the elders of Gilead went… | And it came to pass, when the sons of Ammon made war against Israel, that the elders of Gilead went… |
+| Judges 13:20 | When the flame went up from the altar toward heaven, the messenger… | And it came to pass, when the flame went up from the altar toward heaven, that the messenger… |
+| Judges 14:11 | When the people saw him, they brought… | And it came to pass, when the people saw him, that they brought… |
+| Judges 14:15 | On the seventh day they said to Samson's wife… | And it came to pass on the seventh day that they said to Samson's wife… |
+| Judges 14:17 | On the seventh day he told her… | And it came to pass on the seventh day that he told her… |
+| Judges 15:17 | When he had finished speaking, he threw… | And it came to pass, when he had finished speaking, that he threw… |
+| Judges 16:25 | When their hearts were merry, they said… | And it came to pass, when their hearts were merry, that they said… |
+| Judges 19:5 | On the fourth day they rose early… | And it came to pass on the fourth day that they rose early… |
+| Judges 21:4 | The next day the people rose early… | And it came to pass the next day that the people rose early… |
+
 ## Judges 9:37 note corrected (loop, 2026-09-30, 8:36 AM Central)
 
 **Request:** none; found while rendering 1 Samuel 6:2. The note on Judges 9:37 called the *me'onen* *the soothsayer*, but Deuteronomy 18:10 renders *qosem* as *soothsayer* and *me'onen* as *one who reads omens*. The note now matches Deuteronomy.

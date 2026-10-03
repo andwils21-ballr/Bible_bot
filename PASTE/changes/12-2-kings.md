@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *Now then* retired (2026-10-03, 2:25 PM Central)
+
+**Request:** Andrew: use what makes sense in each place for *ve-attah*, including cutting it, and write a rule if one is needed. The rule is in RENDERING_SPEC.md under the *And now* entry: *And now* for a weighty turn, *So* for a consequence, *But now* for a contrast, *Now* for the moment, or cut; never *Now then*.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Kings 3:23 | Now then, Moab, to the spoil! | Now, Moab, to the spoil! |
+
 ## *And it came to pass* rule (2026-10-03, 2:06 PM Central)
 
 **Request:** Andrew, after the drift audit: keep *And it came to pass* where it carries meaning and feeling, and write the rule for when to keep and when to cut. The rule is now in RENDERING_SPEC.md under *Kept on purpose*. It keeps the formula when *va-yehi* is followed by a time or circumstance and then the event, and cuts it for *was / became / had*, the word of the LORD, a reason, a habit, or a clause inside a running sentence. These verses had drifted from it.
