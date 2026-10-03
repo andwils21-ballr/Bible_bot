@@ -2,6 +2,88 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 22–25 (routine, 5:50 PM Central, 2026-10-03)
+
+**Landed:** 1 Chronicles 22, 23, 24, 25. Progress 553 → **557 of 1,989 (28.0%)**. Next is 1 Chronicles 26.
+
+**The *torah* question** is still open: 22:12 has *torat YHWH*, rendered **the instruction of the LORD** as in every render since 2 Kings 21.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **22:14**, *be-onyi*. The text now reads *In my affliction I have prepared for the house of the LORD a hundred thousand talents of gold…* (a) **In my affliction**, *oni* as in *I have seen the affliction of My people* (Exodus 3:7) and *God has seen my affliction* (Genesis 31:42): what the gathering cost David. (b) **In my poverty**, the Greek *kata tēn ptōcheian mou*: modesty, though the sums are vast. (c) **With great pains**: the effort, without the word's weight. Recommend (a), as the text has it; the note gives (b) and (c).
+- **25:1**, *sarei ha-tsava*. The text now reads *David and the commanders of the army set apart for the service some of the sons of Asaph…* (a) **the commanders of the army**, the phrase's sense elsewhere in the book (19:18; 27:34) and the Greek's. (b) **the commanders of the service**, *tsava* as the Levites' term of duty (Numbers 4:3). Recommend (a), as the text has it; the note gives (b).
+
+### 1 Chronicles 22: David Prepares for the House of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *va-yomer David li-khnos* | David gave orders to gather |
+| 2 | *ha-gerim* | the guests (noted) |
+| 3 | *ve-la-mechabberot* | and for the clamps |
+| 5 | *na'ar va-rakh* | young and tender (noted) |
+| 5 | *le-shem u-le-tif'eret* | for a name and for glory |
+| 7 | written *beno*, read *beni* | My son (the reading followed) |
+| 8 | *va-yehi alai devar YHWH* | But the word of the LORD came to me (not the formula) |
+| 9 | *hinneh ven nolad lakh* | A son will be born to you (*hinneh* cut) |
+| 9 | *ki Shelomoh yihyeh shemo* | Solomon shall be his name (noted) |
+| 11 | *attah* | Now (no *ve-*) |
+| 12 | *vi-tsavvekha al Yisrael* | and give you charge over Israel |
+| 12 | *torat YHWH* | the instruction of the LORD |
+| 13 | *al tira ve-al techat* | Do not be afraid and do not lose heart (as Joshua 1:9; noted) |
+| 14 | *ve-hinneh be-onyi* | In my affliction (*hinneh* cut; noted; choice above) |
+| 15 | *charashei even va-ets* | workers in stone and wood |
+| 16 | *qum va-aseh* | Get up and do it |
+| 19 | *attah tenu levavkhem* | Now set your heart |
+
+### 1 Chronicles 23: The Divisions of the Levites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zaqen u-seva yamim* | old and full of days (as Genesis 35:29; noted) |
+| 3 | *le-gulgelotam li-gvarim* | head by head… men |
+| 4 | *le-natseach* | to oversee (noted) |
+| 5 | *asiti* | I made (David's voice; noted) |
+| 9 | written *Shelomot*, read *Shelomith* | Shelomith (the reading followed) |
+| 11 | *lo hirbu vanim* | did not have many sons |
+| 11 | *li-fqudah achat* | counted as one |
+| 13 | *le-hakdisho qodesh qodashim* | to consecrate him as most holy (noted) |
+| 14 | *banav yiqqare'u al shevet ha-Levi* | his sons were named among the tribe of Levi (noted) |
+| 17 | *ravu le-ma'lah* | were very many |
+| 22 | *va-yissa'um* | married them (noted) |
+| 28 | *ki ma'amadam le-yad* | Their place was at the side of |
+| 29 | *ha-machavat ve-ha-murbekhet* | what is baked on the griddle and what is soaked (as Leviticus 7:12) |
+| 31 | *ka-mishpat aleihem* | as the rule for them required |
+
+### 1 Chronicles 24: The Twenty-Four Divisions of the Priests
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *li-fquddatam ba-avodatam* | by their appointed duties in their service |
+| 4 | *le-rashei ha-gevarim* | chief men |
+| 5 | *elleh im elleh* | the one group with the other |
+| 5 | *sarei qodesh ve-sarei ha-Elohim* | officers of the sanctuary and officers of God |
+| 6 | *achuz le-Elazar ve-achuz achuz le-Itamar* | one taken for Eleazar, and one taken for Ithamar ***KEPT AS IS***: the doubled word is in the note |
+| 19 | *be-yad Aharon* | through Aaron |
+| 24 | written *Shamur*, read *Shamir* | Shamir (the reading followed) |
+| 26–27 | *benei Ya'aziyahu beno* | The sons of Jaaziah his son ***KEPT AS IS***: *beno* as **his son**, not a name *Beno*; noted |
+| 31 | *avot ha-rosh le-ummat achiv ha-qatan* | the head of a father's house alongside his youngest brother (noted) |
+
+### 1 Chronicles 25: The Singers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sarei ha-tsava* | the commanders of the army (noted; choice above) |
+| 1 | written *ha-nevi'im*, read *ha-nibbe'im* | who prophesied (the reading followed; noted, the meanings differ) |
+| 2, 3, 6 | *al yad / al yedei* | under the direction of |
+| 5 | *chozeh ha-melekh be-divrei ha-Elohim* | the king's seer in the words of God |
+| 5 | *le-harim qeren* | to lift up his horn (noted) |
+| 7 | *kol ha-mevin* | all of them skilled |
+| 8 | *mishmeret le-ummat ka-qaton ka-gadol* | for their duties, small and great alike |
+| 8 | *mevin im talmid* | teacher and student (noted) |
+| 9 | *la-Asaf le-Yosef* | for Asaph to Joseph ***KEPT AS IS***: no count given for Joseph; noted |
+| 9–31 | *banav ve-echav sheneim asar* | his sons and his brothers, twelve (the same words each time) |
+
 ## 1 Chronicles 18–21 (routine, 12:49 PM Central, 2026-10-03)
 
 **Landed:** 1 Chronicles 18, 19, 20, 21. Progress 549 → **553 of 1,989 (27.8%)**. Next is 1 Chronicles 22.
