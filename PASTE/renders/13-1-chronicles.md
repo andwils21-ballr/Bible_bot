@@ -2,6 +2,89 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 18–21 (routine, 12:49 PM Central, 2026-10-03)
+
+**Landed:** 1 Chronicles 18, 19, 20, 21. Progress 549 → **553 of 1,989 (27.8%)**. Next is 1 Chronicles 22.
+
+**The *torah* question** is still open (none in this run).
+
+**Departures from the Hebrew:** none.
+
+**Choice for you:**
+- **21:1**, *Satan stood up against Israel and incited David to number Israel*. The Hebrew is *satan* with no article. (a) **Satan**, a name, as the text has it now and as the note on 2 Samuel 24:1 already quotes it; the Greek has *diabolos*, the New Testament's word for the devil. (b) **an adversary**, the plain meaning of the word without the article, as in Numbers 22:22, where *the messenger of the LORD took his stand in the road as an adversary*; Job has the article, *ha-satan* (Job 1:6). Samuel tells the same event as the LORD's anger inciting David (2 Samuel 24:1). Recommend (a), with the note giving (b), since the 2 Samuel note already reads *Satan*.
+
+### 1 Chronicles 18: David's Wars and Officials
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi* | And it came to pass (formula) |
+| 1 | *Gat u-venoteha* | Gath and its villages (noted) |
+| 2 | *nos'ei minchah* | brought tribute |
+| 3 | *le-hatsiv yado* | to set up his monument (noted) |
+| 4 | *va-ye'aqqer* | hamstrung (as 2 Samuel 8:4) |
+| 6, 13 | *va-yosha YHWH* | The LORD gave David victory (as 2 Samuel 8:6) |
+| 8 | *Tivchat… Kun* | Tibhath and Cun (noted) |
+| 10 | written *lish'ol*, read *lish'al* | to greet him (the reading followed) |
+| 10 | *ki ish milchamot To'u hayah Hadad'ezer* | for Hadadezer had been at war with Tou |
+| 11 | *asher nasa* | that he had carried off |
+| 12 | *Avshai… hikkah* | Abishai… struck down (noted) |
+| 14 | *mishpat u-tsedaqah* | justice and righteousness (noted) |
+| 16 | *Avimelekh*, *Shavsha* | Abimelech, Shavsha (noted) |
+| 17 | *ha-rishonim le-yad ha-melekh* | the chief officers at the king's side (noted) |
+
+### 1 Chronicles 19: The War with Ammon and Aram
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi* | And it came to pass (formula) |
+| 2 | *chesed* | loyal love (fixed term; noted) |
+| 3 | *lachqor ve-lahafokh u-le-raggel* | to search, to overthrow and to spy out (noted) |
+| 4 | *ad ha-mifsa'ah* | as far as their buttocks |
+| 6 | *hitbo'ashu* | they had become a stench (noted) |
+| 6 | *Aram Naharayim* | Aram-naharaim (noted) |
+| 7 | *lifnei Meidva* | before Medeba (noted) |
+| 10 | *panim ve-achor* | in front and behind |
+| 16 | *Shofakh* | Shophach (noted) |
+| 18 | *shiv'at alafim rekhev* | the men of seven thousand chariots (noted) |
+
+### 1 Chronicles 20: Rabbah Taken and the Philistine Giants
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 4 | *va-yehi* | And it came to pass (formula) |
+| 1 | *li-teshuvat ha-shanah* | at the turn of the year (as 2 Samuel 11:1) |
+| 1 | *va-yehersehah* | tore it down |
+| 2 | *malkam* | their king (noted) |
+| 3 | *va-yasar ba-megerah* | sawed them with saws (***KEPT AS IS***: Samuel has *set them to the saws*; noted) |
+| 4 | *va-ta'amod milchamah* | war broke out |
+| 4 | *va-yikkane'u* | they were subdued |
+| 5 | written *Ya'ur*, read *Ya'ir* | Jair (the reading followed; noted) |
+| 5 | *et Lachmi achi Golyat* | Lahmi the brother of Goliath (***KEPT AS IS***: Samuel has *Goliath*; noted) |
+| 6 | *ve-etsbe'otav shesh va-shesh* | six fingers on each hand and six toes on each foot (noted) |
+| 7 | *va-yecharef* | He taunted |
+
+### 1 Chronicles 21: The Census and the Threshing Floor of Ornan
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-ya'amod satan* | Satan stood up (Choice above; noted) |
+| 3 | *le-ashmah* | bring guilt (noted) |
+| 5 | (numbers) | a million one hundred thousand… four hundred and seventy thousand (***KEPT AS IS***: Samuel differs; noted) |
+| 6 | *nit'av* | was detestable (fixed term; noted) |
+| 7 | *va-yera be-einei ha-Elohim* | God was displeased |
+| 8 | *niskalti* | I have acted very foolishly (as 2 Samuel 24:10) |
+| 11 | *qabbel lakh* | Take your choice |
+| 12 | *nispeh* | being swept away |
+| 15 | *va-yinnachem al ha-ra'ah* | relented from the evil |
+| 16 | *mekhussim ba-saqqim* | covered in sackcloth |
+| 17 | *ve-ha-re'a hare'oti* | done great evil |
+| 20 | *mitchabbe'im* | hid themselves |
+| 22, 24 | *be-khesef male* | at the full price |
+| 24 | *chinnam* | that cost me nothing (noted) |
+| 25 | *shiqlei zahav… shesh me'ot* | six hundred shekels of gold (***KEPT AS IS***: Samuel has fifty of silver; noted) |
+| 27 | *el nedanah* | into its sheath |
+| 30 | *niv'at* | he was terrified (noted) |
+
 ## 1 Chronicles 14–17 (routine, 7:50 AM Central, 2026-10-03)
 
 **Landed:** 1 Chronicles 14, 15, 16, 17. Progress 545 → **549 of 1,989 (27.6%)**. Next is 1 Chronicles 18.
