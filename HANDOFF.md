@@ -29,12 +29,10 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 
 ## The Routine
 
-- **Timing:** four runs a day, at 3:01 AM, 7:45 AM, 1:01 PM and 6:01 PM Central
-  (daylight time). 8:01 AM–1:01 PM is kept free for Andrew. It takes two
-  triggers, because one cron line cannot hold two different minutes:
-  `1 8,18,23 * * *` and `45 12 * * *` (UTC). Both use the prompt in
-  `ROUTINE_PROMPT.md`. The cron is UTC, so when daylight time ends every run
-  moves one hour earlier in Central.
+- **Timing:** four runs a day, at 7:45 AM, 12:45 PM, 5:45 PM and 10:45 PM
+  Central, from one trigger: `CRON_TZ=America/Chicago 45 7,12,17,22 * * *`.
+  The cron is written in Central time, so the runs do not move when daylight
+  time ends. The prompt is in `ROUTINE_PROMPT.md`.
 - **Binding:** it is self-bound, meaning it fires into the session that created
   it, which gives it that session's repo access and model.
 - **To recreate it:** `create_trigger` with neither `create_new_session_on_fire`
@@ -50,11 +48,20 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
   - Genesis 31:55 = Hebrew 32:1.
   - Exodus 8:1–4 = Hebrew 7:26–29.
   - Leviticus 6:1–7 = Hebrew 5:20–26, and Leviticus 6:8–30 = Hebrew 6:1–23.
+  - Numbers 16:36–50 = Hebrew 17:1–15, and Numbers 17:1–13 = Hebrew 17:16–28.
+    Swete's Greek follows the English here.
+  - Numbers 25 has 18 verses: Hebrew 25:19 is English 26:1.
+  - Numbers 29:40 = Hebrew 30:1, and Numbers 30:1–16 = Hebrew 30:2–17. Swete's
+    Greek follows the Hebrew here.
+  - 1 Chronicles 6:1–15 = Hebrew 5:27–41, and 1 Chronicles 6:16–81 = Hebrew
+    6:1–66. `source_text.py 1-chronicles 6` prints only Hebrew 6, so Hebrew
+    5:27–41 must be printed too.
 
   Count the verses per chapter in the Hebrew file before rendering.
 - **Swete's Greek does not line up with the Hebrew.**
-  - It is out of step at Genesis 35:21–22, Exodus 7/8, Exodus 21/22 and
-    Leviticus 7 (Hebrew 7:21 is Swete 7:11).
+  - It is out of step at Genesis 35:21–22, Exodus 7/8, Exodus 21/22,
+    Leviticus 7 (Hebrew 7:21 is Swete 7:11) and Numbers 13 (Greek 13:1 is
+    Hebrew 12:16, so Hebrew 13:33 is Greek 13:34).
   - In Exodus 25–40 it is a shorter, reordered edition, so check what is
     actually at a Greek verse number before citing it.
 - **Hebrew searches must allow final letter forms** (ך ם ן ף ץ) or they quietly
@@ -70,7 +77,16 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 - **Independent checks are only independent if they don't share an input.**
   Three outside models once "confirmed" a reading taken from the same truncated
   file. Test the source before trusting agreement.
-- **The network reaches GitHub and nothing else.** Clone public repos over https.
+- **The network is open** (tested 2026-10-03): Sefaria, Perseus, Project
+  Gutenberg, archive.org, Blue Letter Bible and web search all work. STEPBible
+  and academic-bible.com refuse automated access; Beta maṣāḥǝft did not answer.
+  Network access is a setting of the cloud environment, not a limit of Claude.
+  Outside sources still follow the licence rule below, and a note's claims must
+  still be checkable in what `source_text.py` prints.
+- **`python-docx` and `playwright` are not preinstalled.** Run
+  `pip install python-docx playwright` before `build_docx.py` (do not run
+  `playwright install`; the browser is already there), or add the pip line to
+  the environment's setup script. Tested 2026-10-03: all 24 Word files built.
 - **Licences:** no share-alike or non-commercial sources, except CC BY-SA for the
   Ethiopian-only books (Andrew, 2026-09-23). Details are in `SOURCES.md`.
 - **Word files:** `build_docx.py` draws the charts in headless Chromium. In the
