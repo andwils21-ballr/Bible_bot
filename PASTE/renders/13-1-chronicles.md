@@ -2,6 +2,93 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 14–17 (routine, 7:50 AM Central, 2026-10-03)
+
+**Landed:** 1 Chronicles 14, 15, 16, 17. Progress 545 → **549 of 1,989 (27.6%)**. Next is 1 Chronicles 18.
+
+**The *torah* question** is still open; 16:40 uses **instruction** (*the instruction of the LORD*).
+
+**Departure from the Hebrew, by your witnesses rule:**
+- **15:18**, *Zechariah, Jaaziel*. The Hebrew reads *Zechariah ben, Jaaziel*: *ben*, **son of**, with no name after it. The Greek lacks the word, and the same names in v20 run without it. Noted.
+
+**Choice for you:**
+- **15:22, 27**, *massa*. (a) **the carrying**, as the text has it: *Chenaniah, chief of the Levites, was in charge of the carrying; he directed the carrying, for he understood it* (v22); *Chenaniah the leader of the carrying of the singers* (v27). The word is from *nasa*, **to lift, to carry**, the verb of v2 and v15, and the chapter is about carrying the ark. (b) **the singing** (lifting up the voice): the Greek has *chief of the songs* in v22, and v27 joins the word to *the singers*. Recommend (a), with the note giving (b); it is uncertain.
+
+### 1 Chronicles 14: David's House and Victories
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *Chiram*, read *Churam* | Huram (the reading followed; noted) |
+| 2 | *ki nis'et le-ma'lah malkhuto* | for his kingdom was highly exalted |
+| 3 | *nashim* | wives (noted) |
+| 7 | *Be'elyada* | Beeliada (noted) |
+| 8 | *va-yetse lifneihem* | went out against them |
+| 9, 13 | *va-yifshetu* | made a raid; raided |
+| 10 | written *Pelishtiyyim*, read *Pelishtim* | the Philistines (the reading followed) |
+| 11 | *parats… ke-ferets mayim* | has broken through… like a breakthrough of waters (noted) |
+| 12 | *va-yisarfu ba-esh* | they were burned with fire (noted) |
+| 14 | *hasev me'aleihem* | Go around and away from them |
+| 15 | *vi-yhi* | And it shall come to pass (formula; as 2 Samuel 5:24) |
+| 17 | *va-yetse shem David* | David's fame went out |
+
+### 1 Chronicles 15: The Ark Brought to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yet lo ohel* | pitched a tent for it |
+| 13 | *ki le-ma-va-rishonah lo attem* | Because you did not carry it the first time |
+| 13 | *ka-mishpat* | according to the rule (noted) |
+| 15 | *bi-khtefam ba-motot aleihem* | on their shoulders with the poles on them (noted) |
+| 16 | *mashmi'im le-harim be-qol le-simchah* | to play loudly and to raise sounds of joy |
+| 18 | *ha-mishnim* | of the second rank |
+| 18 | *Zekharyahu ben ve-Ya'azi'el* | Zechariah, Jaaziel (Greek followed; noted) |
+| 20, 21 | *al alamot*; *al ha-sheminit* | according to Alamoth; according to the Sheminith (***KEPT AS IS***: musical terms not understood; noted) |
+| 22, 27 | *massa* | the carrying (Choice above; noted) |
+| 24 | written *mechatsetsrim*, read *machtsrim* | blew the trumpets (the reading followed) |
+| 26 | *ba-ezor ha-Elohim et ha-Levi'im* | Because God helped the Levites (noted) |
+| 27 | *mekhurbal bi-m'il buts* | clothed in a robe of fine linen (noted) |
+| 29 | *meraqqed u-mesacheq* | dancing and celebrating (noted) |
+
+### 1 Chronicles 16: The Ark in Its Tent and David's Song of Thanks
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *eshpar* | a portion of meat (as 2 Samuel 6:19) |
+| 4 | *le-hazkir* | to bring to remembrance (noted) |
+| 7 | *ba-yom ha-hu az natan David ba-rosh* | On that day David first appointed |
+| 8–36 | (Psalms 105, 96, 106) | poetry (noted) |
+| 13 | *zera Yisra'el* | O seed of Israel (noted) |
+| 15 | *zikhru* | Remember (noted) |
+| 19 | *ve-garim bah* | and guests in it (fixed term; noted) |
+| 22 | *bi-mshichai* | My anointed ones (noted) |
+| 27 | *oz ve-chedvah bi-mqomo* | strength and joy are in His place (noted) |
+| 29 | *be-hadrat qodesh* | in the splendor of holiness |
+| 34, 41 | *ki le-olam chasdo* | for His loyal love endures forever (fixed term; noted) |
+| 37 | *li-dvar yom be-yomo* | as each day required |
+| 39 | *mishkan YHWH* | the dwelling of the LORD (noted) |
+| 40 | *be-torat YHWH* | in the instruction of the LORD |
+| 42 | *kelei shir ha-Elohim* | the instruments for the songs of God |
+
+### 1 Chronicles 17: The LORD's Promise to David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1, 3 | *va-yehi* | And it came to pass (formula) |
+| 4 | *lo attah tivneh li ha-bayit* | You shall not build Me the house (noted) |
+| 5 | *mi-ohel el ohel u-mi-mishkan* | from tent to tent and from dwelling to dwelling (*to dwelling* supplied; noted) |
+| 6 | *shoftei* | judges (noted) |
+| 9 | *le-valloto* | wear them down |
+| 10 | *va-aggid lakh* | I declare to you |
+| 11 | *ve-hayah* | And it shall come to pass (formula) |
+| 11 | *asher yihyeh mi-banekha* | one of your own sons |
+| 13 | *me-asher hayah lefanekha* | from him who was before you (noted) |
+| 14 | *ve-ha'amadtihu be-veiti u-ve-malkhuti* | I will set him over My house and over My kingdom (noted) |
+| 16, 17 | *YHWH Elohim*, *Elohim* | O LORD God, O God (noted) |
+| 17 | *u-re'itani ke-tor ha-adam ha-ma'alah* | You have regarded me as a man of high rank (***KEPT AS IS***: uncertain; noted) |
+| 21 | *legaresh* | by driving out (as the 2 Samuel 7:23 note said) |
+| 25 | *galita et ozen avdekha* | have revealed to Your servant (noted) |
+| 27 | *ki attah YHWH berakhta u-mevorakh le-olam* | For You, O LORD, have blessed it, and it is blessed forever (noted) |
+
 ## 1 Chronicles 10–13 (routine, 10:49 PM Central, 2026-10-02)
 
 **Landed:** 1 Chronicles 10, 11, 12, 13. Progress 541 → **545 of 1,989 (27.4%)**. Next is 1 Chronicles 14.
