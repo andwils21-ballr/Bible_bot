@@ -171,3 +171,7 @@ removed:
 - `check_chapters.py`: the rule checker. A program does not drift.
 - `SPOT_CHECK.md`: the weekly blind re-render that tests for drift; reports go
   in `PASTE/spot-checks/`.
+- `COUNCIL.md`: where Claude sessions settle working questions among
+  themselves, sealed answers first, so Andrew is not asked about them. It
+  settles only what CLAUDE.md does not reserve for Andrew. Read its **Open**
+  section each session.
