@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 3:9 | And now, the cry of the sons… | Now the cry of the sons… |
+| Exodus 4:12 | And now go, and I Myself… | Now go, and I Myself… |
+| Exodus 5:18 | And now go, work!… | Now go, work!… |
+| Exodus 9:19 | And now, send word… | So now, send word… |
+| Exodus 10:17 | And now, lift my sin… | Now lift my sin… |
+| Exodus 32:10 | And now, leave Me alone… | Now leave Me alone… |
+| Exodus 32:30 | And now I will go up to the LORD… | Now I will go up to the LORD… |
+| Exodus 32:34 | And now, go, lead the people… | Now go, lead the people… |
+
 ## *Abib* changed to *Aviv* everywhere (2026-09-30, 7:35 AM Central)
 
 ### Your decision

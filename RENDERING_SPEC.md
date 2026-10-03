@@ -162,7 +162,10 @@ report. The kept cases so far:
   - **Now** alone where the point is the moment (*Now do it*, 2 Samuel 3:18;
     *Now please forgive my sin*, 1 Samuel 15:25);
   - **cut it** where the next words already carry the turn.
-  Not *Now then*.
+  Not *Now then*. Every *And now* rendered before this rule was reviewed under
+  it on 2026-10-03. Kept, for example: *And now, let your servant stay instead
+  of the boy* (Genesis 44:33); *And now, Israel, listen* (Deuteronomy 4:1);
+  *Moses My servant is dead. And now get up* (Joshua 1:2).
 
 Not kept: *The LORD spoke to Moses, saying*; *These are the generations of*;
 *He lifted up his eyes and saw* (the *And here —* that follows is the marker);

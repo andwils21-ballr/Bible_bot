@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 7:3 | And now proclaim… | Now proclaim… |
+| Judges 9:32 | And now, rise by night… | So rise by night… |
+| Judges 11:13 | And now give those lands back… | Now give those lands back… |
+| Judges 11:23 | And now the LORD, the God of Israel, has driven out… | So the LORD, the God of Israel, has driven out… |
+| Judges 11:25 | And now, are you any better… | Now, are you any better… |
+| Judges 20:9 | And now this is what we will do… | Now this is what we will do… |
+| Judges 20:13 | And now give up the men… | Now give up the men… |
+
 ## *And it came to pass* aligned to the rule (2026-10-03, 2:25 PM Central)
 
 **Request:** Andrew: "Align the already reviewed with current practice." The rule written today (RENDERING_SPEC.md, *Kept on purpose*) keeps the formula when *va-yehi* is followed by a time or circumstance and then the event. These verses had it cut.

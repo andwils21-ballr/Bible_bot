@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| Deuteronomy 5:25 | And now, why should we die?… | But now, why should we die?… |
+| Deuteronomy 31:19 | And now write this song… | So now write this song… |
+
 ## Spec checks missed in the OT loop, fixed (render cycle, 2026-09-29)
 
 **Why:** reading RENDERING_SPEC.md in full at the start of this cycle turned up three rules the loop chapters of 2026-09-28 broke. Filed here because most of the fixes are in Deuteronomy; the Joshua rows are listed too.

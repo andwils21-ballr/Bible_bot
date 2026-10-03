@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 84:4 | And now the angels of Your heavens… | Now the angels of Your heavens… |
+| 1 Enoch 91:19 | And now listen to me, my children… | So listen to me, my children… |
+| 1 Enoch 100:12 | And now give gifts to the rain… | So give gifts to the rain… |
+| 1 Enoch 106:7 | And now I am here, my father… | So I am here, my father… |
+
 ## 1 Enoch 5:4, who "you" are (2026-10-02, 2:58 PM Central)
 
 **Request:** Andrew asked whether 5:4 could read *But the wicked — you…*. Every witness has only *but you* there (Ge'ez *wa-antemu-sa*, Greek *hymeis de*, Aramaic *ve-antun*); *the wicked* first appears in v7. **Decided:** the text stays as the witnesses have it, and a note on v4 names who *you* are.

@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 6:7 | And now take and prepare… | So now take and prepare… |
+| 1 Samuel 8:9 | And now, listen to their voice.… | So now listen to their voice.… |
+| 1 Samuel 12:2 | And now the king walks… | Now the king walks… |
+| 1 Samuel 12:7 | And now stand still… | Now stand still… |
+| 1 Samuel 12:10 | And now deliver us… | Now deliver us… |
+| 1 Samuel 12:13 | And now here is the king… | Now here is the king… |
+| 1 Samuel 18:22 | And now become the king… | Now become the king… |
+| 1 Samuel 24:21 | And now swear to me by the LORD… | So swear to me by the LORD… |
+| 1 Samuel 25:27 | And now let this gift… | Now let this gift… |
+| 1 Samuel 26:16 | And now see where the king… | Now see where the king… |
+
 ## *Now then* retired (2026-10-03, 2:25 PM Central)
 
 **Request:** Andrew: use what makes sense in each place for *ve-attah*, including cutting it, and write a rule if one is needed. The rule is in RENDERING_SPEC.md under the *And now* entry: *And now* for a weighty turn, *So* for a consequence, *But now* for a contrast, *Now* for the moment, or cut; never *Now then*.

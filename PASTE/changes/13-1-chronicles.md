@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Chronicles 17:23 | So now, O LORD, let the word… | And now, O LORD, let the word… |
+
 ## *And it came to pass* rule (2026-10-03, 2:06 PM Central)
 
 **Request:** Andrew, after the drift audit: keep *And it came to pass* where it carries meaning and feeling, and write the rule for when to keep and when to cut. The rule is now in RENDERING_SPEC.md under *Kept on purpose*. It keeps the formula when *va-yehi* is followed by a time or circumstance and then the event, and cuts it for *was / became / had*, the word of the LORD, a reason, a habit, or a clause inside a running sentence. These verses had drifted from it.

@@ -2,7 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## *And* start removed (2026-10-03, 2:40 PM Central)
+## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
+
+**Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 4:11 | And now shall I not require… | Now shall I not require… |
+| 2 Samuel 7:28 | And now, O Lord GOD, You are God… | So now, O Lord GOD, You are God… |
+| 2 Samuel 7:29 | And now, may it please You… | So now, may it please You… |
+
+## *And* start removed (2026-10-03, 2:26 PM Central)
 
 **Why:** the new checker (check_chapters.py) flagged a sentence starting with *And* that is not on the kept list.
 
