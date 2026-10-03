@@ -25,8 +25,10 @@ which needs no blindness. Any session that takes this over works the same way.
 2. Make a copy of the repo as it was before that cycle:
    `git worktree add --detach <scratch>/spot <commit>~1`. That copy does not
    contain the cycle's chapters.
-3. Give the rendering to a fresh helper agent with **only** this brief, filled
-   in, and nothing about the cycle being checked:
+3. Give the rendering to a fresh helper agent, **on Opus** (pass the model
+   explicitly, so a changed default can never put it on a smaller model),
+   with **only** this brief, filled in, and nothing about the cycle being
+   checked:
 
    > You are rendering chapters for the Bible_bot project in `<scratch>/spot`.
    > Work only in that folder. Read CLAUDE.md, RENDERING_SPEC.md and the fixed
