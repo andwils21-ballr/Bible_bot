@@ -438,6 +438,42 @@ Genesis 25:22 is the model.
 5. **If a chapter does not exist** in this canon's numbering, write the stub
    and note it.
 
+## Two kinds of example (Andrew, 2026-10-03)
+
+A run copies whatever it reads last. If only the latest chapters are read, one
+slip in them is copied into every run after (the shadow run of 2026-10-03 found
+notes saying a word was "fixed as" something in every run since 1 Kings 13).
+So the examples have two jobs, kept apart:
+
+- **The book's own recent chapters set the writer's style.** Matthew does not
+  write like John, and Chronicles does not read like Leviticus. Read the last
+  two chapters of the book being rendered to match its author's voice.
+- **The fixed models hold the rules**: format, word rules, readability,
+  pronouns, and what a note may and may not say. They never change unless
+  Andrew changes them, so the standard cannot slide. Read them every run:
+  - **Genesis 25**: narrative, and the model notes (vv21–23);
+  - **Exodus 33**: speech between God and a man, with the capital pronouns;
+  - **Leviticus 17**: law.
+
+  Where a recent chapter and a fixed model differ on a rule, the fixed model
+  and this spec win; the recent chapter is the one that slipped. For the number
+  of notes, *three to ten* above governs.
+- **A new writer.** In the first one or two runs of a book by a new author,
+  there are no recent chapters of that writer: take the style from the source
+  text itself and the rules from the fixed models. Do not carry the previous
+  book's voice into it.
+- **Parallel passages** (Chronicles and Samuel–Kings, the Gospels, psalms quoted
+  elsewhere): render the source of *this* verse. Reuse the earlier book's
+  English only where the source words are the same; where they differ, the
+  difference shows in the English. (Copied from Samuel where the Hebrew of
+  Chronicles differs: *See now* for *hinneh*, *Now then* for *ve-attah*, and a
+  dropped *And it came to pass*.)
+- **The checker.** Before every commit, run `python3 check_chapters.py`. It
+  checks this run's chapters for what a program can check: banned words, an
+  *And* not on the kept list, *here —* and *look —*, the fixed terms, verse
+  numbers, and notes that talk about the translating. Fix every ERROR. Each
+  CHECK is a lead: either fix it or say in the report why it stands.
+
 ## Pace
 
 Quality over throughput: four excellent chapters beat twelve thin ones. Never

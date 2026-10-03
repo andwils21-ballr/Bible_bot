@@ -41,6 +41,29 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 - **Do not test with `fire_trigger`.** It spawns a separate session and gives a
   misleading failure. Wait for a real scheduled firing.
 
+## Drift, and what stops it
+
+A long-running session slides away from the rules without noticing, because it
+copies its own recent output. The shadow run of 2026-10-03 showed it: notes
+saying a word was "fixed as" something, in every run since 1 Kings 13, and
+wording copied from Samuel into Chronicles where the Hebrew differs. Rereading
+CLAUDE.md does not stop this; the examples are fresher than the rules. Four
+things do (Andrew, 2026-10-03):
+
+1. **`check_chapters.py`** runs before every commit and checks what a program
+   can check. A program does not drift.
+2. **Fixed models** (spec, "Two kinds of example"): Genesis 25, Exodus 33 and
+   Leviticus 17 hold the rules; the book's recent chapters only set its
+   writer's style.
+3. **The session-start hook** (`.claude/hooks/session-start.sh`) installs the
+   Python packages and puts the three rules above in front of every new cloud
+   session on this repo.
+4. **The weekly spot check** (`SPOT_CHECK.md`): a fresh session re-renders the
+   latest cycle blind and reports the differences.
+
+A fresh session taking over should keep all four running, and should keep chat
+with Andrew apart from render work where it can.
+
 ## Hard-won technical facts
 
 - **Hebrew and English chapter divisions differ.** We follow the English;

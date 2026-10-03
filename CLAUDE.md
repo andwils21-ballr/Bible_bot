@@ -153,7 +153,12 @@ removed:
 - **A render cycle does not modify** the spec, this file, `HANDOFF.md`,
   `manifest.json`, the `build_*.py` scripts, `progress.py`, `source_text.py`, or
   `sources/`. Log findings in `NOTES_FOR_ANDREW.md` instead.
-- **Before every commit** run `python3 build_site.py && python3 progress.py`.
+- **Style from the book, rules from the fixed models** (Andrew, 2026-10-03):
+  the book's recent chapters show its writer's voice; Genesis 25, Exodus 33
+  and Leviticus 17 hold the rules, and win where the two differ (spec, "Two
+  kinds of example").
+- **Before every commit** run `python3 check_chapters.py` and fix every ERROR,
+  then `python3 build_site.py && python3 progress.py`.
 
 ## 7. Other files
 
@@ -163,3 +168,6 @@ removed:
 - `NOTES_FOR_ANDREW.md`: findings for Andrew.
 - `SOURCES.md`: source texts and licences.
 - `problem_solving.md`: run it before proposing any fix.
+- `check_chapters.py`: the rule checker. A program does not drift.
+- `SPOT_CHECK.md`: the weekly blind re-render that tests for drift; reports go
+  in `PASTE/spot-checks/`.
