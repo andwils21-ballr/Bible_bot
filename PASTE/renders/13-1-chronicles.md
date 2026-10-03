@@ -101,7 +101,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 1 | written *Chiram*, read *Churam* | Huram (the reading followed; noted) |
+| 1 | written *Chiram*, read *Churam* | Hiram (the written form, the received name; Andrew 2026-10-03; noted) |
 | 2 | *ki nis'et le-ma'lah malkhuto* | for his kingdom was highly exalted |
 | 3 | *nashim* | wives (noted) |
 | 7 | *Be'elyada* | Beeliada (noted) |

@@ -76,7 +76,33 @@ case…*, or a dash and a plain clause.
 
 ### Kept on purpose (settled rulings)
 
-- **"And it came to pass"** for *va-yehi*, the scene-opening formula.
+- **"And it came to pass"** for *va-yehi*, the scene-opening formula. When to
+  keep it and when to cut it (Andrew, 2026-10-03; written from the practice of
+  Genesis through Kings):
+  - **Keep it** when *va-yehi* is followed by a time or a circumstance and
+    then the event: *And it came to pass, when / as / after… , that…*. The
+    Hebrew is *va-yehi* + *ki* or *ka'asher*; *ke-* or *be-* + a verb (*when he
+    heard*, *as they came*); *acharei* (*after this*); *mi-qets* (*at the end
+    of*); a day, a night, a year (*the next day*, *that night*, *in the fifth
+    year*); or a subject with a participle (*as he was bowing down*, 2 Kings
+    19:37). This holds at the start of a story and inside one (*And it came to
+    pass at noon that Elijah mocked them*, 1 Kings 18:27). Inside speech, keep
+    it where the speaker tells a story step by step (1 Kings 3:18).
+  - **Cut it**, and write plain English, when *va-yehi* is not that formula:
+    1. **was, were, became, had, there was**: *All the days of Adam were…*;
+       *He had seven hundred wives*; *There was a great famine*; *This thing
+       became a sin*; every list and genealogy (*The sons of Ram were…*). The
+       same holds where the participle is itself the main verb and no event
+       follows (*So David and the elders… went*, 1 Chronicles 15:25).
+    2. **the word of the LORD came to** (below).
+    3. **a reason, not a time**: *va-yehi ki* meaning *because* (*This
+       happened because*, 2 Kings 17:7; *Because she pressed him*, Judges
+       16:16).
+    4. **a habit**: *whenever*, *as often as* (Numbers 10:35; 1 Kings 14:28).
+    5. **a clause inside a sentence already running**, where the formula
+       would break it: a parenthesis (1 Kings 18:4), or a quick *while…* in
+       speech that runs into the point (*While your servant was busy here and
+       there, he was gone*, 1 Kings 20:40).
 - **No "here —" or "look —" for *hinneh* / *idou*** (Andrew, 2026-09-28,
   replacing the ruling of 2026-09-25). In every book, rendered and still to
   come, in narrative and in speech: end the sentence before it and start the
