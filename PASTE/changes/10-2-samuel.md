@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *And* start removed (2026-10-03, 2:40 PM Central)
+
+**Why:** the new checker (check_chapters.py) flagged a sentence starting with *And* that is not on the kept list.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 7:19 | And this is the instruction for mankind | This is the instruction for mankind |
+
 ## *Now then* retired (2026-10-03, 2:25 PM Central)
 
 **Request:** Andrew: use what makes sense in each place for *ve-attah*, including cutting it, and write a rule if one is needed. The rule is in RENDERING_SPEC.md under the *And now* entry: *And now* for a weighty turn, *So* for a consequence, *But now* for a contrast, *Now* for the moment, or cut; never *Now then*.

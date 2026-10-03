@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *And* start removed (2026-10-03, 2:40 PM Central)
+
+**Why:** the new checker (check_chapters.py) flagged a sentence starting with *And* that is not on the kept list.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Kings 20:12 | And they took their positions against the city. | So they took their positions against the city. |
+
 ## *And it came to pass* rule (2026-10-03, 2:06 PM Central)
 
 **Request:** Andrew, after the drift audit: keep *And it came to pass* where it carries meaning and feeling, and write the rule for when to keep and when to cut. The rule is now in RENDERING_SPEC.md under *Kept on purpose*. It keeps the formula when *va-yehi* is followed by a time or circumstance and then the event, and cuts it for *was / became / had*, the word of the LORD, a reason, a habit, or a clause inside a running sentence. These verses had drifted from it.
