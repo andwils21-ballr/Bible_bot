@@ -2,6 +2,101 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Chronicles 26–29 (routine, 10:50 PM Central, 2026-10-03)
+
+**Landed:** 1 Chronicles 26, 27, 28, 29. **1 Chronicles is complete.** Progress 557 → **561 of 1,989 (28.2%)**. Next is 2 Chronicles 1.
+
+**Departure from the Hebrew, by your witnesses rule:**
+- **26:20**, *ve-ha-Leviyyim Achiyyah*, **and the Levites, Ahijah**: a name found nowhere else in these lists, standing where no name is expected. The Greek has *hoi Leuitai adelphoi autōn*, **the Levites their kinsmen** (Hebrew *acheihem*, one letter more). The text now reads *Their kinsmen the Levites were over the treasuries of the house of God*; the note quotes the Hebrew.
+
+**Choices for you:**
+- **26:20**, the departure above. (a) **Their kinsmen the Levites**, following the Greek, as the text has it. (b) **And the Levites: Ahijah was over the treasuries**, keeping the Hebrew. Recommend (a): the verse heads a list of treasurers by family (vv21–28), and Ahijah is in none of them.
+- **27:18**, *Elihu, one of David's brothers*. The Greek has *Eliab*, Jesse's firstborn (2:13; 1 Samuel 16:6); no Elihu is among Jesse's sons in 2:13–15. (a) **Elihu**, the Hebrew, as the text has it, with the note. (b) **Eliab**, following the Greek. Recommend (a): *achei David* can mean a kinsman as well as a brother, so the Hebrew is not self-contradictory.
+
+### 1 Chronicles 26: Gatekeepers, Treasurers and Officials
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *min benei Asaf* | of the sons of Asaph (noted: the Korahite Ebiasaph) |
+| 6 | *ha-mimshalim le-veit avihem* | who ruled over their father's house |
+| 6 | *gibborei chayil* | men of worth |
+| 7, 9, 30, 32 | *benei chayil* | able men |
+| 8 | *ish chayil ba-koach la-avodah* | able men with strength for the service |
+| 12 | *mishmarot le-ummat acheihem* | had duties alongside their kinsmen |
+| 13 | *le-sha'ar va-sha'ar* | for each gate |
+| 14 | *yo'ets be-sekhel* | a counselor with insight |
+| 15 | *beit ha-asuppim* | the storehouse |
+| 16 | *le-Shuppim* | For Shuppim ***KEPT AS IS***: perhaps copied from *asuppim* in v15; the Greek lacks it; noted |
+| 16 | *ba-mesillah ha-olah* | on the road that goes up |
+| 18 | *la-parbar* | for the precinct (as *parvarim*, 2 Kings 23:11; noted) |
+| 20 | *Achiyyah* | Their kinsmen (departure above; noted) |
+| 27 | *le-chazzeq* | to strengthen |
+| 28 | *al yad* | in the care of |
+| 29 | *la-melakhah ha-chitsonah* | to the outside work |
+| 31 | *nidrashu* | they were searched out |
+
+### 1 Chronicles 27: The Divisions of the Army and the King's Officials
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-ba'ah ve-ha-yotset* | that came in and went out |
+| 4 | *u-Miqlot ha-nagid* | and Mikloth the leader ***KEPT AS IS***: no place in the sentence; the Greek lacks it; noted |
+| 6 | *gibbor ha-sheloshim ve-al ha-sheloshim* | a mighty man of the thirty and over the thirty |
+| 7 | *u-Zevadyah veno acharav* | and Zebadiah his son after him (noted) |
+| 15 | *le-Otni'el* | of Othniel |
+| 18 | *Elihu me-achei David* | Elihu, one of David's brothers (noted; choice above) |
+| 23 | *lo nasa David mispparam* | David did not take the number |
+| 24 | *ve-lo alah ha-mispar be-mispar divrei ha-yamim* | the number was not entered in the account of the chronicles (noted) |
+| 27 | *ve-al she-ba-keramim le-otserot ha-yayin* | over the produce of the vineyards for the wine cellars |
+| 32 | *dod David* | David's uncle |
+| 33 | *re'a ha-melekh* | the king's friend |
+| 34 | *Yehoyada ben Benayahu* | Jehoiada son of Benaiah ***KEPT AS IS***: the reverse of v5; the Greek agrees with the Hebrew; noted |
+
+### 1 Chronicles 28: David's Charge and the Pattern of the House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-sarei khol rekhush u-miqneh* | the stewards of all the property and livestock |
+| 2 | *beit menuchah* | a house of rest (noted) |
+| 4 | *bi ratsah* | He was pleased with me |
+| 7 | *im yechezaq* | if he holds firm |
+| 8 | *ve-attah* | And now (kept: the weighty turn to the charge) |
+| 9 | *yetser machashavot* | every shaping of the thoughts (as Genesis 6:5; noted) |
+| 9 | *yaznichakha la-ad* | He will reject you forever |
+| 10 | *re'eh attah* | See now (*re'eh* is the verb *see*, not *hinneh*) |
+| 11 | *beit ha-kapporet* | the room of the cover (as Exodus 25:17; noted) |
+| 12 | *asher hayah va-ruach immo* | all that he had in his spirit (as the Greek; noted) |
+| 14–17 | *avodah va-avodah; menorah u-menorah; kefor u-khefor* | each service; each lampstand; each bowl |
+| 18 | *ha-merkavah ha-keruvim* | the chariot, the cherubim (noted) |
+| 19 | *ha-kol bi-khtav mi-yad YHWH alai* | All this is in writing from the hand of the LORD upon me |
+| 20 | *lo yarpekha* | He will not let you go (as Deuteronomy 31:6; noted) |
+| 21 | *ve-hinneh* | (cut): The divisions… are ready |
+| 21 | *nadiv ba-chokhmah* | willing man with skill |
+
+### 1 Chronicles 29: The Gifts, David's Prayer and His Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-birah* | the palace (noted) |
+| 2 | *avnei shoham u-millu'im avnei fukh ve-riqmah* | onyx stones and stones for setting, stones of antimony and of many colors |
+| 3 | *bi-rtsoti* | because I delight |
+| 3 | *segullah* | a treasure of my own (as Exodus 19:5; noted) |
+| 4 | *la-tuach qirot ha-battim* | to overlay the walls of the houses |
+| 5 | *le-mallot yado* | to fill his hand (as Exodus 32:29; noted) ***KEPT AS IS***: the idiom carries the note |
+| 7 | *adarkonim* | darics (noted) |
+| 13 | *ve-attah* | So now (praise drawn into thanks) |
+| 14 | *ki na'tsor koach* | that we should be able |
+| 15 | *ve-ein miqveh* | and there is no hope |
+| 17 | *bochen levav* | You test the heart |
+| 18 | *shomrah zot* | keep this |
+| 20 | *va-yiqqedu va-yishtachavu* | bowed their heads and bowed down |
+| 22 | *va-yimshechu la-YHWH le-nagid* | anointed him for the LORD as leader |
+| 24 | *natnu yad tachat* | pledged themselves to (noted) |
+| 25 | *hod malkhut* | royal majesty |
+| 28 | *be-seivah tovah* | at a good gray age (as Genesis 15:15; noted) |
+| 29 | *ha-rishonim ve-ha-acharonim* | from first to last |
+| 29 | *al divrei* | in the words of |
+
 ## 1 Chronicles 22–25 (routine, 5:50 PM Central, 2026-10-03)
 
 **Landed:** 1 Chronicles 22, 23, 24, 25. Progress 553 → **557 of 1,989 (28.0%)**. Next is 1 Chronicles 26.
