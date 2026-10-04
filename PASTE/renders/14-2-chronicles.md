@@ -2,6 +2,91 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 5–8 (routine, 12:49 PM Central, 2026-10-04)
+
+**Landed:** 2 Chronicles 5, 6, 7, 8. Progress 565 → **569 of 1,989 (28.6%)**. Next is 2 Chronicles 9.
+
+**The *torah* question** comes up once: 6:16, *la-lekhet be-torati*, rendered **to walk in My instruction**, as in every render since 2 Kings 21. Kings has *to walk before Me* here (1 Kings 8:25); the note says so.
+
+**Parallel passages:** chapters 5–8 are 1 Kings 8:1–9:28. Per the spec, the English of 1 Kings is reused where the Hebrew is the same, and every place the Hebrew of Chronicles differs shows in the English and, where it matters, in a note.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **7:16**, *ve-attah bacharti ve-hiqdashti*. The text reads *I have chosen and consecrated this house*, with *ve-attah* cut under the 2026-10-03 rule, because v15 has just said *Now My eyes will be open*. (a) Cut, as now. (b) **And now I have chosen…**, keeping the turn. Recommend (a).
+
+### 2 Chronicles 5: The Ark Brought into the House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-tishlam* | So… was finished |
+| 4 | *va-yis'u ha-Leviyyim* | the Levites took up (noted) |
+| 5 | *ha-kohanim ha-Leviyyim* | the Levitical priests (noted) |
+| 6 | *ha-no'adim alav* | who had gathered to him |
+| 9 | *min ha-aron* | from the ark (noted) |
+| 11–13 | *va-yehi be-tset… ve-ha-bayit male anan* | And it came to pass, when… that the house… was filled (the formula spans a parenthesis of vv11b–12, marked with dashes) |
+| 11 | *ein lishmor le-machleqot* | without keeping to their divisions |
+| 12, 13 | written *mechatserim*, read *machtserim* | blowing trumpets (spelling) |
+| 13 | *ve-ha-bayit male anan beit YHWH* | the house, the house of the LORD, was filled with a cloud ***KEPT AS IS***: the Hebrew names the house twice |
+
+### 2 Chronicles 6: Solomon's Prayer of Dedication
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–2 | poetry | set in lines, as 1 Kings 8:12–13 |
+| 2 | *va-ani baniti* | I have built (Kings has *banoh baniti*, *I have surely built*) |
+| 5 | *ve-lo vacharti ve-ish* | and I have not chosen a man (noted) |
+| 13 | *kiyyor nechoshet* | a bronze platform (noted) |
+| 16 | *be-torati* | in My instruction (*torah*; noted) |
+| 16, 17 | *ve-attah* | And now (kept: the turn from praise to plea, as 1 Kings 8:25–26) |
+| 18 | *et ha-adam* | with man (noted) |
+| 26 | *ki ta'anem* | because You afflict them (as 1 Kings 8:35) |
+| 29 | *nig'o u-makh'ovo* | his own blow and his own pain (noted) |
+| 37 | *chatanu he'evinu ve-rasha'nu* | We have sinned, we have done wrong and acted wickedly |
+| 40 | *attah* | Now (no *ve-*) |
+| 41 | *ve-attah* | So now (the consequence: the prayer ends in its request) |
+| 41–42 | poetry | set in lines (Psalm 132:8–10; noted) |
+| 42 | *meshichekha* | Your anointed ones (plural; noted) |
+| 42 | *chasdei David* | the loyal love shown to David (noted) |
+
+### 2 Chronicles 7: Fire from Heaven and the LORD's Answer
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *u-khe-khallot… ve-ha-esh yaredah* | When Solomon had finished praying, fire came down (not *va-yehi*) |
+| 3 | *va-yikhre'u appayim artsah* | they bowed with their faces to the ground |
+| 3 | *ve-hodot* | gave thanks |
+| 6 | *be-hallel David be-yadam* | when David offered praise by their hands (noted) |
+| 6 | written *mechatsetserim*, read *machtserim* | sounded trumpets (spelling) |
+| 9 | *atseret* | a closing assembly (as Leviticus 23:36; noted) |
+| 11 | *ve-et kol ha-ba al lev Shelomoh… hitsliach* | All that Solomon had set his heart to do… he carried out with success |
+| 12 | *beit zavach* | a house of sacrifice (noted) |
+| 14 | *yikkane'u* | humble themselves (noted) |
+| 15 | *attah* | Now |
+| 16 | *ve-attah* | (cut; choice above) |
+| 18 | *karatti… moshel be-Yisrael* | I covenanted… a man to rule in Israel (noted) |
+| 20 | *u-netashtim* | I will uproot them (noted) |
+| 21 | *asher hayah elyon* | which was exalted |
+
+### 2 Chronicles 8: Solomon's Cities and Service
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1–2 | *va-yehi mi-qets… ve-he'arim… banah Shelomoh otam* | And it came to pass at the end of twenty years… that Solomon rebuilt the cities (formula; object moved after the verb) |
+| 2 | *asher natan Churam li-Shlomoh* | that Hiram had given him (noted) |
+| 3 | *va-yechezaq aleha* | and took it |
+| 5 | *arei matsor chomot delatayim u-veriach* | fortified cities with walls, gates and bars |
+| 6 | *kol cheshek Shelomoh asher chashaq* | whatever Solomon desired |
+| 8 | *asher lo khillum* | whom… had not destroyed |
+| 9 | *ve-sarei shalishav* | commanders of his officers |
+| 10 | written *ha-netsivim*, read *ha-nitsavim* | the chief officers (spelling) |
+| 10 | *ha-rodim ba-am* | who had charge of the people |
+| 11 | *ki qodesh hemmah* | for the places… are holy (noted) |
+| 13 | *u-vi-dvar yom be-yom* | as the duty of each day required |
+| 16 | *va-tikkon* | was carried out |
+| 16 | *shalem beit YHWH* | The house of the LORD was complete |
+| 18 | written *oniyyot*, read *oniyyot* | ships (spelling) |
+
 ## 2 Chronicles 1–4 (routine, 7:49 AM Central, 2026-10-04)
 
 **Landed:** 2 Chronicles 1, 2, 3, 4. Progress 561 → **565 of 1,989 (28.4%)**. Next is 2 Chronicles 5.

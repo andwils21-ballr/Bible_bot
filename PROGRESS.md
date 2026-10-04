@@ -1,8 +1,8 @@
 # Progress
 
-**565 of 1989 chapters rendered (28.4%).**
+**569 of 1989 chapters rendered (28.6%).**
 
-Next up: **2 Chronicles 5**
+Next up: **2 Chronicles 9**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -19,7 +19,7 @@ Next up: **2 Chronicles 5**
 | 11 | 1 Kings | source | done |
 | 12 | 2 Kings | source | done |
 | 13 | 1 Chronicles | source | done |
-| 14 | 2 Chronicles | source | 4/36 |
+| 14 | 2 Chronicles | source | 8/36 |
 | 15 | Jubilees | witnesses | done |
 | 16 | 1 Enoch | witnesses | done |
 | 17 | Ezra | source | 0/10 |
