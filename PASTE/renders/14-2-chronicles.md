@@ -2,6 +2,93 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 9–12 (routine, 5:49 PM Central, 2026-10-04)
+
+**Landed:** 2 Chronicles 9, 10, 11, 12. Progress 569 → **573 of 1,989 (28.8%)**. Next is 2 Chronicles 13.
+
+**Before rendering:** the weekly spot check of 2 Chronicles 5–8 found two rule breaks in this book. Both are fixed: 7:13 *chagav* is now **grasshopper**, and its note no longer claims an echo of 6:28 that the Hebrew does not have; 8:16 now follows the Hebrew, *up to the day*, with a note giving the Greek *from*. 5:9 now reads *It is there* (singular, as the Hebrew), and the 6:42 note gives both readings of *chasdei David*. All in `PASTE/changes/14-2-chronicles.md` (commit `36924bb`).
+
+**Widespread decisions (first):**
+- ***pilegesh*: concubine or secondary wife.** Judges, 2 Samuel, 1 Kings 11:3 and Jubilees 33 say **concubine**; Genesis, 1 Chronicles and Jubilees 20 say **secondary wife**; it is in no fixed-terms table. 11:21 here reads *eighteen wives and sixty secondary wives*, following 1 Chronicles. Every verse is listed in `NOTES_FOR_ANDREW.md`. (a) **secondary wife** everywhere: a wife of lower standing, which is what the word is. (b) **concubine** everywhere: the received English. Recommend (a), with one note at the first occurrence.
+- ***chasil* and the locust words** (raised by the spot check): until you rule, **grasshopper** stands for both *chasil* (6:28, as 1 Kings 8:37) and *chagav* (7:13, as Leviticus 11:22).
+
+**The *torah* question:** 12:1, *azav et torat YHWH*, rendered **he forsook the instruction of the LORD**.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **6:42**, *zokhrah le-chasdei David avdekha*, now reads *Remember the loyal love shown to David Your servant*. (a) **the loyal love shown to David**, the LORD's promise, as Isaiah 55:3. (b) **the loyal deeds of David**, as *chasadav* means Hezekiah's and Josiah's deeds (32:32; 35:26). Recommend (a): the prayer opened by asking God to keep His word to David (6:16). The note gives both.
+- **9:4**, *va-aliyyato asher ya'aleh beit YHWH*, now reads *the ascent by which he went up to the house of the LORD*. Kings has *his burnt offerings that he offered* (1 Kings 10:5), and the Greek of Chronicles has *burnt offerings*. (a) The Hebrew, as now. (b) **his burnt offerings**, following Kings and the Greek. Recommend (a): the Hebrew reads, and the note gives the other.
+
+### 2 Chronicles 9: The Queen of Sheba and Solomon's Wealth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *le-nassot… be-chidot* | to test… with hard questions (as 1 Kings 10:1) |
+| 4 | *ve-lo hayah od bah ruach* | there was no longer any spirit in her (as 1 Kings 10:5) |
+| 4 | *va-aliyyato asher ya'aleh* | the ascent by which he went up (noted; choice above) |
+| 6 | *ve-hinneh lo huggad li* | Not even half… was told me (*hinneh* cut) |
+| 8 | *al kis'o le-melekh la-YHWH* | on His throne as king for the LORD (noted) |
+| 8 | *le-ha'amido le-olam* | to establish them forever |
+| 10 | written *Chiram*, read *Churam* | Hiram (the king; as 2:3) |
+| 11 | *mesillot* | steps (noted) |
+| 12 | *millevad asher hevi'ah el ha-melekh* | besides what she had brought to the king ***KEPT AS IS***: Kings has *besides what he gave her* |
+| 15, 16 | *shesh me'ot / shelosh me'ot* | six hundred shekels / three hundred shekels (*shekels* supplied; Kings has *three minas* in v16) |
+| 18 | *ve-khevesh ba-zahav* | a footstool of gold (noted) |
+| 20 | *ein kesef nechshav* | Silver was not considered as anything |
+| 21 | *holekhot Tarshish* | went to Tarshish (noted) |
+| 25 | *urvot susim u-markavot* | stalls for horses and chariots (noted) |
+| 29 | written *Ye'di*, read *Ye'do* | Iddo (spelling) |
+
+### 2 Chronicles 10: Israel Breaks Away
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *va-yehi ki-shmoa… va-yashov* | And it came to pass, when… that Jeroboam returned (formula; noted) |
+| 4 | *ve-attah* | Now (as 1 Kings 12:4) |
+| 5 | *od shloshet yamim ve-shuvu elai* | Come back to me in three days |
+| 7 | *im tihyeh le-tov… u-retsitam* | If you will be kind… and please them (noted) |
+| 10 | *qotanni* | My little finger (*finger* supplied, as 1 Kings 12:10) |
+| 11 | *ve-attah* | Now, whereas (as 1 Kings 12:11) |
+| 14 | *akhbid et ullekhem* | I will make your yoke heavy (noted) |
+| 15 | *nesibbah* | a turn of affairs (noted) |
+| 16 | poetry | set in lines, as 1 Kings 12:16 |
+| 18 | *hit'ammets* | hurried |
+
+### 2 Chronicles 11: Rehoboam Strengthens Judah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *va-yehi devar YHWH* | But the word of the LORD came (not the formula) |
+| 4 | *va-yashuvu mi-lekhet el Yarov'am* | turned back from going against Jeroboam |
+| 5 | *arim le-matsor* | cities for defense |
+| 12 | *va-yehi lo Yehudah u-Vinyamin* | So Judah and Benjamin were his |
+| 13 | *hityatsevu alav* | took their stand with him |
+| 14 | *hiznichum… mi-kahen* | had rejected them from serving as priests |
+| 15 | *la-se'irim* | for the goat-spirits (as Leviticus 17:7; noted) |
+| 17 | *li-shanim shalosh… li-shanim shalosh* | for three years… for three years ***KEPT AS IS***: the Hebrew says it twice; noted |
+| 18 | written *ben*, read *bat* | the daughter of Jerimoth (noted) |
+| 21 | *u-filagshim* | secondary wives (widespread choice above) |
+| 22 | *le-rosh… le-nagid be-echav* | as chief, leader among his brothers |
+| 23 | *va-yaven va-yifrots* | He acted wisely and distributed |
+| 23 | *va-yish'al hamon nashim* | sought many wives for them |
+
+### 2 Chronicles 12: Shishak Comes Up Against Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi ke-hakhin* | And it came to pass, when… that (formula) |
+| 1 | *azav et torat YHWH* | he forsook the instruction of the LORD |
+| 2 | *va-yehi ba-shanah ha-chamishit* | And it came to pass in the fifth year that (formula) |
+| 2 | *ki ma'alu ba-YHWH* | because they had broken faith with the LORD (as 1 Chronicles 10:13; noted) |
+| 5 | *azavtem… azavti* | You have forsaken… I have forsaken (noted) |
+| 7 | *ki-me'at li-fleitah* | some deliverance (noted) |
+| 8 | *avodati ve-avodat mamlekhot ha-arets* | My service and the service of the kingdoms of the lands (noted) |
+| 11 | *va-yehi midei bo* | As often as (a habit: not the formula) |
+| 12 | *u-ve-hikkane'o* | When he humbled himself |
+| 13 | *va-yitchazzeq* | strengthened himself |
+| 15 | *le-hityachesh* | by genealogy ***KEPT AS IS***: noted |
+
 ## 2 Chronicles 5–8 (routine, 12:49 PM Central, 2026-10-04)
 
 **Landed:** 2 Chronicles 5, 6, 7, 8. Progress 565 → **569 of 1,989 (28.6%)**. Next is 2 Chronicles 9.
