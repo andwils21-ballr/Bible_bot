@@ -2,6 +2,27 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## The Lord's Prayer in its familiar words (Andrew, 2026-10-05)
+
+**Request:** Andrew: "Use the familiar words when the text allows. If the 'For Thine is the Kingdom, the Power, and the Glory' is not in the text then leave it out. Don't add things that aren't there."
+
+**Options weighed:**
+- Every familiar phrase was kept where the Greek supports it: *hallowed be* (*hagiasthētō*, let it be made holy), *on earth as it is in heaven* (the Greek order is *as in heaven, also on earth*; the note keeps it), *this day* (*sēmeron*), *lead us not into temptation* (*peirasmos* is both testing and temptation), *deliver us from evil* (*tou ponērou*, evil or the evil one; the note keeps both).
+- Not taken from the familiar form: *trespasses* (Matthew's word is *debts*, *opheilēmata*), and *as we forgive* (the Greek *aphēkamen* is past: *as we also have forgiven*).
+- The ending *For Yours is the kingdom…* is not in the Greek text this project follows (SBLGNT), so it is not added; the note says so and gives its source in David's words (1 Chronicles 29:11).
+- *Peirasmos* is now **temptation** in both its places in Matthew (6:13, 26:41), one Greek word to one English word. The verb *peirazō* stays **test** (4:1, 4:3, 4:7 and elsewhere), and the 6:13 note ties the two together.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 6:9 | Our Father who is in heaven, / may Your name be kept holy; | Our Father in heaven, / hallowed be Your name. |
+| Matthew 6:10 | may Your kingdom come; / may Your will be done, / as in heaven, so on earth. | Your kingdom come, / Your will be done, / on earth as it is in heaven. |
+| Matthew 6:11 | Give us today our daily bread, | Give us this day our daily bread, |
+| Matthew 6:13 | and do not bring us into testing, / but rescue us from the evil one. | and lead us not into temptation, / but deliver us from evil. |
+| Matthew 6, note v9 | **v9 "may Your name be kept holy"** — … bread, debts and testing. | **v9 "hallowed be Your name"** — … *Hallow* is the old English verb for exactly that, *make holy*. … bread, debts and temptation. |
+| Matthew 6, note v10 | **v10 "as in heaven, so on earth"** — the Greek puts heaven first: … | **v10 "on earth as it is in heaven"** — the Greek puts heaven first, *hōs en ouranō kai epi gēs*, **as in heaven, also on earth**: … |
+| Matthew 6, note v13 | **v13 "do not bring us into testing, but rescue us from the evil one"** — … the one who tests is the likelier reading. | **v13 "lead us not into temptation, but deliver us from evil"** — *peirasmos* is **testing** and **temptation** at once … the one who tests is a strong reading. The ending known from prayer … is not in it; its words are David's (1 Chronicles 29:11). |
+| Matthew 26:41 | so that you do not come into testing. | so that you do not enter into temptation. |
+
 ## *lepra* = leprosy / leper in Matthew; *tamim* = without defect (Andrew, 2026-09-28)
 
 **Request:** Andrew: "What if we only changed lepra words to leprosy?" Then: "Yes, use leprosy and leper, with the note. And, tamim make without defect."
