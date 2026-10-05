@@ -2,6 +2,89 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 25–28 (routine, 5:49 PM Central, 2026-10-05)
+
+**Landed:** 2 Chronicles 25, 26, 27, 28. Progress 585 → **589 of 1,989 (29.6%)**. Next is 2 Chronicles 29.
+
+**Still open with you:** *chasil* (6:28); 9:4; 15:3; 17:3; 20:2; 22:2.
+
+**The *torah* question:** 25:4 *according to what is written in the instruction, in the book of Moses*; Kings has *the book of the law of Moses* in the same verse (2 Kings 14:6), one of the six older verses that read *law*.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **26:5**, *ha-mevin bi-r'ot ha-Elohim*, now reads *Zechariah, who had understanding in the visions of God*. (a) **in the visions of God**, the Hebrew, as now. (b) **in the fear of God**, the Greek (*en phobō Kyriou*), which is *be-yir'at* in Hebrew, one letter more. Recommend (a): the Hebrew reads well, and a teacher of the king who *saw* is in keeping with the prophets of this book.
+
+### 2 Chronicles 25: Amaziah and the Gods of Edom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-lo be-levav shalem* | yet not with a whole heart (noted) |
+| 3 | *va-yehi ka'asher chazqah ha-mamlakhah alav* | And it came to pass, when… that (formula) |
+| 4 | *ka-katuv ba-torah be-sefer Mosheh* | according to what is written in the instruction, in the book of Moses |
+| 4 | *yamutu* | shall… die (noted) |
+| 5 | *ochez romach ve-tsinnah* | able to handle spear and shield |
+| 8 | *ki im ba attah aseh chazaq* | Even if you go and act and are strong ***KEPT AS IS***: abrupt in the Hebrew; noted |
+| 10 | *va-yavdilem… la-gedud* | separated the troops |
+| 12 | *nivqa'u* | were dashed to pieces |
+| 14 | *va-yehi acharei bo* | And it came to pass, after… that (formula) |
+| 16 | *va-yehi be-dabbero* | And it came to pass, as he was speaking… that (formula) |
+| 16 | *chadal lekha lammah yakkukha* | Stop! Why should you be struck down? |
+| 17 | written *lekh*, read *lekhah* | Come (spelling) |
+| 19 | *amarta hinneh hikkita* | You say, 'I have struck down' (*hinneh* cut) |
+| 19 | *le-hakhbid* | to boast |
+| 20 | *le-ma'an titam be-yad* | so that He might give them into Joash's hand (*Joash's* supplied) |
+| 24 | *im Oved Edom* | in the care of Obed-edom (noted) |
+| 28 | *be-ir Yehudah* | in the city of Judah ***KEPT AS IS***: Kings and the Greek have *the City of David*; noted |
+
+### 2 Chronicles 26: Uzziah's Strength and His Blight
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | written *Yekhiliyah*, read *Yekholyah* | Jecoliah (spelling) |
+| 5 | *va-yehi lidrosh Elohim* | He set himself to seek God (not the formula) |
+| 5 | *bi-r'ot ha-Elohim* | in the visions of God (choice above; noted) |
+| 7 | written *ha-Arviyyim*, read *ha-Arvim* | the Arabians (spelling) |
+| 10 | *ki ohev adamah hayah* | for he loved the soil (noted) |
+| 11 | written *Ye'u'el*, read *Ye'i'el* | Jeiel (spelling) |
+| 15 | *chishbonot machashevet choshev* | engines, devised by skillful men |
+| 15 | *ki hifli le-he'azer* | he was marvelously helped (noted) |
+| 16 | *gavah libbo ad le-hashchit* | his heart was lifted up, to his destruction (noted) |
+| 18 | *ve-lo lekha le-khavod* | it will bring you no honor |
+| 19 | *zarechah* | broke out (noted) |
+| 20 | *ve-hinneh hu metsora* | there he was with blight (*hinneh* cut) |
+| 21 | written *ha-chofshut*, read *ha-chofshit* | a separate house (noted) |
+| 21 | *ki nigzar* | for he was cut off |
+
+### 2 Chronicles 27: Jotham
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *raq lo va* | except that he did not enter (noted) |
+| 2 | *mashchitim* | acted corruptly |
+| 4 | *u-va-choreshim* | in the wooded hills |
+| 6 | *ki hekhin derakhav* | because he ordered his ways (noted) |
+| 8 | (v1 repeated) | ***KEPT AS IS***: the Hebrew repeats v1; the Greek does not; noted |
+
+### 2 Chronicles 28: Ahaz and the Captives of Judah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *massekhot* | cast images |
+| 3 | *va-yav'er… ba-esh* | burned… in the fire (noted) |
+| 9 | *hinneh ba-chamat* | Because… was angry (*hinneh* cut) |
+| 9 | *be-za'af ad la-shamayim higgia* | in a rage that has reached up to heaven (noted) |
+| 10 | *ve-attah* | Now (the charge at the moment) |
+| 10 | *ha-lo raq attem immakhem ashamot* | But are there not guilty deeds of your own |
+| 11 | *ve-attah* | So now (the consequence: send them back) |
+| 13 | *hinneh ki* | (cut) |
+| 14 | *he-chalutz* | the armed men |
+| 15 | *va-yasukhum* | and anointed them (noted) |
+| 19 | *hifria* | he had let… loose (as Exodus 32:25; noted) |
+| 20 | *Tilgat Pilne'eser* | Tilgath-pilneser (Kings has *Tiglath-pileser*) |
+| 21 | *chalaq* | took a portion |
+| 23 | *le-hakhshilo* | the ruin of him (noted) |
+
 ## 2 Chronicles 21–24 (routine, 12:49 PM Central, 2026-10-05)
 
 **Landed:** 2 Chronicles 21, 22, 23, 24. Progress 581 → **585 of 1,989 (29.4%)**. Next is 2 Chronicles 25.
