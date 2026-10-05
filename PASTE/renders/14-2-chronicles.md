@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 21–24 (routine, 12:49 PM Central, 2026-10-05)
+
+**Landed:** 2 Chronicles 21, 22, 23, 24. Progress 581 → **585 of 1,989 (29.4%)**. Next is 2 Chronicles 25.
+
+**Still open with you:** *chasil* (6:28); 9:4; 15:3; 17:3; 20:2.
+
+**The *torah* question:** 23:18 *as it is written in the instruction of Moses*.
+
+**Parallel passages:** 2 Kings 8:16–29, 9:27–28, 11 and 12. The English of Kings is reused where the Hebrew is the same.
+
+**Departures from the Hebrew, by your witnesses rule:**
+- **22:2**, *ben arba'im u-shetayim*, **forty-two years old**. His father died at forty (21:20), so the Hebrew contradicts itself. Kings has *twenty-two* (2 Kings 8:26); the Greek of Chronicles has *twenty*. The text reads *twenty-two*, following Kings; the note quotes the Hebrew and the Greek.
+- **22:6**, *va-Azaryahu ven Yehoram*, **Azariah son of Jehoram**, against *Ahaziah* in vv1, 2 and 7. The Greek has *Ochozias*, as Kings has (2 Kings 8:29). The text reads *Ahaziah*; the note quotes the Hebrew.
+
+**Choices for you:**
+- **22:2**, the age, the departure above. (a) **twenty-two**, following Kings, as now. (b) **twenty**, following the Greek of Chronicles. (c) **forty-two**, the Hebrew, with a note that it cannot be right. Recommend (a): Kings is the Hebrew witness for the same verse.
+
+### 2 Chronicles 21: Jehoram and Elijah's Letter
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *melekh Yisrael* | king of Israel ***KEPT AS IS***: the Greek has *Judah*; noted |
+| 3 | *u-le-migdanot* | and precious things |
+| 4 | *va-yaqom… va-yitchazzaq* | had risen… and established himself |
+| 7 | *nir* | a lamp (as 2 Kings 8:19; noted) |
+| 9 | *im sarav* | with his commanders (Kings has *to Zair*) |
+| 11 | *va-yizen* | led… to whore (fixed term; noted) |
+| 11 | *va-yaddach* | drove… astray |
+| 14 | *hinneh YHWH nogef* | the LORD is about to strike (*hinneh* + participle; noted) |
+| 15 | *yamim al yamim* | day after day |
+| 16 | *ruach ha-Pelishtim* | the spirit of the Philistines (lowercase) |
+| 17 | *va-yivqa'uha* | broke into it |
+| 19 | *le-yamim miyyamim ve-khe-et tset ha-qets le-yamim shenayim* | In the course of time, at the end of two years |
+| 20 | *be-lo chemdah* | with no one's regret (noted) |
+
+### 2 Chronicles 22: Ahaziah and Athaliah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-gedud* | the band of raiders |
+| 2 | *arba'im u-shetayim* | twenty-two (departure above; noted) |
+| 3 | *yo'atsto le-harshia* | his counselor in doing wickedly |
+| 4 | *le-mashchit lo* | to his destruction |
+| 6 | *Azaryahu* | Ahaziah (departure above; noted) |
+| 6 | *ba-Ramah* | at Ramah (as 2 Kings 8:29) |
+| 7 | *tevusat* | the downfall (noted) |
+| 8 | *va-yehi ke-hishafet* | And it came to pass, when… that (formula) |
+| 9 | *ve-ein le-veit Achazyahu la'tsor koach* | the house of Ahaziah had no one able to hold the kingdom |
+| 10 | *va-tedabber* | destroyed |
+| 11 | *ba-chadar ha-mittot* | in the bedroom |
+
+### 2 Chronicles 23: Jehoiada Makes Joash King
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hitchazzaq* | took courage |
+| 3 | *hinneh ven ha-melekh yimlokh* | The king's son shall reign (*hinneh* cut) |
+| 4 | *le-sho'arei ha-sippim* | gatekeepers at the thresholds |
+| 5 | *be-sha'ar ha-yesod* | at the Gate of the Foundation |
+| 6 | *ki qodesh hemmah* | for they are holy (noted) |
+| 8 | *ki lo fatar… et ha-machleqot* | did not release the divisions |
+| 9 | *ha-maginnot ve-ha-shelatim* | the large and small shields |
+| 11 | *ve-et ha-edut* | and the testimony (noted) |
+| 13 | *ve-hinneh ha-melekh omed* | there was the king standing (*hinneh* cut) |
+| 13 | *u-modi'im le-hallel* | leading the praise |
+| 14 | *mi-beit ha-sederot* | between the ranks |
+| 16 | *beino u-vein kol ha-am* | between himself and all the people (noted) |
+| 18 | *ka-katuv be-torat Mosheh* | as it is written in the instruction of Moses |
+| 19 | *tame le-khol davar* | unclean in anything |
+
+### 2 Chronicles 24: Joash Repairs the House and Turns Away
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *va-yehi acharei khen* | And it came to pass after this that (formula) |
+| 5 | *ve-attem temaharu la-davar* | see that you act on it quickly |
+| 6 | *mas'at Mosheh* | the tax that Moses… laid (noted) |
+| 7 | *ha-mirsha'at* | that wicked woman |
+| 11 | *va-yehi be-et yavi* | Whenever (a habit: not the formula) |
+| 13 | *va-ta'al arukhah* | the repair went forward |
+| 13 | *al matkunto* | according to its proper design |
+| 15 | *va-yisba yamim* | full of days |
+| 18 | *ha-atsabbim* | the idols |
+| 20 | *ruach Elohim lavshah* | the Spirit of God clothed (noted) |
+| 22 | *yere YHWH ve-yidrosh* | May the LORD see and require it |
+| 23 | *va-yehi li-tqufat ha-shanah* | And it came to pass at the turn of the year that (formula) |
+| 24 | *et Yo'ash asu shefatim* | they executed judgment on Joash |
+| 25 | written *be-machaliyyim*, read *be-machaluyim* | in great sickness (spelling) |
+| 25 | *bnei Yehoyada* | the sons of Jehoiada ***KEPT AS IS***: the Greek has *son*; noted |
+| 27 | written *ve-rov*, read *yirev* | the many (spelling) |
+| 27 | *ha-massa* | oracles |
+| 27 | *midrash sefer ha-melakhim* | the account of the book of the kings (as 13:22) |
+
 ## 2 Chronicles 17–20 (routine, 7:49 AM Central, 2026-10-05)
 
 **Landed:** 2 Chronicles 17, 18, 19, 20. Progress 577 → **581 of 1,989 (29.2%)**. Next is 2 Chronicles 21.
