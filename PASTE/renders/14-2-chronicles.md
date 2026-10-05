@@ -2,6 +2,90 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 13–16 (routine, 10:49 PM Central, 2026-10-04)
+
+**Landed:** 2 Chronicles 13, 14, 15, 16. Progress 573 → **577 of 1,989 (29.0%)**. Next is 2 Chronicles 17.
+
+**Chapter break:** English 14:1 is Hebrew 13:23, and English 14:2–15 is Hebrew 14:1–14. Logged in `NOTES_FOR_ANDREW.md` for HANDOFF.
+
+**Still open with you:** *chasil* (6:28) and 9:4 *the ascent* or *his burnt offerings*, both in the last reply.
+
+**The *torah* question:** 14:4 *to do the instruction and the commandment*; 15:3 *without instruction*.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **15:3**, *ve-yamim rabbim le-Yisrael le-lo Elohei emet*. The Hebrew has no verb. The text reads *For many days Israel **was** without the true God…*, past, the days of the judges. (a) **was**, as now. (b) **will be**, a warning of a time to come, as Hosea 3:4 reads. Recommend (a): v4 goes on in the past, *when in their distress they turned… He was found by them*.
+
+### 2 Chronicles 13: Abijah's War with Jeroboam
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-ye'sor… et ha-milchamah* | went out to battle |
+| 5 | *ha-lo lakhem lada'at* | Ought you not to know |
+| 5 | *berit melach* | a covenant of salt (noted) |
+| 7 | *anashim reqim benei veliyya'al* | Worthless men… scoundrels |
+| 7 | *na'ar ve-rakh levav* | young and tender of heart (noted) |
+| 8 | *ve-attah* | And now (kept: the turn of the speech, from history to charge) |
+| 9 | *le-mallot yado* | to consecrate himself (*fill his hand*; noted) |
+| 9 | *la-lo elohim* | of what are no gods (noted) |
+| 12 | *ve-hinneh immanu* | God is with us (*hinneh* cut) |
+| 14 | *ve-hinneh lahem ha-milchamah* | the battle was before them and behind (*hinneh* cut) |
+| 15 | *va-yehi be-hari'a* | And it came to pass, as… that (formula) |
+| 18 | *nish'anu* | they relied (noted) |
+| 19 | written *Efron*, read *Efrain* | Ephrain (spelling) |
+| 22 | *be-midrash* | in the account (noted) |
+
+### 2 Chronicles 14: Asa and Zerah the Cushite
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 (Heb 13:23) | *shaqtah ha-arets* | the land had rest (noted) |
+| 4 | *la-asot ha-torah ve-ha-mitsvah* | to do the instruction and the commandment |
+| 5 | *ha-chammanim* | the incense altars (noted) |
+| 7 | *odennu ha-arets lefanenu* | The land is still ours |
+| 8 | *nosei tsinnah va-romach* | that carried shield and spear |
+| 11 | *bein rav le-ein koach* | between the mighty and those who have no strength (noted) |
+| 11 | *al ya'tsor immekha enosh* | do not let man prevail against You (noted) |
+| 13 | *le-ein lahem michyah* | none of them was left alive |
+| 13 | *ki nishberu* | for they were shattered |
+| 15 | *ohalei miqneh* | the tents of the herdsmen |
+
+### 2 Chronicles 15: Asa's Covenant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ruach Elohim* | The Spirit of God (fixed term) |
+| 3 | *le-lo… ve-le-lo… ve-le-lo* | without… without… without (choice above; noted) |
+| 3 | *kohen moreh* | a priest to teach |
+| 6 | *ve-khuttetu* | They were crushed |
+| 7 | *ve-al yirpu yedekhem* | do not let your hands go slack |
+| 8 | *ve-ha-nevu'ah Oded ha-navi* | the prophecy of Oded the prophet ***KEPT AS IS***: v1 has *Azariah son of Oded*; noted |
+| 8 | *ha-shiqqutsim* | the loathsome things (fixed term) |
+| 9 | *ve-ha-garim* | who lived as guests |
+| 9 | *naflu alav* | had deserted to him |
+| 13 | *le-min qatan ve-ad gadol* | whether small or great |
+| 15 | *be-khol retsonam* | with all their desire |
+| 16 | *mi-gevirah* | from being queen mother (noted) |
+| 16 | *miflatset* | a horrid image (as 1 Kings 15:13) |
+
+### 2 Chronicles 16: Asa Relies on Aram
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *bi-shnat shloshim ve-shesh* | In the thirty-sixth year (noted) |
+| 3 | *hinneh shalachti* | I am sending (*hinneh* cut) |
+| 4 | *Avel-mayim… miskenot* | Abel-maim… the store cities |
+| 5 | *va-yehi ki-shmoa* | And it came to pass, when… that (formula, as 1 Kings 15:21) |
+| 7 | *be-hisha'enkha* | Because you relied (noted) |
+| 9 | *le-hitchazzeq im* | to show Himself strong for |
+| 9 | *niskalta* | You have acted foolishly (noted) |
+| 10 | *beit ha-mahpekhet* | the stocks (noted) |
+| 10 | *va-yerattsets* | crushed |
+| 12 | *ad le-ma'lah chollo* | his disease became severe |
+| 12 | *ba-rof'im* | the healers (noted) |
+| 14 | *serefah* | a fire (noted) |
+
 ## 2 Chronicles 9–12 (routine, 5:49 PM Central, 2026-10-04)
 
 **Landed:** 2 Chronicles 9, 10, 11, 12. Progress 569 → **573 of 1,989 (28.8%)**. Next is 2 Chronicles 13.
