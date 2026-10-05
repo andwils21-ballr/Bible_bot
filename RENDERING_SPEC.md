@@ -248,6 +248,7 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *ruach* of God or of the LORD | the Spirit (capital S), whoever is speaking; a person's own spirit, a wind, or *a spirit of jealousy* stays lowercase | 2026-09-30 |
 | *zanah* (verb) / *zonah* (noun) | whore (verb: *whore after*) / prostitute (noun). Never *harlot*, in any book | 2026-09-30 |
 | *aviv* (the month) | Aviv (not *Abib*) | 2026-09-30 |
+| *pilegesh* | secondary wife (plural: secondary wives); never *concubine* | 2026-10-04 |
 
 When a recurring word needs a fixed rendering, bring the choice to Andrew with
 every verse it occurs in, then add it here.

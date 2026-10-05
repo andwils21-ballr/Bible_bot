@@ -9,7 +9,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Before rendering:** the weekly spot check of 2 Chronicles 5–8 found two rule breaks in this book. Both are fixed: 7:13 *chagav* is now **grasshopper**, and its note no longer claims an echo of 6:28 that the Hebrew does not have; 8:16 now follows the Hebrew, *up to the day*, with a note giving the Greek *from*. 5:9 now reads *It is there* (singular, as the Hebrew), and the 6:42 note gives both readings of *chasdei David*. All in `PASTE/changes/14-2-chronicles.md` (commit `36924bb`).
 
 **Widespread decisions (first):**
-- ***pilegesh*: concubine or secondary wife.** Judges, 2 Samuel, 1 Kings 11:3 and Jubilees 33 say **concubine**; Genesis, 1 Chronicles and Jubilees 20 say **secondary wife**; it is in no fixed-terms table. 11:21 here reads *eighteen wives and sixty secondary wives*, following 1 Chronicles. Every verse is listed in `NOTES_FOR_ANDREW.md`. (a) **secondary wife** everywhere: a wife of lower standing, which is what the word is. (b) **concubine** everywhere: the received English. Recommend (a), with one note at the first occurrence.
+- ✅ Decided 2026-10-04: **secondary wife** everywhere; applied (`PASTE/changes/14-2-chronicles.md`). ***pilegesh*: concubine or secondary wife.** Judges, 2 Samuel, 1 Kings 11:3 and Jubilees 33 say **concubine**; Genesis, 1 Chronicles and Jubilees 20 say **secondary wife**; it is in no fixed-terms table. 11:21 here reads *eighteen wives and sixty secondary wives*, following 1 Chronicles. Every verse is listed in `NOTES_FOR_ANDREW.md`. (a) **secondary wife** everywhere: a wife of lower standing, which is what the word is. (b) **concubine** everywhere: the received English. Recommend (a), with one note at the first occurrence.
 - ***chasil* and the locust words** (raised by the spot check): until you rule, **grasshopper** stands for both *chasil* (6:28, as 1 Kings 8:37) and *chagav* (7:13, as Leviticus 11:22).
 
 **The *torah* question:** 12:1, *azav et torat YHWH*, rendered **he forsook the instruction of the LORD**.
@@ -17,7 +17,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **6:42**, *zokhrah le-chasdei David avdekha*, now reads *Remember the loyal love shown to David Your servant*. (a) **the loyal love shown to David**, the LORD's promise, as Isaiah 55:3. (b) **the loyal deeds of David**, as *chasadav* means Hezekiah's and Josiah's deeds (32:32; 35:26). Recommend (a): the prayer opened by asking God to keep His word to David (6:16). The note gives both.
+- ✅ Decided 2026-10-04: (a), as the text has it. **6:42**, *zokhrah le-chasdei David avdekha*, now reads *Remember the loyal love shown to David Your servant*. (a) **the loyal love shown to David**, the LORD's promise, as Isaiah 55:3. (b) **the loyal deeds of David**, as *chasadav* means Hezekiah's and Josiah's deeds (32:32; 35:26). Recommend (a): the prayer opened by asking God to keep His word to David (6:16). The note gives both.
 - **9:4**, *va-aliyyato asher ya'aleh beit YHWH*, now reads *the ascent by which he went up to the house of the LORD*. Kings has *his burnt offerings that he offered* (1 Kings 10:5), and the Greek of Chronicles has *burnt offerings*. (a) The Hebrew, as now. (b) **his burnt offerings**, following Kings and the Greek. Recommend (a): the Hebrew reads, and the note gives the other.
 
 ### 2 Chronicles 9: The Queen of Sheba and Solomon's Wealth
