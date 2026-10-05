@@ -2,6 +2,101 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 17–20 (routine, 7:49 AM Central, 2026-10-05)
+
+**Landed:** 2 Chronicles 17, 18, 19, 20. Progress 577 → **581 of 1,989 (29.2%)**. Next is 2 Chronicles 21.
+
+**Still open with you:** *chasil* (6:28); 9:4 *the ascent* or *his burnt offerings*; 15:3 *was* or *will be*.
+
+**The *torah* question:** 17:9 *the book of the instruction of the LORD*; 19:10 *between instruction and commandment*.
+
+**Parallel passage:** chapter 18 is 1 Kings 22:1–35; the English of 1 Kings is reused where the Hebrew is the same, and each difference shows.
+
+**Departure from the Hebrew, by your witnesses rule:**
+- **20:1**, *me-ha-Ammonim*, **some of the Ammonites**, right after *the sons of Ammon*. The Greek has *of the Meunites* (*Meinaiōn*), a people named again in 26:7, and vv10, 22–23 call the army *Ammon, Moab and Mount Seir*. The text reads *and with them some of the Meunites*; the note quotes the Hebrew.
+
+**Choices for you:**
+- **17:3**, *be-darkhei David aviv ha-rishonim*, now reads *he walked in the earlier ways of David his father*. (a) The Hebrew, as now: David, his forefather. (b) The Greek, which has no *David*: *the earlier ways of his father*, that is Asa, faithful in his early years and not in his last (16:7–12). Recommend (a), with the note.
+- **20:2**, *me-Aram*, now reads *from beyond the sea, from Aram*. (a) **Aram**, the Hebrew and the Greek, as now. (b) **Edom**, one letter different, which fits *Mount Seir* in the army; no witness in `sources/` has it. Recommend (a).
+
+### 2 Chronicles 17: Jehoshaphat Teaches Judah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yitchazzeq al Yisrael* | strengthened himself against Israel |
+| 2 | *netsivim* | garrisons |
+| 3 | *darkhei David aviv ha-rishonim* | the earlier ways of David his father (choice above; noted) |
+| 3 | *lo darash la-Be'alim* | did not seek the Baals |
+| 6 | *va-yigbah libbo* | His heart was lifted up (noted) |
+| 6 | *ve-od hesir* | he again removed (noted) |
+| 9 | *sefer torat YHWH* | the book of the instruction of the LORD (noted) |
+| 11 | *kesef massa* | silver as tribute |
+| 12 | *holekh ve-gadel ad le-ma'lah* | grew steadily greater |
+| 12 | *biraniyyot* | fortresses |
+| 16 | *ha-mitnaddev la-YHWH* | who offered himself willingly to the LORD (noted) |
+| 18 | *chalutsei tsava* | equipped for war |
+
+### 2 Chronicles 18: Micaiah and the Death of Ahab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yitchatten le-Ach'av* | made a marriage alliance with Ahab (noted) |
+| 2 | *le-qets shanim* | After some years |
+| 2 | *va-yesitehu* | enticed him (noted) |
+| 3 | *kamoni khamokha ve-khe-ammekha ammi* | I am as you are, and my people as your people |
+| 5 | *ha-Elohim* | God (Kings has *the Lord*) |
+| 7 | *kol yamav le-ra'ah* | but always evil |
+| 7, 8 | written *Imla*, Kings *Imlah* | Imla |
+| 8 | written *Mikhehu*, read *Mikhayehu* | Micaiah (spelling) |
+| 13 | *asher yomar Elohai* | what my God says (Kings has *what the LORD says to me*) |
+| 14 | *Mikhah* | Micah (noted) |
+| 14 | *ve-yinnatenu be-yedkhem* | they will be given into your hand (plural) |
+| 22 | *ve-attah* | So now (as 1 Kings 22:23) |
+| 31 | *va-YHWH azaro va-yesitem Elohim mimmennu* | The LORD helped him, and God drew them away from him (noted) |
+| 33 | written *yadekha* (plural), read *yadkha* | Turn your hand |
+| 34 | *ma'amid… ad ha-erev* | propped himself up… until evening (noted) |
+
+### 2 Chronicles 19: Jehoshaphat Appoints Judges
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ha-la-rasha la'zor* | Should you help the wicked |
+| 2 | *u-va-zot alekha qetsef* | Because of this, wrath has gone out against you |
+| 3 | *ha-asherot* | the Asherahs |
+| 3 | *ve-hakhinota levavkha* | have set your heart |
+| 6 | *ve-immakhem bi-dvar mishpat* | He is with you when you give judgment |
+| 7 | *ve-attah* | Now (the moment of the charge) |
+| 7 | *avlah u-massa fanim u-miqqach shochad* | injustice… partiality… taking of bribes (noted) |
+| 8 | *le-mishpat YHWH ve-la-riv* | to give judgment for the LORD and to decide disputes |
+| 10 | *bein dam le-dam* | between blood and blood (noted) |
+| 10 | *bein torah le-mitsvah* | between instruction and commandment |
+| 10 | *ve-hizhartem otam* | you shall warn them |
+| 11 | *ve-hinneh Amaryahu* | Amariah… is over you (*hinneh* cut) |
+| 11 | *yehi YHWH im ha-tov* | may the LORD be with the good |
+
+### 2 Chronicles 20: The Battle Is God's
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi acharei khen* | And it came to pass after this that (formula) |
+| 1 | *me-ha-Ammonim* | some of the Meunites (departure above; noted) |
+| 2 | *me-Aram* | from Aram (choice above; noted) |
+| 2 | *ve-hinnam be-Chatsatson Tamar* | They are already in Hazazon-tamar (*hinneh* cut) |
+| 3 | *va-yitten… et panav li-drosh* | set his face to seek |
+| 7 | *ohavkha* | Your friend (noted) |
+| 9 | *cherev shefot* | the sword of judgment |
+| 10 | *ve-attah hinneh* | And now (kept: the turn of the prayer to its plea; *hinneh* cut) |
+| 11 | *ve-hinneh hem gomelim alenu* | they are repaying us (*hinneh* cut) |
+| 16 | *hinnam olim* | They will be coming up (*hinneh* cut) |
+| 17 | *yeshu'at YHWH* | the deliverance of the LORD (as Exodus 14:13; noted) |
+| 20 | *ha'aminu… ve-te'amenu* | Believe… and you will be established (noted) |
+| 21 | *le-hadrat qodesh* | in holy splendor |
+| 23 | *azru ish be-re'ehu le-mashchit* | they helped to destroy one another |
+| 24 | *ve-hinnam pegarim* | they were dead bodies (*hinneh* cut) |
+| 25 | *u-fegarim* | corpses ***KEPT AS IS***: odd among the spoil; the Greek has *spoils* (*skula*) here, not *corpses* |
+| 26 | *Emeq Berakhah* | the Valley of Beracah (noted) |
+| 37 | *parats YHWH et ma'asekha* | the LORD has broken down your works |
+
 ## 2 Chronicles 13–16 (routine, 10:49 PM Central, 2026-10-04)
 
 **Landed:** 2 Chronicles 13, 14, 15, 16. Progress 573 → **577 of 1,989 (29.0%)**. Next is 2 Chronicles 17.
