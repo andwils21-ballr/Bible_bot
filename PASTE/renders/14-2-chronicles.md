@@ -2,6 +2,96 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 33–36 (routine, 7:50 AM Central, 2026-10-06)
+
+**Landed:** 2 Chronicles 33, 34, 35, 36. **2 Chronicles is finished.** Progress 593 → **597 of 1,989 (30.0%)**.
+
+**Still open with you:** *chasil* (6:28); 9:4; 15:3; 17:3; 20:2; 22:2; 26:5.
+
+**The *torah* question:** 33:8 *all the instruction, the statutes and the rules given through Moses*; 34:14, 15, 19 *the book of the instruction (of the LORD)*; 35:26 *what is written in the instruction of the LORD*. Kings has *the book of the law* at 2 Kings 22:8, 11, the parallel to 34:15, 19.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **33:19**, *divrei Chozai*, now reads *are written in the records of Hozai*. (a) **Hozai**, a name, as the Hebrew is written, as now. (b) **the seers**, the Greek, which is *ha-chozim* in Hebrew, the word of v18, one letter more. Recommend (a): the Hebrew makes sense as a name, and the note gives the Greek.
+- **36:10**, *achiv*, now reads *made Zedekiah his kinsman king*. (a) **his kinsman**, as now: *ach* is used of a wider relative (Lot is Abram's *ach*, Genesis 14:14). (b) **his brother**, the plain word, which makes Zedekiah Jehoiachin's brother. (c) **his uncle**, following Kings (2 Kings 24:17) and the Greek (*his father's brother*). Recommend (a): it is a true sense of the Hebrew and agrees with Kings without leaving the Hebrew.
+
+### 2 Chronicles 33: Manasseh's Captivity and Return
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *yihyeh shemi le-olam* | shall My name be forever |
+| 6 | *he'evir et banav ba-esh* | made his sons pass through the fire |
+| 7 | *pesel ha-semel* | the carved image of the idol (noted) |
+| 8 | *le-hasir et regel Yisrael* | remove the foot of Israel |
+| 8 | *be-yad Mosheh* | given through Moses |
+| 11 | *ba-chochim* | with hooks (noted) |
+| 12 | *chillah et penei YHWH* | sought the favor of the LORD (noted) |
+| 13, 19 | *va-ye'ater lo* | God let Himself be pleaded with by him (noted) |
+| 16 | written *va-yakhen*, read *va-yiven* | He built (read form) |
+| 18 | *al divrei malkhei Yisrael* | in the records of the kings of Israel |
+| 19 | *divrei Chozai* | the records of Hozai (noted; choice) |
+| 20 | *va-yiqberuhu beito* | they buried him in his house ***KEPT AS IS***: Kings and the Greek have *the garden of his house*; noted |
+| 23 | *ki hu Amon hirbah ashmah* | this Amon only added to his guilt |
+
+### 2 Chronicles 34: Josiah and the Book of the Instruction
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *va-yinttsu lefanav* | They tore down… in his presence |
+| 4 | *va-yizroq al penei ha-qevarim ha-zovchim lahem* | scattered it over the graves of those who had sacrificed to them |
+| 5 | written *mizbechotim*, read *mizbechotam* | on their altars (read form) |
+| 6 | written *be-har battehem*, read *be-charvoteihem* | in their ruins all around (read form; noted) |
+| 9 | written *ve-yoshvei*, read *va-yashuvu* | and they returned to Jerusalem (read form; noted) |
+| 11 | *asher hishchitu malkhei Yehudah* | that the kings of Judah had let go to ruin |
+| 12–13 | *ve-ha-Levi'im kol mevin bi-khlei shir / ve-al ha-sabbalim* | The Levites, all who were skilled with instruments of song, were over the burden bearers ***KEPT AS IS***: the Hebrew runs the musicians into the overseers |
+| 14 | *be-yad Mosheh* | given through Moses |
+| 19 | *va-yehi ki-shmoa* | And it came to pass, when… that (formula) |
+| 21, 25 | *nittkhah* / *ve-tittakh* | poured out (noted) |
+| 22 | *va-asher ha-melekh* | and those the king had sent (*had sent* supplied) |
+| 22 | written with an extra *vav*, read *Toqhat* | Tokhath (spelling; Kings has *Tikvah*) |
+| 22 | *kazot* | accordingly |
+| 25 | written *va-yaqtiru*, read *va-yeqatteru* | burned incense (spelling) |
+| 31 | *al omdo* | in his place (noted) |
+| 32 | *va-ya'amed* | made… take their stand in it |
+
+### 2 Chronicles 35: Josiah's Passover and His Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | written *ha-mevonim*, read *ha-mevinim* | who taught (read form) |
+| 3 | *tenu et aron ha-qodesh* | Put the holy ark (noted) |
+| 5 | *bnei ha-am* | the lay people |
+| 5 | *va-chaluqqat beit av la-Levi'im* | so that each has a portion of a Levite family |
+| 9 | written *Konanyahu*, read *Kananyahu* | Conaniah (spelling) |
+| 11 | *mi-yadam* | they received from them |
+| 13 | *va-yevashlu ha-pesach ba-esh* | cooked the Passover lamb with fire (noted) |
+| 13 | *va-yaritsu* | carried them quickly |
+| 21 | *el beit milchamti* | against the house with which I am at war |
+| 21 | *chadal lekha me-Elohim* | Stop opposing God |
+| 22 | *hitchappes* | disguised himself (noted) |
+| 23 | *va-yoru ha-yorim* | The archers shot |
+| 25 | *va-yittenum le-choq* | They made them a statute |
+
+### 2 Chronicles 36: The Fall of Jerusalem and the Decree of Cyrus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Yo'achaz* | Jehoahaz (the long form of v1) |
+| 3 | *va-yesirehu… bi-Yrushalayim* | deposed him in Jerusalem |
+| 8 | *ve-ha-nimtsa alav* | what was found against him |
+| 9 | *ben shemonah shanim* | eight years old ***KEPT AS IS***: Kings has *eighteen*; the Greek of Chronicles has *eight*; noted |
+| 10 | *li-teshuvat ha-shanah* | At the turn of the year |
+| 10 | *achiv* | his kinsman (noted; choice) |
+| 12 | *mi-pi YHWH* | who spoke from the mouth of the LORD |
+| 14 | *hirbu li-m'ol ma'al* | broke faith more and more |
+| 15 | *hashkem ve-shaloach* | sending again and again (noted) |
+| 15 | *mal'akhav* | His messengers (the prophets) |
+| 17 | written *Kasdiyyim*, read *Kasdim* | the Chaldeans (spelling) |
+| 17 | *zaqen ve-yashesh* | the old or the gray-haired |
+| 21 | *ad ratsetah ha-arets et shabbtoteha* | until the land had been paid its sabbaths (Leviticus 26:34; noted) |
+| 23 | *ve-ya'al* | and let him go up ***KEPT AS IS***: the book ends mid-thought; noted |
+
 ## 2 Chronicles 29–32 (routine, 10:49 PM Central, 2026-10-05)
 
 **Landed:** 2 Chronicles 29, 30, 31, 32. Progress 589 → **593 of 1,989 (29.8%)**. Next is 2 Chronicles 33.
