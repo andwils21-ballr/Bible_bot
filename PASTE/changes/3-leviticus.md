@@ -3,6 +3,32 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
+## *Zanah* of worshipping other gods: "give themselves to" (Andrew, 2026-10-06)
+
+**Request:** Andrew, on Leviticus 20:5: *whoring* for desiring something unholy; can we find a different word? Options weighed: *chase after* (no disloyalty), *idolize* (modern sense is admiration; doubles where the object is an idol), *put faith in* / *giving faith to* (makes *faith* the sin; not an English phrase), *offer themselves* (sounds like sacrifice), *be unfaithful with*, *give themselves to*. **Decided:** *give themselves to*; where a verse loses a needed harshness, keep *whore* / *whoring*.
+
+**Left as they were:** the literal uses (a woman's act: Leviticus 21:9; Deuteronomy 22:21; Judges 19:2; Numbers 25:1, with the women of Moab); Jezebel's *whoring* (2 Kings 9:22), Jehu's insult; Jubilees 20:4, the echo of Numbers 15:39. **Not touched, Exodus closed:** Exodus 34:15–16 (*whore after*, three times). Genesis is closed and has no worship use. Judges 2 already has ten notes, so the word note there was not added.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 17:7 | to the goat-spirits they have been whoring after | to the goat-spirits to whom they have been giving themselves |
+| Leviticus 17, note v7 | "whoring after" — …the relationship is marriage and the offense is infidelity, not error. Softening it to *going astray* removes the only thing the sentence is doing. | "giving themselves to" — *zonim achareihem*, **whoring after**… the relationship is a marriage, and the offense is infidelity, not error. |
+| Leviticus 20:5 | him and all who follow him in whoring after Molech | him and all who follow him in giving themselves to Molech |
+| Leviticus 20:6 | to ghosts and to spirits, whoring after them | to ghosts and to spirits, giving themselves to them |
+| Numbers 15:39 | your own heart and your own eyes, which you follow like a prostitute | your own heart and your own eyes, which you go whoring after (harshness kept) |
+| Numbers 15, note v39 | (ends) …reminds it of the commands. | …reminds it of the commands. *Asher attem zonim achareihem*, **which you go whoring after**: the word for prostitution, used of a person's own heart and eyes. |
+| Deuteronomy 31:16 | this people will rise and whore after the foreign gods | this people will rise and give themselves to the foreign gods |
+| Deuteronomy 31, note v16 | (ends) …is the idiom for death. | …is the idiom for death. *Ve-zanah acharei*, **whore after**, rendered *give themselves to*, is the word for prostitution: the turning to other gods is told as a wife's infidelity. |
+| Judges 2:17 | for they whored after other gods | for they gave themselves to other gods |
+| Judges 8:27 | All Israel whored after it there | All Israel gave themselves to it there |
+| Judges 8:33 | turned again and whored after the Baals | turned again and gave themselves to the Baals |
+| 1 Chronicles 5:25 | and whored after the gods of the peoples of the land | and gave themselves to the gods of the peoples of the land |
+| 1 Chronicles 5, note v25 | "whored after the gods of the peoples" — *va-yiznu acharei*, **whored after**, the words of the warning | "gave themselves to the gods of the peoples" — *va-yiznu acharei*, **whored after**, the word for prostitution, and the words of the warning |
+| 2 Chronicles 21:11 | led the inhabitants of Jerusalem to whore | led the inhabitants of Jerusalem to give themselves to other gods (*other gods* supplied) |
+| 2 Chronicles 21:13 | led Judah and the inhabitants of Jerusalem to whore, as the house of Ahab led Israel to whore | led Judah and the inhabitants of Jerusalem to give themselves to other gods, as the house of Ahab led Israel to do |
+| 2 Chronicles 21, note vv11, 13 | …the king makes the people whore after other gods, *as the house of Ahab led Israel to whore*. | *va-yizen*, **he made them whore**… The Hebrew has no object; *other gods* is what the verb means here, *as the house of Ahab* made Israel do. |
+| RENDERING_SPEC.md, fixed terms | whore (verb: *whore after*) / prostitute (noun) | Of worshipping other gods: *give themselves to*; *whore* / *whoring* where the verse needs the harshness; a woman's act as before |
+
 ## Leviticus 14: a note on "mold" (Andrew, 2026-09-28)
 
 **Request:** Andrew: "Keep blight, and add the mold note to Leviticus 14."
