@@ -1,8 +1,8 @@
 # Progress
 
-**601 of 1989 chapters rendered (30.2%).**
+**605 of 1989 chapters rendered (30.4%).**
 
-Next up: **Ezra 5**
+Next up: **Ezra 9**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -22,7 +22,7 @@ Next up: **Ezra 5**
 | 14 | 2 Chronicles | source | done |
 | 15 | Jubilees | witnesses | done |
 | 16 | 1 Enoch | witnesses | done |
-| 17 | Ezra | source | 4/10 |
+| 17 | Ezra | source | 8/10 |
 | 18 | Nehemiah | source | 0/13 |
 | 19 | Ezra Sutuel | witnesses | 0/16 |
 | 20 | Tobit | source | 0/14 |

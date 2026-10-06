@@ -2,6 +2,91 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezra 5–8 (routine, 5:50 PM Central, 2026-10-06)
+
+**Landed:** Ezra 5, 6, 7, 8. Progress 601 → **605 of 1,989 (30.4%)**. Next is Ezra 9.
+
+**The Aramaic** runs 4:8–6:18 and 7:12–26; 6:19 and 7:27 return to Hebrew, and the notes say so.
+
+**The *torah* question:** 7:6 *a scribe skilled in the instruction of Moses*; 7:10 *to seek the instruction of the LORD*. In the Aramaic letter (7:12, 14, 21, 25–26) the word is *dat*, the Persian word for a royal law, rendered **law**: *the law of the God of heaven*, *the law of your God and the law of the king*.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **5:4**, *amarna*, now reads *Then we told them the names of the men who were building this building.* (a) **we told them**, the Aramaic, as now. (b) **they asked them, "What are the names…?"**, the Greek, which keeps the governor's question in the third person. Recommend (a): the letter repeats the question in the officials' own voice (v10), and the note gives the Greek.
+- **8:5 and 8:10**, a family name missing: now *of the sons of Shecaniah, the son of Jahaziel* and *of the sons of Shelomith, the son of Josiphiah*. (a) as now, the Hebrew. (b) **of the sons of Zattu, Shecaniah son of Jahaziel** and **of the sons of Bani, Shelomith son of Josiphiah**, from 1 Esdras 8:32, 36. Recommend (a): the only witness for (b) is 1 Esdras, a different book, and the Greek of Ezra agrees with the Hebrew in v10; the note gives both.
+
+### Ezra 5: Tattenai's Letter to Darius
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | written *nevi'ah*, read *nevi'a* | the prophet (read form) |
+| 1 | *bi-shem elah Yisra'el aleihon* | in the name of the God of Israel, who was over them |
+| 3, 9 | *ushsharna* | this structure |
+| 4 | *amarna* | we told them (noted; choice) |
+| 5 | *ve-ein elahahom* | the eye of their God (noted) |
+| 7 | *shelama khol-la* | all peace |
+| 8 | *even gelal* | great stones |
+| 8 | *aspar-na* | with diligence |
+| 12 | written *Kasdaya*, read *Kasda'ah* | the Chaldean (read form) |
+| 14 | *Sheshbatstsar shemeh* | a man named Sheshbazzar |
+| 17 | *beit ginzaya* | the royal treasure house |
+
+### Ezra 6: The Decree of Darius and the House Finished
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *beit sifraya di ginzaya* | the house of the archives, where the treasures were stored |
+| 2 | *dikhronah* | this record |
+| 3 | *ve-ushshohi mesobelin* | and let its foundations be laid ***KEPT AS IS***: *mesobelin* is uncertain (**be retained** or **be borne**) |
+| 3 | *rumeh ammin shittin petayeh ammin shittin* | Its height shall be sixty cubits and its width sixty cubits (noted) |
+| 6 | *rechiqin havo min tammah* | keep away from there |
+| 8 | *di la le-vattala* | without delay |
+| 10 | *nichochin* | sacrifices of soothing aroma (fixed term; noted) |
+| 11 | *zeqif yitmeche alohi* | lifted up and impaled on it |
+| 11 | *nevalu* | a dunghill (noted) |
+| 14 | *Artachshashta* | Artaxerxes (noted) |
+| 17 | written *le-chattaya*, read *le-chatta'ah* | as a sin offering (read form) |
+| 20 | *ke-echad* | together |
+| 22 | *melekh Ashur* | the king of Assyria (noted) |
+
+### Ezra 7: Ezra Comes to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *sofer mahir* | a scribe skilled (noted) |
+| 6, 9, 28 | *ke-yad YHWH elohav alav* | for the hand of the LORD his God was on him (noted) |
+| 9 | *hu yesud ha-ma'alah* | he began the journey up |
+| 12 | *gemir u-khe'enet* | Greetings. Now |
+| 12, 21 | *safar data di elah shemaya* | the scribe of the law of the God of heaven |
+| 14 | *shevi'at ya'atohi* | his seven counselors (noted) |
+| 18 | written *alaikh*, *achikh*; read *alakh*, *achakh* | to you… your brothers (spelling) |
+| 23 | *adrazda* | in full |
+| 25 | *ve-anta Ezra* | As for you, Ezra (*And* cut) |
+| 26 | written *li-shroshu*, read *li-shroshi* | for banishment (read form) |
+| 27 | *le-fa'er* | to beautify (noted) |
+| 28 | *hittah chesed* | has extended loyal love |
+
+### Ezra 8: The Journey to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2–3 | *Chattush / mi-benei Shekhanyah* | Hattush, of the sons of Shecaniah (verse break read with 1 Chronicles 3:22; noted) |
+| 5, 10 | *mi-benei Shekhanyah ben Yachazi'el* | of the sons of Shecaniah, the son of Jahaziel ***KEPT AS IS***: a family name missing; noted; choice |
+| 13 | *acharonim* | the last ones |
+| 14 | written *ve-Zabbud*, read *ve-Zakkur* | and Zaccur (read form) |
+| 15 | *ha-nahar ha-ba el Ahava* | the river that runs to Ahava |
+| 16 | *mevinim* | teachers |
+| 17 | written *va-otsi'ah*, read *va-atsavveh* | I sent them… I told them (read form) |
+| 17 | written *ha-netunim*, read *ha-netinim* | the temple servants (read form) |
+| 17 | *ba-Khasifya ha-maqom* | at the place Casiphia |
+| 18 | *ish sekhel* | a man of insight (noted) |
+| 22 | *yad Eloheinu al kol mevaqshav le-tovah* | The hand of our God is for good on all who seek Him |
+| 23 | *va-ye'ater lanu* | He let Himself be pleaded with by us (noted) |
+| 27 | *li-adarkonim elef* | worth a thousand darics |
+| 27 | *nechoshet mutsehav tovah* | fine bright bronze |
+| 36 | *ve-nisse'u* | they supported |
+
 ## Ezra 1–4 (routine, 12:50 PM Central, 2026-10-06)
 
 **Landed:** Ezra 1, 2, 3, 4. Progress 597 → **601 of 1,989 (30.2%)**. Next is Ezra 5.
