@@ -3,6 +3,25 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
+## Follow-up: Exodus 34 reopened; doubled "stoned… with stones" (Andrew, 2026-10-06)
+
+**Request:** Andrew: *whore* / *whoring* stays where it is literal, a human person sold or selling for gain (2 Kings 9:22); giving oneself to another god or thing is not that. "Apply today's logic with whoring to Exodus and all other chapters written in the past. Also, fix the double wording."
+
+**Done:** Exodus 34:15–16 changed (Exodus reopened for this only; it already has eleven notes, so no word note was added). A sweep of every rendered chapter found no other worship use of *whore*. Two notes that quoted the old wording were brought into line. The doubled *stoned him with stones* (readability pass, item 1) was fixed in 2 Chronicles 24:21, and the same slip was found and fixed in 1 Kings 21:13 and Jubilees 30:7–9, 33:13.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 34:15 | and they will whore after their gods and sacrifice to their gods | and they will give themselves to their gods and sacrifice to their gods |
+| Exodus 34:16 | his daughters will whore after their gods and make your sons whore after their gods | his daughters will give themselves to their gods and make your sons give themselves to their gods |
+| 1 Chronicles 5, note v25 | the words of the warning: *they will whore after their gods* (Exodus 34:15) | the words of the warning: *they will give themselves to their gods* (Exodus 34:15) |
+| Jubilees 20, note v4 | Numbers 15:39: *…your own eyes, which you follow like a prostitute* | Numbers 15:39: *…your own eyes, which you go whoring after* |
+| 2 Chronicles 24:21 | they stoned him with stones in the court | they stoned him in the court |
+| 1 Kings 21:13 | outside the city and stoned him with stones, and he died | outside the city and stoned him, and he died |
+| Jubilees 30:7 | and they shall stone him with stones, for he has done a sin | and they shall stone him, for he has done a sin |
+| Jubilees 30:8 | any man who defiles it shall die, stoned with stones | any man who defiles it shall die by stoning |
+| Jubilees 30:9 | shall surely die, and they shall stone him with stones | shall surely die, and they shall stone him |
+| Jubilees 33:13 | to put him to death, to kill him, to stone him with stones | to put him to death, to kill him, to stone him |
+
 ## *Zanah* of worshipping other gods: "give themselves to" (Andrew, 2026-10-06)
 
 **Request:** Andrew, on Leviticus 20:5: *whoring* for desiring something unholy; can we find a different word? Options weighed: *chase after* (no disloyalty), *idolize* (modern sense is admiration; doubles where the object is an idol), *put faith in* / *giving faith to* (makes *faith* the sin; not an English phrase), *offer themselves* (sounds like sacrifice), *be unfaithful with*, *give themselves to*. **Decided:** *give themselves to*; where a verse loses a needed harshness, keep *whore* / *whoring*.
