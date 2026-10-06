@@ -31,8 +31,12 @@ stumbling. The recurring patterns:
   Say what the phrase is doing.
 - **Natural English:** *take* for motion away from the speaker, *bring* for
   motion toward; *what*, not *the thing that*.
-- **One Hebrew word, one English word** across the whole canon. See the fixed
-  terms table in the spec.
+- **Keep a word the same where the source repeats it on purpose** (a technical
+  term, a formula, an echo of another passage), so the reader can see the link.
+  Everywhere else, use the English that fits the context. Translation is not
+  word-for-word equivalence (Andrew, 2026-10-06, replacing "one Hebrew word,
+  one English word", which was never his rule). The fixed terms in the spec
+  are his rulings, one by one, and stand.
 - **The readability pass** in `RENDERING_SPEC.md`: eight patterns from Andrew's
   rulings. Run it on every chapter before committing.
 

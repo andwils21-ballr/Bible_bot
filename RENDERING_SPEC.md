@@ -228,9 +228,13 @@ had to flag by hand; the reader should never meet one.
 Keep a literal phrase only when a note is built on it, and say so in the render
 report (`***KEPT AS IS***`).
 
-### Fixed terms: one Hebrew word, one English word
+### Fixed terms
 
-Use these everywhere. Never give two of these Hebrew words the same English word.
+Andrew's rulings, one word at a time. Use these everywhere they occur. There is
+no general rule that every Hebrew or Greek word has one English word
+(Andrew, 2026-10-06): keep a word the same where the source repeats it on
+purpose, so the reader can see the link, and otherwise use the English that
+fits the context.
 
 | Hebrew | English | Decided |
 |---|---|---|
@@ -250,8 +254,9 @@ Use these everywhere. Never give two of these Hebrew words the same English word
 | *aviv* (the month) | Aviv (not *Abib*) | 2026-09-30 |
 | *pilegesh* | secondary wife (plural: secondary wives); never *concubine* | 2026-10-04 |
 
-When a recurring word needs a fixed rendering, bring the choice to Andrew with
-every verse it occurs in, then add it here.
+Bring a word to Andrew for this table only when it matters: a term the books
+use technically, or a word whose renderings disagree in a way a reader would
+notice. List every verse it occurs in.
 
 ## Names
 

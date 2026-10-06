@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## 7:23 *homologēsō*: acknowledge (Andrew, 2026-10-06)
+
+**Request:** Andrew asked whether *acknowledge* fits 7:23, the word of 10:32. Options: (a) *Then I will acknowledge to them*, the Greek order; (b) *Then I will declare to them*, as it was; (c) *Then I will tell them openly*; and Andrew's *Then, to them, I will acknowledge*, which puts a stress on *to them* that the Greek (*homologēsō autois*) does not have. Andrew chose (a). No note (Andrew).
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 7:23 | Then I will declare to them, 'I never knew you. | Then I will acknowledge to them, 'I never knew you. |
+
 ## The Lord's Prayer in its familiar words (Andrew, 2026-10-05)
 
 **Request:** Andrew: "Use the familiar words when the text allows. If the 'For Thine is the Kingdom, the Power, and the Glory' is not in the text then leave it out. Don't add things that aren't there."
