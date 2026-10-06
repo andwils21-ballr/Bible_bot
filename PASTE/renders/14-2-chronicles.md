@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Chronicles 29–32 (routine, 10:49 PM Central, 2026-10-05)
+
+**Landed:** 2 Chronicles 29, 30, 31, 32. Progress 589 → **593 of 1,989 (29.8%)**. Next is 2 Chronicles 33.
+
+**Still open with you:** *chasil* (6:28); 9:4; 15:3; 17:3; 20:2; 22:2; 26:5.
+
+**The *torah* question:** 30:16 *according to the instruction of Moses the man of God*; 31:3, 4, 21 *the instruction of the LORD* / *the instruction*. Kings has none of these verses.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:** none new.
+
+### 2 Chronicles 29: Hezekiah Cleanses the House of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ha-niddah* | the filth (noted: the word of Leviticus 15:19) |
+| 6 | *va-yittenu oref* | turned their backs (noted) |
+| 8 | written *le-zo'ah*, read *le-za'avah* | an object of horror (read form; noted) |
+| 31 | *mille'tem yedkhem* | you have consecrated yourselves (noted: *filled your hand*) |
+| 34 | *yishrei levav* | more upright in heart (noted) |
+| 36 | *ki ve-fit'om hayah ha-davar* | for the thing had come about suddenly |
+
+### 2 Chronicles 30: Hezekiah's Passover
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6–9 | *shuvu… ve-yashov… u-ve-shuvkhem* | return… return… return (kept the same on purpose; noted) |
+| 8 | *tenu yad* | Give your hand (noted: a pledge) |
+| 9 | *chanun ve-rachum* | gracious and merciful (noted) |
+| 18 | *YHWH ha-tov yekhapper* | May the good LORD pardon |
+| 20 | *va-yirpa* | healed (noted: 7:14) |
+| 24 | *va-yitqaddeshu kohanim la-rov* | The priests also consecrated themselves in great numbers (*And* cut) |
+
+### 2 Chronicles 31: The Heaps of the Offerings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *machanot YHWH* | the camp of the LORD (noted) |
+| 10 | *akhol ve-savoa ve-hoter* | we have eaten and been satisfied and have plenty left over (noted) |
+| 12, 15, 18 | *be-emunah* | faithfully / in their faithfulness (noted) |
+| 16 | *mi-ben shalosh shanim* | from three years old ***KEPT AS IS***: odd, but the Greek agrees; noted |
+| 20 | *ha-tov ve-ha-yashar ve-ha-emet* | good and right and true (noted) |
+
+### 2 Chronicles 32: Sennacherib's Invasion and Hezekiah's End
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-ha-emet* | this faithfulness (noted: 31:20) |
+| 8 | *zeroa basar* | an arm of flesh (noted) |
+| 8 | *va-yissamkhu* | relied on (noted: *leaned on*) |
+| 18 | *Yehudit* | the language of Judah (noted) |
+| 21 | *mal'akh* | a messenger (fixed term) |
+| 21 | *mi-tsi'ei me'av* | some of his own offspring (noted) |
+| 25 | *gavah libbo* | his heart was lifted up (noted) |
+| 32 | *chasadav* | his deeds of loyal love (fixed term; noted) |
+
 ## 2 Chronicles 25–28 (routine, 5:49 PM Central, 2026-10-05)
 
 **Landed:** 2 Chronicles 25, 26, 27, 28. Progress 585 → **589 of 1,989 (29.6%)**. Next is 2 Chronicles 29.
