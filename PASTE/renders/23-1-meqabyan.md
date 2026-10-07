@@ -2,6 +2,53 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 6–8 (loop, 11:54 AM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 6, 7, 8. Progress 664 → **667 of 1,989 (33.5%)**. Three chapters, not four: these are long, dense Ge'ez (the heavenly halls and their stones, the speech to kings, the likenesses of the resurrection), and the spec says to stop a chapter early rather than rush. Esther 11–16 still waits on your choice.
+
+**Cut verses:** 8:24 and 8:35 end or break in *[words lost]*; 8:35 lacks the word for what comes down (vv33–34 name dew and rain). No Horovitz fill is listed for these chapters.
+
+**Departures from the Ge'ez:** none. Read with one-letter corrections, each noted: 6:15 *ʾəʿāqabəwwo* as *ʾiʿāqabəwwo*, **did not keep**.
+
+**Choices for you:**
+- **6:2, Ezekiel or Hezekiah.** The Ge'ez names *Ḥəzqəʾel*, Ezekiel, in a list of good kings; the Church reads Hezekiah. In the text now: **Ezekiel**, as the Ge'ez has it, with a note. Say if you want Hezekiah, as a departure with a note.
+- **Words not known, kept in Ge'ez:** 6:3 *ṭalmā*, *warāwər* (stones); 6:7 *ʾakwāl* (of Hermon; the Church reads a fragrance); 8:34 *zəgbā* (a tree).
+- **7:7, Sirach in Moses' mouth.** The book gives Moses words that are Sirach 15:16 (*fire and water*). Rendered as the Ge'ez has it, with a note.
+
+### 1 Meqabyan 6: The Dwellings of the Kings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Ḥəzqəʾel* | Ezekiel (noted; choice above) |
+| 2 | *ṭāʿkā… fəruh fadfāda* | a hall… very awesome |
+| 4 | *lalihu kenyā* | He Himself, the Craftsman |
+| 4 | *ʾaḥdar wa-ʾaṣfar* | green and yellow (noted) |
+| 12 | *gəfuʿa wa-gəyura wa-ʾəgwāla māwtā* | the oppressed, the guest and the orphan (noted) |
+| 24 | *gānen za-yaḥanqo* | a demon that will strangle him (noted) |
+| 25 | *ʾəm-nəṣuḥu* | out of his honor (noted) |
+| 32 | *wagəʿo* | he pierced |
+
+### 1 Meqabyan 7: A Word to Kings and Rulers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 8 | *māʿdota falag* | beyond the river (noted) |
+| 14 | *ziʾaka yəʾəti mədr kwəllantāhā* | for the whole earth is yours (noted) |
+| 17 | *ʾi-yəḫaffər ʾƎgziʾabəḥer ʾazaza kəbraka* | God is not abashed by your rank |
+| 19 | *ḫədəg wa-taḫadəg* | "Let it go," will you not let it go? |
+| 32 | *ṣəwāʿu* | the cup of God (noted) |
+
+### 1 Meqabyan 8: Likenesses of the Resurrection
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-yəgabbəru ʾəmənnehu* | people take their harvest from it |
+| 5 | *manfasa ʾƎgziʾabəḥer* | the Spirit of God |
+| 20 | *wa-wəsta ḍaḥay šima ṣəlālot* | In the sun He has set His tent (noted) |
+| 24 | *yənaqqʷəʿ maṭana* | it sprouts, as much as *[words lost]* (noted) |
+| 26 | *śəga māʿs galbu* | body, skin and husk |
+| 35 | *ʾəmma ʾi-warada lāʿlehomu wa-la-ḥəywat* | if there does not come down on them *[words lost]* of life (noted) |
+
 ## 1 Meqabyan 2–5 (loop, 11:48 AM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 2, 3, 4, 5. Progress 660 → **664 of 1,989 (33.4%)**.
