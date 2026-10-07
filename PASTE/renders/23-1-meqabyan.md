@@ -2,6 +2,57 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 17–20 (loop, 12:40 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 17, 18, 19, 20. Progress 675 → **679 of 1,989 (34.1%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Correction to 5:1 and 15:11–12.** *Raʿaytawi* is not a name. *Raʿāyt* is the Ge'ez word for **giants** (*they bore great giants*, 1 Enoch 7:2; *the sons of the giants*, 18:2 here), and *raʿāytāwi* is **the giant**. 5:1 now reads *The giant was proud*, and 15:11–12 *the giant* (said of King Akrandes). Both notes rewritten. The earlier reports' rows and choice about *Raʿaytawi* are withdrawn.
+
+**Numbers:** 18:7 has two numerals lost: the first entirely (*[number lost]*), the second *)wa-2*, rendered **a hundred and twenty** (the text cuts larger numbers to a digit, as forty is *4* in 1:21; the number of Genesis 6:3). Noted.
+
+**Departures from the Ge'ez:** none. 17:6 *wa-ʾamʿəʿo ʾəḫu*, **and provoking a brother**, stands in a list of the ways of God and is read as **not provoking a brother** (noted). Say if you want it left as the Ge'ez has it.
+
+**Choices for you:**
+- **17:3, 5 *Sablyānos* / *Sablānyos*:** kept in Ge'ez (the name of 13:3), here the father and teacher of the wicked.
+- **19:3 *Qefāz*:** a valley toward Arabia, kept in Ge'ez.
+- **17:6** (above).
+
+### 1 Meqabyan 17: The Teaching of Sablanyos
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kayda beta maqdasu* | to trample His sanctuary (noted) |
+| 2 | *mənunān wa-gəmmunān* | rejected and defiled |
+| 3 | *hāymānot wa-ʾi-məlḥ* | no faith and no salt (noted) |
+| 6 | *wa-ʾamʿəʿo ʾəḫu* | not provoking a brother (noted) |
+| 8 | *yəṭeyyəru la-ʾasḥəto* | quick to lead astray |
+
+### 1 Meqabyan 18: The Giants and the Shortened Days
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *daqiqa raʿāyt* | the sons of the giants (noted) |
+| 4 | *yāstaʿabbədomu* | to expose the folly of |
+| 7 | *()… )wa-2 ʿāmatāt* | *[number lost]*… a hundred and twenty years (noted) |
+| 8 | *ʾi-yənabbər manfasəya* | My Spirit will not remain (noted) |
+
+### 1 Meqabyan 19: The Daughters of Cain
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʿənzirā wa-kabaro wa-masanqo wa-bəʿzā* | harps and drums, lyres and pipes (noted) |
+| 3 | *Qefāz* | kept in Ge'ez (noted) |
+| 9 | *yəwəʿʿi naday* | the poor man is burned (noted) |
+| 16 | *la-ʾəllatomu* | does not disregard them (noted) |
+| 17 | *yābazzəḫ mayṭa maʿatu* | He turns back His wrath again and again (noted) |
+
+### 1 Meqabyan 20: Remember, Our Brothers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *yətwāqqaś lomu* | He contends for them |
+| 4 | *yətmaḥḍanomu* | He takes them into His keeping |
+
 ## 1 Meqabyan 13–16 (loop, 12:35 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 13, 14, 15, 16. Progress 671 → **675 of 1,989 (33.9%)**. Ge'ez alone (no Amharic past chapter 8). Esther 11–16 still waits on your choice.
