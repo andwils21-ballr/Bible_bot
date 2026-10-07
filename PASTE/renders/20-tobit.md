@@ -2,6 +2,89 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Tobit 9–14 (loop run 5 of 5, 9:45 AM Central, 2026-10-07)
+
+**Landed:** Tobit 9, 10, 11, 12, 13, 14. **Tobit is finished.** Progress 628 → **634 of 1,989 (31.9%)**. Next by order is Ezra Sutuel 1 (waiting on your ruling); after it, Judith 1.
+
+**Departures from the Greek:** **11:16** *Tobit* for the held text's *Tobias*: the verse is about the man who now can see; the longer Greek names no one. Noted.
+
+**Choices for you:** none.
+
+### Tobit 9: The Money Brought from Rages
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *paida kai dyo kamēlous* | a servant and two camels |
+| 5 | *ta thylakia en tais sphragisin* | the bags with their seals intact (noted) |
+| 6 | *ōrthreusan koinōs* | They set out together early in the morning |
+| 6 | *eulogēsen Tōbeias tēn gynaika autou* | Tobias blessed his wife ***KEPT AS IS***: the longer Greek has Gabael bless them; noted |
+
+### Tobit 10: The Parents Wait
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Mē pote katēschyntai* | Can he have been put to shame? |
+| 3 | *kai elypeito lian* | He was very distressed (*And* cut) |
+| 5 | *Ou melei moi* | Do I not care |
+| 6 | *Siga, mē logon eche* | Be quiet. Do not worry |
+| 7 | *ouk dielimpanen thrēnousa* | she did not stop mourning |
+| 10 | *sōmata kai ktēnē* | servants and cattle (noted) |
+| 12 | *kai ephilēsen autēn* | Then he kissed her (*And* cut) |
+| 12 | *paratithemai… en parakatathēkē* | I am entrusting… in trust (noted) |
+
+### Tobit 11: Tobit's Sight Restored
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *pōs aphēkes ton patera sou* | how you left your father |
+| 6 | *Idou ho huios mou erchetai* | Your son is coming (*idou* cut) |
+| 8 | *dēchtheis diatripsei* | It will sting, and he will rub them |
+| 9 | *kai eklausan amphoteroi* | Then they both wept (*And* cut) |
+| 10 | *prosekopten* | stumbling |
+| 13 | *elepisthē* | peeled away (noted) |
+| 16 | *Tōbeias* | Tobit (departure; noted) |
+| 18 | *Nasbas ho exadelphos autou* | his nephew Nasbas |
+
+### Tobit 12: Raphael Makes Himself Known
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *Dikaioutai autō* | It is his due |
+| 6 | *megalōsynēn didote autō* | Ascribe greatness to Him |
+| 7, 11 | *mystērion basileōs kalon krypsai* | It is good to keep a king's secret (noted) |
+| 12 | *to mnēmosynon tēs proseuchēs* | the record of your prayer (noted) |
+| 12 | *kai hote ethaptes* | and when you buried (*And* cut) |
+| 13 | *peristeilēs ton nekron* | lay out the dead |
+| 19 | *ōptanomēn* | I appeared |
+| 19 | *horasin hymeis etheōreite* | you were seeing a vision (noted) |
+
+### Tobit 13: Tobit's Song of Praise
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *proseuchēn eis agalliasin* | a prayer of rejoicing |
+| 2 | *katagei eis hadēn kai anagei* | He brings down to Hades and brings up again (noted) |
+| 6 | *ethnē hamartōlōn* | to a nation of sinners |
+| 6 | *poiēsei eleēmosynēn hymin* | show you mercy (noted) |
+| 9 | *polis hagiou* | holy city |
+| 10 | *hē skēnē autou* | His tent (noted) |
+| 14 | *epi tais mastixin sou* | over all your afflictions |
+| 17 | *lithō ek Soupheir* | stone of Ophir |
+| 18 | *rhymai* | lanes |
+
+### Tobit 14: Tobit's Last Words
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *pentēkonta oktō… oktō* | fifty-eight… eight (noted) |
+| 3 | *pros to apotrechein ek tou zēn eimi* | I am about to depart from this life |
+| 4, 8 | *Iōnas ho prophētēs* | Jonah the prophet (noted) |
+| 5 | *heōs plērōthōsin kairoi tou aiōnos* | until the times of the age are fulfilled |
+| 6 | *katoryxousin ta eidōla* | will bury their idols |
+| 9 | *philelēmōn* | merciful |
+| 10 | *Adam… Manassēs* | Adam… Manasseh ***KEPT AS IS***: the longer Greek has *Nadab… Ahikar*; noted |
+| 15 | *Nabouchodonosor kai Asyēros* | Nebuchadnezzar and Ahasuerus |
+
 ## Tobit 5–8 (loop run 4 of 5, 9:43 AM Central, 2026-10-07)
 
 **Landed:** Tobit 5, 6, 7, 8. Progress 624 → **628 of 1,989 (31.6%)**. Next is Tobit 9.

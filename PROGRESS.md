@@ -1,6 +1,6 @@
 # Progress
 
-**628 of 1989 chapters rendered (31.6%).**
+**634 of 1989 chapters rendered (31.9%).**
 
 Next up: **Ezra Sutuel 1**
 
@@ -25,7 +25,7 @@ Next up: **Ezra Sutuel 1**
 | 17 | Ezra | source | done |
 | 18 | Nehemiah | source | done |
 | 19 | Ezra Sutuel | witnesses | 0/16 |
-| 20 | Tobit | source | 8/14 |
+| 20 | Tobit | source | done |
 | 21 | Judith | source | 0/16 |
 | 22 | Esther | source | 0/16 |
 | 23 | 1 Meqabyan | source | 1/36 |
