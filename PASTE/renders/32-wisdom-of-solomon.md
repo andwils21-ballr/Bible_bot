@@ -2,6 +2,77 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Wisdom of Solomon 17–19 — rendered 2026-10-07, 6:35 PM CDT — Wisdom of Solomon complete
+
+**Source:** Greek (Swete); verse numbers match the English. Echoes in the notes checked against the Greek in `sources/` (Exodus 12:23; Revelation 19:13, 15; 1 Corinthians 10:10) and this project's English where quoted (Exodus 4:22, 10:23, 12:23, 13:21; Numbers 11:31, 16:48; 1 Chronicles 21:16; Genesis 19:11).
+
+**What these chapters are:** the darkness over Egypt told from inside it, "fear is nothing but the surrender of the help that comes from reason," "heavier than darkness were they to themselves" (17); light for Israel, the Passover night, "while gentle silence enveloped all things… Your all-powerful word leaped from heaven," Aaron standing between the dead and the living (18); the sea crossing as a new creation, Egypt set beside Sodom, the elements retuned like the notes of a harp, and the closing thanksgiving (19).
+
+**Word table:** as before. *paroikia* "stay as guests" (19:10), as *ger* is "guest"; *ho olothreuōn* "the destroyer" (18:25), as Exodus 12:23; *therapōn* "servant" (18:21), as 10:16; *paides* "children" (19:6), as 12:7.
+
+**The "And" check:** none. 18:9, 19:15 and 19:20 begin without the Greek's *kai* or *gar*.
+
+### Wisdom of Solomon 17: The Night of Darkness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *apaideutoi psychai* "uninstructed souls" | undisciplined souls |
+| 2 | *phygades tēs aiōniou pronoias* "fugitives from the eternal providence" | exiles from eternal providence |
+| 3 | *apheggei lēthēs parakalymmati* "with a lightless veil of forgetfulness" | behind a dark curtain of forgetfulness |
+| 4 | *ho katechōn autous mychos* "the inner recess holding them" | the inner room that held them |
+| 6 | *ekdeimatoumenoi de tēs mē theōroumenēs ekeinēs opseōs hēgounto cheirō ta blepomena* "terrified at that sight when not seen, they thought the things seen worse" | ***KEPT AS IS*** in their terror, when that sight was gone, they thought the things they had seen worse than they were |
+| 7 | *magikēs… empaigmata technēs* "mockeries of magic art" | The tricks of their magic art |
+| 11 | *aei de proseilēphen ta chalepa* "it has always added the hard things" | it has always imagined the worst |
+| 13 | *endothen de ousa hēttōn hē prosdokia pleiona logizetai tēn agnoian…* "the expectation within, being weaker, reckons the ignorance greater…" | ***KEPT AS IS*** the hope within, being weak, counts ignorance of the cause of its torment worse than the torment |
+| 14 | *tēn adynaton ontōs nykta* "the truly powerless night" | that night, which was truly powerless |
+| 16 | *eis tēn asidēron heirktēn* "into the ironless prison" | in a prison not made of iron |
+| 17 | *tēn dysalykton… anankēn* "the hard-to-escape necessity" | the inescapable fate |
+| 19 | *dromos atheōrētos* "an unseen running" | the unseen running |
+
+### Wisdom of Solomon 18: The Night of the Firstborn
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hoti men oun kakeinoi epepontheisan, emakarizon* "that those too had suffered, they called blessed" | ***KEPT AS IS*** because these too had suffered, they called them blessed (note) |
+| 2 | *kai tou dienechthēnai charin edeonto* "and begged favor for having been at variance" | ***KEPT AS IS*** and begged their pardon for having been their enemies |
+| 3 | *philotimou xeniteias* "of an honorable living-abroad" | for their honorable wandering |
+| 5 | *eis elenchon* "for reproof" | in punishment |
+| 6 | *epeuthymēsōsin* "they might be of good cheer" | they might take heart |
+| 9 | *paides agathōn* "children of good men" | children of good men |
+| 9 | *paterōn ēdē proanamelpontōn ainous* "the fathers already singing praises before" | while the fathers already led the songs of praise |
+| 12 | *en heni onomati thanatou* "by one name of death" | by one kind of death |
+| 12 | *pros mian rhopēn* "at one turn of the scale" | in one instant |
+| 14 | *nyktos en idiō tachei mesazousēs* "night in its own swiftness being at the middle" | night in its swift course was at its middle |
+| 15 | *eis meson tēs olethrias… gēs* "into the middle of the doomed land" | into the middle of the doomed land |
+| 16 | *stas* "standing" | standing, it (choice below) |
+| 20 | *thrausis* "a breaking, slaughter" | a plague |
+| 21 | *proemachēsen* "fought in front" | was quick to fight for them |
+| 21 | *thymiamatos exilasmon* "propitiation of incense" | the atonement of incense |
+| 22 | *enikēsen ton ochlon* "he overcame the crowd/trouble" | ***KEPT AS IS*** He overcame the trouble |
+| 22 | *ton kolazonta* "the punisher" | the punisher |
+| 25 | *tauta de ephobēthēsan* "and these they feared" | and these were feared |
+
+### Wisdom of Solomon 19: Creation Made New
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *proēdei* "he knew beforehand" | He knew beforehand (note) |
+| 3 | *hous hiketeuontes exebalon* "whom, begging, they had thrown out" | those whom they had begged to leave and driven out |
+| 4 | *hē axia… anankē* "the deserved necessity" | the fate they deserved |
+| 6 | *en idiō genei palin anōthen dietypouto* "was reshaped again from above in its own kind" | each part in its own kind, was fashioned anew |
+| 7 | *chloēphoron pedion* "a green-bearing plain" | a grassy plain |
+| 8 | *panethnei* "with the whole nation" | the whole nation |
+| 9 | *enemēthēsan* "they grazed / ranged" | they ranged |
+| 10 | *en tē paroikia autōn* "in their sojourn" | of their stay as guests |
+| 13 | *misoxenian* "hatred of strangers" | hatred of strangers |
+| 15 | *ē tis episkopē estai autōn* "surely some visitation will be theirs" | there will be a visitation on those others |
+| 16 | *tōn autōn metesechēkotas dikaiōn* "who had shared the same rights" | those who had already shared the same rights |
+| 18 | *en psaltēriō phthongoi tou rhythmou to onoma diallassousin* "on a harp the notes change the name of the rhythm" | as on a harp the notes change the character of the rhythm |
+| 21 | *krystalloeides genos ambrosias trophēs* "the ice-like kind of ambrosial food" | the icelike… kind of heavenly food (note) |
+
+**Choices for you:**
+- **18:15–16 "Your all-powerful word… it filled all things with death"** — *logos*, God's word as the warrior of the Passover night. The text uses "it." A capital "He" would make it a person, as Revelation 19:13 names *the Word of God*; lowercase "he" would personify it without that claim. Now: *and standing, it filled all things with death, and touched heaven while it stood on the earth.*
+
 ## Wisdom of Solomon 13–16 — rendered 2026-10-07, 6:31 PM CDT
 
 **Source:** Greek (Swete); verse numbers match the English. Echoes in the notes checked against the Greek in `sources/` (Exodus 3:14, 34:6; Genesis 2:7; Isaiah 43:16; Psalm 78:25 [Greek 77:25]; Romans 1:20, 23, 26; 9:21; Luke 12:20) and this project's English where quoted (Exodus 9:24, 16:14, 16:21, 16:23, 23:13; Deuteronomy 8:3; 1 Samuel 2:6; Psalms 78:25, 107:20). Quotations in notes were changed to match this project's wording (Exodus 9:24 "in the middle of the hail," Exodus 23:13).
