@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 25–28 (routine run, 12:48 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 25, 26, 27, 28. Progress 683 → **687 of 1,989 (34.5%)**. Ge'ez alone. Esther 11–16 still waits on your choice. (This run came from the scheduled routine; it did the cycle the loop would have done next.)
+
+**Cut:** 25:18 breaks off at *kama malāʿi za-*, **like one who fills** *[words lost]*. 28:34 ends without its stop (*and they left none*), noted.
+
+**Departures from the Ge'ez:** none. One-letter readings, each noted: 27:3 *tāḥtāy*, **lower** water, read as **upper** (v4 has the lower water beneath the sea); 27:10 *samāyāt*, **heavens**, read as *māyāt*, **waters** (the fifth day).
+
+**The checker caught two *after its kind* (25:13, 27:6):** now *every kind* / *of every kind*, per the spec.
+
+**Choices for you:**
+- **27:3 and 27:10** (above): say if you want the Ge'ez as it stands.
+- **28:6, Adam's children:** *3* daughters and *4* sons, rendered as the digits stand; they may be numbers cut short (noted).
+- **28:34 *Akemelek*, the giant** killed by Mattathias's sons: a name not found elsewhere, kept as the Ge'ez spells it. The verb *heṗa* is rendered **cut off**.
+- **Words kept in Ge'ez:** 25:5 *ḥalastəyo* (a desert creature); 25:13 *qāḥm* and *ʾanākwəʿ* (creatures under the earth).
+
+### 1 Meqabyan 25: No One Escapes My Hand
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ba-fənota Sayṭān masḥət* | in the way of Satan the deceiver |
+| 5 | *la-ʾabari… la-ḥalastəyo* | the great fish… the *ḥalastəyo* (noted) |
+| 9 | *Nobā wa-Sābā wa-ʾItyoṗyā wa-Ḥəndake* | Nubia and Saba, Ethiopia and India (noted) |
+| 14 | *māʿletomu* | the day (of the evil) |
+| 15 | *māḫtatomu* | the lamp (of the wicked) (noted) |
+| 18 | *kama malāʿi za-* | like one who fills *[words lost]* (noted) |
+
+### 1 Meqabyan 26: The Fruit of Righteousness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yəḥelləyu wəsta məskābomu* | lie thinking on their beds |
+| 2 | *rəʾsu la-bəʾsi* | the chief thing in a man (noted) |
+
+### 1 Meqabyan 27: The Creation and the Fall
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ba-ḫoṣā ḥaḍarā* | hedged it with sand (noted) |
+| 3 | *la-tāḥtāy māy* | the upper water (noted) |
+| 4 | *rababo kama śaq* | spread the heaven like a tent cloth (noted) |
+| 10 | *wəsta samāyāt* | in the waters (noted) |
+| 15 | *za-yāʾəmməru* | that makes known |
+
+### 1 Meqabyan 28: From Adam to Esther
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *3 ʾanəsta wa-4 tabāʿəta* | three daughters and four sons (noted) |
+| 11 | *ḍāʿota śəʿəl* | the carved images |
+| 16 | *ʾəm-2 zamada* | from two tribes |
+| 33 | *ba-lāʿla māʿzənta bet* | at the corner of the house |
+| 34 | *heṗa rəʾsa… ʾAkemelek* | cut off the head of the giant Akemelek (noted) |
+| 38 | *wa-wadaya maʿata lāʿla ʾArṭekəsəs* | He put wrath into Artaxerxes (noted) |
+| 44 | *lādayat rəʾsā* | loosened her hair |
+| 46 | *diba ʿəḍ nawwāḫ* | on a high pole (noted) |
+
 ## 1 Meqabyan 21–24 (loop, 12:44 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 21, 22, 23, 24. Progress 679 → **683 of 1,989 (34.3%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
