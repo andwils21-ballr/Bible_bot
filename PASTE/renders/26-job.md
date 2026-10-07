@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 25–28 — rendered 2026-10-07, 1:57 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 26:12, 26:14 (twice) and 27:15 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** Bildad's third speech, six verses: man is a worm (ch. 25). Job: the dead tremble, God hangs the earth on nothing, "these are only the edges of His ways" (ch. 26). Job swears by God who has taken away his right that he will not let go of his integrity; then the portion of the wicked (ch. 27). The poem on wisdom: the miner finds every treasure but wisdom; "the fear of the Lord, that is wisdom" (ch. 28).
+
+**Left as written, with a note:** 27:13–23 sounds like Zophar (20:29); it may be his missing third speech, or Job quoting the friends.
+
+**Divine names:** 28:28 *Adonai* is "the Lord" (spec rule 4), the only place in Job; noted.
+
+**Read with other vowels? The other reading in the note:** 26:9 "full moon" (*keseh*) for the written "throne" (*kisseh*).
+
+**Word choice:** 26:7 *tohu* "the void," as at Genesis 1:2.
+
 ## Job 21–24 — rendered 2026-10-07, 1:54 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 21:13, 21:20, 24:1 and 24:6 differ in spelling only; read form followed, no note.
