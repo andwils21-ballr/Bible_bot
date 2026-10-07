@@ -2,6 +2,62 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 13–16 (loop, 12:35 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 13, 14, 15, 16. Progress 671 → **675 of 1,989 (33.9%)**. Ge'ez alone (no Amharic past chapter 8). Esther 11–16 still waits on your choice.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word, each noted: 13:12 *wa-ṣədq* as *wadqa*, **has fallen**; 15:18 *faʾyaʾammiru* as *ʾəlla ʾi-yaʾammiru*, **who do not know**. 13:3 *wa-ʾi-təʾzazəwwo* is taken as a command, **Do not obey that proud one!**
+
+**Numbers:** 13:24 has the digit *4* for the years of manna; the verse has **forty**, the number of Exodus 16:35 (noted). 14:2 has *4* souls saved from the flood and is left as **four** (noted: Peter counts eight; four are Noah and his sons). Say if you want 14:2 to read eight.
+
+**Choices for you:**
+- **14:2, four souls or eight** (above).
+- **Names kept in Ge'ez:** 13:3 *ʾAkyəyā* (perhaps Achaia) and *Sablānyos*; 16:6 *Ṗāṭos*, *Ṗartus* (perhaps Parthia), *Siwsigyā*. 16:4 *ʾAmenesér* is rendered **Ameneser**, with a note on Shalmaneser.
+- **15:8, the three brothers:** **Mebkyos, Maccabeus and Judah**, spelled from the Ge'ez like Abya, Sila and Fentos.
+- **13:20** is damaged in two places (*ʿəṣādātihomu nuʿ*, *ʾəlla yārbəh*); rendered by the plainest reading, *their courts are high, and giants live and dwell there*, with a note.
+
+### 1 Meqabyan 13: The Son of Perdition
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *walda ḫagwəl* | a son of perdition (noted) |
+| 3 | *wa-ʾi-təʾzazəwwo* | Do not obey that proud one! |
+| 7 | *ṣalāʿi… mot* | the enemy, death (noted) |
+| 12 | *wa-ṣədq* | has fallen (noted) |
+| 20 | *sabʾa ʿayn* | spies |
+| 24 | *4 ʿāmata* | forty years (noted) |
+| 25 | *maṣḥafa lədata ʾabaw* | the Book of the Generations of the Fathers (noted) |
+
+### 1 Meqabyan 14: Noah's Covenant and the Calf
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *4 nafsāt* | four souls (noted; choice above) |
+| 3 | *māwtā wa-bətka* | what has died or what is torn by beasts |
+| 6 | *malāʾəktihomu* | their officials |
+| 15 | *ḍəmḍa fāhlu la-wayn* | the sound of men drunk with wine (noted) |
+| 18 | *ʾənfasəkkəmmo* | Have you so despised |
+| 22 | *gənfāl* | the bricks (noted) |
+
+### 1 Meqabyan 15: Mebkyos and His Brothers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾAkrāndəs* | Akrandes (noted) |
+| 2 | *ṣabāḥta dinār* | tribute in denarii |
+| 11 | *tatābiʿomu* | boldly |
+| 12 | *la-Raʿaytawi* | the Raʿaytawi (noted) |
+| 18 | *faʾyaʾammiru* | who do not know Him (noted) |
+
+### 1 Meqabyan 16: The Nations and the City of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ba-ba-tasnāna bəḥerəmu* | by the bounds of their lands |
+| 4 | *ʾAmenesér* | Ameneser (noted) |
+| 6 | *Ṗāṭos, Ṗartus, Siwsigyā* | kept in Ge'ez (noted) |
+| 9 | *maləʿlta sargalā kirubel* | above the chariot of the cherubim (noted) |
+
 ## 1 Meqabyan 9–12 (loop, 12:31 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 9, 10, 11, 12. Progress 667 → **671 of 1,989 (33.7%)**. The loop was idle about half an hour before this run: the container restarted and the timer was lost. The 6–8 commit was pushed first. Esther 11–16 still waits on your choice.
