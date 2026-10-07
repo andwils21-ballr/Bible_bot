@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 72–75 — rendered 2026-10-07, 3:11 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). The short titles of 72, 73 and 74 share verse 1 (no offset); 75's title is Hebrew verse 1 (one behind, flag expected). Written and read forms at 73:10 ("turn back" read, "brings back" written, noted), 74:6 ("now" read), 74:11 ("bosom" read, "statute" written, noted); 72:17 and 73:2, 16 are spelling only.
+
+**What these psalms are:** the prayer for the king's righteous, worldwide reign, closing the second book with "Amen and Amen" and "The prayers of David son of Jesse are ended" (72); Asaph's struggle with the ease of the wicked until "I went into the sanctuary of God" — "Whom have I in heaven but You?" (73); a lament over the burned temple, recalling God's victory over the sea and Leviathan (74); God's word on judgment at the appointed time, and the cup in the LORD's hand (75).
+
+**Noted:** the third book of the Psalms begins at 73; the king's pronouns stay lowercase in 72, with the messianic reading in the note.
+
+**Uncertain lines, with the other reading in the note:** 73:1 "to Israel" (or "to the upright"); 73:4; 73:10; 73:20 "when You rouse Yourself" (or "in the city"); 74:5–6; 75:6 "lifting up" (or "mountains").
+
 ## Psalms 68–71 — rendered 2026-10-07, 3:08 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 68, 69 and 70 have titles as Hebrew verse 1 (one behind, flags expected); 71 has no title. Written and read forms at 71:20 ("us" written, "me" read; read form followed, noted); 71:12 is spelling only.
