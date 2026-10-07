@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 90–94 — rendered 2026-10-07, 3:26 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). The fourth book of the Psalms begins at 90. 90's title shares verse 1; 91, 93 and 94 have no title; 92's title is Hebrew verse 1 (one behind, flag expected). Written and read forms at 90:8 and 92:16 are spelling only.
+
+**What these psalms are:** Moses' prayer, "from everlasting to everlasting You are God… teach us to number our days" (90); "The one who dwells in the shelter of the Most High" (91); the Sabbath song, "The righteous will flourish like the palm tree" (92); "The LORD reigns," above the roaring floods (93); "God of vengeance, shine forth," "He who planted the ear, does He not hear?" (94).
+
+**Word table:** 91:11 *mal'akhav* "His messengers," with the note that Matthew 4:6 and Luke 4:10 quote it as "angels"; 94:6 *ger* "the guest."
+
+**Noted:** 91:9 keeps the Hebrew's shift of voice ("For You, LORD, are my refuge! You have made the Most High your dwelling place") instead of the common smoothing, with a note; 94:7 and 94:12 keep "Yah."
+
+**Uncertain lines, with the other reading in the note:** 91:4 "a shield and a wall"; 92:10 "I am anointed with fresh oil" (Greek "my old age with rich oil").
+
 ## Psalms 87–89 — rendered 2026-10-07, 3:23 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Three chapters this cycle, since Psalm 89 runs 52 verses. 87's short title shares verse 1; 88 and 89 have titles as Hebrew verse 1 (one behind, flags expected). Written and read forms at 89:17 ("is lifted high" read, "You lift" written, read form followed) and 89:28 (spelling only).
