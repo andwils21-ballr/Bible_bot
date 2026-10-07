@@ -2,6 +2,21 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 19–22 — rendered 2026-10-07, 2:28 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (checker flags expected). Written and read form at 21:2, spelling only.
+
+**What these psalms are:** "The heavens declare the glory of God" and the perfect law of the LORD (19); a prayer for the king before battle, "Some trust in chariots" (20), and the thanksgiving after it (21); "My God, my God, why have You forsaken me?" (22).
+
+**Departure from the Leningrad text, with a note — please confirm:**
+- **22:16 "they have pierced my hands and my feet."** The Leningrad text has *ka'ari*, "like a lion," leaving the line without a verb. The Greek, Syriac and Latin read "pierced" (or "dug"), and one of the oldest Hebrew copies, from the Judean Desert, has the verb *ka'aru*. Followed under witness rule 2 (agreement among witnesses, and the line needs a verb). This is the most debated verse in the Psalms; your call if you want the Leningrad reading in the text instead.
+
+**Pronouns:** 21:8–12 addressed to the king, lowercase, since v9 speaks of the LORD in the third person; the note gives the other reading. Psalm 22's speaker lowercase as the Old Testament has it; the notes give the Gospel quotations (Mark 15:34; John 19:24; Hebrews 2:12).
+
+**Word table applied:** 22:24 *shiqqets* "loathed."
+
+**Other readings in the notes:** 19:4 "their line" (Greek "their sound," Romans 10:18); 20:9 the division of the last line.
+
 ## Psalms 16–18 — rendered 2026-10-07, 2:25 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 17:11, 17:14 and 18:50 (*migdol* / *magdil*, noted); read form followed.
