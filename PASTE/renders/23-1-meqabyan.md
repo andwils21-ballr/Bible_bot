@@ -2,6 +2,48 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 34–36 (loop, 12:56 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 34, 35, 36. **1 Meqabyan is finished** (36 of 36). Progress 692 → **695 of 1,989 (34.9%)**. Esther 11–16 still waits on your choice; after it, the loop goes on to 2 Meqabyan.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word (36:8 *wa-təʾiqāwəm* as *wa-ʾi-yətqāwam*, **will not stand against**; 36:12 *wa-tāhu* as *wa-taḥayyu*, **to keep alive**). 36:46 begins with *And* in the Ge'ez; per the spec it starts *Those who did evil*.
+
+**Choices for you:**
+- **36:3, the kingdom of the Medes and the Moabites** when Israel went into Egypt: rendered as the Ge'ez has it, though it does not fit history; no note argues with it.
+- **Gods kept in Ge'ez (36:29):** *Māryā* of Midian and *Rāṣyon*.
+
+### 1 Meqabyan 34: The Day of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ḥakak… bitata kəramt* | tumult… the rains will fail |
+| 9 | *dasyāt ʿArab* | the islands of Arabia |
+| 13 | *yəkwalrəʿ* | They will dash |
+| 13 | *ʾi-tatosḥa manfasa ʾƎgziʾabəḥer* | the Spirit of God was not mingled in you |
+| 14 | *ʾəreʾi manfasa ʾƎgziʾabəḥer lāʿleka* | I see that the Spirit of God is in you (noted) |
+
+### 1 Meqabyan 35: Woe to the Mighty of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *beta mayāsi* | the house of the wine-seller (noted) |
+| 4 | *ʿāḍe wa-qwənqwəni* | the moth and the worm (noted) |
+| 5 | *yəṭaffəḥ ʾədawihu wa-yətfāḍay* | clap his hands and hiss (noted) |
+| 7 | *bəḥusa wa-məgwəḥəyā* | a ruin and a heap |
+
+### 1 Meqabyan 36: Like the Sand and Like the Stars
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *walda ʾamat Yəsmāʿelāwi* | son of a slave woman, Ishmaelite (noted) |
+| 17 | *ʾama yəqattəlomu la-nagaśt* | when he struck down the kings |
+| 21 | *bəya ʾark* | I have friends (noted) |
+| 24 | *ḫəbsta ʾaʾəmro* | the bread of knowledge (noted) |
+| 26 | *ṣolāʿət* | rocks (noted) |
+| 29 | *Māryā… Rāṣyon* | kept in Ge'ez (noted) |
+| 31 | *ba-ʾOrit* | in the Law |
+| 42 | *dəngāgu la-falag* | the bank of the river |
+
 ## 1 Meqabyan 29–33 (loop, 12:51 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 29, 30, 31, 32, 33 (five short chapters). Progress 687 → **692 of 1,989 (34.8%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
