@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 16–18 — rendered 2026-10-07, 2:25 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 17:11, 17:14 and 18:50 (*migdol* / *magdil*, noted); read form followed.
+
+**What these psalms are:** "You will not abandon my soul to Sheol" (16), which Peter and Paul apply to the resurrection; a prayer of the innocent, "hide me in the shadow of Your wings" (17); David's song of deliverance, also in 2 Samuel 22 (18).
+
+**Parallel passage:** Psalm 18 reuses the English of 2 Samuel 22 wherever the Hebrew words are the same, per the spec; where the Psalm's Hebrew differs, the English differs, and the notes give the changes of sense (18:1, 4, 10, 12–13, 28, 32, 35, 45, 50).
+
+**Departure, with a note:** 16:2 "I say" for the Hebrew "you have said," with the Greek and many Hebrew manuscripts.
+
+**Pronouns:** 16:10 "Your faithful one" lowercase in the person, as the Old Testament has it; the note says Acts applies it to Jesus.
+
+**Three psalms this cycle:** Psalm 18 is fifty verses.
+
 ## Psalms 11–15 — rendered 2026-10-07, 2:21 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 11:1 (*nudu* / *nudi*, plural or singular "flee"; noted) .
