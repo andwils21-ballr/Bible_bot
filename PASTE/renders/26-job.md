@@ -2,6 +2,22 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 10–13 — rendered 2026-10-07, 1:45 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex).
+
+**What these chapters are:** Job to God: "Your hands shaped me… and now You swallow me up" (ch. 10). Zophar's first speech: God exacts less than Job deserves (ch. 11). Job: ask the beasts; the hand of the LORD has done this; a hymn of God overturning the great (ch. 12). Job turns from his "worthless physicians" to God: "Though He slay me, I will hope in Him" (ch. 13).
+
+**Written and read forms that differ in meaning (read form followed, with a note):**
+- **13:15** written *lo* "not": "He will slay me; I have no hope." Read *lo* "in Him": "Though He slay me, I will hope in Him." The two are opposite in sense. The read form is followed per the spec; this is the best-known verse in these chapters, so I flag it for you.
+- 10:20 written "Let Him cease… let Him set," read "Cease, and leave me alone."
+
+**Noted:** 12:9 is the only place in the speeches (chs. 3–37) where the name *YHWH* is used.
+
+**Word choice:** 10:12 *chesed* is "loyal love," as in Ruth; 11:15 *mum* is "blemish," as the word table has it.
+
+**Uncertain lines, with the other reading in the note:** 11:11; 12:5; 12:6.
+
 ## Job 6–9 — rendered 2026-10-07, 1:41 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex).
