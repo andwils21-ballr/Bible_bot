@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 56–59 — rendered 2026-10-07, 2:58 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (flags expected). Written and read forms at 56:6, 58:7, 59:10 (*chasdi*, read form followed, noted) and 59:15, otherwise spelling only.
+
+**What these psalms are:** "In God I trust; I will not be afraid… put my tears in Your flask" (56); "My heart is steadfast… I will wake the dawn" (57); against unjust rulers, "Surely there is a God who judges on the earth" (58); "God is my stronghold," when Saul's men watched David's house (59).
+
+**Departures, with a note:** 58:1 "you gods" (*elim*) for the Hebrew "silence" (*elem*); 59:9 "My strength" with the Greek and v17, for the Hebrew "his strength."
+
+**Refrains:** 56:4 and 56:10–11 (the English shows "flesh" and "man"); 57:5 and 57:11 identical; 59:6 and 59:14 identical.
+
+**Noted:** 56:6 and 59:3 *yaguru* is the second *gur*, "stir up," not the guest word; 57:7–11 is repeated as Psalm 108.
+
 ## Psalms 52–55 — rendered 2026-10-07, 2:55 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Titles: 52 and 54 take two Hebrew verses (two behind); 53 and 55 one behind (flags expected). Written and read forms at 54:5 (*yashiv* "He will repay") and 55:15 (*yashi mavet*), noted.
