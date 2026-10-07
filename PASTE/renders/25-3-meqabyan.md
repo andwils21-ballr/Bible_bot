@@ -2,6 +2,24 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 3 Meqabyan 7–9 — rendered 2026-10-07, 1:30 PM CDT
+
+**Source:** EOTC Ge'ez (Beta Masaheft). No Amharic check is held.
+
+**What these chapters are:** trust in God, from the Psalms (ch. 7); the patience of Job and the heroes who trusted, Esther to Jephthah (ch. 8); no one knows the way of God or of the soul after death; His gifts, His kingdom, idolatry, and the rising of the dead to judgment (ch. 9).
+
+**Supplied in brackets:** 8:1 *[gave]*, in Job's words "The Lord gave, and the Lord has taken"; the Ge'ez lacks the verb.
+
+**Copying slips read as the plain word:** 7:4 *la-za-ʾak bärani* split across a line; 8:1 *ʾəlla* (as), 8:7 *wəyodit* (Judith), 8:8 *ʾimʿəwwomu* (did not overcome), 8:9 *təfaddəyo* (He repays), 8:12 *yāballəʿ* "feeds" read as *yāʾabbəl* "makes rich," as at 9:22; 9:8 *ʾəmmanu*, 9:19 *ḫabē*, 9:22 *wəʾətu*, 9:33 *ʾana tāqawəm* read as "will stand," 9:34 *ʾamatarḫəwu* (when are opened), 9:35 *ʾagabru*.
+
+**Left out, with a note:** 9:30 *kama bahyəb*, not understood.
+
+**Kept transliterated:** *baḥrus* (9:9).
+
+**Uncertain renderings:** 7:2 opening words garbled, read with Psalm 27:3; 8:6 "a father" (or "great"); 9:7 "washed into the deep"; 9:14 "pours out."
+
+**Next:** chapter 10 is the last in the book (29 verses).
+
 ## 3 Meqabyan 4–6 — rendered 2026-10-07, 1:27 PM CDT
 
 **Source:** EOTC Ge'ez (Beta Masaheft). No Amharic check is held.
