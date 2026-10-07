@@ -2,6 +2,19 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 23–26 — rendered 2026-10-07, 2:30 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Short titles share verse 1, so the numbers match the English. Written and read forms at 24:6 and 26:2, spelling only.
+
+**What these psalms are:** "The LORD is my shepherd" (23); "Lift up your heads, you gates… the King of glory" (24); an alphabet prayer, "To You, LORD, I lift up my soul" (25); "I have walked in my integrity" (26).
+
+**Departures, with a note — please confirm:**
+- **23:6 "I will dwell in the house of the LORD."** The Hebrew has *ve-shavti*, "and I will return"; the Greek reads "dwell," as in 27:4. Followed the Greek, the familiar reading.
+- **24:4 "his soul."** The written text has "his soul," the read form "My soul" (God's own, as in "take My name in vain"). The written form is followed, against the spec's read-form rule, since the line describes the worshiper; the note gives the read form. If you want the read form, it would be "who has not lifted up My soul to what is false."
+- **24:6 "God of Jacob."** The Hebrew has only "Jacob"; the Greek and Syriac add "God of."
+
+**Uncertain lines, with the other reading in the note:** 25:17.
+
 ## Psalms 19–22 — rendered 2026-10-07, 2:28 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (checker flags expected). Written and read form at 21:2, spelling only.
