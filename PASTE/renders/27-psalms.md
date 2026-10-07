@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 95–100 — rendered 2026-10-07, 3:29 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). No verse offsets: 95, 96, 97 and 99 have no title, and the short titles of 98 and 100 share verse 1. Written and read forms at 99:6 (spelling only) and 100:3 ("and we are His" read; "and not we ourselves" written, which the Greek follows; noted).
+
+**What these psalms are:** "Come, let us sing for joy… Today, if you will hear His voice" (95); the LORD's kingship sung to the nations, "Sing to the LORD a new song" (96, 98); "Clouds and thick darkness surround Him" (97); "Holy is He," three times (99); "Enter His gates with thanksgiving" (100).
+
+**Parallels:** Psalm 96 follows the English of 1 Chronicles 16:23–33, changed only where the Hebrew differs (each difference listed in the note); "O" is dropped from 96:7, as everywhere in the Psalms. 97:2b matches 89:14; 98:7–9 follows 96:11–13 where the Hebrew is the same; 99:1 "enthroned on the cherubim" as in 80:1.
+
+**Word table:** 95:10 *aqut* "I was disgusted with," keeping "loathe" for *sheqets*.
+
+**Noted:** 95:7–11 quoted in Hebrews 3–4; 97:7 "all gods" (Greek "all His angels," Hebrews 1:6) and 97:11 "sown" (Greek "dawned") in the notes.
+
 ## Psalms 90–94 — rendered 2026-10-07, 3:26 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). The fourth book of the Psalms begins at 90. 90's title shares verse 1; 91, 93 and 94 have no title; 92's title is Hebrew verse 1 (one behind, flag expected). Written and read forms at 90:8 and 92:16 are spelling only.
