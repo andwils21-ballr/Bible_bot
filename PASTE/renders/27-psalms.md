@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 137–141 — rendered 2026-10-07, 3:58 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). 140's title is Hebrew verse 1 (one behind, flag expected); 137 has none; the titles of 138, 139 and 141 share verse 1. Written and read forms: 139:16 (read form "and one of them was set for it" followed; written form "when as yet there was not one of them," which most English versions follow, in the note); 140:10 and 140:12 ("I know" read, "You know" written), noted; 139:6 and 140:9 spelling only.
+
+**What these psalms are:** "By the rivers of Babylon… If I forget you, Jerusalem," ending in the cry against Babylon (137); thanks for answered prayer before the kings of the earth (138); "LORD, You have searched me and known me… Where can I go from Your Spirit?… You knit me together in my mother's womb" (139); prayers against violent and slanderous men (140, 141), "Let my prayer be set before You as incense."
+
+**Divine names:** 140:7 and 141:8 *YHWH Adonai* "GOD the Lord," as in 68:20 and 109:21; 139:7 *ruach* of God "Your Spirit," capitalized.
+
+**Word table:** 139:21 *etqotat* "feel disgust at," keeping "loathe" for *sheqets*; 138:2 *imrah* "promise," as in Psalm 119.
+
+**Noted:** 137:5 "let my right hand forget!" with no object added, as the Hebrew has it; 137:8–9 left as written, with a note on the setting.
+
+**Uncertain lines, with the other reading in the note:** 137:3 "our tormentors"; 138:2; 141:5–7.
+
 ## Psalms 132–136 — rendered 2026-10-07, 3:55 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). The Songs of Ascents end at 134. All short titles share verse 1; 135 and 136 have none; no offsets.
