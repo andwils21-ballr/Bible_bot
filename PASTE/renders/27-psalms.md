@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 31–33 — rendered 2026-10-07, 2:37 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalm 31's title is Hebrew verse 1 (one behind, flag expected); Psalm 32's short title shares verse 1; Psalm 33 has no title.
+
+**What these psalms are:** "Into Your hand I commit my spirit" (31), the words of Jesus on the cross; "Blessed is the one whose transgression is forgiven" (32), the second penitential psalm; "Sing to Him a new song… By the word of the LORD the heavens were made" (33).
+
+**Checker:** one flag on the 32:3 note heading ("I kept") is the quoted text, not a note about translating; left as it is.
+
+**Decision made, open to you:**
+- **33:6 "the breath of His mouth"** for *ruach piv*, lowercase. The word table says *ruach* of God is "the Spirit," but here the phrase is "the *ruach* of His mouth," parallel to "the word"; the note gives the Church's reading of Word and Spirit at creation. Capitalized, it would read "by the Spirit of His mouth."
+- **32:8 "with My eye on you"**: God taken as the speaker, so capitalized; the note gives the other view.
+
+**Other readings in the notes:** 31:6 "I hate" (Greek "You hate"); 31:10 "my iniquity" (Greek "my affliction"); 33:7 "a heap" (Greek "a wineskin").
+
 ## Psalms 27–30 — rendered 2026-10-07, 2:34 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 27–29 have short titles in verse 1 (numbers match); Psalm 30's title is Hebrew verse 1 (one behind; checker flag expected). Written and read forms at 30:3 differ in meaning (read form followed, noted).
