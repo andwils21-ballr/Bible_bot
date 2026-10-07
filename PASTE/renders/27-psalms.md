@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 34–36 — rendered 2026-10-07, 2:40 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 34 and 36 have titles as Hebrew verse 1 (one behind, flags expected); Psalm 35's short title shares verse 1. Written and read forms at 35:15 and 35:7, spelling only.
+
+**What these psalms are:** "Taste and see that the LORD is good" (34), an acrostic; "Contend, LORD, with those who contend with me" (35); "with You is the fountain of life; in Your light we see light" (36).
+
+**Word table applied:** 34:7 and 35:5–6 *mal'akh YHWH* "the messenger of the LORD."
+
+**Kept as the Hebrew has it, with a note:** 36:1 "my heart" (the Greek and Syriac have "his heart"); 34 title "Abimelech" (Achish in 1 Samuel 21).
+
+**Uncertain words, with the other reading in the note:** 35:3 *segor*; 35:15 *nekhim* "the lame"; 35:16.
+
 ## Psalms 31–33 — rendered 2026-10-07, 2:37 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalm 31's title is Hebrew verse 1 (one behind, flag expected); Psalm 32's short title shares verse 1; Psalm 33 has no title.
