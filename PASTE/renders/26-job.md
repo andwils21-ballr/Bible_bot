@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 14–17 — rendered 2026-10-07, 1:48 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 14:5, 15:15, 15:22, 15:31 and 16:16 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** "Man who is born of a woman": there is hope for a tree, but "if a man dies, will he live again?" (ch. 14). Eliphaz's second speech: Job undermines the fear of God; the fate of the wicked (ch. 15). Job: "miserable comforters are you all"; God has made him His target; "my witness is in heaven" (ch. 16); "where then is my hope?" (ch. 17).
+
+**Word choice:** 15:16 *nit'av* is "detestable," from the root of *to'evah*, as the word table has it.
+
+**Uncertain lines, with the other reading in the note:** 14:16 "For then" (or "for now," a complaint); 16:20 "My friends scorn me" (or "my advocate is my friend"); 17:5.
+
+**Words found only here, noted:** 15:24 *kidor*, 15:29 *minlam*, 17:1 *niz'akhu*.
+
 ## Job 10–13 — rendered 2026-10-07, 1:45 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex).
