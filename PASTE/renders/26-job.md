@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 39–41 — rendered 2026-10-07, 2:09 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 39:12, 39:26, 39:30, 40:6 and 40:17 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** God's questions go on: the wild creatures that do not serve man, from the mountain goat to the eagle (ch. 39). Job: "I lay my hand on my mouth." God's second speech: "Will you put My justice in the wrong?"; Behemoth (ch. 40); Leviathan (ch. 41).
+
+**Numbering (English followed):** English 40:1–24 = Hebrew 40:1–24; English 41:1–8 = Hebrew 40:25–32; English 41:9–34 = Hebrew 41:1–26. Each chapter has a note. The checker flags the verse counts as a known offset. **This Job offset is not yet in HANDOFF.md's list**; I did not edit HANDOFF in a render cycle.
+
+**Written and read forms that differ in meaning:** 41:12 written "not," read "about him." Rendered "I will not keep silent about him," carrying both, with a note; this is a small departure from strictly following the read form, open to you.
+
+**Spec rules applied:** 40:15 *hinneh* rendered "Here is Behemoth" (a presentation); 41:22 *yalin* "lodges," avoiding *abide*.
+
+**Kept as names:** Behemoth, Leviathan.
+
 ## Job 36–38 — rendered 2026-10-07, 2:06 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 37:12, 38:1, 38:12 and 38:41 differ in spelling only; read form followed, no note.
