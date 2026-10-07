@@ -1,6 +1,6 @@
 # Progress
 
-**954 of 1989 chapters rendered (48.0%).**
+**958 of 1989 chapters rendered (48.2%).**
 
 Next up: **Esther 11**
 
@@ -35,7 +35,7 @@ Next up: **Esther 11**
 | 27 | Psalms | source | done |
 | 28 | Proverbs | source | done |
 | 29 | Reproof (Tegsat) | source | done |
-| 30 | Ecclesiastes | source | 4/12 |
+| 30 | Ecclesiastes | source | 8/12 |
 | 31 | Song of Songs | source | 0/8 |
 | 32 | Wisdom of Solomon | source | 0/19 |
 | 33 | Sirach | source | 0/51 |
