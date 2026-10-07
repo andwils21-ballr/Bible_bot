@@ -77,19 +77,32 @@ case…*, or a dash and a plain clause.
 ### Kept on purpose (settled rulings)
 
 - **"And it came to pass"** for *va-yehi*, the scene-opening formula. When to
-  keep it and when to cut it (Andrew, 2026-10-03; written from the practice of
-  Genesis through Kings):
-  - **Keep it** when *va-yehi* is followed by a time or a circumstance and
-    then the event: *And it came to pass, when / as / after… , that…*. The
-    Hebrew is *va-yehi* + *ki* or *ka'asher*; *ke-* or *be-* + a verb (*when he
-    heard*, *as they came*); *acharei* (*after this*); *mi-qets* (*at the end
-    of*); a day, a night, a year (*the next day*, *that night*, *in the fifth
-    year*); or a subject with a participle (*as he was bowing down*, 2 Kings
-    19:37). This holds at the start of a story and inside one (*And it came to
-    pass at noon that Elijah mocked them*, 1 Kings 18:27). Inside speech, keep
-    it where the speaker tells a story step by step (1 Kings 3:18). The
-    future, *vi-yhi* or *ve-hayah* + a time clause in an instruction, is
-    *And it shall come to pass, when…, that…* (Ruth 3:4; 1 Samuel 10:5).
+  keep it and when to cut it:
+  - **Keep it only where it opens something** (Andrew, 2026-10-07, replacing
+    the rule of 2026-10-03, which kept every *when… , that…*):
+    1. **a book** (*And it came to pass after the death of Moses*, Joshua 1:1;
+       Nehemiah 1:1);
+    2. **a chapter's story**, in its first verse, even with a *when* clause
+       (*And it came to pass, when Samuel was old, that he made his sons
+       judges*, 1 Samuel 8:1);
+    3. **a new time**: a date, a count of days or years, or a move forward in
+       time (*in the fifth year*, *after this*, *at the end of twenty years*,
+       *in those days*, *one day*, *the next day*, *in the morning*, *that
+       night*, *at the turn of the year*);
+    4. **a refrain the book repeats on purpose**: Matthew's *And it came to
+       pass, when Jesus had finished these words* (7:28; 11:1; 13:53; 19:1;
+       26:1).
+    Where it is kept, its *that* stays: *And it came to pass in the month of
+    Nisan… that I took up the wine* (Nehemiah 2:1). The future, *vi-yhi* or
+    *ve-hayah* + a time clause in an instruction, is *And it shall come to
+    pass, when…, that…* (Ruth 3:4; 1 Samuel 10:5).
+  - **Cut it inside a scene already running**, with the *that* it brings:
+    *When I heard these words, I sat down and wept* (Nehemiah 1:4), not *And
+    it came to pass, when I heard these words, that I sat down*. This holds
+    for *when*, *as*, *while*, *after* + an event, and for a moment inside the
+    same scene (*At noon Elijah mocked them*, 1 Kings 18:27; *In a little
+    while the heavens grew black*, 18:45). Every rendered book but Genesis
+    was swept to this rule on 2026-10-07.
   - **Cut it**, and write plain English, when *va-yehi* is not that formula:
     1. **was, were, became, had, there was**: *All the days of Adam were…*;
        *He had seven hundred wives*; *There was a great famine*; *This thing
