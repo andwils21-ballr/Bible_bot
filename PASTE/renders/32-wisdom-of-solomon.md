@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Wisdom of Solomon 5–8 — rendered 2026-10-07, 6:19 PM CDT
+
+**Source:** Greek (Swete); verse numbers match the English (Swete's 8:1 is English 8:1, the close of the praise of 7:22–30). Echoes in the notes checked against the Greek held in `sources/` (Isaiah 59:17; Proverbs 8:17, 11:14; Ephesians 6:11–17; Hebrews 1:3; Colossians 1:15; John 1:5; Titus 1:8) and against this project's English where it is quoted (Job 29:9; Proverbs 7:4, 8:30, 8:34, 22:2; Reproof 6:19; Deuteronomy 10:17; 1 Kings 4:33; 2 Chronicles 20:7).
+
+**What these chapters are:** the righteous man stands before those who killed him, and they speak in regret; the ship, the bird and the arrow; God puts on His armor (5); the call to kings, "the mighty will be mightily tested," wisdom sitting at the gate, the chain from desire to a kingdom (6); "I also am mortal," "I preferred her to scepters and thrones," the twenty-one marks of the spirit in wisdom, "a reflection of eternal light, a spotless mirror of the working of God, and an image of His goodness" (7); wisdom sought as a bride, the four virtues, "being good, I came into an undefiled body," and the turn to prayer (8).
+
+**Word table:** as for 1–4. Added: *tyrannoi* "monarchs" (6:9, 21; 8:15), set apart from "kings" (*basileis*) and "rulers" (*dynastai*); *despotēs* "the Master" (6:7; 8:3), capital as God; *pantokratōr* "the Almighty" (7:25); *Hypsistos* "the Most High" (5:15; 6:3); *paideia* "discipline," its verb "be instructed" where the sense is teaching (6:11, 25).
+
+**The "And" check:** none. 8:6 begins "If," without the Greek's *de*.
+
+### Wisdom of Solomon 5: The Righteous Man Will Stand
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kata prosōpon tōn thlipsantōn auton* "against the face of those who afflicted him" | to face those who afflicted him |
+| 1 | *tōn athetountōn tous ponous autou* "of those setting aside his labors" | made light of his labors |
+| 2 | *epi tō paradoxō tēs sōtērias* "at the unexpectedness of the salvation" | at his unexpected salvation |
+| 3 | *eis parabolēn oneidismou* "for a parable of reproach" | a byword of reproach |
+| 9 | *hōs angelia paratrechousa* "like a message running by" | like a rumor that hurries by |
+| 11 | *pneuma kouphon* "light breath (air)" | the light air |
+| 14 | *chnous* "fine chaff, down" | chaff |
+| 14 | *katalytou monoēmerou* "of a one-day lodger" | of a guest who stays one day |
+| 15 | *hē phrontis autōn para Hypsistō* "their care is with the Most High" | the Most High takes care of them |
+| 16 | *to basileion tēs euprepeias* "the royal crown/realm of comeliness" | the glorious kingdom |
+| 17 | *hoplopoiēsei tēn ktisin* "He will arm the creation" | will arm creation |
+| 18 | *krisin anypokriton* "judgment without pretense" | impartial judgment |
+| 20 | *synekpolemēsei de autō ho kosmos* "the world will war out together with Him" | the world will fight with Him |
+| 23 | *pneuma dynameōs* "a breath/wind of power" | a mighty wind (lowercase) |
+
+### Wisdom of Solomon 6: Listen, Kings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *dikastai peratōn gēs* "judges of the ends of the earth" | judges of the ends of the earth |
+| 2 | *gegaurōmenoi epi ochlois ethnōn* "priding yourselves on crowds of nations" | pride yourselves on crowds of nations |
+| 3 | *hē kratēsis… hē dynasteia* "the rule… the sovereignty" | your dominion… your sovereignty |
+| 7 | *ou hypostelleitai prosōpon* "will not shrink back before a face" | will not show partiality (note) |
+| 9 | *ō tyrannoi* "O sovereigns" | monarchs (note) |
+| 10 | *heurēsousin apologian* "will find a defense" | will find a defense |
+| 13 | *phthanei… prognōsthēnai* "she runs ahead to be known first" | She is quick to make herself known |
+| 14 | *ho orthrisas ep' autēn* "he who rises early for her" | He who rises early for her |
+| 14 | *paredron… tōn pylōn autou* "sitting beside his gates" | sitting at his gates |
+| 15 | *amerimnos* "without care" | free from care |
+| 17 | *archē… autēs hē alēthestatē* "her truest beginning" | her truest beginning |
+| 22 | *ap' archēs geneseōs* "from the beginning of (her) coming to be" | from the beginning of her coming to be |
+| 23 | *phthonō tetēkoti* "with envy that wastes away" | wasting envy |
+| 23 | *houtos* "this one" | such a man |
+
+### Wisdom of Solomon 7: A Reflection of Eternal Light
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gēgenous… prōtoplastou* "earth-born… first-formed" | the first-formed man, born of the earth |
+| 1 | *eglyphēn sarx* "I was carved as flesh" | I was molded into flesh |
+| 2 | *hēdonēs hypnō synelthousēs* "pleasure joining with sleep" | the pleasure that comes with sleep |
+| 3 | *tēn homoiopathē… gēn* "the earth that suffers alike" | the earth that we all share |
+| 3 | *prōtēn phōnēn… isa klaiōn* "weeping my first sound, equal to all" | my first sound was a cry, like that of all |
+| 7 | *epekalesamēn* "I called" | I called |
+| 12 | *genesin einai toutōn* "that she was the origin of these" | that she was their source |
+| 14 | *esteilanto philian* "obtained friendship" | gain friendship |
+| 15 | *eipein kata gnōmēn* "to speak according to judgment" | to speak with judgment |
+| 18 | *tropōn allagas* "changes of the turnings" | the turns of the solstices |
+| 20 | *pneumatōn bias* "violences of winds/spirits" | the forces of winds (note) |
+| 22 | *monogenes* "only-begotten, one of a kind" | unique (note) |
+| 25 | *aporroia* "outflow" | outflowing |
+| 25 | *ouden memiammenon eis autēn parempiptei* "nothing defiled falls into her" | nothing defiled finds its way into her |
+| 26 | *apaugasma* "radiance, reflection" | a reflection (note) |
+| 30 | *touto men gar diadechetai nyx* "for this (light) night succeeds" | for night follows the light |
+
+### Wisdom of Solomon 8: I Sought Her for My Bride
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *diateinei apo peratos eis peras* "she stretches from end to end" | She reaches… from one end to the other |
+| 1 | *dioikei ta panta chrēstōs* "governs all things kindly" | she orders all things well |
+| 3 | *eugeneian doxazei symbiōsin theou echousa* "she glorifies her nobility having a living-together with God" | She glorifies her noble birth by living with God |
+| 4 | *mystis* "an initiate" | an initiate (note) |
+| 4 | *hairetis tōn ergōn autou* "a chooser of His works" | ***KEPT AS IS*** the one who chooses His works (note) |
+| 8 | *polypeirian* "much experience" | wide experience |
+| 8 | *strophas logōn* "twists of words" | turns of speech |
+| 9 | *parainesis phrontidōn kai lypēs* "exhortation of cares and grief" | encouragement in cares and grief |
+| 12 | *cheira epithēsousin epi stoma autōn* "they will lay a hand on their mouth" | they will put their hands on their mouths (as Job 29:9) |
+| 18 | *en syngymnasia homilias autēs* "in the exercise together of her company" | in the practice of her company |
+| 19 | *euphyēs* "well-natured" | gifted by nature |
+| 20 | *mallon de agathos ōn ēlthon eis sōma amianton* "rather, being good I came into an undefiled body" | ***KEPT AS IS*** or rather, being good, I came into an undefiled body (note) |
+| 21 | *ouk allōs esomai enkratēs ean mē ho theos dō* "I will not otherwise be in mastery unless God gives" | ***KEPT AS IS*** I would not possess her unless God gave her (note) |
+
+**Choices for you:**
+- **6:9, 6:21, 8:15 "monarchs"** — *tyrannoi*; "tyrants" in English now means cruel rulers, which the Greek word does not say here. Now: *To you, then, monarchs, my words are directed*; *monarchs of the peoples*; *dread monarchs will be afraid when they hear of me*.
+- **7:22 "unique"** — *monogenes*, "only-begotten" in older English, the word of John 1:14 and 3:16. "Unique" says what it means of wisdom's spirit; "only-begotten" would keep the echo of John visible. Now: *For in her is a spirit that is intelligent, holy, unique, manifold…*
+
 ## Wisdom of Solomon 1–4 — rendered 2026-10-07, 6:13 PM CDT
 
 **Source:** Greek (Swete), the language the book was written in; verse numbers match the English. A new writer: the style is taken from the Greek itself, balanced lines of Greek poetry, set in lines here as the parallels fall. Every Old and New Testament echo in the notes was checked against the Greek held in `sources/` (Isaiah 3:10, 28:15, 52:13; Proverbs 1:7; Psalm 2:4; Genesis 5:24; Job 1:6; Matthew 27:43; Romans 5:12; Colossians 1:17; Hebrews 11:5; 1 Thessalonians 4:17).
