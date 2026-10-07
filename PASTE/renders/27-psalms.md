@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Psalms 87–89 — rendered 2026-10-07, 3:25 PM CDT
+## Psalms 87–89 — rendered 2026-10-07, 3:23 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Three chapters this cycle, since Psalm 89 runs 52 verses. 87's short title shares verse 1; 88 and 89 have titles as Hebrew verse 1 (one behind, flags expected). Written and read forms at 89:17 ("is lifted high" read, "You lift" written, read form followed) and 89:28 (spelling only).
 
