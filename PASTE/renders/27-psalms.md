@@ -2,6 +2,14 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 64–67 — rendered 2026-10-07, 3:02 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 64, 65 and 67 have titles as Hebrew verse 1 (one behind, flags expected); 66's short title shares verse 1, so no offset. Written and read forms at 64:7 and 66:7 are spelling only.
+
+**What these psalms are:** the hidden arrows of the wicked turned back on them (64); "Praise is silence before You, God, in Zion" and the crowned year of harvest (65); "Shout to God, all the earth," with the sea crossed on foot (66); the priestly blessing sent out to the nations (67).
+
+**Noted:** 65:1 "silence is praise," with the Greek "praise is fitting" in the note; 65:3 "You atone for them"; 67:1 echoes Numbers 6:24–26; the refrain at 67:3 and 67:5 is word-for-word identical, and the English matches.
+
 ## Psalms 60–63 — rendered 2026-10-07, 3:00 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalm 60's title takes two Hebrew verses (two behind); 61–63 one behind (flags expected). Written and read form at 60:5 ("answer me" / "answer us"), noted.
