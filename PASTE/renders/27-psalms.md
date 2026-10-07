@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 68–71 — rendered 2026-10-07, 3:08 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 68, 69 and 70 have titles as Hebrew verse 1 (one behind, flags expected); 71 has no title. Written and read forms at 71:20 ("us" written, "me" read; read form followed, noted); 71:12 is spelling only.
+
+**What these psalms are:** God's march from Sinai to Zion, "Let God arise, let His enemies be scattered" (68); "Save me, God, for the waters have come up to my neck," with "zeal for Your house has consumed me" (69); a short cry for quick help (70); a prayer for old age, "Do not cast me off in the time of old age" (71).
+
+**Parallels:** 68:7–8 follows the English of Judges 5:4–5 ("the One of Sinai"); Psalm 70 follows 40:13–17 and 71:1–3 follows 31:1–3, with the English changed only where the Hebrew differs (listed in the notes).
+
+**Divine names:** 68:20 *YHWH Adonai* as "GOD the Lord"; 69:6, 71:5 and 71:16 *Adonai YHWH* as "Lord GOD," as in Genesis 15:2.
+
+**Noted:** New Testament uses at 68:18 (Ephesians 4:8, "gave gifts"), 69:4, 69:9, 69:21, 69:22–23 and 69:25; the speaker stays lowercase.
+
+**Uncertain lines, with the other reading in the note:** 68:4 "build up a highway" (or "lift up a song"); 68:6 "into prosperity"; 68:11–13; 68:17 "Sinai in the holy place" (or "came from Sinai"); 68:30; 69:22 "those at ease"; 71:6 "took me."
+
 ## Psalms 64–67 — rendered 2026-10-07, 3:02 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 64, 65 and 67 have titles as Hebrew verse 1 (one behind, flags expected); 66's short title shares verse 1, so no offset. Written and read forms at 64:7 and 66:7 are spelling only.
