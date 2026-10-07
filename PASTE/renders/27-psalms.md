@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 76–78 — rendered 2026-10-07, 3:14 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Three chapters this cycle, since Psalm 78 runs 72 verses. Psalms 76 and 77 have titles as Hebrew verse 1 (one behind, flags expected); 78's short title shares verse 1. Written and read forms at 77:11 ("I will remember" read, "make mention" written, noted); 77:1 and 77:19 are spelling only.
+
+**What these psalms are:** God breaks an army outside Jerusalem (76); a sleepless lament that turns to remembering the Red Sea crossing (77); Asaph's long teaching psalm on Israel's history, from Egypt and the wilderness through the loss of Shiloh to the choice of Zion and David (78).
+
+**Correction to last cycle:** 68:18 had *Yah Elohim* as "the LORD God"; it now reads "Yah God," matching Exodus 15:2, which keeps the short name Yah. 77:11 also keeps "Yah."
+
+**Noted:** 78:2 is quoted in Matthew 13:35 and 78:24 in John 6:31; 78:25 "the bread of the mighty," with the Greek "bread of angels" in the note.
+
+**Uncertain lines, with the other reading in the note:** 76:4 "mountains of prey" (Greek "everlasting mountains"); 76:10; 77:10 "has changed" (or "the years of"); 78:41 "pained" (or "limited").
+
 ## Psalms 72–75 — rendered 2026-10-07, 3:11 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). The short titles of 72, 73 and 74 share verse 1 (no offset); 75's title is Hebrew verse 1 (one behind, flag expected). Written and read forms at 73:10 ("turn back" read, "brings back" written, noted), 74:6 ("now" read), 74:11 ("bosom" read, "statute" written, noted); 72:17 and 73:2, 16 are spelling only.
