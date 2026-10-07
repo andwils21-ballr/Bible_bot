@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judith 13–16 (loop, 11:29 AM Central, 2026-10-07)
+
+**Landed:** Judith 13, 14, 15, 16. **Judith is finished.** Progress 646 → **650 of 1,989 (32.7%)**. Next is Esther 1.
+
+**Departures from the Greek:** none. **Choices for you:** none.
+
+### Judith 13: The Head of Holofernes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *proepeptōkōs… ēn gar perikechymenos autō ho oinos* | sprawled… for he was drowned in wine |
+| 6 | *tō kanoni tēs klinēs* | the bedpost |
+| 6 | *ton akinakēn* | his sword |
+| 11 | *meth' hēmōn ho theos ho theos hēmōn* | God, our God, is with us (noted) |
+| 13 | *paradoxon* | past belief |
+| 15 | *Idou hē kephalē* | Here is the head |
+| 18 | *Eulogētē sy, thygatēr, tō theō tō hypsistō* | Blessed are you, daughter, by the Most High God (noted) |
+| 20 | *Genoito, genoito* | Amen, amen (noted) |
+| 20 | *kai eipan pas ho laos* | All the people said (*And* cut) |
+
+### Judith 14: The Assyrian Camp in Panic
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *kai estai hēnika ean diaphausē* | And it shall come to pass, when the morning dawns (formula; noted) |
+| 6 | *en cheiri andros henos* | in the hand of one of the men |
+| 6 | *exelythē to pneuma autou* | he fainted |
+| 10 | *prosetethē pros ton oikon Israēl* | joined to the house of Israel (noted) |
+| 11 | *kata speiras* | in companies |
+| 15 | *epi tēs chelōnidos* | on the floor |
+| 18 | *Ēthetēsan hoi douloi* | The slaves have broken faith |
+
+### Judith 15: The Rout and the Celebration
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ekchythentes* | Rushing out |
+| 5 | *hyperekerasan* | outflanked |
+| 10 | *kai eipen pas ho laos Genoito* | All the people said, "Amen" (*And* cut) |
+| 11 | *ta holkia* | his bowls |
+| 12 | *thyrsous* | ivy-wreathed wands |
+
+### Judith 16: Judith's Song and Her Last Days
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *eis parembolas autou en mesō laou* | into His camp, among the people |
+| 5 | *ēthetēsen autous* | thwarted them |
+| 6 | *huioi Titanōn… hypsēloi gigantes* | the sons of the Titans… tall giants (noted) |
+| 6 | *parelysen auton* | undid him |
+| 12 | *hōs paidas automolountōn* | like the children of deserters ***KEPT AS IS***: the sense is uncertain |
+| 14 | *to pneuma sou* | Your Spirit (fixed term; noted) |
+| 15 | *euilateueis* | You show mercy |
+| 17 | *en aisthēsei* | in pain |
+| 22 | *prosetethē pros ton laon autou* | was gathered to his people |
+| 25 | *ho ekphobōn* | No one… spread terror (noted) |
+
 ## Judith 9–12 (loop, 11:25 AM Central, 2026-10-07)
 
 **Landed:** Judith 9, 10, 11, 12. Progress 642 → **646 of 1,989 (32.5%)**. Next is Judith 13.
