@@ -2,6 +2,74 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Tobit 5–8 (loop run 4 of 5, 9:43 AM Central, 2026-10-07)
+
+**Landed:** Tobit 5, 6, 7, 8. Progress 624 → **628 of 1,989 (31.6%)**. Next is Tobit 9.
+
+**Numbering:** Tobit follows the Greek edition's numbering (so 6:1 is the single line *So she stopped weeping*). The English tradition may divide some verses differently; no English text of Tobit is held here to check against.
+
+**Departures from the Greek:** **6:10** *Ecbatana* for the held text's *Rages*, from the longer Greek, backed by 3:7 and 6:6. Noted.
+
+**Choices for you:** none.
+
+### Tobit 5: A Companion for the Journey
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *to cheirographon* | the signed receipt |
+| 4 | *hos ēn angelos, kai ouk ēdei* | who was an angel, but he did not know it (noted) |
+| 6 | *ēulisthēn* | I have lodged |
+| 13 | *Azarias Ananiou tou megalou* | Azarias, son of Ananias the great (noted) |
+| 14 | *Hygiainōn elthois* | Welcome |
+| 14 | *ek rhizēs kalēs* | of good stock |
+| 17 | *ho kyōn tou paidariou* | the young man's dog (noted) |
+| 18 | *hē rhabdos tēs cheiros hēmōn* | the staff of our hand |
+| 19 | *argyrion tō argyriō mē phthasai* | Do not add money to money |
+| 19 | *peripsēma* | refuse (noted) |
+| 21 | *Mē logon eche* | Do not worry |
+
+### Tobit 6: The Fish in the Tigris
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *perikluasthai* | to wash himself |
+| 5 | *thes asphalōs* | keep them safe |
+| 8 | *kapnisai* | you burn them (make smoke) |
+| 10 | *tē Rhagē* | Ecbatana (departure; noted) |
+| 12 | *soi epiballei hē klēronomia autēs* | her inheritance falls to you |
+| 13 | *ē opheilesei thanaton* | without incurring death |
+| 15 | *daimonion philei autēn* | a demon loves her (noted) |
+| 16 | *mēdena logon eche* | Do not give… another thought |
+| 18 | *hētoimasmenē ēn apo tou aiōnos* | she was set apart for you from the beginning |
+| 18 | *ekollēthē* | clung (noted) |
+
+### Tobit 7: At Raguel's House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *anepsiō* | cousin (noted) |
+| 7 | *Ho tou kalou kai agathou anthrōpou* | You are the son of a good and noble man! |
+| 10 | *Phage, pie kai hēdeōs ginou* | Eat, drink and be merry |
+| 11 | *heōs an stēsēte kai stathēte pros me* | until you make an agreement and stand by it with me |
+| 11 | *kata tēn krisin* | according to the law |
+| 11 | *adelphos* | kinsman (noted) |
+| 12 | *kai eulogēsen autous* | Then he blessed them (*And* cut) |
+| 13 | *syngraphēn* | a contract (noted) |
+| 17 | *Tharsei* | Take courage |
+
+### Tobit 8: The Wedding Night
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *eis ta anōtata Aigyptou* | to the farthest parts of Egypt |
+| 6 | *boēthon… stērigma* | a helper and support |
+| 6 | *boēthon homoion autō* | a helper like himself (noted) |
+| 7 | *dia porneian* | because of lust (noted) |
+| 7 | *syngkatagērasai* | that we may grow old together |
+| 10 | *Mē kai houtos apothanē* | Perhaps this one will die too |
+| 17 | *despota* | O Master |
+| 17 | *monogeneis* | only children (noted) |
+
 ## Tobit 1–4 (loop run 3 of 5, 9:41 AM Central, 2026-10-07)
 
 **Landed:** Tobit 1, 2, 3, 4. Progress 620 → **624 of 1,989 (31.4%)**. Next is Tobit 5. (Ezra Sutuel, the book before Tobit, is skipped until you choose its base text; see NOTES_FOR_ANDREW.)
