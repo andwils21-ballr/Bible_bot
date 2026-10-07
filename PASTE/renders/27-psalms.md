@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 40–43 — rendered 2026-10-07, 2:46 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 40–42 have titles as Hebrew verse 1 (flags expected); Psalm 43 has no title. Written and read forms at 41:2 and 42:8, spelling only.
+
+**What these psalms are:** "I waited patiently for the LORD… I delight to do Your will" (40); "Blessed is the one who considers the poor," with the doxology that closes Book One (41); "As a deer longs for streams of water" (42) and "Send out Your light and Your truth" (43), one poem with one refrain. Book Two (42–72) begins.
+
+**Refrain:** 42:5, 42:11 and 43:5 are kept identical in English where the Hebrew is identical; 42:5 differs in the Hebrew ("the salvation of His presence"), and the English shows it, with a note that many manuscripts and the Greek read it like the others.
+
+**Noted:** 40:6 "ears You have dug for me" (Greek "a body You prepared," quoted in Hebrews 10:5–7); 40:13–17 is repeated as Psalm 70; 41:9 is quoted by Jesus of Judas (John 13:18).
+
 ## Psalms 37–39 — rendered 2026-10-07, 2:43 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalm 37's short title shares verse 1; Psalms 38 and 39 have titles as Hebrew verse 1 (flags expected). Written and read forms at 38:20 and 39:1, spelling only.
