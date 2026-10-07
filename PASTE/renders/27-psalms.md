@@ -2,6 +2,19 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 44–47 — rendered 2026-10-07, 2:49 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (flags expected).
+
+**What these psalms are:** a lament after defeat, "Wake up! Why do You sleep, Lord?" (44); a royal wedding song, "Your throne, O God, is forever and ever" (45); "God is our refuge and strength… Be still, and know that I am God" (46); "God has gone up with a shout" (47).
+
+**Decision made, open to you:**
+- **45:6–7 pronouns.** The king is addressed as *Elohim*, "O God." Rendered "Your throne, O God… the scepter of your kingdom," with the king lowercase as the Old Testament rule has it; Hebrews 1:8–9 applies the verses to the Son, and the note says so. The other readings ("Your throne is God's," "your divine throne") are in the note.
+
+**Refrain:** 46:7 and 46:11 identical.
+
+**Noted:** 44:22 quoted in Romans 8:36; 45 sung of Christ and the Church, and in the Ethiopian Church of the Virgin Mary; 47:5 sung at the Ascension.
+
 ## Psalms 40–43 — rendered 2026-10-07, 2:46 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 40–42 have titles as Hebrew verse 1 (flags expected); Psalm 43 has no title. Written and read forms at 41:2 and 42:8, spelling only.
