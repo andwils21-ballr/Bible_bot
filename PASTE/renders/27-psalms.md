@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 126–131 — rendered 2026-10-07, 3:52 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Songs of Ascents continued. All six short titles share verse 1; no offsets. Written and read forms at 126:4 and 129:3 are spelling only.
+
+**What these psalms are:** "When the LORD restored the fortunes of Zion, we were like those who dream… Those who sow in tears will reap with shouts of joy" (126); "Unless the LORD builds the house" (127); the blessed home of one who fears the LORD (128); Israel afflicted from its youth but not overcome (129); "Out of the depths I call to You, LORD… with You there is forgiveness" (130); "like a weaned child with its mother" (131).
+
+**Parallels:** 126:1, 4 "restored the fortunes" as in 14:7; 128:6 "Peace be on Israel!" as in 125:5; 130:7 and 131:3 "Israel, hope in the LORD," the same words.
+
+**Divine names:** 130 keeps *Yah* (v3) and *Adonai* "Lord" (vv2, 3, 6) distinct from *YHWH* "LORD."
+
 ## Psalms 120–125 — rendered 2026-10-07, 3:49 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). The Songs of Ascents begin (120–134). All six short titles share verse 1; no offsets. Written and read form at 123:4 (read form "proud oppressors," two words, followed and noted).
