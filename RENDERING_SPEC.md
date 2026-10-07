@@ -263,7 +263,7 @@ fits the context.
 | *ger* (and the verb *gur*) | guest (verb: live as a guest) | 2026-09-24 |
 | *mal'akh* of God or of the LORD (Hebrew) | messenger, never *angel*. Greek *angelos* (New Testament) and the Ge'ez books keep *angel*: the Greek word also names the heavenly host (Hebrews 1:6), and no argument may rest on a Ge'ez word's meaning | 2026-09-30 |
 | *ruach* of God or of the LORD | the Spirit (capital S), whoever is speaking; a person's own spirit, a wind, or *a spirit of jealousy* stays lowercase | 2026-09-30 |
-| *zanah* (verb) / *zonah* (noun) | Of worshipping other gods: *give themselves to* (*they gave themselves to other gods*); keep *whore* / *whoring* where the verse needs the harshness (Numbers 15:39; Jezebel's *whoring*, 2 Kings 9:22). Of a woman's act: *prostitute* (noun) and the verb as now. Never *harlot*, in any book | 2026-09-30; worship use 2026-10-06 |
+| *zanah* (verb) / *zonah* (noun) | Of worshipping other gods: *give themselves to* (*they gave themselves to other gods*); keep *whore* / *whoring* where it is literal, a person sold or selling for gain (Jezebel's *whoring*, 2 Kings 9:22). Of a woman's act: *prostitute* (noun) and the verb as now. Never *harlot*, in any book | 2026-09-30; worship use 2026-10-06 |
 | *aviv* (the month) | Aviv (not *Abib*) | 2026-09-30 |
 | *pilegesh* | secondary wife (plural: secondary wives); never *concubine* | 2026-10-04 |
 

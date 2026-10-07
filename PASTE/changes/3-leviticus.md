@@ -3,6 +3,17 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
+## Follow-up: Numbers 15:39 made natural (Andrew, 2026-10-07)
+
+**Request:** Andrew: "I think we need to make this whole phrase more natural." Options: (a) *follow… and go whoring after them*; (b) *go scouting after…*; (c) *which lead you to go whoring*; (d) *…and give yourselves to them*. **Decided:** (a) with the ending of (d). Jubilees 20:4, the echo, keeps its own wording (*go whoring after their eyes and their hearts*), where the context is a woman's act; only its note's quotation of Numbers changed. The spec's fixed-term row no longer names Numbers 15:39 as a harsh case.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 15:39 | and you will not go about after your own heart and your own eyes, which you go whoring after. | and you will not follow your own heart and your own eyes and give yourselves to them. |
+| Numbers 15, note v39 | "you will not go about after your own heart and your own eyes" — *lo taturu*, the verb for the scouts, who *went about* the land (13:2)… **which you go whoring after**… | "you will not follow your own heart and your own eyes and give yourselves to them" — *lo taturu*, **you will not scout after**, the verb for the scouts sent to *scout out* the land (13:2)… **after which you whore**… |
+| Jubilees 20, note v4 | Numbers 15:39: *…which you go whoring after* | Numbers 15:39: *…and give yourselves to them* |
+| RENDERING_SPEC.md, fixed terms | *whore* / *whoring* where the verse needs the harshness (Numbers 15:39; Jezebel's *whoring*, 2 Kings 9:22) | *whore* / *whoring* where it is literal, a person sold or selling for gain (Jezebel's *whoring*, 2 Kings 9:22) |
+
 ## Follow-up: Exodus 34 reopened; doubled "stoned… with stones" (Andrew, 2026-10-06)
 
 **Request:** Andrew: *whore* / *whoring* stays where it is literal, a human person sold or selling for gain (2 Kings 9:22); giving oneself to another god or thing is not that. "Apply today's logic with whoring to Exodus and all other chapters written in the past. Also, fix the double wording."
