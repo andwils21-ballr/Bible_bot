@@ -493,6 +493,19 @@ So the examples have two jobs, kept apart:
   general rule would smooth it out: Genesis keeps every *And it came to pass*.
   The mark must come from the book's own source text, never be added to it.
   Each one is Andrew's ruling, recorded here by book.
+  - **Genesis:** every *And it came to pass* is kept.
+  - **Judges:** the refrain *The sons of Israel did evil in the eyes of the
+    LORD*, the same words each time.
+  - **Ezra:** *the hand of the LORD his God was on him* (7:6, 9, 28; 8:18,
+    22, 31), the same words each time.
+  - **Nehemiah:** *Remember me, my God* (5:19; 13:14, 22, 31), the same
+    opening each time; what follows it is rendered as each verse has it
+    (*for good*, 5:19 and 13:31).
+  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times. The
+    note at 1:2 says it is the same word as Abel's name, *Hevel* (Genesis 4:2),
+    as the Genesis 4:2 note already says from the other side.
+  - **Matthew:** *And it came to pass, when Jesus had finished these words*,
+    closing each of the five speeches (7:28; 11:1; 13:53; 19:1; 26:1).
 - **The fixed models hold the rules**: format, word rules, readability,
   pronouns, and what a note may and may not say. They never change unless
   Andrew changes them, so the standard cannot slide. Read them every run:
