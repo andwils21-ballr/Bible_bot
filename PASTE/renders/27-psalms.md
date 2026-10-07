@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 117–118 — rendered 2026-10-07, 3:44 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). No titles, no offsets. Two chapters this cycle, so that Psalm 119 (176 verses) can have the next cycle to itself.
+
+**What these psalms are:** the shortest psalm, "Praise the LORD, all nations" (117); the last of the Hallel, "The stone the builders rejected has become the cornerstone… This is the day the LORD has made… Blessed is he who comes in the name of the LORD" (118).
+
+**Parallels:** 118:14 follows Exodus 15:2 ("My strength and my song is Yah, and He has become my deliverance"), and 118:21 keeps "deliverance" to match; 118:9 "nobles" for *nedivim*, as in 113:8.
+
+**Noted:** 118:26 "he who comes" stays lowercase, with the Palm Sunday use in the note; 118:22, 25 and 6 have their New Testament uses in the notes.
+
+**Uncertain lines, with the other reading in the note:** 118:27 "Bind the festal sacrifice with cords."
+
 ## Psalms 111–116 — rendered 2026-10-07, 3:42 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). No titles, no offsets.
