@@ -2,6 +2,59 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 29–33 (loop, 12:51 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 29, 30, 31, 32, 33 (five short chapters). Progress 687 → **692 of 1,989 (34.8%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Confirms the *giant* correction:** 29:12 and 31:4 call Goliath *raʿāytāwi*, **the giant**.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word (29:9 *wa-takalu* as *wa-tawakkalu*, **trust**; 30:7 *ʾafakro* as *ʾafaqqəro*, **I will love**; 30:10 *ʾama* as *ʾana*, **I**; 30:15 *narās* as *nafās*, **wind**). 30:5 *maharkəwwomu* is read as spelled, **I taught them**, not *I had mercy on them* (noted).
+
+**Choices for you:**
+- **30:5, taught or had mercy** (above).
+- **Creatures kept in Ge'ez:** 30:14 *ḥargaṣāt*, *ʾəngwatāt*, *qwarnanʿāt* (creatures of the waters, beside Behemoth).
+
+### 1 Meqabyan 29: Do Good to Me
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ṭəbyāt za-ʾənbala ḫaśar* | bricks without straw (noted) |
+| 8 | *wa-ʾanahi wa-ṣənʿa kəmu* | I will be your strength |
+| 10 | *gədma gədma* | crookedly |
+| 12 | *Golyād raʿāytāwi* | Goliath the giant (noted) |
+| 16 | *rasayo kama yəśim ḥəzba* | made him one to rule the people |
+
+### 1 Meqabyan 30: The House of Saul
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ʾənessəḥ* | I regret it (noted) |
+| 5 | *maharkəwwomu… ʾi-yəmhəruni* | when I taught them, they would not learn (noted) |
+| 12 | *maggābe sisāy* | the steward of food |
+| 14 | *ḥargaṣāt, ʾəngwatāt, qwarnanʿāt* | kept in Ge'ez (noted) |
+
+### 1 Meqabyan 31: Not without My Will
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *kālʾu raʿāytāwi* | another giant (noted) |
+| 6 | *mawiʿa* | victory |
+
+### 1 Meqabyan 32: Hear My Word, Kings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ṣaqāwʿa maʿār* | drops of honey |
+| 3 | *qiqəḥa śərnāy* | the finest of the wheat (noted) |
+
+### 1 Meqabyan 33: You Are a Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ḫəbsta malāʾəktihu* | the bread of His angels (noted) |
+| 3 | *kwənnane dayn za-ba-samāyāt* | the judgment of punishment from heaven |
+| 5 | *ʿəḍe wa-ʿəḍeyyāta wa-ḥamada* | worms and maggots and ashes (noted) |
+
 ## 1 Meqabyan 25–28 (routine run, 12:48 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 25, 26, 27, 28. Progress 683 → **687 of 1,989 (34.5%)**. Ge'ez alone. Esther 11–16 still waits on your choice. (This run came from the scheduled routine; it did the cycle the loop would have done next.)
