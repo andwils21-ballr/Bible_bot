@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Wisdom of Solomon 9–12 — rendered 2026-10-07, 6:25 PM CDT
+
+**Source:** Greek (Swete); verse numbers match the English. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 8:15; Exodus 23:28; Hebrews 12:17; Romans 9:20) and this project's English where quoted (Deuteronomy 8:5, 8:15, 10:17; Exodus 23:28; Psalm 8:2; Psalm 116:16; Genesis 9:25).
+
+**What these chapters are:** Solomon's prayer for wisdom, "who made all things by Your word," "this earthly tent burdens the mind," "sent Your holy Spirit from on high" (9); wisdom's work from Adam to the Red Sea, told with no names (10); the wilderness and the first of the book's comparisons, water from the rock against the Nile turned to blood, "by measure and number and weight," "You love all things that exist" (11); God's patience with Canaan, "a place for repentance," "the righteous man must love mankind," Egypt punished by the animals it worshipped (12).
+
+**Word table:** as before. *pneuma* of God capital: 9:17 "Your holy Spirit," 12:1 "Your incorruptible Spirit." 11:20 "the breath of Your power," lowercase, a blast that scatters (as 5:23). *pais*: 9:4 "Your servants," 12:7 and 12:20 "children" (note at 12:7). *thalassa erythra* "the Red Sea" (10:18), as in Judith 5:13; the note gives the Hebrew *yam suf*. 11:4 "the flint rock," the words of Deuteronomy 8:15 here. 11:24 *bdelyssē* "abhor," 12:23 *bdelygmata* "detestable things."
+
+**From 11:4 on** the book speaks to God as "You" to its end; every pronoun for God is capital.
+
+**The "And" check:** none. 9:9 and 9:18 begin without the Greek's *kai*.
+
+### Wisdom of Solomon 9: The Prayer for Wisdom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Kyrie tou eleous sou* "Lord of Your mercy" | Lord of mercy |
+| 4 | *tēn tōn sōn thronōn paredron sophian* "the wisdom seated beside Your thrones" | the wisdom that sits beside Your throne |
+| 4 | *ek paidōn sou* "from Your servants/children" | from among Your servants |
+| 8 | *mimēma skēnēs hagias* "an imitation of a holy tent" | a copy of the holy tent |
+| 10 | *hina symparousa moi kopiasē* "that being present with me she may toil" | so that she may be with me and toil |
+| 12 | *thronōn patros mou* "of the thrones of my father" | of the throne of my father |
+| 14 | *deiloi* "cowardly" | timid |
+| 15 | *to geōdes skēnos* "the earthy tent" | this earthly tent |
+| 15 | *noun polyphrontida* "a much-thinking mind" | the mind full of thoughts |
+
+### Wisdom of Solomon 10: Wisdom in the History of Her People
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hautē* "this one (she)" | She (each turn; note) |
+| 1 | *prōtoplaston patera kosmou* "first-formed father of the world" | the first-formed father of the world |
+| 3 | *adelphoktonois… thymois* "brother-killing rages" | his rage that murdered his brother |
+| 4 | *di' eutelous xylou* "through cheap wood" | on a paltry piece of wood |
+| 5 | *epi teknou splanchnois* "upon (his) inward feelings for a child" | against his tenderness for his child |
+| 6 | *Pentapoleōs* "of Pentapolis" | the Five Cities |
+| 7 | *atelesin hōrais karpophorounta phyta* "plants bearing fruit at unfinished seasons" | plants that bear fruit that never ripens |
+| 10 | *gnōsin hagiōn* "knowledge of holy things/ones" | knowledge of holy things (note) |
+| 10 | *eplēthynen tous ponous autou* "multiplied his labors" | made his labors abundant |
+| 12 | *agōna ischyron ebrabeusen autō* "a strong contest she umpired for him" | in his hard contest she gave him the victory |
+| 14 | *eis lakkon* "into a pit" | into the pit |
+| 14 | *skēptra basileias* "scepters of a kingdom" | the scepter of a kingdom |
+| 16 | *therapontos Kyriou* "of the Lord's attendant" | of the Lord's servant (note) |
+| 17 | *eis phloga astrōn* "into a flame of stars" | a flame of stars |
+| 19 | *anebrasen autous* "boiled them up" | cast them up |
+| 20 | *tēn hypermachon sou cheira* "Your champion hand" | Your hand that fought for them |
+
+### Wisdom of Solomon 11: Punished by What They Worshipped
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ek petras akrotomou* "from a sheer-cut rock" | out of the flint rock (as Deuteronomy 8:15) |
+| 4 | *iama dipsēs* "a cure for thirst" | relief from thirst |
+| 6 | *haimati lythrōdei taragthentes* "troubled with gory blood" | stirred up and defiled with blood |
+| 7 | *anelpistōs* "unhoped-for" | when they had no hope of it |
+| 13 | *ēisthonto tou kyriou* "they perceived the Lord" | they perceived the Lord |
+| 14 | *ton… en ekthesei palai rhiphenta apeipon chleuazontes* "him long before thrown out in exposure they refused, mocking" | ***KEPT AS IS*** the one they had long before cast out and exposed, and then rejected with scorn (note) |
+| 15 | *knōdala eutelē* "cheap beasts" | worthless creatures |
+| 17 | *ex amorphou hylēs* "from formless matter" | out of formless matter |
+| 18 | *bromous likmōmenous kapnou* "winnowing roars of smoke" | puffing out roaring smoke |
+| 20 | *heni pneumati* "by one breath" | at a single breath |
+| 22 | *hōs rhopē ek plastingōn* "like a turn of the scale-pans" | like a speck that tips the scales |
+| 24 | *bdelyssē* "loathe, abhor" | abhor |
+| 26 | *Despota philopsyche* "Master, soul-lover" | Master, lover of life |
+
+### Wisdom of Solomon 12: Little by Little
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tous parapiptontas* "those falling aside" | those who go astray |
+| 4 | *teletas anosious* "unholy initiations" | unholy rites |
+| 5 | *splanchnophagōn anthrōpinōn sarkōn thoinan kai haimatos* "an entrail-eating feast of human flesh and blood" | their feasting on human flesh and blood |
+| 5 | *ek mesou mystas thiasou* "initiates from the midst of a revel-band" | ***KEPT AS IS*** initiates from among a frenzied band (note) |
+| 6 | *authentas goneis psychōn aboēthētōn* "parents, murderers of helpless souls" | parents who murdered helpless souls |
+| 7 | *axian apoikian… theou paidōn* "a worthy colony of God's children/servants" | a worthy colony of the children of God |
+| 8 | *sphēkas* "wasps, hornets" | hornets (as Exodus 23:28) |
+| 9 | *logō apotomō* "by a sheer word" | by a stern word |
+| 10 | *topon metanoias* "a place of repentance" | a place for repentance |
+| 14 | *antophthalmēsai* "look You in the eye" | confront You |
+| 17 | *apistoumenos epi dynameōs teleiotēti* "being disbelieved in the completeness of power" | when men doubt that Your power is complete |
+| 20 | *meta tosautēs prosochēs kai deēseōs* "with so much attention and entreaty" | with such great care and pleading (note) |
+| 22 | *en myriotēti* "ten-thousandfold" | ten thousand times more |
+| 26 | *paigniois epitimēseōs* "with playthings of rebuke" | by mocking rebukes |
+| 27 | *to terma tēs katadikēs* "the end-point of condemnation" | the last of condemnation |
+
+**Choices for you:**
+- ***pais*, "child" or "servant," across the book** — 2:13 "a child of the Lord"; 9:4 "Your servants"; 12:7 "the children of God"; 12:20 "Your children." Each follows its context (the "father" and "son" around 2:13; "I am Your servant" in 9:5; "Your sons" around chapter 12). Keeping one word every time would let a reader see that the Greek repeats it.
+- **11:20 "the breath of Your power"** — lowercase, a scattering blast (as 5:23); a capital would make it God's Spirit. Now: *and scattered by the breath of Your power.*
+
 ## Wisdom of Solomon 5–8 — rendered 2026-10-07, 6:19 PM CDT
 
 **Source:** Greek (Swete); verse numbers match the English (Swete's 8:1 is English 8:1, the close of the praise of 7:22–30). Echoes in the notes checked against the Greek held in `sources/` (Isaiah 59:17; Proverbs 8:17, 11:14; Ephesians 6:11–17; Hebrews 1:3; Colossians 1:15; John 1:5; Titus 1:8) and against this project's English where it is quoted (Job 29:9; Proverbs 7:4, 8:30, 8:34, 22:2; Reproof 6:19; Deuteronomy 10:17; 1 Kings 4:33; 2 Chronicles 20:7).
