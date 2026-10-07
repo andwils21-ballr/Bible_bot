@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Proverbs 9–12 — rendered 2026-10-07, 4:15 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 11:3 (spelling only) and 12:14 ("He repays to him" read, "comes back to him" written, noted).
+
+**What these chapters are:** Wisdom's feast and Folly's, side by side, "Stolen water is sweet" (9); the start of the collection of single sayings, "The proverbs of Solomon," most of two contrasting lines (10–12): "Hatred stirs up strife, but love covers all offenses," "A false balance is detestable to the LORD," "Like a gold ring in a pig's snout," "A capable wife is her husband's crown."
+
+**Format:** 10:1's heading "The proverbs of Solomon" is set as an italic line above verse 1, as the Psalms titles are.
+
+**Word table:** *tsaddiq* "righteous," *rasha* "wicked," *atsel* "sluggard," *charuts* "diligent," *remiyyah* "slack," *chasar lev* "lacks sense" throughout; 12:1 *ba'ar* "stupid" (a third word beside the two "fools"); 9:7 *mum* "blemish"; 11:1, 11:20, 12:22 *to'evah* "detestable."
+
+**Noted:** repeated lines kept identical (10:6b = 10:11b; 10:8b = 10:10b; 11:4b = 10:2b; 9:4 = 9:16); 10:12, 11:31 New Testament uses in the notes.
+
+**Uncertain lines, with the other reading in the note:** 11:7 "wealth"; 11:30 "wins souls"; 12:26; 12:27; 12:28 "no death" (or "to death").
+
 ## Proverbs 5–8 — rendered 2026-10-07, 4:11 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 6:14, 6:16, 8:17 ("those who love me" read, "her" written, noted) and 8:35; the rest spelling only.
