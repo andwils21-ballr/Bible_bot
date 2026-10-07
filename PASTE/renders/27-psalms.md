@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 87–89 — rendered 2026-10-07, 3:25 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Three chapters this cycle, since Psalm 89 runs 52 verses. 87's short title shares verse 1; 88 and 89 have titles as Hebrew verse 1 (one behind, flags expected). Written and read forms at 89:17 ("is lifted high" read, "You lift" written, read form followed) and 89:28 (spelling only).
+
+**What these psalms are:** Zion as mother city of the nations, "Glorious things are spoken of you, city of God" (87); Heman's lament, the one psalm that ends with no turn to hope, "my companions are darkness" (88); Ethan's song of God's covenant with David and lament that it seems broken, closing the third book with "Amen and Amen" (89).
+
+**Parallels:** 89:3–4 and 19–37 retell 2 Samuel 7:8–16 in poetry (not the same Hebrew, so the English is the psalm's own); 89:46 matches the shape of 79:5.
+
+**Noted:** the king's pronouns stay lowercase in 89, with the New Testament use in the note; 89:8 keeps "Yah."
+
+**Uncertain lines, with the other reading in the note:** 87:7; 88:15 "I am in despair"; 89:19 "help" (or "a crown").
+
 ## Psalms 83–86 — rendered 2026-10-07, 3:20 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 83, 84 and 85 have titles as Hebrew verse 1 (one behind, flags expected); 86's short title shares verse 1. Written and read form at 85:1 is spelling only.
