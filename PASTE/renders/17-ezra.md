@@ -2,6 +2,56 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezra 9–10 (routine, 10:49 PM Central, 2026-10-06)
+
+**Landed:** Ezra 9, 10. **Ezra is finished.** The same run went on into Nehemiah 1–2 (see `18-nehemiah.md`). Progress 605 → **609 of 1,989 (30.6%)**.
+
+**The *torah* question:** 10:3 *let it be done according to the instruction*.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:**
+- **10:3**, *ba-atsat Adonai*, now reads *according to the counsel of the Lord and of those who tremble at the commandment of our God*. (a) **the Lord**, as the vowels read, as now. (b) **my lord**, Ezra, the same letters read *adoni*; the Greek has *as you wish*, spoken to Ezra. Recommend (b): the counsel is set beside *those who tremble*, men, and Shecaniah is speaking to Ezra (*Arise, for the matter is yours*, v4). It is a change from the vowels, so it is yours to decide; the note gives both.
+
+### Ezra 9: Ezra's Prayer
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ke-to'avoteihem* | with their detestable practices (fixed term) |
+| 2 | *ve-hit'arevu zera ha-qodesh* | the holy seed has mixed itself (noted) |
+| 2 | *ve-yad ha-sarim… hayetah… rishonah* | The hand of the officials… has been first |
+| 3 | *meshomem* | appalled (noted) |
+| 5 | *mi-ta'aniti* | from my humbling |
+| 6 | *rabu le-ma'lah rosh* | have risen higher than our heads |
+| 7 | *u-ve-voshet panim* | to open shame |
+| 8 | *ve-attah ki-m'at rega* | But now, for a brief moment (noted) |
+| 8 | *yated* | a peg (noted) |
+| 10 | *ve-attah* | And now (kept: the turn of the prayer) |
+| 11 | *mi-peh el peh* | from one end to the other (noted) |
+| 12 | *ve-attah* | So now |
+| 13 | *chasakhta le-mattah me-avonenu* | have punished us less than our iniquities deserved |
+| 15 | *hinenu lefanekha* | Here we are before You |
+
+### Ezra 10: The Foreign Wives Sent Away
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ki vakhu ha-am harbeh bekheh* | for the people wept bitterly |
+| 2 | written *Olam*, read *Elam* | Elam (read form) |
+| 2 | *va-noshev nashim nokhriyyot* | have married foreign women |
+| 3 | *ba-atsat Adonai* | according to the counsel of the Lord (noted; choice) |
+| 8 | *yochoram kol rekhusho* | would forfeit all his property |
+| 9 | *mar'idim* | trembling (noted) |
+| 11 | *tenu todah* | make confession |
+| 12 | written *ki-dvarekha* (plural), read singular | as you have said (spelling) |
+| 15 | *amedu al zot* | opposed this ***KEPT AS IS***: or *were put over this*; the Greek has *were with me*; noted |
+| 19 | *va-yittenu yadam* | They gave their hand (noted) |
+| 19 | *va-ashemim* | being guilty |
+| 25 | *u-mi-Yisra'el* | Of Israel (*And* cut) |
+| 29, 35, 37, 43 | read forms *ve-Ramot*, *Keluhu*, *Ya'asai*, *Yaddai* | Ramoth, Cheluhu, Jaasai, Jaddai (read forms) |
+| 44 | written *nos'ei*, read *nase'u* | had married (read form) |
+| 44 | *ve-yesh mehem nashim va-yasimu banim* | and some of them had wives by whom they had children ***KEPT AS IS***: the Hebrew is broken; noted |
+
 ## Ezra 5–8 (routine, 5:50 PM Central, 2026-10-06)
 
 **Landed:** Ezra 5, 6, 7, 8. Progress 601 → **605 of 1,989 (30.4%)**. Next is Ezra 9.
