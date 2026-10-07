@@ -20,7 +20,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 |---|---|---|
 | 1 | written *Kislev*, read *Kisleiv* | Chislev (spelling) |
 | 1–2 | *va-yehi be-chodesh Kislev… va-yavo* | And it came to pass in the month of Chislev… that Hanani… came (formula) |
-| 4 | *va-yehi ki-shmoa* | And it came to pass, when I heard… that (formula) |
+| 4 | *va-yehi ki-shmoa* | When I heard (formula cut, Andrew 2026-10-07) |
 | 4 | *va-ehi tsam* | I was fasting |
 | 5 | *anna* | Please |
 | 7 | *chavol chavalnu* | We have acted very corruptly (doubled verb) |

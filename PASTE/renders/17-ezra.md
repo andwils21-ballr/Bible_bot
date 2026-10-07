@@ -11,7 +11,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **10:3**, *ba-atsat Adonai*, now reads *according to the counsel of the Lord and of those who tremble at the commandment of our God*. (a) **the Lord**, as the vowels read, as now. (b) **my lord**, Ezra, the same letters read *adoni*; the Greek has *as you wish*, spoken to Ezra. Recommend (b): the counsel is set beside *those who tremble*, men, and Shecaniah is speaking to Ezra (*Arise, for the matter is yours*, v4). It is a change from the vowels, so it is yours to decide; the note gives both.
+- ✅ Decided: (b) *my lord* (Andrew, 2026-10-07). **10:3**, *ba-atsat Adonai*, now reads *according to the counsel of the Lord and of those who tremble at the commandment of our God*. (a) **the Lord**, as the vowels read, as now. (b) **my lord**, Ezra, the same letters read *adoni*; the Greek has *as you wish*, spoken to Ezra. Recommend (b): the counsel is set beside *those who tremble*, men, and Shecaniah is speaking to Ezra (*Arise, for the matter is yours*, v4). It is a change from the vowels, so it is yours to decide; the note gives both.
 
 ### Ezra 9: Ezra's Prayer
 
@@ -39,7 +39,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 1 | *ki vakhu ha-am harbeh bekheh* | for the people wept bitterly |
 | 2 | written *Olam*, read *Elam* | Elam (read form) |
 | 2 | *va-noshev nashim nokhriyyot* | have married foreign women |
-| 3 | *ba-atsat Adonai* | according to the counsel of the Lord (noted; choice) |
+| 3 | *ba-atsat Adonai* | according to the counsel of my lord (noted; decided) |
 | 8 | *yochoram kol rekhusho* | would forfeit all his property |
 | 9 | *mar'idim* | trembling (noted) |
 | 11 | *tenu todah* | make confession |
