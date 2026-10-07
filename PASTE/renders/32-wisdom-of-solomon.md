@@ -2,6 +2,94 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Wisdom of Solomon 13–16 — rendered 2026-10-07, 6:31 PM CDT
+
+**Source:** Greek (Swete); verse numbers match the English. Echoes in the notes checked against the Greek in `sources/` (Exodus 3:14, 34:6; Genesis 2:7; Isaiah 43:16; Psalm 78:25 [Greek 77:25]; Romans 1:20, 23, 26; 9:21; Luke 12:20) and this project's English where quoted (Exodus 9:24, 16:14, 16:21, 16:23, 23:13; Deuteronomy 8:3; 1 Samuel 2:6; Psalms 78:25, 107:20). Quotations in notes were changed to match this project's wording (Exodus 9:24 "in the middle of the hail," Exodus 23:13).
+
+**What these chapters are:** the nature-worshippers who looked for God and stopped short, "from the greatness and beauty of created things their Creator is seen," the woodcutter's leftover god (13); the sailor's idol, "blessed is the wood through which righteousness comes," how idol worship began, the list of evils that follow (14); "to know You is complete righteousness," the potter who makes a god of the same clay, idols with eyes that do not see (15); quails against vermin, the bronze serpent, fire in the water, "the food of angels," manna that melted in the sun (16).
+
+**Word table:** as before. *technitēs* "the craftsman" (13:1), *technitis* "the fashioner" (14:2, as 7:22); *bdelygma* "a detestable thing" (14:11, as 12:23); *porneia* "fornication" (14:12; note); *tyrannoi* "monarchs" (14:16); *hypermachos* "fights for" (16:17, as 10:20); *Hades* (16:13); Greek *angeloi* "angels" (16:20), per the fixed term for Greek. 14:3 "Father" is God addressed (*pater*).
+
+**The "And" check:** none. 13:4, 14:21, 15:18 and 16:8 begin without the Greek's *de* or *kai*.
+
+### Wisdom of Solomon 13: The Folly of Idols
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mataioi… physei* "vain by nature" | futile by nature |
+| 1 | *ton onta* "the one who is" | Him who is (note) |
+| 2 | *prytaneis kosmou* "presidents of the world" | the gods that rule the world |
+| 3 | *ho… tou kallous genesiarchēs* "the first-author of beauty" | the author of beauty |
+| 5 | *analogōs* "proportionately" | by analogy |
+| 9 | *stochasasthai ton aiōna* "to aim at (investigate) the age" | explore the world |
+| 10 | *en nekrois hai elpides autōn* "their hopes in dead things" | with their hopes set on dead things |
+| 11 | *eukinēton phyton* "a well-moving (manageable) tree" | a tree that is easy to handle |
+| 13 | *en epimeleia argias autou* "with the diligence of his idleness" | with care in his idle time |
+| 14 | *miltō kai phykei* "with red ochre and rouge" | with red ochre and painting its surface red |
+| 15 | *axion oikēma* "a worthy dwelling" | a fitting shrine |
+| 18 | *to apeirotaton* "the most inexperienced" | a thing utterly without experience |
+| 19 | *to adranestaton… eudraneian* "the most strengthless… strength" | a thing whose hands have no strength… strength |
+
+### Wisdom of Solomon 14: How Idolatry Began
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ploun… stellomenos* "fitting out a voyage" | setting out on a voyage |
+| 1 | *sathroteron xylon* "a more rotten wood" | a piece of wood more fragile |
+| 2 | *orexis porismōn* "appetite for gains" | desire for gain |
+| 5 | *schedia* "a raft" | a raft |
+| 6 | *sperma geneseōs* "seed of generation" | the seed of a new generation |
+| 11 | *en ktismati theou* "in a creature of God" | though part of God's creation |
+| 12 | *porneias* "of fornication/prostitution" | fornication (note) |
+| 14 | *kenodoxia* "empty opinion" | the vanity |
+| 15 | *tois hypocheiriois* "to those under his hand" | to his household |
+| 17 | *hous* "whom" | rulers (the "whom" named) |
+| 21 | *to akoinōnēton onoma* "the unshareable name" | the name that is not to be shared (note) |
+| 22 | *megalō… agnoias polemō* "in a great war of ignorance" | in a great war of ignorance |
+| 25 | *thorybos agathōn* "turmoil of goods / good men" | ***KEPT AS IS*** confusion over what is good |
+| 26 | *geneseōs enallagē* "exchange of birth" | ***KEPT AS IS*** exchange of nature (note) |
+| 27 | *anōnymōn* "nameless" | nameless |
+| 31 | *hē tōn hamartanontōn dikē* "the justice of those who sin" | the penalty owed to those who sin |
+
+### Wisdom of Solomon 15: The Potter's Clay
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *chrēstos kai alēthēs, makrothymos* "kind and true, long-tempered" | kind and true, patient |
+| 4 | *skiagraphōn ponos* "the toil of shadow-painters" | the toil of painters |
+| 5 | *eis oneidos erchetai* "comes to reproach" | brings fools to disgrace |
+| 7 | *ta… tōn katharōn ergōn doula skeuē* "vessels slaves of clean works" | the vessels that serve clean uses |
+| 8 | *kakomochthos* "evil-toiling" | With misspent toil |
+| 8 | *to tēs psychēs… chreos* "the debt of the soul" | the soul that was lent him |
+| 9 | *antereidetai* "props himself against, rivals" | competes with |
+| 11 | *psychēn energousan* "an active soul" | an active soul |
+| 12 | *panēgyrismon epikerdē* "a profitable fair" | a festival for profit |
+| 14 | *hyper psychēn nēpiou* "beyond the soul of an infant" | more miserable than an infant's soul |
+| 16 | *to pneuma dedanismenos* "having been lent the spirit" | one whose spirit is borrowed |
+
+### Wisdom of Solomon 16: Food of Angels
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *knōdalōn* "beasts, vermin" | vermin |
+| 2 | *xenēn geusin* "a strange taste" | a food of strange taste |
+| 2 | *ortygomētran* "quail" | quails |
+| 6 | *symbolon sōtērias* "a token of salvation" | a sign of salvation |
+| 10 | *antiparēlthen* "came alongside" | came to meet them |
+| 11 | *aperispastoi* "undistracted (from)" | cut off from |
+| 12 | *malagma* "a soothing plaster" | poultice |
+| 17 | *to paradoxotaton* "the most beyond expectation" | most incredible of all |
+| 20 | *angelōn trophēn* "food of angels" | the food of angels (note) |
+| 21 | *hē… hypostasis sou* "Your substance" | Your sustenance |
+| 21 | *metekirnato* "it was mixed over" | it changed |
+| 24 | *epiteinetai… anietai* "is tightened… is slackened" | tightens… slackens (note) |
+| 25 | *metalleuomenē* "being transformed" | changing into all things |
+| 28 | *phthanein ton hēlion* "to get ahead of the sun" | rise before the sun |
+
+**Choices for you:**
+- **14:12 "the beginning of fornication"** — *porneia*. The fixed term for Hebrew *zanah* in worship is "give themselves to," and "fornication" is the plain old word; "sexual immorality" is the usual New Testament English. The verse means both the turning to idols and the sins of vv24–26. Now: *For the devising of idols was the beginning of fornication.*
+- **14:26 "exchange of nature"** — *geneseōs enallagē*; others render "sexual perversion." The literal phrase keeps the link to Romans 1:26 visible. Now: *forgetfulness of favors, defilement of souls, exchange of nature, disorder in marriage.*
+
 ## Wisdom of Solomon 9–12 — rendered 2026-10-07, 6:25 PM CDT
 
 **Source:** Greek (Swete); verse numbers match the English. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 8:15; Exodus 23:28; Hebrews 12:17; Romans 9:20) and this project's English where quoted (Deuteronomy 8:5, 8:15, 10:17; Exodus 23:28; Psalm 8:2; Psalm 116:16; Genesis 9:25).
