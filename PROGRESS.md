@@ -1,6 +1,6 @@
 # Progress
 
-**706 of 1989 chapters rendered (35.5%).**
+**709 of 1989 chapters rendered (35.6%).**
 
 Next up: **Esther 11**
 
@@ -29,7 +29,7 @@ Next up: **Esther 11**
 | 21 | Judith | source | done |
 | 22 | Esther | source | 10/16 |
 | 23 | 1 Meqabyan | source | done |
-| 24 | 2 Meqabyan | source | 11/21 |
+| 24 | 2 Meqabyan | source | 14/21 |
 | 25 | 3 Meqabyan | source | 0/10 |
 | 26 | Job | source | 0/42 |
 | 27 | Psalms | source | 0/151 |

@@ -2,6 +2,51 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Meqabyan 12–14 (loop, 1:11 PM Central, 2026-10-07)
+
+**Landed:** 2 Meqabyan 12, 13, 14. Progress 706 → **709 of 1,989 (35.6%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word: 13:1 *ba-faʿā* as *baliʿa*, **to eat**; 13:9 *təśennidəḫarit* as *təśenni daḫarit*, **their latter life would be better**; 14:23 *lubʾo* as *ləbbəka*, **your heart**. The checker caught *in the midst of* in 13:13 (now *in the fire*).
+
+**Kept as is:** 14:31–32 say the same words twice, of the pregnant woman and of the earth; both are rendered (noted).
+
+**Choices for you:**
+- **12:13 *Ṭəlməyākos*:** the angel of death's name, kept as the Ge'ez spells it.
+- **13:1, 9 *five* Maccabees:** the sons of Meqabis are counted here for the first time (digit *5*, noted).
+- **14:16:** *taʾatito wa-wino məsbəʿita*, rendered **after it has passed away… sevenfold**; the sense is uncertain (noted).
+
+### 2 Meqabyan 12: The Death of Tsirutsaydan
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *səkār wa-sətāy* | drunkenness and carousing |
+| 4 | *dənṣəwwāna wa-dənzuzāna ləbb la-ʾi-ʾamen* | stubborn and dull of heart, unbelieving |
+| 9 | *wəsta marsətu* | to its place (noted) |
+| 13 | *malʾaka mot za-səmu Ṭəlməyākos* | the angel of death, whose name is *Ṭəlməyākos* (noted) |
+| 14 | *za-ʾi-yāstaʾazzəb wəsta ʿaraft* | left none of it standing within the walls |
+
+### 2 Meqabyan 13: Better One Day in Paradise
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *5 Maqābyān* | five Maccabees (noted) |
+| 4 | *ʾaʿṣādāta gannat* | the gardens of paradise (noted) |
+| 9 | *ʾəm-ʾəllu 5 ʿədaw… zawg* | these five good men of one family |
+| 10 | *maśwāʿta məwut* | the sacrifice of the dead (noted) |
+| 14 | *məsbəʿita ʾəm-ḍaḥay* | seven times brighter than the sun (noted) |
+
+### 2 Meqabyan 14: Those Who Deny the Resurrection
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 10 | *tāstaʿabbəyənu* | do you think God a fool |
+| 10 | *mərāt* | spittle (noted) |
+| 11 | *ḥabla Siʾol* | the rope of Sheol (noted) |
+| 16 | *taʾatito wa-wino məsbəʿita* | after it has passed away… sevenfold (noted) |
+| 21 | *za-tʿaʿwāqa* | where it is shut in |
+| 24 | *diba manbara Muse* | on the seat of Moses (noted) |
+| 33 | *ʾabyāta mazāgəbta nafsāt* | the storehouses of the souls (noted) |
+
 ## 2 Meqabyan 9–11 (loop, 1:07 PM Central, 2026-10-07)
 
 **Landed:** 2 Meqabyan 9, 10, 11. Progress 703 → **706 of 1,989 (35.5%)**. Three long chapters; the spec says stop a chapter early rather than rush. Ge'ez alone. Esther 11–16 still waits on your choice.
