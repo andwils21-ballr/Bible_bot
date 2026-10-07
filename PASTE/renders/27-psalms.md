@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 142–146 — rendered 2026-10-07, 4:01 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). 142's title is Hebrew verse 1 (one behind, flag expected); the titles of 143, 144 and 145 share verse 1; 146 has none. Written and read form at 145:6 is spelling only.
+
+**What these psalms are:** David's prayer in the cave, "no one cares for my soul" (142); the last penitential psalm, "no one living is righteous before You… Let Your good Spirit lead me" (143); a king's prayer for victory and blessing, built from Psalm 18 (144); the acrostic of praise, "The LORD is gracious and merciful… The eyes of all look to You" (145); the first of the closing hallelujah psalms, "Do not trust in nobles" (146).
+
+**Parallels (English reused where the Hebrew is the same, differences in the notes):** 142:3 and 143:4 the same line; 143:6 63:1; 144:1–7 Psalm 18:2, 9, 14, 16, 34, 47 (here as prayers); 145:3 48:1; 145:8 Exodus 34:6 in the order of 111:4; 146:2 104:33; 146:6 Exodus 20:11.
+
+**Word table:** 143:10 "Your good Spirit," capitalized, as in Nehemiah 9:20; 146:9 *gerim* "guests"; 146:3 *nedivim* "nobles," as in 118:9.
+
+**Noted:** 145's missing *nun* line (after v13) is described in the note but not added; the Greek and a Dead Sea scroll have it. 145:17 *chasid* used of God is "loyal."
+
 ## Psalms 137–141 — rendered 2026-10-07, 3:58 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). 140's title is Hebrew verse 1 (one behind, flag expected); 137 has none; the titles of 138, 139 and 141 share verse 1. Written and read forms: 139:16 (read form "and one of them was set for it" followed; written form "when as yet there was not one of them," which most English versions follow, in the note); 140:10 and 140:12 ("I know" read, "You know" written), noted; 139:6 and 140:9 spelling only.
