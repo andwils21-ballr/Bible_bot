@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 120–125 — rendered 2026-10-07, 3:49 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). The Songs of Ascents begin (120–134). All six short titles share verse 1; no offsets. Written and read form at 123:4 (read form "proud oppressors," two words, followed and noted).
+
+**What these psalms are:** a pilgrim far from home among those who hate peace (120); "I lift up my eyes to the mountains… The LORD is your keeper" (121); "I was glad when they said to me, Let us go to the house of the LORD… Pray for the peace of Jerusalem" (122); eyes on God as servants watch their master's hand (123); "If it had not been the LORD who was on our side" (124); "As the mountains surround Jerusalem, so the LORD surrounds His people" (125).
+
+**Word table:** 120:5 *garti* "live as a guest."
+
+**Noted:** 121 keeps one English word, "keep," for all six uses of *shamar*; 122:4 *edut* "testimony," matching Psalm 119; 125:1 "stands forever" (not "abides").
+
 ## Psalm 119 — rendered 2026-10-07, 3:47 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). One chapter this cycle: 176 verses, the longest chapter in the Bible. No title, no offset. Written and read forms at 119:79 ("those who know" read, "they will know" written, noted), 119:147 and 119:161 (spelling only).
