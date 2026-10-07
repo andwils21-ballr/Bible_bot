@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## 3 Meqabyan 4–6 — rendered 2026-10-07, 1:45 PM CDT
+## 3 Meqabyan 4–6 — rendered 2026-10-07, 1:27 PM CDT
 
 **Source:** EOTC Ge'ez (Beta Masaheft). No Amharic check is held.
 
