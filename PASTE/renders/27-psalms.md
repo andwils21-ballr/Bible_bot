@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 147–151 — rendered 2026-10-07, 4:04 PM CDT — Psalms complete
+
+**Source:** Hebrew (Westminster Leningrad Codex) for 147–150; no titles, no offsets. Written and read forms at 147:19 ("His words" read, noted) and 148:2 (spelling only). **Psalm 151 is rendered from the Greek** (Swete's Septuagint): it is not in the Hebrew, and the Ethiopian Psalter counts it. *Kyrios* "Lord" and *angelos* "angel," as in Tobit and the other books from the Greek.
+
+**What these psalms are:** the closing hallelujah psalms — the God who counts the stars heals the brokenhearted (147); all creation, heaven then earth, called to praise (148); "Sing to the LORD a new song… a two-edged sword in their hands" (149); "Let everything that has breath praise Yah!" (150); and David's own psalm of the shepherd boy anointed and Goliath beheaded, "outside the number" (151).
+
+**Parallels:** 147:14 follows 81:16 ("the finest of the wheat"); 151 follows the English of 1 Samuel 16–17 where it echoes it ("cursed… by his gods/idols," "the disgrace from Israel").
+
+**Word table:** 148:2 *mal'akhav* "His messengers" (Hebrew); 151:4 *angelos* "angel" (Greek); 147:18 *rucho* "His wind," not Spirit; 150:1 *raqia* "expanse," as in Genesis 1:6.
+
+**Noted:** 147:15 *imrah* is "His command" here (snow and frost obey it), not "promise" as in Psalm 119, with a note; 151:4 the Qumran Hebrew reads "His prophet" for "His angel," in the note.
+
 ## Psalms 142–146 — rendered 2026-10-07, 4:01 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). 142's title is Hebrew verse 1 (one behind, flag expected); the titles of 143, 144 and 145 share verse 1; 146 has none. Written and read form at 145:6 is spelling only.
