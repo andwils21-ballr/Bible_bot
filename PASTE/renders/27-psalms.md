@@ -2,6 +2,17 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 27–30 — rendered 2026-10-07, 2:34 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 27–29 have short titles in verse 1 (numbers match); Psalm 30's title is Hebrew verse 1 (one behind; checker flag expected). Written and read forms at 30:3 differ in meaning (read form followed, noted).
+
+**What these psalms are:** "The LORD is my light and my salvation" (27); "The LORD is my strength and my shield" (28); the seven thunders of "the voice of the LORD" (29); "Weeping may lodge for the evening, but at morning there is a shout of joy" (30).
+
+**Noted, kept as the Hebrew has it:**
+- 27:13 *lule* "if… not," a word the scribes marked with dots as doubtful; the Greek lacks it. Kept, so the sentence breaks off; the note explains.
+- 28:8 "their strength" (*lamo*); the Greek and some Hebrew manuscripts have "the strength of His people."
+- 29:9 "makes the deer give birth"; the other vowels give "makes the oaks whirl."
+
 ## Psalms 23–26 — rendered 2026-10-07, 2:30 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Short titles share verse 1, so the numbers match the English. Written and read forms at 24:6 and 26:2, spelling only.
