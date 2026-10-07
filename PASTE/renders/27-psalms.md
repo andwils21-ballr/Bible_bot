@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 105–106 — rendered 2026-10-07, 3:35 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Two chapters this cycle (45 and 48 verses). No titles, no offsets. Written and read forms at 105:18 and 106:45 (spelling only) and 105:28 ("His word" read, "His words" written).
+
+**What these psalms are:** a pair. 105 tells God's faithfulness from Abraham through Joseph, the plagues and the wilderness to the land, "He remembered His holy promise"; 106 tells Israel's unfaithfulness over the same years, "We have sinned, like our fathers," and closes the fourth book.
+
+**Parallels:** 105:1–15 and 106:1, 47–48 follow the English of 1 Chronicles 16:8–22 and 16:34–36, changed only where the Hebrew differs (each difference listed in the notes); "O" is dropped from 105:6, as in 96:7. *Yam suf* is "the Sea of Reeds," as in Exodus.
+
+**Word table:** 106:40 *ti'ev* "abhorred."
+
+**Noted:** 106:33 "His Spirit" (most take it as God's, Isaiah 63:10; the Greek reads it of Moses' spirit) — the rash speaker stays "he," as the Hebrew has it, with the note naming Moses; 105:28 "they did not rebel," with the Greek's "they rebelled" in the note.
+
 ## Psalms 101–104 — rendered 2026-10-07, 3:32 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). 102's title is Hebrew verse 1 (one behind, flag expected); the short titles of 101 and 103 share verse 1; 104 has none. Written and read forms at 101:5 (spelling only) and 102:23 ("my strength" read, "His strength" written, noted).

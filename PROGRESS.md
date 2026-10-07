@@ -1,6 +1,6 @@
 # Progress
 
-**872 of 1989 chapters rendered (43.8%).**
+**874 of 1989 chapters rendered (43.9%).**
 
 Next up: **Esther 11**
 
@@ -32,7 +32,7 @@ Next up: **Esther 11**
 | 24 | 2 Meqabyan | source | done |
 | 25 | 3 Meqabyan | source | done |
 | 26 | Job | source | done |
-| 27 | Psalms | source | 104/151 |
+| 27 | Psalms | source | 106/151 |
 | 28 | Proverbs | source | 0/24 |
 | 29 | Reproof (Tegsat) | source | 0/7 |
 | 30 | Ecclesiastes | source | 0/12 |
