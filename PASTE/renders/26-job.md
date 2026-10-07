@@ -2,6 +2,24 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 32–35 — rendered 2026-10-07, 2:03 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex).
+
+**What these chapters are:** Elihu, a young man not named before, speaks in anger: wisdom is the breath of the Almighty, not age (ch. 32); God speaks in dreams and in sickness, and a heavenly messenger may find a ransom (ch. 33); far be it from God to do wickedness (ch. 34); man's sin cannot touch God, and Job "multiplies words without knowledge" (ch. 35).
+
+**Written and read forms that differ in meaning (read form followed, with a note):**
+- 33:19 written *riv* "strife," read *rov* "all."
+- 33:28 written "my soul… my life," read "his soul… his life."
+Spelling only, no note: 33:21.
+
+**Noted, open to you:**
+- 32:3 "declared Job guilty": the scribes' tradition says the original was "declared God guilty."
+- 32:1 "in his own eyes": the Greek and Syriac read "in their eyes."
+- 34:29–33 is among the hardest passages in the book; the note says so.
+
+**Word choice:** 33:4 *ruach El* "the Spirit of God" and 34:14 "His Spirit" capitalized per the word table; 32:8 "the spirit in man" lowercase. 33:23 *mal'akh* "messenger."
+
 ## Job 29–31 — rendered 2026-10-07, 2:00 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 30:22 (*tushiyyah* / *teshuwwah*) and 30:11 differ in meaning; read form followed, with a note. Spelling only, no note: 31:11 (twice), 31:20.
