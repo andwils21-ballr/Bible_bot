@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 83–86 — rendered 2026-10-07, 3:20 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 83, 84 and 85 have titles as Hebrew verse 1 (one behind, flags expected); 86's short title shares verse 1. Written and read form at 85:1 is spelling only.
+
+**What these psalms are:** a prayer against ten nations allied against Israel, recalling Deborah and Gideon (83); the pilgrim's song, "How lovely is Your dwelling place," "a day in Your courts is better than a thousand" (84); a prayer for full restoration, "Loyal love and truth have met together; righteousness and peace have kissed" (85); David's prayer, the only one of his in the third book, "unite my heart to fear Your name" (86).
+
+**Parallels:** 85:1 "restored the fortunes" as in 14:7; 86:14 follows 54:3 with the Hebrew's differences; 86:15 follows Exodus 34:6 word for word.
+
+**Noted:** 84:9 "Your anointed" stays lowercase; 84:6 "the Valley of Baca," with the Greek "valley of weeping" in the note.
+
 ## Psalms 79–82 — rendered 2026-10-07, 3:17 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 80 and 81 have titles as Hebrew verse 1 (one behind, flags expected); the short titles of 79 and 82 share verse 1. Written and read form at 79:10 is spelling only.
