@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 37–39 — rendered 2026-10-07, 2:43 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalm 37's short title shares verse 1; Psalms 38 and 39 have titles as Hebrew verse 1 (flags expected). Written and read forms at 38:20 and 39:1, spelling only.
+
+**What these psalms are:** "Do not fret because of evildoers… the humble will inherit the land" (37), an acrostic; the third penitential psalm, "Do not forsake me, LORD" (38); "LORD, make me know my end… I am a guest with You" (39).
+
+**Word table applied:** 39:12 *ger* "guest" and *toshav* "resident"; 38:11 *nega* rendered "affliction," with the blight connection in the note.
+
+**Kept as the Hebrew has it, with a note:** 38:19 "alive and strong" (*chayyim*), though "without cause" (*chinnam*) may be the original; 37:20 "the glory of the pastures" (or "the fat of lambs").
+
+**Three psalms this cycle:** Psalm 37 is forty verses.
+
 ## Psalms 34–36 — rendered 2026-10-07, 2:40 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 34 and 36 have titles as Hebrew verse 1 (one behind, flags expected); Psalm 35's short title shares verse 1. Written and read forms at 35:15 and 35:7, spelling only.
