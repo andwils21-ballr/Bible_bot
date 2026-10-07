@@ -2,6 +2,81 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ecclesiastes 9–12 — rendered 2026-10-07, 5:52 PM CDT — Ecclesiastes complete
+
+**Source:** Hebrew (Westminster Leningrad Codex), prose, with the old-age poem of 12:1–7 kept as one long sentence the way the Hebrew runs it. Written and read forms: 9:4 ("is joined" read, "chooses" written) and 12:6 ("is snapped" read, "is removed" written), both noted because the meaning differs; 10:3, 10:10, 10:20 spelling only. Greek checked in Swete for every note that cites it (9:2, 9:4, 9:15, 11:9, 12:5).
+
+**What these chapters are:** one fate for all, "a living dog is better than a dead lion," "Go, eat your bread with joy," "the race is not to the swift… but time and chance happen to them all," the poor wise man no one remembered (9); "Dead flies make the perfumer's oil stink," servants on horses, "a bird of the air will carry the sound" (10); "Send your bread out on the waters," "Rejoice, young man, in your youth" (11); "Remember your Creator in the days of your youth," the house of old age going dark, "the spirit returns to God who gave it," "Vanity of vanities," "Fear God and keep His commandments, for this is the whole of man" (12).
+
+**Kept to the word table and the book's own words:** *hevel* "vanity" at 9:9 (twice), 11:8, 11:10 and 12:8 (three times). 12:8 repeats 1:2's wording. 11:6 "do not withhold your hand" = 7:18. 11:10 *ka'as* "vexation," as 5:17. *yitron* "gain" (10:10, 10:11). *she'ol* "Sheol" (9:10), as in Psalms and Job.
+
+**The "And" check:** no sentence starts with "And." 12:7 opens with a lowercase "and," continuing the sentence of vv1–6 as the Hebrew does (the same practice as every earlier book).
+
+### Ecclesiastes 9: Time and Chance
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *velavur et kol zeh* "and to examine all this" | examining it all |
+| 1 | *hakkol lifneihem* "all before them" | all is before them (note) |
+| 2 | *hakkol ka'asher lakkol* "all as to all" | It is the same for all |
+| 3 | *ve'acharav el hammetim* "and after it, to the dead" | ***KEPT AS IS*** and afterward — to the dead (no verb in the Hebrew) |
+| 9 | *re'eh chayyim* "see life" | Enjoy life (note) |
+| 11 | *shavti vera'oh* "I returned and saw" | Again I saw |
+| 11 | *et vafega* "a time and an occurrence" | time and chance |
+| 14 | *metsodim* "nets, siege-towers" | siegeworks |
+| 15 | *umillat hu et ha'ir* "and he delivered the city" | ***KEPT AS IS*** and he by his wisdom delivered the city ("could have delivered," in the note) |
+
+### Ecclesiastes 10: A Little Folly
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zevuvei mavet* "flies of death" | Dead flies (note) |
+| 1 | *yaqar mechokhmah mikkavod sikhlut me'at* "heavier than wisdom, than honor, is a little folly" | a little folly outweighs wisdom and honor |
+| 2 | *lev chakham limino* "the heart of a wise man to his right" | A wise man's heart is at his right hand |
+| 3 | *libbo chaser* "his heart is lacking" | he lacks sense |
+| 3 | *ve'amar lakkol sakhal hu* "and he says to all, he is a fool" | ***KEPT AS IS*** and he says to everyone that he is a fool (the other reading in the note) |
+| 4 | *ruach hammoshel* "the spirit of the ruler" | the ruler's temper |
+| 4 | *marpe* "healing, calm" | calmness |
+| 10 | *veyitron hakhsher chokhmah* "and the gain of giving success, wisdom" | but wisdom brings the gain of success |
+| 11 | *ba'al hallashon* "the master of the tongue" | the charmer |
+| 15 | *amal hakkesilim teyagge'ennu* "the toil of the fools wearies him" | The toil of fools wearies him who (the Hebrew shifts from plural to singular) |
+| 18 | *yimmakh hammeqareh* "the beam-work sinks" | the roof sags |
+| 19 | *lisechoq osim lechem* "for laughter they make bread" | Bread is made for laughter |
+| 20 | *bemadda'akha* "in your knowing" | in your thoughts |
+| 20 | *uva'al kenafayim* "and the owner of wings" | a winged creature |
+
+### Ecclesiastes 11: Send Your Bread on the Waters
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shallach lachmekha al penei hammayim* "send your bread on the face of the waters" | Send your bread out on the waters |
+| 3 | *sham yehu* "there it will be" | there it will lie |
+| 5 | *ka'atsamim beveten hamele'ah* "like the bones in the womb of the full one" | ***KEPT AS IS*** or of the bones in the womb of a woman with child |
+| 6 | *al tannach yadekha* "do not let your hand rest" | do not withhold your hand (as 7:18) |
+| 9 | *viytivekha libbekha* "let your heart do you good" | let your heart cheer you |
+| 10 | *vehashacharut* "and the blackness / the dawn" | and the dawn of life (note) |
+
+### Ecclesiastes 12: Remember Your Creator
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ad asher lo* "until that not" | before |
+| 3 | *vehitavvetu anshei hechayil* "the men of strength are bent" | the strong men are bent |
+| 4 | *kol benot hashir* "all the daughters of song" | ***KEPT AS IS*** all the daughters of song |
+| 5 | *veyistabbel hechagav* "the locust loads itself" | the grasshopper drags itself along |
+| 5 | *vetafer ha'aviyyonah* "and the caper-berry breaks" | ***KEPT AS IS*** the caper-berry fails (note) |
+| 5 | *beit olamo* "his house of eternity" | his eternal home |
+| 9 | *veyoter shehayah qohelet chakham* "and further, that the Preacher was wise" | Besides being wise, the Preacher |
+| 9 | *ve'izzen vechiqqer tiqqen* "and he weighed and searched, he arranged" | weighing and studying and arranging |
+| 11 | *ba'alei asuppot* "masters of collections" | ***KEPT AS IS*** the masters of collections (note) |
+| 11 | *mero'eh echad* "from one shepherd" | by one Shepherd (choice below) |
+| 12 | *velahag harbeh* "and much study" | much study |
+| 13 | *ki zeh kol ha'adam* "for this is all of man" | ***KEPT AS IS*** for this is the whole of man (no "duty"; note) |
+
+**Choices for you:**
+- **12:11 "one Shepherd"** — capital S makes it God (Genesis 49:24; Psalm 80:1), which is the likeliest reading; lowercase would leave it open (Solomon, or any one teacher). Now: *they are given by one Shepherd.*
+- **12:13 "the whole of man"** — most English Bibles add "duty" ("the whole duty of man"). The Hebrew has no such word. Now: *Fear God and keep His commandments, for this is the whole of man.*
+
 ## Ecclesiastes 5–8 — rendered 2026-10-07, 5:43 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex), prose throughout. **Numbering:** 5:1 is Hebrew 4:17, added by hand because the source script prints only Hebrew 5. English 5:2–20 = Hebrew 5:1–19, so the checker's flag on 5 (20 vs 19) is expected.
@@ -14,7 +89,73 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Uncertain lines, with the other reading in the note:** 5:9 (obscure); 8:2 ("As for me" — the Hebrew has a bare "I"; many supply "I say"); 8:10.
 
+**Changed after the first push of 5–8, in this cycle:** 5:4 "When you vow a vow" → "When you make a vow… do not delay to pay it," the wording of Deuteronomy 23:21, which the verse repeats; 5:13–14 the sentence now ends at v13, so v14 no longer opens with "and"; 8:3 "do not stand in an evil matter" → "do not take your stand in an evil cause"; the 8:10 note no longer says "some Hebrew manuscripts" (not checkable here); it gives the Greek only.
+
 **Left standing on purpose:** 6:3 "a hundred children" — the Hebrew says "a hundred," and "children" is the noun "fathers" requires, not an addition of meaning. 7:21 "the words that are spoken" keeps the Hebrew's unnamed "they" out of the line.
+
+### Ecclesiastes 5: Let Your Words Be Few
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shemor raglekha* "guard your foot" | Guard your steps |
+| 1 | *veqarov lishmoa mittet hakkesilim zavach* "and near to hear than the fools' giving of sacrifice" | To draw near to listen is better than to offer the sacrifice of fools |
+| 1 | *ki einam yode'im la'asot ra* "for they do not know to do evil" | for they do not know that they are doing evil |
+| 4 | *ki tiddor neder* "when you vow a vow" | When you make a vow (as Deuteronomy 23:21) |
+| 6 | *al titten et pikha lachati et besarekha* "do not give your mouth to make your flesh sin" | Do not let your mouth lead your flesh into sin |
+| 7 | *ki verov chalomot vahavalim udevarim harbeh* "for in a multitude of dreams and vanities and words, much" | For when dreams increase, so do vanities and many words |
+| 8 | *ki gavoah me'al gavoah shomer ugevohim aleihem* "for a high one over a high one watches, and high ones over them" | for one high official watches over another, and there are higher ones over them |
+| 9 | *veyitron erets bakkol hu melekh lesadeh ne'evad* "and the gain of a land in all is: a king to a field worked" | ***KEPT AS IS*** But the gain of a land is in everything: a king for a cultivated field (obscure; note) |
+| 12 | *vehassava le'ashir* "the fullness of the rich" | the full stomach of the rich |
+| 18 | *hinneh asher ra'iti ani tov asher yafeh* "*hinneh*, what I have seen, I: good, which is fitting" | What I have seen to be good and fitting is this |
+| 18 | *mispar yemei chayyav* "the number of the days of his life" | the few days of his life |
+| 20 | *ha'elohim ma'aneh besimchat libbo* "God answers in the joy of his heart" | God keeps him occupied with joy in his heart (note) |
+
+### Ecclesiastes 6: Like a Shadow
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *verabbah hi al ha'adam* "and it is great upon man" | and it lies heavy on mankind |
+| 2 | *lo yashlitennu* "does not make him master" | does not give him power |
+| 3 | *yolid ish me'ah* "a man fathers a hundred" | a man fathers a hundred children |
+| 3 | *tov mimmennu hannafel* "better than he, the stillborn" | a stillborn child is better off than he |
+| 5 | *nachat lazeh mizzeh* "rest to this more than this" | this one has more rest than that one |
+| 8 | *mah le'ani yodea lahalokh neged hachayyim* "what to the poor knowing to walk before the living" | ***KEPT AS IS*** What has the poor man who knows how to walk before the living? |
+| 9 | *mehalokh nefesh* "than the going of the soul" | than the wandering of the soul (note) |
+| 12 | *mispar yemei chayyei hevlo* "the number of the days of the life of his vanity" | the few days of his life of vanity |
+| 12 | *veya'asem katsel* "and he makes them like the shadow" | which he spends like a shadow |
+
+### Ecclesiastes 7: Better Is the End of a Thing
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tov shem mishemen tov* "good, a name, than oil, good" | A good name is better than precious oil (wordplay in the note) |
+| 2 | *vehachai yitten el libbo* "and the living will give to his heart" | and the living will lay it to heart |
+| 3 | *ka'as* "vexation" | Sorrow (note links it to "anger" in v9 and "vexation" in 5:17) |
+| 3 | *bero'a panim yitav lev* "by badness of face the heart is good" | by sadness of face the heart is made better |
+| 7 | *mattanah* "a gift" | a bribe |
+| 8 | *erekh ruach mig'vah ruach* "long of spirit than high of spirit" | the patient in spirit… the proud in spirit |
+| 12 | *betsel hachokhmah betsel hakkesef* "in the shade of wisdom, in the shade of money" | wisdom is a shelter as money is a shelter |
+| 14 | *beyom tovah heyeh vetov* "in a day of good, be in good" | In the day of prosperity be joyful |
+| 18 | *yetse et kullam* "will go out with all of them" | ***KEPT AS IS*** will come out with both of them (escapes both extremes, or keeps both warnings) |
+| 21 | *asher lo tishma* "that you do not hear" | or you may hear |
+| 25 | *sabboti ani velibbi* "I turned, I and my heart" | ***KEPT AS IS*** I turned, I and my heart |
+| 26 | *asher hi metsodim vacharamim libbah asurim yadeha* "who is snares, and nets her heart, bonds her hands" | the woman who is a snare, whose heart is a net and whose hands are fetters |
+| 27 | *achat le'achat* "one to one" | adding one thing to another |
+
+### Ecclesiastes 8: The King's Command
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve'oz panav yeshunne* "and the strength of his face is changed" | and the hardness of his face is changed |
+| 2 | *ani pi melekh shemor* "I: the king's mouth keep" | ***KEPT AS IS*** As for me: keep the king's command (note; choice below) |
+| 3 | *al ta'amod bedavar ra* "do not stand in an evil thing" | do not take your stand in an evil cause |
+| 5 | *et umishpat* "time and judgment" | the time and the way |
+| 6 | *ki ra'at ha'adam rabbah alav* "for the evil of man is great upon him" | though the evil of man lies heavy on him |
+| 8 | *ein mishlachat bammilchamah* "no sending in the war" | there is no discharge in war |
+| 8 | *et be'alav* "its owners" | its masters |
+| 10 | *veyishtakkechu* "and they were forgotten" | ***KEPT AS IS*** and they were forgotten (the Greek "praised," in the note) |
+| 16 | *shenah be'einav einennu ro'eh* "sleep in his eyes he is not seeing" | neither by day nor by night do one's eyes see sleep |
+| 17 | *im yomar hechakham lada'at* "if the wise man says to know" | even if the wise man claims to know |
 
 ## Ecclesiastes 1–4 — rendered 2026-10-07, 5:37 PM CDT
 
