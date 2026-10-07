@@ -171,3 +171,75 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Uncertain lines, with the other reading in the note:** 2:8 "many concubines"; 2:12; 3:5; 3:15.
 
+**Tables added 2026-10-07, 6:05 PM CDT** (left out when this report was first written; see the Ecclesiastes 9–12 cycle).
+
+### Ecclesiastes 1: Vanity of Vanities
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *havel havalim* "vapor of vapors" | Vanity of vanities (spec; note on Abel) |
+| 3 | *mah yitron la'adam* "what is the gain to a man" | What does a man gain |
+| 4 | *veha'arets le'olam omadet* "and the earth forever stands" | but the earth remains forever |
+| 5 | *ve'el meqomo sho'ef* "and to its place panting" | and pants back to its place |
+| 6 | *sovev sovev holekh haruach* "turning, turning goes the wind" | around and around goes the wind |
+| 8 | *kol hadevarim yege'im* "all the words/things are weary" | All things are full of weariness |
+| 8 | *lo yukhal ish ledabber* "a man cannot speak" | no one can utter it |
+| 13 | *inyan ra* "an evil business" | an unhappy business |
+| 14 | *vehinneh hakkol hevel* "and *hinneh*, all is vanity" | and indeed, all is vanity |
+| 14 | *re'ut ruach* "a feeding on / striving after wind" | a chasing after wind |
+| 15 | *chesron lo yukhal lehimmanot* "a lack cannot be numbered" | what is lacking cannot be counted |
+| 16 | *dibbarti ani im libbi* "I spoke, I, with my heart" | I said in my heart |
+
+### Ecclesiastes 2: I Hated All My Toil
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *anassekhah vesimchah ur'eh vetov* "let me test you with joy, and see good" | I will test you with pleasure; enjoy what is good |
+| 2 | *mah zoh osah* "what does this do" | What does it do? |
+| 3 | *limshokh bayyayin et besari* "to draw my flesh with wine" | how to cheer my body with wine |
+| 3 | *velibbi noheg bachokhmah* "and my heart driving with wisdom" | my heart still guiding me with wisdom |
+| 7 | *uvnei vayit hayah li* "and sons of the house were mine" | and had servants born in my house |
+| 8 | *shiddah veshiddot* (meaning uncertain) | ***KEPT AS IS*** many concubines (note). A different word from *pilegesh*, which the spec renders "secondary wife." |
+| 10 | *lo atsalti mehem* "I did not withhold from them" | I did not keep from them |
+| 12 | *ki meh ha'adam sheyyavo acharei hammelekh et asher kevar asuhu* "for what the man who comes after the king? what they have already done" | ***KEPT AS IS*** For what can the man do who comes after the king? Only what has already been done. |
+| 16 | *ve'eikh yamut hechakham im hakkesil* "and how the wise dies with the fool" | How the wise dies just like the fool! |
+| 20 | *leya'esh et libbi* "to make my heart despair" | gave my heart up to despair |
+| 24 | *ein tov ba'adam sheyyokhal* "there is no good in a man that he should eat" | There is nothing better for a man than to eat |
+| 24 | *vehera'ah et nafsho tov* "and make his soul see good" | and let his soul see good |
+| 26 | *letov lefanav* "to the good before Him" | to the man who is good in His sight |
+
+### Ecclesiastes 3: A Time for Everything
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lakkol zeman* "for everything an appointed time" | For everything there is a season |
+| 2 | *et laledet* "a time to bear" | a time to be born |
+| 3 | *lifrots* "to break through" | to break down |
+| 5 | *lehashlikh avanim… kenos avanim* | ***KEPT AS IS*** a time to cast away stones, and a time to gather stones together (note) |
+| 10 | *la'anot bo* "to be busied with it" | to be busy with |
+| 11 | *et ha'olam* "eternity / the world" | eternity (note) |
+| 12 | *bechayyav* "in his life" | as long as they live |
+| 15 | *et nirdaf* "the pursued" | ***KEPT AS IS*** what has been driven away (note) |
+| 16 | *meqom hammishpat shammah haresha* "the place of justice, there the wickedness" | in the place of justice, there was wickedness |
+| 18 | *lebaram ha'elohim* "for God to test them" | God is testing them |
+| 18 | *shehem behemah hemmah lahem* "that they are beasts, they, for themselves" | that they themselves are beasts |
+| 19 | *miqreh… miqreh… miqreh echad* "fate… fate… one fate" | what befalls… what befalls… one and the same |
+| 19 | *ruach* | breath (lowercase; note) |
+| 21 | *ruach* | the spirit (lowercase; note) |
+
+### Ecclesiastes 4: Two Are Better Than One
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *vehinneh dim'at ha'ashuqim* "and *hinneh*, the tears of the oppressed" | There were the tears of the oppressed |
+| 1 | *umiyyad osheqeihem koach* "and from the hand of their oppressors, power" | On the side of their oppressors there was power |
+| 4 | *ki hi qin'at ish mere'ehu* "that it is a man's envy from his neighbor" | come from a man's envy of his neighbor |
+| 5 | *chovek et yadav* "embraces his hands" | folds his hands |
+| 6 | *melo khaf nachat* "the fill of a palm of quiet" | one hand full of quietness |
+| 8 | *yesh echad ve'ein sheni* "there is one and no second" | one man who has no other |
+| 10 | *ve'ilo ha'echad* "and woe to him, the one" | But woe to him who is alone |
+| 12 | *vehachut hammeshullash* "the tripled thread" | a threefold cord |
+| 14 | *mibbeit hasurim* "from the house of the prisoners" | out of prison |
+| 14 | *ki gam bemalkhuto nolad rash* "for even in his kingdom he was born poor" | ***KEPT AS IS*** though in his kingdom he had been born poor |
+| 15 | *im hayyeled hashsheni* "with the second youth" | ***KEPT AS IS*** with that second youth |
+| 16 | *lekhol asher hayah lifneihem* "to all who were before them" | of all those whom he led |
