@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Proverbs 13–16 — rendered 2026-10-07, 4:18 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 13:20 ("whoever walks… becomes wise" read), 14:21 and 16:19 ("humble" read, "afflicted" written), 15:14 ("mouth" read, "face" written) and 16:27 (singular "lip" read), all noted.
+
+**What these chapters are:** single sayings — "Hope deferred makes the heart sick," "Whoever spares his rod hates his son" (13); "There is a way that seems right to a man, but its end is the ways of death," "Righteousness exalts a nation" (14); "A soft answer turns away wrath," "Better is a dinner of vegetables where love is" (15); "Commit your works to the LORD," "Pride goes before destruction," "The lot is cast into the lap, but its every decision is from the LORD" (16).
+
+**Repeated lines kept identical:** 13:14b = 14:27b; 14:12 = 16:25; 14:5b and 6:19a; 15:20a = 10:1a; 16:5b = 11:21a ("be assured").
+
+**Word table:** 15:8, 15:9, 15:26, 16:5, 16:12 *to'evah* "detestable"; 16:14 *mal'akhei mavet* "a messenger of death" (human, Hebrew rule kept); 14:17 *mezimmot* in its bad sense, "evil devices," as in 12:2; 14:34 *chesed* in its rare sense "reproach," noted.
+
+**Uncertain lines, with the other reading in the note:** 13:11; 13:15; 14:32 "in his death" (Greek "in his integrity").
+
 ## Proverbs 9–12 — rendered 2026-10-07, 4:15 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 11:3 (spelling only) and 12:14 ("He repays to him" read, "comes back to him" written, noted).
