@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 9–12 — rendered 2026-10-07, 6:51 PM CDT — 1,001 chapters rendered
+
+**Source:** Greek (Swete), English verse numbers. No Greek for 10:21 and 11:15–16: numbered placeholders as in 1:5 (Nehemiah 7:68 precedent). Echoes in the notes checked against the Greek in `sources/` (Genesis 18:27; Luke 1:52, 5:39) and this project's English where quoted (Genesis 18:27; Job 2:10; Proverbs 10:22, 12:9, 17:2, 18:13; Reproof 1:21; Psalms 41:9, 55:21; 1 Samuel 2:8; Ecclesiastes 10:11).
+
+**The checker** caught three sentences starting with "And" (10:29, 10:31, 11:23); all three fixed before the commit.
+
+**What these chapters are:** counsel about women, "A new friend is new wine," keep far from the man with power to kill (9); rulers, "How can earth and ashes be proud?", "The Lord has cast down the thrones of rulers, and seated the meek in their place," "What seed is held in honor?" (10); "The bee is small among flying creatures," "Good things and bad… come from the Lord," "Call no one blessed before his death," the decoy partridge (11); know to whom you do good, the enemy like corroding bronze, "An enemy speaks sweetly with his lips" (12).
+
+**Word table:** as before. *tyrannoi* "monarchs" (11:5), as in Wisdom; *bdelyssesthai* "abhor" (11:2); *bdelygma* "detestable things" (10:13); *mōmos* "blemish" (11:33); *pornai* "prostitutes" (9:6) and *hetairizomenē* "a woman who plays the prostitute" (9:3), per the fixed term (never *harlot*); *sperma* "seed" (10:19).
+
+### Sirach 9: An Old Friend Is Old Wine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gynaika tou kolpou sou* "the wife of your bosom" | the wife you embrace |
+| 1 | *mēde didaxēs epi seauton paideian ponēran* "nor teach against yourself an evil lesson" | do not teach her an evil lesson to your own hurt |
+| 2 | *epibēnai autēn epi tēn ischyn sou* "for her to step on your strength" | so that she sets her foot on your strength |
+| 3 | *hetairizomenē* "acting the courtesan" | a woman who plays the prostitute |
+| 4 | *psallousēs* "a woman who plays the harp" | a woman singer |
+| 5 | *en tois epitimiois autēs* "in her penalties" | incur penalties for her (note) |
+| 8 | *philia* "affection" | desire |
+| 9 | *mē kathou to synolon* "do not sit at all" | Never sit at table |
+| 9 | *symbolokopēsēs* "share a drinking party" | drink wine with her at a feast |
+| 12 | *heōs hadou ou mē dikaiōthōsin* "until Hades they will not be justified" | all the way to Hades they will not be held guiltless |
+| 13 | *ou mē hypopteusēs phobon thanatou* "you will not suspect fear of death" | you will not be troubled by the fear of death |
+| 13 | *en mesō pagidōn* "in the middle of snares" | among snares |
+| 14 | *stochasai tous plēsion* "aim at your neighbors" | take the measure of your neighbors |
+| 17 | *en cheiri technitōn ergon epainesthēsetai* "in the hand of craftsmen a work is praised" | A work is praised for the hand of its craftsmen |
+
+### Sirach 10: Pride Was Not Created for Men
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tetagmenē* "set in order" | well ordered |
+| 2 | *hoi leitourgoi autou* "his ministers" | his officials |
+| 5 | *prosōpō grammateōs epithēsei doxan autou* "on the face of a scribe He will lay His glory" | He will lay His honor upon the scribe |
+| 6 | *mē mēniasēs* "do not hold wrath" | Do not be angry |
+| 7 | *ex amphoterōn plēmmelēsei adika* "from both, wrongs will offend" | wrongdoing is an offense to both |
+| 9 | *gē kai spodos* "earth and ashes" | earth and ashes (as Genesis 18:27) |
+| 9 | *erripsa ta endosthia autou* "I cast out his inner parts" | ***KEPT AS IS*** I have cast out his inner parts (note) |
+| 10 | *makron arrōstēma, skōptei iatros* "a long illness — a physician jests" | ***KEPT AS IS*** A long illness — the physician makes light of it (note) |
+| 13 | *exombrēsei bdelygma* "will rain out a detestable thing" | will pour out detestable things |
+| 13 | *paredoxasen… tas epagōgas* "made the visitations extraordinary" | brought unheard-of calamities |
+| 17 | *exēranen ex autōn* "He dried up from them" | He has withered some of them |
+| 18 | *gennēmasin gynaikōn* "the offspring of women" | those born of women |
+| 19 | *sperma entimon poion?* "what seed is honored?" | What seed is held in honor? |
+| 20 | *en mesō adelphōn* "in the middle of brothers" | Among brothers |
+| 21 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 26 | *mē sophizou poiēsai to ergon sou* "do not be wise about doing your work" | Do not be too clever to do your work |
+| 27 | *ē peripatōn* "than one walking about" | than one who strolls about |
+| 31 | *posachōs* "in how many ways" | how much more |
+
+### Sirach 11: Call No One Blessed Before His Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *en mesō megistanōn* "in the middle of great men" | among great men |
+| 3 | *archē glykasmatōn ho karpos autēs* "her fruit is the first of sweets" | what she makes is the best of sweet things |
+| 4 | *en peribolē himatiōn* "in the wrapping of garments" | of the clothes you wear |
+| 5 | *ho anyponoētos* "the unsuspected one" | one never thought of |
+| 6 | *eis cheiras hetairōn* "into the hands of others" | handed over to others |
+| 8 | *en mesō logōn mē paremballou* "do not throw yourself into the middle of words" | do not interrupt in the middle of what is said |
+| 9 | *en krisei hamartōlōn mē synedreue* "do not sit in council in the judgment of sinners" | do not sit with sinners when they judge |
+| 10 | *ouk athōōthēsē* "you will not be held innocent" | you will not go unpunished |
+| 15, 16 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 18 | *apo prosochēs kai sphingias autou* "from his attention and tightness" | by his care and his stinginess |
+| 20 | *stēthi en diathēkē sou kai homilei en autē* "stand in your covenant and converse in it" | Stand by your covenant and give yourself to it |
+| 21 | *emmene tō ponō sou* "remain in your toil" | keep at your work |
+| 27 | *kakōsis hōras* "the affliction of an hour" | An hour's misfortune |
+| 30 | *perdix thēreutēs en kartallō* "a hunting partridge in a basket" | a decoy partridge in a cage |
+| 34 | *enoikison allotrion* "house a stranger" | Take a stranger into your home |
+| 34 | *apallotriōsei se tōn idiōn sou* "will estrange you from your own" | make you a stranger to your own |
+
+### Sirach 12: Know to Whom You Do Good
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *estai charis tois agathois sou* "there will be thanks for your goods" | you will be thanked for your good deeds |
+| 4 | *mē antilabē tou hamartōlou* "do not take the part of the sinner" | do not help the sinner |
+| 8 | *ouk ekdikēthēsetai en agathois ho philos* "the friend will not be vindicated in good things" | ***KEPT AS IS*** A friend is not proved in prosperity (note) |
+| 10 | *hōs ho chalkos ioutai* "as bronze rusts" | as bronze corrodes |
+| 11 | *hōs ekmemachōs esoptron* "as one who has wiped a mirror" | like one who has polished a mirror |
+| 11 | *ouk eis telos katiōsen* "it has not rusted to the end" | his rust has not been wiped away for good |
+| 12 | *katanygēsē* "you will be pierced" | be stung |
+| 13 | *epaoidon ophiodēkton* "a snake-bitten enchanter" | a snake charmer who is bitten |
+| 14 | *synphyromenon en tais hamartiais autou* "mixed up in his sins" | caught up in his sins |
+| 17 | *hyposchasei pternan sou* "he will undercut your heel" | he will trip your heel |
+| 18 | *alloiōsei to prosōpon autou* "will alter his face" | change his expression |
+
+**Choices for you:** none new in these chapters.
+
 ## Sirach 5–8 — rendered 2026-10-07, 6:47 PM CDT — the project passes half (997 of 1,989)
 
 **Source:** Greek (Swete), English verse numbers; no gaps in these chapters. 5:15 runs into 6:1 as one sentence, and the English keeps the chapter break where the Greek has it. Echoes in the notes checked against the Greek in `sources/` (Numbers 15:38; James 1:19; Mark 9:48) and this project's English where quoted (Psalm 1:2; Proverbs 3:29, 18:24, 22:8; Job 4:8, 8:8, 40:4; Reproof 6:32; Matthew 5:37, 6:7; 1 Samuel 2:7; Deuteronomy 6:5, 18:3; Ecclesiastes 8:11).
