@@ -171,7 +171,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Uncertain lines, with the other reading in the note:** 2:8 "many concubines"; 2:12; 3:5; 3:15.
 
-**Tables added 2026-10-07, 6:05 PM CDT** (left out when this report was first written; see the Ecclesiastes 9–12 cycle).
+**Tables added 2026-10-07, 6:01 PM CDT** (left out when this report was first written; see the Ecclesiastes 9–12 cycle).
 
 ### Ecclesiastes 1: Vanity of Vanities
 
