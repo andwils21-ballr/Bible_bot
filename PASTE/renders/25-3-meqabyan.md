@@ -2,6 +2,22 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 3 Meqabyan 10 — rendered 2026-10-07, 1:34 PM CDT (book complete)
+
+**Source:** EOTC Ge'ez (Beta Masaheft). No Amharic check is held.
+
+**What this chapter is:** the closing sermon on the resurrection: life that returns with the rains as a sign; the day of repayment; the deeds of mercy left undone; the true adornment of a person; repent here, or weep there.
+
+**Copying slips read as the plain word:** 10:5 *bəkālu* (His word), 10:6 *rəʾiki* (see), 10:7 *ʾəmantaka* (your faith), 10:8 and 10:25 *bakam*, 10:9 *ʾaʾmərki*, 10:14 *təbṣāḥəya*, 10:16 *ʾiyāfʾamka* (fed), 10:24 *ʾinətnaśāʾəʾəmutān* run together, *ʾəyāʾəmro*.
+
+**Left out, with a note:** 10:16 *lita dalawka*, not understood.
+
+**Uncertain renderings:** 10:3 "made better a second time"; 10:13 "it" (the Ge'ez "she" may mean the soul); 10:17 "rescue"; 10:22 "caring"; 10:24 "makes them lose hope."
+
+**Also fixed in this cycle:**
+- 9:24 "abide forever" → "remain forever" (*abide* in the sense "remain" is on the banned list; the checker did not catch it).
+- 8:1 the bracketed *[gave]* is taken out, since the spec puts weight in the notes, not in brackets. The text now reads "The Lord — and the Lord has taken," the gap left as the Ge'ez has it, with the note quoting Job 1:21.
+
 ## 3 Meqabyan 7–9 — rendered 2026-10-07, 1:30 PM CDT
 
 **Source:** EOTC Ge'ez (Beta Masaheft). No Amharic check is held.
