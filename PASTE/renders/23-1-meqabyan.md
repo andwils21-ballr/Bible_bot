@@ -2,6 +2,62 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 21–24 (loop, 12:44 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 21, 22, 23, 24. Progress 679 → **683 of 1,989 (34.3%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Departures from the Ge'ez:** none. A missing negative read where the verse requires it, noted: 21:30 *ʾəlla yətʿaddawu*, **who transgress**, read as **who did not transgress** (said of Abraham, David, Samuel and the rest). 24:7 *wa-nagafa* read as *wa-nagara*, **and the word** (of Asaph).
+
+**Numbers:** 24:1, the size of the army Gideon defeated, is lost (*))*), left as *[number lost]*; the note gives Judges 8:10's 120,000.
+
+**Literal where the sense is unclear (noted):** 21:5 *ʾi-konu kamāhu*, Manasseh's captors **were not as he was**.
+
+**Choices for you:**
+- **21:30** (above): say if you want the Ge'ez left as it stands.
+- **21:2 *Qarneʾon*:** a people among David's enemies, kept in Ge'ez.
+- **24:1 *qwəlāfān*:** rendered **the uncircumcised**, the word used of the Philistines, though Gideon's enemies are Midian.
+
+### 1 Meqabyan 21: Those Who Trusted in God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ʾElofəlāwyān… Qarneʾon* | the foreigners… the *Qarneʾon* (noted) |
+| 4 | *Soryāwi ʿəbuy* | the proud Syrian (noted) |
+| 5 | *ʾi-konu kamāhu* | were not as he was (noted) |
+| 6 | *fəṣma wa-kawālā* | wholeness and a rear guard |
+| 10 | *yāstaʿabbədəwwo yāstaʿabbədomu* | make a fool of Him… makes fools of (noted) |
+| 15 | *ḥəbləyā* | a prey |
+| 25 | *za-yəgʿəzo* | no one is master over Him |
+| 30 | *ʾəlla yətʿaddawu* | who did not transgress (noted) |
+
+### 1 Meqabyan 22: Remember the Good Kings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *samomu* | the name |
+| 7 | *ba-bāḥr ʾəsāt* | in the sea of fire |
+| 9 | *za-yāstaʾazzəb* | leaves none of them |
+| 10 | *qanāʿi* | a jealous God (noted) |
+
+### 1 Meqabyan 23: The Way of Cain and the Way of Abel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *za-ba-yawwāhat talawo* | His brother followed him in gentleness |
+| 5 | *maṣḥuf ba-matākəftihomu* | written on their shoulders (noted) |
+| 7 | *qāla wa-dangəḍ* | a word of terror |
+
+### 1 Meqabyan 24: Men Who Change Their Clothes
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *))… qwəlāfān* | *[number lost]*… the uncircumcised (noted) |
+| 7 | *wa-nagafa ʾAsāf* | and the word of Asaph (noted) |
+| 8 | *yəwelləṭu ləbsatomu* | changing their clothes (noted) |
+| 13 | *balāʿyāna māʿkot* | eaters of bribes |
+| 15 | *dənḍāwyān* | harsh |
+| 16 | *maṣabbəḥān* | tax-gatherers |
+
 ## 1 Meqabyan 17–20 (loop, 12:40 PM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 17, 18, 19, 20. Progress 675 → **679 of 1,989 (34.1%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
