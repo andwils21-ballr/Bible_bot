@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 4–7 — rendered 2026-10-07, 2:16 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). All four have titles, so each is one verse shorter than the Hebrew count (checker flag expected). Written and read forms at 5:8 and 6:3 differ in spelling only; noted briefly, read form followed.
+
+**What these psalms are:** an evening prayer, "In peace I will both lie down and sleep" (4); a morning prayer, "in the morning You hear my voice" (5); the first penitential psalm, "do not rebuke me in Your anger" (6); David's oath of innocence and appeal to God the righteous judge (7).
+
+**Title words:** *la-menatse'ach* "for the director"; *neginot* "stringed instruments"; *nechilot* "flutes"; *sheminit* "the eighth"; *shiggayon* kept as "Shiggaion." Each has a note.
+
+**Word table applied:** 5:4 *yegurkha* "live as a guest"; 5:6 *yeta'ev* "abhors" (root of *to'evah*); *chesed* "loyal love" throughout.
+
+**Uncertain lines, with the other reading in the note:** 4:8 "alone"; 7:4 "plundered" (or "rescued"); 7:11 (the Greek reverses it); 7:12 (subject of "turn back").
+
 ## Psalms 1–3 — rendered 2026-10-07, 2:13 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). `source_text.py` shows the Greek witness covers only Psalm 151.
