@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 29–31 — rendered 2026-10-07, 2:00 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 30:22 (*tushiyyah* / *teshuwwah*) and 30:11 differ in meaning; read form followed, with a note. Spelling only, no note: 31:11 (twice), 31:20.
+
+**What these chapters are:** Job's last speech. What he was: honored at the gate, eyes to the blind and a father to the needy (ch. 29). What he is: mocked by outcasts, cast into the mud, "You have turned cruel to me" (ch. 30). His oath of innocence, sin by sin, signed with his mark: "Let the Almighty answer me!" (ch. 31). "The words of Job are ended."
+
+**Word choice:** 30:10 *ti'avuni* "abhor," as at 9:31 and 19:19; 31:32 *ger* "guest," per the word table.
+
+**Uncertain lines, with the other reading in the note:** 29:18 "as the sand" (or "the phoenix"); 29:24; 30:17 (subject of "pierces"); 30:18; 31:33 "as Adam did" (or "as men do").
+
+**Three chapters this cycle:** chapter 31 is forty verses, and the speeches of Elihu begin with chapter 32, a new section; I stopped at the break.
+
 ## Job 25–28 — rendered 2026-10-07, 1:57 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 26:12, 26:14 (twice) and 27:15 differ in spelling only; read form followed, no note.
