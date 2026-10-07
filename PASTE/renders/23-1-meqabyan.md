@@ -2,6 +2,57 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Meqabyan 9–12 (loop, 12:31 PM Central, 2026-10-07)
+
+**Landed:** 1 Meqabyan 9, 10, 11, 12. Progress 667 → **671 of 1,989 (33.7%)**. The loop was idle about half an hour before this run: the container restarted and the timer was lost. The 6–8 commit was pushed first. Esther 11–16 still waits on your choice.
+
+**From here on, no Amharic check.** Your Amharic covers chapters 1–8 only; 9–12 are worked from the Ge'ez alone. Where a word or name cannot be read with confidence it is kept in Ge'ez with a note, not guessed.
+
+**Cut and damaged:** 10:3 has a numeral lost to stray marks (*babba))*), left as *[number lost]*: there is no Church reading held for this chapter to restore it from.
+
+**Departures from the Ge'ez:** none. Obvious copying slips read as the word they plainly are (12:3 *wa-m* as *dam*, **blood**; 12:33 *dug* as *ṣug*, **robbery**; 12:35 *faḫarkuki* as *ḫarayəkuki*, **I chose you**).
+
+**Choices for you:**
+- **Names and words kept in Ge'ez:** 9:3 *Qoṗros* and *Dimāso* (in a list of sinners; *Qoṗros* is Cyprus elsewhere), 9:5 *ʾAtnāwyān* (named with the Medes; perhaps Athenians). Say if you want a guess put in the text instead.
+- **11:1 *ʾArmon*:** taken as **Hermon**; the Hebrew word *armon* means a fortress. Noted.
+
+### 1 Meqabyan 9: The Rain of Mercy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Gilābu* | Gilboa (noted) |
+| 2 | *yəṭal wa-torāt wa-ḫayyālāt* | the ibex, the wild oxen and the deer (noted) |
+| 3 | *Qoṗros wa-Dimāso* | kept in Ge'ez (noted; choice above) |
+| 7 | *ʾaʾəyyuya ḥəllinā* | poor of mind |
+| 8 | *ba-ʾafa Mikāʾel* | by the mouth of Michael (noted) |
+
+### 1 Meqabyan 10: The Bones of the Fathers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *babba))* | by the *[number lost]* (noted) |
+| 6 | *ʾəm-ḫaba ʾi-hallo wəsta halləwo za-baʾamān* | from where he was not into true being (noted) |
+
+### 1 Meqabyan 11: The Vine of Sodom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ʾArmon wa-ʿarafātihā* | Hermon and its walls (noted) |
+| 4 | *ba-maḫtota ṭəbabu* | with the lamp of His wisdom (noted) |
+| 8 | *ḫəmza ʾarwe mədr* | the venom of serpents |
+
+### 1 Meqabyan 12: Daughter of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *ba-zamana mansut* | in a time of trial |
+| 8 | *la-qwərāra* | cold |
+| 9 | *təʾəḫəz baliʿa* | spreads and devours |
+| 12 | *Dāgon za-ʾIloflí* | Dagon of the foreigners (noted) |
+| 19 | *ʿəqəft* | a snare |
+| 27 | *tabaʿādki* | you have made yourself a stranger |
+| 28 | *ṭasayəkkəwwomu* | I burned them up |
+
 ## 1 Meqabyan 6–8 (loop, 11:54 AM Central, 2026-10-07)
 
 **Landed:** 1 Meqabyan 6, 7, 8. Progress 664 → **667 of 1,989 (33.5%)**. Three chapters, not four: these are long, dense Ge'ez (the heavenly halls and their stones, the speech to kings, the likenesses of the resurrection), and the spec says to stop a chapter early rather than rush. Esther 11–16 still waits on your choice.
