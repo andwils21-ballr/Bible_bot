@@ -2,6 +2,67 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Judith 5–8 (loop, 11:22 AM Central, 2026-10-07)
+
+**Landed:** Judith 5, 6, 7, 8. Progress 638 → **642 of 1,989 (32.3%)**. Next is Judith 9.
+
+**Departures from the Greek:** none. **Choices for you:** none.
+
+### Judith 5: Achior Tells of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *skandala* | traps |
+| 4 | *kai dia ti katenōtisanto* | Why have they refused (*And* cut) |
+| 7, 8, 10 | *parōkēsan* | lived as guests (fixed term; noted) |
+| 11 | *katesophisanto autous en ponō kai plinthō* | took advantage of them with hard labor and brickmaking |
+| 20 | *agnoēma* | any error |
+| 21 | *hyperaspisē* | will defend (noted) |
+| 22 | *kai egeneto hōs epausato* | When Achior had finished (formula cut) |
+| 22 | *synkopsai auton* | he should be cut to pieces |
+| 24 | *eis katabrōma* | will be devoured |
+
+### Judith 6: Achior Handed Over
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tou dēmou allophylōn* | the whole crowd of foreigners |
+| 2 | *hoi misthōtoi Ephraim* | the hirelings of Ephraim ***KEPT AS IS***: odd in the Greek; no other witness held |
+| 4 | *ta horia autōn methysthēsetai* | Their mountains will be drunk |
+| 6 | *ho sidēros* | the iron |
+| 9 | *mē sympesetō sou to prosōpon* | do not look so downcast |
+| 17 | *emegalorēmonēsen* | the boasts… made |
+| 19 | *tōn hēgiasmenōn soi* | those who are consecrated to You (noted) |
+
+### Judith 7: The Siege of Bethulia
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *chōris tēs aposkeuēs* | not counting the baggage |
+| 4 | *eklixousin* | will lick up (noted) |
+| 9 | *thrausma* | loss |
+| 14 | *takēsontai* | will waste away |
+| 19 | *ōligopsychēsen to pneuma autōn* | their spirit failed (noted) |
+| 21 | *en metrō* | by measure |
+| 28 | *martyrometha hymin* | We call to witness against you (noted) |
+
+### Judith 8: Judith
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Ioudeith* | Judith (noted) |
+| 3 | *ho kausōn* | the heat (noted) |
+| 6 | *chōris prosabbatōn kai sabbatōn kai pronoumēniōn* | except the day before the sabbath and the sabbath, the day before the new moon |
+| 7 | *emenen ep' autōn* | she kept them up |
+| 10 | *tēn habran autēs* | her maid |
+| 16 | *mē enechyrazete* | Do not try to bind |
+| 16 | *apeilēthēnai… diaitēthēnai* | to be threatened… to be bargained with (noted) |
+| 21 | *zētēsei tēn bebēlōsin autōn ek tou haimatos hēmōn* | He will require of our blood its profaning |
+| 22 | *eis proskomma* | an offense |
+| 27 | *eis nouthetēsin* | to admonish them (noted) |
+| 29 | *to plasma tēs kardias sou* | the inclination of your heart |
+| 33 | *episkepsetai Kyrios ton Israēl en cheiri mou* | the Lord will deliver Israel by my hand (noted) |
+
 ## Judith 1–4 (loop, 11:18 AM Central, 2026-10-07)
 
 **Landed:** Judith 1, 2, 3, 4. Progress 634 → **638 of 1,989 (32.1%)**. Next is Judith 5.
