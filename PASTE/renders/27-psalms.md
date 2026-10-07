@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 60–63 — rendered 2026-10-07, 3:00 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalm 60's title takes two Hebrew verses (two behind); 61–63 one behind (flags expected). Written and read form at 60:5 ("answer me" / "answer us"), noted.
+
+**What these psalms are:** a lament after defeat with God's oracle over the lands, "With God we will do valiantly" (60); "lead me to the rock that is higher than I" (61); "For God alone my soul waits in silence" (62); "God, You are my God; I seek You early; my soul thirsts for You" (63).
+
+**Word table:** 61:4 *agurah* "let me live as a guest."
+
+**Noted:** 60:5–12 is repeated as Psalm 108:6–13, and 60:8 differs there ("over Philistia I shout"); 62's two refrains vary slightly, and the English shows it.
+
+**Uncertain lines, with the other reading in the note:** 60:4 "because of the bow."
+
 ## Psalms 56–59 — rendered 2026-10-07, 2:58 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (flags expected). Written and read forms at 56:6, 58:7, 59:10 (*chasdi*, read form followed, noted) and 59:15, otherwise spelling only.
