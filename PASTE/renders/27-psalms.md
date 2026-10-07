@@ -2,6 +2,19 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 8–10 — rendered 2026-10-07, 2:18 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 9:12, 9:18 (*aniyyim* / *anavim*, noted), 10:5, 10:10 and 10:12.
+
+**What these psalms are:** "What is man, that You remember him?" (8); the LORD enthroned as judge (9) and the cry against the wicked who says "There is no God" (10), one acrostic poem in two parts.
+
+**Numbering, for your attention:** the Greek, and with it the Ethiopian Psalter, count Psalms 9 and 10 as one psalm, so from Psalm 10 to 147 their numbers run one behind the Hebrew and English (the Ethiopian Psalm 22 is the English 23). The spec says to follow the English, and that is done; the note at 9:1 says so. A reader of the Ethiopian Psalter will find the numbers off by one; a cross-reference line in each psalm's notes could help, if you want it.
+
+**Decisions made, open to you:**
+- **8:5 "little less than God"** for *me-Elohim*; the Greek has "than the angels," which Hebrews 2:7 quotes. The Hebrew is followed.
+- **8:4–6 pronouns** lowercase (*man… the son of man… him*), as Psalm 2.
+- **10:3 "curses"** for *berekh*, the scribes' "bless," as in Job.
+
 ## Psalms 4–7 — rendered 2026-10-07, 2:16 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). All four have titles, so each is one verse shorter than the Hebrew count (checker flag expected). Written and read forms at 5:8 and 6:3 differ in spelling only; noted briefly, read form followed.
