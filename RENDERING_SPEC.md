@@ -501,9 +501,11 @@ So the examples have two jobs, kept apart:
   - **Nehemiah:** *Remember me, my God* (5:19; 13:14, 22, 31), the same
     opening each time; what follows it is rendered as each verse has it
     (*for good*, 5:19 and 13:31).
-  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times. The
-    note at 1:2 says it is the same word as Abel's name, *Hevel* (Genesis 4:2),
-    as the Genesis 4:2 note already says from the other side.
+  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times.
+    Chapter 1 carries a short note on v2 that points the reader back, since
+    Genesis is far behind by then (Andrew, 2026-10-07): **v2 "Vanity"** —
+    *hevel*, the word that was Abel's name (Genesis 4:2). There it names a
+    man; here it is a word in the sentence.
   - **Matthew:** *And it came to pass, when Jesus had finished these words*,
     closing each of the five speeches (7:28; 11:1; 13:53; 19:1; 26:1).
 - **The fixed models hold the rules**: format, word rules, readability,
