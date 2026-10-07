@@ -2,6 +2,25 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 6–9 — rendered 2026-10-07, 1:41 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex).
+
+**What these chapters are:** Job answers Eliphaz: his friends are like a wadi that runs dry when it is needed (ch. 6); man's life is hard service, "What is man, that You make so much of him?" (ch. 7). Bildad: God does not pervert justice; ask the fathers (ch. 8). Job: how can a man win his case with God? There is no arbiter between us (ch. 9).
+
+**Written and read forms that differ in meaning (read form followed, with a note):**
+- 6:21 written "not" (you have become nothing), read "to it" (you have become like that).
+- 6:29 written "my turning back," read "turn back."
+Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
+
+**Noted, open to you:**
+- 7:20 "a burden to myself": the scribes' tradition says the original was "to You," which the Greek has. Rendered as the Hebrew stands.
+- 9:19 "who will summon me?": the Hebrew has "me"; the Greek reads it of God.
+- 9:33 "There is no arbiter": the Greek has "Would that there were."
+- 6:14 the sense of the line is uncertain; the other reading is in the note.
+
+**Word choice:** 9:31 *ti'avuni* is "abhor," keeping "detestable" for *to'evah* and "loathe" for *sheqets* as the word table has them; 7:16 and 9:21 "loathe" are *ma'as*, the ordinary verb, and are not the table's word.
+
 ## Job 2–5 — rendered 2026-10-07, 1:37 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms differ at 2:7 (*ad* written twice) and 5:18; spelling only, read form followed, no note.
