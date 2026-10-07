@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 132–136 — rendered 2026-10-07, 3:55 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). The Songs of Ascents end at 134. All short titles share verse 1; 135 and 136 have none; no offsets.
+
+**What these psalms are:** David's vow to find a home for the ark, and God's oath to David and choice of Zion (132); "How good and how pleasant it is when brothers live together in unity" (133); the night blessing that closes the Songs of Ascents (134); praise for God's choice of Israel, His rule over creation and history, and the emptiness of idols (135); the great litany, "for His loyal love endures forever," twenty-six times (136).
+
+**Parallels (English reused where the Hebrew is the same, differences in the notes):** 132:2 Genesis 49:24 ("the Mighty One of Jacob"); 132:8–10 2 Chronicles 6:41–42; 134:3 128:5; 135:13 Exodus 3:15; 135:14 Deuteronomy 32:36; 135:15–18 115:4–8; 136:2–3 Deuteronomy 10:17; 136:12 Deuteronomy 4:34; 136:15 Exodus 14:27 ("shook off").
+
+**Word table:** 135:4 *segullah* "own treasure," as in Exodus 19:5.
+
+**Noted:** 132:9, 16 keep "faithful ones" for *chasidim*, as everywhere in the Psalms, though 2 Chronicles 6:41 has "loyal ones" (the line differs there anyway: "salvation" for "righteousness"); 132's king stays lowercase.
+
 ## Psalms 126–131 — rendered 2026-10-07, 3:52 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Songs of Ascents continued. All six short titles share verse 1; no offsets. Written and read forms at 126:4 and 129:3 are spelling only.
