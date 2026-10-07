@@ -2,6 +2,100 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Song of Songs 5–8 — rendered 2026-10-07, 6:07 PM CDT — Song of Songs complete
+
+**Source:** Hebrew (Westminster Leningrad Codex), poetry. **Numbering:** English 6:13 is Hebrew 7:1, and English 7:1–13 is Hebrew 7:2–14; the checker's flags on 6 (13 vs 12) and 7 (13 vs 14) are that offset, expected, and logged in NOTES_FOR_ANDREW.md for HANDOFF.md. No written/read forms with a difference in meaning. Greek checked in Swete (whose chapters 6–7 are numbered one lower) for every note that cites it.
+
+**What these chapters are:** the garden entered, the night knock and the lost beloved, the watchmen, "This is my beloved, and this is my friend" (5); "I am my beloved's, and my beloved is mine," the sixty queens, "Return, return, Shulammite" (6); the praise from feet to head, "I am my beloved's, and his longing is for me," the mandrakes (7); "Set me as a seal upon your heart… love is strong as death," "Many waters cannot quench love," the little sister, "my own vineyard" (8).
+
+**Repeated lines kept as their Hebrew has them:** 5:7a = 3:3a; 5:8 "sick with love" = 2:5; 6:3 = 2:16 turned around; 6:5–7 = 4:1–3 with the Hebrew's own differences ("from Gilead," "ewes"); 7:3 = 4:5a; 8:3 = 2:6; 8:5a = 3:6a; 8:12 "my own vineyard" = 1:6; 8:14 echoes 2:17. **8:4** differs from 2:7 and 3:5 in the Hebrew (no gazelles; *mah*, "why," for *im*), and the English shows it.
+
+**Word table:** *pilagshim* "secondary wives" (6:8, 9), per the fixed terms. **7:10 *teshuqah* "longing,"** as Genesis 3:16 and 4:7 render it, the only other places it occurs; the 2:16 note that points to 7:10 was changed to match ("his longing is for me," not "his desire"). *dodim* "love" (7:12); "beloved ones" (5:1, vocative). *Yah* kept (8:6).
+
+**The "And" check:** none.
+
+### Song of Songs 5: This Is My Beloved
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shetu veshikhru dodim* "drink and be drunk, loves" | drink, and be drunk, beloved ones (note) |
+| 1 | *ya'ri* "my honeycomb (wood-comb)" | my honeycomb |
+| 2 | *tammati* "my whole one" | my perfect one |
+| 4 | *shalach yado min hachor* "sent his hand from the hole" | put his hand in through the opening |
+| 4 | *me'ai hamu alav* "my inward parts murmured over him" | my heart was stirred for him (note) |
+| 6 | *chamaq avar* "turned, passed" | had turned and gone |
+| 6 | *nafshi yatse'ah vedabbero* "my soul went out in his speaking" | My soul went out when he spoke |
+| 10 | *tsach ve'adom* "dazzling and red" | radiant and ruddy |
+| 10 | *dagul merevavah* "bannered from ten thousand" | raised like a banner among ten thousand (note) |
+| 11 | *ketem paz* "gold, fine gold" | finest gold |
+| 11 | *taltallim* "hanging locks / palm fronds" | wavy |
+| 12 | *yoshevot al millet* "sitting on fullness" | ***KEPT AS IS*** sitting by the full pools (note) |
+| 13 | *migdelot merqachim* "towers of perfumes" | ***KEPT AS IS*** towers of perfume |
+| 14 | *me'av eshet shen* "his inner parts a plate of ivory" | his body is a plate of ivory |
+| 16 | *chikko mamtaqqim* "his palate, sweetnesses" | His mouth is sweetness itself |
+
+### Song of Songs 6: Return, Return, Shulammite
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ayummah kannidgalot* "terrible as the bannered ones" | ***KEPT AS IS*** awesome as the bannered hosts (note) |
+| 5 | *shehem hirhivuni* "for they have stormed me" | for they overwhelm me |
+| 9 | *achat hi* "one is she" | is the only one |
+| 9 | *barah hi leyoladtah* "pure is she to her who bore her" | the pure one of her who bore her |
+| 9 | *vay'asheruha* "and they called her happy" | and called her blessed |
+| 10 | *hannishqafah kemo shachar* "who looks down like dawn" | who looks down like the dawn |
+| 10 | *kallevanah… kachammah* "as the white one… as the hot one" | as the moon… as the sun (note) |
+| 11 | *ginnat egoz* "a garden of nut" | the nut orchard |
+| 12 | *lo yada'ti nafshi samatni markevot ammi nadiv* "I did not know; my soul set me chariots of my people noble" | ***KEPT AS IS*** Before I knew it, my soul had set me among the chariots of my noble people (note) |
+| 13 | *hashulammit* "the Shulammite" | Shulammite (note) |
+| 13 | *kimcholat hammachanayim* "like the dance of the two camps" | as on the dance of the two camps |
+
+### Song of Songs 7: His Longing Is for Me
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pe'amayikh* "your steps" | your feet |
+| 1 | *bat nadiv* "daughter of a noble" | noble daughter (note) |
+| 2 | *shorrekh aggan hassahar* "your navel, a bowl of roundness" | Your navel is a rounded bowl |
+| 2 | *al yechsar hammazeg* "let not lack the mixed wine" | may it never lack mixed wine |
+| 5 | *roshekh alayikh kakkarmel* "your head upon you like Carmel" | Your head crowns you like Carmel |
+| 5 | *dallat roshekh* "the hanging (hair) of your head" | the flowing hair of your head |
+| 5 | *melekh asur barehatim* "a king bound in the troughs" | a king is held captive in its tresses (note) |
+| 6 | *ahavah batta'anugim* "love, in the delights" | love, among delights |
+| 7 | *zot qomatekh damtah letamar* "this, your stature, is like a palm" | Your stature is like a palm tree |
+| 8 | *sansinnav* "its fruit stalks" | its fruit |
+| 8 | *re'ach appekh* "the smell of your nose" | the fragrance of your breath |
+| 9 | *chikkekh* "your palate" | your mouth |
+| 9 | *dovev siftei yeshenim* "making glide the lips of sleepers" | ***KEPT AS IS*** gliding over the lips of sleepers (Greek in the note) |
+| 10 | *ve'alai teshuqato* "and upon me his longing" | and his longing is for me (as Genesis 3:16) |
+| 11 | *bakkefarim* "in the villages / among the henna" | in the villages (note) |
+
+### Song of Songs 8: Love Is Strong as Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi yittenkha* "who will give you" | If only you were |
+| 2 | *telammedeni* "she / you would teach me" | ***KEPT AS IS*** she would teach me (note) |
+| 2 | *me'asis rimmoni* "from the juice of my pomegranate" | the juice of my pomegranate |
+| 4 | *mah ta'iru umah te'oreru* "why stir up, and why awaken" | why should you stir up or awaken (note) |
+| 5 | *mitrappeqet al dodah* "leaning on her beloved" | leaning on her beloved |
+| 5 | *chibbelatkha immekha* "your mother travailed with you" | your mother was in labor with you |
+| 6 | *qashah khish'ol qin'ah* "hard as Sheol is jealousy" | jealousy is fierce as Sheol |
+| 6 | *reshafeiha rishpei esh* "its flames, flames of fire" | Its flashes are flashes of fire |
+| 6 | *shalhevetyah* "flame of Yah / mighty flame" | the flame of Yah (choice below) |
+| 7 | *boz yavuzu lo* "scorning they would scorn him" | he would be utterly scorned |
+| 8 | *bayyom sheyyedubbar bah* "on the day it is spoken for her" | on the day when she is spoken for |
+| 9 | *tirat kesef* "a row of silver (battlement)" | a battlement of silver |
+| 10 | *kemotse'et shalom* "as one finding peace" | as one who finds peace (note) |
+| 11 | *elef kesef* "a thousand of silver" | a thousand pieces of silver |
+| 12 | *karmi shelli lefanai* "my vineyard which is mine, before me" | My own vineyard is before me |
+| 14 | *berach* "flee" | ***KEPT AS IS*** Flee (note) |
+
+**Choices for you:**
+- **8:6 "the flame of Yah"** — *shalhevetyah* can be "the flame of Yah" (God's short name, as in Hallelujah) or "a mighty flame" (*-yah* as a superlative). The text has the name, since the letters are there and the spec keeps *Yah*; if it is the name, it is the only place God is named in the Song. Now: *Its flashes are flashes of fire, the flame of Yah.*
+- **8:14 "Flee, my beloved"** — *berach* means "flee" or "run," and the Greek has "flee"; older English Bibles have "Make haste." Now: *Flee, my beloved, and be like a gazelle or a young stag on the mountains of spices.*
+- **6:4, 6:10 "awesome as the bannered hosts"** — *nidgalot*, "those under banners": troops (the Greek "ranks set in order"), or the hosts of the sky beside the dawn, moon and sun. Older English: "terrible as an army with banners."
+
 ## Song of Songs 1–4 — rendered 2026-10-07, 5:58 PM CDT (report 6:01 PM CDT)
 
 **Source:** Hebrew (Westminster Leningrad Codex), poetry throughout, set in lines. A new writer: the style is taken from the Hebrew itself, short lines of praise and longing, with refrains that return word for word (2:7 = 3:5; 2:17a = 4:6a; 1:15 = 4:1a; "him whom my soul loves," 1:7 and four times in 3:1–4). Written and read forms at 1:17, 2:11, 2:13 and 4:9, spelling only. Greek checked in Swete for every note that cites it (1:2, 1:5, 1:7, 2:1, 2:4, 2:7, 2:12, 2:17, 3:9, 3:10, 4:9, 4:12, 4:13).
