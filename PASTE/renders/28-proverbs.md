@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Proverbs 17–20 — rendered 2026-10-07, 5:24 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 17:13, 17:27 ("cool in spirit"), 18:17, 18:19, 19:7 ("words are all he has" read, "they are not there" written), 19:16 ("will die" read, "will be put to death" written), 19:19, 20:4, 20:16 ("a foreign woman" read, "foreigners" written), 20:20, 20:21 ("hastily" read, "by greed" written) and 20:30, each noted where the meaning differs.
+
+**What these chapters are:** single sayings — "A friend loves at all times, and a brother is born for adversity," "A glad heart is good medicine" (17); "The name of the LORD is a strong tower," "Death and life are in the power of the tongue," "a friend who sticks closer than a brother" (18); "Whoever is gracious to the poor lends to the LORD," "the purpose of the LORD will stand" (19); "Wine is a mocker," "The breath of man is the lamp of the LORD" (20).
+
+**Repeated lines kept identical:** 17:15b = 20:10b; 18:11a = 10:15a; 18:12b = 15:33b; 18:22b = 8:35b; 19:5a = 19:9a; 19:12a = 20:2a; 20:19a = 11:13a; 20:20b and 13:9b; 17:7 and 19:10 share the form "not fitting… still less."
+
+**Word table:** 17:7, 21 *naval* "fool," as in Psalm 14:1 (a third Hebrew word for "fool," noted); 20:27 *neshamah* "breath," as in Psalm 150:6; 17:15, 20:10, 20:23 *to'evah* "detestable"; 17:11 *mal'akh* "messenger."
+
+**Uncertain lines, with the other reading in the note:** 17:19; 18:1; 18:19; 19:7; 19:18.
+
 ## Proverbs 13–16 — rendered 2026-10-07, 4:18 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 13:20 ("whoever walks… becomes wise" read), 14:21 and 16:19 ("humble" read, "afflicted" written), 15:14 ("mouth" read, "face" written) and 16:27 (singular "lip" read), all noted.
