@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 107–110 — rendered 2026-10-07, 3:38 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). The fifth book of the Psalms begins at 107. 108's title is Hebrew verse 1 (one behind, flag expected); 107 has none; the titles of 109 and 110 share verse 1.
+
+**What these psalms are:** four pictures of rescue with one refrain, "Let them give thanks to the LORD for His loyal love" (107); a psalm joined from 57 and 60 (108); a prayer against false accusers, with the harshest curses in the Psalms (109); "The LORD says to my lord: Sit at My right hand… You are a priest forever after the order of Melchizedek" (110).
+
+**Parallels:** 107:40 and 107:42 follow the English of Job 12:21, 24 and 5:16; Psalm 108 follows 57:7–11 and 60:5–12, changed only where the Hebrew differs (listed in the note).
+
+**Divine names:** 109:21 *YHWH Adonai* "GOD the Lord," as in 68:20; 110:5 *Adonai* "the Lord."
+
+**Noted:** 109:6 *satan* without the article is "an accuser" (a court prosecutor), with the Greek *diabolos* in the note; 109:6–19 has both readings (the psalmist's curse, or the enemies' words quoted) in the note, and no quotation marks are added. 110's king stays lowercase ("my lord… your enemies"), as in Psalms 2 and 45, with the New Testament use in the note.
+
+**Uncertain lines, with the other reading in the note:** 110:3 (the hardest verse here; Greek "from the womb before the morning star I begot you").
+
 ## Psalms 105–106 — rendered 2026-10-07, 3:35 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Two chapters this cycle (45 and 48 verses). No titles, no offsets. Written and read forms at 105:18 and 106:45 (spelling only) and 105:28 ("His word" read, "His words" written).
