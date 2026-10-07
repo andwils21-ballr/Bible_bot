@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 79–82 — rendered 2026-10-07, 3:17 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 80 and 81 have titles as Hebrew verse 1 (one behind, flags expected); the short titles of 79 and 82 share verse 1. Written and read form at 79:10 is spelling only.
+
+**What these psalms are:** a lament over Jerusalem in ruins, "Help us, God of our salvation, for the glory of Your name" (79); "Shepherd of Israel" and the vine brought out of Egypt, with the refrain "restore us; make Your face shine" (80); a festival call with God's own word, "Open your mouth wide, and I will fill it" (81); God judging "the gods" in the divine council, "You are gods… you will die like mortals" (82).
+
+**Parallels:** 79:6–7 is nearly Jeremiah 10:25 (not yet rendered; the difference is in the note); 80:1 follows 1 Samuel 4:4, "enthroned on the cherubim"; 81:9–10 follows Exodus 20:2–3 except "brought you up," as the Hebrew has.
+
+**Noted:** 80's refrain grows each time (God → God of hosts → LORD God of hosts), and the English shows it; 80:15–17 "the son… the man of Your right hand" stays lowercase; 82:6 is quoted in John 10:34–35, with both readings of who the "gods" are in the note.
+
+**Uncertain lines, with the other reading in the note:** 81:5 "I heard a language I did not know"; 81:15 "their time of doom."
+
 ## Psalms 76–78 — rendered 2026-10-07, 3:14 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Three chapters this cycle, since Psalm 78 runs 72 verses. Psalms 76 and 77 have titles as Hebrew verse 1 (one behind, flags expected); 78's short title shares verse 1. Written and read forms at 77:11 ("I will remember" read, "make mention" written, noted); 77:1 and 77:19 are spelling only.
