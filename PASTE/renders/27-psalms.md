@@ -2,6 +2,16 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 52–55 — rendered 2026-10-07, 2:55 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Titles: 52 and 54 take two Hebrew verses (two behind); 53 and 55 one behind (flags expected). Written and read forms at 54:5 (*yashiv* "He will repay") and 55:15 (*yashi mavet*), noted.
+
+**What these psalms are:** against Doeg the Edomite, "I am like a green olive tree in the house of God" (52); Psalm 14 again with *God* for *the LORD* (53); "God is my helper," when the Ziphites betrayed David (54); "Oh that I had wings like a dove!… it is you, my companion" (55).
+
+**Parallel passage:** Psalm 53 reuses the English of Psalm 14 where the Hebrew is the same; the differences show (53:1, 3, 4, 5, 6), and the notes list them.
+
+**Word table:** 53:1 *hit'ivu* "detestable"; 55:15 *megurim* "lodging," with the link to *gur* in the note.
+
 ## Psalms 48–51 — rendered 2026-10-07, 2:52 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Psalms 48 and 49 one behind (title as Hebrew verse 1); Psalm 50's short title shares verse 1; Psalm 51's title takes two Hebrew verses, so it is two behind (19 English verses against 21). Written and read forms at 49:14 and 51:2, spelling only.
