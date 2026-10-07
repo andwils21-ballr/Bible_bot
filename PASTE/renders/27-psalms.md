@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 48–51 — rendered 2026-10-07, 2:52 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Psalms 48 and 49 one behind (title as Hebrew verse 1); Psalm 50's short title shares verse 1; Psalm 51's title takes two Hebrew verses, so it is two behind (19 English verses against 21). Written and read forms at 49:14 and 51:2, spelling only.
+
+**What these psalms are:** Zion, "the city of the great King" (48); "no man can ransom his brother… but God will ransom my soul" (49); God the Judge, "I will not take a bull from your house" (50); David's repentance, "Create in me a clean heart, God" (51), the fourth penitential psalm.
+
+**Departure, with a note:** 49:11 "their graves" with the Greek and Syriac (*qivram*), for the Hebrew "their inward thought" (*qirbam*).
+
+**Word table applied:** 51:11 *ruach qodshekha* "Your Holy Spirit," capitalized; 51:10 and 51:12 "a steadfast spirit," "a willing spirit" lowercase (the psalmist's own).
+
+**Refrain:** 49:12 and 49:20 differ by one Hebrew letter ("does not stay the night" / "without understanding"), and the English shows it.
+
 ## Psalms 44–47 — rendered 2026-10-07, 2:49 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). All four have titles as Hebrew verse 1 (flags expected).
