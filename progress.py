@@ -22,6 +22,8 @@ for b in books:
     all_total += b["chapters"]
     if b["tier"] == "none":
         mark = "stub" if os.path.isdir(folder) else "—"
+    elif b.get("hold"):
+        mark = f"on hold ({done}/{b['chapters']}): {b['hold']}"
     elif done >= b["chapters"] and b["chapters"]:
         mark = "done"
     else:

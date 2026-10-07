@@ -2,7 +2,7 @@
 
 **634 of 1989 chapters rendered (31.9%).**
 
-Next up: **Ezra Sutuel 1**
+Next up: **Judith 1**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Next up: **Ezra Sutuel 1**
 | 16 | 1 Enoch | witnesses | done |
 | 17 | Ezra | source | done |
 | 18 | Nehemiah | source | done |
-| 19 | Ezra Sutuel | witnesses | 0/16 |
+| 19 | Ezra Sutuel | witnesses | on hold (0/16): skipped until better sources are found (Andrew, 2026-10-07) |
 | 20 | Tobit | source | done |
 | 21 | Judith | source | 0/16 |
 | 22 | Esther | source | 0/16 |

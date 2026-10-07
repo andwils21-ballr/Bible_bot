@@ -382,6 +382,8 @@ The aim is the most accurate account of the event the text describes.
 
 ### Tier `witnesses`: 1 Enoch, Jubilees, Ezra Sutuel, 4 Baruch
 
+**Ezra Sutuel is on hold** (Andrew, 2026-10-07): skip it until a better source is found (a corrected Ge'ez, or an English translation of the Ethiopic). Its manifest entry carries `"hold"`, and `progress.py` passes over it.
+
 These survive as partial witnesses that disagree. `source_text.py` prints each
 witness, its scholarly English, and a mechanical divergence list.
 
