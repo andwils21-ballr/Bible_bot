@@ -1,8 +1,8 @@
 # Progress
 
-**655 of 1989 chapters rendered (32.9%).**
+**660 of 1989 chapters rendered (33.2%).**
 
-Next up: **Esther 6**
+Next up: **Esther 11**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -27,7 +27,7 @@ Next up: **Esther 6**
 | 19 | Ezra Sutuel | witnesses | on hold (0/16): skipped until better sources are found (Andrew, 2026-10-07) |
 | 20 | Tobit | source | done |
 | 21 | Judith | source | done |
-| 22 | Esther | source | 5/16 |
+| 22 | Esther | source | 10/16 |
 | 23 | 1 Meqabyan | source | 1/36 |
 | 24 | 2 Meqabyan | source | 0/21 |
 | 25 | 3 Meqabyan | source | 0/10 |
