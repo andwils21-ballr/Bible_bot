@@ -488,6 +488,11 @@ So the examples have two jobs, kept apart:
 - **The book's own recent chapters set the writer's style.** Matthew does not
   write like John, and Chronicles does not read like Leviticus. Read the last
   two chapters of the book being rendered to match its author's voice.
+- **A book may keep a mark of its own** (Andrew, 2026-10-07). Where a book
+  has a feature of style that sets it apart, keep it there even where the
+  general rule would smooth it out: Genesis keeps every *And it came to pass*.
+  The mark must come from the book's own source text, never be added to it.
+  Each one is Andrew's ruling, recorded here by book.
 - **The fixed models hold the rules**: format, word rules, readability,
   pronouns, and what a note may and may not say. They never change unless
   Andrew changes them, so the standard cannot slide. Read them every run:
