@@ -2,6 +2,19 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 18–20 — rendered 2026-10-07, 1:51 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 19:29 (*shaddun*), 20:11 and 20:22 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** Bildad's second speech: the light of the wicked is put out; snares and the king of terrors (ch. 18). Job: God has put me in the wrong; forsaken by brothers, wife, servants and friends; "I know that my Redeemer lives" (ch. 19). Zophar's second and last speech: evil is sweet in the mouth and poison in the stomach (ch. 20).
+
+**Departure from the Hebrew text, with a note:** 19:28 "found in him" follows some Hebrew manuscripts and the Greek; the Leningrad text has "in me." Witness rule 2: the friends are speaking of Job.
+
+**Decisions made, open to you:**
+- **19:25 "my Redeemer… He will stand"** capitalized, following the Church's reading of the *go'el* as Christ. The Hebrew does not say who the *go'el* is; the note says so. Lowercase ("my redeemer… he") would leave it open.
+- **19:15 "the guests in my house"** for *gerei veiti*, and **18:19 "where he lived as a guest"** for *megurav*, following the word table for *ger* / *gur*. 19:15 *nokhri* is "foreigner."
+- **19:26–27** is the hardest passage so far; the note says every translation of it is partly a guess.
+
 ## Job 14–17 — rendered 2026-10-07, 1:48 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 14:5, 15:15, 15:22, 15:31 and 16:16 differ in spelling only; read form followed, no note.
