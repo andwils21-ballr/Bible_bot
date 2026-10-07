@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalm 119 — rendered 2026-10-07, 3:47 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). One chapter this cycle: 176 verses, the longest chapter in the Bible. No title, no offset. Written and read forms at 119:79 ("those who know" read, "they will know" written, noted), 119:147 and 119:161 (spelling only).
+
+**What this psalm is:** an acrostic of twenty-two eight-verse stanzas, one per Hebrew letter, every verse a prayer or vow about God's word — "Your word is a lamp to my feet and a light to my path" (v105), "Oh how I love Your law!" (v97), ending "I have gone astray like a lost sheep; seek Your servant" (v176).
+
+**Format:** the stanza names (Aleph to Taw) are H2 headings, as the spec allows where the text has real movements; the checker and the site build take them without complaint.
+
+**Word table for this psalm:** each of the eight words keeps one English word throughout — *torah* "law," *edut* "testimonies," *piqqudim* "precepts," *chuqqim* "statutes," *mitsvot* "commandments," *mishpatim* "judgments," *davar* "word," *imrah* "promise." Also *ger* "guest" (v19), *ti'ev* "abhor" (v163).
+
+**Noted:** the Waw stanza (vv41–48) begins every verse with "and" in Hebrew; the English starts none with "And."
+
 ## Psalms 117–118 — rendered 2026-10-07, 3:44 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). No titles, no offsets. Two chapters this cycle, so that Psalm 119 (176 verses) can have the next cycle to itself.
