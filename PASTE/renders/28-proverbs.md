@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Proverbs 21–24 — rendered 2026-10-07, 5:27 PM CDT — Proverbs complete (Ethiopian order, 1–24)
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 21:19, 21:29 ("gives thought to his way" read), 22:3, 22:8, 22:11, 22:14, 22:20 ("excellent things" read, "formerly" written; "thirty" is a modern reading, in the note), 22:25, 23:5, 23:6, 23:24, 23:26 ("observe" read, "delight in" written), 24:1 and 24:17, noted where the meaning differs.
+
+**What these chapters are:** the end of Solomon's single sayings, "The king's heart is a stream of water in the hand of the LORD," "Train up a child in the way he should go" (21:1–22:16); the "words of the wise," close to the Egyptian Instruction of Amenemope, with the ruler's table, the drunkard's woes and "Rescue those who are being taken away to death" (22:17–24:22); and a short added collection ending at the sluggard's field (24:23–34).
+
+**Repeated lines kept identical:** 23:10a = 22:28a; 23:18 = 24:14b–c; 24:6b = 11:14b; 24:20b = 13:9b; 24:33–34 = 6:10–11.
+
+**Noted:** 23:11 *go'el* "Redeemer," capitalized as God (22:23 says the LORD pleads their cause); 21:12 "The Righteous One," likely God, with the other reading in the note; 24:34 note says Proverbs ends here in the Ethiopian order and 25–31 form Reproof (*Tegsat*), the next book.
+
+**Uncertain lines, with the other reading in the note:** 21:4 "lamp"; 21:6; 22:20; 23:7; 24:21 "those given to change."
+
 ## Proverbs 17–20 — rendered 2026-10-07, 5:24 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 17:13, 17:27 ("cool in spirit"), 18:17, 18:19, 19:7 ("words are all he has" read, "they are not there" written), 19:16 ("will die" read, "will be put to death" written), 19:19, 20:4, 20:16 ("a foreign woman" read, "foreigners" written), 20:20, 20:21 ("hastily" read, "by greed" written) and 20:30, each noted where the meaning differs.
