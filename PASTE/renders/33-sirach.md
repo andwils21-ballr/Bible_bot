@@ -2,6 +2,92 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 13–16 — rendered 2026-10-07, 6:56 PM CDT
+
+**Source:** Greek (Swete), English verse numbers. No Greek for 13:14 and 16:15–16: numbered placeholders. Echoes in the notes checked against the Greek in `sources/` (Genesis 2:17; James 1:13; 1 John 3:21; 2 Corinthians 6:14) and this project's English where quoted (Genesis 2:17; Psalms 22:22, 62:12, 102:26, 106:18; Proverbs 19:4, 23:6; Deuteronomy 30:19; 1 Kings 8:27; Numbers 16:35; Ecclesiastes 4:8, 9:10, 9:16, 12:12; Song of Songs 2:9).
+
+**The checker** caught one sentence starting with "And" (13:18); fixed before the commit.
+
+**What these chapters are:** "Whoever touches pitch will be defiled," the clay pot and the kettle, how the rich use the poor, "What fellowship has a wolf with a lamb?" (13); the grudging man, "Give and take, and treat yourself well, for in Hades one cannot look for luxury," "Dying you shall die," wisdom pursued like a lover (14); wisdom as mother and bride, "Do not say, 'It was He who led me astray,'" "He has set before you fire and water" (15); the four examples of judgment, "mercy and wrath are with Him," the doubter answered, creation in order (16).
+
+**Repeated on purpose:** 14:17 "Dying you shall die" = Genesis 2:17 as this project renders it (the Greek quotes the same words); 16:11 "mercy and wrath are with Him" = 5:6.
+
+### Sirach 13: The Rich and the Poor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ho koinōnōn hyperēphanō* "the one sharing with a proud man" | whoever keeps company with a proud man |
+| 2 | *ti koinōnēsei chytra pros lebēta?* "what will a pot share with a kettle?" | What has the clay pot in common with the kettle? |
+| 3 | *autos prosenebrimēsato* "he himself snorted" | he himself snorts with indignation |
+| 4 | *ergatai en soi* "he works in you" | he will work you |
+| 5 | *ou ponesei* "will not suffer" | will feel no pain |
+| 9 | *hypochōrōn ginou* "be withdrawing" | hold back |
+| 11 | *mē epeche isēgoreisthai met' autou* "do not undertake to speak equally with him" | Do not presume to speak with him as an equal |
+| 12 | *ho mē syntērōn logous* "who does not keep words" | he who does not keep your words to himself |
+| 13 | *meta tēs ptōseōs sou peripateis* "you walk with your fall" | you are walking with your own downfall |
+| 14 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 19 | *nomai plousiōn ptōchoi* "the pastures of the rich are the poor" | the poor are the pasture of the rich |
+| 21 | *prosapōtheitai hypo philōn* "is pushed away besides by friends" | he is pushed away by his friends as well |
+| 22 | *elalēsen aporrēta* "he spoke unspeakable things" | he says what should not be said |
+| 24 | *en stomasin eusebous* "in the mouths of the godly" | ***KEPT AS IS*** in the mouth of the godly (note) |
+| 26 | *ichnos kardias en agathois* "the track of a heart in good things" | The sign of a heart in good spirits |
+| 26 | *heuresis parabolōn dialogismoi meta kopou* "the finding of proverbs, thoughts with toil" | the devising of proverbs is wearisome thinking |
+
+### Sirach 14: The Decree of Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *katenygē en lypē hamartias* "pierced with grief of sin" | stung by grief for sin |
+| 3 | *mikrologō* "petty-reckoning" | a stingy man |
+| 3 | *baskanō* "envious, evil-eyed" | a grudging man |
+| 4 | *apo tēs psychēs autou* "from his soul" | by depriving himself |
+| 5 | *ho ponēros heautō* "the one evil to himself" | If a man is mean to himself |
+| 7 | *en lēthē poiei* "he does it in forgetfulness" | he does it by forgetfulness |
+| 10 | *enlipēs epi tēs trapezēs autou* "lacking at his table" | there is nothing on his own table |
+| 11 | *kathōs ean echēs eu poiei seauton* "as you have, do well to yourself" | treat yourself well according to your means |
+| 12 | *diathēkē hadou* "the covenant of Hades" | the decree of Hades (note) |
+| 16 | *apatēson tēn psychēn sou* "beguile your soul" | treat yourself well (note) |
+| 17 | *Thanatō apothanē* "by death you shall die" | "Dying you shall die" (as Genesis 2:17) |
+| 20 | *hos en sophia teleutēsei* "who will die in wisdom" | ***KEPT AS IS*** who will end his days in wisdom (note) |
+| 22 | *hōs ichneutēs* "as a tracker" | like a hunter |
+| 25 | *kata cheiras autēs* "at her hands" | beside her |
+
+### Sirach 15: Fire and Water
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ho enkratēs tou nomou* "the one who masters the law" | whoever holds fast to the law |
+| 2 | *hōs gynē partheneias* "as a wife of maidenhood" | like the bride of his youth |
+| 4 | *ep' autēs ephexei* "he will hold on to her" | he will rely on her |
+| 5 | *en mesō ekklēsias* "in the middle of an assembly" | among the assembly (as Psalm 22:22) |
+| 11 | *ha gar emisēsen, ou poiēseis* "for what He hated, you will not do" | ***KEPT AS IS*** what He hates, you must not do (note) |
+| 14 | *en cheiri diabouliou autou* "in the hand of his counsel" | in the power of his own counsel |
+| 15 | *pistin poiēsai eudokias* "to do faith is of (your) good will" | to keep faith is for you to choose |
+| 20 | *anesin* "relief, leave" | license |
+
+### Sirach 16: Mercy and Wrath Are with Him
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *mē epeche epi ton topon autōn* "do not rely on their place" | do not rely on their standing |
+| 5 | *ischyrotera toutōn* "stronger than these" | things stronger than these |
+| 7 | *ouk exilasato peri* "He did not atone for" | He did not forgive |
+| 8 | *peri tēs paroikias Lōt* "concerning Lot's sojourn" | the neighbors among whom Lot lived as a guest |
+| 8 | *ebdelyxato* "He abhorred" | He abhorred |
+| 9 | *ethnos apōleias* "a nation of destruction" | a nation doomed to destruction |
+| 11 | *dynastēs exilasmōn* "mighty in atonements" | He is mighty to forgive |
+| 13 | *ou mē kathysterēsei* "will not fall short" | will not go unrewarded |
+| 14 | *pasē eleēmosynē poiēsei topon* "He will make a place for every charity" | He will make room for every act of charity |
+| 15, 16 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 18 | *idou ho ouranos kai ho ouranos tou ouranou* "*idou*, the heaven and the heaven of heaven" | The heaven, and the highest heaven of God (*idou* cut) |
+| 18 | *en tē episkopē autou* "at His visitation" | when He visits them |
+| 22 | *makran gar hē diathēkē* "for the covenant is far" | For the covenant is far off (note) |
+| 25 | *en stathmō* "by weight" | by weight |
+| 27 | *tas archas autōn* "their beginnings/rules" | their dominions |
+| 30 | *psychēn pantos zōou ekalypsen to prosōpon autēs* "the life of every animal covered its face" | With every kind of living thing He covered its face |
+
+**Choices for you:** none new in these chapters.
+
 ## Sirach 9–12 — rendered 2026-10-07, 6:51 PM CDT — 1,001 chapters rendered
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 10:21 and 11:15–16: numbered placeholders as in 1:5 (Nehemiah 7:68 precedent). Echoes in the notes checked against the Greek in `sources/` (Genesis 18:27; Luke 1:52, 5:39) and this project's English where quoted (Genesis 18:27; Job 2:10; Proverbs 10:22, 12:9, 17:2, 18:13; Reproof 1:21; Psalms 41:9, 55:21; 1 Samuel 2:8; Ecclesiastes 10:11).
