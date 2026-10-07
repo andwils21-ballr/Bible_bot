@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 42 — rendered 2026-10-07, 2:13 PM CDT (book complete)
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 42:2, 42:10, 42:11 and 42:16 differ in spelling only; read form followed, no note.
+
+**What this chapter is:** Job's answer, "now my eye sees You"; the LORD's anger at the three friends, "you have not spoken of Me what is right, as My servant Job has"; Job prays for them; his fortunes restored twice over; his daughters Jemimah, Keziah and Keren-happuch; he dies old and full of days.
+
+**"And it came to pass" kept:** 42:7, *after the LORD had spoken these words*, a move forward in time.
+
+**Decisions made, open to you:**
+- **42:6 "therefore I despise myself, and repent in dust and ashes."** The Hebrew has no object for "despise" (as at 7:16), and "repent… in dust and ashes" can also mean "am comforted concerning dust and ashes." The traditional reading is followed; the note gives both alternatives.
+- **42:7–8 "spoken of Me"** for *elai*, which can also be "to Me"; noted.
+
+**Noted:** the Greek adds a closing passage after 42:17 (Job will rise again; he is Jobab of Edom). Not rendered; the note mentions it.
+
 ## Job 39–41 — rendered 2026-10-07, 2:09 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 39:12, 39:26, 39:30, 40:6 and 40:17 differ in spelling only; read form followed, no note.
