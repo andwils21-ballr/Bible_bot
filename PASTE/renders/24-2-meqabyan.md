@@ -2,6 +2,58 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Meqabyan 15–18 (loop, 1:15 PM Central, 2026-10-07)
+
+**Landed:** 2 Meqabyan 15, 16, 17, 18. Progress 709 → **713 of 1,989 (35.8%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Cut:** 15:15 breaks off at *wa-yəwarrəsu*, **they will inherit** *[words lost]* (listed in `SOURCES.md`).
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word: 17:4 *nads* as *nafs*, **soul**; 18:10 *mərət* as *mədr*, **earth**. 16:7 avoids *after its kind* (spec): **of its own kind**.
+
+**Choices for you:**
+- **Weather words in 15:4–5, 20:** *ṭāqā*, *gime* → **gloom**, **fog**; *dadak*, *marqi*, *ḥasatyā* → **sleet**, **frost**, **ice** (read from v20's list of cold); *ḍaʿāʿ* and *tay* kept in Ge'ez. Noted.
+- **18:11 *ʿəda*** → **the light** (went out of our bright eyes), the plain sense; noted.
+
+### 2 Meqabyan 15: The Day of Judgment
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ṭāqā… gime… ḍaʿāʿ* | gloom… fog… *ḍaʿāʿ* (noted) |
+| 5 | *dadak wa-marqi… ʾasaḥatyā* | sleet and frost… ice (noted) |
+| 15 | *wa-yəwarrəsu* | they will inherit *[words lost]* (noted) |
+| 16 | *ʾama yənaddəyu ʾabʿəlt* | when the rich are made poor |
+| 20 | *ʾəsāt wa-tay* | fire and *tay* (noted) |
+| 21 | *maqāṣḥa ʾəsāt* | the lash of fire |
+
+### 2 Meqabyan 16: Nails and Hair
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *la-ʾamen* | to believe |
+| 2 | *za-śəgāka ba-ʾako ba-wəsta śəgā bāʿəd* | of your own body, not in another body (noted) |
+| 7 | *ba-ba-zamadu* | of its own kind |
+| 7 | *ba-ba-mərwu* | its sap |
+
+### 2 Meqabyan 17: The Grain and the Vine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ḥəyyanta nads* | in place of the soul |
+| 6 | *manfasa ʾƎgziʾabəḥer nababit* | God's speaking spirit (noted) |
+| 7 | *wəsta katamā ʾaqwṣəl* | into the crown of the leaves |
+| 8 | *dama ʾaskāl* | the blood of the cluster (noted) |
+| 9 | *sanbəʿu* | his belly |
+
+### 2 Meqabyan 18: Where Is the Beauty of the Young
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *sāḥt… nəgufāna* | reprieve… spared |
+| 8 | *ba-ʾi-yāʾməro* | by the ignorance |
+| 10 | *ʾangwəʿana* | our marrow |
+| 11 | *ʿəda* | the light (noted) |
+| 11 | *ba-wəsta makāb* | in the tomb |
+
 ## 2 Meqabyan 12–14 (loop, 1:11 PM Central, 2026-10-07)
 
 **Landed:** 2 Meqabyan 12, 13, 14. Progress 706 → **709 of 1,989 (35.6%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
