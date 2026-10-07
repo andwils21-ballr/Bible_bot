@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 101–104 — rendered 2026-10-07, 3:32 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). 102's title is Hebrew verse 1 (one behind, flag expected); the short titles of 101 and 103 share verse 1; 104 has none. Written and read forms at 101:5 (spelling only) and 102:23 ("my strength" read, "His strength" written, noted).
+
+**What these psalms are:** a king's vow to keep a blameless house (101); the prayer of one afflicted, turning to Zion's restoration and "You are the same, and Your years will have no end" (102); "Bless the LORD, my soul… as far as the east is from the west" (103); creation in the order of Genesis 1, ending in the first "hallelujah" of the Psalms (104).
+
+**Parallels:** 102:20 matches 79:11; 103:8 follows Exodus 34:6 as in 86:15, with the Hebrew's differences.
+
+**Word table:** 103:20 and 104:4 *mal'akhav* "His messengers" (Hebrews 1:7 quotes 104:4 from the Greek as "angels"); 104:30 *ruach* of God "Your Spirit," capitalized, while 104:29 "their breath" is the same word for creatures.
+
+**Noted:** 101's king stays lowercase; 102:25–27 quoted in Hebrews 1:10–12; 104:35 "Praise Yah!" for *hallelu Yah*.
+
+**Uncertain lines, with the other reading in the note:** 102:6 the two birds; 103:5 "your years."
+
 ## Psalms 95–100 — rendered 2026-10-07, 3:29 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). No verse offsets: 95, 96, 97 and 99 have no title, and the short titles of 98 and 100 share verse 1. Written and read forms at 99:6 (spelling only) and 100:3 ("and we are His" read; "and not we ourselves" written, which the Greek follows; noted).
