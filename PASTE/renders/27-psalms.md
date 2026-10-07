@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 111–116 — rendered 2026-10-07, 3:42 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). No titles, no offsets.
+
+**What these psalms are:** twin acrostics on the works of God and the one who fears Him, "The fear of the LORD is the beginning of wisdom" (111, 112); the start of the Hallel sung at Passover, "Who is like the LORD our God… He raises the poor from the dust" (113); the sea fleeing at the Exodus (114); "Not to us, LORD, not to us," and the mockery of idols (115); "I love the LORD… What shall I return to the LORD… I will lift up the cup of salvation" (116).
+
+**Parallels:** 113:7–8 follows Hannah's song (1 Samuel 2:8); 115:2 matches 79:10; 116:3a matches 18:4; 116:16 follows 86:16.
+
+**Divine names:** 114:7 *Adon* "the Lord" and *Eloah* "God"; "Praise Yah!" for *hallelu Yah* throughout.
+
+**Noted:** 114's note records that the Greek Psalter joins 114–115 and splits 116 (Hebrew numbering followed); 116:10 "I believed, even when I said," with the Greek "therefore I spoke" (2 Corinthians 4:13) in the note.
+
 ## Psalms 107–110 — rendered 2026-10-07, 3:38 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). The fifth book of the Psalms begins at 107. 108's title is Hebrew verse 1 (one behind, flag expected); 107 has none; the titles of 109 and 110 share verse 1.
