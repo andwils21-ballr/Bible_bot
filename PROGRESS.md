@@ -1,8 +1,8 @@
 # Progress
 
-**642 of 1989 chapters rendered (32.3%).**
+**646 of 1989 chapters rendered (32.5%).**
 
-Next up: **Judith 9**
+Next up: **Judith 13**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -26,7 +26,7 @@ Next up: **Judith 9**
 | 18 | Nehemiah | source | done |
 | 19 | Ezra Sutuel | witnesses | on hold (0/16): skipped until better sources are found (Andrew, 2026-10-07) |
 | 20 | Tobit | source | done |
-| 21 | Judith | source | 8/16 |
+| 21 | Judith | source | 12/16 |
 | 22 | Esther | source | 0/16 |
 | 23 | 1 Meqabyan | source | 1/36 |
 | 24 | 2 Meqabyan | source | 0/21 |
