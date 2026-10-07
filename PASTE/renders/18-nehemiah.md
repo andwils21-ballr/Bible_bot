@@ -2,6 +2,73 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Nehemiah 11–13 (loop run 2 of 5, 9:35 AM Central, 2026-10-07)
+
+**Landed:** Nehemiah 11, 12, 13. **Nehemiah is finished.** Progress 617 → **620 of 1,989 (31.2%)**. Next is Ezra Sutuel 1.
+
+**The book's mark:** *Remember me, my God* opens 13:14, 13:22 and 13:31 in the same words, as at 5:19; 13:29 turns it, *Remember them, my God*. In 13:22 the Hebrew order is *this also remember for me, my God*; it reads *Remember me, my God, for this also*, to keep the signature.
+
+**The *torah* question:** 12:44 *the portions required by the instruction*; 13:3 *When they heard the instruction*.
+
+**Departures from the Hebrew:** none.
+
+**Choices for you:** none.
+
+### Nehemiah 11: Those Who Lived in Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-tesha ha-yadot ba-arim* | while nine tenths stayed in the towns |
+| 1 | *ir ha-qodesh* | the holy city (noted) |
+| 2 | *ha-mitnaddevim* | who willingly offered (noted) |
+| 9 | *al ha-ir mishneh* | second over the city ***KEPT AS IS***: or *over the Second Quarter*; noted |
+| 11 | *negid beit ha-Elohim* | the chief officer of the house of God |
+| 14 | *ben ha-Gedolim* | son of Haggedolim (noted) |
+| 17 | *rosh ha-techillah yehodeh la-tefillah* | the leader who began the thanksgiving in prayer (noted) |
+| 17 | written *Yedituin*, read *Yedutun* | Jeduthun (spelling) |
+| 23 | *amanah* | a fixed provision |
+| 24 | *le-yad ha-melekh* | at the king's hand |
+| 25, 27, 28, 30, 31 | *u-venoteiha* | and its towns (**its daughters**) |
+| 30 | *va-yachanu* | So they camped (noted) |
+
+### Nehemiah 12: The Dedication of the Wall
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 8 | *al ha-huyedot* | in charge of the songs of thanksgiving |
+| 9 | written *ve-Unno*, read *ve-Unni* | and Unni (read form) |
+| 9 | *le-mishmarot* | by watches |
+| 14 | written *li-Mlukhi*, read *li-Mlikhu* | of Melicu (read form) |
+| 16 | written *le-Iddi'a*, read *le-Iddo* | of Iddo (read form) |
+| 17 | *le-Minyamin* (no name follows) | of Miniamin; ***KEPT AS IS***: the name is missing in the Hebrew |
+| 23 | *sefer divrei ha-yamim* | the book of the chronicles (noted) |
+| 24 | *mishmar le-ummat mishmar* | watch answering watch (noted) |
+| 31 | *shetei todot* | two… choirs of thanksgiving |
+| 38 | *ha-holekhet le-mo'l* | went the opposite way |
+| 42 | *va-yashmi'u ha-meshorerim* | The singers sang |
+| 44 | *menaot ha-torah* | the portions required by the instruction |
+| 46 | written *rosh*, read *rashei* | chiefs (read form) |
+
+### Nehemiah 13: Nehemiah's Last Reforms
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-yehi ki-shmoam* | When they heard (formula cut) |
+| 3 | *kol erev* | all who were of mixed descent |
+| 4 | *qarov le-Toviyyah* | related to Tobiah |
+| 6 | *ve-le-qets yamim nish'alti* | After some time I asked leave |
+| 13 | *ne'emanim nechshavu* | they were counted faithful |
+| 14 | *ve-al temach chasadai* | do not wipe out the loyal deeds (noted) |
+| 15 | *ve-a'id be-yom mikhram tsayid* | I warned them on the day they sold food |
+| 19 | *va-yehi ka'asher tsalelu* | When the gates… began to grow dark (formula cut) |
+| 21 | *yad eshlach bakhem* | I will lay hands on you |
+| 22 | *gam zot zokhrah li Elohai* | Remember me, my God, for this also (order turned to keep the signature) |
+| 23 | written forms *Ashdodiyyot*, *Ammoniyyot* | women of Ashdod, Ammon (spelling) |
+| 24 | *Yehudit* | the language of Judah (noted) |
+| 26 | *ve-ahuv le-Elohav* | he was loved by his God (noted) |
+| 28 | *va-avrichehu me-alai* | I drove him away from me |
+| 29 | *ge'olei ha-kehunnah* | they have defiled the priesthood |
+
 ## Nehemiah 7–10 (loop run 1 of 5, 9:33 AM Central, 2026-10-07)
 
 **Landed:** Nehemiah 7, 8, 9, 10. Progress 613 → **617 of 1,989 (31.0%)**. Next is Nehemiah 11.
