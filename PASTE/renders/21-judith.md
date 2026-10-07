@@ -12,7 +12,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 2 | *elysan mētran parthenou eis miasma* | had loosed a virgin's girdle to defile her ***KEPT AS IS***: *mētra* is **womb**; the Greek is blunt and the sense is the rape of Dinah; noted |
+| 2 | *elysan mētran parthenou eis miasma* | had violated the womb of a virgin to defile her ***KEPT AS IS***: blunt in the Greek; noted |
 | 3 | *tēn strōmnēn autōn hē ēdesato tēn apatēn autōn* | their bed, which was ashamed of their deceit |
 | 6 | *Idou paresmen* | Here we are! |
 | 7 | *Kyrios syntribōn polemous* | the Lord who crushes wars (noted) |
