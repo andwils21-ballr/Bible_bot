@@ -2,6 +2,22 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 36–38 — rendered 2026-10-07, 2:06 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 37:12, 38:1, 38:12 and 38:41 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** Elihu's last speech: God rescues the afflicted by their affliction (ch. 36); a storm gathers as he describes the thunder of God's voice (ch. 37). Then the LORD answers Job out of the storm: "Where were you when I laid the foundation of the earth?" The sea, the dawn, the snow, the stars, the lion and the raven (ch. 38).
+
+**Divine name:** 38:1 *YHWH*, "the LORD," returns for the first time since 12:9.
+
+**Words found only here, noted:** 38:32 *Mazzaroth* (kept as a name); 38:36 *tuchot* and *sekhvi*, rendered "the ibis… the rooster," with "the inward parts… the mind" in the note.
+
+**Word choice:** 36:14 *qedeshim* "temple prostitutes"; 37:13 *chesed* "loyal love."
+
+**Uncertain lines, with the other reading in the note:** 36:16–20; 36:33.
+
+**Three chapters this cycle:** chapter 38 opens God's speeches, and I gave it a cycle's care; chapter 39 is next.
+
 ## Job 32–35 — rendered 2026-10-07, 2:03 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex).
