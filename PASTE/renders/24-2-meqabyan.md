@@ -2,6 +2,56 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Meqabyan 5–8 (loop, 1:03 PM Central, 2026-10-07)
+
+**Landed:** 2 Meqabyan 5, 6, 7, 8. Progress 699 → **703 of 1,989 (35.3%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Departures from the Ge'ez:** none. One reading against a stray negative, noted: 5:6 *wa-ʾi-yəballəʿu*, **and they do not eat** (what has died), read as **They eat**: the Chaldeans are the ones who eat it, as the rest of the verse and v10 say.
+
+**Numbers:** 5:3 *5* years, kept as **five** (may be cut short, noted). 8:23 *2))*, those Joshua killed, left as *[number lost]*; *5* kings stands (the five kings of Joshua 10).
+
+**Choices for you:**
+- **5:6** (above).
+- **5:10 *ʾArabāmāyān*:** a people kept in Ge'ez.
+- **8:9 *Takkaze*:** the Tekezé river of Ethiopia, kept in the book's form with a note.
+
+### 2 Meqabyan 5: The Sons of Meqabis in Captivity
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *wa-ʾi-yāgʿəru* | did not make… groan |
+| 3 | *5 ʿāmata* | five years (noted) |
+| 6 | *wa-ʾi-yəballəʿu* | They eat (noted) |
+| 12 | *Bəʾel Fegor* | Bel Phegor (noted) |
+| 15 | *wa-ʾi-yəmḥu* | or pluck up |
+
+### 2 Meqabyan 6: The Sons of Meqabis Burned
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gannawta ʾamālkt* | deceivers for his gods |
+| 5 | *yəwehəkəwwomu* | enticed |
+| 11 | *ʾi-nəssaṭṭawaka* | We will not yield to you |
+| 15 | *bəqwəʿuni* | Help me |
+| 23 | *tafessi rəʾsaka* | you make yourself out |
+
+### 2 Meqabyan 7: Better Than You Are the Beasts
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ʾalbomu kwənnane dāgəma* | they have no second judgment (noted) |
+| 9 | *śawwaromu* | God had hidden them (noted) |
+
+### 2 Meqabyan 8: The Iron Kingdom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *kama ḥaṣin za-rəʾya Dānʾel* | like the iron that Daniel saw (noted) |
+| 5 | *ṣayāqi* | an oppressor |
+| 9 | *bāḥra Takaze… bāḥra Ḥəndake* | the river Takkaze… the sea of India (noted) |
+| 15 | *malāʾəkta ḍar* | the commanders of the enemy |
+| 23 | *maṭana 2))* | about *[number lost]* (noted) |
+
 ## 2 Meqabyan 1–4 (loop, 12:59 PM Central, 2026-10-07)
 
 **Landed:** 2 Meqabyan 1, 2, 3, 4. Progress 695 → **699 of 1,989 (35.1%)**. Esther 11–16 still waits on your choice.
