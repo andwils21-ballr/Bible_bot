@@ -19,7 +19,7 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 - 9:33 "There is no arbiter": the Greek has "Would that there were."
 - 6:14 the sense of the line is uncertain; the other reading is in the note.
 
-**Word choice:** 9:31 *ti'avuni* is "abhor," keeping "detestable" for *to'evah* and "loathe" for *sheqets* as the word table has them; 7:16 and 9:21 "loathe" are *ma'as*, the ordinary verb, and are not the table's word.
+**Word choice:** "loathe" is kept for *sheqets* and "detestable" for *to'evah*, as the word table has them. So 9:31 *ti'avuni* is "abhor," and *ma'as* at 7:16 and 9:21 is "despise."
 
 ## Job 2–5 — rendered 2026-10-07, 1:37 PM CDT
 
