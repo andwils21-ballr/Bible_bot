@@ -68,7 +68,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 13 | *koitēn en paraptōmati* "a bed in transgression" | a sinful bed |
 | 14 | *kai eunouchos* "and a eunuch" | So too the eunuch |
 | 14 | *klēros en naō Kyriou thymēresteros* "a lot in the temple of the Lord more to the heart's liking" | a share in the temple of the Lord more pleasing to the heart |
-| 16 | *ateslesta estai* "will be unfinished" | will not come to maturity |
+| 16 | *atelesta estai* "will be unfinished" | will not come to maturity |
 | 18 | *en hēmera diagnōseōs* "in a day of decision" | on the day of decision |
 
 ### Wisdom of Solomon 4: The Righteous Who Die Young
