@@ -103,6 +103,11 @@ case…*, or a dash and a plain clause.
     same scene (*At noon Elijah mocked them*, 1 Kings 18:27; *In a little
     while the heavens grew black*, 18:45). Every rendered book but Genesis
     was swept to this rule on 2026-10-07.
+  - **Genesis keeps every one** (Andrew, 2026-10-07). It is the book of
+    beginnings, covering the ages from creation to Joseph, and nearly every
+    turn in it is God's doing. There the formula marks each turn of time as
+    part of that one story, and its older, weightier cadence is part of what
+    sets the first book apart. Genesis is not swept to the rule above.
   - **Cut it**, and write plain English, when *va-yehi* is not that formula:
     1. **was, were, became, had, there was**: *All the days of Adam were…*;
        *He had seven hundred wives*; *There was a great famine*; *This thing
