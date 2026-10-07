@@ -2,6 +2,53 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Meqabyan 9–11 (loop, 1:07 PM Central, 2026-10-07)
+
+**Landed:** 2 Meqabyan 9, 10, 11. Progress 703 → **706 of 1,989 (35.5%)**. Three long chapters; the spec says stop a chapter early rather than rush. Ge'ez alone. Esther 11–16 still waits on your choice.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word: 9:4 *safida* as *sagida*, **to bow down**; 10:4 *ʾana*, **I**, as *nəʿā*, **Come**; 10:3 *Bālāt* as **Balak**.
+
+**Numbers:** 9:8 *5* kingdoms, kept as **five** (1 Meqabyan 5:24 has *four*, noted). 10:26 *2* kingdoms, **two**.
+
+**Choices for you:**
+- **10:8, *the dwelling of the Beloved who comes from on high*:** the book's own words in Balaam's blessing, rendered as they stand with a note to Numbers 24.
+- **11:8, *the sons of Korah and Asaph*:** Numbers has Dathan and Abiram; rendered as the book has it, noted.
+- **11:19, *Samuel and Elijah in Jerusalem*:** rendered as the book has it, with no note arguing with it.
+- **Words kept in Ge'ez:** 10:23 *sabsab*; 11:12–13 *ḫoṣādāt*, *mawādəd* (tabernacle furnishings).
+
+### 2 Meqabyan 9: The Broad Way and the Narrow
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Sabləyānos* | Sablyanos (noted) |
+| 8 | *wahaka wa-tahakayka* | kindled His wrath and grown slack |
+| 8 | *lāʿla 5 mangəśtāt* | over five kingdoms (noted) |
+| 15 | *ṭala məḥrat* | the dew of mercy (noted) |
+| 21 | *ḥarāwyān wa-gamal* | swine and camel (noted) |
+| 22 | *sfəḥt fənota wa-rəbbəbt marbabta Sayṭān* | a broad way, the spread net of Satan (noted) |
+
+### 2 Meqabyan 10: Balaam and the Fall of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ʾana* | Come |
+| 7 | *miṭā la-margam wəsta baraket* | turned the curse into a blessing (noted) |
+| 8 | *māḫdaru la-Fəqur za-yəmaṣṣəʾ ʾəm-ʾAryām* | the dwelling of the Beloved who comes from on high (noted) |
+| 19 | *kama garāḫt* | like a plowed field (noted) |
+| 23 | *sabsab* | kept in Ge'ez (noted) |
+| 26 | *2 mangəśta* | two kingdoms (noted) |
+
+### 2 Meqabyan 11: Moses and the Sons of Korah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ʾastamāsalo kama ʾƎgziʾabəḥer* | made him like God to them (noted) |
+| 9 | *dabtarā martul* | the holy tent |
+| 10 | *wa-tamaswu kama samʿ* | melted like wax |
+| 11 | *gəbarihā* | a covering (noted) |
+| 12 | *məsḥal* | the mercy seat (noted) |
+| 23 | *la-maʿāza śannāy* | for a soothing aroma |
+
 ## 2 Meqabyan 5–8 (loop, 1:03 PM Central, 2026-10-07)
 
 **Landed:** 2 Meqabyan 5, 6, 7, 8. Progress 699 → **703 of 1,989 (35.3%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
