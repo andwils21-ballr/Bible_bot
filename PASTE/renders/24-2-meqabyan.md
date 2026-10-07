@@ -2,6 +2,48 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Meqabyan 19–21 (loop, 1:18 PM Central, 2026-10-07)
+
+**Landed:** 2 Meqabyan 19, 20, 21. **2 Meqabyan is finished** (21 of 21). Progress 713 → **716 of 1,989 (36.0%)**. Esther 11–16 still waits on your choice; after it the loop goes on to 3 Meqabyan.
+
+**Departures from the Ge'ez:** none. Copying slips read as the plain word: 19:11 *ʾemḥərka* as *ʾi-məḥərka*, **you had no pity**; 21:4 *baʿamat* as *baʿamaḍā*, **by wrongdoing**. 19:6 began with *And*; per the spec it reads *You too, earth*.
+
+**Choices for you:**
+- **21:7 *za-ḫala*** → **rust** (silver will rust, James 5:3), noted.
+- **Words kept in Ge'ez:** 21:10 *ḥatl* (a place on the farm); 21:22 *ʾagʿəwo* (a forbidden food, beside what is torn and what has died).
+
+### 2 Meqabyan 19: O Earth, O Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ʾaqwyāṣ* | legs |
+| 2 | *ʾargānon nababit* | a sounding organ (noted) |
+| 4 | *kama makwarākwər rətuʿāt* | like straight wheels |
+| 5 | *ʾəʾəmmənneka mot* | O death |
+| 7 | *mandafa* | a bed |
+| 8 | *ʾangwəʿa* | the marrow |
+
+### 2 Meqabyan 20: The Road We Do Not Know
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *mərguz… ʿaśāʿəna* | a staff… sandals |
+| 7 | *ba-za-ti fənot ḥorku* | On the way where I walked (noted) |
+| 10 | *ʿaṣada bərhān za-ḥəywat* | the court of light, of life (noted) |
+| 13 | *ba-naśiʾo həlyān* | by taking bribes |
+
+### 2 Meqabyan 21: The Blessing of Those Who Keep His Law
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *za-ʾənbala śiṭ* | without paying |
+| 3 | *yāmanazzəzəwwomu* | squander it |
+| 7 | *za-ḫala* | will rust (noted) |
+| 10 | *ḥatl* | kept in Ge'ez (noted) |
+| 11 | *ʾi-yāstabālhəkkəmu* | will not let you grow old |
+| 22 | *ʾagʿəwo* | kept in Ge'ez (noted) |
+| 25 | *la-ḥakwana* | He formed us |
+
 ## 2 Meqabyan 15–18 (loop, 1:15 PM Central, 2026-10-07)
 
 **Landed:** 2 Meqabyan 15, 16, 17, 18. Progress 709 → **713 of 1,989 (35.8%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
