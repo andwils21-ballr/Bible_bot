@@ -2,6 +2,20 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Psalms 11–15 — rendered 2026-10-07, 2:21 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 11:1 (*nudu* / *nudi*, plural or singular "flee"; noted) .
+
+**Numbering:** Psalms 11, 14 and 15 have short titles that share verse 1 with the text in the Hebrew, so their numbers agree with the English; Psalm 12 is one verse behind (title alone as Hebrew verse 1); Psalm 13 has its title as Hebrew verse 1, and the English divides Hebrew 13:6 into two verses, so the count comes out even.
+
+**What these psalms are:** trust when the foundations fall (11); the pure words of the LORD against smooth lips (12); "How long, LORD?" (13); "The fool says in his heart, 'There is no God'" (14, repeated as Psalm 53); who may live as a guest in God's tent (15).
+
+**Word table applied:** 14:1 *hit'ivu* "detestable deeds"; 15:1 *yagur* "live as a guest"; 13:3 *pen* "or."
+
+**Departure, with a note:** 11:6 "coals" reads *pachamei* for the Hebrew *pachim* "snares," with the Greek.
+
+**Noted:** the Greek of 14:3 adds the lines Paul quotes in Romans 3:13–18; not rendered.
+
 ## Psalms 8–10 — rendered 2026-10-07, 2:18 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 9:12, 9:18 (*aniyyim* / *anavim*, noted), 10:5, 10:10 and 10:12.
