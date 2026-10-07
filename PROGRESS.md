@@ -1,8 +1,8 @@
 # Progress
 
-**613 of 1989 chapters rendered (30.8%).**
+**617 of 1989 chapters rendered (31.0%).**
 
-Next up: **Nehemiah 7**
+Next up: **Nehemiah 11**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -23,7 +23,7 @@ Next up: **Nehemiah 7**
 | 15 | Jubilees | witnesses | done |
 | 16 | 1 Enoch | witnesses | done |
 | 17 | Ezra | source | done |
-| 18 | Nehemiah | source | 6/13 |
+| 18 | Nehemiah | source | 10/13 |
 | 19 | Ezra Sutuel | witnesses | 0/16 |
 | 20 | Tobit | source | 0/14 |
 | 21 | Judith | source | 0/16 |
