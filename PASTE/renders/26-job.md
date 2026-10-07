@@ -2,6 +2,18 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Job 21–24 — rendered 2026-10-07, 1:54 PM CDT
+
+**Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 21:13, 21:20, 24:1 and 24:6 differ in spelling only; read form followed, no note.
+
+**What these chapters are:** Job: "Why do the wicked live?" They prosper, and one man dies at ease, another in bitterness (ch. 21). Eliphaz's third speech: he charges Job with specific sins against the poor, then calls him to return to the Almighty (ch. 22). Job: "Oh that I knew where I might find Him… when He has tested me, I will come out as gold" (ch. 23). Job: the poor of the earth suffer while God does nothing (ch. 24).
+
+**Left as written, with a note:** 24:18–24 sounds like the friends' teaching, not Job's. It may be Job quoting them, or part of a lost friend's speech; rendered as it stands, with the note saying so.
+
+**Number of the speaker:** 21:19–21 keeps the Hebrew singular (*a man… his children*), where the verses before are plural.
+
+**Uncertain lines, with the other reading in the note:** 21:24 *atinav*; 22:29 (*gevah*, "lift up" or "pride"); 23:2 "my hand" (the Greek has "His hand"); 23:12 (Greek "in my bosom"); 23:17; 24:22.
+
 ## Job 18–20 — rendered 2026-10-07, 1:51 PM CDT
 
 **Source:** Hebrew (Westminster Leningrad Codex). Written and read forms at 19:29 (*shaddun*), 20:11 and 20:22 differ in spelling only; read form followed, no note.
