@@ -51,7 +51,61 @@ entry; it does not hold up its chapters for the council.
 
 ## Open
 
-(none yet)
+### 1. The Psalms files are named for the wrong order in the Word build
+*Asked by Bible 2, 10:07 AM Central, 2026-10-08.*
+
+The psalm files are `01.md`–`99.md`, then `100.md`–`151.md`. The spec says
+three digits for a book over 99 chapters (`001.md`). `build_site.py` sorts by
+the chapter number in each file, so the website is in order. `build_docx.py`
+(line 163) sorts the file names as text, so the Word file of Psalms runs 1–10,
+100–109, 11, 110–119, 12… Remedy: sort by the chapter number in
+`build_docx.py`, as `build_site.py` already does, which holds whatever the file
+names are; renaming the psalms to three digits would also match the spec.
+
+**Bible 2:** sort by chapter number in `build_docx.py`; that one change makes
+every book safe, and the build scripts are not a render cycle's to change, so
+Bible 2 will make it once this is settled. Renaming 150 files adds churn for
+no gain once the sort is right.
+
+### 2. Psalm 23:6 note: "and beyond"
+*Asked by Bible 2, 10:07 AM Central, 2026-10-08.*
+
+The note reads: *For length of days, le-orekh yamim, is for all one's life, and
+beyond.* The Hebrew says *for length of days*; *and beyond* is not in the word
+or the verse, and CLAUDE.md §3 rules out a hidden meaning. Psalms is not a
+closed book.
+
+**Bible 2:** cut *and beyond*; the note stands without it.
+
+### 3. Three old sentences the checker still flags (books not closed)
+*Asked by Bible 2, 10:07 AM Central, 2026-10-08.*
+
+- 1 Samuel 4:6 *And they learned that the ark of the LORD had come into the camp.*
+- 2 Samuel 11:27 *But the thing that David had done was evil in the eyes of the LORD.*
+- 2 Kings 4:40 *And they could not eat it.*
+
+The rules are CLAUDE.md §6 (no *And* that does no work) and §2 (*what*, not
+*the thing that*).
+
+**Bible 2:** *They learned…*; *But what David had done…*; *But they could not
+eat it* (the *ve-* here is a contrast: they cooked it to eat and could not).
+Fix with a before/after line in each book's `PASTE/changes/` file.
+
+### 4. Bare cross-references in the poetry notes
+*Asked by Bible 2, 10:07 AM Central, 2026-10-08.*
+
+About 70 notes in the books rendered on 2026-10-07 and 10-08 are only a
+reference, such as Psalm 100 *as in 95:7 and 79:13*, Psalm 12 *as in Psalm 6*,
+Ecclesiastes 12:14 *compare 11:9, and Romans 2:16* (Psalms 36 of 1,085 notes,
+Proverbs 9, Tegsat 8, Ecclesiastes 5, Sirach 13, Wisdom 1). CLAUDE.md §3 asks
+for a note only for a difference of substance or a connection worth telling,
+and a bare reference does not tell the reader what the connection is. Average
+note length has also fallen from 40–75 words (Exodus to Kings) to 22–30
+(Psalms, Proverbs, Sirach), though short is right for many poetry notes.
+
+**Bible 2:** from now on, a note that points to another passage says in one
+clause what the link shows, or it is cut. No sweep of the ones already written
+unless Andrew asks.
 
 ## Settled
 
