@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Sirach 21–24 — rendered 2026-10-07, 7:10 PM CDT (pushed 10:22 PM CDT, after a usage-limit pause)
+## Sirach 21–24 — rendered 2026-10-07, 10:22 PM CDT (the cycle began at 7:04 PM; a usage-limit pause came in between)
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 22:9–10 and 24:18, 24: numbered placeholders. Swete's 23 ends at v27. Two more headings stand in the Greek text, *Discipline of the mouth* (23:7) and *The praise of wisdom* (24:1); both in italics where they stand. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 33:4; John 1:14, 6:35) and this project's English where quoted (Genesis 50:10; Exodus 30:34; Joshua 3:15; Job 24:15; Psalms 19:10, 141:3; Proverbs 9:17; Reproof 1:9, 1:20, 3:3; Deuteronomy 33:4).
 
