@@ -2,6 +2,106 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 17–20 — rendered 2026-10-07, 7:01 PM CDT
+
+**Source:** Greek (Swete), English verse numbers. No Greek for 17:5, 16, 18, 21; 18:3; 19:18, 19, 21; 20:3: numbered placeholders. Swete's 20 ends at v31. Two headings stand in the Greek text itself, *Self-control of the soul* (18:30) and *Sayings in proverbs* (20:26); both are rendered in italics where they stand. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 32:8; Luke 1:28; James 3:2) and this project's English where quoted (Genesis 9:2, 18:27; Leviticus 19:17; Deuteronomy 6:16, 16:19, 32:9–10; Psalms 6:5, 8:4, 90:10; Proverbs 17:28; Reproof 2:7, 7:3; Ecclesiastes 3:7, 5:4).
+
+**The checker** caught one sentence starting with "And" (18:5); fixed before the commit.
+
+**What these chapters are:** man made from the earth and given the law, "Israel is the Lord's portion," "Who will sing praise to the Most High in Hades?" (17); "What is man?", a hundred years as a drop in the sea, God's mercy for all flesh, "a word is better than a gift," "Before judgment, examine yourself" (18); "Have you heard something? Let it die with you," "Question a friend," the scoundrel in mourning black (19); silence and speech, gifts that cost more than they give, "Gifts and presents blind the eyes of the wise," "Hidden wisdom and unseen treasure" (20).
+
+**Word table:** as before. *eleēmosynē* "charity" of a man (17:22), "mercy" of the Lord (17:29); *bdelyssesthai* "abhor" (20:8); *mōmos* "blemish" (20:24), "blame" (18:15); *gē kai spodos* "earth and ashes" (17:32), as 10:9; *huios anthrōpou* "a son of man" (17:30), lowercase, a human being.
+
+### Sirach 17: Man from the Earth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hēmeras arithmou* "days of number" | a fixed number of days |
+| 3 | *kath' heautous enedysen autous ischyn* "according to themselves He clothed them with strength" | He clothed them with strength fit for them |
+| 4 | *ton phobon autou* "the fear of him" | the fear of them |
+| 5, 16, 18, 21 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 6 | *diaboulion* "counsel, deliberation" | Counsel |
+| 8 | *ethēken ton ophthalmon autou epi tas kardias autōn* "He put His eye on their hearts" | He set His eye upon their hearts |
+| 10 | *onoma hagiasmou ainesousin* "a name of holiness they will praise" | praise His holy name |
+| 11 | *nomon zōēs eklērodotēsen* "He allotted a law of life" | gave them the law of life as an inheritance |
+| 13 | *doxan phōnēs autōn* "glory of their voice" | ***KEPT AS IS*** the glory of their voice (note) |
+| 19 | *hōs ho hēlios enantion autou* "as the sun before Him" | as clear as the sun before Him |
+| 22 | *hōs sphragis met' autou* "as a seal with Him" | like a signet ring with Him |
+| 22 | *hōs korēn* "as the pupil" | like the apple of His eye |
+| 24 | *epanodon* "a way back up" | a way back |
+| 25 | *smikrynon proskomma* "make small the stumbling" | lessen your offense |
+| 31 | *ponēros enthymēsetai sarka kai haima* "an evil one will ponder flesh and blood" | ***KEPT AS IS*** an evil man will set his mind on flesh and blood |
+| 32 | *dynamin hypsous ouranou* "the power of the height of heaven" | the host of the heights of heaven |
+
+### Sirach 18: What Is Man?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ta panta koinē* "all things in common" | the whole universe together |
+| 3 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 4 | *outheni exepoiēsen* "to none has He permitted" | To no one has He given power |
+| 7 | *aporēthēsetai* "he will be at a loss" | he is left at a loss |
+| 9 | *polla etē hekaton* "many years, a hundred" | is great if it reaches a hundred years |
+| 10 | *psēphos ammou* "a pebble of sand" | a grain of sand |
+| 12 | *tēn katastrophēn autōn* "their overthrow" | their end |
+| 15 | *mē dōs mōmon* "do not give blame" | do not mix blame |
+| 17 | *ouk idou logos hyper doma agathon?* "is not, *idou*, a word above a good gift?" | Is not a word better than a good gift? (*idou* cut) |
+| 17 | *kecharitōmenō* "one who has been graced" | a gracious man (note) |
+| 18 | *ektēkei ophthalmous* "melts the eyes" | makes the eyes waste away |
+| 21 | *deixon epistrophēn* "show turning" | show that you have turned back |
+| 22 | *dikaiōthēnai* "to be justified" | to be set right |
+| 23 | *prin euxasthai* "before praying/vowing" | Before you make a vow |
+| 30 | *Enkrateia psychēs* (heading) | *Self-control of the soul.* |
+| 31 | *chorēgēseis tē psychē sou eudokian epithymias* "you supply your soul the pleasure of desire" | you grant your soul what its desire pleases |
+| 32 | *mē prosdethēs symbolē autēs* "do not be bound to its contribution" | nor be tied to the cost of it |
+| 33 | *symbolokopōn ek danismou* "feasting from a loan" | by feasting on borrowed money |
+
+### Sirach 19: Let It Die with You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *kouphos kardia* "light in heart" | light-headed |
+| 5 | *ho euphrainomenos kardia* "the one gladdened in heart" | ***KEPT AS IS*** Whoever takes delight in his heart (note) |
+| 6 | *elattonoutai kakia* "is lessened in evil" | has less evil |
+| 7 | *mē deuterōsēs logon* "do not repeat a word" | Never repeat what is said |
+| 10 | *synapothanetō soi* "let it die with you" | Let it die with you |
+| 10 | *ou mē se rhēxei* "it will not burst you" | it will not make you burst |
+| 11 | *ōdinēsei* "he will be in labor" | a fool goes into labor |
+| 12 | *en koilia mōrou* "in the belly of a fool" | inside a fool |
+| 13 | *Elenxon* "Reprove, question" | Question |
+| 15 | *diabolē* "slander" | slander |
+| 25 | *diastrephōn charin tou ekphanai krima* "twisting a favor to bring out a judgment" | who twists a kindness to win a verdict |
+| 26 | *synkekyphōs melania* "bent over in blackness" | bowed down in black |
+| 27 | *heterokōphōn* "deaf on one side" | pretends not to hear |
+| 27 | *prophthasei se* "he will get ahead of you" | he will get the better of you |
+| 30 | *gelōs odontōn* "laughter of teeth" | the laugh on his teeth |
+| 30 | *bēmata* "steps" | the way he walks |
+
+### Sirach 20: A Time to Keep Silent
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *thymousthai* "to be enraged" | to fume |
+| 2 | *apo elattōseōs kōlythēsetai* "will be kept from loss" | will be kept from loss |
+| 3 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 4 | *apoparthenōsai neanida* "to deflower a girl" | to violate a girl |
+| 7 | *lapistēs* "braggart" | a braggart |
+| 7 | *hyperbēsetai kairon* "will overstep the time" | will let the time go by |
+| 8 | *enexousiazomenos* "one who takes authority" | whoever takes authority upon himself |
+| 9 | *heurema eis elattōsin* "a find unto loss" | a windfall that turns into loss |
+| 13 | *charites mōrōn ekchythēsontai* "the graces of fools will be poured out" | the courtesies of fools are poured out for nothing |
+| 18 | *olisthēma apo edaphous* "a slip from the ground" | A slip on the pavement |
+| 19 | *anthrōpos acharis, mythos akairos* "a graceless man, an untimely tale" | A graceless man is like a story told at the wrong time |
+| 21 | *ou katanygēsetai* "he will not be pricked" | his conscience does not trouble him |
+| 22 | *apo aphronos prosōpou* "from a foolish face" | out of regard for a fool |
+| 24 | *mōmos ponēros* "an evil blemish" | an ugly blemish |
+| 26 | *Logoi parabolōn* (heading) | *Sayings in proverbs.* |
+| 28 | *exilasetai adikian* "will atone for wrong" | will win pardon for wrongdoing |
+| 29 | *xenia kai dōra* "guest-gifts and gifts" | Gifts and presents |
+| 29 | *hōs phimos en stomati* "as a muzzle in the mouth" | like a muzzle on the mouth |
+
+**Choices for you:** none new in these chapters.
+
 ## Sirach 13–16 — rendered 2026-10-07, 6:56 PM CDT
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 13:14 and 16:15–16: numbered placeholders. Echoes in the notes checked against the Greek in `sources/` (Genesis 2:17; James 1:13; 1 John 3:21; 2 Corinthians 6:14) and this project's English where quoted (Genesis 2:17; Psalms 22:22, 62:12, 102:26, 106:18; Proverbs 19:4, 23:6; Deuteronomy 30:19; 1 Kings 8:27; Numbers 16:35; Ecclesiastes 4:8, 9:10, 9:16, 12:12; Song of Songs 2:9).
