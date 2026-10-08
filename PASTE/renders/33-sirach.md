@@ -2,6 +2,110 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 21–24 — rendered 2026-10-07, 7:10 PM CDT (pushed 10:22 PM CDT, after a usage-limit pause)
+
+**Source:** Greek (Swete), English verse numbers. No Greek for 22:9–10 and 24:18, 24: numbered placeholders. Swete's 23 ends at v27. Two more headings stand in the Greek text, *Discipline of the mouth* (23:7) and *The praise of wisdom* (24:1); both in italics where they stand. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 33:4; John 1:14, 6:35) and this project's English where quoted (Genesis 50:10; Exodus 30:34; Joshua 3:15; Job 24:15; Psalms 19:10, 141:3; Proverbs 9:17; Reproof 1:9, 1:20, 3:3; Deuteronomy 33:4).
+
+**The checker** caught one sentence starting with "And" (22:14), fixed, and flagged the 24:23 note for talking about the translating; reworded to speak of the texts only.
+
+**What these chapters are:** "Flee from sin as from a snake," the way of sinners paved smooth to the pit of Hades, the fool at the door, "When the ungodly man curses the adversary, he curses his own soul" (21); the sluggard, weeping for the dead and for the fool, "a way back" after a quarrel, "Who will set a guard over my mouth?" (22); the prayer "Lord, Father and Master of my life," oaths, the adulterer who says "Who sees me?" (23); wisdom's own speech, "I came out of the mouth of the Most High… Pitch your tent in Jacob," the Law as the book of the covenant, the rivers of Eden (24).
+
+**Ties to open choices:** 21:27 *ton satanan* "the adversary" (the Satan question open in Job); 24:23 *nomon* "the law," where Deuteronomy 33:4 (which the verse quotes) renders *torah* "instruction" (the open *torah* ruling).
+
+### Sirach 21: Flee from Sin as from a Snake
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hōs apo prosōpou opheōs* "as from the face of a snake" | as from a snake |
+| 4 | *kataplēgmos kai hybris* "terror and insolence" | Terror and violence |
+| 5 | *heōs ōtiōn autou* "to his ears" | to His ears |
+| 6 | *en ichnei hamartōlou* "in a sinner's track" | walks in the steps of a sinner |
+| 7 | *en tō olisthanein auton* "in his slipping" | when he slips |
+| 8 | *eis cheimōna* "for winter" | ***KEPT AS IS*** for the winter (note) |
+| 9 | *stippyon* "tow" | tow |
+| 10 | *hōmalismenē ek lithōn* "made level from stones" | smoothly paved with stones |
+| 11 | *synteleia* "completion" | the fulfillment |
+| 14 | *enkata mōrou* "a fool's entrails" | The inside of a fool |
+| 15 | *ho spatalōn* "the luxurious one" | a self-indulgent man |
+| 16 | *exēgēsis mōrou* "a fool's narration" | A fool's talk |
+| 18 | *adiexetastoi logoi* "unexamined words" | talk without sense |
+| 20 | *molis hēsychē meidiasei* "will barely smile quietly" | will barely smile, and quietly |
+| 22 | *aischynthēsetai apo prosōpou* "will be abashed before a face" | holds back out of respect |
+| 24 | *apaideusia* "lack of training" | bad manners |
+| 25 | *cheilē allotriōn en toutois barynthēsetai* "the lips of strangers will be heavy in these" | ***KEPT AS IS*** The lips of strangers will be heavy with these things |
+| 27 | *ton satanan* "the adversary / Satan" | the adversary (choice below) |
+| 28 | *en paroikēsei* "in his dwelling as a guest" | wherever he lives |
+
+### Sirach 22: The Fool and the Friend
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lithō ērdalōmenō* "a soiled stone" | a filthy stone |
+| 2 | *bolbitō kopriōn* "dung of dunghills" | a lump of dung |
+| 3 | *thygatēr de ep' elattōsei ginetai* "and a daughter is born for loss" | ***KEPT AS IS*** and a daughter is born to his loss (note) |
+| 4 | *klēronomēsei andra autēs* "will inherit her husband" | will gain a husband of her own |
+| 6 | *mousika en penthei* "music in mourning" | Like music in mourning |
+| 7 | *synkollōn ostrakon* "gluing a potsherd" | glues potsherds together |
+| 8 | *nystazonti* "to one dozing" | to a man half asleep |
+| 9, 10 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 11 | *hēdion klauson* "weep more sweetly" | Weep less bitterly |
+| 13 | *en tō entinagmō autou* "in his shaking off" | when he shakes himself |
+| 13 | *ou mē akēdiasēs* "you will not be wearied" | you will not be worn out |
+| 16 | *himantōsis xylinē* "wooden bonding" | Timber bound firmly |
+| 17 | *kosmos psammōtos toichou xystou* "sanded ornament of a planed wall" | the sanded plaster on a smooth wall |
+| 18 | *charakes* "stakes" | Stakes |
+| 19 | *ekphainei aisthēsin* "brings out feeling" | brings feelings to light |
+| 22 | *mystēriou apokalypseōs* "revealing of a secret" | the telling of a secret |
+| 27 | *sphragida panourgon* "a shrewd seal" | a shrewd seal |
+
+### Sirach 23: Discipline of the Mouth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *kai ou mē parē ta hamartēmata autōn* "and their sins not be passed over" | and my sins may not pass unnoticed |
+| 4 | *meteōrismon ophthalmōn* "a lifting of eyes" | haughty eyes |
+| 6 | *koilias orexis kai synousiasmos* "appetite of the belly and intercourse" | gluttony nor lust |
+| 7 | *Paideia stomatos* (heading) | *Discipline of the mouth.* |
+| 9 | *onomasia tou hagiou* "the naming of the Holy (One)" | naming the Holy One |
+| 10 | *apo mōlōpos ouk elattōthēsetai* "will not be lacking a bruise" | will not be without bruises |
+| 11 | *polyorkos* "much-swearing" | who swears many oaths |
+| 11 | *dia kenēs ōmosen* "swore in vain" | has sworn in vain |
+| 12 | *lexis antiperibeblēmenē thanatō* "speech clothed about with death" | a way of speaking that is clothed in death |
+| 13 | *apaideusian asyrē* "lewd indiscipline" | coarse and foul talk |
+| 14 | *tō ethismō sou mōranthēs* "you become foolish by your habit" | through habit behave like a fool |
+| 16 | *anthrōpos pornos* "a fornicating man" | a man who commits fornication |
+| 18 | *parabainōn apo tēs klinēs autou* "going astray from his bed" | who strays from his marriage bed |
+| 24 | *epi ta tekna autēs episkopē estai* "a visitation will be on her children" | her children will be called to account |
+| 25 | *ou diadōsousin eis rhizan* "will not spread to a root" | will not spread their roots |
+
+### Sirach 24: The Praise of Wisdom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Ainesis sophias* (heading) | *The praise of wisdom.* |
+| 1 | *en mesō laou autēs* "in the middle of her people" | among her people |
+| 2 | *enanti dynameōs autou* "before His power" | before His host |
+| 4 | *kateskēnōsa* "I tented" | I dwelt |
+| 5 | *gyron ouranou* "the circle of heaven" | the circle of heaven |
+| 6 | *ektēsamēn* "I acquired" | I have held sway |
+| 8 | *katepausen tēn skēnēn mou* "gave rest to my tent" | gave my tent a resting place |
+| 8 | *kataskēnōson* "pitch your tent" | Pitch your tent |
+| 10 | *eleitourgēsa* "I ministered (as a priest)" | I ministered |
+| 14 | *en aigialois* "on beaches" | on the shores |
+| 15 | *aspalathos* "camel's thorn" | camel's thorn |
+| 18, 24 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 20 | *hyper melitos kērou* "above honey of the comb" | sweeter than the honeycomb |
+| 23 | *nomon* "law" | the law (choice below) |
+| 25 | *en hēmerais neōn* "in days of new (fruits)" | in the days of first fruits |
+| 29 | *apo thalassēs eplēthynthē* "is fuller than the sea" | is fuller than the sea |
+| 30 | *hōs diōryx apo potamou* "like a canal from a river" | like a canal from a river |
+| 30 | *eis paradeison* "into a park" | into a garden |
+| 31 | *kai idou egeneto* "and *idou*, it became" | and my canal became (*idou* cut) |
+
+**Choices for you:**
+- **21:27 "the adversary" or "Satan"** — *ton satanan*. This joins the open Satan question from Job 1–2. Now: *When the ungodly man curses the adversary, he curses his own soul.*
+- **24:23 "the law"** — the verse quotes Deuteronomy 33:4, where *torah* is now "instruction." Whatever you rule for *torah* should probably decide this line too. Now: *the law that Moses commanded, an inheritance for the assemblies of Jacob.*
+
 ## Sirach 17–20 — rendered 2026-10-07, 7:01 PM CDT
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 17:5, 16, 18, 21; 18:3; 19:18, 19, 21; 20:3: numbered placeholders. Swete's 20 ends at v31. Two headings stand in the Greek text itself, *Self-control of the soul* (18:30) and *Sayings in proverbs* (20:26); both are rendered in italics where they stand. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 32:8; Luke 1:28; James 3:2) and this project's English where quoted (Genesis 9:2, 18:27; Leviticus 19:17; Deuteronomy 6:16, 16:19, 32:9–10; Psalms 6:5, 8:4, 90:10; Proverbs 17:28; Reproof 2:7, 7:3; Ecclesiastes 3:7, 5:4).
