@@ -2,6 +2,132 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 25–28 — rendered 2026-10-07, 10:31 PM CDT
+
+**Source:** Greek (Swete), English verse numbers. No Greek for 25:12 and 26:19–27: numbered placeholders. No new headings in the Greek text. Echoes in the notes checked against this project's English where quoted (Genesis 2:24, 3:6; Exodus 25:31–37, 26:32; Leviticus 19:18; Deuteronomy 24:1, 32:35; 1 Samuel 1:6; Proverbs 6:5, 10:10, 11:13, 15:18; Reproof 1:15, 2:27, 7:10; Ecclesiastes 10:8; Jeremiah 28:13; Amos 8:5; Psalm 141:3; Wisdom 18:24) and the Greek in `sources/` (Matthew 6:12, 7:16, 12:34, 18:23–35; Romans 5:12, 12:19; Philippians 3:8; James 3:10).
+
+**The checker** found nothing. A second pass against the Greek took out five words the Greek does not have: "But" opening 26:6, "her" before "impudent eye" (26:11), "every" before "arrow" (26:12), "on both sides" (27:25), and "freedom of speech" at 25:25, where Swete prints *exousian* "license," not *parrēsian*; now "free rein." 26:16 *oikias autou* is "his" house, the husband's; now "in his well-ordered home." 28:17 *synklasei* is "breaks," which keeps the echo of Reproof 1:15 *will break a bone*.
+
+**What these chapters are:** three things beautiful and three men hated, nine blessings and a tenth, the fear of the Lord above all; the evil wife, "From a woman sin had its beginning" (25); the good wife likened to the lampstand and the gold pillars of the sanctuary, a daughter to be watched, the merchant who can hardly keep clear of wrongdoing (26); sin wedged between selling and buying, the sieve, the kiln and the fruit, the betrayed secret that cannot be won back, "Whoever digs a pit will fall into it" (27); "Forgive your neighbor the wrong he has done, and then, when you pray, your sins will be forgiven," the "third tongue," a door and a bolt for your mouth (28).
+
+### Sirach 25: Nine Things and a Tenth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hōraisthēn kai anestēn hōraia* "I was made beautiful and stood up beautiful" | I am made beautiful, and stand in beauty |
+| 1 | *heautois synperipheromenoi* "going along with each other" | who suit each other |
+| 2 | *prosōchthisa sphodra tē zōē autōn* "I was greatly vexed at their life" | I am greatly offended by their life |
+| 2 | *elattoumenon synesei* "lessened in understanding" | lacking in sense |
+| 6 | *polypeiria* "much experience" | Rich experience |
+| 7 | *ennea hyponoēmata* "nine notions" | Nine things I have thought of |
+| 7 | *epi glōssēs* "upon the tongue" | with my tongue |
+| 7 | *zōn kai blepōn epi ptōsei* "living and seeing at the fall" | who lives to see the fall |
+| 8, 9 | *makarios* "blessed" | happy is he |
+| 13 | *pasan plēgēn, kai mē plēgēn kardias* "any wound, and not a wound of the heart" | Any wound, but not a wound of the heart! |
+| 15 | *ouk estin kephalē hyper kephalēn opheōs* "there is no head above the head of a snake" | ***KEPT AS IS*** There is no head above the head of a snake (note) |
+| 17 | *hōs sakkon* "like sackcloth" | ***KEPT AS IS*** like sackcloth (Swete's reading) |
+| 18 | *ana meson tou plēsion autou anapeseitai* "will recline in the midst of his neighbor" | sits among his neighbors |
+| 19 | *mikra pasa kakia pros kakian gynaikos* "small is all wickedness toward a wife's wickedness" | Any wickedness is small beside the wickedness of a wife |
+| 20 | *en posin presbyterou* "in the feet of an elder" | for the feet of the aged |
+| 21 | *mē prospesēs epi kallos* "do not fall upon beauty" | Do not fall for a woman's beauty |
+| 22 | *epichorēgē* "supplies" | provides for (note) |
+| 23 | *kardia tapeinē* "a lowly heart" | A dejected heart |
+| 23 | *plēgē kardias gynē ponēra* "a wound of heart, an evil wife" | a wounded heart come from an evil wife |
+| 23 | *hētis ou makariei ton andra autēs* "who will not make her husband blessed" | a wife who does not make her husband happy |
+| 25 | *exousian* "license" | free rein |
+| 26 | *kata cheira sou* "according to your hand" | as you direct |
+
+### Sirach 26: A Good Wife
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *diplasios* "double" | will be doubled |
+| 2 | *gynē andreia* "a manly / capable woman" | A capable wife (note) |
+| 3 | *en meridi phoboumenōn Kyrion* "in the portion of those who fear the Lord" | as a portion to those who fear the Lord |
+| 4 | *plousiou de kai ptōchou kardia agathē* "of rich and poor, a good heart" | Whether rich or poor, his heart is glad |
+| 5 | *epi tō tetartō prosōpō edeēthēn* "at the fourth face I begged" | ***KEPT AS IS*** over a fourth I have pleaded (note) |
+| 5 | *ekklēsian ochlou* "an assembly of a mob" | the gathering of a mob |
+| 6 | *mastix glōssēs pasin epikoinōnousa* "a scourge of tongue sharing with all" | ***KEPT AS IS*** a scourge of the tongue that shares it with all |
+| 7 | *booxygion saleuomenon* "a shaking ox-yoke" | an ox yoke that slips |
+| 8 | *orgē megalē gynē methysos* "great anger, a drunken wife" | A drunken wife arouses great anger |
+| 9 | *porneia* "fornication" | unchastity (ties to the open Wisdom 14:12 choice) |
+| 9 | *en meteōrismois ophthalmōn* "in the liftings of the eyes" | in her bold glances |
+| 10 | *adiatreptōs stereōson phylakēn* "make the watch firm unyieldingly" | keep a firm and unyielding watch |
+| 10 | *heautē chrēsētai* "she use herself" | she will use it for herself |
+| 11 | *opisō anaidous ophthalmou phylaxai* "guard behind an impudent eye" | Be on guard against an impudent eye |
+| 12 | *pantos passalou* "tent peg"; *anoixei pharetran* "she will open a quiver" | in front of every tent peg… open her quiver to the arrow |
+| 13 | *ta ostā autou pianei* "will fatten his bones" | puts fat on his bones |
+| 14 | *ouk estin antallagma* "there is no exchange" | nothing can be given in exchange |
+| 15 | *ouk estin stathmos pas axios* "no weight at all is worthy" | no scale can weigh the worth |
+| 16 | *en kosmō oikias autou* "in the order of his house" | in his well-ordered home |
+| 17 | *epi hēlikia stasimē* "on a steady stature" | on a stately figure |
+| 18 | *epi sternois eustathous* "on the chest of one steady" | ***KEPT AS IS*** with a steady heart (note) |
+| 19–27 | (no words in Swete) | *(This verse is not in the Greek text followed here; see the note.)* |
+| 28 | *hysterōn di' endeian* "lacking through want" | in want through poverty |
+| 28 | *skybalisthōsin* "are treated as dung" | treated as refuse (note) |
+| 29 | *molis exeleitai… apo plēmmeleias* "will hardly be taken out of wrongdoing" | can hardly keep himself from wrongdoing |
+| 29 | *kapēlos* "retailer" | a tradesman |
+
+### Sirach 27: Speech Reveals the Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *charin adiaphorou* "for the sake of an indifferent thing" | for a trifle |
+| 1 | *ho zētōn plēthynai* "whoever seeks to multiply" | whoever seeks to grow rich |
+| 2 | *syntribēsetai* "will be crushed" | is wedged in |
+| 4 | *skybala anthrōpou* "a man's refuse" | a man's faults |
+| 6 | *geōrgion xylou* "the tending of a tree" | how a tree has been tended |
+| 7 | *pro logismou* "before reasoning" | before you hear him reason |
+| 8 | *podērē doxēs* "a long robe of glory" | a glorious long robe (note) |
+| 9 | *katalysei* "will lodge" | roost |
+| 12 | *syntērēson kairon* "keep the time" | watch for the time to leave |
+| 12 | *endelechize* "persevere" | stay on |
+| 13 | *en spatalē hamartias* "in the wantonness of sin" | wanton sin |
+| 14 | *emphragmos ōtiōn* "a stopping of ears" | make one stop his ears |
+| 15 | *ekchysis haimatos machē hyperēphanōn* "a shedding of blood is the quarrel of the proud" | The quarrel of the proud ends in bloodshed |
+| 15 | *akoē mochthēra* "a grievous hearing" | grievous to hear |
+| 16 | *philon pros tēn psychēn autou* "a friend to his soul" | a friend to his liking |
+| 17 | *ou mē katadiōxēs opisō autou* "you shall not pursue after him" | do not go after him |
+| 21 | *aphēlpisen* "has despaired" | has lost all hope |
+| 23 | *glykanei stoma sou* "he will sweeten your mouth" | ***KEPT AS IS*** he speaks sweetly to you (note) |
+| 23 | *en tois logois sou dōsei skandalon* "in your words he will put a stumbling block" | turns your own words into a stumbling block |
+| 24 | *ouch homoiōsa autō* "I did not liken them to him" | none like him |
+| 25 | *eis hypsos* "into the height" | straight up |
+| 25 | *dielei traumata* "will divide wounds" | deals out wounds |
+| 27 | *eis auton kylisthēsetai* "will roll onto him" | it will roll back on him |
+| 30 | *bdelygmata* "detestable things" | detestable (note) |
+| 30 | *enkratēs estai autōn* "will be master of them" | will hold on to them |
+
+### Sirach 28: Forgive Your Neighbor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *diastēriōn diastērisei* "making firm he will make firm" | He will keep strict account (note) |
+| 2 | *deēthentos sou* "you having prayed" | when you pray |
+| 2 | *lythēsontai* "will be loosed" | will be forgiven |
+| 5 | *autos sarx ōn* "he, being flesh" | If he, being flesh |
+| 6 | *ta eschata* "the last things" | the end of your life |
+| 6 | *pausai echthrainōn* "cease being hostile" | stop hating |
+| 6 | *kataphthoran kai thanaton* (object of "remember") | remember decay and death |
+| 7 | *paride agnoian* "overlook ignorance" | ***KEPT AS IS*** overlook ignorance |
+| 9 | *ekballei diabolēn* "throws in slander" | sows slander |
+| 10 | *kata tēn stereōsin tēs machēs* "according to the firmness of the strife" | as the strife is stubborn |
+| 11 | *kataspeudomenē… kataspeudousa* "hastened… hastening" | A hasty quarrel… urgent strife |
+| 14, 15 | *glōssa tritē* "a third tongue" | ***KEPT AS IS*** A third tongue (note) |
+| 15 | *tōn ponōn autōn* "of their labors" | of the fruit of their labors |
+| 16 | *ho prosechōn autē* "whoever heeds it" | Whoever listens to it |
+| 17 | *poiei mōlōpas* "makes welts" | raises a welt |
+| 19 | *heilkysen ton zygon* "dragged the yoke" | borne its yoke |
+| 21 | *lysitelēs mallon ho hadēs* "Hades is more profitable" | Hades is better than it |
+| 23 | *empesountai eis autēn* "will fall into it" | will fall into its power |
+| 23 | *lymaneitai* "will maul" | will tear |
+| 24 | *ide* "see" | (cut) (note) |
+| 24 | *katadēson* "bind up" | lock up |
+
+**Left standing on purpose:** 25:15 the snake's head; 25:17 "like sackcloth" (Swete's reading); 26:5 "over a fourth I have pleaded"; 26:6 "a scourge of the tongue that shares it with all"; 26:18 "with a steady heart"; 27:23 "he speaks sweetly to you" (Swete: "your mouth"); 28:7 "overlook ignorance"; 28:14–15 "a third tongue."
+
+**Choices:** none new.
+
 ## Sirach 21–24 — rendered 2026-10-07, 10:22 PM CDT (the cycle began at 7:04 PM; a usage-limit pause came in between)
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 22:9–10 and 24:18, 24: numbered placeholders. Swete's 23 ends at v27. Two more headings stand in the Greek text, *Discipline of the mouth* (23:7) and *The praise of wisdom* (24:1); both in italics where they stand. Echoes in the notes checked against the Greek in `sources/` (Deuteronomy 33:4; John 1:14, 6:35) and this project's English where quoted (Genesis 50:10; Exodus 30:34; Joshua 3:15; Job 24:15; Psalms 19:10, 141:3; Proverbs 9:17; Reproof 1:9, 1:20, 3:3; Deuteronomy 33:4).
