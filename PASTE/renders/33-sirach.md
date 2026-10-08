@@ -2,6 +2,158 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 33–36 — rendered 2026-10-08, 12:55 PM CDT
+
+**Source:** Greek (Swete), set into English (KJV) chapters and verses. These four are where Swete's order and the English part company (see the 29–32 entry below and `NOTES_FOR_ANDREW.md`):
+- **English 33** = Swete 36:1–16a, then 30:25–40.
+- **English 34** = Swete 31, with 31 verses joined into 26.
+- **English 35** = Swete 32, with 26 verses joined into 20.
+- **English 36** = Swete 33:1–13, the end of 36:16, then 36:17–31.
+
+Verse divisions were matched line by line against the KJV (ebible.org). No KJV text is in `sources/`. Each chapter's first note says which of Swete's verses it holds. The NOTES entry from this morning wrongly said English 33:17–31 matched Swete verse for verse; it is corrected.
+
+Echoes in the notes were checked two ways:
+- **Against this project's English where quoted:** Genesis 2:3, 2:7, 2:18; Exodus 4:22, 15:6, 22:23, 23:15; Leviticus 2:2, 3:1, 7:12, 19:13, 19:34; Numbers 6:27, 12:6, 19:11–12; Deuteronomy 10:17, 18:10, 24:15; Job 12:11; Psalms 33:18, 50:14, 121:5–6, 132:14; Proverbs 21:27; Reproof 3:8; Sirach 24:34; Matthew 3:6.
+- **Against the Greek in `sources/`:** Swete's Genesis 2:3, 2:18; Exodus 4:22, 15:6, 23:15; Leviticus 2:2, 19:34; Deuteronomy 18:10; Psalms 32:18, 49:14, 131:14; Job 12:11; Ezekiel 36:23; Sirach 42:24. SBLGNT Luke 18:7 and Romans 9:21.
+
+**The checker** found nothing. Two thin notes in 36 were cut before committing.
+
+**What these chapters are:**
+- **33:** days and men set apart by God, *Like clay in the potter's hand*, all things *two by two*; the writer as the last gleaner who came in ahead; property kept in your own hands while you live; the servant, worked hard and treated *as yourself*.
+- **34:** dreams as empty as clutching at shadows; the traveled man; *The eyes of the Lord are on those who love Him*; offerings made from what was taken from the poor; wages withheld as bloodshed.
+- **35:** keeping the law as offering; *Do not appear before the Lord empty-handed*; the widow's tears and the prayer that will not rest until God acts.
+- **36:** the prayer *Have mercy on us, Master, God of all*, for the nations to know Him and for Jerusalem; then sayings on food, words and a good wife.
+
+### Sirach 33: Two by Two (Swete 36:1–16a; 30:25–40)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *en peirasmō kai palin exeleitai* "in testing even again he will be taken out" | but in testing he will be rescued again |
+| 2 | *ho hypokrinomenos en autō* "the one playing a part in it" | one who is a hypocrite about it |
+| 3 | *hōs erōtēma dikaiōn* "as an inquiry of the righteous" | ***KEPT AS IS*** as the inquiry of the righteous (note) |
+| 4 | *syndēson paideian* "bind together discipline" | bind your learning together |
+| 5 | *splanchna mōrou* "a fool's inward parts" | The heart of a fool |
+| 6 | *hippos eis ocheian* "a horse for mounting" | A stallion at stud |
+| 8 | *diechōristhēsan* "they were separated" | they were made distinct |
+| 9 | *ethēken eis arithmon hēmerōn* "He put into the number of days" | He counted among the ordinary days |
+| 9, 12 | *hēgiasen* "made holy" | set apart (note: Genesis 2:3) |
+| 12 | *apo staseōs autōn* "from their standing" | out of their place |
+| 13 | *pasai hai hodoi autou kata tēn eudokian autou* "all its ways by his pleasure" | all its ways as he pleases |
+| 13 | *apodounai autois kata tēn krisin autou* "to render to them by His judgment" | to repay them as He judges |
+| 16 | *eschatos ēgrypnēsa* "I kept watch last" | I was the last to keep watch (note) |
+| 16 | *ephthasa* "I arrived first" | I came in ahead (note) |
+| 17 | *paideian* "discipline" | discipline |
+| 19 | *metamelētheis deē peri autōn* "having regretted, you beg about them" | you may change your mind and have to ask for it back |
+| 20 | *mē allaxēs seauton pasē sarki* "do not exchange yourself to any flesh" | do not trade yourself away to anyone |
+| 21 | *emblepein eis cheiras huiōn sou* "look into your sons' hands" | ***KEPT AS IS*** look to the hands of your sons |
+| 22 | *ginou huperagōn* "be pre-eminent" | keep the upper hand |
+| 22 | *mōmon* "blemish" | blemish |
+| 25 | *anes cheiras autō* "let his hands loose" | leave his hands idle |
+| 26 | *streblai kai basanoi* "racks and tortures" | ***KEPT AS IS*** racks and tortures |
+| 29 | *mē perisseusēs en pasē sarki* "do not go to excess in any flesh" | do not go to excess with anyone |
+| 29 | *aneu kriseōs* "without judgment" | without justice |
+| 30 | *en haimati ektēsō auton* "you acquired him with blood" | ***KEPT AS IS*** you acquired him with blood (note) |
+| 31 | *hōs hē psychē sou epideēsis autō* "as your soul, a need of him" | you need him as you need your own soul |
+| 31 | *aparas apodra* "having set off, he runs away" | he sets off and runs away |
+
+### Sirach 34: Dreams, and Offerings from Wrong (Swete 31)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *anapterousin* "give wings to" | give wings to |
+| 2 | *ho epechōn enypniois* "the one holding to dreams" | the one who pays attention to dreams |
+| 3 | *touto kata toutou horasis enypniōn* "this against this, the sight of dreams" | ***KEPT AS IS*** What one sees in dreams is one thing set against another (note) |
+| 4 | *ti alētheusei* "what will speak true" | what can come true |
+| 5 | *hōs ōdinousēs phantazetai kardia* "the heart fancies as of a woman in labor" | the heart imagines things like a woman in labor |
+| 6 | *en episkopē* "in visitation" | as a visitation |
+| 7 | *exepeson* "fell out" | have fallen |
+| 8 | *syntelesthēsetai* "will be accomplished" | will be fulfilled |
+| 9 | *pepaideumenos* "disciplined" (Swete) | A well-disciplined man (note) |
+| 10 | *peplanēmenos plēthynei panourgian* "one who has wandered will multiply shrewdness" | one who has wandered will grow in shrewdness |
+| 11 | *pleiona tōn logōn mou synesis mou* "my understanding is more than my words" | I understand more than I can say |
+| 12 | *diesōthēn toutōn charin* "I was brought safe for the sake of these" | I came through because of these things |
+| 15 | *tini epechei; kai tis antistērigma autou* "to whom does he hold? and who is his prop?" | On whom does he lean? Who is his support? |
+| 16 | *skepē apo kausōnos* "shelter from scorching wind" | a shelter from the scorching wind |
+| 18 | *prosphora memōkēmenē… mōkēmata* "an offering mocked… mockeries" | makes a mockery of an offering… the mockeries (note) |
+| 19 | *exilasketai* "makes atonement" | does He atone |
+| 20 | *thyōn huion enanti tou patros autou* "sacrificing a son before his father" | Like one who sacrifices a son in front of his father (note) |
+| 21 | *anthrōpos haimatōn* "a man of bloods" | a man of blood |
+| 22 | *ho aphairoumenos symbiōsin* "the one taking away a livelihood" | To take away a neighbor's living |
+| 24 | *ho despotēs* "the Master" | the Master |
+| 25 | *baptizomenos apo nekrou* "being washed from a dead man" | One who is washed after touching a dead body (note) |
+
+### Sirach 35: The Offering the Lord Accepts (Swete 32)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pleonazei prosphoras* "multiplies offerings" | makes many offerings |
+| 1 | *thysiazōn sōtēriou* "sacrificing of deliverance" | sacrifices a peace offering (note) |
+| 2 | *antapodidous charin* "repaying a favor" | Whoever repays a kindness |
+| 2 | *thysiazōn aineseōs* "sacrificing of praise" | sacrifices a thank offering (note) |
+| 3 | *eudokia Kyriou* "the Lord's good pleasure" | what pleases the Lord |
+| 3 | *exilasmos* "propitiation" | atonement |
+| 4 | *mē ophthēs en prosōpō Kyriou kenos* "do not be seen in the face of the Lord empty" | Do not appear before the Lord empty-handed (note) |
+| 6 | *lipainei* "makes fat" | enriches |
+| 8, 10 | *en agathō ophthalmō* "with a good eye" | with a good eye (note) |
+| 8 | *mē mikrynēs* "do not make small" | do not stint |
+| 9 | *hagiason dekatēn* "make holy a tenth" | set apart your tithe |
+| 10 | *kath' heurema cheiros* "by the finding of the hand" | as much as your hand has found |
+| 12 | *mē dōrokopei* "do not bribe" | Do not offer bribes |
+| 12 | *mē epeche thysia adikō* "do not hold to an unjust sacrifice" | do not rely on an unjust sacrifice |
+| 12 | *doxa prosōpou* "glory of face" | partiality |
+| 13 | *ou lēmpsetai prosōpon epi ptōchou* "will not take a face against a poor man" | He will not show partiality against a poor man |
+| 14 | *ean ekcheē lalian* "if she pours out talk" | when she pours out her complaint |
+| 16 | *therapeuōn en eudokia* "serving in good will" | Whoever serves willingly |
+| 17 | *ou mē paraklēthē* "it will not be comforted" | it will not be comforted |
+| 18 | *makrothymēsei ep' autois* "be patient over them" | be patient with them (note) |
+| 19 | *krinē tēn krisin tou laou autou* "judges the judgment of His people" | judges the cause of His people |
+| 20 | *hōraion eleos* "seasonable mercy" | Mercy is welcome (note) |
+| 20 | *thlipseōs autou* "of his affliction" | ***KEPT AS IS*** in the time of his affliction |
+
+### Sirach 36: Have Mercy on Us (Swete 33:1–13; 36:16b–31)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *despota ho theos pantōn* "Master, the God of all" | Master, God of all |
+| 2 | *epibale ton phobon sou* "cast Your fear" | send the fear of You |
+| 4 | *hēgiasthēs en hēmin* "You were made holy among us" | You have shown Yourself holy among us (note) |
+| 4 | *megalyntheiēs* "may You be made great" | show Yourself great |
+| 6 | *enkainison sēmeia kai alloiōson thaumasia* "renew signs and change wonders" | Renew signs and work other wonders |
+| 7 | *egeiron thymon* "rouse anger" | Rouse anger |
+| 9 | *ho sōzomenos* "the one being saved" | whoever escapes |
+| 11 | *kataklēronomēseis autous* "you will make them inherit" | give them their inheritance |
+| 12 | *prōtogonō hōmoiōsas* "You made like a firstborn" | whom You likened to a firstborn (note) |
+| 14 | *aretalogias sou* "the telling of Your excellences" | the telling of Your mighty deeds |
+| 14 | *ton laon sou* (Swete) "Your people" | Your people |
+| 15 | *tois en archē ktismasin sou* "to Your creatures in the beginning" | ***KEPT AS IS*** to those You created in the beginning |
+| 15 | *egeiron prophēteias* "raise up prophecies" | bring to pass the prophecies |
+| 16 | *empisteuthētōsan* "let them be believed" | let Your prophets be found trustworthy |
+| 17 | *tōn hiketōn sou* "of Your suppliants" | of those who plead with You |
+| 17 | *ho theos tōn aiōnōn* "the God of the ages" | the God of the ages |
+| 19 | *pharynx geuetai brōmata thēras* "the throat tastes foods of the hunt" | the palate tastes game |
+| 20 | *kardia streblē* "a twisted heart" | A crooked heart |
+| 21 | *panta arrena epidexetai gynē* "a woman will receive every male" | ***KEPT AS IS*** A woman will accept any man |
+| 22 | *hilarynei prosōpon* "gladdens the face" | brightens the face |
+| 23 | *ouk estin ho anēr autēs kath' huious anthrōpōn* "her husband is not as the sons of men" | her husband is not like other men |
+| 24 | *enarchetai ktēseōs* "begins a possession" | makes a beginning of possessions |
+| 24 | *boēthon kat' auton* "a helper corresponding to him" | a helper fit for him (note) |
+| 24 | *stylon anapauseōs* "a pillar of rest" | a pillar to rest on |
+| 26 | *euzōnō lēstē* "a well-girded robber" | a nimble robber |
+| 26 | *nossian* "nest" | nest (note) |
+| 26 | *hou ean opsisē* "wherever he is late" | wherever night overtakes him |
+
+**Left standing on purpose:**
+- **33:3** "as the inquiry of the righteous": Swete's reading.
+- **33:21** "look to the hands of your sons".
+- **33:26** "racks and tortures".
+- **33:30** "you acquired him with blood".
+- **34:3** "one thing set against another".
+- **35:20** "his affliction".
+- **36:15** "those You created in the beginning".
+- **36:21** "A woman will accept any man".
+
+**Choices:** none new.
+
 ## Sirach 29–32 — rendered 2026-10-08, 10:20 AM CDT (the routine's 7:46 AM run, done late)
 
 **Source:** Greek (Swete), English verse numbers. **From here Swete's chapters are not the English chapters.** Swete prints 30:25–36:16 in the Greek order, two blocks exchanged, and numbers them as they stand. English 30:1–24 is Swete 30:1–24; English 30:25 is the line Swete prints at the end of his 30:24; **English 31 is Swete 34, and English 32 is Swete 35**, verse for verse. The note on 30:25 says so; the full map for 33–36 is in `NOTES_FOR_ANDREW.md`. Headings in the Greek text: *Concerning children* (30:1) and *Concerning food* (30:16), in italics where they stand. Echoes in the notes checked against this project's English where quoted (Deuteronomy 4:28, 15:8; Proverbs 13:24; Psalms 36:8, 104:15, 115:6; Ecclesiastes 5:12; Tobit 4:9, 4:15, 4:17; Wisdom 2:8; Matthew 5:42, 6:2, 6:20, 7:12, 20:15) and the Greek in `sources/` (Mark 10:45; Swete's Psalms 35:9 and 103:15).
