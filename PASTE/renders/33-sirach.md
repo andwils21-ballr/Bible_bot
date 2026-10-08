@@ -2,6 +2,183 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 37–40 — rendered 2026-10-08, 5:55 PM CDT
+
+**Source:** Greek (Swete). **From chapter 37, Swete's chapters and verses line up with the English again.** Verse counts were checked against the KJV: 37 has 31, 38 has 34, 39 has 35 and 40 has 30, with first and last lines matching. No headings in the Greek text.
+
+Echoes in the notes were checked two ways:
+- **Against this project's English where quoted:** Genesis 1:31, 2:8, 3:19, 6:13, 18:27, 41:2; Exodus 15:8, 15:25; Deuteronomy 30:15, 32:3, 32:24; 2 Chronicles 16:12; Job 1:21, 8:12; Psalms 1:2, 22:18, 33:7, 107:34; Proverbs 1:6, 18:21; Ecclesiastes 3:11; Matthew 26:38.
+- **Against the Greek in `sources/`:** Swete's Genesis 2:8, 18:27, 41:2; Exodus 15:25; Deuteronomy 32:3; Psalms 21:19, 106:34; Daniel 1:8 (both forms). SBLGNT Matthew 26:38 and 1 Corinthians 6:12.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **37:** the friend in name only, the counselor who counsels for himself, the counsel of your own heart; the tongue that rules over life and death; greed at the table.
+- **38:** *Honor the physician… for the Lord created him too*; mourning the dead, *Yesterday for me, and today for you*; the farmer, engraver, smith and potter, each *sets his heart… lies awake*, and *their prayer is in the work of their craft*.
+- **39:** the scribe who *ponders the law of the Most High*; the hymn *All the works of the Lord are very good*.
+- **40:** the toil and night fears of every man, from throne to *dust and ashes*; ten sayings of *better than both*; the beggar's life.
+
+### Sirach 37: Friends and Counselors
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Ephiliasa autō kagō* "I too have befriended him" | "I too am his friend" |
+| 2 | *lypē eni heōs thanatou* "grief is in it unto death" | a grief close to death (note) |
+| 3 | *enthymēma* "inclination, thought" | thought |
+| 3 | *enekylisthēs* "you rolled in" | did you roll in |
+| 3 | *tēn xēran* "the dry land" | the dry land |
+| 4 | *estai apenanti* "will be opposite" | he will be against him |
+| 5 | *charin gastros* "for the belly's sake" | for the sake of his belly |
+| 7 | *exairei boulēn* "lifts up counsel" | praises his own counsel |
+| 7 | *symbouleuōn eis hauton* "counseling toward himself" | counsels for his own sake |
+| 8 | *tis autou chreia* "what his need is" | what he needs |
+| 8 | *balē epi soi klēron* "cast a lot upon you" | ***KEPT AS IS*** he may cast the lot over you (note) |
+| 9 | *stēsetai ex enantias* "will stand opposite" | stand off |
+| 10 | *tou hypoblepomenou se* "one who looks askance at you" | one who looks at you with suspicion |
+| 11 | (no verb in the list; *mē epeche* at the end) | With a woman… do not rely on these (note) |
+| 11 | *misthiou aphestiou* "a hired man without a hearth" | a hired man far from home (note) |
+| 12 | *all' ē… endelechize* "but only… persist" | But stay close |
+| 13 | *boulēn kardias stēson* "make the counsel of the heart stand" | Hold fast to the counsel of your own heart |
+| 14 | *apangellein eniote eiōthen* "is sometimes used to report" | sometimes tells him |
+| 16 | *logos* "word, reason" | Reason |
+| 17 | *ichnos alloiōseōs kardia* "a track of change for the heart" | ***KEPT AS IS*** A change of heart leaves its track |
+| 18 | *tessera merē anatellei* "four parts rise" | four things spring up |
+| 19 | *panourgos* "clever" | shrewd |
+| 20 | *sophizomenos* "playing the sophist" | one who plays the wise man |
+| 20 | *pasēs trophēs kathysterēsei* "will fall short of all food" | will end up lacking all food |
+| 25 | *en arithmō hēmerōn* "in a number of days" | is counted in days |
+| 26 | *klēronomēsei pistin* "will inherit trust" | will inherit trust |
+| 27 | *peirason tēn psychēn sou* "test your soul" | test your soul |
+| 28 | *sympherei* "is beneficial" | is good for (note) |
+| 29 | *mē ekchythēs* "do not be poured out" | do not throw yourself |
+| 30 | *choleras* "bilious vomiting" | vomiting (as at 31:20) |
+| 31 | *prosthēsei zōēn* "will add life" | will add to his life |
+
+### Sirach 38: The Physician, the Dead, and the Trades
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pros tas chreias timais autou* "for the needs with his honors" | with the honor due him for your needs |
+| 4 | *ou prosochthiei* "will not loathe" | will not despise |
+| 5 | *apo xylou* "from wood" | by wood (note) |
+| 6–8 | (subject not named) | He… He heals… His works… from Him (note) |
+| 8 | *myrepsos* "perfumer" | the apothecary |
+| 8 | *eirēnē* "peace" | well-being |
+| 9 | *mē parablepe* "do not overlook" | do not neglect it |
+| 10 | *euthynon cheiras* "make the hands straight" | make your hands straight |
+| 11 | *hōs mē hyparchōn* "as not existing" | ***KEPT AS IS*** as one who will soon be no more (note) |
+| 13 | *euodia* "good passage" | success |
+| 14 | *charin embiōseōs* "for the sake of living" | to preserve life |
+| 15 | *empesoi* "may he fall" | ***KEPT AS IS*** may he fall into the hands of the physician (note) |
+| 16 | *katagage dakrya* "bring down tears" | let your tears fall |
+| 16 | *kata tēn krisin autou* "according to his right" | as is his due |
+| 17 | *pikranon klauthmon kai thermanon kopeton* "make bitter the weeping and heat the mourning" | Make the weeping bitter and the mourning warm |
+| 17 | *charin diabolēs* "for the sake of slander" | to avoid reproach |
+| 18 | *kampsei ischyn* "will bend strength" | saps strength |
+| 19 | *en apagōgē parabainei kai lypē* "in the leading away grief also passes" | ***KEPT AS IS*** When he is carried away, grief too passes (note) |
+| 19 | *bios ptōchou kata kardias* "a poor man's life is against the heart" | ***KEPT AS IS*** a poor man's life is against the heart |
+| 20 | *ta eschata* "the last things" | your own end |
+| 22 | *to krima autou* "his judgment" | his sentence |
+| 23 | *katapauson to mnēmosynon autou* "make his memory rest" | let his memory rest |
+| 23 | *en exodō pneumatos autou* "at the going out of his spirit" | when his spirit has gone out |
+| 24 | *en eukairia scholēs* "in the opportunity of leisure" | through the opportunity of leisure |
+| 25 | *hē diēgēsis autōn en huiois taurōn* "whose talk is in sons of bulls" | whose talk is about bullocks |
+| 26, 27, 28, 30 | *kardian autou dōsei… kai hē agrypnia autou* "he will give his heart… and his sleeplessness" | he sets his heart… and he lies awake (the refrain, the same each time) |
+| 27 | *glyphontes glymmata sphragidōn* "engraving engravings of seals" | those who engrave seals |
+| 27 | *homoiōsai zōgraphian* "to make the picture alike" | making the likeness true |
+| 28 | *atmis pyros pēxei sarkas* "the vapor of fire will dry the flesh" | the breath of the fire withers his flesh |
+| 28 | *kainiei to ous autou* "will make his ear new" | ***KEPT AS IS*** is always new in his ear (note) |
+| 28 | *kosmēsai epi synteleias* "to adorn at the completion" | to adorn them at the end |
+| 29 | *enarithmios* "by count" | all he makes is counted |
+| 30 | *to charisma* "the gift, the finish" | the glaze |
+| 31 | *eis cheiras autōn enepisteusan* "trusted in their hands" | rely on their hands |
+| 32 | *ou paroikēsousin* "they will not live as guests" | no one could live there as a guest |
+| 33 | *ouch hyperalountai* "they do not leap above" | they do not rise to the top |
+| 33 | *en parabolais* "among parables" | among the makers of proverbs |
+| 34 | *ktisma aiōnos tērēsousin* "they keep the creation of the age" | they keep the fabric of the world standing |
+
+### Sirach 39: The Scribe, and the Works of the Lord
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Plēn tou epidontos tēn psychēn autou* "but the one giving his soul" | Not so the one who devotes his soul |
+| 2 | *en strophais parabolōn syneiseleusetai* "will enter into the turns of parables" | enter into the twists of parables |
+| 3 | *anastraphēsetai* "will turn about" | spend his time |
+| 5 | *tēn kardian autou epidōsei* "will give his heart" | He will set his heart (note) |
+| 6 | *anombrēsei* "will rain down" | he will rain down |
+| 6 | *exomologēsetai* "will confess" | give thanks |
+| 7 | *en tois apokryphois autou* "in his hidden things" | ***KEPT AS IS*** His hidden things (read as God's) |
+| 8 | *ekphainei paideian didaskalias autou* "shows forth the discipline of his teaching" | bring to light the discipline he teaches |
+| 11 | *ean emmeinē* "if he remains" | If he lives long |
+| 11 | *ean anapausētai, empoiei autō* "if he rests, it makes for him" | ***KEPT AS IS*** if he goes to his rest, it is enough for him |
+| 12 | *hōs dichomēnia eplērōthēn* "like the mid-month I am filled" | I am full like the moon at mid-month |
+| 14 | *euōdiasate osmēn* "make fragrant a fragrance" | send out fragrance |
+| 14 | *anthēsate anthos* "blossom a blossom" | blossom |
+| 14 | *ainesate asma* "praise a song" | sing a song of praise |
+| 15 | *dote… megalōsynēn* "give greatness" | Ascribe greatness (note) |
+| 17 | *apodocheia hydatōn* "receptacles of waters" | ***KEPT AS IS*** the storehouses of water (no verb, as in the Greek) |
+| 18 | *en prostagmati autou pasa hē eudokia* "in His command all good pleasure" | At His command is all His good pleasure |
+| 22 | *xēran emethysen* "made the dry land drunk" | drenches the dry land |
+| 23 | *eis halmēn* "into brine" | into salt (note) |
+| 26 | *archē pasēs chreias* "the beginning of every need" | The first needs (as at 29:21) |
+| 26 | *haima staphylēs* "blood of the grape" | the blood of the grape |
+| 28 | *pneumata* "winds, spirits" | ***KEPT AS IS*** winds (note) |
+| 28 | *estereōsan mastigas autōn* "made firm their scourges" | they make their scourges firm |
+| 28 | *kopasousin* "will calm" | calm |
+| 31 | *ou parabēsontai logon* "will not transgress a word" | they will not disobey His word |
+| 32 | *estērichthēn* "I was made firm" | I was resolved |
+| 34 | *eudokimēthēsetai* "will be approved" | will prove good |
+| 35 | *hymnēsamen* "we have sung praise" | we have sung praise |
+
+### Sirach 40: Better Than Both
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ascholia megalē* "great occupation" | Great toil |
+| 1 | *eis mētera pantōn* "into the mother of all" | in the mother of all (note) |
+| 2 | (accusatives with no verb) | ***KEPT AS IS*** their thoughts and the fear of their heart |
+| 2 | *epinoia prosdokias* "the thought of expectation" | the anticipation of what is coming |
+| 3 | *en gē kai spodō* "in earth and ashes" | in dust and ashes (note) |
+| 4 | *hyakinthon* "blue-purple" | purple |
+| 4 | *ōmolinon* "raw flax" | rough linen |
+| 5 | *alloioi gnōsin autou* "alters his knowing" | confuses his mind |
+| 6 | *hōs en hēmera skopias* "as in a day of watch" | as in a day of keeping watch |
+| 7 | *apothaumazōn eis oudena phobon* "marveling at the fear as nothing" | marvels that the fear was nothing |
+| 8 | *meta pasēs sarkos* "with all flesh" | So it is with all flesh |
+| 13 | *exēchēsei* "will sound out" | roar away |
+| 14 | *en tō anoixai auton cheiras* "in his opening hands" | ***KEPT AS IS*** As one who opens his hands will rejoice |
+| 14 | *eis synteleian ekleipsousin* "will fail to completion" | will utterly fail |
+| 15 | *ep' akrotomou petras* "on a sheer rock" | on a sheer rock |
+| 16 | *achei* "reed-grass" | The reeds (note) |
+| 17 | *hōs paradeisos en eulogiais* "like a paradise in blessings" | like a garden of blessings (note) |
+| 18 | *zōē autarkous ergatou* "the life of a self-sufficient worker" | ***KEPT AS IS*** The life of the contented man and the worker (two, for "both") |
+| 19 | *gynē amōmos* "a wife without blemish" | a wife without blemish |
+| 22 | *chloēn sporou* "the green of the sown" | the green shoots of the field |
+| 25 | *gynē eudokimeitai* "a wife is esteemed" | a wife is esteemed (note) |
+| 26 | *ouk estin epizētēsai en autō boētheian* "there is no seeking help in it" | with it there is no need to seek help |
+| 27 | *ekalypsan auton* "they covered him" | ***KEPT AS IS*** they have covered him (note) |
+| 29 | *ouk estin autou ho bios en logismō zōēs* "his life is not in the reckoning of life" | his life is not to be counted as a life |
+| 29 | *alisgēsei tēn psychēn autou* "will defile his soul" | he defiles himself (note) |
+| 29 | *epistēmōn kai pepaideumenos* "knowing and disciplined" | a man of knowledge and discipline |
+
+**Left standing on purpose:**
+- **37:8** "cast the lot over you".
+- **37:17** "A change of heart leaves its track".
+- **38:11** "as one who will soon be no more".
+- **38:15** "may he fall into the hands of the physician".
+- **38:19** "When he is carried away… against the heart".
+- **38:28** "always new in his ear".
+- **39:7** "His hidden things".
+- **39:11** "it is enough for him".
+- **39:17** "the storehouses of water".
+- **39:28** "winds".
+- **40:2** no verb.
+- **40:14** "As one who opens his hands".
+- **40:18** "the contented man and the worker".
+- **40:27** "they have covered him".
+
+**Choices:** none new.
+
 ## Sirach 33–36 — rendered 2026-10-08, 12:55 PM CDT
 
 **Source:** Greek (Swete), set into English (KJV) chapters and verses. These four are where Swete's order and the English part company (see the 29–32 entry below and `NOTES_FOR_ANDREW.md`):
