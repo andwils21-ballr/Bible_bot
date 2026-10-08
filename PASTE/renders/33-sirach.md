@@ -2,6 +2,152 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 29–32 — rendered 2026-10-08, 10:20 AM CDT (the routine's 7:46 AM run, done late)
+
+**Source:** Greek (Swete), English verse numbers. **From here Swete's chapters are not the English chapters.** Swete prints 30:25–36:16 in the Greek order, two blocks exchanged, and numbers them as they stand. English 30:1–24 is Swete 30:1–24; English 30:25 is the line Swete prints at the end of his 30:24; **English 31 is Swete 34, and English 32 is Swete 35**, verse for verse. The note on 30:25 says so; the full map for 33–36 is in `NOTES_FOR_ANDREW.md`. Headings in the Greek text: *Concerning children* (30:1) and *Concerning food* (30:16), in italics where they stand. Echoes in the notes checked against this project's English where quoted (Deuteronomy 4:28, 15:8; Proverbs 13:24; Psalms 36:8, 104:15, 115:6; Ecclesiastes 5:12; Tobit 4:9, 4:15, 4:17; Wisdom 2:8; Matthew 5:42, 6:2, 6:20, 7:12, 20:15) and the Greek in `sources/` (Mark 10:45; Swete's Psalms 35:9 and 103:15).
+
+**The checker** found nothing. A Council point that arrived during the run (a note that points to another passage must say what the link shows) was applied to these chapters' notes before the report.
+
+**What these chapters are:** lending and repaying, the borrower who kisses the lender's hand and then *repays with words of indifference*, charity stored up as treasure, surety, the guest in another man's house (29); a son disciplined while young, health above gold, *Envy and anger shorten one's days* (30); sleepless wealth, gold as an idol, manners at a great table, wine *created to make men glad* and wine to excess (31); the master of the feast, the elder and the young man at a banquet, *bless Him who made you*, trust the law (32).
+
+### Sirach 29: Lend to Your Neighbor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ho epischyōn tē cheiri autou* "the one strengthening with his hand" | whoever strengthens him with his hand |
+| 3 | *stereōson logon* "make firm a word" | Keep your word |
+| 4 | *hōs heurema* "as a find" | as a windfall |
+| 5 | *kataphilēsei cheira autou* "he will kiss his hand" | he will kiss the lender's hand |
+| 5 | *parelkysei chronon* "he will drag out time" | he will drag out the time |
+| 5 | *apodōsei logous akēdias* "he will repay words of indifference" | repay with words of indifference (note) |
+| 6 | *ean ischysē* "if he prevails" | If the lender prevails |
+| 6 | *apesterēsen auton* "he robbed him" | he has been robbed |
+| 6 | *ektēsato auton echthron ou dōrean* "he gained him as an enemy, not for free" | has made an enemy at his own cost |
+| 7 | *charin ponērias apestrepsan* "because of wickedness they turned away" | Because of wickedness many have refused to lend |
+| 8 | *ep' eleēmosynēn parelkyseis auton* "you will draw him out toward charity" | ***KEPT AS IS*** for charity's sake give him time (note: Swete has no "not") |
+| 10 | *iōthētō hypo ton lithon eis apōlian* "let it rust under the stone to ruin" | do not let it rust under a stone and be lost |
+| 13 | *hyper aspida kratous* "above a shield of might" | better than a mighty shield |
+| 15 | *charitas engyou* "the favors of a surety" | the kindness of your surety |
+| 16 | *agatha engyou anatrepsei* "will overturn a surety's goods" | will ruin the goods of his surety |
+| 18 | *kateuthynontas* "those going straight" | who were prospering |
+| 18 | *apōkisen* "removed from home" | has driven… from their homes |
+| 19 | *diōkōn ergolabeias* "pursuing contract-gains" | chases profit from contracts |
+| 19 | *eis kriseis* "into judgments" | into lawsuits |
+| 21 | *archē zōēs* "the beginning of life" | The first needs of life |
+| 22 | *en allotriois* "among others' things" | in other men's houses |
+| 23 | *eudokian eche* "have contentment" | Be content |
+| 25 | *xenieis kai potieis eis acharista* "you will host and give drink for thankless things" | You will entertain and pour drinks and get no thanks |
+| 26 | *psōmison me* "feed me morsels" | give it to me to eat |
+| 27 | *apo prosōpou doxēs* "from the face of honor" | make way for someone of honor |
+| 27 | *chreia tēs xenias* "need of the lodging" | I need the room |
+| 28 | *epitimēsis oikias* "rebuke of house" | reproach over his lodging |
+
+### Sirach 30: Concerning Children
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *endelechēsei mastigas autō* "will keep up lashes on him" | will whip him often (note) |
+| 1 | *ep' eschatōn autou* "at his last things" | at the last |
+| 2 | *onēsetai ep' autō* "will profit over him" | will profit from him |
+| 3 | *parazēlōsei ton echthron* "will provoke the enemy to jealousy" | will make his enemy jealous |
+| 7 | *peri psychōn huiōn katadesmeusei traumata autou* "for the lives of sons he will bind up his wounds" | ***KEPT AS IS*** For his sons' lives he will bind up his wounds (note) |
+| 7 | *splanchna autou* "his inward parts" | his heart |
+| 8 | *aneimenos* "let loose" | left to himself |
+| 9 | *tithēnēson* "nurse" | Pamper |
+| 10 | *gomphiaseis tous odontas sou* "you will set your teeth on edge" | you will grind your teeth |
+| 11 | *exousian* "license" | free rein (as at 25:25) |
+| 12 | *thlason tas pleuras autou* "crush his sides" | ***KEPT AS IS*** bruise his ribs |
+| 13 | *ergasai en autō* "work in him" | take pains with him |
+| 13 | *hina mē en tē aschēmosynē sou proskopsē* "so that he does not stumble in your disgrace" | ***KEPT AS IS*** so that he does not stumble, to your disgrace |
+| 14 | *memastigōmenos eis sōma* "scourged in body" | plagued in his body |
+| 15 | *euexia* "good condition" | soundness |
+| 18 | *thema brōmatōn parakeimena epi taphō* "a setting of foods laid by a grave" | offerings of food set by a grave |
+| 19 | *karpōsis* "an offering" | an offering |
+| 19 | *ho ekdiōkomenos hypo Kyriou* "the one pursued by the Lord" | the man who is hounded by the Lord (note) |
+| 21 | *en boulē sou* "in your counsel" | with your own thoughts |
+| 22 | *makroēmereusis* "long life" | length of days |
+| 23 | *agapa tēn psychēn sou* "love your soul" | Love your soul (note) |
+| 24 | *merimna* "anxiety" | anxiety |
+| 25 | *epi edesmasin tōn brōmatōn autēs epimelēsetai* "will attend to its dishes of food" | attends to the food it eats (numbering note) |
+
+### Sirach 31: Gold, the Table and Wine (Swete 34)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *agrypnia ploutou* "sleeplessness of wealth" | Lying awake over wealth |
+| 2 | *merimna agrypnias apaitēsei nystagmon* "the care of wakefulness will demand back slumber" | Wakeful anxiety keeps slumber away |
+| 2 | *eknēpsei hypnon* "will sober off sleep" | drives off sleep |
+| 4 | *en elattōsei biou* "in lessening of livelihood" | on a meager living |
+| 5 | *ou dikaiōthēsetai* "will not be justified" | will not be declared righteous |
+| 5 | *diaphthoran* "ruin" | ruin |
+| 6 | *kata prosōpon autōn* "before their face" | met them face to face |
+| 7 | *xylon proskommatos* "a wood of stumbling" | a stumbling block |
+| 7 | *enthysiazousin* | those who worship it (note) |
+| 8, 9 | *makarios… makarioumen* "blessed… we will call blessed" | Happy… We will call him happy |
+| 8 | *amōmos* "without blemish" | without blemish |
+| 10 | *eteleiōthē* "was made perfect" | found perfect |
+| 12 | *mē anoixēs… ton pharynga sou* "do not open your throat" | Do not open your throat over it |
+| 13 | *apo pantos prosōpou dakryei* "it weeps from every face" | ***KEPT AS IS*** it weeps at everything |
+| 14 | *hou ean epiblepsē* "wherever he looks" | ***KEPT AS IS*** Where he looks |
+| 14 | *mē synthlibou autō en trybliō* "do not press with him in the dish" | do not crowd him at the dish |
+| 15 | *noei ta tou plēsion ek seautou* "understand your neighbor's things from yourself" | Judge your neighbor's feelings by your own (note) |
+| 16 | *hōs anthrōpos* "as a human being" | as a human being should |
+| 16 | *mē diamasō* "do not chew through" | do not gobble |
+| 17 | *charin paideias* "for the sake of discipline" | for discipline's sake |
+| 19 | *ouk asthmainei* "does not pant" | does not gasp for breath |
+| 20 | *epi enterō metriō* "on a moderate gut" | with a moderate stomach |
+| 20 | *hē psychē autou met' autou* "his soul is with him" | has his wits about him (note) |
+| 20 | *choleras kai strophos* "bilious vomiting and colic" | vomiting and colic |
+| 21 | *anasta mesoporōn* "rise, going away midway" | get up and leave in the middle |
+| 22 | *heurēseis tous logous mou* "you will find my words" | ***KEPT AS IS*** you will find my words |
+| 22 | *entrechēs* "nimble, ready" | diligent |
+| 23 | *lampron ep' artois* "splendid over bread" | a man who is generous with food |
+| 24 | *ponērō ep' artō* "evil over bread" | a man who is stingy with food |
+| 25 | *mē andrizou* "do not play the man" | Do not play the hero |
+| 26 | *stomōma en baphē* "a hardened edge in the dipping" | the temper of steel in the quenching (note) |
+| 27 | *ephison zōēs* "on a par with life" | as good as life |
+| 29 | *en erethismō kai antiptōmati* "in provocation and collision" | with provocation and stumbling |
+| 30 | *eis proskomma* "toward stumbling" | until he stumbles |
+| 30 | *prospoiōn traumata* "adding wounds" | adding wounds |
+| 31 | *en apaitēsei* "in demanding back" | by demanding repayment (note) |
+
+### Sirach 32: At the Banquet (Swete 35)
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hēgoumenon se katestēsan* "have they appointed you leader" | Have they made you master of the feast? (note) |
+| 2 | *pasan tēn chreian sou poiēsas* "having done all your need" | When you have done all your duty |
+| 2 | *anapese* "recline" | recline |
+| 3 | *mē empodisēs mousika* "do not hinder music" | do not interrupt the music |
+| 4 | *hopou akroama* "where there is a hearing" | Where there is a performance |
+| 4 | *akairōs mē sophizou* "do not play the wise man untimely" | do not show off your wisdom at the wrong time |
+| 5 | *sphragis anthrakos* "a seal of carbuncle" | A seal of ruby |
+| 5 | *synkrima mousikōn* "a composition of musicians" | a concert of music |
+| 7 | *molis dis ean eperōtēthēs* "barely twice, if you are asked" | but scarcely twice, and only if you are asked |
+| 8 | *kephalaiōson logon* "sum up speech" | Sum up what you say |
+| 9 | *mē exisazou* "do not make yourself equal" | do not make yourself their equal |
+| 11 | *mē ouragei* "do not bring up the rear" | do not be the last |
+| 12 | *poiei ta enthymēmata sou* "do your thoughts" | do what you have in mind |
+| 13 | *epi toutois* "upon these things" | For all this |
+| 13 | *methyskonta se* "making you drunk" | who gives you your fill (note) |
+| 14 | *paidian* (Swete's spelling of *paideian*, as *apōlian* for *apōleian* at 29:10) | discipline |
+| 15 | *skandalisthēsetai en autō* "will be made to stumble in it" | will stumble over it |
+| 16 | *krima* "judgment" | what is right |
+| 16 | *dikaiōmata hōs phōs exapsousin* "will kindle righteous acts as a light" | will kindle righteous deeds like a light |
+| 17 | *heurēsei synkrima* "will find a decision" | finds a ruling |
+| 18 | *allotrios kai hyperēphanos* "a stranger and proud" | the stranger and the proud man |
+| 18 | *kai meta to poiēsai met' autou aneu boulēs* "and after doing with him without counsel" | ***KEPT AS IS*** even after acting without counsel (note) |
+| 20 | *en hodō antiptōmatos* "on a road of collision" | on a road of stumbling |
+| 21 | *mē pisteusēs en hodō aproskopō* "do not trust in an unobstructed road" | Do not trust a smooth road (note) |
+| 22 | *apo tōn teknōn sou phylaxai* "guard yourself from your children" | ***KEPT AS IS*** guard yourself against your own children (note) |
+| 23 | *pisteue tē psychē sou* "trust your soul" | ***KEPT AS IS*** trust your own soul (note) |
+| 24 | *ho pepoithōs Kyriō* "the one relying on the Lord" | whoever relies on the Lord (note) |
+| 24 | *ouk elattōthēsetai* "will not be made less" | will suffer no loss |
+
+**Left standing on purpose:** 29:8 "for charity's sake give him time" (Swete has no "not"; note); 30:7 "For his sons' lives he will bind up his wounds" (Swete's wording; note); 30:12 "bruise his ribs"; 30:13 "so that he does not stumble, to your disgrace"; 31:13 "it weeps at everything"; 31:14 "Where he looks"; 31:22 "you will find my words"; 32:18 "even after acting without counsel" (note); 32:22 "guard yourself against your own children" (note); 32:23 "trust your own soul."
+
+**Choices:** none new.
+
 ## Sirach 25–28 — rendered 2026-10-07, 10:31 PM CDT
 
 **Source:** Greek (Swete), English verse numbers. No Greek for 25:12 and 26:19–27: numbered placeholders. No new headings in the Greek text. Echoes in the notes checked against this project's English where quoted (Genesis 2:24, 3:6; Exodus 25:31–37, 26:32; Leviticus 19:18; Deuteronomy 24:1, 32:35; 1 Samuel 1:6; Proverbs 6:5, 10:10, 11:13, 15:18; Reproof 1:15, 2:27, 7:10; Ecclesiastes 10:8; Jeremiah 28:13; Amos 8:5; Psalm 141:3; Wisdom 18:24) and the Greek in `sources/` (Matthew 6:12, 7:16, 12:34, 18:23–35; Romans 5:12, 12:19; Philippians 3:8; James 3:10).
