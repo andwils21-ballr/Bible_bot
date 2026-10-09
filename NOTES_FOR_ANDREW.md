@@ -5,6 +5,8 @@
   - 48:17 *ton Gōg* where the line is about Hezekiah's water tunnel.
   - 43:26 *euōdia* "fragrance" for *euodia* "success".
   - 43:8 *parabolōn* for *parembolōn*.
+  - 49:13 *nemousin*, where the line praises Nehemiah without naming him.
+  - 50:3 *ēlattōthē*, "was made less," in a line praising Simon's building works.
   - Spellings such as 32:14 *paidian* for *paideian* and 29:10 *apōlian*, which were read as spellings.
 
   The fix would be a second Greek or Hebrew witness in `sources/`. Candidates:
