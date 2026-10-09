@@ -2,6 +2,120 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 49–51 — rendered 2026-10-09, 12:51 PM CDT (Sirach complete)
+
+**Source:** Greek (Swete). Verse numbers match the KJV in all three chapters. Headings in the Greek text: *Prayer of Jesus son of Sirach* (51:1), in italics where it stands.
+
+**Swete's text in these chapters:**
+- **49:13** does not name Nehemiah; the note shows who is meant.
+- **49:13 and 50:3** are two more probable copying slips (*nemousin*; *ēlattōthē*, "was made less"). They stand as printed with notes and are added to the list in `NOTES_FOR_ANDREW.md`.
+
+Echoes in the notes were checked two ways:
+- **Against this project's English where quoted:** Genesis 50:25; Leviticus 16:2; Numbers 6:24–27, 10:10; 2 Kings 23:24, 25:9; Ezra 3:2; Nehemiah 2:17, 6:1; Psalm 110:1; Matthew 11:29; Sirach 25:1–2, 26:5, 26:28, 39:6, 39:26, 44:1, 44:16, 45:7–8, 46:12.
+- **Against the Greek in `sources/`:** Swete's Genesis 50:25; Jeremiah 1:5, 1:10; Haggai 2:23; Isaiah 43:2, 55:1.
+
+**The checker** found nothing. A second look at the Greek caught 51:6. It had been rendered with the usual reading, "drew near to death"; Swete prints *ēnesen*, "praised," and the text now follows Swete, with a note.
+
+**What these chapters are:**
+- **49:** Josiah; the fall of the kings and the city; Jeremiah, Ezekiel, the twelve prophets; Zerubbabel, Jeshua and the builder of the walls; back to Enoch, Joseph, Shem, Seth and Adam.
+- **50:** Simon the high priest coming out from the veil, *like the morning star among the clouds*; the service at the altar and the blessing; the writer's signature, *Jesus son of Sirach*.
+- **51:** his thanksgiving for rescue from slander and death; his lifelong search for wisdom; *Put your neck under the yoke… I labored little, and found for myself much rest.*
+
+### Sirach 49: Josiah, the Prophets, and the Builders
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *eis synthesin thymiamatos* "into a blend of incense" | like a blend of incense |
+| 2 | *autos kateuthynthē en epistrophē laou* "he was directed in the turning of the people" | He was set right in turning the people back |
+| 2 | *bdelygmata* | the detestable things |
+| 3 | *katischysen tēn eusebeian* "strengthened godliness" | he made godliness strong |
+| 4 | *plēmmelian eplēmmelēsan* "offended an offense" | they all committed offense |
+| 4 | *exelipon* "failed" | came to an end |
+| 6 | *en cheiri Ieremiou* "by the hand of Jeremiah" | ***KEPT AS IS*** by the hand of Jeremiah (note) |
+| 7 | *kakoun* "to afflict" | to afflict |
+| 9 | *emnēsthē tōn echthrōn en ombrō* "remembered the enemies in rainstorm" | ***KEPT AS IS*** He remembered the enemies in the storm |
+| 9 | *agathōsai tous euthynontas hodous* "to do good to those directing ways" | did good to those who keep their ways straight |
+| 10 | *tōn ib' prophētōn* "of the 12 prophets" | the twelve prophets (note) |
+| 10 | *en pistei elpidos* "in faithfulness of hope" | in the faithfulness of hope |
+| 12 | *Iēsous huios Iōsedek* | Jeshua son of Jozadak (as in Ezra 3:2; note) |
+| 13 | *kai nemousin epi poly to mnēmosynon* "and they spread wide the memory" (Swete) | ***KEPT AS IS*** Far and wide they keep the memory (note) |
+| 13 | *ta oikopeda hēmōn* "our house-sites" | our homes |
+| 15 | *epeskepēsan* "were visited" | were cared for (note) |
+
+### Sirach 50: Simon the High Priest
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hyperapsen oikon* "sewed up the house" | repaired the house |
+| 2 | *hypsos diplēs, analēmma hypsēlon peribolou hierou* "a height of double, a high support of the temple enclosure" | the high double wall… the high retaining wall of the temple enclosure |
+| 3 | *ēlattōthē* "was made less" (Swete) | ***KEPT AS IS*** was made less (note) |
+| 4 | *enpoliorkēsai* "against besieging" | against siege |
+| 5 | *en peristrophē laou* "in the turning around of the people" | as the people gathered round him |
+| 5 | *en exodō oikou katapetasmatos* "at the going out of the house of the curtain" | when he came out from behind the curtain of the house (note) |
+| 8 | *en hēmerais neōn* "in the days of new [season]" | in the days of spring |
+| 9 | *holosphyrēton* "all hammered" | of beaten gold |
+| 11 | *edoxasen peribolēn hagiasmatos* "glorified the enclosure of the sanctuary" | he made the court of the sanctuary glorious |
+| 12 | *stephanos adelphōn* "a crown of brothers" | a crown of brothers |
+| 12 | *stelechē phoinikōn* "trunks of palms" | the trunks of palm trees |
+| 14 | *synteleian leitourgōn* "completing the services" | Finishing the service |
+| 15 | *spondeiou* "libation cup" | the cup |
+| 15 | *osmēn euōdias* | a soothing aroma (note) |
+| 16 | *salpinxin elatais* "beaten trumpets" | the trumpets of beaten metal |
+| 18 | *en pleistō oikō* "in the fullest house" | in the full house |
+| 19 | *heōs syntelesthē kosmos Kyriou* "until the order of the Lord was completed" | until the order of the Lord's worship was complete |
+| 20 | *en onomati autou kauchasthai* "to boast in His name" | to glory in His name (note) |
+| 21 | *edeuterōsen en proskynēsei* "repeated in worship" | they bowed down in worship a second time |
+| 22 | *tō megalopoiounti pantē* "who does great things everywhere" | who does great things everywhere |
+| 23 | *kata tas hēmeras tou aiōnos* "as in the days of the age" | as in the days of old |
+| 24 | *enpisteusai meth' hēmōn to eleos autou* "to entrust His mercy with us" | May He entrust His mercy to us |
+| 25 | *prosōchthisen* "was vexed with" | detests |
+| 26 | *en orei Samareias* (Swete) | on the mountain of Samaria |
+| 27 | *echaraxa* "I engraved" | I have written |
+| 27 | *Iēsous huios Seirach Eleazar ho Ierosolymeitēs* | I, Jesus son of Sirach, son of Eleazar, of Jerusalem (note) |
+| 27 | *anōmbrēsen* "rained down" | poured out… like rain |
+| 29 | *phōs Kyriou to ichnos autou* "the light of the Lord is his track" | the light of the Lord is his path |
+
+### Sirach 51: The Prayer of Jesus Son of Sirach
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *exomologēsomai soi* "I will confess to You" | I will give You thanks |
+| 2 | *skepastēs* "shelterer" | my shelter |
+| 3 | *ek brygmōn hetoimos eis brōma* "from gnashings, ready for food" | from the gnashing of teeth, when I was ready to be devoured |
+| 4 | *apo pnigmou pyras kyklothen* "from the choking of the fire round about" | from the choking fire all around me |
+| 4 | *ou ouk exekausa* "which I did not kindle" | I had not kindled (note) |
+| 6 | *basilei diabolē glōssēs adikou* "to a king, slander of an unjust tongue" | There was slander to the king from an unjust tongue |
+| 6 | *ēnesen heōs thanatou hē psychē mou* "my soul praised unto death" (Swete) | ***KEPT AS IS*** My soul gave praise even to death (note) |
+| 7 | *emblepōn eis antilēmpsin anthrōpōn* "looking for help of men" | I looked for help from men |
+| 10 | *Kyrion patera kyriou mou* "the Lord, the father of my lord" | ***KEPT AS IS*** the Lord, the Father of my lord (note) |
+| 10 | *en kairō hyperēphaniōn aboēthēsias* "in a time of arrogances, of helplessness" | in the time of the proud, when there was no help |
+| 13 | *prin ē planēthēnai me* "before I wandered" | before I went wandering |
+| 13 | *prophanōs* "openly" | openly |
+| 15 | *ex anthous hōs perkazousēs staphylēs* "from blossom, as of a ripening grape" | From the blossom to the ripening grape |
+| 18 | *dienoēthēn tou poiēsai autēn* "I purposed to do her" | I resolved to live by her |
+| 19 | *diamemachistai hē psychē mou en autē* "my soul has fought in her" | My soul has wrestled for her |
+| 19 | *en poiēsei limou* "in the doing of hunger" | ***KEPT AS IS*** in the practice of fasting (note) |
+| 19 | *ta agnoēmata autēs* "her ignorances" | my ignorance of her |
+| 20 | *kardian ektēsamēn met' autōn* "I gained a heart with them" | ***KEPT AS IS*** gained a heart with them |
+| 21 | *hē koilia mou etarachthē* "my belly was stirred" | My heart was stirred |
+| 23 | *apaideutoi* "undisciplined" | you who are untaught |
+| 23 | *oikō paideias* "house of discipline" | the house of discipline |
+| 25 | *ktēsasthe hautois aneu argyriou* "acquire for yourselves without silver" | Get her for yourselves without silver (note) |
+| 26 | *engys estin heurein autēn* "she is near to find" | she is near to be found |
+| 30 | *pro kairou* "before the time" | before the time |
+
+**Left standing on purpose:**
+- **49:6** "by the hand of Jeremiah".
+- **49:9** "the enemies in the storm".
+- **49:13** "Far and wide they keep the memory".
+- **50:3** "was made less".
+- **51:6** "My soul gave praise even to death".
+- **51:10** "the Father of my lord".
+- **51:19** "fasting".
+- **51:20** "a heart with them".
+
+**Choices:** none new. The book's open choices stand in the entries below: the foreword, the placeholders, Satan, 43:23 and 48:17, and the copying slips.
+
 ## Sirach 45–48 — rendered 2026-10-09, 7:53 AM CDT
 
 **Source:** Greek (Swete), English (KJV) verse numbers.
