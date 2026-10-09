@@ -2,6 +2,181 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 41–44 — rendered 2026-10-08, 10:51 PM CDT
+
+**Source:** Greek (Swete), English (KJV) verse numbers.
+
+**Where Swete's verses and the KJV's differ:**
+- **English 41:** Swete has 22 verses, the KJV 24. His 41:4 is split between English 41:3 and 41:4. English 41:23–24 and 42:1 are the three parts of his 42:1.
+- **English 44:23** ends at "twelve tribes." The rest of Swete's 44:23, *and He brought out of him a man of mercy*, opens English 45:1.
+
+The map is logged in `NOTES_FOR_ANDREW.md` for HANDOFF. Headings in the Greek text: *Hymn of the fathers* (44:1), in italics where it stands.
+
+Echoes in the notes were checked two ways:
+- **Against this project's English where quoted:** Genesis 1:14, 5:24, 6:9, 9:11, 9:13, 17:5, 22:1, 26:5, 26:24; Exodus 23:7, 24:10; Leviticus 19:36; Nehemiah 9:8; Psalms 19:1, 19:5, 33:6, 72:8, 81:3, 104:19, 145:3; Ecclesiastes 3:14, 7:1, 9:10; Sirach 4:21, 20:30–31, 26:10, 26:14, 33:14–15, 39:10.
+- **Against the Greek in `sources/`:** Swete's Genesis 5:24, 6:9, 9:13; Exodus 23:7, 24:10; Nehemiah 9:8; Sirach 20:30–31, 46:1. SBLGNT John 1:18, Romans 11:34, Colossians 1:17 and Hebrews 11:5.
+
+**The checker** caught *behold* (42:22) and one sentence starting with "And" (43:31); both fixed.
+
+**What these chapters are:**
+- **41:** *O death*, bitter to the prosperous and welcome to the worn out; the good name that lasts; a list of what to be ashamed of.
+- **42:** what not to be ashamed of; the anxious father of a daughter; then the hymn of creation begins: *by the words of the Lord His works were made*.
+- **43:** the sun, moon, stars, rainbow, snow, frost and sea; *He is the all… who can magnify Him as He is?*
+- **44:** the *Hymn of the fathers* begins: *Let us now praise glorious men*; Enoch, Noah, Abraham, Isaac and Jacob.
+
+### Sirach 41: O Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *to mnēmosynon* "the remembrance" | the thought of you |
+| 1 | *aperispastō* "undistracted" | with nothing to distract him (note) |
+| 1 | *ischyonti epidexasthai trophēn* "strong to receive food" | strong enough to enjoy his food |
+| 2 | *kalon sou to krima* "good is your sentence" | your sentence is welcome |
+| 2 | *apeithounti* "disobedient" | ***KEPT AS IS*** who is contrary |
+| 3–4 | Swete 41:3 + 4a / 4b | divided as in the English |
+| 4 | *ti apanainē* "why do you refuse" | Why do you reject |
+| 4 | *ouk estin en hadou elegmos zōēs* "in Hades there is no examination of life" | ***KEPT AS IS*** in Hades there is no inquiry into life (note) |
+| 5 | *bdelykta* | detestable |
+| 5 | *synanastrephomena paroikiais asebōn* "keeping company in the sojournings of the ungodly" | they keep company where the ungodly live as guests |
+| 6 | *endelechiei oneidos* "disgrace will continue" | disgrace will stay |
+| 9 | *eis kataran meristhēsesthe* "you will be allotted for a curse" | a curse will be your portion |
+| 11 | *penthos anthrōpōn en sōmasin autōn* "the mourning of men is in their bodies" | ***KEPT AS IS*** Men mourn over their bodies |
+| 11 | *onoma… ouk agathon* "a name not good" | the name of sinners, not being good |
+| 12 | *phrontison peri onomatos* "take thought about a name" | Take care for your name |
+| 16 | *entrapēte epi tō rhēmati mou* "be abashed at my word" | feel shame as my word directs |
+| 16 | *ou panta pasin en pistei eudokimeitai* "not everything is approved by all in faith" | ***KEPT AS IS*** not everything is approved by everyone in good faith |
+| 17 | *porneias* | unchastity (as at 26:9) |
+| 18 | *synagōgēs* "congregation" | the congregation |
+| 19 | *hou paroikeis* "where you live as a guest" | where you live as a guest (note) |
+| 19 | *pēxeōs ankōnos ep' artous* "fixing the elbow on the bread" | leaning your elbow on the bread |
+| 19 | *skorakismou lēmpseōs kai doseōs* "contempt of taking and giving" | contempt in receiving and giving |
+| 20 | *gynaikos hetairas* "a courtesan" | a courtesan |
+| 21 | *apostrophēs prosōpou syngenous* "turning away the face of a kinsman" | turning your face away from a relative |
+| 21 | *gynaikos hypandrou* "a woman under a husband" | another man's wife |
+| 22 | *periergeias paidiskēs autou* "busying with his maid" | meddling with his maidservant |
+| 23 | *deuterōseōs kai logou akoēs* "repetition and a word heard" | repeating what you have heard |
+| 24 | *aischyntēros* "modest" | truly modest (as at 26:15) |
+
+### Sirach 42: The Works of the Lord
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mē labēs prosōpon tou hamartanein* "do not take a face so as to sin" | do not show partiality so as to sin |
+| 2 | *krimatos dikaiōsai ton asebē* "of judgment, to acquit the ungodly" | ***KEPT AS IS*** of a judgment that acquits the ungodly (note) |
+| 3 | *logou koinōnou kai hodoiporōn* "an account of a partner and travelers" | reckoning with a partner and with fellow travelers |
+| 3 | *doseōs klēronomias hetairōn* "giving an inheritance of companions" | giving out an inheritance among companions |
+| 5 | *adiaphorou praseōs* "indifferent selling" (Swete) | ordinary buying and selling |
+| 5 | *pleuran haimaxai* "to bloody the side" | ***KEPT AS IS*** drawing blood from the side |
+| 6 | *hopou cheires pollai kleison* "where many hands, lock" | where there are many hands, lock up |
+| 8 | *eschatogērōs krinomenou pros neous* "a very old man disputing with young men" | the very old man who quarrels with the young |
+| 9 | *apokryphos agrypnia* "a hidden sleeplessness" | a secret cause of sleeplessness |
+| 9 | *mē pote parakmasē* "lest she pass her bloom" | that she may not pass her prime |
+| 10 | *en tois patrikois autēs* "in her father's things" | in her father's house |
+| 11 | *adiatreptō* "headstrong" | a headstrong daughter (note) |
+| 11 | *ekklēton laou* "called out before the people" | called out before the people |
+| 12 | *mē emblepe en kallei* "do not look in beauty" | Do not look at anyone for beauty |
+| 12 | *en mesō gynaikōn* "in the midst of women" | among women |
+| 14 | *kreissōn ponēria andros ē agathopoios gynē* "better a man's wickedness than a good-doing woman" | ***KEPT AS IS*** Better is a man's wickedness than a woman's doing good (note) |
+| 15 | *en logois Kyriou ta erga autou* "in the words of the Lord His works" | by the words of the Lord His works were made (note) |
+| 17 | *ouk enepoiēsen tois hagiois* "He has not enabled the holy ones" | has not enabled His holy ones |
+| 17 | *to pan* "the all" | the universe |
+| 18 | *dienoēthēn* "I pondered" (Swete) | ***KEPT AS IS*** I have pondered their devices (note) |
+| 18 | *eis sēmeion aiōnos* "into the sign of the age" | into the signs of the ages |
+| 19 | *ichnē apokryphōn* "tracks of hidden things" | the traces of hidden things |
+| 21 | *heōs estin pro tou aiōnos* "as He is before the age" | He is before the ages |
+| 22 | *hōs spinthēros estin theōrēsai* "as of a spark it is to behold" | ***KEPT AS IS*** like a spark to look upon |
+| 24 | *panta dissa* "all things double" | All things are in pairs |
+| 24 | *ouden eklipon* "nothing lacking" | nothing incomplete |
+| 25 | *hen tou henos estereōsen ta agatha* "one has strengthened the good of the other" | One confirms the good of the other |
+
+### Sirach 43: The Glory of Creation
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gauriama hypsous* "the boast of the height" | The pride of the heights |
+| 1 | *stereōma kathariotētos* "a firmament of purity" | the pure firmament (note) |
+| 2 | *diangellōn en exodō* "announcing at its going out" | proclaims as it comes out |
+| 2 | *skeuos* "vessel" | instrument |
+| 4 | *kaminon phylassōn en ergois kaumatos* "keeping a furnace in works of heat" | A man tending a furnace works in the heat |
+| 6 | *anadeixin chronōn* "the showing of times" | marking the times |
+| 7 | *phōstēr meioumenos* "a light diminishing" | a light that wanes |
+| 8 | *skeuos parabolōn* "a vessel of parables" (Swete) | ***KEPT AS IS*** a vessel of parables on high (note) |
+| 9 | *kosmos phōtizōn, en hypsistois Kyrios* "an ornament giving light, in the highest the Lord" | ***KEPT AS IS*** a shining ornament: in the heights is the Lord |
+| 10 | *en logois hagiois* "at holy words" | At holy words |
+| 10 | *kata krima* "according to decree" | as decreed |
+| 11 | *ide toxon* "see the bow" | Look at the rainbow (a verb with its object, not the interjection) |
+| 12 | *egyrōsen… en kyklōsei* "circled… in a circling" | It rings… with a circle |
+| 13 | *katepausen chiona* "brought the snow to rest" (Swete) | He lays down the snow |
+| 15 | *ischysen nephelas* "strengthened clouds" | He makes the clouds strong |
+| 17 | *ōneidisen gēn* "reproached the earth" | rebukes the earth |
+| 17 | *hōs akris katalyousa* "like a locust lodging" | like locusts settling |
+| 18 | *epi tou hyetou autēs* "at its raining" | at its falling |
+| 19 | *skolopōn akra* "tips of stakes" | points of thorns |
+| 20 | *synagōgēn hydatos* "gathering of water" | gathering of water |
+| 22 | *kata spoudēn* "with haste" | quick |
+| 23 | *ephyteusen autēn Iēsous* "Joshua (Iēsous) planted it" | ***KEPT AS IS*** and Joshua planted it (note; choice below) |
+| 25 | *ktisis kētōn* "the creation of sea monsters" | the race of sea monsters |
+| 26 | *euōdia* "fragrance" (Swete), read as *euodia* "success" | Through Him its end is success (note) |
+| 27 | *to pan estin autos* "the all is He" | He is the all (note) |
+| 30 | *plēthynate en ischyi* "increase in strength" | put forth all your strength |
+
+### Sirach 44: Hymn of the Fathers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *andras endoxous* "glorious men" | glorious men |
+| 1 | *tē genesei* "in descent" | in their generations |
+| 3 | *bouleusontai* "they will counsel" | they gave counsel |
+| 4 | *synesei grammateias laou* "understanding of the people's letters" | their understanding of the people's learning |
+| 5 | *epē* "verses" | verses |
+| 6 | *kechorēgēmenoi ischyi* "supplied with strength" | endowed with strength |
+| 6 | *en paroikiais autōn* "in their sojournings" | where they lived as guests |
+| 7 | *kauchēma* "a boast" | the pride of their times |
+| 9 | *egenonto hōs ou gegonotes* "became as not having become" | are as though they had never been born |
+| 10 | *andres eleous* "men of mercy" | men of mercy |
+| 11–12 | *en tais diathēkais / estē sperma autōn* (the clause runs across the verse break) | their descendants; / in the covenants their offspring stands |
+| 16 | *metetethē* "was transferred" | was taken up (note) |
+| 16 | *hypodeigma metanoias* "an example of repentance" | an example of repentance |
+| 17 | *antallagma* "an exchange" | an exchange (note) |
+| 17 | *dia touto… dia touto* "because of this… because of this" | ***KEPT AS IS*** because of this… because of this (note) |
+| 17 | *katalimma* "remnant" | a remnant |
+| 19 | *patēr plēthous ethnōn* "father of a multitude of nations" | the great father of a multitude of nations |
+| 20 | *en sarki autou estēsen diathēkēn* "in his flesh he established a covenant" | he established the covenant in his flesh |
+| 21 | *kataklēronomēsai autous* "to make them inherit" | give them an inheritance |
+| 23 | *katepausen epi kephalēn* "made it rest on the head" | He made it rest on the head |
+| 23 | *epegnō auton en eulogiais autou* "He recognized him in His blessings" | He acknowledged him with His blessings |
+| 23 | *en phylais emerisen deka dyo* "in tribes He divided, twelve" | distributed them among twelve tribes |
+
+**Left standing on purpose:**
+- **41:2** "who is contrary".
+- **41:4** "no inquiry into life".
+- **41:11** "Men mourn over their bodies".
+- **41:16** "in good faith".
+- **42:2** "a judgment that acquits the ungodly".
+- **42:5** "drawing blood from the side".
+- **42:14** "Better is a man's wickedness than a woman's doing good".
+- **42:18** "I have pondered".
+- **42:22** "like a spark to look upon".
+- **43:8** "a vessel of parables".
+- **43:9** "in the heights is the Lord".
+- **43:23** "Joshua planted it".
+- **44:17** "because of this… because of this".
+
+### Choices
+
+**Sirach 43:23, *Iēsous*: Joshua, Jesus, or "islands".**
+
+*Reads now:* "By His counsel He calmed the deep, / and Joshua planted it."
+
+Swete prints *kai ephyteusen autēn Iēsous*. *Iēsous* is Joshua's name in Greek (Sirach 46:1, *Iēsous Nauē*, Joshua son of Nun), and it is also the name Jesus. Change one letter and it becomes *nēsous*, "islands." That gives "He calmed the deep, and planted islands in it," the reading of the KJV ("planteth islands therein") and of most English Bibles.
+
+The options:
+1. **Keep "Joshua"**: Swete as printed, with the note. Accurate to the text in `sources/`, but the line makes little sense: Joshua did not plant the deep.
+2. **"and planted islands in it"**: makes sense of the calmed deep. The spec ("When the witnesses differ", rule 5) allows a departure from Swete only with a witness in `sources/`. None there has *nēsous*; Rahlfs's Septuagint or the Hebrew Sirach would be one if added.
+3. **"and Jesus planted it"**: the same Greek word read as the other name. It reads as a statement about Jesus that the line, in a hymn about the sea, does not support.
+
+**Recommendation:** option 2 if a witness with *nēsous* is added to `sources/`; until then option 1, as it stands.
+
 ## Sirach 37–40 — rendered 2026-10-08, 5:55 PM CDT
 
 **Source:** Greek (Swete). **From chapter 37, Swete's chapters and verses line up with the English again.** Verse counts were checked against the KJV: 37 has 31, 38 has 34, 39 has 35 and 40 has 30, with first and last lines matching. No headings in the Greek text.
