@@ -3,6 +3,16 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
+
+## 27:2 and the price of a person: what is vowed (Andrew, 2026-10-09)
+
+**Request:** Andrew could not tell what the price of a person in 27:3–7 is for. The Hebrew of v2 is *ish ki yafli neder be-erkekha nefashot la-YHWH*, **a man, when he makes a special vow, at your valuation, persons to the LORD**. Options: (a) say in v2 what is vowed, *to give persons to the LORD*; (b) add to the vv3–7 note that the person is redeemed with silver instead of handed over, as Hannah gave Samuel, and that five shekels is the firstborn's redemption price (Numbers 18:16). Andrew: "Do both, a and b."
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 27:2 | When a man makes a special vow to the LORD by the valuation of persons, | When a man makes a special vow to give persons to the LORD, at their valuation, |
+| Leviticus 27, note vv3–7 | …the amounts run by age and sex. **Thirty shekels**… | …the amounts run by age and sex. The person is not handed over to the sanctuary, as Hannah gave Samuel (1 Samuel 1:11, 28), but redeemed for the set amount. The five shekels for a boy under five is the price for redeeming a firstborn son, *at your valuation*, the same word (Numbers 18:16). **Thirty shekels**… |
+
 ## Follow-up: Numbers 15:39 made natural (Andrew, 2026-10-07)
 
 **Request:** Andrew: "I think we need to make this whole phrase more natural." Options: (a) *follow… and go whoring after them*; (b) *go scouting after…*; (c) *which lead you to go whoring*; (d) *…and give yourselves to them*. **Decided:** (a) with the ending of (d). Jubilees 20:4, the echo, keeps its own wording (*go whoring after their eyes and their hearts*), where the context is a woman's act; only its note's quotation of Numbers changed. The spec's fixed-term row no longer names Numbers 15:39 as a harsh case.
