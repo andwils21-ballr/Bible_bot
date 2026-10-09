@@ -2,6 +2,206 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Sirach 45–48 — rendered 2026-10-09, 7:53 AM CDT
+
+**Source:** Greek (Swete), English (KJV) verse numbers.
+- **45:1** begins with the last clause of Swete's 44:23 (*He brought out of him a man of mercy*).
+- **Otherwise** Swete and the KJV line up verse for verse in 45–48; all four counts match.
+- **46:13:** Swete does not name Samuel (the KJV supplies the name). The note shows who he is from vv14–20.
+
+Echoes in the notes were checked two ways:
+- **Against this project's English where quoted:**
+  - Pentateuch: Exodus 9:33, 20:21, 28:30, 28:35, 28:36, 33:11, 33:23; Leviticus 3:16, 8:33; Numbers 11:21, 12:3, 12:7, 14:6–10, 18:20, 25:11–13, 32:12.
+  - Histories: Joshua 8:18, 10:11–13, 14:11; Judges 2:17; 1 Samuel 2:10, 3:20, 10:1, 12:3, 16:13, 17:26, 17:33, 17:34, 18:7, 28:19; 2 Samuel 12:13; 1 Kings 11:4, 14:16, 17:22, 18:38, 19:10, 19:16; 2 Kings 1:4, 1:10, 2:9, 2:11, 13:21, 19:35, 20:11, 20:20; 1 Chronicles 22:9.
+  - Other books: Matthew 1:21; Sirach 17:11, 44:10, 46:15.
+- **Against the Greek in `sources/`:**
+  - Swete: Exodus 28:26 (English 28:30); Deuteronomy 33:8; Numbers 32:12; 1 Samuel 3:20; Isaiah 49:6, 61:3; Malachi 4:5 (English 4:6).
+  - SBLGNT: Luke 1:17 and Revelation 5:5.
+
+**The checker** found nothing. **46:4** now reads "the sun went back," to match 48:23, where Swete uses the same verb (*anepodisen*).
+
+**A merge:** another session's Leviticus 27:2 edit landed on main during this run. The site was rebuilt on top of it, and neither change touched the other's files.
+
+**What these chapters are:**
+- **45:** Moses, *beloved by God and men*; Aaron in the high priest's garments; the rebellion of Korah; Phinehas and the covenant of peace.
+- **46:** Joshua, *great for the salvation* his name speaks of; Caleb; the judges; Samuel.
+- **47:** Nathan, David the giant-killer and singer, Solomon wise and then fallen, and the kingdom split.
+- **48:** Elijah *like fire*, Elisha, the exile; Hezekiah and Isaiah.
+
+### Sirach 45: Moses, Aaron and Phinehas
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | Swete 44:23c + 45:1 | one verse, as in the English (note) |
+| 1 | *hou to mnēmosynon en eulogiais* "whose memory is in blessings" | whose memory is blessed |
+| 2 | *hōmoiōsen auton doxē hagiōn* "likened him in glory to the holy ones" | He made him equal in glory to the holy ones |
+| 2 | *en phobois echthrōn* "in the fears of enemies" | to the terror of his enemies |
+| 3 | *sēmeia katepausen* "made signs cease" | He made the signs cease (note) |
+| 3 | *edeixen autō tēs doxēs autou* "showed him of His glory" | showed him part of His glory (note) |
+| 4 | *en pistei kai praytēti* "in faithfulness and meekness" | For his faithfulness and meekness (note) |
+| 4 | *hēgiasen* "made holy" | He set him apart (as at 33:9) |
+| 5 | *ēkoutisen auton tēs phōnēs autou* "made him hear His voice" | He made him hear His voice |
+| 5 | *kata prosōpon* "according to face" | face to face (note) |
+| 7 | *estēsen auton diathēkēn aiōnos* "set him an everlasting covenant" | He made an everlasting covenant with him |
+| 7 | *emakarisen auton en eukosmia* "blessed him in comeliness" | He blessed him with splendid vesture |
+| 8 | *synteleian kauchēmatos* "completeness of boasting" | the perfection of glory |
+| 8 | *skeuesin ischyos* "with vessels of strength" | with garments of power |
+| 8 | *periskelē kai podērē kai epōmida* | the linen breeches, the long robe and the ephod |
+| 10 | *logiō kriseōs, dēlois alētheias* "an oracle of judgment, tokens of truth" | the breastpiece of judgment, the tokens of truth (note) |
+| 11 | *lithourgou* "stoneworker" | a jeweler |
+| 12 | *ektypōma sphragidos hagiasmatos* "the impress of a seal of holiness" | engraved like a seal with holiness (note) |
+| 12–13 | *hōraia* (last word of Swete's v12) | Before him there were never such beautiful things (v13) |
+| 13 | *allogenēs* "one of another race" | no outsider |
+| 14 | *holokarpōthēsontai* "shall be wholly burned" | shall be wholly burned |
+| 15 | *eplērōsen… tas cheiras* "filled the hands" | Moses ordained him (note) |
+| 15 | *en hēmerais ouranou* "in the days of heaven" | as long as the heavens last |
+| 15 | *en tō onomati* "in the name" | in the name |
+| 16 | *peri tou laou sou* "for Your people" | ***KEPT AS IS*** to make atonement for Your people (the line turns to address God) |
+| 17 | *edōken auton en entolais autou* "gave him in His commandments" | He gave him authority in His commandments |
+| 17 | *phōnēsai* "to call out" | to proclaim |
+| 18 | *allotrioi* "strangers" | Outsiders |
+| 19 | *synetelesthēsan en thymō orgēs* "were finished in fury of anger" | they were destroyed in the heat of His anger |
+| 20 | *arton prōtois hētoimasen plēsmonēn* "for the first He prepared bread to the full" | ***KEPT AS IS*** prepared bread in abundance for them first |
+| 22 | *autos gar meris sou* "for He is your portion" | ***KEPT AS IS*** for He is your portion and inheritance (note) |
+| 23 | *en tropē laou* "in the turning of the people" | when the people turned away |
+| 23 | *en agathotēti prothymias psychēs autou* "in the goodness of the readiness of his soul" | in the goodness and readiness of his soul |
+| 24 | *prostatēn hagiōn* "a chief of holy things" | chief of the sanctuary |
+| 25 | *huiō ek phylēs Iouda* "a son from the tribe of Judah" (Swete has no "Jesse") | a son of the tribe of Judah |
+| 25 | *klēronomia basileōs huiou ex huiou monou* "the inheritance of a king, of son from son only" | ***KEPT AS IS*** the inheritance of the king passes from son to son alone |
+| 26 | *dōē hymin* "may He give you" (plural) | May He give you |
+
+### Sirach 46: Joshua, Caleb, the Judges and Samuel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Iēsous Nauē* | Joshua son of Nun (note) |
+| 1 | *kata to onoma autou* "according to his name" | as his name says |
+| 1 | *klēronomēsē ton Israēl* "that he might make Israel inherit" | so that he might give Israel its inheritance |
+| 2 | *ekklinai rhomphaian* "to bend the sword" | stretched out the sword |
+| 3 | *houtōs estē* "stood so" | stood like that |
+| 4 | *anepodisen* "went back" | the sun went back (as at 48:23) |
+| 5 | *epēkousen autōn* "heard them" | ***KEPT AS IS*** heard them |
+| 6 | *katerraxen* "dashed down" | He hurled |
+| 6 | *gnōsin ethnē panoplian autōn* "the nations might know their full armor" | ***KEPT AS IS*** might know their armor |
+| 6 | *epēkolouthēsen opisō Dynastou* "followed fully after the Mighty One" | he followed after the Mighty One (note) |
+| 7 | *epoiēsen eleos* "did mercy" | he did a loyal deed |
+| 7 | *enanti echthrou* "against the enemy" (Swete) | ***KEPT AS IS*** against the enemy (note) |
+| 7 | *kopasai gongysmon ponērias* "calm the grumbling of wickedness" | silenced the wicked grumbling |
+| 9 | *epi hypsos tēs gēs* "onto the height of the land" | to the heights of the land |
+| 11 | *exeporneusen* | did not give themselves away (note) |
+| 12 | *antikatallassomenon eph' huiois* "exchanged upon sons" | be passed on to the sons |
+| 13 | (no name in Swete) | the prophet of the Lord (note) |
+| 13 | *katestēsen basilea* "established a king" | set up the kingdom |
+| 15 | *ēkribasthē prophētēs* "was proved exactly a prophet" | he was proved a prophet |
+| 15 | *en pistei autou* twice (Swete) | by his faithfulness… by his faithfulness |
+| 15 | *pistos horaseōs* "trustworthy of vision" | trustworthy in vision (note) |
+| 18 | *Tyriōn* "of the Tyrians" | the Tyrians |
+| 19 | *koimēseōs aiōnos* "everlasting sleep" | his everlasting sleep |
+| 19 | *christou* "anointed" | His anointed |
+| 19 | *heōs hypodēmatōn* "even to sandals" | not even a sandal (note) |
+| 20 | *ek gēs* "from the earth" | from the earth |
+
+### Sirach 47: Nathan, David and Solomon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *stear aphōrismenon apo sōtēriou* "fat set apart from the peace offering" | As the fat is set apart from the peace offering (note) |
+| 4 | *gauriama tou Goliath* "the boast of Goliath" | the pride of Goliath |
+| 5 | *exarai anthrōpon en polemō* "to remove a man in war" | to remove a man of war (note) |
+| 5 | *anypsōsei keras* "will lift the horn" | to lift up the horn (note) |
+| 6 | *en myriasin edoxasen auton* "in ten thousands he glorified him" | So he was glorified for his ten thousands (note) |
+| 6 | *en tō pheresthai autō diadēma doxēs* "when a diadem of glory was brought to him" | when the crown of glory was brought to him |
+| 9 | *psaltōdous* "psalm-singers" | singers |
+| 10 | *ekosmēsen kairous mechri synteleias* "adorned the seasons to completion" | set the seasons in perfect order |
+| 10 | *ēchein to hagiasma* "the sanctuary to resound" | the sanctuary resounded |
+| 11 | *apheilen* "took away" | took away (note) |
+| 12 | *katelysen en platysmō* "lodged in a broad place" | lived in security |
+| 13 | *hō ho theos katepausen kyklothen* "for whom God gave rest around" | God gave him rest on every side |
+| 15 | *en parabolais ainigmatōn* "with parables of riddles" | with parables and riddles |
+| 16 | *eis nēsous porrō* "to islands far off" | far-off islands (note) |
+| 17 | *hermēnia* "interpretation" | your interpretations |
+| 18 | *eplēthynas* "multiplied" | piled up |
+| 19 | *pareneklinas tas lagonas sou gynaixin* "you laid your flanks beside women" | You laid your loins beside women |
+| 19 | *enexousiasthēs en tō sōmati sou* "you were mastered in your body" | gave them power over your body |
+| 20 | *mōmon* | a blemish |
+| 20 | *katenygēn* "I was pierced" | ***KEPT AS IS*** I was grieved (note) |
+| 21 | *dicha tyrannida* "the sovereignty in two" | the monarchy was split in two (*tyrannoi* = monarchs) |
+| 21 | *basileian apeithē* "a disobedient kingdom" | a rebellious kingdom |
+| 22 | *ou mē diaphtharē apo tōn ergōn autou* "will not destroy of His works" | nor let any of His works perish |
+| 22 | *rhizan* "a root" | a root (note) |
+| 23 | *laou aphrosynēn* "the folly of the people" | ***KEPT AS IS*** the folly of the people |
+| 23 | *exēmarten ton Israēl* "caused Israel to sin" | who made Israel sin (note) |
+
+### Sirach 48: Elijah, Elisha, Hezekiah and Isaiah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lampas* "torch" | a torch |
+| 2 | *ōligopoiēsen autous* "made them few" | made them few |
+| 3 | *aneschen ouranon* "held back heaven" | he shut up the heavens |
+| 4 | *tis homoios soi kauchasthai* "who is like you to boast" | Who can boast as you can? |
+| 6 | *dedoxasmenous apo klinēs autōn* "honored ones from their bed" | honored men from their beds (note) |
+| 7 | *elegmon* "reproof" | rebuke |
+| 8 | *eis antapodoma* "for recompense" | to bring retribution |
+| 8 | *met' auton* "after him" | ***KEPT AS IS*** after him (note) |
+| 9 | *en lailapi pyros* "in a whirlwind of fire" | in a whirlwind of fire |
+| 10 | *ho katagrapheis en elegmois eis kairous* "the one written down in reproofs for times" | ***KEPT AS IS*** You were written down, in reproofs for their times |
+| 10 | *kopasai orgēn pro thymou* "to calm anger before fury" | to calm anger before it breaks into fury |
+| 10 | *katastēsai phylas Iakōb* "to establish the tribes of Jacob" | to restore the tribes of Jacob (note) |
+| 11 | *hoi en agapēsei kekosmēmenoi* "those adorned in love" | ***KEPT AS IS*** those adorned with love |
+| 11 | *zōē zēsometha* "we shall live with life" | we too shall surely live |
+| 12 | *eskepasthē* "was covered" | was covered |
+| 13 | *pas logos ouch hyperēren auton* "no word was above him" | No word was too hard for him |
+| 15 | *epronomeuthēsan* "were plundered" | were carried off as plunder |
+| 15 | *oligostos* "very few" | very few |
+| 17 | *ton Gōg* (Swete) | ***KEPT AS IS*** brought Gog in among them (note; choice below) |
+| 17 | *eis meson autōn* "into the middle of them" | in among them |
+| 18 | *kai apēren* "and set out" | and set out |
+| 21 | *ho angelos autou* | His angel (note) |
+| 22 | *enischysen en hodois Dauid* "was strong in the ways of David" | held firmly to the ways of David |
+| 23 | *anepodisen* | the sun went back (note) |
+| 24 | *pneumati megalō* "by a great spirit" | By a great spirit |
+| 25 | *heōs tou aiōnos* "until the age" | to the end of time |
+
+**Left standing on purpose:**
+- **45:16** "Your people".
+- **45:20** "bread in abundance for them first".
+- **45:22** "your portion".
+- **45:25** "from son to son alone".
+- **46:5** "heard them".
+- **46:6** "their armor".
+- **46:7** "the enemy".
+- **47:20** "I was grieved".
+- **47:23** "the folly of the people".
+- **48:8** "after him".
+- **48:10** "written down, in reproofs".
+- **48:11** "adorned with love".
+- **48:17** "Gog".
+
+### Choices
+
+**Widespread: copying slips in Swete's Greek** (logged in `NOTES_FOR_ANDREW.md`). Swete prints one manuscript as it stands. The spec allows a departure only on *a witness in `sources/`*, and for Sirach there is none. The renders therefore keep the slip and explain it in a note:
+- 43:23 *Iēsous* for *nēsous*. Reads now: "and Joshua planted it."
+- 48:17 *ton Gōg*. Reads now: "and brought Gog in among them."
+- 43:26 *euōdia* for *euodia*. Read as "success."
+- 43:8 *parabolōn* for *parembolōn*. Reads now: "a vessel of parables."
+
+The options:
+1. **Keep the slips as printed, with notes.** This is what the text has now, and it is what the spec allows.
+2. **Add a second witness to `sources/`**, then follow it where it tells the event better (spec rule 2). Candidates: Swete's apparatus if a digitized copy exists, the Hebrew manuscripts of Ben Sira, or Rahlfs's 1935 Septuagint. Each needs its licence checked first.
+
+**Recommendation:** option 2, so that lines like 43:23 and 48:17 can make sense. Until then, option 1.
+
+**Sirach 48:17, *ton Gōg*.** Reads now: "Hezekiah fortified his city, / and brought Gog in among them; / he dug through the sheer rock with iron, / and built pools for water."
+
+The rest of the verse is Hezekiah's tunnel (2 Kings 20:20, *brought water into the city*). The KJV has "brought in water into the midst thereof."
+
+The options:
+1. **Keep "Gog"**, as Swete prints it.
+2. **"brought water in among them"**, once a witness is added.
+
+**Recommendation:** as for 43:23.
+
 ## Sirach 41–44 — rendered 2026-10-08, 10:51 PM CDT
 
 **Source:** Greek (Swete), English (KJV) verse numbers.
