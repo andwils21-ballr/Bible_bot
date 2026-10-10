@@ -87,7 +87,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 9 (Genesis 1–8 done 2026-10-10 5:40 PM)
+- Bible 2: Genesis 13 (Genesis 1–12 done 2026-10-10 5:46 PM)
 - Bible 3: (not started)
 
 ## Open
@@ -113,3 +113,7 @@ entry.
 - **Genesis 6:17, 9:9, 34:21, 42:22**: *look,* for *hinneh*, from before the
   ruling of 2026-09-28 (6:17 is *I — look, I am bringing*, which the spec now
   renders *I Myself am about to bring*). (Bible 2, 2026-10-10)
+- **Genesis 11, notes**: the v4 note is headed *lest we be scattered*, a
+  banned word, where v4 reads *or we will be scattered*; the v1 note says *Kept
+  literal throughout this chapter because…* (talk about the translating).
+  (Bible 2, 2026-10-10)
