@@ -2,6 +2,25 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 9–12, 17–18 (council 14–18, settled 2026-10-10)
+
+**Request:** found by Bible 2 (14) and Bible 3 (15–18), agreed by the other and checked against the verses and `source_text.py` (`COUNCIL.md`, items 14–18). Genesis is closed; each note quoted words its verse does not have or made a claim the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 9, note v1 | 1:28 continued *and subdue it, and hold sway*. | 1:28 continued *and take it under foot, and hold sway*. |
+| Genesis 9, note v2 | **v2 "your fear and your dread"** | **v2 "the fear of you and the dread of you"** |
+| Genesis 10, note vv5, 20, 31 | **"by their tongues"** — *li-lshonotam*, three times, | **"by his tongue," "by their tongues"** — *li-lshono* in v5, *li-lshonotam* in vv20 and 31, |
+| Genesis 10, note vv8–9 | Four verses after the last genealogy, the word is back | Four chapters later, the word is back |
+| Genesis 11, note v4 | three verses after this story ends. | once the genealogy has run. |
+| Genesis 11, note vv10–26 | *and he died*, eight times … The first death recorded after the flood is Haran's in v28, and the first completed lifespan is Terah's in v32 | *He died*, eight times … After Noah's (9:29), the next death recorded is Haran's in v28, and the next completed lifespan is Terah's in v32 |
+| Genesis 11, note v31 | And they came as far as Harran | They came as far as Harran |
+| Genesis 12, note v2 | Eight verses earlier, the builders at Babel said | In 11:4 the builders at Babel said |
+| Genesis 12, note vv10–20 | with livestock, silver and servants | with livestock and servants |
+| Genesis 17, note v18 | **"If only Ishmael might live before You"** | **"If only Ishmael might live in Your favor"** |
+| Genesis 18, note v23 | Not "destroy," which is the word he uses later in v28 | Not "ruin," the word he uses later in v28 |
+| Genesis 18, note v33 | **"And the LORD went… And Abraham returned to his place"** | **"The LORD went… Abraham returned to his place"** |
+
 ## Notes corrected in Genesis 1, 5, 7, 8, 11, 13, 16 (council 9–13, settled 2026-10-10)
 
 **Request:** found by Bible 2 (9, 10) and Bible 3 (10–13), agreed by the other and checked against `source_text.py` (`COUNCIL.md`, items 9–13). Genesis is closed; each is provably wrong: a count the Hebrew does not bear out, a note quoting words its verse does not have, or a claim the sources contradict.
