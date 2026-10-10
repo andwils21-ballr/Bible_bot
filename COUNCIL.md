@@ -88,11 +88,62 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 13 (Genesis 1–12 done 2026-10-10 5:46 PM)
-- Bible 3: (not started)
+- Bible 3: Genesis 5 (Genesis 1–4 done 2026-10-10 5:50 PM)
 
 ## Open
 
-(none)
+### 5. Genesis 1 notes: a verse number in the Hebrew count, and a note with no verse
+Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+- **Note on v6** says *bronze censers beaten into a plating for the altar
+  (Num 17:4)*. That is the Hebrew numbering. Rule: "Follow the English (KJV)
+  chapter and verse numbering" (spec, "Versification"); HANDOFF: "Numbers
+  16:36–50 = Hebrew 17:1–15". Our Numbers 16:39 reads *So Eleazar the priest
+  took the bronze fire pans … hammered out as a covering for the altar*; our
+  Numbers 17:4 is about laying rods in the tent of meeting. The Hebrew of 17:4
+  begins *vayyiqqach Elazar ha-kohen et machtot ha-nechoshet*.
+- **Note headed `"soul"`** (just before v31) names no verse; the checker flags
+  it ("not anchored to a verse"). It explains *nephesh* where v30 lists what
+  has a soul and what it may eat.
+- Proposed: `Num 17:4` → `Num 16:39`; head the note `v30 "soul"`.
+
+### 6. Genesis 2 notes: a count that is wrong, and a note that contradicts the verse
+Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+- **Note on v4**: *Chapter 1 used Elohim alone, thirty-five times.* Counting
+  *Elohim* in the Hebrew `source_text.py genesis 1` prints: 32 in chapter 1;
+  2:1–3 add three (2:2 once, 2:3 twice), which is where 35 comes from.
+  Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md
+  §3). Proposed: *The creation account (1:1–2:3) used Elohim alone, thirty-five
+  times.*
+- **Note on v21**: *Rendered "rib" here because the Greek and then the Latin
+  chose narrower words.* The verse reads *one of his sides*, and the note's
+  last sentence argues for *side*. Proposed: *English renders it "rib" because
+  the Greek and then the Latin chose narrower words…*
+
+### 7. Genesis 3 note on v16: "the other three"
+Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; provable.
+- The note says *teshuqah* occurs *three times in the Bible. One of the other
+  three is 4:7.* A word that occurs three times has two others. Searching
+  `sources/hebrew/` for the word finds exactly three: Genesis 3:16, Genesis 4:7
+  and Song of Songs 7:11 (Hebrew numbering). Rule: "Every claim must be
+  checkable in the source text you printed" (CLAUDE.md §3).
+- Proposed: *One of the other two is 4:7.*
+
+### 8. Genesis 4 notes: a quote of 3:22 that no longer matches, and a verse count
+Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+- **Note on v8** quotes 3:22 as *lest he put out his hand and take also from
+  the tree of life, and eat, and live forever —*. Genesis 3:22 now reads *in
+  case he puts out his hand and takes also from the tree of life, and eats, and
+  lives forever —* (changed 2026-09-30, `PASTE/changes/1-genesis.md`, "Genesis
+  3:22, the verbs after 'in case'"; the 3:22 note was updated and this quote
+  was missed). *lest* is on the banned list (spec, "Banned in the rendered
+  text"). The same old quote stands in the **1 Enoch 25 note on v4**
+  (*Genesis 3:22–24 ends with the man put out of the garden lest he put out his
+  hand and take also from the tree of life, and eat, and live forever*); that
+  book is not closed.
+- **Note on v2**: *he lasts eight verses.* Abel is born in v2 and killed in v8:
+  seven verses, 2–8. Proposed: *seven*. (Small; leave it if Bible 2 reads
+  "eight" some other way.)
+- Proposed: quote 3:22 as it now reads, in both notes.
 
 ## Settled
 
@@ -117,3 +168,9 @@ entry.
   banned word, where v4 reads *or we will be scattered*; the v1 note says *Kept
   literal throughout this chapter because…* (talk about the translating).
   (Bible 2, 2026-10-10)
+- **Genesis 1:2 *the breath of God* and 6:3 *My breath***: the fixed-term table
+  (spec, 2026-09-30, after the sign-off) renders *ruach* of God as *the
+  Spirit*, and 41:38 has *the Spirit of God*. The 1:2 note explains the choice
+  of *breath*. (Bible 3, 2026-10-10)
+- **Genesis 4:16 *from before the face of the LORD***: CLAUDE.md §2 names *from
+  before the face of* as an idiom to say plainly. (Bible 3, 2026-10-10)
