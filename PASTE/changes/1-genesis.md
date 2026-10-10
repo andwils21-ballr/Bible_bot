@@ -2,6 +2,27 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 1, 5, 7, 8, 11, 13, 16 (council 9–13, settled 2026-10-10)
+
+**Request:** found by Bible 2 (9, 10) and Bible 3 (10–13), agreed by the other and checked against `source_text.py` (`COUNCIL.md`, items 9–13). Genesis is closed; each is provably wrong: a count the Hebrew does not bear out, a note quoting words its verse does not have, or a claim the sources contradict.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 1, note v27 | Everywhere else in the Bible the two words appear only as alternatives, … Deuteronomy 4:16. | Everywhere else in the Bible the two words appear as alternatives, … Deuteronomy 4:16 — or, once, each with its own preposition (Leviticus 15:33). |
+| Genesis 5, note "The repetition" | **and he died** … the phrase *and he died* lands | **He died** … the phrase *He died* lands |
+| Genesis 5, note vv21–24 | Instead of *and he died*, it says *and he was not, for God took him* … three words | Instead of *He died*, it says *He was not, for God took him* … two words |
+| Genesis 5, note v24 | **v24 "and he was not"** … — *and he was not*. | **v24 "He was not"** … — *he was not*. |
+| Genesis 5, note v18 | four verses into the other genealogy (4:17) | the first name in the other genealogy (4:17) |
+| Genesis 5, note "The ages" | two are left alone. | two are left alone; Lamech differs by six (182 in the Hebrew, 188 in the Greek). |
+| Genesis 7, note v13 | and it is kept literal here because the image is exactly right: | ; the image is |
+| Genesis 7, note on *gavar* | **vv17–20 "overpowered"** — *gavar*, four times, | **vv18–20, 24 "overpowered"** — *gavar*, four times in the chapter (vv18, 19, 20, 24), |
+| Genesis 7, note v19 | **v19 "exceedingly, exceedingly"** … The last time *me'od* appeared in this book was 1:31 | **v19 "beyond measure"** … The last time *me'od* was said of what God made was 1:31 |
+| Genesis 7, note v3 | outside Genesis the Bible never joins these two words at all | outside Genesis the bare pair does not occur (Leviticus 15:33 has the two, each with its own preposition |
+| Genesis 8, notes v4, v21 | the first of four times … the root a fourth time | the first of three times … the root a third time |
+| Genesis 11, note v4 | **v4 "lest we be scattered"** | **v4 "or we will be scattered"** |
+| Genesis 13, note v10 | thirteen verses before Lot moves his tent there | two verses before Lot moves his tent there |
+| Genesis 16, note v8 | the first question anyone is asked in this book since … in 4:9. | the first question God asks in this book since … in 4:9–10. |
+
 ## Notes corrected in Genesis 1–4 (council 5–8, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible Main and checked by Bible 2 (`COUNCIL.md`, items 5–8). Genesis is closed; each is provably wrong: a verse number in the Hebrew count, a miscount, a note that contradicts its verse, and a quotation of 3:22 from before its change of 2026-09-30.
