@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-10-09, Isaiah 8–9 chapter break (for HANDOFF.md).** The Hebrew Isaiah 8 has 23 verses; English 9:1 is Hebrew 8:23, and English 9:2–21 is Hebrew 9:1–20. `source_text.py isaiah 9` prints only Hebrew 9, so English 9 also needs Hebrew 8:23. The render follows the English and says so in the note on 9:1. (Still to come: English 64:1 is Hebrew 63:19b, and English 64:2–12 is Hebrew 64:1–11.)
 - **2026-10-09, Swete's Greek has copying slips that the spec gives no way to correct (widespread: every book read from Swete).** Swete prints one manuscript's text as it stands, slips included, and the spec allows leaving it only for *a witness in `sources/`* ("When the witnesses differ", rule 5). For Sirach there is none. So far the renders keep Swete and say so in a note:
   - Sirach 43:23 *Iēsous* ("Joshua") where the line needs *nēsous*, "islands" (one letter).
   - 48:17 *ton Gōg* where the line is about Hezekiah's water tunnel.
