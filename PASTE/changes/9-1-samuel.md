@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Samuel 4:6: no opening And (council, settled 2026-10-08)
+
+**Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: an *And* that does no work (CLAUDE.md §6).
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 4:6 | And they learned that the ark | They learned that the ark |
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.

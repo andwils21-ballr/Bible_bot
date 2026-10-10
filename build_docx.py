@@ -160,7 +160,9 @@ def build(book):
     folder = os.path.join(ROOT, "books", f"{book['order']}-{book['slug']}")
     if not os.path.isdir(folder):
         return None
-    files = sorted(f for f in os.listdir(folder) if f.endswith(".md"))
+    # Chapter files sort by number, not as text: Psalms runs 01–99 then 100–151.
+    files = sorted((f for f in os.listdir(folder) if f.endswith(".md")),
+                   key=lambda f: (0, int(f[:-3])) if f[:-3].isdigit() else (1, f))
     if not files:
         return None
 

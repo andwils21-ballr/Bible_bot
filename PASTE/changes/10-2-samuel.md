@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Samuel 11:27: what, not the thing that (council, settled 2026-10-08)
+
+**Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: *what*, not *the thing that* (CLAUDE.md §2).
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 11:27 | But the thing that David had done | But what David had done |
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.

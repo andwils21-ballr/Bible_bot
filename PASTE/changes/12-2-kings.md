@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Kings 4:40: But, not And (council, settled 2026-10-08)
+
+**Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: the *ve-* is a contrast; no opening *And* (CLAUDE.md §6).
+
+| Where | Before | After |
+|---|---|---|
+| 2 Kings 4:40 | And they could not eat it. | But they could not eat it. |
+
 ## *Now then* retired (2026-10-03, 2:25 PM Central)
 
 **Request:** Andrew: use what makes sense in each place for *ve-attah*, including cutting it, and write a rule if one is needed. The rule is in RENDERING_SPEC.md under the *And now* entry: *And now* for a weighty turn, *So* for a consequence, *But now* for a contrast, *Now* for the moment, or cut; never *Now then*.
