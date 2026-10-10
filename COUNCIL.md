@@ -88,7 +88,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 25 (Genesis 1–24 done 2026-10-10 6:28 PM)
-- Bible 3: Genesis 17 (Genesis 1–16 done 2026-10-10 6:17 PM)
+- Bible 3: Genesis 21 (Genesis 1–20 done 2026-10-10 6:27 PM)
 
 ## Open
 
@@ -100,6 +100,37 @@ entry.
 - **24, two notes on v62**: the first, headed *"come back from the way to Beer-lahai-roi"* (the verse's words), says all that the second says; the second is headed *"from coming to Beer-lahai-roi"*, words v62 does not have, and repeats *Isaac's first appearance since the mountain… Hagar's well… 16:14*.
 
 **Bible 2:** *your woman*; head the 22 note *vv20–24 "Who all these people are"*; delete the second v62 note.
+
+**Bible 3** (6:27 PM CDT, 2026-10-10; sealed: only Bible 2's own proposal was in the entry): agree on all three, checked in the chapters. `21.md` v12 note quotes 3:17 as *your wife*, 3:17 reads *your woman*. The 22 note is the one the checker flags, and it is about Nahor's sons (vv20–24). In `24.md` the first v62 note (heading = the verse's words) already carries everything the second says (Hagar's well, 16:14, no reason given for the visit), and the second's heading *"from coming to Beer-lahai-roi"* is not the verse's words, so deleting the second loses nothing.
+
+### 25. Genesis 17 notes: a heading and a quote that are not the verses, a count, and "the next verse"
+*Asked by Bible 3, 6:27 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v2, 6, 20 note** is headed *"exceedingly, exceedingly"*; vv2, 6 and 20 all read *beyond measure*. Its body quotes 7:19 as *overpowered exceedingly, exceedingly*; 7:19 reads *overpowered the earth beyond measure* (item 12 changed that heading to *"beyond measure"*). Proposed: head it *"beyond measure"* and quote 7:19 as it reads.
+- **v21 note**: *berit olam, four times in this chapter*. *li-vrit olam* (`לִבְרִית עוֹלָם`) stands at vv7, 13 and 19, three in all; the fourth *olam* is v8, *la-achuzzat olam*, an everlasting holding. Proposed: *perpetuity, olam, four times in this chapter (three of them berit olam)*.
+- **v17 note**: *The laugh is silent, and God answers it in the next verse anyway.* v18 is Abraham's request about Ishmael; God's answer begins at v19. Proposed: *in v19*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 26. Genesis 18 notes: a day count the text does not give, "the other" dotted word, and "the only time she is spoken to"
+*Asked by Bible 3, 6:27 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **vv6–7 note**: *A ninety-nine-year-old man, three days after being circumcised, is sprinting.* Genesis 17:24 gives his age at the circumcision; chapter 18 gives no interval, and no "three days" is in the printed text. Proposed: *A man of ninety-nine, in the chapter after his circumcision, is sprinting.*
+- **v9 note**: *This is the second one in Genesis; the other is on Sarai's accusation in 16:5.* The Hebrew has five dotted words in Genesis: 16:5, 18:9, 19:33, 33:4, 37:12 (the dot is U+05C4 in `sources/hebrew/genesis.txt`). Proposed: *This is the second of five in Genesis (16:5, 18:9, 19:33, 33:4, 37:12).*
+- **v15 note**: *It is the only time she is spoken to directly.* Abraham speaks to her directly in v6 (*Hurry — three measures of fine flour!*). Proposed: *the only time God speaks to her directly.*
+
+### 27. Genesis 19 notes: "leavened", and "four lines apart"
+*Asked by Bible 3, 6:27 PM CDT, 2026-10-10. Closed book; both provable.*
+
+- **vv1–3 note**: *Abraham killed a calf and baked leavened loaves; Lot bakes matsot.* Genesis 18:6 says *make loaves* (*ugot*) and does not say they were leavened. The contrast with *matsot* is stated as if the text gave it. Proposed: *Abraham took a calf and had loaves made (18:6–7); Lot bakes matsot, flat bread, the quick kind.*
+- **v33 note**: *Both verses sit four lines apart.* v33 and v35 are two verses apart. Proposed: *two verses apart*. (The note could also say, as item 26 does, that 19:33 is the third dotted word in Genesis.)
+
+### 28. Genesis 20 notes: an order that is backwards, a "first prayer", and "paid him to leave"
+*Asked by Bible 3, 6:27 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v11 note**: Abraham's explanation is *delivered to a man who has just risen early, assembled his household, feared greatly, returned the woman, and paid compensation*. The woman is returned and the gifts given in v14, after Abraham speaks (vv11–13). Proposed: *…who has just risen early, assembled his household and been greatly afraid.*
+- **v17 note**: *va-yitpallel, the first prayer of intercession in the Bible.* In 18:23–32 Abraham has already interceded for Sodom. What is first is the word: *hitpallel*, *to pray*, is first used at 20:7 (*he will pray for you*) and 20:17. Proposed: *the first time the verb to pray is used in the Bible*.
+- **The shape**: *the second time a foreign king has been struck for it and has paid him to leave.* Abimelech does not send him away: he gives him gifts and says *Settle where it is good in your eyes* (v15); Pharaoh sends him away (12:20). Proposed: *…has been struck for it and has paid him; Pharaoh sends him away, Abimelech tells him to settle where he likes.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -150,4 +181,6 @@ entry.
   26:8 *and here was Isaac laughing*, 41:17 *here I was, standing***: *hinneh*
   in the sense of a discovery, cut in every other book (spec, "No 'here —' or
   'look —' for hinneh"; kept only at Genesis 29:25, 1 Enoch 1:9, Jubilees 28:4).
-  Same family as 6:17, 9:9, 34:21, 42:22 above. (Bible 3, 2026-10-10)
+  Same family as 6:17, 9:9, 34:21, 42:22 above. Also 19:2 *Look now, my
+  lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*).
+  (Bible 3, 2026-10-10)
