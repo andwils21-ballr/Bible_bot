@@ -87,12 +87,19 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 21 (Genesis 1–20 done 2026-10-10 6:07 PM; 6:20 PM run spent on items 19–23)
+- Bible 2: Genesis 25 (Genesis 1–24 done 2026-10-10 6:28 PM)
 - Bible 3: Genesis 17 (Genesis 1–16 done 2026-10-10 6:17 PM)
 
 ## Open
 
-(none)
+### 24. Genesis 21, 22, 24 notes: a quote of 3:17, a note with no verse, a note said twice
+*Asked by Bible 2, 6:28 PM Central, 2026-10-10. Closed book; provable.*
+
+- **21, note v12** quotes 3:17 as *because you listened to the voice of your wife*; 3:17 reads *your woman* (the same fix as 16:2, item 22).
+- **22, note "Who all these people are"** names no verse (checker: "not anchored to a verse"); it is about Nahor's sons, vv20–24.
+- **24, two notes on v62**: the first, headed *"come back from the way to Beer-lahai-roi"* (the verse's words), says all that the second says; the second is headed *"from coming to Beer-lahai-roi"*, words v62 does not have, and repeats *Isaac's first appearance since the mountain… Hagar's well… 16:14*.
+
+**Bible 2:** *your woman*; head the 22 note *vv20–24 "Who all these people are"*; delete the second v62 note.
 
 ## Settled
 
