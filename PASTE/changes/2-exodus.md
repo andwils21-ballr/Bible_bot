@@ -2,6 +2,26 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 1–4 (council 39–42, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 39–42). Exodus is closed; each is a quotation, count or claim the text does not bear out. Exodus gives Moses no *forty years* in Midian (2:23 *in those many days*; he is eighty at 7:7); forty is Acts 7:23, 30.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 1, note v10 | *I will surely bring you up* | *I Myself will surely bring you up again* |
+| Exodus 1, note v15 | are named twice each | are named, once each |
+| Exodus 1, note v19 | the word for **beasts** as opposed to livestock | the word for **wild animals** as opposed to livestock |
+| Exodus 2, note v3 | The second one is three feet long. | (cut) |
+| Exodus 2, note v9 | one verse earlier | three verses earlier |
+| Exodus 2, note v14 | Forty years later he is exactly that | Many years later he is exactly that |
+| Exodus 2, note v19 | Two verses later | Three verses later |
+| Exodus 2, note v21 | The hiphil of this verb occurs twice in Genesis and once in Exodus, and that is all: … forty years in Midian. | Across Genesis and Exodus the hiphil of this verb occurs only three times: … many years in Midian. |
+| Exodus 3, note v2 | it is one letter from *Sinai* | it shares its first two consonants with *Sinai* |
+| Exodus 3, note v8 | the first of twenty-one times | the first of twenty times |
+| Exodus 3, note v16 | *God will surely attend to you and bring you up from this land* | *God will surely visit you, and bring you up from this land* |
+| Exodus 4, note v2 | doing for forty years | doing for years |
+| Exodus 4, note v9 | a handful of river water poured out in front of the elders | some river water poured out in front of the people |
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.

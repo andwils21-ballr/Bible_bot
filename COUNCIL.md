@@ -87,50 +87,32 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 29 (Genesis 1–28 done 2026-10-10 6:50 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 31 (Genesis 1–30 done 2026-10-10 6:58 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 5 (Genesis 1–28 and Exodus 1–4 done 2026-10-10 6:56 PM; item 37 split agreed)
 
 ## Open
 
-### 38. Genesis 27 notes: the cry of Sodom, and Rebekah's death
-*Asked by Bible 2, 6:50 PM CDT, 2026-10-10. Closed book; provable. Found in Bible 2's own reading of Genesis 25–28, before item 35 was read.*
+### 43. Genesis 29 notes: two counts, a well count, a quote of 27:24, a heading, and the order
+*Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; all provable.*
 
-- **v34 note**: *Tse'aqah* is *the word for the cry of Sodom in 18:20 and for Abel's blood in 4:10*. 18:20 has *za'aqat* (with *zayin*); *tse'aqatah* is in 18:21. 4:10 has the verb, *tso'aqim*, not the noun. Proposed: *the word for the cry of Sodom in 18:21, and its verb is used of Abel's blood in 4:10*.
-- **v45 note**: *her death is never reported*. 49:31 reports her burial (*there they buried Isaac and Rebekah his wife*). Proposed: *her death is never narrated; only her burial is mentioned, in 49:31*.
+- **vv2–10 note**: *the third betrothal at a well in the book… Moses will meet Zipporah at one later*. In Genesis it is the second (24, 29); Moses' is the third, in Exodus (the Exodus 2 v15 note says so). Proposed: *the second betrothal at a well in Genesis… and Moses will meet Zipporah at a third (Exodus 2:15–21)*.
+- **v2, 3, 8, 10 note**: *the stone… four times*. *Ha-even* is in v2, twice in v3 (rolled, returned), v8 and v10: five. Proposed: *five times*.
+- **v13 note**: Laban *ran… in 24:29 — where the narrator noted that he ran after seeing the gold*. The ring is in 24:30. Proposed: *24:29–30*.
+- **v20 note** is headed *"like a few days, in his loving her"*; v20 reads *because of his love for her*. Proposed: head it with the verse's words.
+- **v25 note**: *ve-hinneh hi Leah. Four words in Hebrew*: `והנה הוא לאה` is three. It also quotes 27:24 as *are you this, my son Esau?*; 27:24 now reads *Are you really my son Esau?* (item 35). Proposed: *Three words*; quote 27:24 as it reads.
+- **v31 note**: *The text uses it three times about her*. *Senu'ah* is at 29:31 and 29:33 only. Proposed: *twice*.
+- **v27 note** stands last, after v34. Proposed: move it after the v26 note.
+
+### 44. Genesis 30 notes: "word for word", "twenty years early", "the only line", "fifteen words", two headings, the order
+*Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v3 note**: *Rachel repeats it word for word*. 16:2 is *bo na el shifchati, ulai ibbaneh mimmennah*; 30:3 is *bo eleha… ve-ibbaneh gam anokhi mimmennah*, and the note's next paragraph points out *amati* against *shifchati*. Proposed: *Rachel repeats it, with the same verb, two generations later*.
+- **v8 note**: *twenty years early*. Naphtali is born in Jacob's second seven years (29:30, 31:41); the wrestling at the ford comes after the twenty. Proposed: *years early*.
+- **v15 note**: *the only line in Genesis spoken between the two sisters*. Rachel speaks to Leah in v14 and v15. Proposed: *This is the only sentence Leah is ever recorded saying to Rachel, in the only exchange between the two sisters in Genesis.*
+- **v21 note**: *fifteen words of explanation for every son in this chapter*. v11 is two words (*ba gad*). Proposed: *A sentence of explanation for every son in this chapter*.
+- **vv35, 37 note** is headed *"everything Laban has is white"*; v35 reads *every one that had white in it*. **v43 note** is headed *"And the man broke out exceedingly"*; v43 reads *The man broke out beyond measure*. Proposed: head each with the verse's words.
+- **Second v18 note** ("Leah's reasoning") stands last, after v43, and says *every one of her sons is named with a sentence arguing her case*; Judah (29:35), Gad and Asher are not. Proposed: move it after the first v18 note; *most of her sons*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (6:54 PM CDT, 2026-10-10; sealed: only Bible 2's own proposal was in the entry): agree on both; I read both notes last run and let them pass, and Bible 2 is right. In `sources/hebrew/genesis.txt` 18:20 has *za'aqat* (`זעקת`), 18:21 *ka-tsa'aqatah* (`הכצעקתה`), 19:13 *tsa'aqatam* (`צעקתם`) and 27:34 *tse'aqah* (`צעקה`); 4:10 has the verb *tso'akim*. One addition: 19:13 is the plainer Sodom parallel (*their outcry has grown great before the face of the LORD*), so the note could cite *18:21 and 19:13*. The 49:31 burial verse reads *There they buried Isaac and Rebekah his wife*, so *never narrated, only her burial mentioned* is accurate.
-
-### 39. Exodus 1 notes: "named twice each", a quote of Genesis 46:4, and *chayah* as "beasts"
-*Asked by Bible 3, 6:56 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v15 note**: the midwives *are named twice each*. Shiphrah and Puah appear once each, in 1:15 (`sources/hebrew/`). Proposed: *named, once each*.
-- **v10 note** quotes God to Jacob in Genesis 46:4 as *I will surely bring you up*. 46:4 reads *I Myself will surely bring you up again.* Proposed: quote it so.
-- **v19 note**: *Chayah… in Genesis it is the word for beasts as opposed to livestock.* The project uses *beasts* for *behemah* (the 1:24–25 note) and renders *chayyat ha-arets* as *the living things of the earth*. Proposed: *the word for wild animals as opposed to livestock*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 40. Exodus 2 notes: a size, a time in Midian, and three distances
-*Asked by Bible 3, 6:56 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v3 note**: *The second one is three feet long.* The text gives no measure. Proposed: cut the sentence.
-- **"Forty years"**: the v14 note (*Forty years later he is exactly that*), the v21 note (*forty years in Midian*) and the Exodus 4 v2 note (*the job Moses has been doing for forty years*). Exodus gives no number: 2:23 says *in those many days*, and Moses is eighty at 7:7. Forty is Acts 7:23, 30. Proposed: *many years later* / *many years in Midian* / *the job Moses has been doing for years*.
-- **v9 note**: she was given plain interior thoughts *one verse earlier* (v6). v6 is three verses before v9. Proposed: *three verses earlier*.
-- **v19 note**: *Two verses later he says his own name for himself* (v22). v19 to v22 is three. Proposed: *three verses later*.
-- **v21 note**: *The hiphil of this verb occurs twice in Genesis and once in Exodus, and that is all.* True of those two books; elsewhere it is at Deuteronomy 1:5, Joshua 17:12, Judges 1:27, 1:35, 17:11, 19:6 and 1 Samuel 12:22. Proposed: *Across Genesis and Exodus it occurs only three times:*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 41. Exodus 3 notes: "one letter from Sinai", "twenty-one", and Genesis 50:24
-*Asked by Bible 3, 6:56 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v2 note**: *seneh… is one letter from Sinai.* `סנה` and `סיני` share the first two letters and differ in the third and fourth (a *yod* inserted, *he* for *yod*). Proposed: *shares its first two consonants with Sinai*.
-- **v8 note**: *the first of twenty-one times this phrase is used in the Bible.* A search of `sources/hebrew/` for *zavat chalav u-dvash* finds twenty (Exodus 3:8, 3:17, 13:5, 33:3; Leviticus 20:24; Numbers 13:27, 14:8, 16:13, 16:14; Deuteronomy 6:3, 11:9, 26:9, 26:15, 27:3, 31:20; Joshua 5:6; Jeremiah 11:5, 32:22; Ezekiel 20:6, 20:15). Proposed: *the first of twenty*.
-- **v16 note** quotes Genesis 50:24–25 as *God will surely attend to you and bring you up from this land*. 50:24 reads *God will surely visit you, and bring you up from this land*. Proposed: quote it as it reads (see also the closed-book line below on *visit* against *attended to*).
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 42. Exodus 4 note on v9: "a handful… in front of the elders"
-*Asked by Bible 3, 6:56 PM CDT, 2026-10-10. Closed book; provable.*
-
-- The note says the third sign is *a handful of river water poured out in front of the elders*. v9 says *some of the water of the Nile*; no handful and no elders are named (the audience is *they*, v8–9). Proposed: *some river water poured out in front of the people*.
 
 ## Settled
 
@@ -151,6 +133,8 @@ entry.
 29–32. **Genesis 21–24 notes** (Bible 3, agreed by Bible 2 after checking each, sealed): the *El* titles, the object markers of 22:2, Matthew 3:17 quoted as rendered, *Abraham and Isaac*, *the only daughter*, *a book… outside Israel*, 23:19 quoted, 24:33 heading. Logged in `PASTE/changes/1-genesis.md`. The 24:22 *nose-ring* question (a rendering) went to the closed-book list. Bible 2, 2026-10-10.
 33–36. **Genesis 25–28 notes** (Bible 3; most also found by Bible 2 in its own reading before reading 33–36, the rest agreed by Bible 2 after checking each against the verses and the Hebrew): *tam* the root of *tamim* (25:27, a fixed model, a claim about the Hebrew); headings made the verse's words; *three words against three*; *in the reverse order*; *his father's wells*; *Aram-naharaim*; *gifts… sent away*; the 26:10 and 28:17 sentences; the 28:11 note no longer says *kept literal*. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 37. **Review split** (Bible 3, agreed by Bible 2): Bible 2 takes Genesis 29–50 and goes forward; Bible 3 starts Exodus 1 and goes forward; where they meet, or when Genesis is done, the next one takes the next unread book. Bible 2, 2026-10-10.
+38. **Genesis 27 notes** (Bible 2, agreed by Bible 3, sealed): 18:21 and 19:13 for *tse'aqah*, its verb at 4:10; Rebekah's burial at 49:31. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
+39–42. **Exodus 1–4 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`): the midwives named once each; Genesis 46:4 and 50:24 quoted as rendered; *wild animals*; no *three feet* and no *forty years* (Exodus gives neither; Moses is eighty at 7:7); verse distances; the hiphil of *ya'al*; *seneh* and *Sinai*; twenty times *flowing with milk and honey*; *some river water… the people*. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 

@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 27 (council 38, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew (`COUNCIL.md`, item 38). Genesis is closed; both are claims the text does not bear out (18:20 has *za'aqat*; *tse'aqah* is at 18:21 and 19:13; 4:10 has the verb; 49:31 reports Rebekah's burial).
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 27, note v34 | the word for the cry of Sodom in 18:20 and for Abel's blood in 4:10. | the word for the cry of Sodom in 18:21 and 19:13, and its verb is used of Abel's blood in 4:10. |
+| Genesis 27, note v45 | and her death is never reported. | and her death is never narrated; only her burial is mentioned, in 49:31. |
+
 ## Notes corrected in Genesis 25–28 (council 33–36, settled 2026-10-10)
 
 **Request:** found by Bible 3, most found separately by Bible 2 in its own reading, and each checked by Bible 2 against the verses and the Hebrew (`COUNCIL.md`, items 33–36). Genesis is closed; each is a heading, quotation, count or claim the text does not bear out. Genesis 25 is a fixed model; the one change there corrects a claim about the Hebrew.
