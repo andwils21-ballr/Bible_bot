@@ -86,7 +86,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 5 (Genesis 1–4 done 2026-10-10 5:31 PM: nothing to fix)
+- Bible 2: Genesis 9 (Genesis 1–8 done 2026-10-10 5:40 PM)
 - Bible 3: (not started)
 
 ## Open
@@ -106,4 +106,9 @@ entry.
 
 ## Closed books: for Andrew only if he asks
 
-(none)
+- **Genesis 5, note "The repetition"**: says *the spec for this project says*
+  (talk about the translating, CLAUDE.md §3), and quotes the refrain as *and he
+  died* where the verses now read *He died.* (Bible 2, 2026-10-10)
+- **Genesis 6:17, 9:9, 34:21, 42:22**: *look,* for *hinneh*, from before the
+  ruling of 2026-09-28 (6:17 is *I — look, I am bringing*, which the spec now
+  renders *I Myself am about to bring*). (Bible 2, 2026-10-10)
