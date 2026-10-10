@@ -2,6 +2,24 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 9, 13–16 (council 19–22, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `source_text.py` (`COUNCIL.md`, items 19–22). Genesis is closed; each is a quotation or count the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 9, note v2 | where 1:28 had *hold sway* and *subdue*. | where 1:28 had *hold sway* and *take it under foot*. |
+| Genesis 13, note v2 | Three verses earlier, in 12:10 | Earlier, in 12:10 |
+| Genesis 13, note v10 | three verses apart | four verses apart |
+| Genesis 14, note v13 | The first occurrence of *berit*, covenant, in the book is not between God and anyone | The first covenant between human beings in the book is not with God |
+| Genesis 14, note v10 | **"pits upon pits of bitumen"** … the same bitumen the builders used | **"pits upon pits of tar"** … the same tar the builders used |
+| Genesis 14, note v20 | the first words God says to Abram in the very next chapter are *I am your shield* | God says to Abram in the very next chapter, *I am a shield to you* |
+| Genesis 15, note v12 | It occurs rarely, and both times | It occurs seven times in the Hebrew Bible; in the first two, 2:21 and here, |
+| Genesis 15, note v16 | Melchizedek's city two chapters ago | Melchizedek's city in the chapter before |
+| Genesis 16, note v2 | the voice of your wife | the voice of your woman |
+| Genesis 16, note v5 | a dot over the final letter of *u-veinekha* | a dot over the letter before the last, the *yod* of *u-veinekha* |
+| Genesis 16, note v6 | in the next chapter but one | in the next chapter |
+
 ## Notes corrected in Genesis 9–12, 17–18 (council 14–18, settled 2026-10-10)
 
 **Request:** found by Bible 2 (14) and Bible 3 (15–18), agreed by the other and checked against the verses and `source_text.py` (`COUNCIL.md`, items 14–18). Genesis is closed; each note quoted words its verse does not have or made a claim the text does not bear out.
