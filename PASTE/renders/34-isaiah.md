@@ -2,6 +2,179 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 14–18 — rendered 2026-10-10, 12:56 PM CDT
+
+**Source:** Hebrew (WLC). The Greek (Swete) is followed at two places, both choices below: 14:4 (*madhevah*, a word found only there) and 16:4 (*the outcasts of Moab*). It is quoted in notes where it reads differently (14:4, 12; 15:5; 16:8; 17:9, 11; 18:1, 7).
+
+**Verse numbers:** English and Hebrew agree in all five chapters (32, 9, 14, 14, 7 verses).
+
+**Kept formulas:**
+- 14:3 *And it shall come to pass, in the day the LORD gives you rest… that you will take up this taunt*.
+- 16:12 *And it shall come to pass, when Moab presents himself… that he will not prevail*.
+- 17:4 *And it shall come to pass in that day, that*.
+- 16:14 *But now* (*ve-attah*: the word of long ago against the word now).
+- No other sentence starts with *And*.
+- *hinneh*: 17:1 *is about to cease* (with a participle); 17:14 cut.
+
+**Read forms followed (no note, the meaning is the same):** 16:3 *havi'i* (written *havi'u*); 18:4 *eshqotah* (spelling).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:13, 19:37; Exodus 1:14, 2:3, 3:7, 5:6, 5:13, 15:8; Leviticus 25:50; Deuteronomy 24:20–21, 28:42.
+- 1 Samuel 22:3; 2 Samuel 5:18, 22; 2 Kings 3:4.
+- Job 29:3; Psalms 48:2, 68:29, 68:31, 83:13, 139:8.
+- Isaiah 2:4, 6:2, 6:5, 7:1–9, 9:7, 10:16, 10:20, 10:27, 10:33, 11:1, 12:2–3.
+- Earlier notes that quote Isaiah 14: 1 Enoch 68:4 and 3 Meqabyan 1:3 match; 1 Meqabyan 13:12–13 and 33:5, Matthew 11:23 and Job 17:13–14 differ in wording only. Logged in `NOTES_FOR_ANDREW.md` (added to the morning's entry), not changed.
+
+**Checked against the sources:**
+- Hebrew: Jeremiah 25:30; 48:5, 29, 31, 34, 36; Daniel 2:32 (Aramaic *dehav*); Isaiah 21:16, 22:12, 24:13, 28:1, 28:10–11, 37:9, 37:24, 37:36, 40:25, 66:20; every *Cush* in Isaiah (the Greek has *Ethiopia* for each: 11:11; 18:1; 20:3–5; 37:9; 43:3; 45:14).
+- Swete's Greek: Isaiah 14:4, 9, 12, 19, 21, 23, 29–30; 15:2, 5; 16:1, 3–4, 8; 17:2, 9, 11; 18:1–2, 7; Exodus 5:13.
+- SBLGNT: Luke 10:18; Acts 8:27.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **14:** Israel's return and the taunt over the fallen king of Babylon, *How you have fallen from heaven, Day Star, son of the dawn!*; the LORD's oath against Assyria, *His hand is stretched out, and who will turn it back?*; a warning to Philistia in the year Ahaz died.
+- **15:** Moab's cities ruined in a night, and the prophet weeping for them.
+- **16:** Moab's refugees ask Zion for shelter; a throne in the tent of David; Moab's pride, and its vineyards silenced; three years, like a hired man's.
+- **17:** Damascus and Ephraim fall together; gleanings left on the olive tree; man looks to his Maker; the nations roar like the sea and are gone by morning.
+- **18:** the land beyond the rivers of Cush; the LORD waits like summer heat, then prunes; a gift brought to Mount Zion.
+
+### Isaiah 14: How You Have Fallen from Heaven
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-nilvah ha-ger* | the guest will join them (fixed term) |
+| 2 | *ve-hitnachalum* "will take them as an inheritance" | will possess them |
+| 2 | *shovim le-shoveihem* "captors of their captors" | They will take captive those who took them captive |
+| 2 | *be-nogseihem* | their slave drivers (Exodus 3:7's English; note) |
+| 3 | *ha-avodah ha-qashah asher ubbad bakh* "the hard service that was worked on you" | the hard service you were made to serve (Exodus 1:14; note) |
+| 4 | *mashal* "proverb, likeness" | taunt (note) |
+| 4 | *madhevah* (word found only here) | the taskmaster (the Greek's reading; choice below) |
+| 6 | *makkat bilti sarah* "a blow without turning aside" | with blows that never let up |
+| 6 | *murdaf beli chasakh* "a persecution without holding back" | with persecution no one held back |
+| 9 | *attudei arets* "the he-goats of the earth" | the leaders of the earth |
+| 9 | *repha'im* | the shades (as Psalm 88:10) |
+| 11 | *tachtekha yutsa rimmah* "beneath you maggots are spread as a bed" | maggots are the bed spread beneath you (note) |
+| 12 | *helel ben shachar* | Day Star, son of the dawn (choice below) |
+| 12 | *cholesh al goyim* "weakener of the nations" | you who laid the nations low |
+| 13, 15 | *yarkhetei tsafon… yarkhetei bor* | the far reaches of the north… the far reaches of the pit (the same word both times; note) |
+| 16 | *yashgichu* "will gaze" | will stare at you and look you over |
+| 17 | *asirav lo fatach baitah* "his prisoners he did not open homeward" | who never let his prisoners go home |
+| 18 | *shakhvu ve-khavod ish be-veito* "lie in glory, each in his house" | lie in honor, each in his own tomb |
+| 19 | *ke-netser nit'av* | like a detestable branch (the verb of *to'evah*; note) |
+| 19 | *levush harugim* "the clothing of the slain" | clothed with the slain |
+| 21 | *u-male'u fenei tevel arim* "and fill the face of the world with cities" | and fill the world with cities (the Greek has *wars*) |
+| 23 | *morash qippod* | a possession for the hedgehog |
+| 23 | *ve-te'te'tiha be-mat'ate* "I will sweep it with the sweeper" | I will sweep it with the broom |
+| 24 | *im lo* (an oath: "if not") | As I have planned (the oath form left implicit after *has sworn*) |
+| 26 | *ha-etsah ha-ye'utsah* "the plan that is planned" | the plan made |
+| 29 | *saraf me'ofef* | a flying fiery serpent (note: the seraphim's word and verb) |
+| 30 | *bekhorei dallim* "the firstborn of the poor" | The poorest of the poor |
+| 30 | *yaharog* "he will slay" | it will slay (the famine) |
+| 31 | *heilili sha'ar* | Wail, gate! (no "O") |
+| 31 | *ein boded be-mo'adav* "none alone in his appointed places" | there is no straggler in its ranks |
+
+### Isaiah 15: The Oracle Against Moab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ki be-leil shuddad Ar Mo'av nidmah* "for in a night Ar of Moab is laid waste, ruined" | Ar of Moab is laid waste in a night; it is ruined (*ki* as emphasis, cut) |
+| 2 | *alah ha-bayit ve-Divon ha-bamot li-vekhi* "he has gone up the house, and Dibon the high places, to weep" | ***KEPT AS IS*** They have gone up to the temple, and Dibon to the high places, to weep |
+| 2 | *be-khol roshav qorchah* "on all its heads baldness" | Every head is shaved bald |
+| 3 | *yored ba-bekhi* "going down in weeping" | running with tears |
+| 4 | *nafsho yare'ah lo* "his soul trembles to him" | his soul trembles within him |
+| 5 | *berichehah* | her fugitives |
+| 5 | *Eglat shelishiyyah* | Eglath-shelishiyah (a place, as Jeremiah 48:34 lists it; note) |
+| 5 | *za'aqat shever ye'o'eru* "they rouse a cry of breaking" | they raise a cry of ruin |
+| 7 | *yitrah asah u-fequddatam* "the surplus he made and their store" | the wealth they have gained and what they have stored up |
+| 9 | *Dimon* (for Dibon) | Dimon, as spelled (note) |
+| 9 | *nosafot* "additions" | still more |
+
+### Isaiah 16: Shelter for the Outcasts of Moab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi-Sela midbarah* "from Sela wilderness-ward" | from Sela, across the wilderness |
+| 2 | *ken meshullach* "a nest sent away" | a nest scattered |
+| 3 | *asu pelilah* "make a decision" | grant a ruling |
+| 3 | *be-tokh tsohorayim* "in the midst of noon" | at the height of noon |
+| 4 | *nidachai Mo'av* "my outcasts, Moab" | the outcasts of Moab (the Greek's reading; choice below) |
+| 4 | *ki afes ha-mets* "for the oppressor is at an end" | When the oppressor is no more |
+| 5 | *ba-chesed* | in loyal love |
+| 6 | *lo khen baddav* "not so his idle talk" | his boasting is empty |
+| 7 | *tehgu akh nekha'im* "you will moan, only stricken" | you will moan, utterly stricken |
+| 8 | *ba'alei goyim halemu seruqqeha* | the lords of the nations have struck down its choice branches (the other reading in a note) |
+| 8 | *shluchoteha* "its sent-out ones" | its shoots |
+| 9 | *aravvayekh dim'ati* "I water you, my tears" | I drench you with my tears |
+| 9 | *heidad* | the shout (note) |
+| 10 | *lo yidrokh ha-dorekh* "the treader does not tread" | no one treads out wine |
+| 11 | *me'ai* "my bowels" | my inner parts |
+| 11 | *qirbi* "my inside" | my inmost being |
+| 12 | *ki nil'ah* "when he has wearied himself" | when he wears himself out |
+| 14 | *ki-shnei sakhir* | like the years of a hired man (note) |
+| 14 | *lo khabbir* "not mighty" | feeble |
+
+### Isaiah 17: The Oracle Against Damascus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hinneh Dammeseq musar me-ir* "here, Damascus removed from a city" | Damascus is about to cease to be a city |
+| 1 | *me'i mappalah* "a heap of ruin" | a heap of ruins |
+| 2 | *arei Aro'er* | The cities of Aroer (the Greek has *forsaken forever*) |
+| 3 | *ki-khvod bnei Yisra'el yihyu* "like the glory of the sons of Israel they will be" | will be like the glory of the sons of Israel (note) |
+| 5 | *u-zero'o shibbolim yiqtsor* "and his arm reaps ears" | and his arm harvests the ears |
+| 6 | *gargerim be-rosh amir* "berries at the top of the summit" | berries at the top of the highest bough |
+| 7 | *yish'eh ha-adam al osehu* "man will gaze on his Maker" | man will look to his Maker |
+| 8 | *ha-asherim ve-ha-chammanim* | the Asherim and the incense altars (as Kings and Leviticus 26:30) |
+| 9 | *ka-azuvat ha-choresh ve-ha-amir* | like the deserted places of the woods and the hilltops (the Hebrew; choice below) |
+| 10 | *Elohei yish'ekh* | the God of your deliverance (*yesha*, the root of 12:2–3) |
+| 10 | *zemorat zar* "a branch of a stranger" | a stranger's vine-slips |
+| 11 | *ned qatsir be-yom nachalah* "a heap, the harvest, in the day of possession" | ***KEPT AS IS*** the harvest will be a heap on the day of possession (note gives the other vowels) |
+| 12 | *ka-hamot yammim yehemayun* "like the roaring of seas they roar" | they roar like the roaring seas (doubling trimmed, the sound kept) |
+| 13 | *ve-ga'ar bo* "and He rebukes it" | but He rebukes them |
+| 14 | *ve-hinneh ballahah* | sudden terror (*hinneh* cut) |
+| 14 | *eynennu* "he is not" | they are gone |
+
+### Isaiah 18: A Gift from Beyond the Rivers of Cush
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *eretz tsiltsal kenafayim* | the land of whirring wings (note: the Greek has *ships' wings*) |
+| 2 | *bi-khlei gome* | in vessels of papyrus (Exodus 2:3; note) |
+| 2 | *memushakh u-morat* "drawn out and polished" | tall and smooth |
+| 2 | *min hu va-hal'ah* "from it and beyond" | near and far |
+| 2, 7 | *goy qav-qav u-mevusah* "a nation of line-line and trampling" | ***KEPT AS IS*** a nation of line upon line, that tramples down (note: meaning not known) |
+| 2, 7 | *bazu* (word found only here) | ***KEPT AS IS*** whose land the rivers divide |
+| 3 | *tir'u… tishma'u* | you will see it… you will hear it |
+| 3 | *shofar* | the ram's horn (as Exodus 19 and Joshua 6) |
+| 4 | *ke-chom tsach alei or* "like clear heat upon light" | like shimmering heat in the sunlight |
+| 5 | *bosser gomel* "a sour grape ripening" | a ripening grape |
+| 6 | *ve-qats… techeraf* "will summer… will winter" | will summer on them… will winter on them |
+| 7 | *yuval shai… am memushakh* (no "from") | a gift will be brought… — a people tall and smooth — (choice below) |
+
+**Choices for you:**
+- **14:4, *madhevah*** — *How the slave driver has ceased, the taskmaster has ceased!*
+  - **(a) "the taskmaster"** (in the text now): the Greek's *epispoudastēs*, "one who hurries others on," from the verb the Greek of Exodus uses for the slave drivers who *pressed* Israel (5:13). It matches *slave driver* in the same line.
+  - **(b) "the golden city":** the word taken from the Aramaic *dehav*, "gold" (Daniel 2:32). This is the KJV's reading.
+  - Recommend **(a)**: the Hebrew word is unknown, and the Greek reading fits the line and the Exodus language of vv2–3. The note gives (b).
+- **14:12, *helel ben shachar*** — *How you have fallen from heaven, Day Star, son of the dawn!*
+  - **(a) "Day Star"** (in the text now): *helel* is from *halal*, "to shine." The Greek has *heōsphoros*, "dawn-bringer," the morning star.
+  - **(b) "Lucifer":** the KJV's name, a Latin word for "light-bringer." It is the name most readers know, and it makes the line read as a proper name.
+  - **(c) "Shining One":** closer to the Hebrew root, but less clear as a star.
+  - Recommend **(a)**: the word describes, it does not name. The taunt is addressed to *the king of Babylon* (v4), and the dead ask, *Is this the man?* (v16). The Names rule keeps received names, but *helel* is a title in a taunt, not a name the Hebrew gives anyone.
+- **16:3–4, *nidachai Mo'av*** — *"Give counsel; grant a ruling; make your shade like night at the height of noon; hide the outcasts; do not betray the fugitive. Let the outcasts of Moab live as guests among you; be a shelter to them from the destroyer."*
+  - **(a) "Let the outcasts of Moab live as guests among you"** (in the text now): the Greek's reading of the same letters. Moab's refugees (v2) ask the daughter of Zion (v1). The commands in v3 are mostly feminine, and the answer in v5 is a throne in Zion.
+  - **(b) "Let my outcasts live as guests among you; Moab, be a shelter to them":** the Hebrew vowels and accents. Israel's outcasts ask Moab, and the masculine *be* in v4 fits Moab. This is the KJV's reading.
+  - Recommend **(a)**. The note gives both, and David's family sheltered in Moab (1 Samuel 22:3).
+- **17:9, *ka-azuvat ha-choresh ve-ha-amir*** — *In that day his strong cities will be like the deserted places of the woods and the hilltops, which they deserted before the sons of Israel.*
+  - **(a) "the woods and the hilltops"** (in the text now): the Hebrew. *Amir* is the word for *the top of the highest bough* in v6, where the last olives hang.
+  - **(b) "as the Amorites and the Hivites deserted them":** the Greek. It names who *deserted* the cities before Israel.
+  - Recommend **(a)**: the Hebrew makes sense as it stands, with *they* being the land's earlier peoples, and *amir* ties the verse to v6. The note gives (b).
+- **18:7, *yuval shai… am memushakh*** — *At that time a gift will be brought to the LORD of hosts — a people tall and smooth — and from a people feared near and far… to the place of the name of the LORD of hosts, Mount Zion.*
+  - **(a) The people as the gift** (in the text now): the Hebrew as written, with *from* only before the second *people*. Isaiah ends the same way, with the nations bringing Israel's brothers *as an offering to the LORD* (66:20).
+  - **(b) "Gifts will be brought… from a people tall and smooth":** the Greek, and most English.
+  - Recommend **(a)**: it is what the Hebrew says. The note gives (b), Psalm 68:29–31 and the Ethiopian of Acts 8:27.
+
 ## Isaiah 10–13 — rendered 2026-10-10, 8:00 AM CDT
 
 **Source:** Hebrew (WLC) throughout. The Greek (Swete) is quoted in notes where it reads differently (10:22, 27, 34; 11:1, 2, 10, 15; 13:21) and followed nowhere.
