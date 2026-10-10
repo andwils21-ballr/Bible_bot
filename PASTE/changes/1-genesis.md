@@ -2,6 +2,27 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 17–22, 24 (council 24–28, settled 2026-10-10)
+
+**Request:** found by Bible 2 (24) and Bible 3 (25–28), agreed by the other and checked against the verses and `source_text.py` (`COUNCIL.md`, items 24–28). Genesis is closed; each is a quotation, count, order or claim the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 17, note v2, 6, 20 | **"exceedingly, exceedingly"** … *overpowered exceedingly, exceedingly* | **"beyond measure"** … *overpowered the earth beyond measure* |
+| Genesis 17, note v21 | perpetuity, *berit olam*, four times in this chapter; | perpetuity, *olam*, four times in this chapter (three of them *berit olam*); |
+| Genesis 17, note v17 | answers it in the next verse anyway | answers it in v19 anyway |
+| Genesis 18, note vv6–7 | A ninety-nine-year-old man, three days after being circumcised, is sprinting. | A man of ninety-nine, in the chapter after his circumcision, is sprinting. |
+| Genesis 18, note v9 | This is the second one in Genesis; the other is on Sarai's accusation in 16:5. | This is the second of five in Genesis (16:5, 18:9, 19:33, 33:4, 37:12). |
+| Genesis 18, note v15 | It is the only time she is spoken to directly | It is the only time God speaks to her directly |
+| Genesis 19, note vv1–3 | Abraham killed a calf and baked leavened loaves | Abraham took a calf and had loaves made (18:6–7) |
+| Genesis 19, note v33 | Both verses sit four lines apart | Both verses sit two verses apart |
+| Genesis 20, note v11 | risen early, assembled his household, feared greatly, returned the woman, and paid compensation | risen early, assembled his household and been greatly afraid |
+| Genesis 20, note v17 | *va-yitpallel*, the first prayer of intercession in the Bible. | *va-yitpallel*, the verb *to pray*, first used in the Bible at v7, *he will pray for you*. |
+| Genesis 20, note "The shape" | has been struck for it and has paid him to leave. | has been struck for it and has paid him; Pharaoh sent him away (12:20), Abimelech tells him to settle where he likes (v15). |
+| Genesis 21, note v12 | the voice of your wife | the voice of your woman |
+| Genesis 22, note heading | **Who all these people are** | **vv20–24 "Who all these people are"** |
+| Genesis 24, notes v62 | two notes on v62; the second headed *"from coming to Beer-lahai-roi"* | the second deleted; the first carries the same points |
+
 ## Notes corrected in Genesis 9, 13–16 (council 19–22, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `source_text.py` (`COUNCIL.md`, items 19–22). Genesis is closed; each is a quotation or count the text does not bear out.
