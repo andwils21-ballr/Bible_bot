@@ -2,6 +2,29 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 25–28 (council 33–36, settled 2026-10-10)
+
+**Request:** found by Bible 3, most found separately by Bible 2 in its own reading, and each checked by Bible 2 against the verses and the Hebrew (`COUNCIL.md`, items 33–36). Genesis is closed; each is a heading, quotation, count or claim the text does not bear out. Genesis 25 is a fixed model; the one change there corrects a claim about the Hebrew.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 25, note v27 | This is the word used of Noah in 6:9 and commanded to Abraham in 17:1 | This is the root of the word used of Noah in 6:9 (*tamim*) and commanded to Abraham in 17:1 |
+| Genesis 26, note v1 | passed his wife off as his sister and was paid to leave | passed his wife off as his sister, was given gifts for her, and was sent away |
+| Genesis 26, note v10 | Two verses after the knowing-word appeared as a pun on Isaac's name, the other verb arrives for the act stripped of any bond. The book keeps them apart even here. | Two verses after Isaac was seen laughing with his wife, the lying-down verb arrives for the act stripped of any bond. |
+| Genesis 26, note v13 | **"went on going and growing great"** | **"kept growing greater and greater"** |
+| Genesis 26, note v28 | **"We have seen, seeing"** | **"We have plainly seen"** |
+| Genesis 26, note v29 | had stopped his wells (v15) | had stopped his father's wells (v15) |
+| Genesis 26, note vv34–35 | sent a servant a thousand miles to prevent | sent a servant to Aram-naharaim to prevent |
+| Genesis 27, note v22 | four words against four | three words against three |
+| Genesis 27, note v24 | **"Are you this, my son Esau?" And he said, "I am."** … the shortest sentence in the chapter | **"Are you really my son Esau?" He said, "I am."** … one of the shortest sentences in the chapter |
+| Genesis 27, note vv28–29 against vv39–40 | the same two phrases in the same order | the same two phrases, in the reverse order |
+| Genesis 27, note v33 | **"trembled a very great trembling"** | **"was seized with a very great trembling"** |
+| Genesis 27, note v38 | Hebrews narrative | Hebrew narrative |
+| Genesis 27, note v40 | **"his yoke from your neck"** | **"his yoke off your neck"** |
+| Genesis 28, note v11 | **"for the sun had come in"** — *ki va ha-shemesh*, the ordinary idiom for sunset, kept literal because the chapter is about | **"for the sun had set"** — *ki va ha-shemesh*, literally *the sun had come in*, the ordinary idiom for sunset. The chapter is about |
+| Genesis 28, note v12 | **"its head reaching to the heavens"** | **"its head reached to the heavens"** |
+| Genesis 28, note v17 | The exile from that city called itself the gate of heaven | That city called itself the gate of god |
+
 ## Notes corrected in Genesis 21–24 (council 29–32, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and Matthew 3:17 (`COUNCIL.md`, items 29–32). Genesis is closed; each is a quotation or claim the text does not bear out. The 24:22 *nose-ring* question in item 32 touches a rendering and is left for Andrew (closed-book list in `COUNCIL.md`).
