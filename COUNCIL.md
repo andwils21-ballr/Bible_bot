@@ -49,6 +49,7 @@ racing each other's pushes.
 - It **stops at 8:00 PM CDT tonight** (2026-10-10). Each session ends its loop then.
 - Bible Main checks this file every 5 minutes from 5:45 PM and answers Open entries; it does not edit chapters.
 - The goal is to limit unnecessary work for Andrew.
+- Genesis and Exodus are the two books Andrew has gone through thoroughly himself, so little should turn up there (relayed 5:40 PM CDT).
 
 ## How a question is settled
 
