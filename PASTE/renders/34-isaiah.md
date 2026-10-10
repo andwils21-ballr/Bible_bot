@@ -2,6 +2,155 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 10–13 — rendered 2026-10-10, 8:00 AM CDT
+
+**Source:** Hebrew (WLC) throughout. The Greek (Swete) is quoted in notes where it reads differently (10:22, 27, 34; 11:1, 2, 10, 15; 13:21) and followed nowhere.
+
+**Verse numbers:** English and Hebrew agree in all four chapters (34, 16, 6, 22 verses).
+
+**Kept formulas:**
+- 10:12 *And it shall come to pass, when the Lord has finished… that I will punish*.
+- 10:20, 10:27, 11:10, 11:11 *And it shall come to pass in that day, that*.
+- No other sentence starts with *And*.
+- *hinneh*: 10:33 *is about to lop* (with a participle); 12:2 and 13:9 cut; 13:17 *I am about to stir up*.
+
+**Read forms followed (no note, the meaning is the same):** 10:6 *u-lesumo*; 10:13 *va-atudoteihem*; 10:32 *bat* Zion (written *beit*, "house"; both name Mount Zion, and 16:1 has *the mount of the daughter of Zion*); 12:5 *muda'at*; 13:16 *tishshakhavnah* (the written form is the coarser word; both mean *raped*).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 8:21, 22:17, 23:4.
+- Exodus 14:16, 15:2, 15:16; Leviticus 17:7; Numbers 11:25; Deuteronomy 29:23.
+- Joshua 6:21; Judges 7:25 (whose note already quotes Isaiah 10:26 in these words); 1 Samuel 13:23, 22:17–19.
+- Psalms 109:24, 118:14; Matthew 24:29.
+- Earlier notes that quote these chapters were matched where possible: 1 Enoch 97:3 (10:3), 2 Meqabyan 3:3–5 (10:5–6, 13, 15), Matthew 24:29 (13:10), the notes on 7:3 and 9:6 (10:21). Seven older notes in other books now differ from the Isaiah wording; they are logged in `NOTES_FOR_ANDREW.md` and not changed.
+
+**Checked against the sources:**
+- Hebrew: Jeremiah 1:1, 6:4; Ezekiel 17:23, 19:7; Joel 1:15; Amos 5:8, 5:21; Habakkuk 2:14; Zechariah 11:2; Job 9:9, 38:31; Daniel 5:28, 6:1 (English 5:31); Isaiah 1:24, 7:17, 16:1, 23:13, 32:14, 33:21, 34:14, 36:19, 65:25; *Shaddai* in Isaiah (13:6 only); the *massa* headings 15:1–30:6.
+- Swete's Greek: Isaiah 10:4, 22–23, 27, 34; 11:1–3, 10, 15; 12:2; 13:21–22.
+- SBLGNT: Romans 9:27–29, 15:12; 2 Thessalonians 2:8; Matthew 24:29.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **10:** the last stanza of *His hand is still stretched out*; woe to Assyria, *the rod of My anger*, who boasts like an axe boasting over the one who swings it; *A remnant will return*; the enemy's march town by town to within sight of Jerusalem, and the forest felled.
+- **11:** *a shoot from the stump of Jesse*, the Spirit resting on him, the wolf and the lamb; the signal raised for the nations and the exiles brought home in a second exodus.
+- **12:** the song of that day: *Your anger has turned away*; *my strength and my song is Yah*; *with joy you will draw water from the springs of deliverance*.
+- **13:** the oracle against Babylon: the day of the LORD, the stars darkened, the Medes stirred up, Babylon overthrown like Sodom and left to the creatures of the desert.
+
+### Isaiah 10: Assyria, the Rod of My Anger
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-choqeqim chiqqei aven* "who decree decrees of iniquity" | who make unjust laws |
+| 1 | *u-mekhattevim amal kittevu* "and writers who wrote trouble" | those who keep putting oppression in writing |
+| 2 | *lehattot mi-din dallim* "to turn aside the poor from judgment" | to turn the poor away from justice |
+| 3 | *kevodkhem* "your glory" | your wealth |
+| 4 | *bilti kara tachat assir* "except one crouches under the prisoner" | Nothing is left but to crouch among the prisoners |
+| 5 | *u-matteh hu ve-yadam za'mi* "and a staff it in their hand my fury" | the staff in their hand is My fury |
+| 6 | *lishlol shalal ve-lavoz baz* "to spoil spoil and plunder plunder" | to take spoil and seize plunder (note: the words of Maher-shalal-hash-baz) |
+| 6 | *mirmas ke-chomer chutsot* "a trampling like the clay of the streets" | trample them down like the mud of the streets |
+| 7 | *lo khen yedammeh* "not so does he liken" | this is not what he intends |
+| 10 | *u-fesileihem mi-yerushalayim* "and their images more than Jerusalem" | whose carved images outnumbered those of Jerusalem |
+| 11 | Samaria clause first, then Jerusalem | Jerusalem clause first (object after the verb) |
+| 12 | *pri godel levav* "the fruit of the greatness of heart" | the fruit of the king of Assyria's arrogant heart |
+| 12 | *tif'eret rum einav* "the glory of the height of his eyes" | the pride of his haughty eyes |
+| 13 | *ka-abbir* "like a mighty one / like a bull" | ***KEPT AS IS*** like a mighty one (note: the spelling of God's title in 1:24) |
+| 13 | *yoshevim* "those who sit / dwell" | the inhabitants |
+| 14 | *u-fotseh peh* "and opening a mouth" | or opened its beak |
+| 15 | *ke-harim matteh lo ets* "as a staff lifting not-wood" | as if a staff should lift him who is not wood |
+| 16 | *be-mishmannav razon* "into his fatnesses leanness" | will send leanness among his fat ones |
+| 16 | *yeqad yeqod ki-yqod esh* "a burning will burn like the burning of fire" | a blaze will be kindled, burning like fire |
+| 18 | *mi-nefesh ve-ad basar* "from soul to flesh" | both soul and body |
+| 18 | *ki-msos noses* "like the melting of one melting" | as when a sick man wastes away |
+| 19 | *mispar yihyu* "will be a number" | will be so few |
+| 22 | *killayon charuts shotef tsedaqah* "a destruction decided, overflowing righteousness" | ***KEPT AS IS*** Destruction is decreed, overflowing with righteousness |
+| 23 | *be-qerev kol ha-arets* "in the midst of all the earth" | throughout the whole earth |
+| 24, 26 | *be-derekh Mitsrayim* "in the way of Egypt" | as in Egypt, both times (note) |
+| 26 | *ke-makkat Midyan* "like the striking of Midian" | as in the striking of Midian (the words the Judges 7:25 note quotes) |
+| 27 | *mipnei shamen* "from before fat / oil" | ***KEPT AS IS*** because of fatness (choice below) |
+| 32 | *yenofef yado* "he waves his hand" | he shakes his fist |
+| 33 | *hinneh… mesa'ef* | is about to lop |
+| 34 | *ve-niqqaf* "and it will be cut down" | will be cut down (passive kept) |
+| 34 | *be-addir* "by / with a majestic one" | by the Majestic One (choice below) |
+
+### Isaiah 11: The Shoot from the Stump of Jesse
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yifreh* "will bear fruit" | will bear fruit (the Greek has *a flower will come up*; note) |
+| 2 | *ruach chokhmah…* "spirit of wisdom…" | the Spirit of wisdom… (capital S: the appositives describe the Spirit of the LORD) |
+| 3 | *va-hariho be-yir'at YHWH* "and his smelling in the fear of the LORD" | The fear of the LORD will be his delight (note) |
+| 3 | *lo le-mar'eh einav* "not to the sight of his eyes" | not by what his eyes see |
+| 4 | *be-mishor* "with level-ness" | with fairness |
+| 5 | *ezor motnav… ezor chalatsav* | the belt around his waist… around his loins |
+| 6 | *ve-gar* (*gur*) | shall live as a guest (fixed term; note) |
+| 6 | *na'ar qaton* "a small boy" | a little child |
+| 9 | *ka-mayim la-yam mekhassim* "as the waters covering the sea" | as the waters cover the sea |
+| 10 | *shoresh Yishai… elav goyim yidroshu* (root first) | the nations will seek the root of Jesse (object after the verb) |
+| 10 | *menuchato kavod* "his resting place glory" | his resting place will be glorious |
+| 11 | *yosif… shenit yado liqnot* "will add a second time his hand to acquire" | will extend His hand a second time to recover (note: *qanah*, Exodus 15:16) |
+| 11 | *iyyei ha-yam* "islands of the sea" | the coastlands of the sea |
+| 12 | *kanfot ha-arets* "the wings of the earth" | the four corners of the earth |
+| 14 | *be-khatef plishtim* "on the shoulder of the Philistines" | on the slopes of the Philistines |
+| 14 | *mishloach yadam* "the sending of their hand" | in their grasp |
+| 14 | *mishma'tam* "their obedience" | shall obey them |
+| 14 | *bnei qedem*, *bnei Ammon* | the sons of the east, the sons of Ammon (as in Judges 6:3, and as most books so far have it) |
+| 15 | *hecherim* "devoted to destruction" | ***KEPT AS IS*** will devote to destruction (the verb of the ban, Joshua 6:21; note) |
+| 15 | *lashon yam Mitsrayim* | the tongue of the sea of Egypt |
+| 15 | *ba'yam rucho* (word found only here) | ***KEPT AS IS*** with His scorching wind (note: the sense is uncertain) |
+| 15 | *ve-hidrikh ba-ne'alim* "and make tread in sandals" | and lead people across in sandals |
+| 16 | *be-yom aloto* "on the day of his going up" | on the day they came up |
+
+### Isaiah 12: The Springs of Deliverance
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *odekha YHWH ki anafta bi* "I thank You, LORD, for You were angry with me" | I will give thanks to You, LORD, for though You were angry with me |
+| 1 | *yashov appekha* "Your anger turns / turned" | Your anger has turned away (note: answers the refrain) |
+| 2 | *hinneh El yeshu'ati* | God is my deliverance (*hinneh* cut) |
+| 2 | *ozzi ve-zimrat Yah YHWH* | my strength and my song is Yah, the LORD (Exodus 15:2's English) |
+| 2–3 | *yeshu'ah* three times | deliverance each time, as Exodus 15:2 and Psalm 118:14 have it |
+| 5 | *ge'ut asah* "He has done majesty" | He has done gloriously |
+| 6 | *yoshevet Tsiyyon* "inhabitress of Zion" | you who live in Zion (note) |
+| 6 | *be-qirbekh* "in your midst" | among you |
+
+### Isaiah 13: The Oracle Against Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *massa Bavel* "the burden of Babylon" | The oracle concerning Babylon (note) |
+| 2 | *har nishpeh* "a bare mountain" | a bare hill |
+| 3 | *allizei ga'avati* "the exulters of My majesty" | those who exult in My majesty |
+| 4 | *demut am rav* "the likeness of a great people" | like that of a great people |
+| 4 | *YHWH tseva'ot mefaqqed tseva* | The LORD of hosts is mustering a host (the repeat kept) |
+| 6 | *ke-shod mi-Shaddai* | like destruction from the Almighty (note: the sound play) |
+| 8 | *penei lehavim peneihem* "faces of flames their faces" | their faces will be aflame |
+| 9 | *hinneh yom YHWH ba* | The day of the LORD is coming (*hinneh* cut) |
+| 10 | *u-khsileihem* "and their Orions" | and their constellations (note) |
+| 10 | *lo yaggiah oro* | will not shine its light (the words the Matthew 24:29 note quotes) |
+| 12 | *enosh… adam* | man… mankind |
+| 14 | *ve-hayah ki-tsvi muddach* "and it will be like a hunted gazelle" | Like a hunted gazelle (*ve-hayah* + a simile, plain) |
+| 16 | *tishshakhavnah* (read form) "will be lain with" | raped |
+| 17 | *hinneni me'ir* | I am about to stir up |
+| 18 | *lo tachus einam* "their eye will not pity" | their eyes will not spare |
+| 19 | *ke-mahpekhat Elohim et Sedom* "like God's overthrow of Sodom" | like Sodom and Gomorrah when God overthrew them |
+| 20 | *lo teshev la-netsach* "she will not sit forever" | It will never be inhabited |
+| 21 | *se'irim* "hairy ones" | ***KEPT AS IS*** goat-spirits (Leviticus 17:7's English; note gives the range) |
+| 21 | *ochim* (word found only here) | ***KEPT AS IS*** howling creatures (note: not known) |
+| 21 | *benot ya'anah* | ostriches |
+| 22 | *be-almenotav* "in its widows" | in its strongholds (note: the spelling, Ezekiel 19:7, and the parallel *palaces*) |
+| 22 | *heikhelei oneg* "palaces of delight" | its palaces of pleasure |
+
+**Choices for you:**
+- **10:27, *mipnei shamen*** — *and the yoke will be broken because of fatness*.
+  - **(a) because of fatness** (in the text now): *shemen* as the fat of a body (Psalm 109:24). The neck has grown too thick for the yoke, and it answers v16, where Assyria's *fat ones* waste away (*mishmannav*, the same root).
+  - **(b) because of the anointing:** *shemen* as the oil of anointing, the KJV's reading.
+  - **(c) leave the phrase out**, as the Greek does (*the yoke will be destroyed from your shoulders*). That would follow a witness against the Hebrew with nothing in the context to back it.
+  - Recommend **(a)**: it is the plain sense of the word, and v16 sets it up. The note gives (b).
+- **10:34, *be-addir*** — *and Lebanon will fall by the Majestic One*.
+  - **(a) by the Majestic One** (in the text now): God, as *addir* is used of Him in 33:21, *there the LORD in majesty will be for us*. It matches *with iron* in the line above, and in v33 the Lord is the one lopping the boughs.
+  - **(b) with its majestic trees:** *addir* of great trees, as in Zechariah 11:2 and Ezekiel 17:23. This is the Greek's reading, *Lebanon will fall with its lofty ones*.
+  - Recommend **(a)**. The note gives both.
+
 ## Isaiah 6–9 — rendered 2026-10-09, 10:50 PM CDT
 
 **Source:** Hebrew (WLC), with the Greek (Swete) followed at one place, 7:14 (choice below).
