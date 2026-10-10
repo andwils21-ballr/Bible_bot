@@ -2,6 +2,141 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 19–22 — rendered 2026-10-10, 5:49 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (19:18, 25; 20:1; 21:5, 8).
+
+**Verse numbers:** English and Hebrew agree in all four chapters (25, 6, 17, 25 verses).
+
+**Kept formulas:**
+- 22:20 *And it shall come to pass in that day, that I will call My servant Eliakim*.
+- 22:7 *va-yehi* is not the formula (*Your choicest valleys were full*), and is cut.
+- No other sentence starts with *And*; the checker caught 21:9 *And he answered*, now *Then he answered*.
+- *hinneh*: 19:1 *is riding* (with a participle); 21:9 *Here comes* (a presentation); 22:13 cut; 22:17 *is about to hurl*.
+
+**Read forms:** none in these chapters.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 12:3, 25:13, 36:8; Exodus 1:14, 3:7, 3:9, 7:5, 12:23, 15:26, 23:24; Deuteronomy 16:22.
+- Joshua 2:11; Judges 3:9; 2 Samuel 1:21; 1 Kings 4:6, 7:2, 10:17; 2 Kings 18:17; 2 Chronicles 32:3–5; Psalm 94:17.
+- Isaiah 1:26, 6:7, 8:18, 9:6, 9:14, 13:17, 16:14, 17:7.
+- Earlier notes that quote these chapters: 1 Enoch 102:9 and 2 Meqabyan 14:1 match. Isaiah 20:4 and 21:5 were worded to match the notes on 2 Samuel 10:4 (*with buttocks uncovered*) and 2 Samuel 1:21 (*anoint the shield*, which that note builds on). Matthew 16:19 differs in wording only, and the 3 Meqabyan 1:1 note quotes 19:1 with a banned *Behold*. Both are logged in `NOTES_FOR_ANDREW.md`, not changed.
+
+**Checked against the sources:**
+- Hebrew: *Sargon* in every Hebrew book (Isaiah 20:1 only); Isaiah 36:3; Daniel 5:1, 30 (Aramaic); 2 Kings 20:20; 2 Chronicles 32:30.
+- Swete's Greek: Isaiah 19:3, 10, 18, 25; 20:1; 21:5, 8–10; 22:3, 24.
+- SBLGNT: Revelation 3:7, 14:8, 18:2; 1 Corinthians 15:32.
+
+**The checker** found one ERROR, now fixed (21:9).
+
+**What these chapters are:**
+- **19:** the LORD comes to Egypt; the Nile dries and Egypt's wise men fail; then, *in that day*, an altar to the LORD in Egypt, a highway to Assyria, and *Blessed be Egypt My people*.
+- **20:** Isaiah walks naked and barefoot three years, a sign against Egypt and Cush.
+- **21:** *Fallen, fallen is Babylon*; *Watchman, what of the night?*; Arabia and Kedar.
+- **22:** Jerusalem feasting while the prophet weeps, *Let us eat and drink, for tomorrow we die*; Shebna removed and Eliakim given *the key of the house of David*.
+
+### Isaiah 19: The Oracle Against Egypt
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hinneh YHWH rokhev* | The LORD is riding (*hinneh* cut) |
+| 2 | *ve-sikhsakhti Mitsrayim be-Mitsrayim* "I will stir Egypt against Egypt" | I will stir up Egyptians against Egyptians |
+| 3 | *ve-navqah ruach Mitsrayim* | The spirit of Egypt will be emptied out |
+| 3 | *ha-ittim… ha-ovot… ha-yidde'onim* | the whisperers, the ghosts and the spirits (the nouns of 8:19) |
+| 4 | *adonim qasheh* "hard masters" (plural form, singular adjective) | a hard master (note) |
+| 5 | *ha-yam* "the sea" | the sea (the Nile, as the next lines say) |
+| 6 | *he'eznichu neharot* "the rivers will stink" | the canals will stink |
+| 6 | *ye'orei Matsor* | the streams of Egypt |
+| 7 | *arot al ye'or al pi ye'or* "bare places by the Nile, on the mouth of the Nile" | The bare places by the Nile, at the mouth of the Nile |
+| 9 | *orgim chorai* "weavers of white stuff" | the weavers of white cloth |
+| 10 | *shatoteha* "its foundations" | Its foundations |
+| 10 | *agmei nefesh* "grieved of soul" | grieved in soul |
+| 11 | *etsah niv'arah* "counsel made brutish" | give senseless counsel |
+| 13 | *pinnat shevateha* "the corner of its tribes" | those who are the cornerstone of its tribes |
+| 14 | *ruach iv'im* | a spirit of confusion |
+| 16 | *tenufat yad YHWH* "the waving of the hand of the LORD" | the hand that the LORD of hosts shakes over it |
+| 17 | *le-chogga* (word found only here) | a terror |
+| 18 | *nishba'ot la-YHWH* "swearing to the LORD" | swear allegiance to the LORD |
+| 18 | *ir ha-heres* | the City of Destruction (choice below) |
+| 19 | *be-tokh erets Mitsrayim* "in the midst of the land of Egypt" | in the middle of the land of Egypt |
+| 19 | *matsevah* | a standing stone (Deuteronomy 16:22's English; note) |
+| 20 | *mi-penei lochatsim* | because of those who crush them (Exodus 3:9's English; note) |
+| 20 | *moshia va-rav* | a deliverer and a defender (Judges 3:9's *deliverer*) |
+| 21 | *ve-avdu zevach u-minchah* "they will serve with sacrifice and offering" | they will worship with sacrifice and offering |
+| 22 | *nagof ve-rafo* "striking and healing" | striking and healing (kept: the pair is the point; note) |
+| 22 | *ve-ne'tar lahem* "He will let Himself be pleaded with by them" | He will hear their pleas |
+| 23 | *ve-avdu Mitsrayim et Ashur* "Egypt will serve with Assyria" | Egypt will worship with Assyria |
+| 24 | *be-qerev ha-arets* | in the middle of the earth |
+
+### Isaiah 20: Naked and Barefoot
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tartan* | the commander in chief (note) |
+| 2 | *be-yad Yesha'yahu* "by the hand of Isaiah" | through Isaiah (note) |
+| 2 | *va-ya'as ken halokh arom* | He did so, walking naked |
+| 4 | *va-chasufai shet* "bared of buttock" | with buttocks uncovered (as the 2 Samuel 10:4 note quotes it) |
+| 4 | *ervat Mitsrayim* | the nakedness of Egypt |
+| 5 | *mabbatam* "their looking-place" | whom they looked to |
+| 6 | *yoshev ha-i ha-zeh* "the inhabitant of this coastland" | the inhabitants of this coastland |
+| 6 | *hinneh khoh mabbatenu* | This is what has become of the one we looked to (*hinneh* cut) |
+
+### Isaiah 21: Fallen, Fallen Is Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *midbar yam* | the wilderness of the sea (note: Babylon, v9) |
+| 2 | *ha-boged boged ve-ha-shoded shoded* "the betrayer betrays, the destroyer destroys" | the traitor betrays, and the destroyer destroys (kept: natural English) |
+| 2 | *kol anchatah hishbatti* "all her sighing I have stopped" | All the sighing she caused I bring to an end |
+| 3 | *na'aveiti mi-shmoa* "I am bent from hearing" | I am bent double at what I hear |
+| 4 | *neshef chishqi* "the twilight of my desire" | the twilight I longed for |
+| 5 | *tsafoh ha-tsafit* | ***KEPT AS IS*** they spread the rugs (note: the word is found only here; also read *keep the watch*) |
+| 5 | *mishchu magen* | anoint the shield (as the 2 Samuel 1:21 note quotes it) |
+| 7 | *ve-hiqshiv qeshev rav qashev* "and he will listen a listening, much listening" | let him listen closely, very closely |
+| 8 | *va-yiqra aryeh* "and he called, a lion" | ***KEPT AS IS*** Then he cried out like a lion (note) |
+| 9 | *ve-hinneh zeh ba* | Here comes (a presentation) |
+| 9 | *va-ya'an va-yomer* | Then he answered |
+| 10 | *medushati u-ven gorni* "my threshed one and son of my threshing floor" | My threshed one, the grain of my threshing floor (note) |
+| 11 | *mah mi-laylah* "what from the night" | what of the night? |
+| 12 | *im tiv'ayun be'ayu shuvu eteyu* | If you would ask, ask; come back again (note: words close to Aramaic) |
+| 13 | *ba-ya'ar ba-arav* "in the thicket in Arabia" | In the thickets of Arabia |
+| 15 | *koved milchamah* "the heaviness of war" | the weight of battle |
+| 17 | *she'ar mispar qeshet* "the remnant of the number of bow" | the remnant of the archers |
+
+### Isaiah 22: The Key of the House of David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mah lakh efo* "what to you then" | What is the matter with you |
+| 3 | *mi-qeshet ussaru* "from a bow they were bound" | without a bow they were captured |
+| 4 | *al ta'itsu le-nachameni* | do not try to comfort me |
+| 4 | *bat ammi* | the daughter of my people |
+| 5 | *meqarqar qir* | a battering down of walls (note: *qir* and Kir) |
+| 7 | *va-yehi* | cut (not the formula) |
+| 7 | *shot shatu ha-sha'rah* "set, they set at the gate" | took their stand at the gate |
+| 8 | *va-yegal et masakh Yehudah* "he uncovered the covering of Judah" | He stripped away the covering of Judah |
+| 8 | *beit ha-ya'ar* | the House of the Forest (note: Solomon's armory) |
+| 11 | *osehah… yotsrah* "its maker… its former" | Him who did it… Him who planned it |
+| 13 | *ve-hinneh sason* | but instead there was joy (*hinneh* cut) |
+| 14 | *ve-nigleh be-oznai* "and He was revealed in my ears" | has revealed Himself in my hearing |
+| 14 | *im yekhuppar* (oath form) | Surely… will not be atoned for |
+| 15 | *ha-sokhen* | this steward |
+| 16 | *chotsvi marom qivro* (third person) | cutting out his tomb on the height (the switch to *his* kept) |
+| 17 | *metaltelkha taltelah gaver* "hurling you a hurling, O man" | hurl you away, hurl you, you strong man |
+| 17 | *ve-otekha atoh* "and grasping you a grasping" | and grip you hard |
+| 18 | *tsanof yitsnofkha tsenefah* "winding he will wind you a winding" | He will wind you round and round |
+| 19 | *mi-matsavekha… mi-ma'amadekha* | from your office… from your post |
+| 22 | *al shikhmo* | on his shoulder (as 9:6; note) |
+| 23 | *yated be-maqom ne'eman* "a peg in a faithful place" | a peg into a firm place |
+| 24 | *ha-tse'etsa'im ve-ha-tsefi'ot* | the offspring and the offshoots |
+| 25 | *ha-massa* | the load (note: the chapter's opening word) |
+
+**Choices for you:**
+- **19:18, *ir ha-heres*** — *In that day there will be five cities in the land of Egypt that speak the language of Canaan and swear allegiance to the LORD of hosts. One of them will be called the City of Destruction.*
+  - **(a) "the City of Destruction"** (in the text now): the Hebrew. *Heres* is "tearing down," the word of *You shall utterly tear them down* (Exodus 23:24), so the name can mean the city where the idols are torn down.
+  - **(b) "the City of Righteousness":** the Greek, *polis asedek*. This is the name Jerusalem is given in 1:26, and it suits a verse about cities that swear to the LORD.
+  - Recommend **(a)**: the Hebrew word makes sense in a passage about idols falling (v1) and a standing stone set up for the LORD (v19), so nothing forces the change. The note gives both.
+
 ## Isaiah 14–18 — rendered 2026-10-10, 12:56 PM CDT
 
 **Source:** Hebrew (WLC). The Greek (Swete) is followed at two places, both choices below: 14:4 (*madhevah*, a word found only there) and 16:4 (*the outcasts of Moab*). It is quoted in notes where it reads differently (14:4, 12; 15:5; 16:8; 17:9, 11; 18:1, 7).
