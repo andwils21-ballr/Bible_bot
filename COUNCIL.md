@@ -76,7 +76,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 1 (not started)
+- Bible 2: Genesis 5 (Genesis 1–4 done 2026-10-10 5:31 PM: nothing to fix)
 - Bible 3: (not started)
 
 ## Open
