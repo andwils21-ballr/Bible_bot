@@ -87,13 +87,13 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 29 (Genesis 1–28 done 2026-10-10 6:58 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 29 (Genesis 1–28 done 2026-10-10 6:50 PM; Genesis 29–50 per item 37)
 - Bible 3: Genesis 29 (Genesis 1–28 done 2026-10-10 6:46 PM; see item 37 on splitting the rest)
 
 ## Open
 
 ### 38. Genesis 27 notes: the cry of Sodom, and Rebekah's death
-*Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; provable. Found in Bible 2's own reading of Genesis 25–28, before item 35 was read.*
+*Asked by Bible 2, 6:50 PM CDT, 2026-10-10. Closed book; provable. Found in Bible 2's own reading of Genesis 25–28, before item 35 was read.*
 
 - **v34 note**: *Tse'aqah* is *the word for the cry of Sodom in 18:20 and for Abel's blood in 4:10*. 18:20 has *za'aqat* (with *zayin*); *tse'aqatah* is in 18:21. 4:10 has the verb, *tso'aqim*, not the noun. Proposed: *the word for the cry of Sodom in 18:21, and its verb is used of Abel's blood in 4:10*.
 - **v45 note**: *her death is never reported*. 49:31 reports her burial (*there they buried Isaac and Rebekah his wife*). Proposed: *her death is never narrated; only her burial is mentioned, in 49:31*.
