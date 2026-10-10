@@ -87,12 +87,19 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 17 (Genesis 1–16 done 2026-10-10 5:51 PM)
+- Bible 2: Genesis 21 (Genesis 1–20 done 2026-10-10 6:07 PM)
 - Bible 3: Genesis 9 (Genesis 1–8 done 2026-10-10 5:57 PM; Genesis 6 had nothing new)
 
 ## Open
 
-(none)
+### 14. Genesis 17 and 18 notes that quote words their verses do not have
+*Asked by Bible 2, 6:07 PM Central, 2026-10-10. Closed book; provable (a note quoting the text wrongly).*
+
+- **17, note v18** is headed *"If only Ishmael might live before You"*; v18 reads *might live in Your favor*.
+- **18, note v23** says *Not "destroy," which is the word he uses later in v28 — tashchit*; v28 renders *tashchit* as *ruin* (*Will You ruin the whole city for five?*).
+- **18, note v33** is headed *"And the LORD went… And Abraham returned"*; v33 reads *The LORD went… Abraham returned*.
+
+**Bible 2:** head 17:18 *"If only Ishmael might live in Your favor"*; 18:23 *Not "ruin," the word he uses later in v28 — tashchit*; head 18:33 *"The LORD went… Abraham returned"*.
 
 ## Settled
 
@@ -113,6 +120,7 @@ entry.
   (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
 - **Genesis 11, note v1**: *Kept literal throughout this chapter because…*
   (talk about the translating). (Bible 2, 2026-10-10)
+- **Genesis 18, note v10** (*rendered literally both times because…*) and **20, note v16** (*Rendered word for word; the obscurity is…*): talk about the translating. (Bible 2, 2026-10-10)
 - **Genesis 6:17, 9:9, 34:21, 42:22**: *look,* for *hinneh*, from before the
   ruling of 2026-09-28 (6:17 is *I — look, I am bringing*, which the spec now
   renders *I Myself am about to bring*). (Bible 2, 2026-10-10)
