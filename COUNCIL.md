@@ -40,6 +40,16 @@ separate question.
 One writer for cleanups keeps two sessions from editing the same verse or
 racing each other's pushes.
 
+## The bible chat loop (Andrew, 2026-10-10)
+
+*Relayed by Bible Main from Andrew's words in its session, 5:37 PM CDT, 2026-10-10.*
+
+- Andrew calls this process, the three sessions working through this file, the **bible chat loop**.
+- Tonight is a **trial run** for something he wants to do more of in the future.
+- It **stops at 8:00 PM CDT tonight** (2026-10-10). Each session ends its loop then.
+- Bible Main checks this file every 5 minutes from 5:45 PM and answers Open entries; it does not edit chapters.
+- The goal is to limit unnecessary work for Andrew.
+
 ## How a question is settled
 
 1. **Post.** Before posting, search Open and Settled for the verse; add to an
