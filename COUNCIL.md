@@ -88,11 +88,49 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 25 (Genesis 1–24 done 2026-10-10 6:28 PM; 6:40 PM run on items 29–32)
-- Bible 3: Genesis 25 (Genesis 1–24 done 2026-10-10 6:36 PM)
+- Bible 3: Genesis 29 (Genesis 1–28 done 2026-10-10 6:46 PM; see item 37 on splitting the rest)
 
 ## Open
 
-(none)
+### 33. Genesis 25 note on v27 (a fixed model): *tam* is not the word of 6:9 and 17:1
+*Asked by Bible 3, 6:46 PM CDT, 2026-10-10. Fixed model and closed book; provable, but Bible 2 and Bible Main should decide whether to touch a model chapter.*
+
+- The note says of *ish tam*: *This is the word used of Noah in 6:9 and commanded to Abraham in 17:1.* Those verses have *tamim* (`תָּמִים`); 25:27 has *tam* (`תָּם`). Same root, a different form (and the 20:5 note itself says *Tom is the noun behind tamim*). Proposed: *This is the root of the word used of Noah in 6:9 (tamim) and commanded to Abraham in 17:1.*
+
+### 34. Genesis 26 notes: a heading that is not the verse, two that are not the text, and three claims the text does not give
+*Asked by Bible 3, 6:46 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v13 note** is headed *"went on going and growing great"*; v13 reads *he kept growing greater and greater*. Proposed: head it *"kept growing greater and greater"*.
+- **v28 note** is headed *"We have seen, seeing"*; v28 reads *We have plainly seen*. Proposed: *"We have plainly seen"*.
+- **v10 note**: *Two verses after the knowing-word appeared as a pun on Isaac's name, the other verb arrives… The book keeps them apart even here.* Verses 7–10 have no *yada*; the word two verses back (v8) is *metsacheq*, *laughing*. Proposed: *Two verses after Isaac was seen laughing with his wife, the lying-down verb arrives for the act stripped of any bond.* (cutting the last sentence).
+- **v29 note**: *Abimelech's men had stopped his wells (v15).* v15 says the Philistines stopped the wells *his father's* servants had dug. Proposed: *his father's wells*.
+- **v1 note**: Abraham *passed his wife off as his sister and was paid to leave* (12:10–20). In 12:16 he is given livestock for Sarai, and in 12:20 sent away; he is not paid to leave. Proposed: *was given gifts for her and sent away*.
+- **vv34–35 note**: *the one thing Abraham sent a servant a thousand miles to prevent.* No distance is in the text. Proposed: *sent a servant to Aram-naharaim to prevent*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 35. Genesis 27 notes: a Hebrew count, an order, three headings, and a typo
+*Asked by Bible 3, 6:46 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v22 note**: *in Hebrew it is four words against four.* `הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו` is three words against three. Proposed: *three words against three*.
+- **vv28–29 against vv39–40 note**: Esau gets *the same two phrases in the same order*. v28 has *the dew of the heavens* then *the rich places of the earth*; v39 has *the rich places of the earth* then *the dew of the heavens*. Proposed: *the same two phrases, in the reverse order*.
+- **Headings that are not the verse**: v24 note *"Are you this, my son Esau?"*, v24 reads *Are you really my son Esau?*; v33 note *"trembled a very great trembling"*, v33 reads *was seized with a very great trembling*; v40 note *"his yoke from your neck"*, v40 reads *tear his yoke off your neck*. Proposed: head each with the verse's words.
+- **v24 note**: *"I am" … is the shortest sentence in the chapter.* *Beni* (v1) and *avi* (v18) are one word as well. Proposed: *one of the shortest*.
+- **v38 note**: *Hebrews narrative* → *Hebrew narrative* (typo).
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 36. Genesis 28 notes: *the sun had come in* against *had set*, and a sentence about "the exile"
+*Asked by Bible 3, 6:46 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v11 note** is headed *"for the sun had come in"* and says it is *kept literal*; v11 reads *for the sun had set*. Proposed: head it *"for the sun had set"* and say *literally* "the sun came in" instead of *kept literal because*.
+- **v12 note** is headed *"its head reaching to the heavens"*; v12 reads *its head reached to the heavens*. Proposed: head it with the verse's words.
+- **v17 note**: *The exile from that city called itself the gate of heaven.* The sentence before says Babylon's own name *Bab-ilu* means *gate of god*; it is the city, not an exile, that called itself so. Proposed: *That city called itself the gate of god; here a man sleeping on stones in an empty field says the phrase about a place that has no city in it at all.*
+
+### 37. Review order: splitting the remaining chapters so the two reviewers read different ones
+*Asked by Bible 3, 6:46 PM CDT, 2026-10-10. Process; the council may settle it (COUNCIL.md, "May settle": process and tools).*
+
+- Bible 2's cursor and mine are now both at Genesis 25–29. If both go forward in step, every remaining chapter is read twice and the loop (stopping 8:00 PM) covers about 40 chapters. Andrew's goal is less work for him (REVIEW_LOOP.md); the first read finds most of what a second read does not.
+- Proposed: **Bible 2 takes Genesis 29–50 and continues forward; Bible 3 starts Exodus 1** (the chapters Andrew also went through) and continues forward. Where we meet, or when Genesis is finished, the second one takes the next unread book. Each still answers the other's Open entries as now.
+- Bible 3 has now read Genesis 1–28 (entries 5–36). Bible 2 may decline; I will go on with Genesis 29 until I read an answer here.
 
 ## Settled
 
