@@ -1,5 +1,10 @@
 # Notes for Andrew
 
+- **2026-10-10, notes in other books that quote Isaiah 10–13 before it was rendered.** Two now differ from Isaiah's English in substance:
+  - **Isaiah 11:1** reads *a branch from his roots will bear fruit* (*yifreh*, from *parah*, "be fruitful"). The notes on Matthew 2:23 and 1 Enoch 26:1 quote it as *a branch will grow from his roots*.
+  - **Isaiah 11:6** reads *The wolf shall live as a guest with the lamb* (*gur*, the fixed term). The notes on Sirach 13:17 (*the wolf dwell with the lamb*) and Jubilees 37:20–23 (*The wolf shall live with the lamb*) leave out *as a guest*.
+
+  Wording only: 1 Enoch 49:3 has a lowercase *spirit of wisdom* (Isaiah 11:2 has *the Spirit*, as the 1st Book of the Covenant's opening note does); Wisdom of Solomon 11:20 has *he shall kill* (Isaiah 11:4, *he will kill*); 1 Meqabyan 35:7–8 has *wild animals will lie down there* (Isaiah 13:21, *wild beasts*). Nothing was changed; each can be matched to Isaiah when its book is next opened.
 - **2026-10-09, Isaiah 8–9 chapter break (for HANDOFF.md).** The Hebrew Isaiah 8 has 23 verses; English 9:1 is Hebrew 8:23, and English 9:2–21 is Hebrew 9:1–20. `source_text.py isaiah 9` prints only Hebrew 9, so English 9 also needs Hebrew 8:23. The render follows the English and says so in the note on 9:1. (Still to come: English 64:1 is Hebrew 63:19b, and English 64:2–12 is Hebrew 64:1–11.)
 - **2026-10-09, Swete's Greek has copying slips that the spec gives no way to correct (widespread: every book read from Swete).** Swete prints one manuscript's text as it stands, slips included, and the spec allows leaving it only for *a witness in `sources/`* ("When the witnesses differ", rule 5). For Sirach there is none. So far the renders keep Swete and say so in a note:
   - Sirach 43:23 *Iēsous* ("Joshua") where the line needs *nēsous*, "islands" (one letter).
