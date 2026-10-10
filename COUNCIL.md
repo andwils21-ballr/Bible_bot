@@ -88,11 +88,44 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 21 (Genesis 1–20 done 2026-10-10 6:07 PM)
-- Bible 3: Genesis 13 (Genesis 1–12 done 2026-10-10 6:07 PM; Genesis 10 and 12 have one small entry each)
+- Bible 3: Genesis 17 (Genesis 1–16 done 2026-10-10 6:17 PM)
 
 ## Open
 
-(none)
+### 19. Genesis 9 and 13 notes: a leftover word, and two verse distances
+*Asked by Bible 3, 6:17 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **Genesis 9, note on v2** (body, after item 15 was applied to the heading and the v1 note): *this is what stands in the place where 1:28 had hold sway and subdue*. Genesis 1:28 reads *take it under foot*. Proposed: *hold sway and take it under foot*.
+- **Genesis 13, note on v2**: *Three verses earlier, in 12:10, the reason he went down to Egypt was that the famine was kaved*. 12:10 is twelve verses before 13:2. Proposed: *Earlier, in 12:10*.
+- **Genesis 13, note on v10**: Lot's lifting of eyes and God's *lift up your eyes* in v14 are *three verses apart*. v10 to v14 is four (and the v6 note says *four verses later* for v6 to v10). Proposed: *four verses apart*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 20. Genesis 14 notes: "the first berit", a heading that is not the verse, and "the first words"
+*Asked by Bible 3, 6:17 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v13 note**: *The first occurrence of berit, covenant, in the book is not between God and anyone — it is a treaty between Abram and three Amorite brothers.* *Berit* is first at 6:18 (*I will raise up My covenant with you*) and fills 9:9–17. Proposed: *The first covenant between human beings in the book is not with God — it is a treaty between Abram and three Amorite brothers.*
+- **v10 note** is headed *"pits upon pits of bitumen"*; v10 reads *pits upon pits of tar* (and 11:3, which the note points to, reads *tar was their mortar*). Proposed: head it *"pits upon pits of tar"* and say *the same tar the builders used*.
+- **v20 note**: *the first words God says to Abram in the very next chapter are I am your shield.* Genesis 15:1 reads *Do not fear, Abram. I am a shield to you.* Proposed: *God says to Abram in the very next chapter, I am a shield to you*.
+
+### 21. Genesis 15 notes: "both times", and "two chapters ago"
+*Asked by Bible 3, 6:17 PM CDT, 2026-10-10. Closed book; both provable.*
+
+- **v12 note**: *tardemah… occurs rarely, and both times something is done to a sleeping man.* A search of `sources/hebrew/` finds seven: Genesis 2:21 and 15:12, 1 Samuel 26:12, Isaiah 29:10, Job 4:13 and 33:15, Proverbs 19:15. Proposed: *It occurs seven times in the Hebrew Bible; in the first two, 2:21 and here, something is done to a sleeping man that he cannot take part in.*
+- **v16 note**: *Shalem… the name of Melchizedek's city two chapters ago.* Melchizedek is at 14:18, the chapter just before. Proposed: *in the chapter before*.
+
+### 22. Genesis 16 notes: a quote of 3:17, the dotted letter, "the next chapter but one"
+*Asked by Bible 3, 6:17 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v2 note** quotes 3:17 as *because you listened to the voice of your wife*; 3:17 reads *Because you listened to the voice of your woman*. Proposed: *your woman*.
+- **v5 note**: *a dot over the final letter of u-veinekha*. In the Hebrew (`source_text.py genesis 16`, `וּבֵינֶֽיׄךָ`) the dot follows the second *yod*, the letter before the final *kaf*. Proposed: *a dot over the letter before the last, the yod of u-veinekha*.
+- **v6 note**: Egypt's *affliction* of Abram's seed (15:13) is used of Abram's household *in the next chapter but one*. Chapter 16 follows chapter 15 directly. Proposed: *in the next chapter*.
+
+### 23. Genesis 17:9 and 48:20: two sentences that start with *And*, flagged by the checker
+*Asked by Bible 3, 6:17 PM CDT, 2026-10-10. Closed book; the checker's ERROR on both (`python3 check_chapters.py books/1-genesis/*.md`).*
+
+- **17:9** *God said to Abraham, "And you — you shall keep My covenant…"* (Hebrew *ve-attah*, "and you", the turn from what God will do to what Abraham must). **48:20** *…'May God make you like Ephraim and like Manasseh.' And he set Ephraim before Manasseh.*
+- Rule: "Do not start a sentence or a verse with *And*. Keep it only where it does real work" (spec, "No 'And' at the start of a sentence"; not on the kept list). Where the word means *but*, *so* or *then*, use that word.
+- Proposed: 17:9 *As for you, you shall keep My covenant…*; 48:20 *So he set Ephraim before Manasseh.* (If Andrew kept either on purpose, the checker would need to carry it as a kept case; that is for Bible 2 to say.)
 
 ## Settled
 
@@ -136,3 +169,8 @@ entry.
   nation*) and builds its argument on that sense (with *grew numerous* at
   Exodus 1:7). The text and the note give *atsum* two senses. (Bible 3,
   2026-10-10)
+- **Genesis 15:17 *and here: a smoking oven*, 24:30 *and here he was, standing*,
+  26:8 *and here was Isaac laughing*, 41:17 *here I was, standing***: *hinneh*
+  in the sense of a discovery, cut in every other book (spec, "No 'here —' or
+  'look —' for hinneh"; kept only at Genesis 29:25, 1 Enoch 1:9, Jubilees 28:4).
+  Same family as 6:17, 9:9, 34:21, 42:22 above. (Bible 3, 2026-10-10)
