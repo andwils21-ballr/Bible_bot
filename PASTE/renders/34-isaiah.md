@@ -2,6 +2,166 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 6–9 — rendered 2026-10-09, 10:50 PM CDT
+
+**Source:** Hebrew (WLC), with the Greek (Swete) followed at one place, 7:14 (choice below).
+
+**Verse numbers:**
+- **English 9:1 is Hebrew 8:23**, and English 9:2–21 is Hebrew 9:1–20. The checker flags both chapters for the offset, as expected. The note on 9:1 says so, and the break is logged in `NOTES_FOR_ANDREW.md` for HANDOFF.
+- **Prose and poetry:** Isaiah 6–8 mix prose and poetry, laid out as the Hebrew runs.
+- **Kept formulas:**
+  - 7:1 *And it came to pass in the days of Ahaz… that* (opens the story).
+  - 7:18, 21, 23 *And it shall come to pass in that day, that*.
+  - 8:21 *And it shall come to pass, when they are hungry, that*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:26, 22:1, 24:16, 24:43.
+- Numbers 21:6; Deuteronomy 6:16.
+- Judges 7:22; 2 Samuel 10:4; 2 Kings 16:7, 16:10, 23:24.
+- Psalms 23:4, 33:6; Song of Songs 8:11–12.
+- Matthew 1:23, 4:15–16, 13:14–15.
+
+**Checked against the sources:**
+- Hebrew: Genesis 24:16, 43 (*betulah*, *almah*); Isaiah 10:21; the threefold *qadosh* (Isaiah 6:3 only); Isaiah 63:19–64:11 for the coming offset.
+- Swete's Greek: Isaiah 6:13 (it lacks the holy-seed line), Isaiah 7:14.
+- SBLGNT: John 12:40–41, Acts 28:26, Romans 9:33, Hebrews 2:13, 1 Peter 2:8, 3:14–15, Revelation 4:8.
+
+**The checker** found nothing beyond the expected 8–9 verse counts.
+
+**What these chapters are:**
+- **6:** Isaiah's vision of the Lord on the throne, *Holy, holy, holy*, the coal on his lips, *Here I am; send me*, and the hard commission.
+- **7:** Ahaz, threatened by Aram and Israel, refuses a sign; the sign of Immanuel; the razor of Assyria.
+- **8:** Maher-shalal-hash-baz; the gentle waters refused for the River in flood; *God is with us*; the stone of stumbling; *seal the instruction among my disciples*.
+- **9:** *The people who walked in darkness have seen a great light*; *For to us a child is born… Wonderful Counselor, Mighty God*; the refrain *His hand is still stretched out*.
+
+### Isaiah 6: Holy, Holy, Holy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shulav* "his skirts" | the hem of His robe |
+| 2 | *shesh kenafayim shesh kenafayim le-echad* "six wings, six wings to one" | each had six wings |
+| 2 | *raglav* "his feet" | his feet |
+| 3 | *melo khol ha-arets kevodo* "the fullness of all the earth is His glory" | the whole earth is full of His glory |
+| 4 | *ammot ha-sippim* "the pivots of the thresholds" | The posts of the thresholds |
+| 4 | *yimmale ashan* "was filling with smoke" | was filled with smoke |
+| 5 | *nidmeiti* "I am silenced / cut off" | I am ruined (note) |
+| 5 | *u-ve-tokh am* "in the midst of a people" | among a people |
+| 6 | *ritspah* "a glowing stone" | a burning coal |
+| 7 | *hinneh naga zeh* | This has touched (*hinneh* cut) |
+| 7 | *tekhuppar* "is covered / atoned" | is atoned for (note) |
+| 8 | *hinneni* | Here I am (as Genesis 22:1) |
+| 9 | *shim'u shamoa… re'u ra'o* "hear hearing… see seeing" | Keep on listening… keep on looking (note) |
+| 10 | *pen* | otherwise (spec: no "lest") |
+| 10 | *va-shav ve-rafa lo* "and turn, and one heals him" | and turn and be healed |
+| 11 | *ad matai Adonai* | How long, Lord? (no "O") |
+| 12 | *be-qerev ha-arets* | in the middle of the land |
+| 13 | *ve-shavah ve-hayetah le-va'er* "and it will again be for burning" | it will be burned again |
+| 13 | *matsevet* "stump / standing thing" | stump (note) |
+
+### Isaiah 7: The Sign of Immanuel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi bi-ymei Achaz* | And it came to pass in the days of Ahaz… that (kept formula) |
+| 2 | *nachah Aram al Efrayim* "Aram has rested upon Ephraim" | Aram has settled in Ephraim |
+| 2 | *va-yana levavo* "and his heart shook" | his heart… shook |
+| 3 | *She'ar yashuv* | Shear-jashub (note) |
+| 4 | *hishshamer ve-hashqet* "guard yourself and be quiet" | Take care and be calm |
+| 4 | *libbekha al yerakh* "do not let your heart be soft" | do not let your heart lose courage |
+| 4 | *zanvot ha-udim ha-ashenim* "tails of smoking firebrands" | smoldering stubs of firebrands |
+| 6 | *u-neqitsennah* "and let us terrify it" | and terrify it |
+| 9 | *im lo ta'aminu ki lo te'amenu* | If you will not stand firm in faith, you will not stand firm at all (note) |
+| 11 | *ha'meq she'alah* | make it as deep as Sheol (note) |
+| 14 | *hinneh ha-almah harah ve-yoledet ben* "the young woman is with child and bearing a son" | ***the Greek followed***: the virgin will conceive and bear a son (note; choice below) |
+| 14 | *ve-qarat shemo* "and she will call his name" | and she will call his name (the Hebrew; the Greek has "you will call") |
+| 15 | *le-da'to* "by his knowing" | by the time he knows |
+| 16 | *asher attah qats mi-penei* "which you loathe from before" | whose two kings you dread |
+| 17 | *le-miyyom sur Efrayim me-al Yehudah* "from the day Ephraim turned from upon Judah" | since the day Ephraim broke away from Judah |
+| 18 | *bi-qtseh ye'orei Mitsrayim* "at the end of the Nile-streams of Egypt" | at the far end of the rivers of Egypt |
+| 19 | *nahalolim* "watering places / pastures" | the watering places |
+| 20 | *ha-ta'ar ha-sekhirah* "the hired razor" | a razor hired |
+| 20 | *se'ar ha-raglayim* "the hair of the feet" | ***KEPT AS IS*** the hair of the feet (note) |
+| 22 | *be-qerev ha-arets* | in the land |
+| 25 | *ve-khol he-harim* | As for all the hills (no "And") |
+
+### Isaiah 8: God Is with Us
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *be-cheret enosh* "with a man's stylus" | in ordinary letters |
+| 1 | *le-maher shalal chash baz* | For Maher-shalal-hash-baz (note) |
+| 2 | *ve-a'idah li* "and let me take witness for me" | I called reliable witnesses to attest it for me |
+| 3 | *va-eqrav el ha-nevi'ah* "I came near to the prophetess" | I went to the prophetess |
+| 6 | *u-mesos et Retsin* "and rejoicing with Rezin" | ***KEPT AS IS*** and rejoices with Rezin |
+| 7 | *hinneh… ma'aleh* | is about to bring up |
+| 8 | *mutot kenafav* "the spreadings of his wings" | its outspread wings |
+| 9 | *ro'u* "be broken" (or "raise the war cry") | ***KEPT AS IS*** Be broken |
+| 9 | *hit'azzeru* "gird yourselves" | put on your armor |
+| 10 | *ki immanu el* | for God is with us (note) |
+| 11 | *ke-chezqat ha-yad* "with the strength of the hand" | while His hand was strong upon me (note) |
+| 11 | *ve-yisseréni* "and He instructed me" | and warned me |
+| 13 | *taqdishu* "you shall sanctify" | you shall regard as holy (note) |
+| 14 | *even negef… tsur mikhshol* | a stone to strike against and a rock to stumble over (note) |
+| 16 | *torah* | the instruction (the open *torah* ruling) |
+| 16 | *be-limmudai* "among my taught ones" | among my disciples |
+| 18 | *hinneh anokhi* | Here am I (spec: presentation) |
+| 19 | *ovot… yidde'onim* | the ghosts and the spirits (as 2 Kings 23:24; Leviticus 19:31) |
+| 19 | *ha-metsaftsefim ve-ha-mahgim* "the chirpers and the mutterers" | that chirp and mutter |
+| 20 | *asher ein lo shachar* "for whom there is no dawn" | ***KEPT AS IS*** it is because there is no dawn for them (note) |
+| 21 | singular throughout ("he will pass… he is hungry") | they |
+| 22 | *ve-hinneh* | they will look to the earth: (*hinneh* cut) |
+
+### Isaiah 9: For to Us a Child Is Born
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | Hebrew 8:23 | English 9:1 (note) |
+| 1 | *heqal* "made light (of)" | brought contempt on |
+| 1 | *hikhbid* "made heavy / glorious" | has made glorious |
+| 2 | *tsalmavet* | the shadow of death (note) |
+| 3 | *lo* (read form, "to it") | You have increased its joy (note) |
+| 5 | *se'on so'en* "boot booting" | every boot of the tramping warrior |
+| 6 | *va-yiqra shemo* "and one calls his name" | his name shall be called |
+| 6 | *pele yo'ets* "a wonder of a counselor" | Wonderful Counselor |
+| 6 | *el gibbor* | Mighty God (note) |
+| 6 | *avi-ad* "father of perpetuity" | Everlasting Father |
+| 6, 7 | *shemo… memshalto* | his name… his government (lowercase: Isaiah as Isaiah, as the spec's example of 53:4) |
+| 7 | *le-marbeh* (written with a closed *mem*) | Of the increase (a spelling; no note) |
+| 11 | *tsarei Retsin* "the adversaries of Rezin" | ***KEPT AS IS*** the adversaries of Rezin |
+| 12 | *mi-qedem… me-achor* "from the front… from behind" | on the east… on the west |
+| 12 | *be-khol peh* "with all mouth" | with open mouth |
+| 14 | *kippah ve-agmon* | palm branch and reed (note) |
+| 15 | *nesu panim* | the man of rank (as 3:3) |
+| 16 | *me'ashsherei… mevulla'im* | those who guide… are swallowed up (as 3:12) |
+| 19 | *ne'tam* (found only here) | is scorched |
+| 20 | *yigzor* "he cuts" | They slice |
+| 20 | *besar zero'o* "the flesh of his arm" | ***KEPT AS IS*** the flesh of his own arm |
+
+**Left standing on purpose:**
+- **7:20** "the hair of the feet".
+- **8:6** "rejoices with Rezin".
+- **8:9** "Be broken".
+- **8:20** "no dawn for them".
+- **9:11** "the adversaries of Rezin".
+- **9:20** "the flesh of his own arm".
+
+### Choices
+
+**Isaiah 7:14: "the virgin" or "the young woman"?** (Most consequential choice in this run.)
+
+Reads now: "Therefore the Lord Himself will give you a sign: / the virgin will conceive and bear a son, / and she will call his name Immanuel."
+
+- **The Hebrew:** *hinneh ha-almah harah ve-yoledet ben ve-qarat shemo immanu el*, "the young woman is with child and is about to bear a son, and she will call his name Immanuel." *Almah* is a young woman of marriageable age; the word for "virgin" is *betulah*. Genesis uses both of Rebekah before her marriage (24:16 *betulah*; 24:43 *ha-almah*).
+- **The Greek of Isaiah:** *idou hē parthenos en gastri lēmpsetai kai texetai huion, kai kaleseis*, "the virgin will conceive and bear a son, and you will call."
+- **Matthew 1:23:** quotes the Greek of the birth of Jesus. This project's Matthew reads *The virgin will be with child*, and its note gives the Hebrew.
+
+The options:
+1. **"the virgin will conceive"** (as now): the Greek, followed under the spec's rule for witnesses. *Use another witness where it tells the event better and the context backs it*, and *another passage that says the same* counts as context; here that passage is Matthew 1:23, in this canon. The Hebrew's "she will call" is kept.
+2. **"the young woman is with child"**: the Hebrew throughout, with the Greek and Matthew in the note. It is closer to the source language. It reads as a sign for Ahaz's own day (7:16), and it leaves Matthew's reading to the Gospel.
+3. **"the maiden will conceive"**: a word that leans toward neither. It is less exact than either.
+
+**Recommendation:** option 1, as it stands. The spec's own witness rule supports it, Matthew in the same canon reads it so, and the note sets out the Hebrew in full. Either way, the pronouns stay lowercase in Isaiah (*his name*), as the spec does for Isaiah 53:4.
+
 ## Isaiah 2–5 — rendered 2026-10-09, 5:50 PM CDT
 
 **Source:** Hebrew (WLC), read forms followed (3:15 *mah lakhem*, 3:16 *netuyot*, 5:29 *yish'ag*; spelling only, no notes). English and Hebrew verse numbers agree in these chapters. Section headings mark the movements of 2 and 5.
