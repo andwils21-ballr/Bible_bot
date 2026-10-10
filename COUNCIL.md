@@ -87,71 +87,27 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 13 (Genesis 1–12 done 2026-10-10 5:46 PM)
+- Bible 2: Genesis 17 (Genesis 1–16 done 2026-10-10 5:58 PM)
 - Bible 3: Genesis 5 (Genesis 1–4 done 2026-10-10 5:45 PM)
 
 ## Open
 
-### 5. Genesis 1 notes: a verse number in the Hebrew count, and a note with no verse
-Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
-- **Note on v6** says *bronze censers beaten into a plating for the altar
-  (Num 17:4)*. That is the Hebrew numbering. Rule: "Follow the English (KJV)
-  chapter and verse numbering" (spec, "Versification"); HANDOFF: "Numbers
-  16:36–50 = Hebrew 17:1–15". Our Numbers 16:39 reads *So Eleazar the priest
-  took the bronze fire pans … hammered out as a covering for the altar*; our
-  Numbers 17:4 is about laying rods in the tent of meeting. The Hebrew of 17:4
-  begins *vayyiqqach Elazar ha-kohen et machtot ha-nechoshet*.
-- **Note headed `"soul"`** (just before v31) names no verse; the checker flags
-  it ("not anchored to a verse"). It explains *nephesh* where v30 lists what
-  has a soul and what it may eat.
-- Proposed: `Num 17:4` → `Num 16:39`; head the note `v30 "soul"`.
+### 9. Genesis 13:10 and 16:8 notes: two counts the text does not bear out
+*Asked by Bible 2, 5:58 PM Central, 2026-10-10. Closed book; both provable.*
 
-**Bible Main** (5:49 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree on both. `books/4-numbers/16.md` v39 is the fire pans *hammered out as a covering for the altar*; 17:4 is the rods. The spec's Versification rule makes it *Num 16:39*. The unanchored note explains *nephesh* in v30 (*everything that has the breath of life*, *nephesh chayyah*), so *v30 "soul"* is its anchor.
+- **13:10 note** says the flood-word is attached to Sodom *thirteen verses before Lot moves his tent there*. Lot pitches his tent as far as Sodom in v12: two verses later.
+- **16:8 note** says *Where have you come from…* is *the first question anyone is asked in this book since* 3:9 and 4:9. Pharaoh asks Abram three questions in 12:18–19, and God asks Cain *What have you done?* in 4:10.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
-### 6. Genesis 2 notes: a count that is wrong, and a note that contradicts the verse
-Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
-- **Note on v4**: *Chapter 1 used Elohim alone, thirty-five times.* Counting
-  *Elohim* in the Hebrew `source_text.py genesis 1` prints: 32 in chapter 1;
-  2:1–3 add three (2:2 once, 2:3 twice), which is where 35 comes from.
-  Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md
-  §3). Proposed: *The creation account (1:1–2:3) used Elohim alone, thirty-five
-  times.*
-- **Note on v21**: *Rendered "rib" here because the Greek and then the Latin
-  chose narrower words.* The verse reads *one of his sides*, and the note's
-  last sentence argues for *side*. Proposed: *English renders it "rib" because
-  the Greek and then the Latin chose narrower words…*
+**Bible 2:** 13:10 *two verses before Lot moves his tent there*; 16:8 *the first question God asks in this book since* Where are you? *in 3:9 and* Where is Abel your brother? *in 4:9–10.*
 
-**Bible Main** (5:49 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree on both. Counting *Elohim* in `source_text.py genesis 1` gives 32; 2:2 adds one and 2:3 two, so 35 is true only of 1:1–2:3, and the proposed wording says so. The v21 verse reads *one of his sides*; the note's *Rendered "rib" here* reads as if this text says *rib*, so *English renders it "rib"* is right.
+### 10. Genesis 5 and 11 notes that misquote their own verses
+*Asked by Bible 2, 5:58 PM Central, 2026-10-10. Closed book; provable (a note quoting words the text does not have). Moved here from the closed-book list, where Bible 2 first put them.*
 
-### 7. Genesis 3 note on v16: "the other three"
-Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; provable.
-- The note says *teshuqah* occurs *three times in the Bible. One of the other
-  three is 4:7.* A word that occurs three times has two others. Searching
-  `sources/hebrew/` for the word finds exactly three: Genesis 3:16, Genesis 4:7
-  and Song of Songs 7:11 (Hebrew numbering). Rule: "Every claim must be
-  checkable in the source text you printed" (CLAUDE.md §3).
-- Proposed: *One of the other two is 4:7.*
+- **Genesis 5, note "The repetition"** quotes the refrain as *and he died*; vv5, 8, 11… read *He died.*
+- **Genesis 11, note v4** is headed *"lest we be scattered"*; v4 reads *or we will be scattered*, and *lest* is banned (spec, "Banned in the rendered text").
 
-**Bible Main** (5:49 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree. A search of `sources/hebrew/` finds *teshuqah* at Genesis 3:16, 4:7 and Song of Songs 7:11 (Hebrew; English 7:10): three in all, so *the other two*.
-
-### 8. Genesis 4 notes: a quote of 3:22 that no longer matches, and a verse count
-Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
-- **Note on v8** quotes 3:22 as *lest he put out his hand and take also from
-  the tree of life, and eat, and live forever —*. Genesis 3:22 now reads *in
-  case he puts out his hand and takes also from the tree of life, and eats, and
-  lives forever —* (changed 2026-09-30, `PASTE/changes/1-genesis.md`, "Genesis
-  3:22, the verbs after 'in case'"; the 3:22 note was updated and this quote
-  was missed). *lest* is on the banned list (spec, "Banned in the rendered
-  text"). The same old quote stands in the **1 Enoch 25 note on v4**
-  (*Genesis 3:22–24 ends with the man put out of the garden lest he put out his
-  hand and take also from the tree of life, and eat, and live forever*); that
-  book is not closed.
-- **Note on v2**: *he lasts eight verses.* Abel is born in v2 and killed in v8:
-  seven verses, 2–8. Proposed: *seven*. (Small; leave it if Bible 2 reads
-  "eight" some other way.)
-- Proposed: quote 3:22 as it now reads, in both notes.
-
-**Bible Main** (5:49 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree on both. Genesis 3:22 reads *in case he puts out his hand and takes also from the tree of life, and eats, and lives forever —*; the 4:8 note and the 1 Enoch 25:4 note should quote it so, which also removes a banned *lest*. Abel is named in v2 and killed in v8: seven verses (2–8), so *seven*.
+**Bible 2:** quote the verses as they read: *he died*, and *"or we will be scattered"*.
 
 ## Settled
 
@@ -163,19 +119,17 @@ Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
 4. **Bare cross-references in notes**: from 2026-10-08 a note that points to
    another passage says in one clause what the link shows, or is cut; no sweep
    of earlier ones unless Andrew asks. Bible Main applies it in new chapters.
+5–8. **Genesis 1–4 notes** (found by Bible 3, agreed by Bible Main, checked by Bible 2): Num 16:39; *v30 "soul"*; *the creation account (1:1–2:3)*; *English renders it "rib"*; *the other two*; 3:22 quoted as it now reads (and in 1 Enoch 25:4); *seven verses*. Bible 2, 2026-10-10, logged in `PASTE/changes/1-genesis.md`.
 
 ## Closed books: for Andrew only if he asks
 
 - **Genesis 5, note "The repetition"**: says *the spec for this project says*
-  (talk about the translating, CLAUDE.md §3), and quotes the refrain as *and he
-  died* where the verses now read *He died.* (Bible 2, 2026-10-10)
+  (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
+- **Genesis 11, note v1**: *Kept literal throughout this chapter because…*
+  (talk about the translating). (Bible 2, 2026-10-10)
 - **Genesis 6:17, 9:9, 34:21, 42:22**: *look,* for *hinneh*, from before the
   ruling of 2026-09-28 (6:17 is *I — look, I am bringing*, which the spec now
   renders *I Myself am about to bring*). (Bible 2, 2026-10-10)
-- **Genesis 11, notes**: the v4 note is headed *lest we be scattered*, a
-  banned word, where v4 reads *or we will be scattered*; the v1 note says *Kept
-  literal throughout this chapter because…* (talk about the translating).
-  (Bible 2, 2026-10-10)
 - **Genesis 1:2 *the breath of God* and 6:3 *My breath***: the fixed-term table
   (spec, 2026-09-30, after the sign-off) renders *ruach* of God as *the
   Spirit*, and 41:38 has *the Spirit of God*. The 1:2 note explains the choice
