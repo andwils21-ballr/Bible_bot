@@ -87,36 +87,12 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 25 (Genesis 1–24 done 2026-10-10 6:28 PM)
+- Bible 2: Genesis 25 (Genesis 1–24 done 2026-10-10 6:28 PM; 6:40 PM run on items 29–32)
 - Bible 3: Genesis 25 (Genesis 1–24 done 2026-10-10 6:36 PM)
 
 ## Open
 
-### 29. Genesis 21 note on v33: the four *El* titles were not all "given by a particular person"
-*Asked by Bible 3, 6:36 PM CDT, 2026-10-10. Closed book; provable.*
-
-- The note lists *El Elyon* (Melchizedek), *El Shaddai* (17:1), *El Ro'i* (Hagar), *El Olam* (Abraham) and says *each given at a particular place by a particular person*. At 17:1 the LORD says it of Himself (*I am God Almighty*); no person gives it. Proposed: *Four of them now; three were given by a person at a particular place, and El Shaddai is God's own word for Himself (17:1).*
-
-### 30. Genesis 22 notes: five statements the text or the Hebrew does not bear out
-*Asked by Bible 3, 6:36 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v2 "Take, please, your son — …"**: *four phrases, each introduced by the object marker*. The Hebrew has the object marker before *your son*, *your beloved one* and *Isaac*; *whom you have loved* (*asher ahavta*) has none. Proposed: *four phrases, three of them introduced by the object marker*.
-- **v2 "your beloved one"** quotes the Jordan voice as *this is my beloved son* (Matthew 3:17, Mark 1:11). Matthew 3:17 in the book reads *This is My Son, the beloved, in whom I am well pleased.* Proposed: *This is My Son, the beloved (Matthew 3:17)*, keeping the capital for God's words.
-- **vv6, 8 "The two of them went together"**: *the only conversation between father and son in the Bible*. Isaac and Jacob talk at length in 27:18–29. Proposed: *the only recorded conversation between Abraham and Isaac*.
-- **v23 "Bethuel fathered Rebekah"**: *the only woman named in it*. The list also names Milcah (vv20, 23) and Reumah (v24). Proposed: *the only daughter named in it*.
-- **vv21–22 "Uz and Chesed"**: Job is *the one book of the Bible set outside Israel altogether*. Esther is set in Susa, and in this canon Tobit in Nineveh. Proposed: *a book set outside Israel altogether*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 31. Genesis 23 note "my dead… your dead": a quote that is not v19, and "the closing line"
-*Asked by Bible 3, 6:36 PM CDT, 2026-10-10. Closed book; provable.*
-
-- The note says Sarah's name is put back *only in the closing line*: *there Abraham buried Sarah his wife*. v19 reads *After that, Abraham buried Sarah his wife in the cave…*, and the chapter closes at v20 (*The field was raised up…*). *There Abraham buried* is from 49:31 (*There they buried Abraham and Sarah his wife*), not this chapter. Proposed: *Only v19, when the ground is his, puts her back: After that, Abraham buried Sarah his wife.*
-
-### 32. Genesis 24 notes: *nose-ring* against the note on it, and a heading with a dropped *And*
-*Asked by Bible 3, 6:36 PM CDT, 2026-10-10. Closed book; the first is a disagreement between text and note.*
-
-- **v22 note** is headed *"a gold nose-ring"* and says *the Hebrew does not say which until v47, where the servant reports putting it in her nose. Read straight through, the chapter hands out the ornament first and only later says where it went.* The text reads *nose-ring* at v22 itself, so a reader is told at v22 what the note says is not told until v47 (v30 and v47 say *the ring*). Either the text should read *a gold ring* at v22 (*nezem zahav*) or the note should say why *nose-ring* is used from the start. For Bible 2 and Bible Main to settle; it touches a rendering, so if neither can settle it, it is a choice for Andrew in the Genesis report.
-- **v33 note** is headed *"and his host said"*; v33 reads *His host said, "Speak."* Proposed: head it *"his host said"*.
+(none)
 
 ## Settled
 
@@ -134,9 +110,11 @@ entry.
 19–22. **Genesis 9, 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `source_text.py`, sealed): quotations and counts made to match. Bible 2, 2026-10-10, logged in `PASTE/changes/1-genesis.md`.
 23. **Genesis 17:9, 48:20 opening *And***: moved by the mediator to the closed-book list below; the *And* rule is a style ruling, not a provable error (rule 5). Bible 2, 2026-10-10.
 24–28. **Genesis 17–22, 24 notes** (24 by Bible 2, agreed by Bible 3; 25–28 by Bible 3, agreed by Bible 2 after checking each against the verses and `source_text.py`, sealed): quotations, counts and order made to match; the duplicate 24:62 note deleted. Bible 2, 2026-10-10, logged in `PASTE/changes/1-genesis.md`. (Bible 2 had reviewed 17–20 and missed 25–28.)
+29–32. **Genesis 21–24 notes** (Bible 3, agreed by Bible 2 after checking each, sealed): the *El* titles, the object markers of 22:2, Matthew 3:17 quoted as rendered, *Abraham and Isaac*, *the only daughter*, *a book… outside Israel*, 23:19 quoted, 24:33 heading. Logged in `PASTE/changes/1-genesis.md`. The 24:22 *nose-ring* question (a rendering) went to the closed-book list. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 
+- **Genesis 24:22 *a gold nose-ring***: the Hebrew is *nezem zahav*, *a gold ring*, and the note says the text does not say where it goes until v47 (*I put the ring in her nose*); the verse already says *nose-ring*. Either v22 reads *a gold ring*, or the note changes. A rendering, so Andrew's. (Bible 3, 2026-10-10)
 - **Genesis 17:9 *And you —* and 48:20 *And he set Ephraim before Manasseh***: opening *And* not on the kept list (spec, "No And"); 17:9 may be meant (*ve-attah*, the turn to what Abraham must do). Proposed: *As for you, you shall keep…*; *So he set…*. (Bible 3, 2026-10-10)
 - **Genesis 5, note "The repetition"**: says *the spec for this project says*
   (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)

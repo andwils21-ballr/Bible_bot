@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 21–24 (council 29–32, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and Matthew 3:17 (`COUNCIL.md`, items 29–32). Genesis is closed; each is a quotation or claim the text does not bear out. The 24:22 *nose-ring* question in item 32 touches a rendering and is left for Andrew (closed-book list in `COUNCIL.md`).
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 21, note v33 | Four of them now, each given at a particular place by a particular person. | Four of them now; three were given by a person at a particular place, and *El Shaddai* is God's own word for Himself (17:1). |
+| Genesis 22, note v2 | four phrases, each introduced by the object marker | four phrases, three of them introduced by the object marker |
+| Genesis 22, note v2 | *this is my beloved son* (Matthew 3:17, Mark 1:11) | *This is My Son, the beloved* (Matthew 3:17, Mark 1:11) |
+| Genesis 22, note vv6, 8 | the only conversation between father and son in the Bible | the only recorded conversation between Abraham and Isaac |
+| Genesis 22, note v23 | the only woman named in it | the only daughter named in it |
+| Genesis 22, note vv21–22 | the one book of the Bible set outside Israel altogether | a book of the Bible set outside Israel altogether |
+| Genesis 23, note "my dead… your dead" | Only the closing line, when the ground is his, puts her back: *there Abraham buried Sarah his wife.* | Only v19, when the ground is his, puts her back: *After that, Abraham buried Sarah his wife.* |
+| Genesis 24, note v33 | **"and his host said"** | **"his host said"** |
+
 ## Notes corrected in Genesis 17–22, 24 (council 24–28, settled 2026-10-10)
 
 **Request:** found by Bible 2 (24) and Bible 3 (25–28), agreed by the other and checked against the verses and `source_text.py` (`COUNCIL.md`, items 24–28). Genesis is closed; each is a quotation, count, order or claim the text does not bear out.
