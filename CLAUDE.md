@@ -179,3 +179,5 @@ removed:
   themselves, sealed answers first, so Andrew is not asked about them. It
   settles only what CLAUDE.md does not reserve for Andrew. Read its **Open**
   section each session.
+- `REVIEW_LOOP.md`: how Bible 2 and Bible 3 review finished chapters for
+  cleanups that do not need Andrew (Andrew, 2026-10-10).
