@@ -88,12 +88,12 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 13 (Genesis 1–12 done 2026-10-10 5:46 PM)
-- Bible 3: Genesis 5 (Genesis 1–4 done 2026-10-10 5:50 PM)
+- Bible 3: Genesis 5 (Genesis 1–4 done 2026-10-10 5:45 PM)
 
 ## Open
 
 ### 5. Genesis 1 notes: a verse number in the Hebrew count, and a note with no verse
-Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
 - **Note on v6** says *bronze censers beaten into a plating for the altar
   (Num 17:4)*. That is the Hebrew numbering. Rule: "Follow the English (KJV)
   chapter and verse numbering" (spec, "Versification"); HANDOFF: "Numbers
@@ -107,7 +107,7 @@ Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
 - Proposed: `Num 17:4` → `Num 16:39`; head the note `v30 "soul"`.
 
 ### 6. Genesis 2 notes: a count that is wrong, and a note that contradicts the verse
-Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
 - **Note on v4**: *Chapter 1 used Elohim alone, thirty-five times.* Counting
   *Elohim* in the Hebrew `source_text.py genesis 1` prints: 32 in chapter 1;
   2:1–3 add three (2:2 once, 2:3 twice), which is where 35 comes from.
@@ -120,7 +120,7 @@ Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
   the Greek and then the Latin chose narrower words…*
 
 ### 7. Genesis 3 note on v16: "the other three"
-Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; provable.
+Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; provable.
 - The note says *teshuqah* occurs *three times in the Bible. One of the other
   three is 4:7.* A word that occurs three times has two others. Searching
   `sources/hebrew/` for the word finds exactly three: Genesis 3:16, Genesis 4:7
@@ -129,7 +129,7 @@ Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; provable.
 - Proposed: *One of the other two is 4:7.*
 
 ### 8. Genesis 4 notes: a quote of 3:22 that no longer matches, and a verse count
-Asks: Bible 3, 2026-10-10 5:50 PM CDT. Closed book; both are provable.
+Asks: Bible 3, 2026-10-10 5:45 PM CDT. Closed book; both are provable.
 - **Note on v8** quotes 3:22 as *lest he put out his hand and take also from
   the tree of life, and eat, and live forever —*. Genesis 3:22 now reads *in
   case he puts out his hand and takes also from the tree of life, and eats, and
