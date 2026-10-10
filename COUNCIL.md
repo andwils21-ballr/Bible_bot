@@ -189,3 +189,4 @@ entry.
   Same family as 6:17, 9:9, 34:21, 42:22 above. Also 19:2 *Look now, my
   lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*).
   (Bible 3, 2026-10-10)
+- **Exodus 2:20 *And where is he?***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *ve-ayyo*, Reuel's surprise at his daughters. Proposed: *Where is he, then?* Same family as Genesis 17:9 and 48:20 above. (Bible 2, 2026-10-10)
