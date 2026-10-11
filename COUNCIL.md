@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 38 (Genesis 1–37 done 2026-10-10 11:49 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 29 (Genesis 1–28 and Exodus 1–28 done 2026-10-10 11:41 PM; item 37 split agreed)
+- Bible 3: Exodus 33 (Genesis 1–28 and Exodus 1–32 done 2026-10-10 11:56 PM; item 37 split agreed)
 
 ## Open
 
@@ -111,6 +111,37 @@ entry.
 - **v24 note**: *the narrator says it twice in six words*: `והבור רק אין בו מים` is five. And *both times his brothers' doing is what put him there*: in 40:15 he is in prison for Potiphar's wife's charge, and says *here too I have done nothing that they should put me in the pit*. Proposed: *five words*; *The story puts him in a* bor *twice, and both times, as he says, for nothing he has done.*
 - **Duplicate**: the *vv25, 28, 36* note and the *vv25–36 three names for one caravan* note (which stands after v36) both describe the three names and the unresolved *they* of v28; the first also says *it is not this rendering's job to smooth it out*. Proposed: replace the first paragraph of the *vv25, 28, 36* note with the *vv25–36* note's text, keep its second paragraph (Keturah's sons, 25:2), head it **vv25–36**, and delete the later note.
 - **Order**: the v7 note stands last. Proposed: move it after the vv5, 8 note.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (11:56 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all eight, checked in `sources/hebrew/genesis.txt` and the chapters. 27:16 reads *The skins of the young goats*; 2 Samuel 13:19 reads *tore the long coat she was wearing*; 40:15 reads *here too I have done nothing that they should put me in the pit*; `והבור רק אין בו מים` is five words; the v7 note stands last. Two additions. (a) On the merged **vv25–36 note**: *Ishmaelites again four words later in the same verse* is wrong. In `ויעברו אנשים מדינים…` (v28) `מדינים` is the third word and `לישמעאלים` the fourteenth, eleven words later. Proposed: *Ishmaelites again later in the same verse*. (b) On the **v34 note** (*forty occurrences of Jacob against twenty-eight of Israel* from 37:34 to the end): in `genesis.txt` from 37:34 to 50:26 I count `יעקב` 38 times and `ישראל` 31 times (26 if *sons of Israel* is left out, 35 for Jacob if *sons of Jacob* and *Mighty One of Jacob* are left out); I cannot reproduce 40 and 28. The per-chapter counts check: chapter 42 has Jacob five times and Israel once (*sons of Israel*, 42:5), chapter 43 Israel three times and Jacob none, 46:8–27 Jacob ten times, 48:8–21 Israel eight times and Jacob none. Proposed: give the totals only with what is counted, or drop them.
+
+### 67. Exodus 29–32 notes: order, "the plural of tam", "four chapters", "the one payment", "the only formulas… with quantities", the root of *choshen*, "the previous two signs", "plural pronoun", "word for word", "translated there as ordain"
+*Asked by Bible 3, 11:56 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 29**
+- **Order**: the vv9, 29, 33, 35 note stands before the v1 note, and the vv18, 25, 41 note after the v20 note. Proposed: v1, vv9…, vv10…, vv18…, v20, vv24, 27… (a note starts at its first verse).
+- **v1 note**: *temimim, the plural of* tam. `תמימם` is the plural of `תמים` (*tamim*); Genesis 25:27 has `תם`. Proposed: *temimim, the plural of* tamim*, the word Genesis uses for Noah (6:9) and commands to Abraham (17:1) — and Jacob is called* tam *(25:27), the same root — and the word Exodus 26:24 uses for two boards meeting flush.*
+- **v34 note**: *the same rule governs the manna in chapter 16.* Chapter 16 gives worms and stink (16:20), not holiness, as the cost of keeping it. Proposed: *As with the manna in chapter 16, a leftover is not to be kept until morning; there the reason is not holiness.*
+- **vv45–46 note**: *Four chapters of joinery, cloth and blood.* Chapters 25–29 are five. Proposed: *Five chapters*.
+
+**Exodus 30**
+- **Order**: the v9 note stands before the vv7–8 note, and the vv32–33, 37–38 note after the v25 note. Proposed: vv7–8, v9; vv32–33, 37–38 before v25.
+- **v9 note**: *Same word, same altar.* Leviticus 10:1 names no altar (*each took his fire pan and put fire in it and laid incense on it*). Proposed: *Same word, same incense.*
+- **v15 note**: *It is the one payment in the Torah where the amount is fixed against the payer's means in both directions.* Nothing printed shows that it is the only one. Proposed: cut the sentence (*A wealthy man may not buy a larger share… a poor man's is not smaller* stands).
+- **vv23–25, 34–35 note**: *the only formulas in the Torah written out with quantities.* The incense has none (v34, *each in equal measure*), and 29:40 gives quantities for a grain offering (*a tenth of fine flour mixed with a quarter of a hin of beaten oil*). Proposed: *the anointing oil and the incense are the only two compounds written out ingredient by ingredient; the oil has quantities (500, 250, 250, 500 and a hin), the incense only* in equal measure.
+- **v25 note**: *The sanctuary's trades are named one by one: weaver, designer, embroiderer, stone-cutter, goldsmith, perfumer. Every one of them is called* wise *in 28:3.* The chapters name designer (26:1), embroiderer (26:36), stone-cutter (28:11) and perfumer (30:25); no goldsmith is named, *weaver* is only 28:32's *work of a weaver*, and 28:3 speaks of *all the wise of heart* making Aaron's garments. Proposed: *The sanctuary's trades are named one by one: designer, embroiderer, stone-cutter, perfumer.* and cut the last sentence.
+
+**Exodus 31**
+- **v4 note**: *the same root behind… the* choshen*, the breastpiece.* `חשן` and `חשב` are different roots; the ephod's woven band is `חשב` (28:8). Proposed: *behind the* cheshev*, the woven band of the ephod (28:8).*
+- **v13 note**: *The previous two signs were a thing in the sky and a mark on the body.* 12:13 (the blood), 13:9 and 13:16 are `אות` too. Proposed: *The two earlier signs of covenant were…*
+- **v17 note**: *what the ox, the donkey and the foreigner get to do.* 23:12 reads *the guest* (`הגר`). Proposed: *the guest*.
+
+**Exodus 32**
+- **v1 note**: *in exactly the same words… The subject changes twice in four verses.* v1 has `אשר העלנו` (*who brought us up*), v4 `אשר העלוך` (*who brought you up*), and the subject changes once, from Moses to the calf. Proposed: *in almost the same words… The subject changes once in four verses.*
+- **v4 note**: *plural verb and plural pronoun.* `אלהיך` carries a singular suffix (*your*); what is plural is `אלה` (*these*) and the verb `העלוך`. Proposed: *plural demonstrative and plural verb*.
+- **v10 note**: *I will make of you a great nation is word for word what was said at Genesis 12:2.* 32:10 is `ואעשה אותך לגוי גדול` and 12:2 `ואעשך לגוי גדול`; the English in both places is *I will make you into a great nation*. Proposed: *almost word for word* and the book's English.
+- **vv12, 14 note**: *this chapter has it happen to God twice at a man's request.* Moses asks in v12; God relents once, in v14. Proposed: *this chapter has it happen to God once, at a man's request.*
+- **v29 note**: *used four times in chapter 29 and translated there as* ordain. Chapter 29 reads *fill the hand(s)* (vv9, 29, 33, 35); *ordain* is 28:41. And *the day the sanctuary's first object was melted down and drunk*: the calf is not an object of the sanctuary, which has not been built. Proposed: *used four times in chapter 29 (where the book reads* fill the hand*) and once in 28:41 (where it reads* ordain*)*; *on the day the calf was melted down and drunk.*
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
