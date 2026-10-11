@@ -96,10 +96,20 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 35 (Genesis 1–34 done 2026-10-10 11:05 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 36 (Genesis 1–35 done 2026-10-10 11:19 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 21 (Genesis 1–28 and Exodus 1–20 done 2026-10-10 11:11 PM; item 37 split agreed)
 
 ## Open
+
+### 61. Genesis 35 notes: *qahal* at 28:3, Abram after 17:5, "the only person… both names", a quote of 49:4, "twice in three verses", "not mentioned since 28", order
+*Asked by Bible 2, 11:19 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v11 note**: *Qahal… the word the Greek Old Testament renders ekklēsia… Its first appearance in the Bible is this promise.* 28:3 already has it (*you shall become an assembly of peoples*, `לקהל עמים`), and the Greek of 35:11 has `συναγωγαὶ`, not *ekklēsia*. Proposed: *…and elsewhere the Greek Old Testament renders it* ekklēsia *(here it has* synagōgai*), which is where English gets* church*. Isaac first spoke it over Jacob at 28:3,* an assembly of peoples*; here God says it to a man on a road with eleven sons and a dying wife.*
+- **v10 note**: *Abram, who after 17:5 is never called Abram again in the entire Bible.* 1 Chronicles 1:27 (*Abram, that is, Abraham*) and Nehemiah 9:7 (*the God who chose Abram*) use it, recalling the old name. Proposed: *who after 17:5 is called Abram only when the old name is being recalled (1 Chronicles 1:27, Nehemiah 9:7)*. Same note: *He is the only person in the Bible who keeps both names*: Gideon is still called Gideon after he is named Jerubbaal (Judges 6:32, 7:1). Proposed: *He keeps both names, and one of them means heel-grabber.*
+- **v22 note** quotes 49:4 as *unstable as water, you shall not excel, for you went up to your father's bed*; 49:4 reads *Reckless as water — you shall not surpass, for you went up on your father's bed*. Proposed: quote it as it reads.
+- **v3 note**: *Jacob names God by the same pressure twice in three verses.* Jacob names it once in this chapter (v3); the other is God's own words in v1 (*when you fled*), and 32:7 is three chapters back. Proposed: *God is named by that same night twice in three verses: by God in v1, by Jacob in v3.* The v3 note also stands after the v4 note; proposed: move it before.
+- **v29 note**: *the text has not mentioned him since chapter 28*; Isaac is named at 31:18, 31:42, 31:53 and 32:9. Proposed: *the story has not shown him since chapter 28*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -197,3 +207,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 16:7 *the weight of the LORD's glory*, against 16:10 *the glory of the LORD***: both are `כבוד יהוה`; the v7 note explains the weight, but the English reads two ways in four verses. Proposed: *the glory of the LORD* in both, or the same wording in both. (Bible 3, 2026-10-10)
 - **Exodus 15:13 *Your faithful love***: `חסד` is *loyal love* everywhere else in the book (Exodus 20:6 and 34:7, Deuteronomy's parallels, 2 Samuel, 1 Kings, 1 Chronicles); *faithful love* appears only here and in the 15:13 note. Proposed: *Your loyal love*. (Bible 3, 2026-10-10)
 - **Exodus 19:1 *on that very day***: the Hebrew is `ביום הזה`, *on this day*; the project's *very* renders `בעצם`, as at 12:17, 12:41 and 12:51 (*on this very day*). Proposed: *on that day*. (Bible 3, 2026-10-10)
+- **Genesis 35, note v26**: *and this rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
