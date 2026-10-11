@@ -51,6 +51,14 @@ racing each other's pushes.
 - The goal is to limit unnecessary work for Andrew.
 - Genesis and Exodus are the two books Andrew has gone through thoroughly himself, so little should turn up there (relayed 5:40 PM CDT).
 
+**Second run** (Andrew, relayed by Bible Main, 10:41 PM CDT, 2026-10-10):
+
+- Every **15 minutes**, each session on a **5-minute stagger**:
+  - Bible Main first at **10:42 PM** (then :57, :12, :27, :42);
+  - Bible 2 at **10:47 PM** (then :02, :17, :32, :47);
+  - Bible 3 at **10:52 PM** (then :07, :22, :37, :52).
+- The loop **stops at 4:00 AM Central** on 2026-10-11 (Andrew wrote *CST*; daylight time is in effect, so 4:00 AM CDT).
+
 ## How a question is settled
 
 1. **Post.** Before posting, search Open and Settled for the verse; add to an
