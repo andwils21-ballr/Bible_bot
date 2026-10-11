@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 16 (Genesis 1–28 and Exodus 1–15 done 2026-10-10 10:58 PM; item 37 split agreed)
+- Bible 3: Exodus 17 (Genesis 1–28 and Exodus 1–16 done 2026-10-10 10:59 PM; item 37 split agreed)
 
 ## Open
 
@@ -137,6 +137,19 @@ entry.
 - **v23 note**: *Three days out of Egypt, the first thing they find is the taste they just left.* v22 has them walk three days *in the wilderness* after the Sea of Reeds. Proposed: *Three days into the wilderness*.
 - **vv25–26 note**: *the next two uses of the verb say what testing is for: the manna (16:4)… and Sinai (20:20).* The verb is also at 17:2 (*Why do you test the LORD?*), where Israel tests God. Proposed: *the next two times God tests Israel say what testing is for*.
 - **v8 note (second)** says *the deep over which the Spirit hovered in Genesis 1:2*; Genesis 1:2 reads *the breath of God was hovering* (see the closed-books line on Genesis 1:2).
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 57. Exodus 16 notes: "the first of many", "the first test", the Greek form of *manna*, "cannot be kept", "the only description", "unmeasurable", an editor's footnote, "later law"
+*Asked by Bible 3, 10:59 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v2 note**: *It is the first of many complaints in the wilderness.* 14:11 and 15:24 (*The people grumbled against Moses*, the same verb) come before. Proposed: *The same verb was used at Marah (15:24).*
+- **v4 note**: *torah, before there is any law. The first test is not obedience to a command…* 15:25 already gives *a statute and a rule* and says *there He tested them* (item 56 makes Marah the first test). Proposed: *torah, before Sinai. The test here is not obedience to a command but whether people can take one day's food and not hoard.*
+- **v15 note**: *Manna is the Greek form of the word (Numbers 11:6), and English took it from there.* Numbers 11:6 is the Hebrew word itself (`המן`); the Greek that `source_text.py` prints for Exodus 16 translates the question (`Τί ἐστιν τοῦτο;`, v15) and writes the name `μάν` (v31). Proposed: *The Greek of v15 translates the question,* What is this?, *and writes the name in v31 as* man. *English* manna *loses the joke: a nation was fed on a question.*
+- **v21 note**: *it cannot be kept… Everything about it is designed to prevent storage.* v24 has it kept overnight on the sixth day with no worm in it, and vv32–34 keep a full omer through the generations. Proposed: *On ordinary days it cannot be kept (v20).* and cut the last sentence.
+- **v29 note**: *became the basis for a whole body of later law about how far one may walk on the sabbath* is not in anything printed. Proposed: *The rule is given without explanation; the verse itself just says stay put.*
+- **v31 note**: *the only description of it.* v14 describes it too (*a fine, flaking thing, fine as frost*). Proposed: *the fullest description of it*.
+- **v33 note**: *a jar of an unknown kind, holding an unmeasurable food.* v33 says *a full omer*, and v36 says what an omer is. Proposed: *A jar of an unknown kind, kept in front of a Testimony that has not yet been given.*
+- **v36 note**: *By the time this sentence was added, readers no longer knew how much an omer was, and someone converted it into a measure they did know.* Nothing printed shows when the sentence was added or why. Proposed: *The verse gives the size of the omer in another measure, the ephah.*
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -230,3 +243,5 @@ entry.
 - **Exodus 13:22 *from before the people* and 14:19 *from before them***: *mi-pnei*/*lifnei* meaning *in front of*; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *did not leave its place in front of the people*; *moved from in front of them*. (Bible 3, 2026-10-10)
 - **Exodus 15:8 *The flowing waters stood like a wall***: the Hebrew is `נד`, *a heap*; the Greek has *wall* (`τεῖχος`). The book renders `נד` as *wall* at Exodus 15:8, Joshua 3:13 and 3:16, and as *heap* at Psalm 33:7 and 78:13; the Psalm 33 note says *ka-ned, as at the crossing of the sea (Exodus 15:8; Joshua 3:13)*. One word, two renderings, no note. Proposed: *stood like a heap* in all five, or a note saying the Greek reads *wall*. (Bible 3, 2026-10-10)
 - **Exodus 15, note v3**: *The Hebrew says man of war, and this rendering keeps it* (talk about the translating, CLAUDE.md §3). (Bible 3, 2026-10-10)
+- **Exodus 16:12 *At twilight***: `בין הערבים`, rendered *between the evenings* at 12:6, 29:39, 29:41, 30:8, Leviticus 23:5, Numbers 9:3, 9:5, 9:11, 28:4 and 28:8; the 12:6 note builds on it. Proposed: *Between the evenings you will eat meat*. (Bible 3, 2026-10-10)
+- **Exodus 16:7 *the weight of the LORD's glory*, against 16:10 *the glory of the LORD***: both are `כבוד יהוה`; the v7 note explains the weight, but the English reads two ways in four verses. Proposed: *the glory of the LORD* in both, or the same wording in both. (Bible 3, 2026-10-10)
