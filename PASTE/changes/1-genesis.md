@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 35 (council 61, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew, the Greek and the chapters (`COUNCIL.md`, item 61). Genesis is closed; each is a claim, quotation or order the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 35, note v3 | after the v4 note; Jacob names God by the same pressure twice in three verses | before it; God is named by that same night twice in three verses: by God in v1, by Jacob in v3 |
+| Genesis 35, note v10 | Abram, who after 17:5 is never called Abram again in the entire Bible … He is the only person in the Bible who keeps both names, and he keeps the one that means heel-grabber. | Abram, who after 17:5 is called Abram only when the old name is being recalled (1 Chronicles 1:27, Nehemiah 9:7) … He keeps both names, and one of them means heel-grabber. |
+| Genesis 35, note v11 | it is the word the Greek Old Testament renders *ekklēsia* … Its first appearance in the Bible is this promise, said to a man | elsewhere the Greek Old Testament renders it *ekklēsia* (here it has *synagōgai*) … Isaac first spoke it over Jacob at 28:3, *an assembly of peoples*; here God says it to a man |
+| Genesis 35, note v22 | *unstable as water, you shall not excel, for you went up to your father's bed* | *Reckless as water — you shall not surpass, for you went up on your father's bed* |
+| Genesis 35, note v29 | the text has not mentioned him since chapter 28 | the story has not shown him since chapter 28 |
+
 ## Notes corrected in Genesis 34 (council 58, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the chapters (`COUNCIL.md`, item 58). Genesis is closed; each is a heading, quotation or count the text does not bear out.

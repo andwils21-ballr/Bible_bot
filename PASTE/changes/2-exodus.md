@@ -2,6 +2,26 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 21–24 (council 62, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek of Exodus and Matthew (`COUNCIL.md`, item 62). Exodus is closed; each is a quotation, count or claim the text does not bear out. The 24:8 note also takes the capital *My* for Jesus (Andrew, 2026-10-10).
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 21, note v1 | *when a man's ox gores* | *When an ox gores a man or a woman* (v28) |
+| Exodus 21, note v3 | only here and in v4, twice in the same law | only here: twice in v3 and once in v4 |
+| Exodus 21, note v6 | the awl goes through his ear into the doorpost he will keep going through | the awl goes through his ear (Deuteronomy 15:17 adds: *into the door*) |
+| Exodus 21, note v16 | Set it against the end of this chapter | Set it against the next verse in the next chapter (22:1) |
+| Exodus 21, note vv24–27 | reuse the identical formula … with the same three words | reuse the preposition *tachat*, **in place of** … with the same preposition |
+| Exodus 21, note v32 | It is the only place the law puts an exact price on a human being. The Greek writes it *thirty pieces of silver* … The amount is not invented for the Gospel… | The Greek of Exodus writes it *thirty didrachms of silver*; Matthew 26:15 has *thirty pieces of silver*, the same sum, weighed out to Judas. |
+| Exodus 22, note vv8–9 | the case goes to the sanctuary | the case goes before God |
+| Exodus 23, note v12 | the foreigner | the guest |
+| Exodus 23, note v19 | The entire separation of meat from dairy in later Jewish practice rests on a sentence the text gives no argument for. | (cut) |
+| Exodus 24, note v8 | **this is my blood of the covenant** … word for word in Greek, with one word added | **this is My blood of the covenant** … Matthew shares *the blood of the covenant* with this verse, puts *this is* where Exodus has Ἰδού, and adds *My* |
+| Exodus 24, note v10 | *on that very day* | *on this very day* (12:17, 12:41, 12:51) |
+| Exodus 24, note v11 | these same seventy elders | seventy elders |
+| Exodus 24, note vv3, 7 | **we will do and we will hear** | **we will do and we will listen** |
+
 ## Notes corrected in Exodus 17–20 (council 59–60, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek (`COUNCIL.md`, items 59–60). Exodus is closed; each is a quotation, count, heading or claim the text does not bear out, or a note with no verse.
