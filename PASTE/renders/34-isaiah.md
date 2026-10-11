@@ -2,6 +2,140 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 23–26 — rendered 2026-10-10, 10:49 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (23:13; 25:8; 26:19).
+
+**Verse numbers:** English and Hebrew agree in all four chapters (18, 23, 12, 21 verses).
+
+**Kept formulas:**
+- 23:15 *And it shall come to pass in that day, that Tyre will be forgotten*; 23:17 *And it shall come to pass at the end of seventy years, that*; 24:21 *And it shall come to pass in that day, that*.
+- 23:18 and 24:18 *ve-hayah* is only "it shall be" (*Her merchandise… will be*; *Whoever flees… will fall*), so plain.
+- No other sentence starts with *And*.
+- *hinneh*: 24:1 *is about to empty*; 25:9 cut (*This is our God*); 26:21 *is about to come out*.
+
+**Read forms followed (no note, the meaning is the same):** 23:12 *Kittim*; 23:13 *bachunav*, "its siege towers" (named in the note); 25:10 *be-mo*, "in" (written *be-mei*, "in the water of"); 26:20 *dalt'kha*, "your door" (written plural), and *ya'avor*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:2, 4:10, 7:11, 8:21, 9:16, 10:4; Exodus 3:15, 12:22–23, 14:21, 24:9–10; Deuteronomy 23:18.
+- 1 Chronicles 29:11; Proverbs 1:12; Matthew 8:11; 1 Enoch 10:12, 18:14.
+- Isaiah 1:8, 2:16, 5:25, 8:1, 9:6, 10:4, 10:16, 10:31, 12:2–3, 17:6, 21:2.
+- Earlier notes that quote these chapters: Job 16:18 and 20:24 match. 1 Enoch 51:1, 1 Meqabyan 8:33–35, 2 Meqabyan 15:7–9 and 3 Meqabyan 10:8 quote 24:2 and 26:19 in other words; logged in `NOTES_FOR_ANDREW.md`, not changed.
+
+**Checked against the sources:**
+- Hebrew: Hosea 4:9; Jeremiah 25:11, 48:43; Daniel 2:18 (Aramaic *raz*), 12:2.
+- Swete's Greek: Isaiah 23:13; 24:16; 25:8; 26:19.
+- SBLGNT: 1 Corinthians 15:54; Revelation 21:4.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **23:** the oracle on Tyre, the merchant city of the sea; forgotten seventy years, then its wages made holy to the LORD.
+- **24:** the whole earth emptied, the everlasting covenant broken, the windows of heaven opened as in the flood; the host of heaven judged, and the LORD reigning on Zion.
+- **25:** a song of praise; the feast for all peoples on the mountain; *He will swallow up death forever… the Lord GOD will wipe away tears from all faces*.
+- **26:** the song of the strong city, *You keep in peace, peace*; *Your dead will live*; *enter your rooms… until the fury has passed by*.
+
+### Isaiah 23: The Oracle Against Tyre
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shuddad mi-bayit mi-bo* "it is destroyed from house, from entering" | it is laid waste, without house or harbor |
+| 2 | *dommu* "be still" | Be silent |
+| 2 | *over yam mil'ukh* "crossing the sea, they filled you" | whose envoys crossed the sea and filled you |
+| 3 | *tevu'atah* "her produce" | her revenue |
+| 4 | *ma'oz ha-yam* | the stronghold of the sea |
+| 7 | *mi-mei qedem qadmatah* "from days of old her antiquity" | whose origin is from days of old |
+| 7 | *la-gur* | to live as a guest (fixed term; note) |
+| 8 | *ha-ma'atirah* "the crowning one" | the giver of crowns |
+| 8 | *kin'aneha* "her Canaanites" | her traders (note) |
+| 9 | *lechallel ge'on kol tsevi* "to profane the pride of all beauty" | to defile the pride of all glory |
+| 10 | *ein mezach od* "there is no girdle anymore" | there is no restraint anymore |
+| 11 | *ma'uzneha* | its strongholds |
+| 12 | *ha-me'ushaqah* | you oppressed |
+| 13 | the whole verse | ***KEPT AS IS*** (the sense is hard; note gives the reading and the Greek) |
+| 15 | *ki-ymei melekh echad* "like the days of one king" | like the days of one king |
+| 15–17 | *zonah*, *etnan* | prostitute (fixed term), wages (note) |
+| 17 | *yifqod* "will visit" | will visit (kept: the word is the one of judgment, here of mercy) |
+| 17 | *ve-zanetah* | play the prostitute |
+| 18 | *lo ye'atser ve-lo yechasen* "not be treasured and not be stored" | will not be stored up or hoarded |
+| 18 | *li-mkhasseh atiq* "for a covering, choice" | for fine clothing |
+
+### Isaiah 24: The Earth Laid Waste
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hinneh YHWH boqeq* | The LORD is about to empty |
+| 1 | *ve-ivvah faneha* "and twist its face" | He will twist its surface |
+| 2 | *ka-am ka-kohen* "like the people, like the priest" | It will be the same for the people as for the priest |
+| 2 | *ka-nosheh ka'asher nosheh vo* "like the creditor, like him who owes him" | for the creditor as for the debtor |
+| 3 | *hibboq tibboq… hibboz tibboz* | utterly emptied and utterly plundered (note) |
+| 4 | *merom am ha-arets* "the height of the people of the earth" | the high ones of the people of the earth |
+| 5 | *torot* | the instructions (the *torah* ruling is still open; see Notes for Andrew, 2026-10-07) |
+| 5 | *chanefah* | is defiled |
+| 6 | *charu* "they are burned" | are burned |
+| 10 | *qiryat tohu* | The city of chaos (note) |
+| 11 | *arvah kol simchah* "all joy has turned to evening" | all joy has grown dark |
+| 13 | *be-qerev ha-arets* | in the middle of the earth |
+| 14 | *miyyam* "from the sea" | from the west |
+| 15 | *ba-urim* "in the lights" | ***KEPT AS IS*** in the east (the sense of *urim* here is uncertain; the parallel *coastlands of the sea* suggests a region) |
+| 16 | *tsevi la-tsaddiq* | Glory to the Righteous One |
+| 16 | *razi li razi li* | ***KEPT AS IS*** I waste away, I waste away (note gives "My secret is mine") |
+| 16 | *bogdim bagadu u-veged bogdim bagadu* | The traitors betray; with betrayal the traitors betray (kept: the repetition is the line) |
+| 18 | *ve-hayah ha-nas* | Whoever flees (*ve-hayah* plain) |
+| 18 | *arubbot mi-marom* | the lattices on high (Genesis 7:11's word; note) |
+| 19 | *ro'ah hitro'a'ah… por hitporerah… mot hitmotetah* | utterly broken… split apart… violently shaken |
+| 20 | *nu'a tanu'a* "staggering it staggers" | staggers |
+| 22 | *ve-ussefu asefah* "they will be gathered a gathering" | They will be gathered together |
+| 22 | *yippaqedu* "will be visited" | will be punished |
+| 23 | *ve-chaferah ha-levanah u-voshah ha-chammah* | the moon will be confounded and the sun ashamed (note) |
+
+### Isaiah 25: He Will Swallow Up Death Forever
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *emunah omen* "faithfulness, firmness" | faithful and sure (note) |
+| 2 | *armon zarim me-ir* "a palace of strangers from a city" | the strangers' palace is a city no more |
+| 3 | *am az* | a strong people |
+| 4 | *ke-zerem qir* "like a storm of a wall" | like a storm against a wall |
+| 5 | *zemir aritsim ya'aneh* "the song of the ruthless is answered/humbled" | the song of the ruthless is brought low |
+| 6 | *mishteh shemanim mishteh shemarim* "a feast of fat things, a feast of lees" | a feast of rich food, a feast of aged wine |
+| 6 | *shemanim memuchayim shemarim mezuqqaqim* | of rich food full of marrow, of aged wine well refined |
+| 7 | *penei ha-lot ha-lot* "the face of the covering, the covering" | the covering that is cast over all peoples |
+| 8 | *la-netsach* | forever (note gives "in victory") |
+| 9 | *hinneh Eloheinu zeh* | This is our God (*hinneh* cut) |
+| 9 | *bi-yshu'ato* | in His deliverance (as 12:2–3) |
+| 10 | *tachtav* "under him" | where he stands |
+| 11 | *u-feras yadav be-qirbo* | He will spread out his hands in it (Moab, lowercase) |
+| 11 | *arbot yadav* (word found only here) | ***KEPT AS IS*** every stroke of his hands (note gives the range) |
+| 11 | *ve-hishpil ga'avato* "and he will bring low his pride" | but his pride will be brought low |
+| 12 | *heshach hishpil higgia la-arets ad afar* | He will bring down, lay low, cast to the ground, to the dust |
+
+### Isaiah 26: Your Dead Will Live
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yeshu'ah yashit chomot va-chel* "deliverance he sets, walls and rampart" | He sets deliverance as its walls and rampart |
+| 2 | *shomer emunim* "keeping faithfulnesses" | the nation that keeps faith |
+| 3 | *yetser samukh* "a leaning frame" | The mind that leans on You |
+| 3 | *shalom shalom* | peace, peace (kept: the doubling is the point; note) |
+| 4 | *tsur olamim* | an everlasting Rock (note) |
+| 5 | *yashpilennah yashpilah* "He lays it low, lays it low" | He lays it low, lays it low (kept) |
+| 7 | *yashar ma'gal tsaddiq tefalles* "upright, the track of the righteous You level" | You make smooth the way of the righteous |
+| 9 | *ashachareka* | seeks You at dawn |
+| 11 | *qin'at am* "zeal of a people" | Your zeal for the people |
+| 13 | *be'alunu adonim zulatekha* | other masters besides You have ruled over us (note) |
+| 14 | *repha'im* | the shades (as 14:9) |
+| 16 | *tsaqun lachash* "they poured out a whisper" | they poured out a whispered prayer |
+| 16 | *musarkha* | Your discipline |
+| 18 | *ke-mo yaladnu ruach* "as it were we gave birth to wind" | we gave birth, as it were, to wind |
+| 18 | *u-val yippelu* "and they have not fallen" | no inhabitants of the world have been born (note) |
+| 19 | *nevelati yequmun* "my corpse, they will rise" | ***KEPT AS IS*** my dead ones will rise (note) |
+| 19 | *tal orot* | a dew of lights |
+| 19 | *tappil* "will cause to fall" | will give birth to (note) |
+| 20 | *chavi khim'at rega* "hide like a little moment" | hide yourselves for a little while |
+| 21 | *hinneh YHWH yotse* | the LORD is about to come out |
+| 21 | *dameha* "its bloods" | the blood shed on it (note: the plural of Genesis 4:10) |
+
 ## Isaiah 19–22 — rendered 2026-10-10, 5:49 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (19:18, 25; 20:1; 21:5, 8).
