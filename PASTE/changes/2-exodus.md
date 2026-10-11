@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 6–8 (council 45–47, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 45–47). Exodus is closed; each is a quotation, count or claim the text does not bear out, or a note with no verse. The 8:22 *in the midst of* (a banned phrase in the verse, not a note) went to the closed-book list.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 6, note vv6–7 | in a row, in this verse | in a row, in these two verses |
+| Exodus 6, note v6 | God's first word in reply uses it. | God's reply uses it in v6. |
+| Exodus 6, note v30 | restating Moses' objection word for word | restating Moses' objection, shortened and in the opposite order |
+| Exodus 7, note v3 | This is the **third** Hebrew verb | This is one of **three** Hebrew verbs |
+| Exodus 7, note v9 | in v15 the narrator refers back to it | in v15 the LORD refers back to it |
+| Exodus 7, note v25 | the only interval given in the plague sequence | one of the few intervals given in the plague sequence (the darkness lasts three days, 10:22) |
+| Exodus 8, note on the verse numbers | **On the verse numbers** | **vv1–4, on the verse numbers** |
+| Exodus 8, note v3 | swarms of living creatures | swarms of living souls |
+| Exodus 8, note v26 | *every shepherd is detestable to Egypt* | *every shepherd of flocks is detestable to Egypt* |
+
 ## Notes corrected in Exodus 1–4 (council 39–42, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 39–42). Exodus is closed; each is a quotation, count or claim the text does not bear out. Exodus gives Moses no *forty years* in Midian (2:23 *in those many days*; he is eighty at 7:7); forty is Acts 7:23, 30.

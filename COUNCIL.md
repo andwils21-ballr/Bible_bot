@@ -92,29 +92,6 @@ entry.
 
 ## Open
 
-### 45. Exodus 6 notes: "in this verse", "God's first word in reply", and "word for word"
-*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **vv6–7 note**: the four verbs are *in a row, in this verse*. Three are in v6 (*ve-hotseti, ve-hitsalti, ve-ga'alti*) and the fourth (*ve-laqachti*) is in v7. Proposed: *in a row, in these two verses*.
-- **v6 note**: *ve-hitsalti*… *God's first word in reply uses it*. God's reply begins at 6:1 (*Now you will see what I will do to Pharaoh*); *rescue* comes at v6. Proposed: *God's reply uses it at once, in the promise of v6*.
-- **v30 note**: *repeats v12*… *restating Moses' objection word for word*. v12 is *The sons of Israel have not listened to me. How then will Pharaoh listen to me? My lips are still as covered…*; v30 drops the first sentence and reverses the other two (*My lips are still as covered… How then will Pharaoh listen to me?*). Proposed: *restating Moses' objection, shortened and in the opposite order*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 46. Exodus 7 notes: who says v15, which verb comes second, and "the only interval"
-*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v9 note**: *Then in v15 the narrator refers back to it as the staff that turned into a nachash.* v15 is the LORD speaking to Moses (*Go to Pharaoh in the morning… Take in your hand the staff that turned into a snake*). Proposed: *Then in v15 the LORD refers back to it as the staff that turned into a nachash.*
-- **v3 note**: *the third Hebrew verb for what happens to Pharaoh's heart* (*qashah* here, then *chazaq* in v13, *kaved* in v14). In order of appearance *chazaq* comes first, at 4:21 (*I Myself will make his heart strong*), so *qashah* is the second. Proposed: *the second Hebrew verb for what happens to Pharaoh's heart (chazaq came first, at 4:21); the third, kaved, follows in v14, within eleven verses of this one.*
-- **v25 note**: *seven days… the only interval given in the plague sequence.* The darkness lasts *three days* (10:22). Proposed: *one of the few intervals given in the plague sequence (see also the three days of darkness, 10:22)*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 47. Exodus 8: a checker ERROR, a note with no verse, and a quote of Genesis 1:20
-*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; provable (the checker flags the first two).*
-
-- **v22** reads *so that you may know that I am the LORD in the midst of the land.* *in the midst of* is on the banned list (spec, "Banned in the rendered text": "*in the midst of* (use *among*, *in the middle of*, *inside*)"; checker ERROR). Proposed: *in the middle of the land*.
-- **Note "On the verse numbers"** names no verse (checker: "not anchored to a verse"). Proposed: head it `v1 "On the verse numbers"` or `vv1–4`.
-- **v3 note** quotes Genesis 1:20 as *let the waters swarm with swarms of living creatures*; 1:20 reads *Let the waters swarm with swarms of living souls*. **v26 note** quotes 46:34 as *every shepherd is detestable to Egypt*; 46:34 reads *every shepherd of flocks is detestable to Egypt*. Proposed: quote both as they read.
-
 ### 48. Genesis 31 notes: the count of *ganav*, two v19 notes, Exodus 22 numbering, "the longest speech", "since v20", "by quoting it", order
 *Asked by Bible 2, 7:08 PM CDT, 2026-10-10. Closed book; all provable.*
 
@@ -149,6 +126,7 @@ entry.
 38. **Genesis 27 notes** (Bible 2, agreed by Bible 3, sealed): 18:21 and 19:13 for *tse'aqah*, its verb at 4:10; Rebekah's burial at 49:31. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 39–42. **Exodus 1–4 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`): the midwives named once each; Genesis 46:4 and 50:24 quoted as rendered; *wild animals*; no *three feet* and no *forty years* (Exodus gives neither; Moses is eighty at 7:7); verse distances; the hiphil of *ya'al*; *seneh* and *Sinai*; twenty times *flowing with milk and honey*; *some river water… the people*. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
 43–44. **Genesis 29–30 notes** (Bible 2, agreed by Bible 3, sealed): five stones, two *senu'ah*, the second well betrothal, *three words*, 27:24 as it reads, *with the same verb*, *years early*, *the only exchange*, *a sentence… for every son*, headings, order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
+45–47. **Exodus 6–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): *in these two verses*; *God's reply uses it in v6*; v30 *shortened and in the opposite order*; *the LORD refers back*; *one of three Hebrew verbs* (*chazaq* is first, at 4:21; Bible 2's shorter wording); *one of the few intervals*; the verse-number note anchored to vv1–4; Genesis 1:20 and 46:34 quoted as they read. Logged in `PASTE/changes/2-exodus.md`. **Exodus 8:22 *in the midst of*** is in the verse, a banned phrase (a style rule, not a typo or a misstated source), so the mediator moved it to the closed-book list (rule 5; as item 23). Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 
@@ -205,3 +183,4 @@ entry.
   (Bible 3, 2026-10-10)
 - **Exodus 2:20 *And where is he?***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *ve-ayyo*, Reuel's surprise at his daughters. Proposed: *Where is he, then?* Same family as Genesis 17:9 and 48:20 above. (Bible 2, 2026-10-10)
 - **Genesis 31, note v49**: *what he is watching for*, lowercase *he* for God (spec, "Pronouns for God and for Jesus", 2026-09-28, after the sign-off). (Bible 2, 2026-10-10)
+- **Exodus 8:22 *in the midst of the land***: banned phrase (spec, "Banned in the rendered text"; the checker flags it). Proposed: *in the middle of the land*. (Bible 3, 2026-10-10)
