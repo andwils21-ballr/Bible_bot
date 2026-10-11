@@ -96,10 +96,19 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 35 (Genesis 1–34 done 2026-10-10 11:05 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 17 (Genesis 1–28 and Exodus 1–16 done 2026-10-10 10:59 PM; item 37 split agreed)
 
 ## Open
+
+### 58. Genesis 34 notes: a heading, "the word he used in v3", "the four", two quotes
+*Asked by Bible 2, 11:05 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v7 note** is headed *"cut to the quick"*; v7 reads *the news cut them deeply*. Proposed: head it with the verse's words.
+- **v4 note**: *Shechem… does not use the word he used in v3*. In v3 *ha-na'ara* is the narrator's word; Shechem first speaks in v4. Proposed: *does not use the narrator's word from v3*.
+- **v25 "Simeon and Levi" note**: *Of the four who could claim that, the two who act are the second and third.* Leah has six sons (29:32–35, 30:17–20). Proposed: *Of the six who could claim that*. The same note quotes 49:5 as *weapons of violence are their trade*; 49:5 reads *instruments of violence are their trade*.
+- **v21 note** quotes 33:18 as *Jacob came **whole** to the city of Shechem*; 33:18 reads *Jacob came in one piece to the city of Shechem*. Proposed: quote it as it reads.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -195,3 +204,4 @@ entry.
 - **Exodus 15, note v3**: *The Hebrew says man of war, and this rendering keeps it* (talk about the translating, CLAUDE.md §3). (Bible 3, 2026-10-10)
 - **Exodus 16:12 *At twilight***: `בין הערבים`, rendered *between the evenings* at 12:6, 29:39, 29:41, 30:8, Leviticus 23:5, Numbers 9:3, 9:5, 9:11, 28:4 and 28:8; the 12:6 note builds on it. Proposed: *Between the evenings you will eat meat*. (Bible 3, 2026-10-10)
 - **Exodus 16:7 *the weight of the LORD's glory*, against 16:10 *the glory of the LORD***: both are `כבוד יהוה`; the v7 note explains the weight, but the English reads two ways in four verses. Proposed: *the glory of the LORD* in both, or the same wording in both. (Bible 3, 2026-10-10)
+- **Genesis 34, note v7**: *that he made humanity*, lowercase *he* for God (capital-pronoun rule, after the sign-off). (Bible 2, 2026-10-10)
