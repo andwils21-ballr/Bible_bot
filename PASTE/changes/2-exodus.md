@@ -2,6 +2,30 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 11–12 (council 53–54, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 53–54). Exodus is closed; each is a count, quotation or *only*/*every* claim the text does not bear out. Left for Andrew (closed-book list): the 12:46 note's *him* for Jesus, and a proposed new note on the Greek's *435 years* at 12:40.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 11, note v1 | the third time in three chapters | the third time the word is used of driving Israel out (6:1, 10:11, 11:1) |
+| Exodus 11, note v2 | the next verse says they were given the things because Egypt looked on them with favor | the next verse says the LORD gave the people favor in Egypt's eyes, and 12:36 says Egypt let them have what they asked |
+| Exodus 11, note v4 | Every other plague came through an instrument. | Most of the earlier plagues came through one (not the flies or the livestock, 8:24 and 9:6). |
+| Exodus 11, note v6 | The sons of Israel *groaned from the labor and cried out*, and *their cry went up to God* (2:23); God said *I have heard their cry* (3:7). | God said *I have heard their cry* (3:7), and *the cry of the sons of Israel has come to Me* (3:9). |
+| Exodus 11, note v8 "bow to me" | the only sentence in the book that reports his temper | the first sentence in the book that reports his temper |
+| Exodus 11, note v8 "in burning anger" | It is also the last conversation: he told Pharaoh in 10:29 that he would not see his face again, and he does not. | He told Pharaoh in 10:29 that he would not see his face again; in 12:31 Pharaoh calls for him at night, and the text does not say Moses comes before him. |
+| Exodus 11, note v9 | placed at the end of it rather than the beginning. The plagues were not ten attempts that failed nine times. | the reason God gave at the start (7:3, *I will multiply My signs and My wonders*), repeated here at the end. The plagues were not attempts that failed one after another. |
+| Exodus 12, note v5 | Genesis 22 and the goat of the Day of Atonement both stand behind the choice. | Genesis 22:7–8 uses the same word for the lamb God will provide, and what He provides is a ram (22:13). |
+| Exodus 12, note v8 | *and they made their lives **bitter** with hard slavery* | *They made their lives **bitter** with hard service* |
+| Exodus 12, note v11 | It is the only sacrifice in the Bible with a dress code, and the code is traveling clothes. | (cut) |
+| Exodus 12, note v13 | the name of the feast in every European language follows it | the name of the feast follows it |
+| Exodus 12, note v26 | the seder's four questions grow directly out of this verse and its parallels in 13:8 and 13:14 | the same instruction returns at 13:8 and 13:14 |
+| Exodus 12, note v30 | is the phrase used of Israel's suffering in 2:23 and 3:7 | is the cry promised in 11:6; the noun *tse'aqah* is the word for Israel's cry in 3:7 and 3:9 |
+| Exodus 12, note v32 | the last words Pharaoh speaks in the book … *Who is the LORD? I do not know the LORD* | the last words Pharaoh speaks to Moses and Aaron … *Who is the LORD… ? I do not know the LORD* |
+| Exodus 12, note v38 | four verses later, *one law for the native and for the foreigner* | eleven verses later, *one law for the native and for the guest* |
+| Exodus 12, note v39 | the fourth appearance of *garash* since 6:1 | the fourth time the word is used of driving Israel out (6:1, 10:11, 11:1, 12:39) |
+| Exodus 12, note v41 | the way the first verse fixed the month | the way v2 fixed the month |
+
 ## Notes corrected in Exodus 9–10 (council 51–52, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 51–52). Exodus is closed; each is a heading, count, quotation or claim the text does not bear out, or a note out of order.
