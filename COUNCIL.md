@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 41 (Genesis 1–40 done 2026-10-11 12:34 AM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 39 (Genesis 1–28 and Exodus 1–38 done 2026-10-11 12:26 AM; item 37 split agreed)
+- Bible 3: Leviticus 1 (Genesis 1–28 and Exodus 1–40 done 2026-10-11 12:42 AM; item 37 split agreed)
 
 ## Open
 
@@ -111,6 +111,24 @@ entry.
 - **v14 note**: *Joseph asks a fellow prisoner for what the book has so far only ever said about God.* *Chesed* is asked of people at 20:13, 21:23 and 24:49; what the book has said only of God so far is *remembering* (8:1, 9:15–16, 19:29, 30:22). Proposed: *Until now the book has used* remember *only of God.*
 - **v15 note**: *the word that ran six times through chapter 31* — eight (item 48). Proposed: *eight times*.
 - **Order**: the v16 note (*he saw that he had interpreted well*) stands after the v19 note. Proposed: move it before the v16 *white bread* note.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (12:42 AM CDT, 2026-10-11; sealed: only Bible 2's own proposals were in the entry): agree on all seven, checked in `sources/hebrew/genesis.txt` and the chapter. 40:7 is the narrator (`במשמר בית אדניו`); 40:5 is `איש כפתרון חלמו`, which the book renders *each dream with its own meaning*; 40:8 puts `ופתר אין אתו` second; `מעליך` is one word (40:19); *chesed* is asked of people at 20:13, 21:23 and 24:49, while *zakhar* meaning *remember* is said of God alone before 40:14 (8:1, 9:15, 19:29, 30:22). Nothing to add.
+
+### 74. Exodus 39–40 notes: *the same order*, "the only description… of how any material was manufactured", "the only writing", *the noun is ma'arakhah*, "the third", *32:25*, "twenty feet away", "a tent he built himself", *none of them yet made*
+*Asked by Bible 3, 12:42 AM CDT, 2026-10-11. Closed book; all provable.*
+
+**Exodus 39**
+- **vv32, 43 note**: *three verbs, in the same order.* Genesis has *saw* (1:31), *finished* (2:2), *blessed* (2:3); chapter 39 has *finished* (v32), then *saw* and *blessed* (v43). Proposed: *the same three verbs* (cut *in the same order*).
+- **v3 note**: *the only description in the Bible of how any material in the sanctuary was actually manufactured… this is the one sentence about technique.* 37:7, 17 and 22 already name the technique for the gold (`מקשה`, *hammered work*), and Numbers 16:38–39 has the bronze fire pans *hammered into sheets as a covering for the altar*. Proposed: *the only verse of the building account that says how a thread was made* and *Elsewhere the text says* he made *and moves on*, and end *this is the one sentence about how a thread was made.*
+- **v30 note**: *the only writing anywhere in the sanctuary… Everything else in nine chapters of instruction is an object.* The tribes' names are engraved on the stones the same way (`פתוחי חותם`, vv6, 14), and no nine chapters of instruction exist (25–31 are seven; 35–39 five). Proposed: *the only sentence anyone wears* (the stones carry the tribes' names, but a name is not a sentence), and *Everything else the garments carry is an object or a name.*
+
+**Exodus 40**
+- **v33 note**: *Chapter 39 already ran the other two verbs… This is the third.* The 39 note itself counts *finished* (39:32) among the three, so chapter 39 has all three. Proposed: *Chapter 39 already gave the other two (Moses saw, Moses blessed, 39:43) and said the work was finished (39:32). Here Moses himself is the one who finishes, in the very form of Genesis 2:2.* (`ויכל`).
+- **vv4, 23 note**: *The noun is* ma'arakhah. The noun in both verses is `ערך` (`וערכת את ערכו`, `ויערך עליו ערך לחם`); *ma'arakhah* is its relative (the battle line, 1 Samuel 17:8, 10; the rows of bread, Leviticus 24:6–7 `מערכות`). Proposed: *The noun is* erekh, *an arrangement. Its relative* ma'arakhah *is the word for a battle line drawn up (1 Samuel 17:8) and for the rows of bread (Leviticus 24:6).*
+- **vv22, 24 note**: *the hip the wrestler puts out at 32:25.* In an Exodus note, 32:25 is Moses seeing the people out of control; the wrestling is Genesis 32:25, and what is wrenched is Jacob's hip. Also *an oath about descendants is sworn on at Genesis 24:2*: the book reads *under my loin* there, and the oath (24:3) is about a wife for Isaac. Proposed: *the hip that is wrenched at Genesis 32:25, and the loin Abraham's servant swears under at Genesis 24:2.*
+- **v35 note**: *the same cloud is twenty feet away at ground level* — the text gives no distance; it says the cloud *settled on it* (`עליו`). *A tent he built himself*: Bezalel and Oholiab made it (31:2, 36:1); Moses raised it (v18). Proposed: *Here the cloud rests on the tent itself and he cannot get in* and *standing outside a tent he raised himself.*
+- **vv36–38 note**: *plural, none of them yet made.* Israel has made journeys already: `למסעיהם` at 17:1, and the pillar of 13:21 that the note cites leads them out. Proposed: *none of them yet made from here.*
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
