@@ -96,10 +96,17 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 39 (Genesis 1–38 done 2026-10-11 12:04 AM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 40 (Genesis 1–39 done 2026-10-11 12:18 AM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 35 (Genesis 1–28 and Exodus 1–34 done 2026-10-11 12:11 AM; item 37 split agreed)
 
 ## Open
+
+### 70. Genesis 39 notes: "brought down… (37:36)", "the only man whose looks are reported"
+*Asked by Bible 2, 12:18 AM CDT, 2026-10-11. Closed book; both provable.*
+
+- **v1 note**: *the third descent in three chapters. Joseph is brought down to Egypt (37:36)*. 37:36 has *sold him into Egypt* (`מכרו אתו אל מצרים`); the verb *yarad* in chapter 37 is Jacob's *I will go down to my son… to Sheol* (37:35). Proposed: *Jacob says he will go down to Sheol mourning (37:35), Judah goes down from his brothers (38:1), and now the word comes back twice in one verse*.
+- **v6 note**: *Joseph is the only man in the book whose looks are reported*. 25:25 reports Esau's (*ruddy, all of him like a hairy mantle*). Proposed: *Joseph is the only man in the book called beautiful*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
