@@ -87,7 +87,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 32 (Genesis 1–31 done 2026-10-10 7:08 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 33 (Genesis 1–32 done 2026-10-10 7:18 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 9 (Genesis 1–28 and Exodus 1–8 done 2026-10-10 7:07 PM; item 37 split agreed)
 
 ## Open
@@ -102,6 +102,14 @@ entry.
 - **v47 note**: *The narrator has been calling him Laban the Aramean since v20.* 25:20 already has *Laban the Aramean*. Proposed: *since 25:20*.
 - **v13 note**: *answering the vow Jacob made there by quoting it*. v13 names the vow (*where you vowed a vow to Me*); it does not quote 28:20–22. Proposed: *by naming it*.
 - **v32 note** stands after the vv34–35 note. Proposed: move it before.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 49. Genesis 32 notes: a verse number, 27:36 quoted, "for the third time", "the one dietary law"
+*Asked by Bible 2, 7:18 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v30 note**: *natsal for the third time in two chapters: … (31:9, 31:16), Jacob prayed deliver me from the hand of my brother (v12)*. In the English numbering the project follows, the prayer is v11 (*Deliver me, please, from the hand of my brother*), and with 31:9 and 31:16 this is the fourth use, not the third. Proposed: *the verb natsal again: … (v11)*.
+- **vv27–28 note** quotes 27:36 as *is he not rightly named Jacob, for he has supplanted me twice*; 27:36 reads *Is it because his name is called Jacob that he has heeled me these two times?* Proposed: quote it as it reads.
+- **v32 note**: *This is the one dietary law in Genesis*. 9:4 is one (*But flesh with its soul — its blood — you shall not eat*). Proposed: *Besides the blood forbidden to Noah (9:4), this is the only dietary law in Genesis*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
