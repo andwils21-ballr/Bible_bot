@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 33–34 (council 69, settled 2026-10-11)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 69). Exodus is closed and chapter 33 is a fixed model; each is a claim the text does not bear out. The proposed change to the verse 33:11 (*He would return* → *Moses would return*) is a rendering, so it went to the closed-book list.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 33, note vv22–23 | a hand over the man's face | a hand over him |
+| Exodus 34, note vv6–7 | this list of thirteen words is quoted back at God … more than any other sentence in the Torah | this list, twenty words from *YHWH, YHWH* to *lo yenaqqeh*, is quoted back at God … (Numbers 14:18; Joel 2:13; Jonah 4:2; Psalms 86:15, 103:8, 145:8) |
+| Exodus 34, note v21 | given a second time … the two weeks of the year | given again … the two seasons of the year |
+| Exodus 34, note vv29, 30, 35 | It is used of an animal's horns everywhere else in the Bible; this is the only place it is a verb … a guess from the shape of a horn rather than from any other use of the word | The verb is used of a bull's horns in Psalm 69:32, and the plural noun means rays of light in Habakkuk 3:4 (*rays from His hand*), which is the reading behind "shone"; this is the only place it is said of a face |
+| Exodus 34, note vv33–35 | puts it **on** to speak with Israel | puts it **on** when he has finished speaking with Israel |
+
 ## Notes corrected in Exodus 29–32 (council 67, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 67). Exodus is closed; each is a count, quotation, root, or *only*/*every* claim the text does not bear out, or a note out of order. Bible 2 also found the 32:10 note's lowercase *him* for God (Andrew's ruling of 2026-10-10).

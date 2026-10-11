@@ -101,32 +101,6 @@ entry.
 
 ## Open
 
-### 68. Genesis 38 notes: a heading with *Lest*, "twelve verses earlier… paid a goat", 30:30, Deuteronomy 25:5 quoted, an unanchored note
-*Asked by Bible 2, 12:04 AM CDT, 2026-10-11. Closed book; all provable.*
-
-- **v11 note** is headed *"Lest he die also, like his brothers"*; v11 reads *He might die too, like his brothers* (and *lest* is on the banned list). Proposed: head it with the verse's words.
-- **v24 note**: *for an act he paid a goat for on the Timnah road twelve verses earlier*. The act and the promise are vv16–18, six to eight verses back, and the goat was never paid (v20, and the note on v25 says *a goat he never managed to deliver*). Proposed: *for an act he promised a goat for on the Timnah road six verses earlier (v18)*.
-- **v29 note**: *the same root Jacob used of his own wealth in 30:30 and 30:43*. 30:30 is Jacob speaking of **Laban's** wealth (*the little that was yours before me has broken out*); 30:43 is the narrator on Jacob's. Proposed: *the same root used of Laban's wealth in 30:30 and of Jacob's in 30:43*.
-- **v8 note** quotes Deuteronomy 25:5 as *her brother-in-law shall come to her... and do the brother's duty by her*; it reads *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her*. Proposed: quote it as it reads.
-- **Note "the chapter's point arrives outside the chapter"** has no verse (checker). Proposed: head it **vv29–30, the chapter's point arrives outside the chapter**.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (12:11 AM CDT, 2026-10-11; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in the chapters. v11 reads *He might die too, like his brothers*; the act and the promise of the goat are vv16–18 (v17, *I will send a young goat*) and the goat is never delivered (v20, v23); 30:30 is Jacob speaking of Laban's wealth (*the little that was yours before me has broken out into a multitude*) and 30:43 the narrator on Jacob's (*The man broke out beyond measure*); Deuteronomy 25:5 reads *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her*. The Perez note has no verse (checker).
-
-### 69. Exodus 33–34 notes: *He would return*, "a hand over the man's face", "thirteen words", "a second time", "only place it is a verb", "puts it on to speak with Israel"
-*Asked by Bible 3, 12:11 AM CDT, 2026-10-11. Closed book; all provable. Exodus 33 is a fixed model, so its two items are for Bible 2 to weigh before they are applied.*
-
-**Exodus 33**
-- **v11** (text): *The LORD would speak to Moses face to face, as a man speaks to his companion. He would return to the camp — but his attendant Joshua…* The one who returns is Moses (`וְשָׁב`; Joshua is *his* attendant, and the v11 note itself says *Moses goes back to the camp each time*), but after *The LORD would speak* a reader takes *He* for the LORD. Proposed: *Moses would return to the camp*.
-- **vv22–23 note**: *a hand over the man's face until the moment has gone by.* v22 says *cover you with My palm* (`וְשַׂכֹּתִי כַפִּי עָלֶיךָ`); the face is not mentioned until *My face will not be seen* (v23). Proposed: *a hand over him until the moment has gone by*.
-
-**Exodus 34**
-- **vv6–7 note**: *this list of thirteen words is quoted back at God across the rest of the Hebrew Bible more than any other sentence in the Torah.* From `יהוה יהוה` to `לא ינקה` the Hebrew is twenty words (*thirteen* is a traditional count of attributes, not of words), and nothing printed shows *more than any other sentence*. The sentence does return: Numbers 14:18, Joel 2:13, Jonah 4:2, Psalms 86:15, 103:8, 145:8 (`ארך אפים ורב חסד`). Proposed: *this list, twenty words from* YHWH, YHWH *to* lo yenaqqeh*, is quoted back at God across the rest of the Hebrew Bible (Numbers 14:18; Joel 2:13; Jonah 4:2; Psalms 86:15, 103:8, 145:8).*
-- **v21 note**: *the sabbath law is given a second time with one clause added, and it names the two weeks of the year when stopping costs most.* The sabbath is already commanded at 16:23–30, 20:8–11, 23:12 and 31:13–17, and *plowing* and *harvest* are seasons, not weeks. Proposed: *the sabbath law is given again with one clause added, and it names the two seasons of the year when stopping costs most.*
-- **vv29, 30, 35 note**: *It is used of an animal's horns everywhere else in the Bible; this is the only place it is a verb… a guess from the shape of a horn rather than from any other use of the word.* The verb is also at Psalm 69:32 (`מקרן`, of a bull *with horns*), and the noun is used of rays of light at Habakkuk 3:4 (`קרנים מידו`, *rays from His hand*). Proposed: *The verb is used of a bull's horns in Psalm 69:32, and the plural noun means rays of light in Habakkuk 3:4 (*rays from His hand*), which is the reading behind* shone*. The Latin translated it* cornuta*… *(rest stands).*
-- **vv33–35 note**: *he takes it off to speak with God and puts it on to speak with Israel.* v33 says *Moses finished speaking with them, and he put a veil over his face*, and v35 has the sons of Israel *see Moses' face* before the veil goes back on. Proposed: *he takes it off to speak with God and puts it on when he has finished speaking with Israel*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
@@ -163,6 +137,8 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 64–65. **Exodus 25–28 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): 12:35 for the gold; heading of 25:22; 33:20 quoted, no *twelve loaves in the dark*; *the same three consonants*; no *grown man's load*; *five times*; *the fourth appearance of cherubim*; the dwelling above the wall; no *no separate word*; *nasa* four times; order in 25 and 28. Logged in `PASTE/changes/2-exodus.md`. The proposed *tachash* note (25:5) is a new note in a closed book, so it went to the closed-book list. Bible 2, 2026-10-10.
 66. **Genesis 37 notes** (Bible 2, agreed by Bible 3 with two additions, sealed): *most previous times*; Tamar's coat; headings; quotes of v30 and 27:16; *five words*; *for nothing he has done*; the two caravan notes merged (*later in the same verse*); the unreproducible Jacob/Israel totals cut; order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 67. **Exodus 29–32 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): order; *tamim*; the manna; *five chapters*; *same incense*; no *one payment*; *ingredient by ingredient*; the trades named; *cheshev*; *signs of covenant*; *the guest*; *almost the same words… once*; *plural demonstrative*; Genesis 12:2 quoted; *once, at a man's request*; *fill the hand* and 28:41; *the calf*. Bible 2 also capitalized *Him* for God in the 32:10 note (a second search of the closed books' notes found no other). Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
+68. **Genesis 38 notes** (Bible 2, agreed by Bible 3, sealed): heading of v11; *promised a goat… six verses earlier*; 30:30 is Laban's wealth; Deuteronomy 25:5 quoted; the Perez note anchored. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-11.
+69. **Exodus 33–34 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): *a hand over him* (33, a fixed model; a misstatement of v22); *twenty words* with the verses that quote it; *again… two seasons*; Psalm 69:32 and Habakkuk 3:4 for *qaran*; *when he has finished speaking with Israel*. Logged in `PASTE/changes/2-exodus.md`. The 33:11 verse change (*Moses would return*) is a rendering in a fixed model, so the mediator put it on the closed-book list. Bible 2, 2026-10-11.
 
 ## Closed books: for Andrew only if he asks
 
@@ -236,3 +212,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 25:5, a possible new note**: *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (25:5; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10); what animal or finish it names is not known; the Greek reads *blue-violet skins* (`δέρματα ὑακίνθινα`). (Bible 3, 2026-10-10)
 - **Exodus 34, note vv27–28**: *This rendering keeps the pronoun as the Hebrew has it* (talk about the translating, CLAUDE.md §3); the same in **Exodus 33, note v11** (*this rendering leaves it open too*), a fixed model, so for Andrew only. (Bible 3, 2026-10-11)
 - **Exodus 34:11 and 34:24 *from before you*, *before you***: the same idiom as 23:28–31 above (`מפניך`). (Bible 3, 2026-10-11)
+- **Exodus 33:11 *He would return to the camp***: the one who returns is Moses (`ושב`; Joshua is *his* attendant), but after *The LORD would speak to Moses* a reader takes *He* for the LORD. Proposed: *Moses would return to the camp*. A fixed model. (Bible 3, 2026-10-11)

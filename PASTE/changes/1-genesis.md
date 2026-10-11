@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 38 (council 68, settled 2026-10-11)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the chapters (`COUNCIL.md`, item 68). Genesis is closed; each is a heading, quotation or claim the text does not bear out, or a note with no verse.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 38, note v11 | **"Lest he die also, like his brothers"** | **"He might die too, like his brothers"** |
+| Genesis 38, note v24 | for an act he paid a goat for on the Timnah road twelve verses earlier | for an act he promised a goat for on the Timnah road six verses earlier (v18) |
+| Genesis 38, note v29 | the same root Jacob used of his own wealth in 30:30 and 30:43 | the same root used of Laban's wealth in 30:30 and of Jacob's in 30:43 |
+| Genesis 38, note v8 | *her brother-in-law shall come to her... and do the brother's duty by her* | *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her* |
+| Genesis 38, closing note | **the chapter's point arrives outside the chapter** | **vv29–30, the chapter's point arrives outside the chapter** |
+
 ## Notes corrected in Genesis 37 (council 66, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 with two additions (`COUNCIL.md`, item 66). Genesis is closed; each is a heading, quotation, count or claim the text does not bear out, a duplicate note, or a note out of order. The Jacob/Israel totals in the v34 note could not be reproduced (`genesis.txt`, 37:34–50:26, has 38 and 31), so they are cut; the per-chapter counts check and stand.
