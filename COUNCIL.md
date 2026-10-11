@@ -97,9 +97,32 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 13 (Genesis 1–28 and Exodus 1–12 done 2026-10-10 10:42 PM; item 37 split agreed)
+- Bible 3: Exodus 15 (Genesis 1–28 and Exodus 1–14 done 2026-10-10 10:55 PM; item 37 split agreed)
 
 ## Open
+
+### 55. Exodus 13–14 notes: note order, "the same word", "a man who was not there", "unclean", "a week's walk", 50:25 quoted, "same duration", "the only instruction", "the first time they believe"
+*Asked by Bible 3, 10:55 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 13**
+- **Order**: the notes run v2, v4, v3/14, v8, v9, v16, v13. Proposed: v2, v3/14, v4, v8, v9, v13, v16 (a note starts at its first verse).
+- **v3, 14 note**: *avadim is the same word as the* service *… —* avodah. They are two words from one root (`עבדים`, `עבדה`), as the next sentence says. Proposed: *Avadim, slaves, comes from the same root as the* service *Israel is now to render the LORD in v5 —* avodah.
+- **v8 note**: *A man who was not there says the exodus happened to him personally. This single word is the hinge of the whole Passover liturgy, which requires each person in every generation to say it in the first person.* v3 addresses the people who came out, and v8 has them say *when I came out of Egypt*; the liturgy is not in the printed text. Proposed: *A father tells his son that the LORD did it for **me**.* and cut the last sentence.
+- **v13 note**: *the donkey cannot be sacrificed, because it is not a clean animal… There is no option to keep it.* The chapter gives no reason, and redeeming it with a lamb is how the owner keeps his donkey. Proposed: *The law gives two ways to hand it over: redeem it with a lamb, or break its neck.*
+- **v17 note** ("though it was near"): *the coastal road to Canaan was a week's walk* and *the first time they are shot at* are not in the text, which says *it was near* and *when they see war*. Proposed: *The text says only that it was near, and gives God's reason: the people may change their minds when they see war.*
+- **v19 note** quotes 50:25 as *God will surely attend to you, and you shall bring my bones up from here*; 50:25 reads *God will surely visit you, and you shall carry my bones up from here* (see the closed-books line on Genesis 50:24–25). Proposed: quote 50:25 as it reads. And *Four hundred years later*: 12:40 gives 430 years for the whole stay, which began before Joseph died. Proposed: *Centuries later*.
+- **v21 note**: *What it does is not protect or fight.* 14:19–20 has the pillar move behind Israel and stand between the camps, and 14:24 has the LORD look down through it and throw Egypt into panic. Proposed: *Here, what it does is not protect or fight; that comes at the sea (14:19–24).*
+
+**Exodus 14**
+- **v5 note**: *we have lost our workforce* is in italics as if quoted; the verse says *sending Israel away from serving us*. Proposed: *the reason given is economic in the plainest terms:* sending Israel away from serving us.
+- **v12 note**: *they would rather have the one that fed them*; v12 says only *it would be better for us to serve Egypt than to die in the wilderness*. Proposed: cut the clause (*…between masters, and they would rather have Egypt*).
+- **v14 note**: *It is the only instruction Israel is given at the sea.* Moses has just said *Do not be afraid. Stand still and see* (v13), and v15 has the LORD say *let them move on*. Proposed: *Moses' instruction in vv13–14 is to do nothing and say nothing; the LORD's, in v15, is* let them move on.
+- **v21 note**: *Same wind, same duration, opposite service.* 10:13 is *all that day and all that night*; 14:21 is *all night* (the chapter 10 note was corrected the same way, item 52). Proposed: *Same wind, opposite service.*
+- **vv21–22 note** quotes Genesis 1:9 as *let the waters be gathered, and let the dry ground appear*; 1:9 reads *Let the waters beneath the heavens be gathered to one place, and let the dry ground be seen.* Proposed: *let the dry ground be seen*.
+- **v25 note** (first): the Hebrew is `ויסר` (*removed*) and the Greek `συνέδησεν` (*bound*); the heading and the verse read *bound*, but the note does not say which one the text follows (CLAUDE.md §3: "say which one the text uses"). Proposed: add *The text reads* bound, *as the Greek does.*
+- **v25 note** (second): *three turns of one word inside twenty verses.* Pharaoh's heavy heart is in chapters 7–10, and v4 to v25 is twenty-one verses. Proposed: *three turns of one word.*
+- **v31 note**: *the book's first statement that the people believe.* 4:31 has *The people believed.* Proposed: *the second time the book says the people believed (4:31). That time it followed the signs; this time it follows the rescue, and it names Moses alongside God.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -189,3 +212,4 @@ entry.
 - **Exodus 12, note v46**: John 19:36 quoted as *a bone of him shall not be broken*; the capital-pronoun rule (spec, 2026-09-28) gives *Him*. (Bible 3, 2026-10-10)
 - **Exodus 12:40, a possible new note**: the Hebrew counts the time the sons of Israel *lived in Egypt*; Swete's Greek counts *in the land of Egypt and in the land of Canaan* and reads 435 years here and in v41. Draft: "**v40 "four hundred and thirty years"** — the Hebrew counts the time the sons of Israel lived in Egypt. The Greek of Swete's edition counts Egypt and Canaan together, and reads four hundred and thirty-five years, here and in v41." (Bible 3, 2026-10-10)
 - **Exodus 12:27 *And the people bowed down and worshiped***: opening *And* (checker). Proposed: *The people bowed down and worshiped.* (Bible 2, 2026-10-10)
+- **Exodus 13:22 *from before the people* and 14:19 *from before them***: *mi-pnei*/*lifnei* meaning *in front of*; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *did not leave its place in front of the people*; *moved from in front of them*. (Bible 3, 2026-10-10)
