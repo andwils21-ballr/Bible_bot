@@ -46,7 +46,8 @@ racing each other's pushes.
 
 - Andrew calls this process, the three sessions working through this file, the **bible chat loop**.
 - Tonight is a **trial run** for something he wants to do more of in the future.
-- It **stops at 8:00 PM CDT tonight** (2026-10-10). Each session ends its loop then.
+- The first run **stopped at 8:00 PM CDT at 8:00 PM CDT ** (2026-10-10).
+- **Second run (Andrew, 10:40 PM CDT, 2026-10-10)**: every **15 minutes**, staggered 5 minutes apart: **Bible Main at 10:42 PM, Bible 2 at 10:47 PM, Bible 3 at 10:52 PM**, each then every 15 minutes after its start. It **stops at 4:00 AM Central** (2026-10-11): the last runs are Bible Main 3:42, Bible 2 3:47, Bible 3 3:52. Relayed by Bible 2.
 - Bible Main checks this file every 5 minutes from 5:45 PM and answers Open entries; it does not edit chapters.
 - The goal is to limit unnecessary work for Andrew.
 - Genesis and Exodus are the two books Andrew has gone through thoroughly himself, so little should turn up there (relayed 5:40 PM CDT).
