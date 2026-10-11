@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 15 (Genesis 1–28 and Exodus 1–14 done 2026-10-10 10:55 PM; item 37 split agreed)
+- Bible 3: Exodus 16 (Genesis 1–28 and Exodus 1–15 done 2026-10-10 10:58 PM; item 37 split agreed)
 
 ## Open
 
@@ -122,6 +122,21 @@ entry.
 - **v25 note** (first): the Hebrew is `ויסר` (*removed*) and the Greek `συνέδησεν` (*bound*); the heading and the verse read *bound*, but the note does not say which one the text follows (CLAUDE.md §3: "say which one the text uses"). Proposed: add *The text reads* bound, *as the Greek does.*
 - **v25 note** (second): *three turns of one word inside twenty verses.* Pharaoh's heavy heart is in chapters 7–10, and v4 to v25 is twenty-one verses. Proposed: *three turns of one word.*
 - **v31 note**: *the book's first statement that the people believe.* 4:31 has *The people believed.* Proposed: *the second time the book says the people believed (4:31). That time it followed the signs; this time it follows the rescue, and it names Moses alongside God.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 56. Exodus 15 notes: order, "the oldest form", "six verbs… first person", "older than the theology", a contradiction between two notes, "three days out of Egypt", "the next two uses", two quotes
+*Asked by Bible 3, 10:58 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **Order**: the notes run v1 ×3, v2 ×3, v3, vv14–16, v15, v16, v5/v16, v8, v8, v9, v11, v12, v13, v17… Proposed: v1 ×3, v2 ×3, v3, v5/v16, v8, v8, v9, v11, v12, v13, vv14–16, v15, v16, v17 (a note starts at its first verse).
+- **v2 note ("Yah")**: *this is its first appearance in the Bible* is right (`יה` is first at 15:2, then 17:16). *The oldest poem in the book uses the oldest form of the name* cannot be checked in anything printed (Genesis 4:23–24 and chapter 49 are poems before this one). Proposed: cut the last sentence.
+- **v9 note**: *six short verbs in a row with nothing between them, and every one is first person.* v9 has six clauses; four have first-person verbs (*I will chase, overtake, divide, draw*), and two have *my appetite* and *my hand* as subjects. Proposed: *six short clauses in a row with nothing between them, and every one is about what he will take*.
+- **v11 note**: *it is older than the theology that later grew around it* is a dating claim nothing printed supports. Proposed: cut the clause.
+- **vv14–16 note and v17 note disagree.** The first says *the song stands at the sea and sees the whole road to the land*; the second says *The song is standing somewhere later than the story it tells.* The verbs of v17 are future (*You will bring Your people in and plant them*). Proposed: v17 note ends *There is no temple yet, no land, and no Jerusalem; the song speaks of them as things still to come.*
+- **vv14–16 note** quotes Joshua 2:9–10 as *the terror of you has fallen on us, and all who live in the land melt before you, for we have heard how the LORD dried up the water of the Sea of Reeds*. The book reads *terror of you has fallen on us, and … all the inhabitants of the land melt before you* (v9) and *For we have heard how the LORD dried up the waters of the Sea of Reeds before you* (v10). Proposed: quote them as they read.
+- **v1 "the song, retold" note** quotes Psalm 77:19 as *Your path through the mighty waters*; the book reads *Your path through the great waters*. Proposed: *great waters*.
+- **v23 note**: *Three days out of Egypt, the first thing they find is the taste they just left.* v22 has them walk three days *in the wilderness* after the Sea of Reeds. Proposed: *Three days into the wilderness*.
+- **vv25–26 note**: *the next two uses of the verb say what testing is for: the manna (16:4)… and Sinai (20:20).* The verb is also at 17:2 (*Why do you test the LORD?*), where Israel tests God. Proposed: *the next two times God tests Israel say what testing is for*.
+- **v8 note (second)** says *the deep over which the Spirit hovered in Genesis 1:2*; Genesis 1:2 reads *the breath of God was hovering* (see the closed-books line on Genesis 1:2).
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -213,3 +228,5 @@ entry.
 - **Exodus 12:40, a possible new note**: the Hebrew counts the time the sons of Israel *lived in Egypt*; Swete's Greek counts *in the land of Egypt and in the land of Canaan* and reads 435 years here and in v41. Draft: "**v40 "four hundred and thirty years"** — the Hebrew counts the time the sons of Israel lived in Egypt. The Greek of Swete's edition counts Egypt and Canaan together, and reads four hundred and thirty-five years, here and in v41." (Bible 3, 2026-10-10)
 - **Exodus 12:27 *And the people bowed down and worshiped***: opening *And* (checker). Proposed: *The people bowed down and worshiped.* (Bible 2, 2026-10-10)
 - **Exodus 13:22 *from before the people* and 14:19 *from before them***: *mi-pnei*/*lifnei* meaning *in front of*; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *did not leave its place in front of the people*; *moved from in front of them*. (Bible 3, 2026-10-10)
+- **Exodus 15:8 *The flowing waters stood like a wall***: the Hebrew is `נד`, *a heap*; the Greek has *wall* (`τεῖχος`). The book renders `נד` as *wall* at Exodus 15:8, Joshua 3:13 and 3:16, and as *heap* at Psalm 33:7 and 78:13; the Psalm 33 note says *ka-ned, as at the crossing of the sea (Exodus 15:8; Joshua 3:13)*. One word, two renderings, no note. Proposed: *stood like a heap* in all five, or a note saying the Greek reads *wall*. (Bible 3, 2026-10-10)
+- **Exodus 15, note v3**: *The Hebrew says man of war, and this rendering keeps it* (talk about the translating, CLAUDE.md §3). (Bible 3, 2026-10-10)
