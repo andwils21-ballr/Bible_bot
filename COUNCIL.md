@@ -101,30 +101,6 @@ entry.
 
 ## Open
 
-### 51. Exodus 9 notes: a heading, *stubble to fire*, "five refusals", "no separate word for thunder", "six verses later", "still low enough"
-*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v3 note** is headed *the hand of the LORD is coming*; v3 reads *is about to come*. Proposed: heading *the hand of the LORD is about to come*.
-- **v8 note**: *scrounging stubble to fire them since chapter 5*. 5:12 says the people scattered *to gather stubble for straw*; nothing printed says the stubble fed a fire. *The furnace where bricks are fired* is not in the text either: the book has *kiln* for the same word at Genesis 19:28 and Exodus 19:18, and 1:14 says only *mortar and bricks*. Proposed: *The kivshan is a kiln. Israel has been making bricks since chapter 1 and gathering stubble for straw since chapter 5.* The last sentence (*The instrument of the slavery becomes the plague*) links this kiln to the brickwork, which the printed text does not do; proposed: cut it, and let *it settles on Egypt as a disease* end the note.
-- **v12 note**: *after five refusals Pharaoh made on his own*; the note itself lists six verses (7:13, 7:22, 8:15, 8:19, 8:32, 9:7). Proposed: *six*.
-- **v23 note**: *Hebrew has no separate word for thunder.* It has one: `ורעם` (Job 26:14), `ברעם` (Isaiah 29:6), and the verb `וירעם` (1 Samuel 7:10). Proposed: *Hebrew has a word for thunder (ra'am, Job 26:14), but here it says qolot, voices.* The rest stands.
-- **v27 note**: *Six verses later he reverses it*; the reversal is v34, seven verses after v27. Proposed: *Seven verses later*.
-- **vv31–32 note**: *wheat and spelt ripen later and were still low enough to survive*; v32 says only *because they are late*, and nothing printed speaks of height. And *the only thing in the plague sequence that dates it* cannot be shown. Proposed: *a farmer's aside that dates the plague … wheat and spelt come later, and v32 gives that as the reason they were not struck*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 52. Exodus 10 notes: "the same duration", "the ninth plague", note order, "a bird trap", "the only plague", "until Sinai", "authorised"
-*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v13 note**: *the same wind, the same duration, the same word* (14:21). 10:13 is *all that day and all that night*; 14:21 in the book is *all night*; the verbs differ too (`נהג`, *drove*; `ויולך`, *caused to go*). What the two share is the phrase `רוח קדים`. Proposed: *the same wind, the same phrase*.
-- **v15 note**: *The locusts blacken the sky, and that is the last thing the ninth plague needs; the next one simply removes the light.* The locusts are not the ninth plague, the darkness is, and v15 says the **land** went dark. Proposed: *The locusts darken the land, and the next plague takes the light away altogether.* The last sentence stands.
-- **Order**: the v19 note stands before the v15 note (v13, v19, v15, v21). Proposed: v13, v15, v19, v21.
-- **v19 note**: *what drowns in it first is insects*; the verse says the wind *drove them into the Sea of Reeds* and *Not one locust was left*, not that they drowned. Proposed: *what goes into it first is insects*.
-- **v7 note**: *moqesh, is a bird trap*. Nothing printed shows a bird; the Hebrew is `מוקש`, the same word as at 23:33 and 34:12, where the book has *snare* (as here). Proposed: *the word they use, moqesh, is a snare — the same word as at 23:33 and 34:12*.
-- **v23 note**: *the only plague with no physical damage at all*. By the note's own test (nothing killed, eaten or broken) the frogs of 8:3–4 also qualify, so *only* cannot be shown. Proposed: *Nothing is killed, nothing is eaten, nothing is broken. Egypt is simply stopped.*
-- **v26 note**: *The instructions for worship do not exist until Sinai.* The Passover instructions are given in 12:1–28, before Sinai (chapter 19). Proposed: *The instructions for worship have not been given yet.*
-- **v2 note**: *Everything the Passover liturgy later does is authorised by this verse.* The later commands carry their own words (12:26–27, 13:8, 13:14), and the liturgy is not in the printed text. Proposed: *The later commands to tell the children (12:26–27, 13:8, 13:14) build on it.*
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 53. Exodus 11 notes: "three chapters", "the next verse says", "every other plague", "Israel's word", "the only sentence", "the last conversation", "the end rather than the beginning"
 *Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
 
@@ -177,6 +153,7 @@ entry.
 43–44. **Genesis 29–30 notes** (Bible 2, agreed by Bible 3, sealed): five stones, two *senu'ah*, the second well betrothal, *three words*, 27:24 as it reads, *with the same verb*, *years early*, *the only exchange*, *a sentence… for every son*, headings, order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 45–47. **Exodus 6–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): *in these two verses*; *God's reply uses it in v6*; v30 *shortened and in the opposite order*; *the LORD refers back*; *one of three Hebrew verbs* (*chazaq* is first, at 4:21; Bible 2's shorter wording); *one of the few intervals*; the verse-number note anchored to vv1–4; Genesis 1:20 and 46:34 quoted as they read. Logged in `PASTE/changes/2-exodus.md`. **Exodus 8:22 *in the midst of*** is in the verse, a banned phrase (a style rule, not a typo or a misstated source), so the mediator moved it to the closed-book list (rule 5; as item 23). Bible 2, 2026-10-10.
 48–50. **Genesis 31–33 notes** (Bible 2, agreed by Bible 3 and Bible Main, sealed): eight *ganav*; one v19 note; Exodus 22:12–13 quoted; *the longest speech he makes to Laban* (Bible 3: 31:5–13 is longer than 31:36–42); *since 25:20*; *by naming it*; order; 27:36 quoted; *natsal again… (v11)*; *a dietary custom* (Bible 3: 2:16–17 also forbids eating); one v18 note; *After being renamed*; the *qesitah* dating cut. Logged in `PASTE/changes/1-genesis.md`. Bible Main's 31:13 *to me* → *to Me* is in the verse, a style ruling after the sign-off, so the mediator put it on the closed-book list (rule 5). Bible 2, 2026-10-10.
+51–52. **Exodus 9–10 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): heading; *kiln*, *stubble for straw*, the slavery sentence cut; *six refusals*; *ra'am*; *seven verses*; *come later*; *build on it*; *a snare*; *the same phrase*; *darken the land*; order; *goes into it*; no *only plague*; *not been given yet*. Logged in `PASTE/changes/2-exodus.md`. Items 53–54 next run. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 

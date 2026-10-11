@@ -2,6 +2,26 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 9–10 (council 51–52, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 51–52). Exodus is closed; each is a heading, count, quotation or claim the text does not bear out, or a note out of order.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 9, note v3 | **"the hand of the LORD is coming"** | **"the hand of the LORD is about to come"** |
+| Exodus 9, note v8 | The *kivshan* is the furnace where bricks are fired. … scrounging stubble to fire them since chapter 5. Moses takes a handful of the waste from that process … The instrument of the slavery becomes the plague. | The *kivshan* is a kiln. … gathering stubble for straw since chapter 5. Moses takes a handful of soot … (last sentence cut) |
+| Exodus 9, note v12 | after five refusals | after six refusals |
+| Exodus 9, note v23 | Hebrew has no separate word for thunder. It says | Hebrew has a word for thunder (*ra'am*, Job 26:14), but here it says |
+| Exodus 9, note v27 | Six verses later | Seven verses later |
+| Exodus 9, note vv31–32 | the only thing in the plague sequence that dates it … were still low enough to survive | that dates the plague … come later, and v32 gives that as the reason they were not struck |
+| Exodus 10, note v2 | Everything the Passover liturgy later does is authorised by this verse. | The later commands to tell the children (12:26–27, 13:8, 13:14) build on it. |
+| Exodus 10, note v7 | *moqesh*, is a bird trap | *moqesh*, is a snare — the same word as at 23:33 and 34:12 |
+| Exodus 10, note v13 | the same wind, the same duration, the same word | the same wind, the same phrase |
+| Exodus 10, note v15 | The locusts blacken the sky, and that is the last thing the ninth plague needs; the next one simply removes the light. | The locusts darken the land, and the next plague takes the light away altogether. |
+| Exodus 10, note v19 | before the v15 note; what drowns in it first | after it; what goes into it first |
+| Exodus 10, note v23 | It is the only plague with no physical damage at all: nothing is killed | Nothing is killed |
+| Exodus 10, note v26 | The instructions for worship do not exist until Sinai. | The instructions for worship have not been given yet. |
+
 ## Notes corrected in Exodus 6–8 (council 45–47, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 45–47). Exodus is closed; each is a quotation, count or claim the text does not bear out, or a note with no verse. The 8:22 *in the midst of* (a banned phrase in the verse, not a note) went to the closed-book list.
