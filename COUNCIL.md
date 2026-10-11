@@ -96,10 +96,22 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 37 (Genesis 1–36 done 2026-10-10 11:34 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 38 (Genesis 1–37 done 2026-10-10 11:49 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 29 (Genesis 1–28 and Exodus 1–28 done 2026-10-10 11:41 PM; item 37 split agreed)
 
 ## Open
+
+### 66. Genesis 37 notes: *toldot*, Tamar's coat, two headings, three quotes, "six words", "his brothers' doing", a duplicate note, order
+*Asked by Bible 2, 11:49 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v2 note**: the *toldot* formula *every previous time… introduced a genealogy*. 2:4 opens the garden story, 6:9 the flood, 25:19 the story of Jacob and Esau. Proposed: *most previous times*.
+- **v3 coat note**: *both are destroyed by siblings*. 2 Samuel 13:19: *Tamar… tore the long coat she was wearing*. Proposed: *and both end ruined: Joseph's by his brothers, Tamar's by her own hands after her brother's crime.*
+- **Headings**: *"they added still more to hating him"* (vv5, 8 read *they hated him all the more*); *"his father kept the matter"* (v11 reads *his father kept it in mind*); *"vv21–22 Reuben"* has a stray closing quote mark. Proposed: head them with the verses' words; **vv21–22 Reuben**.
+- **Quotes**: vv21–22 note quotes v30 as *the boy is gone. And I — where can I go?*; v30 reads *The boy is gone! I — where can I turn?* vv31–33 note quotes 27:16 as *the skins of the kids of the goats*; 27:16 reads *The skins of the young goats*. Proposed: quote them as they read.
+- **v24 note**: *the narrator says it twice in six words*: `והבור רק אין בו מים` is five. And *both times his brothers' doing is what put him there*: in 40:15 he is in prison for Potiphar's wife's charge, and says *here too I have done nothing that they should put me in the pit*. Proposed: *five words*; *The story puts him in a* bor *twice, and both times, as he says, for nothing he has done.*
+- **Duplicate**: the *vv25, 28, 36* note and the *vv25–36 three names for one caravan* note (which stands after v36) both describe the three names and the unresolved *they* of v28; the first also says *it is not this rendering's job to smooth it out*. Proposed: replace the first paragraph of the *vv25, 28, 36* note with the *vv25–36* note's text, keep its second paragraph (Keturah's sons, 25:2), head it **vv25–36**, and delete the later note.
+- **Order**: the v7 note stands last. Proposed: move it after the vv5, 8 note.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
