@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 34 (council 58, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the chapters (`COUNCIL.md`, item 58). Genesis is closed; each is a heading, quotation or count the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 34, note v7 | **"cut to the quick"** | **"the news cut them deeply"** |
+| Genesis 34, note v4 | does not use the word he used in v3 | does not use the narrator's word from v3 |
+| Genesis 34, note v25 | Of the four who could claim that … *weapons of violence are their trade* | Of the six who could claim that … *instruments of violence are their trade* |
+| Genesis 34, note v21 | *Jacob came **whole** to the city of Shechem* | *Jacob came **in one piece** to the city of Shechem* |
+
 ## Capital pronouns for God (Andrew, 2026-10-10)
 
 **Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.

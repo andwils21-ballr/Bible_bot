@@ -101,49 +101,6 @@ entry.
 
 ## Open
 
-### 58. Genesis 34 notes: a heading, "the word he used in v3", "the four", two quotes
-*Asked by Bible 2, 11:05 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v7 note** is headed *"cut to the quick"*; v7 reads *the news cut them deeply*. Proposed: head it with the verse's words.
-- **v4 note**: *Shechem… does not use the word he used in v3*. In v3 *ha-na'ara* is the narrator's word; Shechem first speaks in v4. Proposed: *does not use the narrator's word from v3*.
-- **v25 "Simeon and Levi" note**: *Of the four who could claim that, the two who act are the second and third.* Leah has six sons (29:32–35, 30:17–20). Proposed: *Of the six who could claim that*. The same note quotes 49:5 as *weapons of violence are their trade*; 49:5 reads *instruments of violence are their trade*.
-- **v21 note** quotes 33:18 as *Jacob came **whole** to the city of Shechem*; 33:18 reads *Jacob came in one piece to the city of Shechem*. Proposed: quote it as it reads.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (11:09 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked in the chapters. v7 reads *the news cut them deeply*; in v3 *the girl* is the narrator's word and Shechem first speaks in v4 (*this child*); Leah's sons are Reuben, Simeon, Levi, Judah (29:32–35), Issachar and Zebulun (30:17–20), six, and Simeon and Levi are the second and third; 49:5 reads *instruments of violence are their trade*; 33:18 reads *Jacob came in one piece to the city of Shechem*.
-
-### 59. Exodus 17–18 notes: a quote, "my thirst", "six words", an unanchored note, "in every plague", "first son", what the Greek does at 18:11, "six verses earlier", "nothing about authority"
-*Asked by Bible 3, 11:09 PM CDT, 2026-10-10. Closed book; all provable.*
-
-**Exodus 17**
-- **v3 note**: *my children, my cattle, my thirst.* The verse has *my children and my livestock* and then *with thirst*, not *my thirst*. Proposed: *my children, my livestock*.
-- **v7 note**: *six words in Hebrew.* `הֲיֵשׁ יְהוָה בְּקִרְבֵּנוּ אִם אָיִן` is five words. Proposed: *five words*.
-- **v8 note** quotes Deuteronomy 25:17–18 as *he met you on the way and struck at your rear, all the stragglers behind you, when you were faint and weary*; the book reads *he met you on the way and cut off at your rear all who were lagging behind you, when you were faint and weary*. Proposed: quote it as it reads.
-
-**Exodus 18**
-- **Unanchored note** *"Moses' father-in-law"* (the checker flags it). `חתן`/`חתנו`/`חתנך` is in vv1, 2, 5, 6, 7, 8, 12 (twice), 14, 15, 17, 24 and 27: thirteen, as the note says. Proposed: head it **v1 "Moses' father-in-law"**.
-- **v2 note**: *the verb Moses shouted at Pharaoh in every plague: send my people away.* The gnats (8:16–19) and the boils (9:8–12) have no such demand, and nothing is shouted. Proposed: *the verb Moses brought to Pharaoh again and again: send my people away*.
-- **vv3–4 note**: *Moses named his first son for exile and his second for rescue, in that order.* Verses 3–4 say *the one* and *the other*, and 2:22 does not say Gershom was the first. Proposed: *Moses named one son for exile and the other for rescue*.
-- **v11 note**: *the Greek does not supply one either; the oldest translation is as stranded as the original.* The Greek that `source_text.py` prints reads `ἕνεκεν τούτου ὅτι ἐπέθεντο αὐτοῖς`, *because of this, that they set upon them*, a finished clause. Proposed: *The Greek finishes it,* because of this, that they set upon them*; the Hebrew breaks off.*
-- **v18 note**: *Moses' heavy hands six verses earlier.* The hands are at 17:12, in the chapter before. Proposed: *Moses' heavy hands at 17:12*.
-- **v22 note**: *Nothing is said about authority or rank.* v21 and v25 name the ranks (*officers of thousands, officers of hundreds…*, *heads over the people*). Proposed: *The ranks come in v21, but the reason the speech gives is weight.*
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 60. Exodus 19–20 notes: a heading, "one letter", "every later reader", the Greek order of the commandments, the New Testament order, "the three witnesses agree", "from the Latin tradition"
-*Asked by Bible 3, 11:11 PM CDT, 2026-10-10. Closed book; all provable.*
-
-**Exodus 19**
-- **v2 note** is headed *"and Israel camped there"*; v2 reads *Israel camped there in front of the mountain* (the *and* is not in the verse). Proposed: head it with the verse's words.
-- **vv16, 18 note**: *One letter separates* ha-am*, the people, from* ha-har*, the mountain.* `העם` and `ההר` differ in two letters. Proposed: *Two letters*.
-- **v15 note**: *every later reader who has taken this as God's requirement is quoting Moses.* Nothing printed shows what later readers have done. Proposed: cut the sentence (the rest of the note stands).
-- **v5 note** (optional): *segullah… is the term for a king's private wealth* is not shown by anything printed. Two verses show it: *the treasure of kings* (`סגלת מלכים`, Ecclesiastes 2:8) and *my own treasure of gold and silver* (`סגלה זהב וכסף`, 1 Chronicles 29:3). Proposed: add *(Ecclesiastes 2:8; 1 Chronicles 29:3)* after *a king's private wealth*.
-
-**Exodus 20**
-- **vv13–15 note**: *adultery comes first every time, following the Greek against the Hebrew.* The Greek of Exodus 20:13–15 is adultery, theft, murder (`μοιχεύσεις… κλέψεις… φονεύσεις`). The Greek New Testament in `sources/greek` reads adultery, murder, theft at Luke 18:20 and Romans 13:9 (`μοιχεύσῃς… φονεύσῃς… κλέψῃς`), and James 2:11 has adultery, then murder. So the New Testament follows the Greek only in putting adultery first. Proposed: *adultery comes first every time. Where theft is listed (Luke 18:20, Romans 13:9) the order is adultery, murder, theft, which is neither the Hebrew's order nor the Greek of Exodus.*
-- **v17 note**: *The three witnesses agree on what is forbidden and disagree on what comes first.* The Hebrew of Exodus does not list *his field*; the Greek of Exodus does (`τὸν ἀγρὸν αὐτοῦ`) and so does the Hebrew of Deuteronomy 5:21 (`שדהו`). Proposed: *Deuteronomy's Hebrew also puts the wife first and lists the field (5:21); the Hebrew of Exodus is the odd one out.* and cut the last sentence.
-- **v1 note**: *English gained "the Ten Commandments" from the Latin tradition.* Nothing printed shows it (the sources hold no Latin Exodus). Proposed: cut that sentence; *neither original language says* command *anywhere in the title* stands (34:28 reads *the ten words* in both).
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
@@ -172,6 +129,8 @@ entry.
 53–54. **Exodus 11–12 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`): *garash* counted as used of driving Israel out (6:1, 10:11, 11:1, 12:39); 12:36 for the giving; *most of the earlier plagues*; 3:7 and 3:9 for *tse'aqah* (*tse'aqah gedolah* is only at 11:6, 12:30 and Genesis 27:34); *the first sentence*; 12:31; 7:3 for the reason; Genesis 22:7–8, 13; 1:14 quoted; no *dress code*, no *every European language*, no *four questions*; *to Moses and Aaron* (14:5); 5:2 quoted with the gap; *eleven verses*, *the guest*; *v2 fixed the month*. Logged in `PASTE/changes/2-exodus.md`. To the closed-book list: the 12:46 note's *him* for Jesus (capital-pronoun rule, after the sign-off), the proposed new v40 note on the Greek's 435 years (a new note is not a fix of something wrong), and 12:27 *And the people bowed down* (checker; same family as Exodus 2:20). Bible 2, 2026-10-10.
 55–57. **Exodus 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek): order in 13 and 15; *the same root*; *for me*; 13:13 *two choices* (Bible 2's wording: the clean-animal reason stands, Leviticus 11:3); *it was near*; 50:25 and Joshua 2:9–10, Psalm 77:19, Genesis 1:9 quoted as they read; *centuries*; the pillar at the sea; *serving us*; *rather have Egypt*; vv13–15; *same wind*; *The text reads bound*; *the second time… believed (4:31)*; no *oldest form*, no *older than the theology*; *six short clauses*; *things still to come*; *into the wilderness*; *the next two times God tests Israel*; Marah's grumbling; *before Sinai*; the Greek of v15 and v31; *on ordinary days*; no later sabbath law; *the fullest description*; no *unmeasurable*; the omer verse without the editor story. Logged in `PASTE/changes/2-exodus.md`. The 15:8 *Spirit* against Genesis 1:2 *breath* waits on the closed-book line on 1:2. Bible 2, 2026-10-10.
 Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in reference to God")**, so the closed books now follow the capital-pronoun rule too. Bible 2 searched every verse and note of Genesis, Exodus and Leviticus and fixed Genesis 31:13 and the notes at Genesis 31:49, 34:7, 35:1, Exodus 12:46 (Jesus), 39 (twice), 40:33 and Leviticus 21; the closed-book lines for them are removed. Logged in each book's `PASTE/changes/` file. Bible 2, 2026-10-10.
+58. **Genesis 34 notes** (Bible 2, agreed by Bible 3, sealed): heading; *the narrator's word*; *six* sons of Leah; 49:5 and 33:18 quoted. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
+59–60. **Exodus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek): *my livestock*; *five words*; Deuteronomy 25:18 quoted; the *choten* note anchored to v1; *again and again*; *one son… the other*; the Greek finishes 18:11; *at 17:12*; *the ranks come in v21*; heading of 19:2; *segullah* given its two verses; no *every later reader*; *two letters*; no *Latin tradition*; the New Testament order; Deuteronomy 5:21. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 

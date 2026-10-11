@@ -2,6 +2,29 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 17–20 (council 59–60, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek (`COUNCIL.md`, items 59–60). Exodus is closed; each is a quotation, count, heading or claim the text does not bear out, or a note with no verse.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 17, note v3 | *my* children, *my* cattle, *my* thirst | *my* children, *my* livestock |
+| Exodus 17, note v7 | six words in Hebrew | five words in Hebrew |
+| Exodus 17, note v8 | *struck at your rear, all the stragglers behind you* | *cut off at your rear all who were lagging behind you* |
+| Exodus 18, note on *choten* | **"Moses' father-in-law"** | **v1 "Moses' father-in-law"** |
+| Exodus 18, note v2 | the verb Moses shouted at Pharaoh in every plague | the verb Moses brought to Pharaoh again and again |
+| Exodus 18, note vv3–4 | his first son for exile and his second for rescue, in that order | one son for exile and the other for rescue |
+| Exodus 18, note v11 | the Greek does not supply one either; the oldest translation is as stranded as the original | The Greek finishes it, *because of this, that they set upon them*; the Hebrew breaks off. |
+| Exodus 18, note v18 | six verses earlier | at 17:12 |
+| Exodus 18, note v22 | Nothing is said about authority or rank. It is about weight. | The ranks come in v21, but the reason the speech gives is weight. |
+| Exodus 19, note v2 | **"and Israel camped there"** | **"Israel camped there in front of the mountain"** |
+| Exodus 19, note v5 | a king's **private** wealth, | a king's **private** wealth (Ecclesiastes 2:8; 1 Chronicles 29:3), |
+| Exodus 19, note v15 | and every later reader who has taken this as God's requirement is quoting Moses | (cut) |
+| Exodus 19, note vv16, 18 | One letter separates | Two letters separate |
+| Exodus 20, note v1 | English gained "the Ten Commandments" from the Latin tradition; | (cut) |
+| Exodus 20, note vv13–15 | following the Greek against the Hebrew. Three writers in three different books… | Where theft is listed (Luke 18:20, Romans 13:9) the order is adultery, murder, theft, which is neither the Hebrew's order nor the Greek of Exodus. |
+| Exodus 20, note v17 | Deuteronomy's Hebrew version also puts the wife first. The three witnesses agree… | Deuteronomy's Hebrew also puts the wife first and lists the field (5:21); the Hebrew of Exodus is the odd one out. |
+
 ## Capital pronouns for God (Andrew, 2026-10-10)
 
 **Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.
