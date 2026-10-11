@@ -2,6 +2,138 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 31–34 — rendered 2026-10-11, 12:48 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (33:2, 18; 34:14).
+
+**Verse numbers:** English and Hebrew agree in all four chapters (9, 20, 24, 17 verses).
+
+**Kept formulas:**
+- No *And it came to pass* or *And it shall come to pass* in these chapters: 32:2, 32:15, 32:17 and 33:6 have *ve-hayah* only as "it shall be" / "will become," rendered plain.
+- No sentence starts with *And*.
+- *hinneh*: 32:1 *hen* cut; 33:7 *hen* cut; 34:5 cut.
+
+**Read forms followed:** 32:7 *aniyyim*, "the poor" (written *anavim*, "the humble"; named in the note, no difference that matters to the line); 32:15 *ve-ha-karmel*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:2, 6:3, 19:28, 49:10; Exodus 12:27; Deuteronomy 17:16; Joshua 6:21, 18:10; 1 Samuel 25:25; Psalm 15:1–2.
+- Isaiah 2:7, 6:1, 6:5, 6:10, 8:1, 11:2, 13:21, 14:23, 21:2, 24:16, 28:11, 28:17, 29:1–2, 29:7–8, 29:17, 30:15, 37:36.
+- Earlier notes that quote these chapters: Exodus 12:13 (on *pasoach* in 31:5), Genesis 7:2 (34:15, *each with her mate*), Psalms 12:5, 15:1, 20:7, 102:6. All agree with the text now.
+
+**Checked against the sources:**
+- Hebrew: Isaiah 44:3, 52:13, 61:2, 63:1.
+- Swete's Greek: Isaiah 31:5; 32:19; 33:2, 7, 8, 18; 34:4, 14.
+- SBLGNT: 1 Corinthians 1:20; Revelation 6:13–14, 19:3.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **31:** woe to those who trust Egypt's horses; *the Egyptians are man, and not God*; the LORD will shield Jerusalem, *pass over and deliver it*.
+- **32:** a king who reigns in righteousness; the complacent women; *until the Spirit is poured out on us from on high*.
+- **33:** woe to the destroyer; *Who among us can live as a guest with the devouring fire?*; *Your eyes will see the King in His beauty*; *the LORD is our judge… our lawgiver… our king*.
+- **34:** the day of vengeance on the nations and on Edom: the skies rolled up like a scroll, Bozrah's slaughter, the line of chaos stretched over the land, and its ruins left to the owls and the goat-spirits.
+
+### Isaiah 31: Egypt Is Man, Not God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lo sha'u al qedosh Yisra'el* "did not gaze upon the Holy One" | do not look to the Holy One of Israel |
+| 2 | *ve-gam hu chakham* "and also He is wise" | Yet He too is wise |
+| 3 | *adam ve-lo El… basar ve-lo ruach* | man, and not God… flesh, and not spirit (note) |
+| 3 | *yatteh yado* | stretches out His hand |
+| 4 | *yehgeh* "growls" | growls |
+| 4 | *litsbo al har Tsiyyon* | ***KEPT AS IS*** to fight upon Mount Zion (note: *al* can be "against") |
+| 5 | *ganon ve-hitsil pasoach ve-himlit* | He will shield and rescue it; He will pass over and deliver it (Exodus 12:27's verbs; note) |
+| 6 | *he'emiqu sarah* "they deepened revolt" | you have so deeply turned away |
+| 7 | *chet* "sin" | in sin |
+| 8 | *la-mas* | to forced labor |
+| 9 | *sal'o* "his rock" | His rock (the Assyrian's stronghold or king) |
+| 9 | *ur… tannur* | fire… furnace (note) |
+
+### Isaiah 32: A King Will Reign in Righteousness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hen* | cut |
+| 2 | *ve-hayah ish* "and a man will be" | Each will be |
+| 2 | *sela kaved* "a heavy rock" | a great rock |
+| 3 | *lo tish'enah* | will not be closed (6:10's verb; note) |
+| 4 | *nimharim* "the hasty" | the rash |
+| 4 | *ilgim… tsachot* | the stammerers… clearly |
+| 5 | *naval… nadiv; kilai… shoa* | fool… noble; scoundrel… generous |
+| 6 | *naval nevalah yedabber* | the fool speaks folly (note) |
+| 7 | *kelai kelav* | As for the scoundrel, his schemes (note) |
+| 8 | *nadiv nedivot ya'ats* | the noble plans noble things |
+| 9 | *sha'anannot… botchot* | Women at ease… complacent daughters (note) |
+| 10 | *yamim al shanah* "days upon a year" | In little more than a year |
+| 11 | *peshotah va-orah* | strip and make yourselves bare |
+| 12 | *al shadayim sofedim* "beating on breasts" | Beat your breasts (note) |
+| 14 | *ofel va-vachan* | the hill and the watchtower |
+| 15 | *ad ye'areh aleinu ruach mi-marom* | until the Spirit is poured out on us from on high (note) |
+| 17 | *va-avodat ha-tsedaqah* "and the service of righteousness" | and the result of righteousness |
+| 19 | *u-varad be-redet ha-ya'ar* "and it will hail when the forest goes down" | ***KEPT AS IS*** But hail will fall when the forest comes down (the line is abrupt in the Hebrew) |
+| 20 | *meshallechei regel ha-shor* "who send out the foot of the ox" | who let the ox and the donkey range free |
+
+### Isaiah 33: Who Can Live with the Devouring Fire?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ka-hatimkha* "when you finish" | When you have finished destroying |
+| 2 | *zero'am* "their arm" | ***KEPT AS IS*** Be their arm (note) |
+| 4 | *ke-mashaq gevim shoqeq bo* "like the rushing of locusts, rushing on it" | as locusts leap, men leap on it |
+| 6 | *chosen yeshu'ot* "a store of deliverances" | a wealth of deliverance |
+| 6 | *otsaro* | his treasure (note) |
+| 7 | *er'ellam* (word found only here) | ***KEPT AS IS*** Their valiant ones (note) |
+| 8 | *ma'as arim* "he despises cities" | ***KEPT AS IS*** cities are despised |
+| 9 | *ve-no'er* "and shakes off" | shake off their leaves |
+| 10 | *eromam… ennase* | now I will be lifted up; now I will be exalted (6:1's verbs; note) |
+| 12 | *misrefot sid* | as if burned to lime |
+| 14 | *mi yagur lanu* | Who among us can live as a guest (fixed term; Psalm 15:1; note) |
+| 15 | *mo'es be-vetsa ma'ashaqqot* | who rejects the gain of oppression |
+| 16 | *meimav ne'emanim* "his waters faithful" | his water will be sure |
+| 17 | *melekh be-yofyo* | the King in His beauty (choice below) |
+| 18 | *sofer… shoqel* "he who counts… he who weighs" | he who counted… he who weighed the tribute |
+| 19 | *nil'ag lashon* | a stammering tongue (28:11's word) |
+| 20 | *qiryat mo'adenu* | the city of our appointed feasts |
+| 21 | *addir YHWH* | the LORD in majesty (as quoted in the 10:34 note) |
+| 21 | *oni shayit* "a ship of oar" | a galley with oars |
+| 22 | *mechoqeqenu* | our lawgiver (note) |
+| 23 | *pischim bazezu baz* "the lame plunder plunder" | even the lame will take the plunder |
+| 24 | *nesu avon* "lifted of iniquity" | will be forgiven their iniquity |
+
+### Isaiah 34: The Day of Vengeance on Edom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tsetsa'eiha* "its offspring" | all that comes from it |
+| 2 | *hecherimam* | He has devoted them to destruction (note) |
+| 4 | *ve-namaqqu* "will rot" | will rot away |
+| 4 | *ke-novelet mi-te'enah* "like the withered thing from a fig" | like fruit falling from the fig tree |
+| 5 | *hinneh al Edom tered* | it descends on Edom (*hinneh* cut) |
+| 6 | *huddashnah me-chelev* "it is made fat with fat" | it is gorged with fat |
+| 7 | *re'emim* | Wild oxen |
+| 8 | *yom naqam… shenat shillumim* | a day of vengeance, a year of recompense (note) |
+| 11 | *qa'at ve-qippod… yanshuf ve-orev* | The owl and the hedgehog… the great owl and the raven |
+| 11 | *qav tohu ve-avnei vohu* | the line of chaos and the stones of emptiness (note) |
+| 12 | *choreiha ve-ein sham melukhah yiqra'u* "its nobles, and there is no kingdom there they will call" | ***KEPT AS IS*** Its nobles — there is no one there to call it a kingdom (the Hebrew breaks off) |
+| 14 | *tsiyyim… iyyim* | Wild beasts… hyenas (as 13:21–22) |
+| 14 | *sa'ir* | the goat-spirit (as 13:21) |
+| 14 | *lilit* | Lilith (choice below) |
+| 15 | *qippoz* | the owl |
+| 15 | *dayyot* | the kites |
+| 16 | *ruchu* | His Spirit |
+| 17 | *hippil lahen goral… ba-qav* | He has cast the lot for them… by the line (note) |
+
+**Choices for you:**
+- **33:17, *melekh be-yofyo*** — *Your eyes will see the King in His beauty; they will see a land that stretches afar.*
+  - **(a) "the King in His beauty"** (in the text now), the LORD: v22 of the same poem says *the LORD is our king*, and Isaiah's own words in the temple were *my eyes have seen the King, the LORD of hosts* (6:5).
+  - **(b) "the king in his beauty"**, a human king, as in 32:1, *A king will reign in righteousness*.
+  - Recommend **(a)**. Under the pronoun rule the choice decides the capitals.
+- **34:14, *lilit*** — *Wild beasts will meet with hyenas; the goat-spirit will cry to his fellow; there too Lilith will settle and find herself a place of rest.*
+  - **(a) "Lilith"** (in the text now), read as a name, as the note on 13:21 already calls it.
+  - **(b) "the night creature"**, from *layil*, "night," without a name.
+  - Recommend **(a)**: the word stands with *the goat-spirit*, *sa'ir*, another named creature of the ruins, and the note says what it is built from and what the Greek has.
+
 ## Isaiah 27–30 — rendered 2026-10-11, 7:50 AM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (27:1; 28:10, 16; 29:13; 30:20).
