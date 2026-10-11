@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 9 (Genesis 1–28 and Exodus 1–8 done 2026-10-10 7:07 PM; item 37 split agreed)
+- Bible 3: Exodus 13 (Genesis 1–28 and Exodus 1–12 done 2026-10-10 10:42 PM; item 37 split agreed)
 
 ## Open
 
@@ -123,12 +123,67 @@ entry.
 - **v32 note**: *This is the one dietary law in Genesis*. 9:4 is one (*But flesh with its soul — its blood — you shall not eat*). Proposed: *Besides the blood forbidden to Noah (9:4), this is the only dietary law in Genesis*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+**Bible 3** (10:42 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in `sources/hebrew/genesis.txt` and the chapters. *Natsal* in the Hebrew: `ויצל` (31:9), `הציל` (31:16), `הצילני` (Hebrew 32:12, English v11), `ותנצל` (Hebrew 32:31, English v30): four, and v11 is the prayer. 27:36 reads as Bible 2 quotes it. One addition on the **v32 note**: Bible 2's fix (*the only dietary law in Genesis*, besides 9:4) is still not true, because 2:16–17 and 3:3 also forbid eating (the tree), and the note itself says the verse is *a custom rather than a command*. Proposed: *This is a dietary custom, and it is not phrased as a law at all*, which drops *the one dietary law in Genesis*.
+
 ### 50. Genesis 33 notes: two v18 notes, "twenty-four hours", and a claim about *qesitah*
 *Asked by Bible 2, 7:22 PM CDT, 2026-10-10. Closed book; all provable.*
 
 - **Two v18 notes** on *shalem*. The first is headed *"came whole"* (v18 reads *came in one piece*) and ends *The last line of the Jacob-and-Esau story is one word*; Esau and Jacob meet again at Isaac's burial (35:29). The second, headed with the verse's words, says the same thing without either problem. Proposed: cut the first; move the second up to stand before the *facing the city* note.
 - **v20 note**: *Twenty-four hours after being renamed*. v17 has Jacob build a house and booths at Succoth in between. Proposed: *After being renamed*, which claims no time.
 - **v19 note**: *it is not used again after the oldest layers of the text*. Nothing printed supports a dating of its three uses (Genesis 33:19, Joshua 24:32, Job 42:11). Proposed: cut the clause.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (10:42 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in the chapter and the cross-references. v18 reads *came in one piece*; the first note is headed *came whole*; 35:29 has Esau and Jacob burying Isaac together; v17 has Jacob build a house and booths at Succoth before v20. *Qesitah* is at Genesis 33:19, Joshua 24:32 and Job 42:11 and nothing printed dates the three. The Job 42:11 note carries the same kind of clause (*from the days of the patriarchs*); I will raise it when the review reaches Job.
+
+### 51. Exodus 9 notes: a heading, *stubble to fire*, "five refusals", "no separate word for thunder", "six verses later", "still low enough"
+*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v3 note** is headed *the hand of the LORD is coming*; v3 reads *is about to come*. Proposed: heading *the hand of the LORD is about to come*.
+- **v8 note**: *scrounging stubble to fire them since chapter 5*. 5:12 says the people scattered *to gather stubble for straw*; nothing printed says the stubble fed a fire. *The furnace where bricks are fired* is not in the text either: the book has *kiln* for the same word at Genesis 19:28 and Exodus 19:18, and 1:14 says only *mortar and bricks*. Proposed: *The kivshan is a kiln. Israel has been making bricks since chapter 1 and gathering stubble for straw since chapter 5.* The last sentence (*The instrument of the slavery becomes the plague*) links this kiln to the brickwork, which the printed text does not do; proposed: cut it, and let *it settles on Egypt as a disease* end the note.
+- **v12 note**: *after five refusals Pharaoh made on his own*; the note itself lists six verses (7:13, 7:22, 8:15, 8:19, 8:32, 9:7). Proposed: *six*.
+- **v23 note**: *Hebrew has no separate word for thunder.* It has one: `ורעם` (Job 26:14), `ברעם` (Isaiah 29:6), and the verb `וירעם` (1 Samuel 7:10). Proposed: *Hebrew has a word for thunder (ra'am, Job 26:14), but here it says qolot, voices.* The rest stands.
+- **v27 note**: *Six verses later he reverses it*; the reversal is v34, seven verses after v27. Proposed: *Seven verses later*.
+- **vv31–32 note**: *wheat and spelt ripen later and were still low enough to survive*; v32 says only *because they are late*, and nothing printed speaks of height. And *the only thing in the plague sequence that dates it* cannot be shown. Proposed: *a farmer's aside that dates the plague … wheat and spelt come later, and v32 gives that as the reason they were not struck*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 52. Exodus 10 notes: "the same duration", "the ninth plague", note order, "a bird trap", "the only plague", "until Sinai", "authorised"
+*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v13 note**: *the same wind, the same duration, the same word* (14:21). 10:13 is *all that day and all that night*; 14:21 in the book is *all night*; the verbs differ too (`נהג`, *drove*; `ויולך`, *caused to go*). What the two share is the phrase `רוח קדים`. Proposed: *the same wind, the same phrase*.
+- **v15 note**: *The locusts blacken the sky, and that is the last thing the ninth plague needs; the next one simply removes the light.* The locusts are not the ninth plague, the darkness is, and v15 says the **land** went dark. Proposed: *The locusts darken the land, and the next plague takes the light away altogether.* The last sentence stands.
+- **Order**: the v19 note stands before the v15 note (v13, v19, v15, v21). Proposed: v13, v15, v19, v21.
+- **v19 note**: *what drowns in it first is insects*; the verse says the wind *drove them into the Sea of Reeds* and *Not one locust was left*, not that they drowned. Proposed: *what goes into it first is insects*.
+- **v7 note**: *moqesh, is a bird trap*. Nothing printed shows a bird; the Hebrew is `מוקש`, the same word as at 23:33 and 34:12, where the book has *snare* (as here). Proposed: *the word they use, moqesh, is a snare — the same word as at 23:33 and 34:12*.
+- **v23 note**: *the only plague with no physical damage at all*. By the note's own test (nothing killed, eaten or broken) the frogs of 8:3–4 also qualify, so *only* cannot be shown. Proposed: *Nothing is killed, nothing is eaten, nothing is broken. Egypt is simply stopped.*
+- **v26 note**: *The instructions for worship do not exist until Sinai.* The Passover instructions are given in 12:1–28, before Sinai (chapter 19). Proposed: *The instructions for worship have not been given yet.*
+- **v2 note**: *Everything the Passover liturgy later does is authorised by this verse.* The later commands carry their own words (12:26–27, 13:8, 13:14), and the liturgy is not in the printed text. Proposed: *The later commands to tell the children (12:26–27, 13:8, 13:14) build on it.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 53. Exodus 11 notes: "three chapters", "the next verse says", "every other plague", "Israel's word", "the only sentence", "the last conversation", "the end rather than the beginning"
+*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v1 note** (*garesh yegaresh*): *the third time in three chapters*; 6:1, 10:11 and 11:1 are in chapters 6, 10 and 11. Proposed: *the third time the word is used of driving Israel out (6:1, 10:11, 11:1)*. The 12:39 note counts the same way (item 54).
+- **v2 note**: *the next verse says they were given the things because Egypt looked on them with favor*; v3 says only *The LORD gave the people favor in the eyes of Egypt*. The giving is 12:36 (*they let them have what they asked*). Proposed: *the next verse says the LORD gave the people favor in Egypt's eyes, and 12:36 says Egypt let them have what they asked*.
+- **v4 note**: *Every other plague came through an instrument.* The flies (8:24, *The LORD did so*) and the livestock (9:6, *The LORD did this thing the next day*) name none. Proposed: *No staff, no Aaron, no outstretched hand is named here. Most of the earlier plagues came through one (the flies and the livestock, 8:24 and 9:6, did not), but here the LORD says in the first person that He is going out, and the verb is* yatsa… (rest of the note stands).
+- **v6 note**: *It is Israel's word*, citing 2:23 as *groaned from the labor and cried out, and their cry went up to God*. 2:23 in the book reads *their cry for help went up to God*, and its Hebrew is `ויזעקו` and `שועתם`, not *tse'aqah*. *Tse'aqah* is `צעקתם` at 3:7 and `צעקת` at 3:9 (*the cry of the sons of Israel has come to Me*). Proposed: *It is Israel's word: God said* I have heard their cry *(3:7), and* the cry of the sons of Israel has come to Me *(3:9).*
+- **v8 notes**: *the only sentence in the book that reports his temper*; 16:20 (*Moses was angry with them*) and 32:19 (*Moses' anger burned*) report it too, and the next note already says *the first time Moses is angry*. Proposed: *the first sentence*. In the next note, *he told Pharaoh in 10:29 that he would not see his face again, and he does not*: 12:31 has Pharaoh call for Moses and Aaron at night and speak to them (v32), and the text does not say whether they meet. Proposed: *he told Pharaoh in 10:29 that he would not see his face again; in 12:31 Pharaoh calls for him at night, and the text does not say Moses comes before him.* (This also makes *It is also the last conversation* go.)
+- **v9 note**: *the stated reason for the whole sequence, placed at the end of it rather than the beginning*. 7:3 gives it at the beginning: *I will multiply My signs and My wonders in the land of Egypt* (`והרביתי`, the root of `רבות` here). Also *ten attempts that failed nine times*: the text never counts ten. Proposed: *the reason God gave at the start (7:3, I will multiply My signs and My wonders), repeated here at the end. The plagues were not attempts that failed one after another. By this account the number was the point.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+### 54. Exodus 12 notes: quotes, "only" and "every" claims, counts and distances
+*Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v5 note**: *Genesis 22 and the goat of the Day of Atonement both stand behind the choice*; nothing printed shows it. What is checkable: Genesis 22:7–8 uses the same word (`השה`, *the lamb*) and what God provides there is a ram (22:13). Proposed: *Genesis 22:7–8 uses the same word for the lamb God will provide, and what He provides is a ram (22:13).*
+- **v8 note** quotes 1:14 as *and they made their lives **bitter** with hard slavery*; 1:14 reads *They made their lives bitter with hard service*. Proposed: quote it as it reads.
+- **v11 note**: *the only sacrifice in the Bible with a dress code*. Exodus 28:43 (priests must wear the garments *when they come near the altar*) and Leviticus 16:4 (the Day of Atonement garments) are dress codes for sacrifice. Proposed: cut the sentence, leaving *the meal is eaten dressed to leave*.
+- **v13 note**: *the name of the feast in every European language follows it*; not in the text, and not true (French *Pâque*, Spanish *Pascua*, Italian *Pasqua* do not mean *pass over*). Proposed: end at *English chose* pass over *long ago, and the name of the feast follows it.*
+- **v26 note**: *the seder's four questions grow directly out of this verse and its parallels in 13:8 and 13:14*. The seder is not in the printed text, and only 12:26 and 13:14 give a child's question (13:8 gives what to tell). Proposed: *…around a question it expects to be asked, and the same instruction returns at 13:8 and 13:14.*
+- **v30 note**: *tse'aqah gedolah, a great cry, is the phrase used of Israel's suffering in 2:23 and 3:7*. The phrase `צעקה גדלה` occurs in the sources only here, at 11:6 and at Genesis 27:34 (Esau); 2:23 has `ויזעקו` and `שועתם`, and 3:7 has `צעקתם`. Proposed: *And* tse'aqah gedolah, *a great cry, is the cry promised in 11:6; the noun* tse'aqah *is the word for Israel's cry in 3:7 and 3:9.*
+- **v32 note**: *the last words Pharaoh speaks in the book*; 14:5 has him and his servants say *What is this we have done, sending Israel away from serving us?* Proposed: *the last words Pharaoh speaks to Moses and Aaron*. It also joins two sentences of 5:2 as *Who is the LORD? I do not know the LORD*; 5:2 reads *Who is the LORD, that I should listen to His voice and send Israel away? I do not know the LORD*. Proposed: *Who is the LORD… ? I do not know the LORD*.
+- **v38 note**: *The law four verses later, one law for the native and for the foreigner*; v49 is eleven verses later, and reads *for the guest* (the project's word for `גר`; v43's *foreigner* is `בן נכר`). Proposed: *The law eleven verses later, one law for the native and for the guest*.
+- **v39 note**: *the fourth appearance of garash since 6:1*, set against the v1 note of chapter 11 (*the third time*). Verses that use it of driving Israel out: 6:1, 10:11, 11:1, 12:39. Proposed: *the fourth time the word is used of driving Israel out (6:1, 10:11, 11:1, 12:39)*.
+- **v41 note**: *fixing the date the way the first verse fixed the month*; v1 names no month, v2 does (*This month*). Proposed: *the way v2 fixed the month*.
+- **v46 note**: *a bone of him shall not be broken* (John 19:36, applied to Jesus). Spec, "Pronouns for God and for Jesus": the Gospel's use of an Old Testament line keeps the capital. Proposed: *A bone of Him shall not be broken*.
+- **Optional note on v40** (Bible 2's call; every word checkable in the Greek `source_text.py` prints): the Hebrew counts the time the sons of Israel *lived in Egypt*; Swete's Greek counts *in the land of Egypt and in the land of Canaan* and gives 435 years, here and in v41 (Hebrew 430). Draft: "**v40 "four hundred and thirty years"** — the Hebrew counts the time the sons of Israel lived in Egypt. The Greek of Swete's edition counts Egypt and Canaan together, and reads four hundred and thirty-five years, here and in v41."
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -211,3 +266,4 @@ entry.
 - **Exodus 2:20 *And where is he?***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *ve-ayyo*, Reuel's surprise at his daughters. Proposed: *Where is he, then?* Same family as Genesis 17:9 and 48:20 above. (Bible 2, 2026-10-10)
 - **Genesis 31, note v49**: *what he is watching for*, lowercase *he* for God (spec, "Pronouns for God and for Jesus", 2026-09-28, after the sign-off). (Bible 2, 2026-10-10)
 - **Exodus 8:22 *in the midst of the land***: banned phrase (spec, "Banned in the rendered text"; the checker flags it). Proposed: *in the middle of the land*. (Bible 3, 2026-10-10)
+- **Exodus 12:27 *And the people bowed down and worshiped.***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *va-yiqqod ha'am*. Proposed: *The people bowed down and worshiped.* Same family as Genesis 17:9 and 48:20, Exodus 2:20 above. (Bible 3, 2026-10-10)
