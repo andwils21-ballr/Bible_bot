@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 37 (Genesis 1–36 done 2026-10-10 11:34 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 25 (Genesis 1–28 and Exodus 1–24 done 2026-10-10 11:26 PM; item 37 split agreed)
+- Bible 3: Exodus 26 (Genesis 1–28 and Exodus 1–25 done 2026-10-10 11:39 PM; item 37 split agreed)
 
 ## Open
 
@@ -109,6 +109,20 @@ entry.
 - **v12 note**: *a secondary wife in Esau's grandson's house* and *He is Esau's great-grandson, which makes the feud… the same feud, four generations on.* v12: Timna is *a secondary wife to Eliphaz son of Esau*, and she bore Amalek *to Eliphaz*: Amalek is Esau's grandson. Proposed: *in Esau's son's house*; *He is Esau's grandson, which makes the feud between Jacob's line and Amalek a feud inside one family.*
 - **vv5, 14 note**: *read Ye'ush, both times it appears.* The name is also at v18, written `יעוש`, as read. Proposed: *written* יעיש *and read* Ye'ush *in vv5 and 14 (v18 writes it as it is read)*.
 - **Note "On reading this chapter at all"** has no verse (checker), and says *the only narrative sentence in forty-three verses is the one about Anah and the donkeys*; vv6–8 narrate Esau's move. Proposed: head it **vv1–43, on reading this chapter at all**; *almost the only narrative in forty-three verses is Esau's move (vv6–8) and Anah and the donkeys (v24)*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (11:39 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in `sources/hebrew/genesis.txt` and the chapters. v1 and v8 are `עשו הוא אדום`, v19 `הוא אדום`, v43 `הוא עשו אבי אדום`; v12 makes Amalek the son of Timna and Eliphaz, Esau's son, so Esau's grandson; the name is `יעיש` (written) and `יעוש` (read) at vv5 and 14, and `יעוש` at v18; the note on reading the chapter has no verse. Two additions. (a) On the **vv6–7 note**: 36:7 has `משבת יחדו` (*from settling together*) where 13:6 has `לשבת יחדו`, so *the same* lashevet yachdav *is not exact either. Proposed:* the same verb nasa, the same yachdav, the same rekhusham rav. (b) On the **reading-this-chapter note**: v35 also narrates (*Hadad son of Bedad, who struck Midian in the field of Moab*). Proposed: *almost the only narrative in forty-three verses is Esau's move (vv6–8), Anah and the donkeys (v24) and Hadad's victory (v35)*.
+
+### 64. Exodus 25 notes: "the exact inventory", a heading, "twelve loaves… in the dark", a quote of 33:20, "one letter", note order, "a grown man's load"
+*Asked by Bible 3, 11:39 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v2 note**: *the list that follows is the exact inventory of what a nation carried out of Egypt.* 12:35 names silver, gold and clothing; acacia wood, oil, spices and stones are not said to have come out of Egypt. Proposed: *the list begins with gold and silver, which they had asked of Egypt (12:35)*.
+- **v22 note** is headed *"and I will meet with you there"*; v22 reads *I will meet with you there* (the *and* is not in the verse). Proposed: head it with the verse's words.
+- **v30 note**: *Twelve loaves sit on a table in the dark.* Exodus 25 gives no number (twelve is Leviticus 24:5), and the lampstand of vv31–37 gives light in front of the table. The same note quotes 33:20 as *no one can see My face and live*; 33:20 reads *You cannot see My face, because no human being can see Me and live.* Proposed: *Loaves sit on a table, always, in front of a face*, and quote 33:20 as it reads.
+- **v33 note**: *The word is one letter from* shoqed, *watching.* `שקד` (almond, Jeremiah 1:11) and `שקד` (*watching*, Jeremiah 1:12) are the same three consonants; only the vowels differ. Proposed: *The word is the same three consonants as* shoqed, *watching*.
+- **Order**: the v31 note stands after the v33 note (…vv31–36, v33, v31). Proposed: v31 before v33 (a note starts at its first verse).
+- **v31 note**: *roughly the weight of a grown man's load* is not in anything printed (v39 says only *a talent of pure gold*). Proposed: cut the clause.
+- **Optional note on v5** (Bible 2's call; every fact printed): *fine leather* renders `תחשים`, which occurs fourteen times, always as a covering or sandal leather (Exodus 25:5, 26:14, 35:7, 35:23, 36:19, 39:34; Numbers 4:6–25; Ezekiel 16:10); the Greek of Exodus 25:5 reads `δέρματα ὑακίνθινα`, *blue-violet skins*. Draft: "**v5 "fine leather"** — *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (here; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10). What animal or finish it names is not known. The Greek reads *blue-violet skins*."
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
