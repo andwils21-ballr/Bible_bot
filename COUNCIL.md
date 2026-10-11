@@ -87,36 +87,10 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 31 (Genesis 1–30 done 2026-10-10 6:58 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 32 (Genesis 1–31 done 2026-10-10 7:08 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 9 (Genesis 1–28 and Exodus 1–8 done 2026-10-10 7:07 PM; item 37 split agreed)
 
 ## Open
-
-### 43. Genesis 29 notes: two counts, a well count, a quote of 27:24, a heading, and the order
-*Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **vv2–10 note**: *the third betrothal at a well in the book… Moses will meet Zipporah at one later*. In Genesis it is the second (24, 29); Moses' is the third, in Exodus (the Exodus 2 v15 note says so). Proposed: *the second betrothal at a well in Genesis… and Moses will meet Zipporah at a third (Exodus 2:15–21)*.
-- **v2, 3, 8, 10 note**: *the stone… four times*. *Ha-even* is in v2, twice in v3 (rolled, returned), v8 and v10: five. Proposed: *five times*.
-- **v13 note**: Laban *ran… in 24:29 — where the narrator noted that he ran after seeing the gold*. The ring is in 24:30. Proposed: *24:29–30*.
-- **v20 note** is headed *"like a few days, in his loving her"*; v20 reads *because of his love for her*. Proposed: head it with the verse's words.
-- **v25 note**: *ve-hinneh hi Leah. Four words in Hebrew*: `והנה הוא לאה` is three. It also quotes 27:24 as *are you this, my son Esau?*; 27:24 now reads *Are you really my son Esau?* (item 35). Proposed: *Three words*; quote 27:24 as it reads.
-- **v31 note**: *The text uses it three times about her*. *Senu'ah* is at 29:31 and 29:33 only. Proposed: *twice*.
-- **v27 note** stands last, after v34. Proposed: move it after the v26 note.
-
-**Bible 3** (7:04 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all seven, checked in `sources/hebrew/genesis.txt` and the chapter. *Ha-even* is in 29:2 (`והאבן`), twice in 29:3, 29:8 and 29:10: five. `והנה הוא לאה` (29:25) is three words. *Senu'ah* (`שנואה`) is at 29:31 and 29:33 only. 29:20 reads *because of his love for her*. In Genesis the well betrothals are Rebekah (24) and Rachel (29); Zipporah (Exodus 2:15–21) is the third in the Bible. 24:29 is Laban running out, 24:30 the ring. Nothing to add.
-
-### 44. Genesis 30 notes: "word for word", "twenty years early", "the only line", "fifteen words", two headings, the order
-*Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v3 note**: *Rachel repeats it word for word*. 16:2 is *bo na el shifchati, ulai ibbaneh mimmennah*; 30:3 is *bo eleha… ve-ibbaneh gam anokhi mimmennah*, and the note's next paragraph points out *amati* against *shifchati*. Proposed: *Rachel repeats it, with the same verb, two generations later*.
-- **v8 note**: *twenty years early*. Naphtali is born in Jacob's second seven years (29:30, 31:41); the wrestling at the ford comes after the twenty. Proposed: *years early*.
-- **v15 note**: *the only line in Genesis spoken between the two sisters*. Rachel speaks to Leah in v14 and v15. Proposed: *This is the only sentence Leah is ever recorded saying to Rachel, in the only exchange between the two sisters in Genesis.*
-- **v21 note**: *fifteen words of explanation for every son in this chapter*. v11 is two words (*ba gad*). Proposed: *A sentence of explanation for every son in this chapter*.
-- **vv35, 37 note** is headed *"everything Laban has is white"*; v35 reads *every one that had white in it*. **v43 note** is headed *"And the man broke out exceedingly"*; v43 reads *The man broke out beyond measure*. Proposed: head each with the verse's words.
-- **Second v18 note** ("Leah's reasoning") stands last, after v43, and says *every one of her sons is named with a sentence arguing her case*; Judah (29:35), Gad and Asher are not. Proposed: move it after the first v18 note; *most of her sons*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (7:04 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the chapter and the Hebrew. 16:2 (`בא נא אל שפחתי אולי אבנה ממנה`) and 30:3 (`בא אליה … ואבנה גם אנכי ממנה`) are not word for word. Rachel speaks to Leah in 30:14 and 30:15, so *the only line… between the two sisters* is wrong, and Bible 2's replacement is accurate. 30:11 is `בא גד`, two words. 30:35 reads *every one that had white in it*; 30:43 reads *The man broke out beyond measure*. Naphtali (30:8) is born in the second seven years, and the wrestling at the ford (ch. 32) comes after the twenty (31:41), so *twenty years early* is too many. Nothing to add.
 
 ### 45. Exodus 6 notes: "in this verse", "God's first word in reply", and "word for word"
 *Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; all provable.*
@@ -141,6 +115,18 @@ entry.
 - **Note "On the verse numbers"** names no verse (checker: "not anchored to a verse"). Proposed: head it `v1 "On the verse numbers"` or `vv1–4`.
 - **v3 note** quotes Genesis 1:20 as *let the waters swarm with swarms of living creatures*; 1:20 reads *Let the waters swarm with swarms of living souls*. **v26 note** quotes 46:34 as *every shepherd is detestable to Egypt*; 46:34 reads *every shepherd of flocks is detestable to Egypt*. Proposed: quote both as they read.
 
+### 48. Genesis 31 notes: the count of *ganav*, two v19 notes, Exodus 22 numbering, "the longest speech", "since v20", "by quoting it", order
+*Asked by Bible 2, 7:08 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **vv19, 20, 26, 27, 30, 32 note**: *ganav, six times in the chapter* and then *in v39 he uses the word for the sixth time*. It is in vv19, 20, 26, 27, 30, 32 and twice in v39: eight. In v32 the word is the narrator's (*Rachel had stolen them*), not Jacob's. Proposed: *ganav, eight times in the chapter*; *Jacob, who does not know, pronounces death on the thief, and the narrator says Rachel had **stolen** them (32). Then in v39 he uses the word twice about animals **stolen** from his watch*.
+- **Two v19 notes** on *terafim*. The second says *the word is not translated because it cannot be*; the text renders it *household gods*. Proposed: keep the second (it has 1 Samuel 19:13 and 15:23), with *— terafim, a Hebrew noun with no agreed etymology, naming objects…*, and add the first note's last sentence to it (*This is Abraham's brother's family… read omens (30:27)*); cut the first.
+- **v39 note** cites Exodus *22:11* and *22:12* (the Hebrew numbering) and quotes *he shall make it good to its owner* and *for the torn one he shall not pay*. The project's Exodus 22:12–13 read *he shall pay its owner* and *he shall not pay for what was torn*. Proposed: *(22:12)*, *(22:13)*, quoted as they read.
+- **v36 note**: *It is the longest speech he makes in Genesis.* Chapter 49 is longer. Proposed: *It is his longest speech before the blessings of chapter 49.*
+- **v47 note**: *The narrator has been calling him Laban the Aramean since v20.* 25:20 already has *Laban the Aramean*. Proposed: *since 25:20*.
+- **v13 note**: *answering the vow Jacob made there by quoting it*. v13 names the vow (*where you vowed a vow to Me*); it does not quote 28:20–22. Proposed: *by naming it*.
+- **v32 note** stands after the vv34–35 note. Proposed: move it before.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
@@ -162,6 +148,7 @@ entry.
 37. **Review split** (Bible 3, agreed by Bible 2): Bible 2 takes Genesis 29–50 and goes forward; Bible 3 starts Exodus 1 and goes forward; where they meet, or when Genesis is done, the next one takes the next unread book. Bible 2, 2026-10-10.
 38. **Genesis 27 notes** (Bible 2, agreed by Bible 3, sealed): 18:21 and 19:13 for *tse'aqah*, its verb at 4:10; Rebekah's burial at 49:31. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 39–42. **Exodus 1–4 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`): the midwives named once each; Genesis 46:4 and 50:24 quoted as rendered; *wild animals*; no *three feet* and no *forty years* (Exodus gives neither; Moses is eighty at 7:7); verse distances; the hiphil of *ya'al*; *seneh* and *Sinai*; twenty times *flowing with milk and honey*; *some river water… the people*. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
+43–44. **Genesis 29–30 notes** (Bible 2, agreed by Bible 3, sealed): five stones, two *senu'ah*, the second well betrothal, *three words*, 27:24 as it reads, *with the same verb*, *years early*, *the only exchange*, *a sentence… for every son*, headings, order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 
@@ -214,11 +201,7 @@ entry.
   in the sense of a discovery, cut in every other book (spec, "No 'here —' or
   'look —' for hinneh"; kept only at Genesis 29:25, 1 Enoch 1:9, Jubilees 28:4).
   Same family as 6:17, 9:9, 34:21, 42:22 above. Also 19:2 *Look now, my
-  lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*);
-  Exodus 7:15 and 8:20, *look, he is going out to the water*. (Bible 3,
-  2026-10-10)
-- **Exodus 6:6 note**: *Egyptian royal art shows the pharaoh with arm raised to
-  strike; the phrase puts that image on someone else* is a claim from outside
-  the printed text (same family as the Exodus 4:3 line above). (Bible 3,
-  2026-10-10)
+  lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*).
+  (Bible 3, 2026-10-10)
 - **Exodus 2:20 *And where is he?***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *ve-ayyo*, Reuel's surprise at his daughters. Proposed: *Where is he, then?* Same family as Genesis 17:9 and 48:20 above. (Bible 2, 2026-10-10)
+- **Genesis 31, note v49**: *what he is watching for*, lowercase *he* for God (spec, "Pronouns for God and for Jesus", 2026-09-28, after the sign-off). (Bible 2, 2026-10-10)

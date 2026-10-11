@@ -2,6 +2,27 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 29–30 (council 43–44, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking each against the chapter and the Hebrew (`COUNCIL.md`, items 43–44). Genesis is closed; each is a count, quotation, heading or claim the text does not bear out, or a note out of verse order.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 29, note vv2–10 | the third betrothal at a well in the book: … and Moses will meet Zipporah at one later. | the second betrothal at a well in Genesis: … and Moses will meet Zipporah at a third (Exodus 2:15–21). |
+| Genesis 29, note v2, 3, 8, 10 | four times | five times |
+| Genesis 29, note v13 | as he ran in 24:29 | as he ran in 24:29–30 |
+| Genesis 29, note v20 | **"like a few days, in his loving her"** | **"like a few days, because of his love for her"** |
+| Genesis 29, note v25 | Four words in Hebrew. … *are you this, my son Esau?* | Three words in Hebrew. … *are you really my son Esau?* |
+| Genesis 29, note v31 | uses it three times about her | uses it twice about her (vv31, 33) |
+| Genesis 29, note v27 | after the v34 note | after the v26 note |
+| Genesis 30, note v3 | Rachel repeats it word for word two generations later. | Rachel repeats it, with the same verb, two generations later. |
+| Genesis 30, note v8 | twenty years early | years early |
+| Genesis 30, note v15 | and the only line in Genesis spoken between the two sisters | in the only exchange between the two sisters in Genesis |
+| Genesis 30, note v21 | fifteen words of explanation for every son | a sentence of explanation for every son |
+| Genesis 30, note vv35, 37 | **"everything Laban has is white"** | **"every one that had white in it"** |
+| Genesis 30, note v43 | **"And the man broke out exceedingly"** | **"The man broke out beyond measure"** |
+| Genesis 30, second note on v18 | after the v43 note; every one of her sons is named | after the first v18 note; most of her sons are named |
+
 ## Notes corrected in Genesis 27 (council 38, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew (`COUNCIL.md`, item 38). Genesis is closed; both are claims the text does not bear out (18:20 has *za'aqat*; *tse'aqah* is at 18:21 and 19:13; 4:10 has the verb; 49:31 reports Rebekah's burial).
