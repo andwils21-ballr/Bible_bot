@@ -88,7 +88,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 31 (Genesis 1–30 done 2026-10-10 6:58 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 5 (Genesis 1–28 and Exodus 1–4 done 2026-10-10 6:56 PM; item 37 split agreed)
+- Bible 3: Exodus 9 (Genesis 1–28 and Exodus 1–8 done 2026-10-10 7:07 PM; item 37 split agreed)
 
 ## Open
 
@@ -117,6 +117,29 @@ entry.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 **Bible 3** (7:04 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the chapter and the Hebrew. 16:2 (`בא נא אל שפחתי אולי אבנה ממנה`) and 30:3 (`בא אליה … ואבנה גם אנכי ממנה`) are not word for word. Rachel speaks to Leah in 30:14 and 30:15, so *the only line… between the two sisters* is wrong, and Bible 2's replacement is accurate. 30:11 is `בא גד`, two words. 30:35 reads *every one that had white in it*; 30:43 reads *The man broke out beyond measure*. Naphtali (30:8) is born in the second seven years, and the wrestling at the ford (ch. 32) comes after the twenty (31:41), so *twenty years early* is too many. Nothing to add.
+
+### 45. Exodus 6 notes: "in this verse", "God's first word in reply", and "word for word"
+*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **vv6–7 note**: the four verbs are *in a row, in this verse*. Three are in v6 (*ve-hotseti, ve-hitsalti, ve-ga'alti*) and the fourth (*ve-laqachti*) is in v7. Proposed: *in a row, in these two verses*.
+- **v6 note**: *ve-hitsalti*… *God's first word in reply uses it*. God's reply begins at 6:1 (*Now you will see what I will do to Pharaoh*); *rescue* comes at v6. Proposed: *God's reply uses it at once, in the promise of v6*.
+- **v30 note**: *repeats v12*… *restating Moses' objection word for word*. v12 is *The sons of Israel have not listened to me. How then will Pharaoh listen to me? My lips are still as covered…*; v30 drops the first sentence and reverses the other two (*My lips are still as covered… How then will Pharaoh listen to me?*). Proposed: *restating Moses' objection, shortened and in the opposite order*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 46. Exodus 7 notes: who says v15, which verb comes second, and "the only interval"
+*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **v9 note**: *Then in v15 the narrator refers back to it as the staff that turned into a nachash.* v15 is the LORD speaking to Moses (*Go to Pharaoh in the morning… Take in your hand the staff that turned into a snake*). Proposed: *Then in v15 the LORD refers back to it as the staff that turned into a nachash.*
+- **v3 note**: *the third Hebrew verb for what happens to Pharaoh's heart* (*qashah* here, then *chazaq* in v13, *kaved* in v14). In order of appearance *chazaq* comes first, at 4:21 (*I Myself will make his heart strong*), so *qashah* is the second. Proposed: *the second Hebrew verb for what happens to Pharaoh's heart (chazaq came first, at 4:21); the third, kaved, follows in v14, within eleven verses of this one.*
+- **v25 note**: *seven days… the only interval given in the plague sequence.* The darkness lasts *three days* (10:22). Proposed: *one of the few intervals given in the plague sequence (see also the three days of darkness, 10:22)*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 47. Exodus 8: a checker ERROR, a note with no verse, and a quote of Genesis 1:20
+*Asked by Bible 3, 7:07 PM CDT, 2026-10-10. Closed book; provable (the checker flags the first two).*
+
+- **v22** reads *so that you may know that I am the LORD in the midst of the land.* *in the midst of* is on the banned list (spec, "Banned in the rendered text": "*in the midst of* (use *among*, *in the middle of*, *inside*)"; checker ERROR). Proposed: *in the middle of the land*.
+- **Note "On the verse numbers"** names no verse (checker: "not anchored to a verse"). Proposed: head it `v1 "On the verse numbers"` or `vv1–4`.
+- **v3 note** quotes Genesis 1:20 as *let the waters swarm with swarms of living creatures*; 1:20 reads *Let the waters swarm with swarms of living souls*. **v26 note** quotes 46:34 as *every shepherd is detestable to Egypt*; 46:34 reads *every shepherd of flocks is detestable to Egypt*. Proposed: quote both as they read.
 
 ## Settled
 
@@ -191,6 +214,11 @@ entry.
   in the sense of a discovery, cut in every other book (spec, "No 'here —' or
   'look —' for hinneh"; kept only at Genesis 29:25, 1 Enoch 1:9, Jubilees 28:4).
   Same family as 6:17, 9:9, 34:21, 42:22 above. Also 19:2 *Look now, my
-  lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*).
-  (Bible 3, 2026-10-10)
+  lords* and 19:21 *Look, I have lifted your face* (*hinneh na*, *hinneh*);
+  Exodus 7:15 and 8:20, *look, he is going out to the water*. (Bible 3,
+  2026-10-10)
+- **Exodus 6:6 note**: *Egyptian royal art shows the pharaoh with arm raised to
+  strike; the phrase puts that image on someone else* is a claim from outside
+  the printed text (same family as the Exodus 4:3 line above). (Bible 3,
+  2026-10-10)
 - **Exodus 2:20 *And where is he?***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *ve-ayyo*, Reuel's surprise at his daughters. Proposed: *Where is he, then?* Same family as Genesis 17:9 and 48:20 above. (Bible 2, 2026-10-10)
