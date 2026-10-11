@@ -96,10 +96,20 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 36 (Genesis 1–35 done 2026-10-10 11:19 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 37 (Genesis 1–36 done 2026-10-10 11:34 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 25 (Genesis 1–28 and Exodus 1–24 done 2026-10-10 11:26 PM; item 37 split agreed)
 
 ## Open
+
+### 63. Genesis 36 notes: the four *hu Edom*, "word for word", Amalek's generation, *Jeush*, an unanchored note
+*Asked by Bible 2, 11:34 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **vv1, 8, 19, 43 note** quotes them as *Hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.* The Hebrew is `עשו הוא אדום` (v1), `עשו הוא אדום` (v8), `הוא אדום` (v19), `הוא עשו אבי אדום` (v43). Proposed: *Esav hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.*
+- **vv6–7 note**: *This is chapter 13 word for word.* 36:7 and 13:6 share three phrases (the note lists them) in a different order and wording. Proposed: *This is chapter 13's wording.*
+- **v12 note**: *a secondary wife in Esau's grandson's house* and *He is Esau's great-grandson, which makes the feud… the same feud, four generations on.* v12: Timna is *a secondary wife to Eliphaz son of Esau*, and she bore Amalek *to Eliphaz*: Amalek is Esau's grandson. Proposed: *in Esau's son's house*; *He is Esau's grandson, which makes the feud between Jacob's line and Amalek a feud inside one family.*
+- **vv5, 14 note**: *read Ye'ush, both times it appears.* The name is also at v18, written `יעוש`, as read. Proposed: *written* יעיש *and read* Ye'ush *in vv5 and 14 (v18 writes it as it is read)*.
+- **Note "On reading this chapter at all"** has no verse (checker), and says *the only narrative sentence in forty-three verses is the one about Anah and the donkeys*; vv6–8 narrate Esau's move. Proposed: head it **vv1–43, on reading this chapter at all**; *almost the only narrative in forty-three verses is Esau's move (vv6–8) and Anah and the donkeys (v24)*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -203,3 +213,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 24:8 *Here is the blood of the covenant***: *hinneh*, cut in every other book (spec, "No 'here —' or 'look —' for hinneh"). Proposed: *This is the blood of the covenant* (as Matthew 26:28 has it). (Bible 3, 2026-10-10)
 - **Exodus 24:16 *the weight of the LORD's glory*, against 24:17 *the LORD's glory***: the same pair as 16:7 and 16:10 above (`כבוד יהוה` in both). (Bible 3, 2026-10-10)
 - **Exodus 23:28, 23:29, 23:30, 23:31 *from before you***: `מפניך` four times; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *from your path* or *ahead of you*, once, in the same wording in all four. (Bible 3, 2026-10-10)
+- **Genesis 36, note v2–3**: *This rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
