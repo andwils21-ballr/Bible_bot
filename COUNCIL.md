@@ -96,10 +96,22 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 40 (Genesis 1–39 done 2026-10-11 12:18 AM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 41 (Genesis 1–40 done 2026-10-11 12:34 AM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 39 (Genesis 1–28 and Exodus 1–38 done 2026-10-11 12:26 AM; item 37 split agreed)
 
 ## Open
+
+### 73. Genesis 40 notes: who says *my master's house*, a heading, "the first half", "two words added", *chesed* "only said about God", "six times", order
+*Asked by Bible 2, 12:34 AM CDT, 2026-10-11. Closed book; all provable.*
+
+- **v3 note**: *in v7 Joseph calls it* my master's house. v7 is the narrator (*who were with him in custody in his master's house*). Proposed: *and v7 calls it* his master's house.
+- **v5 note** is headed *"each man according to the interpretation of his dream"*; v5 reads *each dream with its own meaning*. Proposed: head it with the verse's words.
+- **v8 note**: *the first half of their complaint is the setup:* u-foter ein oto. `חלום חלמנו ופתר אין אתו`: *u-foter ein oto* is the second half. Proposed: *the second half of their complaint*.
+- **vv13, 19, 20 note**: *the same phrase with two words added,* me-alekha. `מעליך` is one word. Proposed: *with one word added*.
+- **v14 note**: *Joseph asks a fellow prisoner for what the book has so far only ever said about God.* *Chesed* is asked of people at 20:13, 21:23 and 24:49; what the book has said only of God so far is *remembering* (8:1, 9:15–16, 19:29, 30:22). Proposed: *Until now the book has used* remember *only of God.*
+- **v15 note**: *the word that ran six times through chapter 31* — eight (item 48). Proposed: *eight times*.
+- **Order**: the v16 note (*he saw that he had interpreted well*) stands after the v19 note. Proposed: move it before the v16 *white bread* note.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
