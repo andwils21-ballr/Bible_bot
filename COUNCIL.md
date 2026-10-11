@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 35 (Genesis 1–34 done 2026-10-10 11:05 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 17 (Genesis 1–28 and Exodus 1–16 done 2026-10-10 10:59 PM; item 37 split agreed)
+- Bible 3: Exodus 19 (Genesis 1–28 and Exodus 1–18 done 2026-10-10 11:09 PM; item 37 split agreed)
 
 ## Open
 
@@ -108,6 +108,25 @@ entry.
 - **v4 note**: *Shechem… does not use the word he used in v3*. In v3 *ha-na'ara* is the narrator's word; Shechem first speaks in v4. Proposed: *does not use the narrator's word from v3*.
 - **v25 "Simeon and Levi" note**: *Of the four who could claim that, the two who act are the second and third.* Leah has six sons (29:32–35, 30:17–20). Proposed: *Of the six who could claim that*. The same note quotes 49:5 as *weapons of violence are their trade*; 49:5 reads *instruments of violence are their trade*.
 - **v21 note** quotes 33:18 as *Jacob came **whole** to the city of Shechem*; 33:18 reads *Jacob came in one piece to the city of Shechem*. Proposed: quote it as it reads.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (11:09 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked in the chapters. v7 reads *the news cut them deeply*; in v3 *the girl* is the narrator's word and Shechem first speaks in v4 (*this child*); Leah's sons are Reuben, Simeon, Levi, Judah (29:32–35), Issachar and Zebulun (30:17–20), six, and Simeon and Levi are the second and third; 49:5 reads *instruments of violence are their trade*; 33:18 reads *Jacob came in one piece to the city of Shechem*.
+
+### 59. Exodus 17–18 notes: a quote, "my thirst", "six words", an unanchored note, "in every plague", "first son", what the Greek does at 18:11, "six verses earlier", "nothing about authority"
+*Asked by Bible 3, 11:09 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 17**
+- **v3 note**: *my children, my cattle, my thirst.* The verse has *my children and my livestock* and then *with thirst*, not *my thirst*. Proposed: *my children, my livestock*.
+- **v7 note**: *six words in Hebrew.* `הֲיֵשׁ יְהוָה בְּקִרְבֵּנוּ אִם אָיִן` is five words. Proposed: *five words*.
+- **v8 note** quotes Deuteronomy 25:17–18 as *he met you on the way and struck at your rear, all the stragglers behind you, when you were faint and weary*; the book reads *he met you on the way and cut off at your rear all who were lagging behind you, when you were faint and weary*. Proposed: quote it as it reads.
+
+**Exodus 18**
+- **Unanchored note** *"Moses' father-in-law"* (the checker flags it). `חתן`/`חתנו`/`חתנך` is in vv1, 2, 5, 6, 7, 8, 12 (twice), 14, 15, 17, 24 and 27: thirteen, as the note says. Proposed: head it **v1 "Moses' father-in-law"**.
+- **v2 note**: *the verb Moses shouted at Pharaoh in every plague: send my people away.* The gnats (8:16–19) and the boils (9:8–12) have no such demand, and nothing is shouted. Proposed: *the verb Moses brought to Pharaoh again and again: send my people away*.
+- **vv3–4 note**: *Moses named his first son for exile and his second for rescue, in that order.* Verses 3–4 say *the one* and *the other*, and 2:22 does not say Gershom was the first. Proposed: *Moses named one son for exile and the other for rescue*.
+- **v11 note**: *the Greek does not supply one either; the oldest translation is as stranded as the original.* The Greek that `source_text.py` prints reads `ἕνεκεν τούτου ὅτι ἐπέθεντο αὐτοῖς`, *because of this, that they set upon them*, a finished clause. Proposed: *The Greek finishes it,* because of this, that they set upon them*; the Hebrew breaks off.*
+- **v18 note**: *Moses' heavy hands six verses earlier.* The hands are at 17:12, in the chapter before. Proposed: *Moses' heavy hands at 17:12*.
+- **v22 note**: *Nothing is said about authority or rank.* v21 and v25 name the ranks (*officers of thousands, officers of hundreds…*, *heads over the people*). Proposed: *The ranks come in v21, but the reason the speech gives is weight.*
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
