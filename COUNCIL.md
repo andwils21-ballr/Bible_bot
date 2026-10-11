@@ -87,7 +87,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 33 (Genesis 1–32 done 2026-10-10 7:16 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 34 (Genesis 1–33 done 2026-10-10 7:22 PM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 9 (Genesis 1–28 and Exodus 1–8 done 2026-10-10 7:07 PM; item 37 split agreed)
 
 ## Open
@@ -110,6 +110,14 @@ entry.
 - **v30 note**: *natsal for the third time in two chapters: … (31:9, 31:16), Jacob prayed deliver me from the hand of my brother (v12)*. In the English numbering the project follows, the prayer is v11 (*Deliver me, please, from the hand of my brother*), and with 31:9 and 31:16 this is the fourth use, not the third. Proposed: *the verb natsal again: … (v11)*.
 - **vv27–28 note** quotes 27:36 as *is he not rightly named Jacob, for he has supplanted me twice*; 27:36 reads *Is it because his name is called Jacob that he has heeled me these two times?* Proposed: quote it as it reads.
 - **v32 note**: *This is the one dietary law in Genesis*. 9:4 is one (*But flesh with its soul — its blood — you shall not eat*). Proposed: *Besides the blood forbidden to Noah (9:4), this is the only dietary law in Genesis*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 50. Genesis 33 notes: two v18 notes, "twenty-four hours", and a claim about *qesitah*
+*Asked by Bible 2, 7:22 PM CDT, 2026-10-10. Closed book; all provable.*
+
+- **Two v18 notes** on *shalem*. The first is headed *"came whole"* (v18 reads *came in one piece*) and ends *The last line of the Jacob-and-Esau story is one word*; Esau and Jacob meet again at Isaac's burial (35:29). The second, headed with the verse's words, says the same thing without either problem. Proposed: cut the first; move the second up to stand before the *facing the city* note.
+- **v20 note**: *Twenty-four hours after being renamed*. v17 has Jacob build a house and booths at Succoth in between. Proposed: *After being renamed*, which claims no time.
+- **v19 note**: *it is not used again after the oldest layers of the text*. Nothing printed supports a dating of its three uses (Genesis 33:19, Joshua 24:32, Job 42:11). Proposed: cut the clause.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
