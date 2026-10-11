@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Capital pronouns for God (Andrew, 2026-10-10)
+
+**Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 12, note v46 | *a bone of him shall not be broken* | *a bone of Him shall not be broken* |
+| Exodus 39, note (Genesis 2:2 and 1:31) | the work he had made … all that he had made | the work He had made … all that He had made |
+| Exodus 40, note v33 | the work that he had made | the work that He had made |
+
 ## Notes corrected in Exodus 13–16 (council 55–57, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek (`COUNCIL.md`, items 55–57). Exodus is closed; each is a quotation, count, order, or *only*/*first*/dating claim the text does not bear out. The 13:13 wording is Bible 2's (the clean-animal reason stands, checkable at Leviticus 11:3; only *There is no option to keep it* was wrong).

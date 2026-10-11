@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Capital pronouns for God (Andrew, 2026-10-10)
+
+**Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 31:13 | where you made a vow to me | where you made a vow to Me |
+| Genesis 31, note v49 | what he is watching for | what He is watching for |
+| Genesis 34, note v7 | that he made humanity | that He made humanity |
+| Genesis 35, note v1 | God identifies himself | God identifies Himself |
+
 ## Notes corrected in Genesis 31–33 (council 48–50, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 and Bible Main after checking each against the chapters and the Hebrew (`COUNCIL.md`, items 48–50). Genesis is closed; each is a count, quotation, verse number or claim the text does not bear out, a duplicate note, or a note out of order. Two wordings follow Bible 3's additions: 31:5–13 (to Rachel and Leah) is longer than 31:36–42, and 2:16–17 also forbids eating, so neither *longest… before chapter 49* nor *the only dietary law besides 9:4* would be true.

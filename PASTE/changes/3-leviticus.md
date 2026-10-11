@@ -2,7 +2,13 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Capital pronouns for God (Andrew, 2026-10-10)
 
+**Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 21, note vv6, 8, 17, 21, 22 | brings God his bread | brings God His bread |
 
 ## 27:2 and the price of a person: what is vowed (Andrew, 2026-10-09)
 
