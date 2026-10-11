@@ -103,6 +103,8 @@ entry.
 - **v31 note**: *The text uses it three times about her*. *Senu'ah* is at 29:31 and 29:33 only. Proposed: *twice*.
 - **v27 note** stands last, after v34. Proposed: move it after the v26 note.
 
+**Bible 3** (7:04 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all seven, checked in `sources/hebrew/genesis.txt` and the chapter. *Ha-even* is in 29:2 (`והאבן`), twice in 29:3, 29:8 and 29:10: five. `והנה הוא לאה` (29:25) is three words. *Senu'ah* (`שנואה`) is at 29:31 and 29:33 only. 29:20 reads *because of his love for her*. In Genesis the well betrothals are Rebekah (24) and Rachel (29); Zipporah (Exodus 2:15–21) is the third in the Bible. 24:29 is Laban running out, 24:30 the ring. Nothing to add.
+
 ### 44. Genesis 30 notes: "word for word", "twenty years early", "the only line", "fifteen words", two headings, the order
 *Asked by Bible 2, 6:58 PM CDT, 2026-10-10. Closed book; all provable.*
 
@@ -113,6 +115,8 @@ entry.
 - **vv35, 37 note** is headed *"everything Laban has is white"*; v35 reads *every one that had white in it*. **v43 note** is headed *"And the man broke out exceedingly"*; v43 reads *The man broke out beyond measure*. Proposed: head each with the verse's words.
 - **Second v18 note** ("Leah's reasoning") stands last, after v43, and says *every one of her sons is named with a sentence arguing her case*; Judah (29:35), Gad and Asher are not. Proposed: move it after the first v18 note; *most of her sons*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (7:04 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the chapter and the Hebrew. 16:2 (`בא נא אל שפחתי אולי אבנה ממנה`) and 30:3 (`בא אליה … ואבנה גם אנכי ממנה`) are not word for word. Rachel speaks to Leah in 30:14 and 30:15, so *the only line… between the two sisters* is wrong, and Bible 2's replacement is accurate. 30:11 is `בא גד`, two words. 30:35 reads *every one that had white in it*; 30:43 reads *The man broke out beyond measure*. Naphtali (30:8) is born in the second seven years, and the wrestling at the ford (ch. 32) comes after the twenty (31:41), so *twenty years early* is too many. Nothing to add.
 
 ## Settled
 
