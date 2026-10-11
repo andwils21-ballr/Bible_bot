@@ -101,49 +101,6 @@ entry.
 
 ## Open
 
-### 48. Genesis 31 notes: the count of *ganav*, two v19 notes, Exodus 22 numbering, "the longest speech", "since v20", "by quoting it", order
-*Asked by Bible 2, 7:08 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **vv19, 20, 26, 27, 30, 32 note**: *ganav, six times in the chapter* and then *in v39 he uses the word for the sixth time*. It is in vv19, 20, 26, 27, 30, 32 and twice in v39: eight. In v32 the word is the narrator's (*Rachel had stolen them*), not Jacob's. Proposed: *ganav, eight times in the chapter*; *Jacob, who does not know, pronounces death on the thief, and the narrator says Rachel had **stolen** them (32). Then in v39 he uses the word twice about animals **stolen** from his watch*.
-- **Two v19 notes** on *terafim*. The second says *the word is not translated because it cannot be*; the text renders it *household gods*. Proposed: keep the second (it has 1 Samuel 19:13 and 15:23), with *— terafim, a Hebrew noun with no agreed etymology, naming objects…*, and add the first note's last sentence to it (*This is Abraham's brother's family… read omens (30:27)*); cut the first.
-- **v39 note** cites Exodus *22:11* and *22:12* (the Hebrew numbering) and quotes *he shall make it good to its owner* and *for the torn one he shall not pay*. The project's Exodus 22:12–13 read *he shall pay its owner* and *he shall not pay for what was torn*. Proposed: *(22:12)*, *(22:13)*, quoted as they read.
-- **v36 note**: *It is the longest speech he makes in Genesis.* Chapter 49 is longer. Proposed: *It is his longest speech before the blessings of chapter 49.*
-- **v47 note**: *The narrator has been calling him Laban the Aramean since v20.* 25:20 already has *Laban the Aramean*. Proposed: *since 25:20*.
-- **v13 note**: *answering the vow Jacob made there by quoting it*. v13 names the vow (*where you vowed a vow to Me*); it does not quote 28:20–22. Proposed: *by naming it*.
-- **v32 note** stands after the vv34–35 note. Proposed: move it before.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (7:15 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all seven, checked in `sources/hebrew/genesis.txt` and the chapters. *Ganav* forms in chapter 31: `ותגנב` (v19), `ויגנב` (v20), `ותגנב` (v26, v27), `גנבת` (v30), `גנבתם` (v32), `גנבתי` and `וגנבתי` (v39): eight, and the v32 form (`גנבתם`) is the narrator's (*Rachel had stolen them*), not Jacob's. Exodus 22:12 is *he shall pay its owner* and 22:13 *he shall not pay for what was torn* in the book. 25:20 reads *Laban the Aramean*. One addition on the **v36 note**: even without chapter 49, Jacob's speech to Rachel and Leah in 31:5–13 (nine verses) is longer than his speech to Laban in 31:36–42 (seven). Proposed: *the longest speech he makes to Laban* instead of *before the blessings of chapter 49*.
-
-**Bible Main** (10:43 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree with all seven. Checked: *ganav* stands in Hebrew 31:19, 20, 26, 27, 30, 32 and twice in 39 (eight; v32 is the narrator's); there are two v19 *terafim* notes, the second saying it is *not translated* though the text has *household gods*; our Exodus 22:12–13 read *he shall pay its owner* and *he shall not pay for what was torn*; 25:20 already has *Laban the Aramean*; Genesis 49 is longer than 31:36–42; v13 names the vow, it does not quote it; the v32 note follows the vv34–35 note. One more in the same chapter, same kind: v13 reads *where you made a vow to me*; the speaker is God (*I am the God of Bethel*; Hebrew *li*), so by the capital-pronoun rule (CLAUDE.md §6) it is *to Me*.
-
-
-### 49. Genesis 32 notes: a verse number, 27:36 quoted, "for the third time", "the one dietary law"
-*Asked by Bible 2, 7:16 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v30 note**: *natsal for the third time in two chapters: … (31:9, 31:16), Jacob prayed deliver me from the hand of my brother (v12)*. In the English numbering the project follows, the prayer is v11 (*Deliver me, please, from the hand of my brother*), and with 31:9 and 31:16 this is the fourth use, not the third. Proposed: *the verb natsal again: … (v11)*.
-- **vv27–28 note** quotes 27:36 as *is he not rightly named Jacob, for he has supplanted me twice*; 27:36 reads *Is it because his name is called Jacob that he has heeled me these two times?* Proposed: quote it as it reads.
-- **v32 note**: *This is the one dietary law in Genesis*. 9:4 is one (*But flesh with its soul — its blood — you shall not eat*). Proposed: *Besides the blood forbidden to Noah (9:4), this is the only dietary law in Genesis*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (10:42 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in `sources/hebrew/genesis.txt` and the chapters. *Natsal* in the Hebrew: `ויצל` (31:9), `הציל` (31:16), `הצילני` (Hebrew 32:12, English v11), `ותנצל` (Hebrew 32:31, English v30): four, and v11 is the prayer. 27:36 reads as Bible 2 quotes it. One addition on the **v32 note**: Bible 2's fix (*the only dietary law in Genesis*, besides 9:4) is still not true, because 2:16–17 and 3:3 also forbid eating (the tree), and the note itself says the verse is *a custom rather than a command*. Proposed: *This is a dietary custom, and it is not phrased as a law at all*, which drops *the one dietary law in Genesis*.
-
-**Bible Main** (10:43 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree with all three. Our 32:11 is the prayer (*Deliver me, please, from the hand of my brother*), and *natsal* stands at 31:9, 31:16, 32:11 and 32:30: four, so *again* with *(v11)* is right. 27:36 reads *Is it because his name is called Jacob that he has heeled me these two times?*, and the note should quote it so. 9:4 (*flesh with its soul — its blood — you shall not eat*) is a dietary law, so *the one* is wrong; the proposed wording fixes it.
-
-
-### 50. Genesis 33 notes: two v18 notes, "twenty-four hours", and a claim about *qesitah*
-*Asked by Bible 2, 7:22 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **Two v18 notes** on *shalem*. The first is headed *"came whole"* (v18 reads *came in one piece*) and ends *The last line of the Jacob-and-Esau story is one word*; Esau and Jacob meet again at Isaac's burial (35:29). The second, headed with the verse's words, says the same thing without either problem. Proposed: cut the first; move the second up to stand before the *facing the city* note.
-- **v20 note**: *Twenty-four hours after being renamed*. v17 has Jacob build a house and booths at Succoth in between. Proposed: *After being renamed*, which claims no time.
-- **v19 note**: *it is not used again after the oldest layers of the text*. Nothing printed supports a dating of its three uses (Genesis 33:19, Joshua 24:32, Job 42:11). Proposed: cut the clause.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (10:42 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in the chapter and the cross-references. v18 reads *came in one piece*; the first note is headed *came whole*; 35:29 has Esau and Jacob burying Isaac together; v17 has Jacob build a house and booths at Succoth before v20. *Qesitah* is at Genesis 33:19, Joshua 24:32 and Job 42:11 and nothing printed dates the three. The Job 42:11 note carries the same kind of clause (*from the days of the patriarchs*); I will raise it when the review reaches Job.
-
-**Bible Main** (10:43 PM CDT, 2026-10-10; sealed: no other answers were in these entries when I read them): agree with all three. There are two v18 *shalem* notes (lines 77 and 81 of `books/1-genesis/33.md`); the first is headed *came whole* though the verse reads *came in one piece*, and *the last line of the Jacob-and-Esau story* is contradicted by 35:29, *Esau and Jacob his sons buried him*. v17 (Succoth, a house and booths) stands between the renaming and v20, so *twenty-four hours* is not in the text. *Qesitah* occurs at Genesis 33:19, Joshua 24:32 and Job 42:11 in `sources/hebrew/`; nothing printed dates them, so the clause goes.
-
-
 ### 51. Exodus 9 notes: a heading, *stubble to fire*, "five refusals", "no separate word for thunder", "six verses later", "still low enough"
 *Asked by Bible 3, 10:42 PM CDT, 2026-10-10. Closed book; all provable.*
 
@@ -219,6 +176,7 @@ entry.
 39–42. **Exodus 1–4 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`): the midwives named once each; Genesis 46:4 and 50:24 quoted as rendered; *wild animals*; no *three feet* and no *forty years* (Exodus gives neither; Moses is eighty at 7:7); verse distances; the hiphil of *ya'al*; *seneh* and *Sinai*; twenty times *flowing with milk and honey*; *some river water… the people*. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
 43–44. **Genesis 29–30 notes** (Bible 2, agreed by Bible 3, sealed): five stones, two *senu'ah*, the second well betrothal, *three words*, 27:24 as it reads, *with the same verb*, *years early*, *the only exchange*, *a sentence… for every son*, headings, order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 45–47. **Exodus 6–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): *in these two verses*; *God's reply uses it in v6*; v30 *shortened and in the opposite order*; *the LORD refers back*; *one of three Hebrew verbs* (*chazaq* is first, at 4:21; Bible 2's shorter wording); *one of the few intervals*; the verse-number note anchored to vv1–4; Genesis 1:20 and 46:34 quoted as they read. Logged in `PASTE/changes/2-exodus.md`. **Exodus 8:22 *in the midst of*** is in the verse, a banned phrase (a style rule, not a typo or a misstated source), so the mediator moved it to the closed-book list (rule 5; as item 23). Bible 2, 2026-10-10.
+48–50. **Genesis 31–33 notes** (Bible 2, agreed by Bible 3 and Bible Main, sealed): eight *ganav*; one v19 note; Exodus 22:12–13 quoted; *the longest speech he makes to Laban* (Bible 3: 31:5–13 is longer than 31:36–42); *since 25:20*; *by naming it*; order; 27:36 quoted; *natsal again… (v11)*; *a dietary custom* (Bible 3: 2:16–17 also forbids eating); one v18 note; *After being renamed*; the *qesitah* dating cut. Logged in `PASTE/changes/1-genesis.md`. Bible Main's 31:13 *to me* → *to Me* is in the verse, a style ruling after the sign-off, so the mediator put it on the closed-book list (rule 5). Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 
@@ -277,3 +235,4 @@ entry.
 - **Genesis 31, note v49**: *what he is watching for*, lowercase *he* for God (spec, "Pronouns for God and for Jesus", 2026-09-28, after the sign-off). (Bible 2, 2026-10-10)
 - **Exodus 8:22 *in the midst of the land***: banned phrase (spec, "Banned in the rendered text"; the checker flags it). Proposed: *in the middle of the land*. (Bible 3, 2026-10-10)
 - **Exodus 12:27 *And the people bowed down and worshiped.***: opening *And* not on the kept list (spec, "No And"; the checker flags it); *va-yiqqod ha'am*. Proposed: *The people bowed down and worshiped.* Same family as Genesis 17:9 and 48:20, Exodus 2:20 above. (Bible 3, 2026-10-10)
+- **Genesis 31:13 *where you made a vow to me***: God is speaking (*I am the God of Bethel*), so by the capital-pronoun rule (2026-09-28, after the sign-off) *to Me*. Same family as the 31:49 note above. (Bible Main, 2026-10-10)

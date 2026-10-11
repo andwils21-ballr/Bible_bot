@@ -2,6 +2,26 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 31–33 (council 48–50, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 and Bible Main after checking each against the chapters and the Hebrew (`COUNCIL.md`, items 48–50). Genesis is closed; each is a count, quotation, verse number or claim the text does not bear out, a duplicate note, or a note out of order. Two wordings follow Bible 3's additions: 31:5–13 (to Rachel and Leah) is longer than 31:36–42, and 2:16–17 also forbids eating, so neither *longest… before chapter 49* nor *the only dietary law besides 9:4* would be true.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 31, note v13 | answering the vow Jacob made there by quoting it | answering the vow Jacob made there by naming it |
+| Genesis 31, note on *ganav* | six times in the chapter … pronounces death on the thief (32). Then in v39 he uses the word for the sixth time | eight times in the chapter … pronounces death on the thief, and the narrator says Rachel had **stolen** them (32). Then in v39 he uses the word twice |
+| Genesis 31, notes on v19 | two notes; the second: *and the word is not translated because it cannot be. It is a Hebrew noun* | one note: *a Hebrew noun…*, ending with the first note's *This is Abraham's brother's family… (30:27)* |
+| Genesis 31, note v32 | after the vv34–35 note | before it |
+| Genesis 31, note v36 | It is the longest speech he makes in Genesis. | It is the longest speech he makes to Laban. |
+| Genesis 31, note v47 | since v20 | since 25:20 |
+| Genesis 31, note v39 | *he shall make it good to its owner* (22:11) … *for the torn one he shall not pay* (22:12) | *he shall pay its owner* (22:12) … *he shall not pay for what was torn* (22:13) |
+| Genesis 32, note vv27–28 | *is he not rightly named Jacob, for he has supplanted me twice* | *Is it because his name is called Jacob that he has heeled me these two times?* |
+| Genesis 32, note v30 | for the third time in two chapters … (v12) | again … (v11) |
+| Genesis 32, note v32 | This is the one dietary law in Genesis and it is not phrased | This is a dietary custom, and it is not phrased |
+| Genesis 33, notes on v18 | **"came whole"** (… *The last line of the Jacob-and-Esau story is one word*) and, later, **"came in one piece"** | **"came in one piece"** only, before the *facing the city* note |
+| Genesis 33, note v19 | nothing in the language fixes its value, and it is not used again after the oldest layers of the text. | nothing in the language fixes its value. |
+| Genesis 33, note v20 | Twenty-four hours after being renamed | After being renamed |
+
 ## Notes corrected in Genesis 29–30 (council 43–44, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking each against the chapter and the Hebrew (`COUNCIL.md`, items 43–44). Genesis is closed; each is a count, quotation, heading or claim the text does not bear out, or a note out of verse order.
