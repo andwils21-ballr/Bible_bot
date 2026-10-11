@@ -2,6 +2,160 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 27–30 — rendered 2026-10-11, 7:50 AM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (27:1; 28:10, 16; 29:13; 30:20).
+
+**Verse numbers:** English and Hebrew agree in all four chapters (13, 29, 24, 33 verses).
+
+**Kept formulas:**
+- 27:12, 27:13 *And it shall come to pass in that day, that*.
+- 29:4, 5, 7, 8; 30:3, 13, 23, 25, 26, 32 *ve-hayah* is only "it shall be" + a comparison or a noun, so plain.
+- *So now* (*ve-attah*, a consequence): 28:22. 30:8 *Now go, write it* (*Now* alone: the point is the moment).
+- No other sentence starts with *And*; the checker caught 30:16 *And, "We will ride…"*, now without it.
+- *hinneh*: 28:2 cut (*The Lord has one who is mighty*); 28:16 *I am laying* (God's *hinneni*); 29:8 cut three times (*dreams he is eating*); 30:27 cut (*The name of the LORD is coming*).
+
+**Read forms followed (no note, the meaning is the same):** 28:15 *shot*, *ya'avor*; 29:11 *sefer*; 30:5 *hovish*; 30:32 *bam*; 30:33 *hi*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:21, 2:7, 2:21, 15:18; Deuteronomy 1:27, 21:18, 29:4, 32:30.
+- Joshua 10:10; Judges 12:6; 2 Samuel 5:20; 1 Kings 16:24; 2 Kings 23:10; Job 26:13; Psalms 69:2, 74:14, 89:10.
+- Matthew 5:22, 11:5, 15:8–9, 24:31.
+- Isaiah 5:1–7, 6:7, 7:3–4, 8:8, 8:15, 8:19, 9:6, 10:5, 10:21, 10:23, 16:8, 18:2, 22:14, 25:1, 27:11.
+- Earlier notes that quote these chapters match or paraphrase, with two in other words: Matthew 24:31 (*a great shofar*) and 2 Meqabyan 2:2–3 (*flee upon horses… ride upon swift steeds*); logged in `NOTES_FOR_ANDREW.md`, not changed.
+
+**Checked against the sources:**
+- Hebrew: Ezekiel 43:15; Joel 2:23; Isaiah 37:29.
+- Swete's Greek: Isaiah 27:1, 2, 8; 28:10, 16; 29:1, 13; 30:20, 33.
+- SBLGNT: Revelation 12:9; Romans 9:20, 9:33, 11:8; 1 Corinthians 1:19, 14:21; 1 Peter 2:6.
+
+**The checker** found one ERROR, now fixed (30:16).
+
+**What these chapters are:**
+- **27:** Leviathan slain; the song of the vineyard sung again with its ending reversed; the great ram's horn calling the scattered home.
+- **28:** woe to Ephraim's drunken crown; *rule upon rule, line upon line*; the covenant with death; *a precious cornerstone* laid in Zion; the farmer taught by God.
+- **29:** Ariel besieged and delivered; a sealed book; *this people draw near with their mouth*; the potter and the clay; the deaf hear and the blind see.
+- **30:** the embassy to Egypt, *Rahab who sits still*; *In returning and rest you will be saved*; the LORD waits to be gracious, the Teacher seen; Assyria shattered, Topheth prepared.
+
+### Isaiah 27: Leviathan and the Vineyard
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *nachash bariach… nachash aqallaton* | the fleeing serpent… the twisting serpent (as Job 26:13) |
+| 1 | *ha-tannin* | the dragon |
+| 2 | *kerem chemed annu lah* "a vineyard of delight, sing to it" | A pleasant vineyard, sing of it! |
+| 3 | *pen yifqod aleiha* "lest one visit it" | so that no one may harm it |
+| 4 | *mi yitteneni* "who will give me" | If only I had |
+| 5 | *yachazeq be-ma'uzzi* | let them take hold of My stronghold |
+| 6 | *ha-ba'im* "the coming ones" | In days to come |
+| 7 | *ha-khe-makkat makkehu hikkahu* "like the striking of his striker did He strike him" | Has He struck him as He struck those who struck him? |
+| 8 | *be-sasse'ah* (word found only here) | ***KEPT AS IS*** By driving her out (the sense of the word is uncertain) |
+| 8 | *hagah* "He removed" | He removed her |
+| 9 | *avnei gir menuppatsot* | chalk stones crushed to pieces |
+| 10 | *naveh meshullach* "a home sent away" | a home deserted |
+| 11 | *me'irot otah* "lighting it" | make fires of them |
+| 12 | *shibbolet ha-nahar* | the flowing Euphrates (note) |
+| 12 | *te-luqqetu le-achad echad* | you will be gathered one by one |
+| 13 | *shofar gadol* | a great ram's horn (as 18:3) |
+
+### Isaiah 28: A Cornerstone in Zion
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gei shemanim* "the valley of fatnesses" | the rich valley |
+| 1 | *halumei yayin* | those struck down by wine (as the 16:8 note) |
+| 2 | *hinneh chazaq ve-ammits la-Adonai* | The Lord has one who is mighty and strong (*hinneh* cut) |
+| 2 | *se'ar qatev* "a storm of destruction" | a destroying tempest |
+| 4 | *ke-vikkurah* | like a first-ripe fig |
+| 7 | *paqu peliliyyah* "they totter in judgment" | they stumble in giving judgment |
+| 8 | *qi tso'ah* "vomit of filth" | vomit and filth |
+| 9 | *atiqei mi-shadayim* "removed from the breasts" | those taken from the breast |
+| 10, 13 | *tsav la-tsav… qav la-qav* | ***KEPT AS IS*** rule upon rule… line upon line (note: the words may be babble) |
+| 10, 13 | *ze'eir sham* | a little here, a little there |
+| 11 | *be-la'agei safah* "with mockings of lip" | with stammering lips |
+| 14 | *moshlei ha-am* | who rule this people |
+| 15 | *chozeh* "a seer" | an agreement (note) |
+| 15 | *shot shotef* "an overflowing scourge" | the overwhelming scourge |
+| 16 | *hinneni yissad* "here I, he has laid" | I am laying |
+| 16 | *musad mussad* "a founded foundation" | a sure foundation |
+| 16 | *lo yachish* "will not hurry" | will not be in haste (note: the Greek has *put to shame*) |
+| 18 | *ve-khuppar* | will be wiped out (note: the verb of atonement) |
+| 19 | *zeva'ah* | sheer terror |
+| 21 | *ke-har Peratsim… ke-emeq be-Giv'on* | as at Mount Perazim… as in the Valley of Gibeon |
+| 21 | *zar… nokhriyyah* | strange… alien |
+| 22 | *ve-attah* | So now |
+| 22 | *pen* | or |
+| 25 | *qetsach* | dill (black cumin) |
+| 25 | *sorah… nisman* | in rows… in its plot |
+| 26 | *ve-yisero la-mishpat* "He disciplines him for justice" | His God instructs him in the right way |
+| 28 | *lechem yuddaq* "bread is crushed" | Grain for bread is crushed |
+| 29 | *hifli etsah higdil tushiyyah* | He is wonderful in counsel and great in wisdom (note) |
+
+### Isaiah 29: Woe to Ariel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Ari'el* | Ariel (a name; the senses in the note) |
+| 1 | *chaggim yinqofu* "let feasts go round" | let the feasts run their round |
+| 2 | *ta'aniyyah va-aniyyah* | moaning and lamentation (the sound pair kept in two words) |
+| 3 | *khaddur* "like a ball / all around" | all around |
+| 4 | *ke-ov… tetsaftsef* | like a ghost's… will chirp (8:19's words; note) |
+| 5 | *le-feta pit'om* | in an instant, suddenly |
+| 8 | *ve-hinneh okhel* (three times) | dreams he is eating… (*hinneh* cut) |
+| 8 | *reqah nafsho* "his soul is empty" | with his hunger unsatisfied |
+| 9 | *hitmahmehu u-temahu, hishta'ash'u va-sho'u* | Be astonished and astounded; blind yourselves and be blind |
+| 10 | *tardemah* | a spirit of deep sleep (note) |
+| 11 | *yode'a sefer* "one who knows a book" | one who can read |
+| 13 | *mitsvat anashim melummadah* | a commandment of men learned by rote (note) |
+| 14 | *hafle va-fele* "wondering and wonder" | wonder upon wonder |
+| 15 | *ha-ma'amiqim… lastir etsah* | who hide their plans deep |
+| 16 | *hafkekhem* "your overturning" | You turn things upside down! |
+| 20 | *shoqdei aven* "watchers of iniquity" | all who watch to do evil |
+| 21 | *machati'ei adam be-davar* | who make a man a sinner by a word |
+| 21 | *va-yattu va-tohu tsaddiq* "turn aside the righteous with emptiness" | turn aside the righteous with empty arguments |
+| 22 | *panav yechevaru* | his face will no longer grow pale |
+| 24 | *leqach* | instruction |
+
+### Isaiah 30: In Returning and Rest
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *linsokh massekhah* "to pour a pouring / weave a web" | ***KEPT AS IS*** make an alliance (note gives both senses) |
+| 1 | *ve-lo ruchi* | not of My Spirit (capital: the Spirit of the LORD) |
+| 2 | *u-fi lo sha'alu* "and My mouth they did not ask" | without asking My mouth (kept: God's own word for His word) |
+| 2 | *la'oz be-ma'oz Par'oh* | to take refuge in the protection of Pharaoh |
+| 6 | *massa bahamot negev* | The oracle concerning the beasts of the Negev |
+| 6 | *saraf me'ofef* | flying fiery serpent (as 14:29) |
+| 7 | *hevel va-riq* | vapor and emptiness (note) |
+| 7 | *Rahav hem shavet* "Rahab, they sit still" | Rahab who sits still |
+| 8 | *la-ad ad olam* | forever and ever |
+| 9 | *torat YHWH* | the instruction of the LORD |
+| 10 | *machatallot* | illusions |
+| 12 | *be-osheq ve-naloz* | in oppression and crookedness |
+| 13 | *niv'eh* "bulging" | bulging out |
+| 14 | *chores* "a shard" | a shard |
+| 16 | *nanus… tenusun; qal… yiqqallu* | We will flee… you will flee; swift… swift (note) |
+| 17 | *ka-toren* | like a pole |
+| 18 | *ashrei kol chokhei lo* | blessed are all who wait for Him |
+| 19 | *bakho lo tivkeh* "weeping you will not weep" | you will weep no more |
+| 20 | *lechem tsar u-mayim lachats* | the bread of adversity and the water of affliction |
+| 20 | *morekha* | your Teacher (choice below) |
+| 22 | *ke-mo davah* "like a menstruous thing" | like an unclean thing |
+| 24 | *belil chamits* | seasoned fodder |
+| 26 | *shever ammo… machats makkato* | the brokenness of His people… the wounds His blow inflicted |
+| 27 | *ve-khoved massa'ah* "and heaviness of rising" | in thick rising smoke |
+| 28 | *be-nafat shav* | with the sieve of destruction |
+| 30 | *nachat zero'o* | the descending blow of His arm |
+| 32 | *matteh musadah* "the staff of foundation" | the appointed staff |
+| 33 | *tofteh* | a Topheth (note) |
+| 33 | *la-melekh* | for the king (note: the letters of *Molech*) |
+
+**Choices for you:**
+- **30:20, *morekha*** — *Though the Lord gives you the bread of adversity and the water of affliction, your Teacher will hide Himself no more, but your eyes will see your Teacher.*
+  - **(a) "your Teacher"**, the LORD (in the text now): the verb *will hide* is singular, and the Teacher is the One hidden in the adversity just named.
+  - **(b) "your teachers"**, the prophets: the spelling *moreikha* looks plural, and the prophets had been told *Do not see* (v10).
+  - Recommend **(a)**: the singular verb settles it, and *moreh* is also the early rain promised in v23 (Joel 2:23 uses the word both ways). The note gives the Greek, which differs.
+
 ## Isaiah 23–26 — rendered 2026-10-10, 10:49 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (23:13; 25:8; 26:19).
