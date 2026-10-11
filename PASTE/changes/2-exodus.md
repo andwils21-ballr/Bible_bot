@@ -2,6 +2,30 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 29–32 (council 67, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 67). Exodus is closed; each is a count, quotation, root, or *only*/*every* claim the text does not bear out, or a note out of order. Bible 2 also found the 32:10 note's lowercase *him* for God (Andrew's ruling of 2026-10-10).
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 29, notes | order v9…, v1, v10…, v20, v18… | v1, v9…, v10…, v18…, v20 |
+| Exodus 29, note v1 | the plural of *tam*. The word Genesis uses for Noah … and calls Jacob (25:27) | the plural of *tamim*, the word Genesis uses for Noah … and Jacob is called *tam* (25:27), the same root |
+| Exodus 29, note v34 | the same rule governs the manna in chapter 16, which bred worms if kept overnight | As with the manna in chapter 16, a leftover is not to be kept until morning; there the reason is not holiness. |
+| Exodus 29, note vv45–46 | Four chapters | Five chapters |
+| Exodus 30, notes | v9 before vv7–8; vv32–33, 37–38 after v25 | vv7–8 before v9; vv32–33, 37–38 before v25 |
+| Exodus 30, note v9 | Same word, same altar | Same word, same incense |
+| Exodus 30, note v15 | It is the one payment in the Torah where the amount is fixed… | (cut) |
+| Exodus 30, note vv23–25, 34–35 | the only formulas in the Torah written out with quantities | the only two compounds written out ingredient by ingredient; the oil has quantities, the incense only *in equal measure* |
+| Exodus 30, note v25 | weaver, designer, embroiderer, stone-cutter, goldsmith, perfumer. Every one of them is called *wise* in 28:3. | designer, embroiderer, stone-cutter, perfumer. |
+| Exodus 31, note v4 | the *choshen*, the breastpiece | the *cheshev*, the woven band of the ephod (28:8) |
+| Exodus 31, note v13 | The previous two signs | The two earlier signs of covenant |
+| Exodus 31, note v17 | the foreigner | the guest |
+| Exodus 32, note v1 | in exactly the same words. The subject changes twice | in almost the same words. The subject changes once |
+| Exodus 32, note v4 | plural verb and plural pronoun | plural demonstrative and plural verb |
+| Exodus 32, note v10 | *I will make of you a great nation* is word for word … arguing him out of it | *I will make you into a great nation* is almost word for word … arguing Him out of it |
+| Exodus 32, note vv12, 14 | twice at a man's request | once, at a man's request |
+| Exodus 32, note v29 | translated there as *ordain* … the sanctuary's first object was melted down | (where the book reads *fill the hand*) and once in 28:41 (where it reads *ordain*) … the calf was melted down |
+
 ## Notes corrected in Exodus 25–28 (council 64–65, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 64–65). Exodus is closed; each is a quotation, count, heading or claim the text does not bear out, or a note out of order. A proposed new note on *tachash* (25:5) went to the closed-book list.

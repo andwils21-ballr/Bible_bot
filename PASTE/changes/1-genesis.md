@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 37 (council 66, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 with two additions (`COUNCIL.md`, item 66). Genesis is closed; each is a heading, quotation, count or claim the text does not bear out, a duplicate note, or a note out of order. The Jacob/Israel totals in the v34 note could not be reproduced (`genesis.txt`, 37:34–50:26, has 38 and 31), so they are cut; the per-chapter counts check and stand.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 37, note v2 | every previous time it introduced a genealogy | most previous times it introduced a genealogy |
+| Genesis 37, note v3 coat | both are destroyed by siblings | both end ruined: Joseph's by his brothers, Tamar's by her own hands after her brother's crime |
+| Genesis 37, note vv5, 8 | **"they added still more to hating him"** | **"they hated him all the more"** |
+| Genesis 37, note v7 | last | after the vv5, 8 note |
+| Genesis 37, note v11 | **"his father kept the matter"** | **"his father kept it in mind"** |
+| Genesis 37, note vv21–22 | **vv21–22 Reuben"** … *the boy is gone. And I — where can I go?* | **vv21–22 Reuben** … *The boy is gone! I — where can I turn?* |
+| Genesis 37, note v24 | twice in six words … The story puts him in the same hole twice, and both times his brothers' doing is what put him there. | twice in five words … The story puts him in a *bor* twice, and both times, as he says, for nothing he has done. |
+| Genesis 37, notes on the traders | two notes (vv25, 28, 36 and vv25–36), the first saying *it is not this rendering's job to smooth it out* | one note, **vv25–36**, with *Ishmaelites again later in the same verse* and the Keturah paragraph |
+| Genesis 37, note vv31–33 | *the skins of the kids of the goats* (27:16) | *The skins of the young goats* (27:16) |
+| Genesis 37, note v34 | after the v36 note; **forty** occurrences of Jacob against **twenty-eight** of Israel | after the v33 note; alternates constantly between the two names |
+
 ## Notes corrected in Genesis 36 (council 63, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew and the chapter, with two additions of Bible 3's (`COUNCIL.md`, item 63). Genesis is closed; each is a quotation, count or claim the text does not bear out, or a note with no verse.
