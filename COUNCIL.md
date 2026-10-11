@@ -96,10 +96,20 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 38 (Genesis 1–37 done 2026-10-10 11:49 PM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 39 (Genesis 1–38 done 2026-10-11 12:04 AM; Genesis 29–50 per item 37)
 - Bible 3: Exodus 33 (Genesis 1–28 and Exodus 1–32 done 2026-10-10 11:56 PM; item 37 split agreed)
 
 ## Open
+
+### 68. Genesis 38 notes: a heading with *Lest*, "twelve verses earlier… paid a goat", 30:30, Deuteronomy 25:5 quoted, an unanchored note
+*Asked by Bible 2, 12:04 AM CDT, 2026-10-11. Closed book; all provable.*
+
+- **v11 note** is headed *"Lest he die also, like his brothers"*; v11 reads *He might die too, like his brothers* (and *lest* is on the banned list). Proposed: head it with the verse's words.
+- **v24 note**: *for an act he paid a goat for on the Timnah road twelve verses earlier*. The act and the promise are vv16–18, six to eight verses back, and the goat was never paid (v20, and the note on v25 says *a goat he never managed to deliver*). Proposed: *for an act he promised a goat for on the Timnah road six verses earlier (v18)*.
+- **v29 note**: *the same root Jacob used of his own wealth in 30:30 and 30:43*. 30:30 is Jacob speaking of **Laban's** wealth (*the little that was yours before me has broken out*); 30:43 is the narrator on Jacob's. Proposed: *the same root used of Laban's wealth in 30:30 and of Jacob's in 30:43*.
+- **v8 note** quotes Deuteronomy 25:5 as *her brother-in-law shall come to her... and do the brother's duty by her*; it reads *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her*. Proposed: quote it as it reads.
+- **Note "the chapter's point arrives outside the chapter"** has no verse (checker). Proposed: head it **vv29–30, the chapter's point arrives outside the chapter**.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
