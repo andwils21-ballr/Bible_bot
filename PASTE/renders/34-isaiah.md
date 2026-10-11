@@ -2,6 +2,129 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 35–38 — rendered 2026-10-11, 5:51 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere.
+
+**Parallel passages (spec, "Two kinds of example"):** Isaiah 36–37 is 2 Kings 18:13–19:37, and 38:1–8, 21–22 is 2 Kings 20:1–11. The two Hebrew texts were compared word by word. Where the words are the same, Kings' English is used; where they differ, the difference shows:
+- 36:1 *va-yehi*, so *And it came to pass in the fourteenth year* (Kings has no *va-yehi*).
+- 36:2 only *the Rabshakeh* (Kings: *the Tartan, the Rab-saris and the Rabshakeh*); *the Launderer's Field* as in Isaiah's own 7:3 (Kings: *the Washer's Field*).
+- 36:5 *I say* (*amarti*; Kings *you say*); 36:6 no *Now*; 36:7 no *in Jerusalem*; 36:10 *this land* twice; 36:11 no *son of Hilkiah*; 36:12 no *to them*; 36:13 *the words*; 36:14 no *out of his hand*; 36:17 no *olive oil and honey… live and not die*; 36:18 *Do not let Hezekiah mislead you* (Kings' *Do not listen* line is not here); 36:19 no *Hena and Ivvah*; 36:20 *these lands*; 36:21 no *the people*.
+- 37:4 no *all*; 37:9 *When he heard it, he sent* (Kings: *he sent messengers again*); 37:16 *O LORD of hosts*; 37:17 *all the words*; 37:18 *all the lands and their land*; 37:20 no *please*, and *that You alone are the LORD*; 37:21 no *I have heard*; 37:24 *By your servants*, *its farthest height*; 37:25 no *foreign*; 37:27 *like a field before the grain has grown* (*shedemah*; Kings *shedefah*, *scorched*); 37:36 no *And it came to pass that night*.
+- 38:2 *Hezekiah turned* with no *saying*; 38:3 *and said*; 38:4 *the word of the LORD came to Isaiah* (Kings: before he had left the middle court); 38:5 *Go* (Kings *Turn back*), no *leader of My people*, no *I will heal you…*; 38:6 no *for My own sake…*; 38:7–8 the sign given, not chosen; 38:21–22 at the end.
+- Kings' *O LORD* is kept where the words are the same, though Isaiah elsewhere has no *O*.
+
+**Kept formulas:**
+- 36:1 *And it came to pass in the fourteenth year… that* (a chapter's story and a date).
+- 37:1 *And it came to pass, when King Hezekiah heard it, that* (opens the chapter; as Kings).
+- 38:4 *va-yehi devar YHWH*: *the word of the LORD came to*, cut per the spec.
+- *So now* 36:8 and 37:20 (as Kings); *Now* 36:5, 36:10.
+- No other sentence starts with *And*.
+- *hinneh*: 36:6 cut; 35:4 *Here is your God!* (a presentation); 38:5 *I will add*; 38:8 *I am about to make*; 38:17 cut.
+
+**Read forms followed (no note, the meaning is the same):** 36:12 *tso'atam*, *meimei ragleihem* (the polite words for excrement and urine).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 43:9; Deuteronomy 7:7; 1 Kings 4:25; 2 Kings 18–20; Psalms 6:5, 16 (heading), 120 (heading); Song of Songs 2:1; Matthew 11:5.
+- Isaiah 7:3, 7:11–12, 8:19, 9:7, 10:5–15, 10:20, 10:33–34, 11:16, 12:2–3, 19:23, 26:18, 27:6, 29:4, 30:7, 31:1, 31:8, 33:9, 40:9, 51:11.
+- My own earlier Isaiah notes that quote these chapters were matched to them: 10:9–11 (36:19, *out of my hand*), 17:12–14 and 31:8 (37:36, *the camp of the Assyrians*), 30:28 (37:29, *My bit in your lips*). Notes in other books that quote these chapters agree with them.
+
+**Checked against the sources:**
+- Hebrew: 2 Kings 18:13–37, 19:1–37, 20:1–11, word by word against Isaiah 36–38; Isaiah 40:9, 51:11; 1 Kings 5:5 (English 4:25).
+- Swete's Greek: Isaiah 38:9–17.
+- SBLGNT: Hebrews 12:12.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **35:** the desert in bloom; *Strengthen the weak hands*; the blind see and the lame leap; the Way of Holiness, and the ransomed come to Zion with singing.
+- **36:** Sennacherib's Rabshakeh at the wall: *in whom do you trust?*
+- **37:** Hezekiah spreads the letter before the LORD; Isaiah's answer, *She despises you, the virgin daughter of Zion*; the messenger of the LORD and the hundred and eighty-five thousand.
+- **38:** Hezekiah's sickness, the shadow on the steps of Ahaz, and his song: *The living, the living, he thanks You*.
+
+### Isaiah 35: The Way of Holiness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yesusum* "will be glad for them" | will be glad |
+| 1 | *ka-chavatselet* | like the flower (Song of Songs 2:1's word; note) |
+| 2 | *parocha tifrach* "blossoming it will blossom" | it will blossom abundantly |
+| 2 | *af gilat ve-rannen* | and rejoice with joy and singing |
+| 4 | *le-nimharei lev* "to the hasty of heart" | to those whose hearts are anxious |
+| 4 | *hinneh Eloheikhem* | Here is your God! (a presentation; note) |
+| 4 | *naqam yavo gemul Elohim* | He will come with vengeance, with the recompense of God |
+| 6 | *pisseach… illem* | the lame… the mute |
+| 7 | *ha-sharav* | the burning sand |
+| 7 | *bi-nveh tannim rivtsah* "in the haunt of jackals, its lying down" | in the haunt of jackals, where they lay |
+| 8 | *maslul va-derekh* | a highway… a road |
+| 8 | *ve-hu lamo holekh derekh* "and it is for them, the one walking the way" | ***KEPT AS IS*** It will be for those who walk the way (the Hebrew is compressed) |
+| 9 | *perits chayyot* "the violent of beasts" | any ravenous beast |
+| 10 | *ge'ulim… peduyei YHWH* | the redeemed… the ransomed of the LORD (note) |
+
+### Isaiah 36: The Rabshakeh at the Wall
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi be-arba esreh shanah* | And it came to pass in the fourteenth year |
+| 2 | *be-chel kaved* "with a heavy force" | with a great army (as Kings) |
+| 2 | *sedeh khoves* | the Launderer's Field (as 7:3) |
+| 3 | *ha-mazkir* | the recorder (as Kings) |
+| 5 | *amarti akh devar sefatayim* "I said, only a word of lips" | I say that counsel and strength for war are only a word of the lips |
+| 6 | *hinneh batachta* | You are trusting (*hinneh* cut) |
+| 8 | *hit'arev na* "make a pledge" | make a wager (as Kings) |
+| 9 | *ve-ekh tashiv et penei* "how will you turn back the face of" | How then can you turn back (as Kings) |
+| 11 | *aramit… yehudit* | in Aramaic… in the language of Judah (as Kings; note) |
+| 12 | *tso'atam… meimei ragleihem* (read forms) | their own excrement… their own urine (as Kings) |
+| 14 | *al yashi* "let him not deceive" | Do not let Hezekiah deceive you |
+| 16 | *asu itti verakhah* "make a blessing with me" | Make peace with me (as Kings) |
+| 18 | *pen yassit* | Do not let Hezekiah mislead you (*pen*) |
+
+### Isaiah 37: Hezekiah's Prayer and the Night of the Messenger
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ad mashber* "to the breaking" | to the mouth of the womb (as Kings) |
+| 4 | *ulay* "perhaps" | It may be that |
+| 7 | *hineni noten bo ruach* | I will put a spirit in him (as Kings) |
+| 11 | *le-hacharimam* | devoting them to destruction (as Kings) |
+| 18 | *et kol ha-aratsot ve-et artsam* | ***KEPT AS IS*** all the lands and their land (Isaiah's own wording; Kings has *the nations and their lands*) |
+| 22 | *bazah lekha la'agah lekha* | She despises you, she scorns you (as Kings) |
+| 24 | *merom qitso* "its farthest height" | its farthest height (Kings has *lodging*) |
+| 27 | *ve-shedemah lifnei qamah* "and a field before standing grain" | ***KEPT AS IS*** like a field before the grain has grown (Kings: *scorched*) |
+| 28 | *hitraggezkha* | your raging (as Kings) |
+| 29 | *chachi… mitgi* | My hook… My bit (as Kings) |
+| 30 | *safiach… shachis* | what grows of itself… what springs from that (as Kings) |
+| 36 | *ve-hinneh kullam pegarim metim* | they were all dead bodies (as Kings) |
+
+### Isaiah 38: Hezekiah's Sickness and His Song
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tsav le-veitekha* "command your house" | Set your house in order (as Kings) |
+| 4 | *va-yehi devar YHWH el* | Then the word of the LORD came to |
+| 5 | *halokh* | Go |
+| 5 | *hineni yosif* | I will add |
+| 8 | *hineni meshiv et tsel ha-ma'alot* | I am about to make the shadow on the steps… go back |
+| 9 | *mikhtav* | A writing (note) |
+| 10 | *bi-dmi yamai* "in the stillness/half of my days" | ***KEPT AS IS*** In the quiet of my days |
+| 10 | *puqqadti yeter shenotai* "I am deprived of the rest of my years" | I am deprived of the rest of my years |
+| 11 | *im yoshvei chadel* "with the dwellers of cessation" | ***KEPT AS IS*** among those who dwell where all has ceased (note) |
+| 12 | *dori* "my dwelling / my generation" | My dwelling |
+| 12 | *qippadti ka-oreg* | I have rolled up my life like a weaver |
+| 13 | *shivviti* "I composed / I cried" | ***KEPT AS IS*** I quieted myself |
+| 14 | *ke-sus agur* | Like a swift, like a crane |
+| 14 | *ashqah li* "it is oppression to me" | I am oppressed |
+| 14 | *orveni* | be my pledge (Genesis 43:9's word; note) |
+| 15 | *eddaddeh* "I will walk softly" | ***KEPT AS IS*** I will walk slowly |
+| 16 | *aleihem yichyu* "on them they live" | ***KEPT AS IS*** by these things men live (the verse is obscure) |
+| 17 | *hinneh le-shalom mar li mar* | It was for my peace that I had bitter, bitter grief (*hinneh* cut) |
+| 17 | *chashaqta nafshi mi-shachat beli* | You have set Your heart on my soul and kept it from the pit of destruction |
+| 17 | *acharei gevkha* | behind Your back |
+| 20 | *u-neginotai nenaggen* | we will play my songs on strings |
+| 21 | *yis'u… ve-yimrechu* "let them lift… and rub" | Let them take… and rub it |
+
+**Choices for you:** none new in this run.
+
 ## Isaiah 31–34 — rendered 2026-10-11, 12:48 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (33:2, 18; 34:14).
