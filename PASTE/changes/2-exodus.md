@@ -2,6 +2,45 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 13–16 (council 55–57, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek (`COUNCIL.md`, items 55–57). Exodus is closed; each is a quotation, count, order, or *only*/*first*/dating claim the text does not bear out. The 13:13 wording is Bible 2's (the clean-animal reason stands, checkable at Leviticus 11:3; only *There is no option to keep it* was wrong).
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 13, notes | order v2, v4, v3/14, …, v16, v13 | v2, v3/14, v4, v8, v9, v13, v16 |
+| Exodus 13, note v3, 14 | *avadim* is the same word as the *service* | *avadim*, slaves, comes from the same root as the *service* |
+| Exodus 13, note v8 | A man who was not there says the exodus happened to him personally. This single word is the hinge of the whole Passover liturgy, which requires… | A father tells his son that the LORD did it for **me**. |
+| Exodus 13, note v13 | The law gives two ways to hand it over: buy it back with a lamb, or destroy it. There is no option to keep it. | The law gives two choices: redeem it with a lamb, or break its neck. |
+| Exodus 13, note v17 "though it was near" | the coastal road to Canaan was a week's walk… the first time they are shot at | the text says only that it was near, and gives God's reason: the people may change their minds when they see war |
+| Exodus 13, note v19 | *God will surely attend to you, and you shall bring my bones up from here* (50:25) … Four hundred years later | *God will surely visit you, and you shall carry my bones up from here* (50:25) … Centuries later |
+| Exodus 13, note v21 | What it does is not protect or fight. | Here, what it does is not protect or fight; that comes at the sea (14:19–24). |
+| Exodus 14, note v5 | *we have lost our workforce* | *sending Israel away from serving us* |
+| Exodus 14, note v12 | they would rather have the one that fed them | they would rather have Egypt |
+| Exodus 14, note v14 | It is the only instruction Israel is given at the sea, and it is to do nothing and say nothing. | Moses' instruction in vv13–14 is to do nothing and say nothing; the LORD's, in v15, is *let them move on*. |
+| Exodus 14, note v21 | Same wind, same duration, opposite service. | Same wind, opposite service. |
+| Exodus 14, note vv21–22 | let the dry ground appear | let the dry ground be seen |
+| Exodus 14, note v25 "He bound" | (no statement of which reading the text uses) | The text reads *bound*, as the Greek does. |
+| Exodus 14, note v25 "dragged" | three turns of one word inside twenty verses | three turns of one word |
+| Exodus 14, note v31 | the book's first statement that the people believe … In chapter 4 the question was whether they would believe him at all. | the second time the book says the people believed (4:31). That time it followed the signs; this time it follows the rescue… |
+| Exodus 15, notes | vv14–16, v15, v16 before v5/v16 … v13 | after the v13 note, before v17 |
+| Exodus 15, note v1 the song, retold | Your path through the mighty waters (77:19) | Your path through the great waters (77:19) |
+| Exodus 15, note v2 | The oldest poem in the book uses the oldest form of the name. | (cut) |
+| Exodus 15, note v9 | six short verbs … and every one is first person | six short clauses … and every one is about what he will take |
+| Exodus 15, note v11 | and it is older than the theology that later grew around it | (cut) |
+| Exodus 15, note vv14–16 | Joshua 2:9–10 quoted loosely | quoted as it reads |
+| Exodus 15, note v17 | The song is standing somewhere later than the story it tells. | the song speaks of them as things still to come. |
+| Exodus 15, note v23 | *and they made their lives bitter* … Three days out of Egypt | *They made their lives bitter* … Three days into the wilderness |
+| Exodus 15, note vv25–26 | the next two uses of the verb | the next two times God tests Israel |
+| Exodus 16, note v2 | It is the first of many complaints in the wilderness | The same verb was used at Marah (15:24) |
+| Exodus 16, note v4 | before there is any law. The first test | before Sinai. The test here |
+| Exodus 16, note v15 | *Manna* is the Greek form of the word (Numbers 11:6), and English took it from there | The Greek of v15 translates the question, *What is this?*, and writes the name in v31 as *man* |
+| Exodus 16, note v21 | it cannot be kept. Everything about it is designed to prevent storage. | on ordinary days it cannot be kept (v20). |
+| Exodus 16, note v29 | became the basis for a whole body of later law about how far one may walk on the sabbath | (cut) |
+| Exodus 16, note v31 | the only description of it | the fullest description of it |
+| Exodus 16, note v33 | holding an unmeasurable food | (cut) |
+| Exodus 16, note v36 | an editor's footnote… By the time this sentence was added, readers no longer knew… | the verse gives the size of the omer in another measure, the ephah. |
+
 ## Notes corrected in Exodus 11–12 (council 53–54, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 53–54). Exodus is closed; each is a count, quotation or *only*/*every* claim the text does not bear out. Left for Andrew (closed-book list): the 12:46 note's *him* for Jesus, and a proposed new note on the Greek's *435 years* at 12:40.
