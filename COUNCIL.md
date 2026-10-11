@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 39 (Genesis 1–38 done 2026-10-11 12:04 AM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 33 (Genesis 1–28 and Exodus 1–32 done 2026-10-10 11:56 PM; item 37 split agreed)
+- Bible 3: Exodus 35 (Genesis 1–28 and Exodus 1–34 done 2026-10-11 12:11 AM; item 37 split agreed)
 
 ## Open
 
@@ -109,6 +109,22 @@ entry.
 - **v29 note**: *the same root Jacob used of his own wealth in 30:30 and 30:43*. 30:30 is Jacob speaking of **Laban's** wealth (*the little that was yours before me has broken out*); 30:43 is the narrator on Jacob's. Proposed: *the same root used of Laban's wealth in 30:30 and of Jacob's in 30:43*.
 - **v8 note** quotes Deuteronomy 25:5 as *her brother-in-law shall come to her... and do the brother's duty by her*; it reads *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her*. Proposed: quote it as it reads.
 - **Note "the chapter's point arrives outside the chapter"** has no verse (checker). Proposed: head it **vv29–30, the chapter's point arrives outside the chapter**.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (12:11 AM CDT, 2026-10-11; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in the chapters. v11 reads *He might die too, like his brothers*; the act and the promise of the goat are vv16–18 (v17, *I will send a young goat*) and the goat is never delivered (v20, v23); 30:30 is Jacob speaking of Laban's wealth (*the little that was yours before me has broken out into a multitude*) and 30:43 the narrator on Jacob's (*The man broke out beyond measure*); Deuteronomy 25:5 reads *Her husband's brother shall go in to her and take her as his wife and do the brother's duty by her*. The Perez note has no verse (checker).
+
+### 69. Exodus 33–34 notes: *He would return*, "a hand over the man's face", "thirteen words", "a second time", "only place it is a verb", "puts it on to speak with Israel"
+*Asked by Bible 3, 12:11 AM CDT, 2026-10-11. Closed book; all provable. Exodus 33 is a fixed model, so its two items are for Bible 2 to weigh before they are applied.*
+
+**Exodus 33**
+- **v11** (text): *The LORD would speak to Moses face to face, as a man speaks to his companion. He would return to the camp — but his attendant Joshua…* The one who returns is Moses (`וְשָׁב`; Joshua is *his* attendant, and the v11 note itself says *Moses goes back to the camp each time*), but after *The LORD would speak* a reader takes *He* for the LORD. Proposed: *Moses would return to the camp*.
+- **vv22–23 note**: *a hand over the man's face until the moment has gone by.* v22 says *cover you with My palm* (`וְשַׂכֹּתִי כַפִּי עָלֶיךָ`); the face is not mentioned until *My face will not be seen* (v23). Proposed: *a hand over him until the moment has gone by*.
+
+**Exodus 34**
+- **vv6–7 note**: *this list of thirteen words is quoted back at God across the rest of the Hebrew Bible more than any other sentence in the Torah.* From `יהוה יהוה` to `לא ינקה` the Hebrew is twenty words (*thirteen* is a traditional count of attributes, not of words), and nothing printed shows *more than any other sentence*. The sentence does return: Numbers 14:18, Joel 2:13, Jonah 4:2, Psalms 86:15, 103:8, 145:8 (`ארך אפים ורב חסד`). Proposed: *this list, twenty words from* YHWH, YHWH *to* lo yenaqqeh*, is quoted back at God across the rest of the Hebrew Bible (Numbers 14:18; Joel 2:13; Jonah 4:2; Psalms 86:15, 103:8, 145:8).*
+- **v21 note**: *the sabbath law is given a second time with one clause added, and it names the two weeks of the year when stopping costs most.* The sabbath is already commanded at 16:23–30, 20:8–11, 23:12 and 31:13–17, and *plowing* and *harvest* are seasons, not weeks. Proposed: *the sabbath law is given again with one clause added, and it names the two seasons of the year when stopping costs most.*
+- **vv29, 30, 35 note**: *It is used of an animal's horns everywhere else in the Bible; this is the only place it is a verb… a guess from the shape of a horn rather than from any other use of the word.* The verb is also at Psalm 69:32 (`מקרן`, of a bull *with horns*), and the noun is used of rays of light at Habakkuk 3:4 (`קרנים מידו`, *rays from His hand*). Proposed: *The verb is used of a bull's horns in Psalm 69:32, and the plural noun means rays of light in Habakkuk 3:4 (*rays from His hand*), which is the reading behind* shone*. The Latin translated it* cornuta*… *(rest stands).*
+- **vv33–35 note**: *he takes it off to speak with God and puts it on to speak with Israel.* v33 says *Moses finished speaking with them, and he put a veil over his face*, and v35 has the sons of Israel *see Moses' face* before the veil goes back on. Proposed: *he takes it off to speak with God and puts it on when he has finished speaking with Israel*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -214,8 +230,9 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 15:13 *Your faithful love***: `חסד` is *loyal love* everywhere else in the book (Exodus 20:6 and 34:7, Deuteronomy's parallels, 2 Samuel, 1 Kings, 1 Chronicles); *faithful love* appears only here and in the 15:13 note. Proposed: *Your loyal love*. (Bible 3, 2026-10-10)
 - **Exodus 19:1 *on that very day***: the Hebrew is `ביום הזה`, *on this day*; the project's *very* renders `בעצם`, as at 12:17, 12:41 and 12:51 (*on this very day*). Proposed: *on that day*. (Bible 3, 2026-10-10)
 - **Genesis 35, note v26**: *and this rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
-- **Exodus 24:8 *Here is the blood of the covenant***: *hinneh*, cut in every other book (spec, "No 'here —' or 'look —' for hinneh"). Proposed: *This is the blood of the covenant* (as Matthew 26:28 has it). (Bible 3, 2026-10-10)
 - **Exodus 24:16 *the weight of the LORD's glory*, against 24:17 *the LORD's glory***: the same pair as 16:7 and 16:10 above (`כבוד יהוה` in both). (Bible 3, 2026-10-10)
 - **Exodus 23:28, 23:29, 23:30, 23:31 *from before you***: `מפניך` four times; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *from your path* or *ahead of you*, once, in the same wording in all four. (Bible 3, 2026-10-10)
 - **Genesis 36, note v2–3**: *This rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
 - **Exodus 25:5, a possible new note**: *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (25:5; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10); what animal or finish it names is not known; the Greek reads *blue-violet skins* (`δέρματα ὑακίνθινα`). (Bible 3, 2026-10-10)
+- **Exodus 34, note vv27–28**: *This rendering keeps the pronoun as the Hebrew has it* (talk about the translating, CLAUDE.md §3); the same in **Exodus 33, note v11** (*this rendering leaves it open too*), a fixed model, so for Andrew only. (Bible 3, 2026-10-11)
+- **Exodus 34:11 and 34:24 *from before you*, *before you***: the same idiom as 23:28–31 above (`מפניך`). (Bible 3, 2026-10-11)
