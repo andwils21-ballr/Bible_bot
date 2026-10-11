@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 36 (Genesis 1–35 done 2026-10-10 11:19 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 21 (Genesis 1–28 and Exodus 1–20 done 2026-10-10 11:11 PM; item 37 split agreed)
+- Bible 3: Exodus 25 (Genesis 1–28 and Exodus 1–24 done 2026-10-10 11:26 PM; item 37 split agreed)
 
 ## Open
 
@@ -109,6 +109,33 @@ entry.
 - **v22 note** quotes 49:4 as *unstable as water, you shall not excel, for you went up to your father's bed*; 49:4 reads *Reckless as water — you shall not surpass, for you went up on your father's bed*. Proposed: quote it as it reads.
 - **v3 note**: *Jacob names God by the same pressure twice in three verses.* Jacob names it once in this chapter (v3); the other is God's own words in v1 (*when you fled*), and 32:7 is three chapters back. Proposed: *God is named by that same night twice in three verses: by God in v1, by Jacob in v3.* The v3 note also stands after the v4 note; proposed: move it before.
 - **v29 note**: *the text has not mentioned him since chapter 28*; Isaac is named at 31:18, 31:42, 31:53 and 32:9. Proposed: *the story has not shown him since chapter 28*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (11:26 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in `sources/hebrew/genesis.txt` and the chapters. `לקהל עמים` is at 28:3, and the Greek of 35:11 has `συναγωγαὶ ἐθνῶν`. `אברם הוא אברהם` is 1 Chronicles 1:27 and `באברם` Nehemiah 9:7; `ירבעל הוא גדעון` is Judges 7:1. 49:4 reads *Reckless as water — you shall not surpass, for you went up on your father's bed*. Isaac is named at 31:18, 31:42, 31:53 and 32:9. The v3 note stands after the v4 note.
+
+### 62. Exodus 21–24 notes: "be-gappo", an awl and a doorpost, "the end of this chapter", "thirty pieces", "the only place", "the sanctuary", "foreigner", "word for word", "on that very day", "these same seventy"
+*Asked by Bible 3, 11:26 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 21**
+- **v1 note**: *Chapter 21 says* when a man's ox gores. The chapter has *When an ox gores a man or a woman* (v28). Proposed: quote it as it reads.
+- **v3 note**: *a word that occurs in the Hebrew Bible only here and in v4, twice in the same law.* `בגפו` is in v3 twice and in v4 once. Proposed: *only here: twice in v3 and once in v4*.
+- **v6 note**: *the awl goes through his ear into the doorpost he will keep going through.* Exodus 21:6 says only *pierce his ear with an awl* (the Greek is the same). The door is Deuteronomy 15:17 (*put it through his ear into the door*). Proposed: *the awl goes through his ear (Deuteronomy 15:17 adds:* into the door*)*.
+- **v16 note**: *Set it against the end of this chapter: stealing an ox costs five oxen.* In the English numbering the project follows, that law is 22:1 (Hebrew 21:37). Proposed: *Set it against the next verse in the next chapter (22:1)*.
+- **vv24–27 note**: *the next two verses reuse the identical formula… with the same three words.* Verses 26–27 reuse only the preposition `תחת` (*in place of*), not *eye for eye*. Proposed: *reuse the preposition* tachat, *in place of*, *to a different end… with the same preposition*.
+- **v32 note**: *The Greek writes it thirty pieces of silver — τριάκοντα, ἀργυρίου.* The Greek of Exodus 21:32 reads `ἀργυρίου τριάκοντα δίδραχμα`, *thirty didrachms of silver*; Matthew 26:15 reads `τριάκοντα ἀργύρια`. *It is the only place the law puts an exact price on a human being*: Leviticus 27:3–7 sets valuations of persons from three to fifty shekels. *The amount is not invented for the Gospel* cannot be shown from anything printed. Proposed: *The Greek of Exodus writes it thirty didrachms of silver; Matthew 26:15 has* thirty pieces of silver *(`τριάκοντα ἀργύρια`), the same sum.* and cut the last sentence and *the only place*.
+
+**Exodus 22**
+- **vv8–9 note**: *the case goes to the sanctuary and a man swears.* The verse says *brought to God*, and no sanctuary exists until chapters 36–40. Proposed: *the case goes before God and a man swears*.
+
+**Exodus 23**
+- **v12 note**: *the foreigner get to breathe.* The verse (`הגר`) reads *the guest*. Proposed: *the guest*.
+- **v19 note**: *The entire separation of meat from dairy in later Jewish practice rests on a sentence the text gives no argument for.* Later practice is not in anything printed. Proposed: cut the last sentence (*stated three times… never once explained* stands).
+
+**Exodus 24**
+- **v8 note**: *The phrase is this verse's, word for word in Greek, with one word added.* The Greek of Exodus 24:8 is `Ἰδοὺ τὸ αἷμα τῆς διαθήκης`; Matthew 26:28 is `τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς διαθήκης`. Three words are shared (*the blood of the covenant*); Matthew has *this is* where Exodus has `Ἰδού`, and adds `μου`. Proposed: *Matthew shares* the blood of the covenant *(`τὸ αἷμα τῆς διαθήκης`) with this verse, puts* this is *where Exodus has* `Ἰδού`*, and adds* My. The same note's *this is my blood of the covenant* needs the capital (spec, "Pronouns for God and for Jesus"): *this is My blood of the covenant*.
+- **v10 note** (*like the very body of the sky*): *the same idiom behind* on that very day. The idiom `בעצם היום הזה` is rendered *on this very day* (12:17, 12:41, 12:51); 19:1 is a different Hebrew. Proposed: *on this very day*.
+- **v11 note** (*the nobles*): *reserves it for these same seventy elders.* Numbers 11:16 says *seventy men of the elders of Israel*, and does not say they are the seventy of Exodus 24. Proposed: *seventy elders*.
+- **vv3, 7 note**: *we will do and we will hear.* v7 reads *we will do, and we will listen*. Proposed: *we will do and we will listen*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -208,3 +235,6 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 15:13 *Your faithful love***: `חסד` is *loyal love* everywhere else in the book (Exodus 20:6 and 34:7, Deuteronomy's parallels, 2 Samuel, 1 Kings, 1 Chronicles); *faithful love* appears only here and in the 15:13 note. Proposed: *Your loyal love*. (Bible 3, 2026-10-10)
 - **Exodus 19:1 *on that very day***: the Hebrew is `ביום הזה`, *on this day*; the project's *very* renders `בעצם`, as at 12:17, 12:41 and 12:51 (*on this very day*). Proposed: *on that day*. (Bible 3, 2026-10-10)
 - **Genesis 35, note v26**: *and this rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
+- **Exodus 24:8 *Here is the blood of the covenant***: *hinneh*, cut in every other book (spec, "No 'here —' or 'look —' for hinneh"). Proposed: *This is the blood of the covenant* (as Matthew 26:28 has it). (Bible 3, 2026-10-10)
+- **Exodus 24:16 *the weight of the LORD's glory*, against 24:17 *the LORD's glory***: the same pair as 16:7 and 16:10 above (`כבוד יהוה` in both). (Bible 3, 2026-10-10)
+- **Exodus 23:28, 23:29, 23:30, 23:31 *from before you***: `מפניך` four times; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *from your path* or *ahead of you*, once, in the same wording in all four. (Bible 3, 2026-10-10)
