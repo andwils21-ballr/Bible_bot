@@ -2,6 +2,24 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 25–28 (council 64–65, settled 2026-10-10)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 64–65). Exodus is closed; each is a quotation, count, heading or claim the text does not bear out, or a note out of order. A proposed new note on *tachash* (25:5) went to the closed-book list.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 25, note v2 | the list that follows is the exact inventory of what a nation carried out of Egypt | the list begins with gold and silver, which they had asked of Egypt (12:35) |
+| Exodus 25, note v22 | **"and I will meet with you there"** | **"I will meet with you there"** |
+| Exodus 25, note v30 | *no one can see My face and live* (33:20). Twelve loaves sit on a table in the dark, permanently | *You cannot see My face, because no human being can see Me and live* (33:20). Loaves sit on a table, always |
+| Exodus 25, note v33 | one letter from *shoqed* | the same three consonants as *shoqed* |
+| Exodus 25, note v31 | after the v33 note; a talent of gold — roughly the weight of a grown man's load, all of it one piece | before it; a talent of gold, all of it one piece |
+| Exodus 26, note v3 | four times in this chapter | five times in this chapter |
+| Exodus 26, note v31 | the third appearance of cherubim in three chapters of this canon … and now embroidered across the one door | the fourth appearance of cherubim … worked into the curtains in 26:1, and now across the one door |
+| Exodus 27, note vv9–18 | with nothing visible over the top | over it, the frames of the dwelling stand ten cubits high (26:16) |
+| Exodus 28, note v3 | Hebrew has no separate word for technical skill: … the same spirit and the same wisdom the rest of the canon uses for understanding God. | The craftsmen who will build this are called *wise of heart*, and what fills them is a *spirit of wisdom*; |
+| Exodus 28, note on *nasa* | **vv12, 29, 38** … three times in one chapter, and each time on a different part of his body | **vv12, 29, 30, 38** … four times in this chapter (vv12, 29, 30, 38) … on his **shoulders** (v12) and on his **heart** (v29) |
+| Exodus 28, note v32 | after the vv33–35 note | before it |
+
 ## Notes corrected in Exodus 21–24 (council 62, settled 2026-10-10)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek of Exodus and Matthew (`COUNCIL.md`, item 62). Exodus is closed; each is a quotation, count or claim the text does not bear out. The 24:8 note also takes the capital *My* for Jesus (Andrew, 2026-10-10).

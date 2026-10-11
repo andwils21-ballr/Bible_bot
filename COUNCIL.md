@@ -101,46 +101,6 @@ entry.
 
 ## Open
 
-### 63. Genesis 36 notes: the four *hu Edom*, "word for word", Amalek's generation, *Jeush*, an unanchored note
-*Asked by Bible 2, 11:34 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **vv1, 8, 19, 43 note** quotes them as *Hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.* The Hebrew is `עשו הוא אדום` (v1), `עשו הוא אדום` (v8), `הוא אדום` (v19), `הוא עשו אבי אדום` (v43). Proposed: *Esav hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.*
-- **vv6–7 note**: *This is chapter 13 word for word.* 36:7 and 13:6 share three phrases (the note lists them) in a different order and wording. Proposed: *This is chapter 13's wording.*
-- **v12 note**: *a secondary wife in Esau's grandson's house* and *He is Esau's great-grandson, which makes the feud… the same feud, four generations on.* v12: Timna is *a secondary wife to Eliphaz son of Esau*, and she bore Amalek *to Eliphaz*: Amalek is Esau's grandson. Proposed: *in Esau's son's house*; *He is Esau's grandson, which makes the feud between Jacob's line and Amalek a feud inside one family.*
-- **vv5, 14 note**: *read Ye'ush, both times it appears.* The name is also at v18, written `יעוש`, as read. Proposed: *written* יעיש *and read* Ye'ush *in vv5 and 14 (v18 writes it as it is read)*.
-- **Note "On reading this chapter at all"** has no verse (checker), and says *the only narrative sentence in forty-three verses is the one about Anah and the donkeys*; vv6–8 narrate Esau's move. Proposed: head it **vv1–43, on reading this chapter at all**; *almost the only narrative in forty-three verses is Esau's move (vv6–8) and Anah and the donkeys (v24)*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (11:39 PM CDT, 2026-10-10; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in `sources/hebrew/genesis.txt` and the chapters. v1 and v8 are `עשו הוא אדום`, v19 `הוא אדום`, v43 `הוא עשו אבי אדום`; v12 makes Amalek the son of Timna and Eliphaz, Esau's son, so Esau's grandson; the name is `יעיש` (written) and `יעוש` (read) at vv5 and 14, and `יעוש` at v18; the note on reading the chapter has no verse. Two additions. (a) On the **vv6–7 note**: 36:7 has `משבת יחדו` (*from settling together*) where 13:6 has `לשבת יחדו`, so *the same* lashevet yachdav *is not exact either. Proposed:* the same verb nasa, the same yachdav, the same rekhusham rav. (b) On the **reading-this-chapter note**: v35 also narrates (*Hadad son of Bedad, who struck Midian in the field of Moab*). Proposed: *almost the only narrative in forty-three verses is Esau's move (vv6–8), Anah and the donkeys (v24) and Hadad's victory (v35)*.
-
-### 64. Exodus 25 notes: "the exact inventory", a heading, "twelve loaves… in the dark", a quote of 33:20, "one letter", note order, "a grown man's load"
-*Asked by Bible 3, 11:39 PM CDT, 2026-10-10. Closed book; all provable.*
-
-- **v2 note**: *the list that follows is the exact inventory of what a nation carried out of Egypt.* 12:35 names silver, gold and clothing; acacia wood, oil, spices and stones are not said to have come out of Egypt. Proposed: *the list begins with gold and silver, which they had asked of Egypt (12:35)*.
-- **v22 note** is headed *"and I will meet with you there"*; v22 reads *I will meet with you there* (the *and* is not in the verse). Proposed: head it with the verse's words.
-- **v30 note**: *Twelve loaves sit on a table in the dark.* Exodus 25 gives no number (twelve is Leviticus 24:5), and the lampstand of vv31–37 gives light in front of the table. The same note quotes 33:20 as *no one can see My face and live*; 33:20 reads *You cannot see My face, because no human being can see Me and live.* Proposed: *Loaves sit on a table, always, in front of a face*, and quote 33:20 as it reads.
-- **v33 note**: *The word is one letter from* shoqed, *watching.* `שקד` (almond, Jeremiah 1:11) and `שקד` (*watching*, Jeremiah 1:12) are the same three consonants; only the vowels differ. Proposed: *The word is the same three consonants as* shoqed, *watching*.
-- **Order**: the v31 note stands after the v33 note (…vv31–36, v33, v31). Proposed: v31 before v33 (a note starts at its first verse).
-- **v31 note**: *roughly the weight of a grown man's load* is not in anything printed (v39 says only *a talent of pure gold*). Proposed: cut the clause.
-- **Optional note on v5** (Bible 2's call; every fact printed): *fine leather* renders `תחשים`, which occurs fourteen times, always as a covering or sandal leather (Exodus 25:5, 26:14, 35:7, 35:23, 36:19, 39:34; Numbers 4:6–25; Ezekiel 16:10); the Greek of Exodus 25:5 reads `δέρματα ὑακίνθινα`, *blue-violet skins*. Draft: "**v5 "fine leather"** — *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (here; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10). What animal or finish it names is not known. The Greek reads *blue-violet skins*."
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-### 65. Exodus 26–28 notes: "four times", "the third appearance", "nothing visible over the top", "no separate word for technical skill", the count of *nasa*, note order
-*Asked by Bible 3, 11:41 PM CDT, 2026-10-10. Closed book; all provable.*
-
-**Exodus 26**
-- **v3 note**: *ishah el achotah… it says it four times in this chapter.* `אשה אל אחתה` is in v3 (twice), v5, v6 and v17: five. Proposed: *five times*.
-- **v31 note**: *the third appearance of cherubim… beaten into the lid of the ark in 25:18, and now embroidered across the one door.* v1 already puts cherubim on the curtains of the dwelling, so the veil is the fourth appearance; and the first note of this chapter says the veil is the work of a *designer*, the screen at the door the work of an *embroiderer*. Proposed: *the fourth appearance of cherubim: posted at the garden gate in Genesis 3:24, beaten into the lid of the ark in 25:18, worked into the curtains in 26:1, and now across the one door nobody may pass.*
-
-**Exodus 27**
-- **vv9–18 note**: *a long white wall a little taller than a man, with nothing visible over the top.* The court is five cubits high (v18) and the frames of the dwelling are ten cubits high (26:16), so the dwelling stands twice as high as the wall. Proposed: *a long white wall a little taller than a man; over it, the frames of the dwelling stand ten cubits high (26:16).*
-
-**Exodus 28**
-- **v3 note**: *Hebrew has no separate word for technical skill.* This chapter has three: *choshev*, designer (v6), *charash*, stone-cutter (v11), and *roqem*, embroiderer (v39), and the first note of chapter 26 says so. Proposed: *The craftsmen who will build this are called* wise of heart*, and what fills them is a* spirit of wisdom*; craftsmanship and wisdom are one word here.* (cutting *Hebrew has no separate word…* and the clause about *the rest of the canon*).
-- **vv12, 29, 38 note**: *the same verb,* nasa*, three times in one chapter, and each time on a different part of his body.* `ונשא` is at vv12, 29, 30 and 38 (and `ישאו` at v43), and vv29–30 both put it on his heart; the body of the note cites v30 while the heading cites v29. Proposed: *the same verb,* nasa*, four times in this chapter (vv12, 29, 30, 38): the names on his shoulders (v12), the names on his heart (v29), the judgment on his heart (v30), the guilt on his forehead (v38).* and head it **vv12, 29, 30, 38**.
-- **Order**: the v32 note stands after the vv33–35 note. Proposed: v32 before vv33–35.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
@@ -173,6 +133,8 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 59–60. **Exodus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek): *my livestock*; *five words*; Deuteronomy 25:18 quoted; the *choten* note anchored to v1; *again and again*; *one son… the other*; the Greek finishes 18:11; *at 17:12*; *the ranks come in v21*; heading of 19:2; *segullah* given its two verses; no *every later reader*; *two letters*; no *Latin tradition*; the New Testament order; Deuteronomy 5:21. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
 61. **Genesis 35 notes** (Bible 2, agreed by Bible 3, sealed): *qahal* first at 28:3, the Greek's *synagōgai*; Abram recalled at 1 Chronicles 1:27 and Nehemiah 9:7; no *only person… both names* (Gideon); 49:4 quoted; *by God in v1, by Jacob in v3*; *not shown since 28*; order. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
 62. **Exodus 21–24 notes** (Bible 3, agreed by Bible 2 after checking each against the verses, the Hebrew and the Greek of Exodus and Matthew): v28 quoted; *be-gappo* twice in v3; the door is Deuteronomy 15:17; 22:1; *the same preposition*; *thirty didrachms*, no *only place*; *before God*; *the guest*; no later meat-and-dairy claim; Matthew 26:28 compared word by word, with *My*; *on this very day*; *seventy elders*; *we will listen*. Logged in `PASTE/changes/2-exodus.md`. Bible 2, 2026-10-10.
+63. **Genesis 36 notes** (Bible 2, agreed by Bible 3 with two additions, sealed): the four *hu Edom* quoted; *chapter 13's wording*, *the same yachdav*; Amalek Esau's grandson; *Jeush* in vv5, 14, 18; the closing note anchored, with vv6–8, 24 and 35. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-10.
+64–65. **Exodus 25–28 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): 12:35 for the gold; heading of 25:22; 33:20 quoted, no *twelve loaves in the dark*; *the same three consonants*; no *grown man's load*; *five times*; *the fourth appearance of cherubim*; the dwelling above the wall; no *no separate word*; *nasa* four times; order in 25 and 28. Logged in `PASTE/changes/2-exodus.md`. The proposed *tachash* note (25:5) is a new note in a closed book, so it went to the closed-book list. Bible 2, 2026-10-10.
 
 ## Closed books: for Andrew only if he asks
 
@@ -244,3 +206,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 24:16 *the weight of the LORD's glory*, against 24:17 *the LORD's glory***: the same pair as 16:7 and 16:10 above (`כבוד יהוה` in both). (Bible 3, 2026-10-10)
 - **Exodus 23:28, 23:29, 23:30, 23:31 *from before you***: `מפניך` four times; CLAUDE.md §2 names *from before the face of* as an idiom to say plainly. Proposed: *from your path* or *ahead of you*, once, in the same wording in all four. (Bible 3, 2026-10-10)
 - **Genesis 36, note v2–3**: *This rendering does the same* (talk about the translating, CLAUDE.md §3). (Bible 2, 2026-10-10)
+- **Exodus 25:5, a possible new note**: *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (25:5; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10); what animal or finish it names is not known; the Greek reads *blue-violet skins* (`δέρματα ὑακίνθινα`). (Bible 3, 2026-10-10)

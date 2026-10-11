@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 36 (council 63, settled 2026-10-10)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew and the chapter, with two additions of Bible 3's (`COUNCIL.md`, item 63). Genesis is closed; each is a quotation, count or claim the text does not bear out, or a note with no verse.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 36, note vv1, 8, 19, 43 | *Hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.* | *Esav hu Edom. Esav hu Edom. Hu Edom. Hu Esav avi Edom.* |
+| Genesis 36, note vv6–7 | This is chapter 13 word for word. … the same *lashevet yachdav* | This is chapter 13's wording. … the same *yachdav* |
+| Genesis 36, note v12 | in Esau's grandson's house … He is Esau's great-grandson, which makes the feud … the same feud, four generations on. | in Esau's son's house … He is Esau's grandson, which makes the feud … a feud inside one family. |
+| Genesis 36, note vv5, 14 | both times it appears | in vv5 and 14 (v18 writes it as it is read) |
+| Genesis 36, closing note | **On reading this chapter at all** … the only narrative sentence in forty-three verses is the one about Anah and the donkeys | **vv1–43, on reading this chapter at all** … almost the only narrative in forty-three verses is Esau's move (vv6–8), Anah and the donkeys (v24) and Hadad's victory (v35) |
+
 ## Notes corrected in Genesis 35 (council 61, settled 2026-10-10)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew, the Greek and the chapters (`COUNCIL.md`, item 61). Genesis is closed; each is a claim, quotation or order the text does not bear out.
