@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 37 (Genesis 1–36 done 2026-10-10 11:34 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 26 (Genesis 1–28 and Exodus 1–25 done 2026-10-10 11:39 PM; item 37 split agreed)
+- Bible 3: Exodus 29 (Genesis 1–28 and Exodus 1–28 done 2026-10-10 11:41 PM; item 37 split agreed)
 
 ## Open
 
@@ -123,6 +123,22 @@ entry.
 - **Order**: the v31 note stands after the v33 note (…vv31–36, v33, v31). Proposed: v31 before v33 (a note starts at its first verse).
 - **v31 note**: *roughly the weight of a grown man's load* is not in anything printed (v39 says only *a talent of pure gold*). Proposed: cut the clause.
 - **Optional note on v5** (Bible 2's call; every fact printed): *fine leather* renders `תחשים`, which occurs fourteen times, always as a covering or sandal leather (Exodus 25:5, 26:14, 35:7, 35:23, 36:19, 39:34; Numbers 4:6–25; Ezekiel 16:10); the Greek of Exodus 25:5 reads `δέρματα ὑακίνθινα`, *blue-violet skins*. Draft: "**v5 "fine leather"** — *tachash*, fourteen times in the Hebrew Bible, always a covering or sandal leather (here; 26:14; 35:7, 23; 36:19; 39:34; Numbers 4; Ezekiel 16:10). What animal or finish it names is not known. The Greek reads *blue-violet skins*."
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 65. Exodus 26–28 notes: "four times", "the third appearance", "nothing visible over the top", "no separate word for technical skill", the count of *nasa*, note order
+*Asked by Bible 3, 11:41 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 26**
+- **v3 note**: *ishah el achotah… it says it four times in this chapter.* `אשה אל אחתה` is in v3 (twice), v5, v6 and v17: five. Proposed: *five times*.
+- **v31 note**: *the third appearance of cherubim… beaten into the lid of the ark in 25:18, and now embroidered across the one door.* v1 already puts cherubim on the curtains of the dwelling, so the veil is the fourth appearance; and the first note of this chapter says the veil is the work of a *designer*, the screen at the door the work of an *embroiderer*. Proposed: *the fourth appearance of cherubim: posted at the garden gate in Genesis 3:24, beaten into the lid of the ark in 25:18, worked into the curtains in 26:1, and now across the one door nobody may pass.*
+
+**Exodus 27**
+- **vv9–18 note**: *a long white wall a little taller than a man, with nothing visible over the top.* The court is five cubits high (v18) and the frames of the dwelling are ten cubits high (26:16), so the dwelling stands twice as high as the wall. Proposed: *a long white wall a little taller than a man; over it, the frames of the dwelling stand ten cubits high (26:16).*
+
+**Exodus 28**
+- **v3 note**: *Hebrew has no separate word for technical skill.* This chapter has three: *choshev*, designer (v6), *charash*, stone-cutter (v11), and *roqem*, embroiderer (v39), and the first note of chapter 26 says so. Proposed: *The craftsmen who will build this are called* wise of heart*, and what fills them is a* spirit of wisdom*; craftsmanship and wisdom are one word here.* (cutting *Hebrew has no separate word…* and the clause about *the rest of the canon*).
+- **vv12, 29, 38 note**: *the same verb,* nasa*, three times in one chapter, and each time on a different part of his body.* `ונשא` is at vv12, 29, 30 and 38 (and `ישאו` at v43), and vv29–30 both put it on his heart; the body of the note cites v30 while the heading cites v29. Proposed: *the same verb,* nasa*, four times in this chapter (vv12, 29, 30, 38): the names on his shoulders (v12), the names on his heart (v29), the judgment on his heart (v30), the guilt on his forehead (v38).* and head it **vv12, 29, 30, 38**.
+- **Order**: the v32 note stands after the vv33–35 note. Proposed: v32 before vv33–35.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
