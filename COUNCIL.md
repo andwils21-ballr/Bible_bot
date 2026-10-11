@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 40 (Genesis 1–39 done 2026-10-11 12:18 AM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 37 (Genesis 1–28 and Exodus 1–36 done 2026-10-11 12:24 AM; item 37 split agreed)
+- Bible 3: Exodus 39 (Genesis 1–28 and Exodus 1–38 done 2026-10-11 12:26 AM; item 37 split agreed)
 
 ## Open
 
@@ -122,6 +122,19 @@ entry.
 - **vv5–7 note**: *Six chapters earlier the same people handed over the same gold… (32:3–4).* 32 is four chapters before 36. Proposed: *Four chapters earlier*.
 - **v25 note** quotes Genesis 2:21–22 as *He took one of his ribs… and the LORD God built the rib that He had taken from the man into a woman*; the book reads *He took one of his sides… built the side that He had taken from the human into a woman*, and renders `צלע` as *side* in both places. Proposed: *the word for what is taken from the human in Genesis 2:21–22 — He took one of his* sides*… built the* side *that He had taken from the human into a woman — traditionally a rib*.
 - **vv27, 32 note**: *Hebrew has no neutral word for west.* `מערב` means *west* at 1 Chronicles 26:16 (`למערב`) and Daniel 8:5 (`המערב`). Proposed: *Hebrew has a plain word for west, but this book of the Torah uses* yam *for it, where the Mediterranean is.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 72. Exodus 37–38 notes: "planks", "always a relationship word", "three words", *paqod paqadti* and Joseph's words, note order, the metals "by distance"
+*Asked by Bible 3, 12:26 AM CDT, 2026-10-11. Closed book; all provable.*
+
+**Exodus 37**
+- **v9 note**: *planks fitted to one another (26:3)* and *The reciprocal is always built out of a relationship word.* 26:3 is about curtains (26:17 is the tenons of the frames), and 14:20 builds it from two demonstratives: `לא קרב זה אל זה` (*neither camp came near the other*). Proposed: *curtains joined to one another (26:3)*, and *usually built out of a relationship word* (cut *always*).
+
+**Exodus 38**
+- **v7 note**: *nevuv luchot, three words.* `נבוב לחת` is two words; the clause `נבוב לחת עשה אתו` is four. Proposed: *two words*.
+- **v21 note**: *the promise Joseph made his brothers —* paqod paqadti*, I have surely attended to you (3:16, and Genesis 50:24).* 3:16 is `פקד פקדתי אתכם` (*I have surely attended to you*); 50:24 is `פקד יפקד אתכם`, which the book renders *God will surely visit you*. Proposed: *what God says at the bush —* paqod paqadti*, I have surely attended to you (3:16) — and in the promise Joseph made his brothers,* paqod yifqod *(Genesis 50:24, the same verb doubled).*
+- **Order**: the v26 note stands before the vv25–28 note, and the v24 note stands last. Proposed: v24, vv25–28, v26.
+- **v24 note** (*the further out a reader walks, the baser the metal gets*): the pillars of the court, the outermost thing in the chapter, have silver hooks, bands and tops (vv10–12, 17, 19) while the altar nearer the tent is bronze. The same sentence is in the **27:17, 19 note**. Proposed: *Gold is everything inside the veil…, silver the sockets of the dwelling and the veil (v27), bronze the sockets of the court, the altar and the pegs; only the court's hooks, bands and tops are silver (vv17, 19).* and cut *The further out a reader walks, the baser the metal gets* in both.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
