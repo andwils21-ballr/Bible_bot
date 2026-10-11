@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 39 (council 70, settled 2026-10-11)
+
+**Request:** found by Bible 2, agreed by Bible 3 with one addition (`COUNCIL.md`, item 70). Genesis is closed; both are claims the text does not bear out (37:36 says *sold*, not *brought down*; 25:25 reports Esau's looks).
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 39, note v1 | It is the third descent in three chapters. Joseph is brought down to Egypt (37:36), Judah goes down | The verb runs through three chapters: the caravan is on its way to take its goods down to Egypt (37:25), Jacob says he will go down to Sheol mourning (37:35), Judah goes down |
+| Genesis 39, note v6 | the only man in the book whose looks are reported | the only man in the book called beautiful |
+
 ## Notes corrected in Genesis 38 (council 68, settled 2026-10-11)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the chapters (`COUNCIL.md`, item 68). Genesis is closed; each is a heading, quotation or claim the text does not bear out, or a note with no verse.

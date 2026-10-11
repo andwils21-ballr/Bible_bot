@@ -2,6 +2,25 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 27, 35–38 (council 71–72, settled 2026-10-11)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 71–72). Exodus is closed; each is a quotation, count, distance or claim the text does not bear out, or a note out of order. The court's hooks, bands and tops are silver (27:10–11, 17; 38:10–12, 17, 19), so the metals are not graded by distance; the 27:17 wording is Bible 2's.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 27, note v17, 19 | **the metals are graded by distance** … The further from the ark, the cheaper the metal, with no verse saying so. The scheme is only visible if you read the inventory as a map. | **the metals** … Gold is nearest the ark and bronze is in the ground, but the silver of the court's hooks and bands breaks any simple order by distance, and no verse states a scheme. |
+| Exodus 35, note v3 | It is the same root as *mishkan* only by accident of subject matter, not of word: | It is not the root of *mishkan*: |
+| Exodus 35, note v22 (the gold) | the second time in six chapters | the second time in four chapters |
+| Exodus 35, note v32 | *every inclination of the thoughts of his heart was only evil, all day long* | *every shaping of the thoughts of his heart was only evil all the day* |
+| Exodus 36, note vv5–7 | Six chapters earlier | Four chapters earlier |
+| Exodus 36, note v25 | the noun is **rib** … *He took one of his ribs… built the rib that He had taken from the man* … The dwelling has ribs and sides; the first woman is constructed out of one. | the noun English traditionally renders **rib** … *He took one of his sides… built the side that He had taken from the human* … The dwelling has sides; the first woman is built out of one. |
+| Exodus 36, note vv27, 32 | Hebrew has no neutral word for west: | Hebrew has a plain word for west (*ma'arav*, 1 Chronicles 26:16), but here it says *yam*: |
+| Exodus 37, note v9 | planks fitted to one another (26:3) … always built out of a relationship word | curtains joined to one another (26:3) … usually built out of a relationship word |
+| Exodus 38, note v7 | three words | two words |
+| Exodus 38, note v21 | at the bush and in the promise Joseph made his brothers — *paqod paqadti* … (3:16, and Genesis 50:24) | at the bush — *paqod paqadti* … (3:16) — and in the promise Joseph made his brothers, *paqod yifqod* (Genesis 50:24, the same verb doubled) |
+| Exodus 38, notes | v26, vv25–28 … v24 last | v24, vv25–28, v26 |
+| Exodus 38, note v24 | the three metals sort themselves by distance from the ark … The further out a reader walks, the baser the metal gets | only the court's hooks, bands and tops are silver (vv17, 19). No verse states the ordering |
+
 ## Notes corrected in Exodus 33–34 (council 69, settled 2026-10-11)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 69). Exodus is closed and chapter 33 is a fixed model; each is a claim the text does not bear out. The proposed change to the verse 33:11 (*He would return* → *Moses would return*) is a rendering, so it went to the closed-book list.
