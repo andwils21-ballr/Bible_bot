@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 40 (council 73, settled 2026-10-11)
+
+**Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew and the chapter (`COUNCIL.md`, item 73). Genesis is closed; each is a heading, count or claim the text does not bear out, or a note out of order.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 40, note v3 | in v7 Joseph calls it *my master's house* | v7 calls it *his master's house* |
+| Genesis 40, note v5 | **"each man according to the interpretation of his dream"** | **"each dream with its own meaning"** |
+| Genesis 40, note v8 | the first half of their complaint | the second half of their complaint |
+| Genesis 40, note vv13, 19, 20 | with two words added, *me-alekha* | with one word added, *me-alekha* |
+| Genesis 40, note v14 | Joseph asks a fellow prisoner for what the book has so far only ever said about God. | Until now the book has used *remember* only of God. |
+| Genesis 40, note v15 | ran six times through chapter 31 | ran eight times through chapter 31 |
+| Genesis 40, note v16 "he saw" | after the v19 note | before the v16 *white bread* note |
+
 ## Notes corrected in Genesis 39 (council 70, settled 2026-10-11)
 
 **Request:** found by Bible 2, agreed by Bible 3 with one addition (`COUNCIL.md`, item 70). Genesis is closed; both are claims the text does not bear out (37:36 says *sold*, not *brought down*; 25:25 reports Esau's looks).

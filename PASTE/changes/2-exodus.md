@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Exodus 39–40 (council 74, settled 2026-10-11)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 74). Exodus is closed; each is an order, count, distance or *only* claim the text does not bear out.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 39, note vv32, 43 | three verbs, in the same order | the same three verbs |
+| Exodus 39, note v3 | the only description in the Bible of how any material in the sanctuary was actually manufactured … the one sentence about technique | the only verse of the building account that says how a thread was made … the one sentence about how a thread was made |
+| Exodus 39, note v30 | the only writing anywhere in the sanctuary … Everything else in nine chapters of instruction is an object. | the only sentence anyone wears in the sanctuary … The stones carry the tribes' names (vv6, 14); everything else the garments carry is an object or a name. |
+| Exodus 40, note v33 | Chapter 39 already ran the other two verbs … This is the third. | Chapter 39 already gave the other two (39:43) and said the work was finished (39:32). Here Moses himself is the one who finishes, in the very form of Genesis 2:2. |
+| Exodus 40, note vv4, 23 | The noun is *ma'arakhah*, the word for a battle line | The noun is *erekh*, an arrangement. Its relative *ma'arakhah* is the word for a battle line (1 Samuel 17:8) and for the rows of bread (Leviticus 24:6) |
+| Exodus 40, note vv22, 24 | the hip the wrestler puts out at 32:25, and the part of the body an oath about descendants is sworn on at Genesis 24:2 | the hip that is wrenched at Genesis 32:25, and the loin Abraham's servant swears under at Genesis 24:2 |
+| Exodus 40, note v35 (outside) | twenty feet away at ground level … a tent he built himself | the cloud rests on the tent itself … a tent he raised himself |
+| Exodus 40, note vv36–38 | none of them yet made | none of them yet made from here |
+
 ## Notes corrected in Exodus 27, 35–38 (council 71–72, settled 2026-10-11)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, items 71–72). Exodus is closed; each is a quotation, count, distance or claim the text does not bear out, or a note out of order. The court's hooks, bands and tops are silver (27:10–11, 17; 38:10–12, 17, 19), so the metals are not graded by distance; the 27:17 wording is Bible 2's.
