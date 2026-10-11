@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 35 (Genesis 1–34 done 2026-10-10 11:05 PM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 19 (Genesis 1–28 and Exodus 1–18 done 2026-10-10 11:09 PM; item 37 split agreed)
+- Bible 3: Exodus 21 (Genesis 1–28 and Exodus 1–20 done 2026-10-10 11:11 PM; item 37 split agreed)
 
 ## Open
 
@@ -127,6 +127,21 @@ entry.
 - **v11 note**: *the Greek does not supply one either; the oldest translation is as stranded as the original.* The Greek that `source_text.py` prints reads `ἕνεκεν τούτου ὅτι ἐπέθεντο αὐτοῖς`, *because of this, that they set upon them*, a finished clause. Proposed: *The Greek finishes it,* because of this, that they set upon them*; the Hebrew breaks off.*
 - **v18 note**: *Moses' heavy hands six verses earlier.* The hands are at 17:12, in the chapter before. Proposed: *Moses' heavy hands at 17:12*.
 - **v22 note**: *Nothing is said about authority or rank.* v21 and v25 name the ranks (*officers of thousands, officers of hundreds…*, *heads over the people*). Proposed: *The ranks come in v21, but the reason the speech gives is weight.*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 60. Exodus 19–20 notes: a heading, "one letter", "every later reader", the Greek order of the commandments, the New Testament order, "the three witnesses agree", "from the Latin tradition"
+*Asked by Bible 3, 11:11 PM CDT, 2026-10-10. Closed book; all provable.*
+
+**Exodus 19**
+- **v2 note** is headed *"and Israel camped there"*; v2 reads *Israel camped there in front of the mountain* (the *and* is not in the verse). Proposed: head it with the verse's words.
+- **vv16, 18 note**: *One letter separates* ha-am*, the people, from* ha-har*, the mountain.* `העם` and `ההר` differ in two letters. Proposed: *Two letters*.
+- **v15 note**: *every later reader who has taken this as God's requirement is quoting Moses.* Nothing printed shows what later readers have done. Proposed: cut the sentence (the rest of the note stands).
+- **v5 note** (optional): *segullah… is the term for a king's private wealth* is not shown by anything printed. Two verses show it: *the treasure of kings* (`סגלת מלכים`, Ecclesiastes 2:8) and *my own treasure of gold and silver* (`סגלה זהב וכסף`, 1 Chronicles 29:3). Proposed: add *(Ecclesiastes 2:8; 1 Chronicles 29:3)* after *a king's private wealth*.
+
+**Exodus 20**
+- **vv13–15 note**: *adultery comes first every time, following the Greek against the Hebrew.* The Greek of Exodus 20:13–15 is adultery, theft, murder (`μοιχεύσεις… κλέψεις… φονεύσεις`). The Greek New Testament in `sources/greek` reads adultery, murder, theft at Luke 18:20 and Romans 13:9 (`μοιχεύσῃς… φονεύσῃς… κλέψῃς`), and James 2:11 has adultery, then murder. So the New Testament follows the Greek only in putting adultery first. Proposed: *adultery comes first every time. Where theft is listed (Luke 18:20, Romans 13:9) the order is adultery, murder, theft, which is neither the Hebrew's order nor the Greek of Exodus.*
+- **v17 note**: *The three witnesses agree on what is forbidden and disagree on what comes first.* The Hebrew of Exodus does not list *his field*; the Greek of Exodus does (`τὸν ἀγρὸν αὐτοῦ`) and so does the Hebrew of Deuteronomy 5:21 (`שדהו`). Proposed: *Deuteronomy's Hebrew also puts the wife first and lists the field (5:21); the Hebrew of Exodus is the odd one out.* and cut the last sentence.
+- **v1 note**: *English gained "the Ten Commandments" from the Latin tradition.* Nothing printed shows it (the sources hold no Latin Exodus). Proposed: cut that sentence; *neither original language says* command *anywhere in the title* stands (34:28 reads *the ten words* in both).
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -224,3 +239,5 @@ entry.
 - **Exodus 16:12 *At twilight***: `בין הערבים`, rendered *between the evenings* at 12:6, 29:39, 29:41, 30:8, Leviticus 23:5, Numbers 9:3, 9:5, 9:11, 28:4 and 28:8; the 12:6 note builds on it. Proposed: *Between the evenings you will eat meat*. (Bible 3, 2026-10-10)
 - **Exodus 16:7 *the weight of the LORD's glory*, against 16:10 *the glory of the LORD***: both are `כבוד יהוה`; the v7 note explains the weight, but the English reads two ways in four verses. Proposed: *the glory of the LORD* in both, or the same wording in both. (Bible 3, 2026-10-10)
 - **Genesis 34, note v7**: *that he made humanity*, lowercase *he* for God (capital-pronoun rule, after the sign-off). (Bible 2, 2026-10-10)
+- **Exodus 15:13 *Your faithful love***: `חסד` is *loyal love* everywhere else in the book (Exodus 20:6 and 34:7, Deuteronomy's parallels, 2 Samuel, 1 Kings, 1 Chronicles); *faithful love* appears only here and in the 15:13 note. Proposed: *Your loyal love*. (Bible 3, 2026-10-10)
+- **Exodus 19:1 *on that very day***: the Hebrew is `ביום הזה`, *on this day*; the project's *very* renders `בעצם`, as at 12:17, 12:41 and 12:51 (*on this very day*). Proposed: *on that day*. (Bible 3, 2026-10-10)
