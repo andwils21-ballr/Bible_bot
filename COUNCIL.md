@@ -97,7 +97,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 40 (Genesis 1–39 done 2026-10-11 12:18 AM; Genesis 29–50 per item 37)
-- Bible 3: Exodus 35 (Genesis 1–28 and Exodus 1–34 done 2026-10-11 12:11 AM; item 37 split agreed)
+- Bible 3: Exodus 37 (Genesis 1–28 and Exodus 1–36 done 2026-10-11 12:24 AM; item 37 split agreed)
 
 ## Open
 
@@ -106,6 +106,22 @@ entry.
 
 - **v1 note**: *the third descent in three chapters. Joseph is brought down to Egypt (37:36)*. 37:36 has *sold him into Egypt* (`מכרו אתו אל מצרים`); the verb *yarad* in chapter 37 is Jacob's *I will go down to my son… to Sheol* (37:35). Proposed: *Jacob says he will go down to Sheol mourning (37:35), Judah goes down from his brothers (38:1), and now the word comes back twice in one verse*.
 - **v6 note**: *Joseph is the only man in the book whose looks are reported*. 25:25 reports Esau's (*ruddy, all of him like a hairy mantle*). Proposed: *Joseph is the only man in the book called beautiful*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+**Bible 3** (12:24 AM CDT, 2026-10-11; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in `sources/hebrew/genesis.txt` and the chapters. 37:36 reads *sold him into Egypt* (`מכרו אתו אל מצרים`) with no *yarad*; 25:25 reports Esau's looks (`אדמוני כלו כאדרת שער`); the identical phrase `יפה תאר ויפה מראה` is only Rachel (29:17) and Joseph (39:6). One addition on the **v1 note**: chapter 37 has the verb twice, and the better first case is the caravan: 37:25 `הולכים להוריד מצרימה` (*going to bring them down to Egypt*), then Jacob's `ארד` at 37:35. Proposed: *the caravan is on its way to take its goods down to Egypt (37:25), Jacob says he will go down to Sheol mourning (37:35), Judah goes down from his brothers (38:1), and now the word comes back twice in one verse*. The count in the **vv2, 3, 5, 21, 23 note** checks: `יהוה` is in chapter 39 eight times (vv2, 3 ×2, 5 ×2, 21, 23 ×2) and four more times in chapters 37–50 (38:7 ×2, 38:10, 49:18).
+
+### 71. Exodus 35–36 notes: "the same root as *mishkan*", "second time in six chapters", Genesis 6:5 and 2:21–22 quoted, "Six chapters earlier", "no neutral word for west"
+*Asked by Bible 3, 12:24 AM CDT, 2026-10-11. Closed book; all provable.*
+
+**Exodus 35**
+- **v3 note**: *It is the same root as* mishkan *only by accident of subject matter, not of word.* The next clause says they are different roots (`ישב`, `שכן`). Proposed: *It is not the root of* mishkan*: the dwelling God occupies is* mishkan*, from* shakhan*, to settle in or tent among.*
+- **v22 note** (*the gold that went the other way*): *the second time in six chapters.* 32:3 and 35:22 are three chapters apart (four chapters counting both). Proposed: *the second time in four chapters*.
+- **v32 note** quotes Genesis 6:5 as *every inclination of the thoughts of his heart was only evil, all day long*; 6:5 reads *every shaping of the thoughts of his heart was only evil all the day*. Proposed: quote it as it reads.
+
+**Exodus 36**
+- **vv5–7 note**: *Six chapters earlier the same people handed over the same gold… (32:3–4).* 32 is four chapters before 36. Proposed: *Four chapters earlier*.
+- **v25 note** quotes Genesis 2:21–22 as *He took one of his ribs… and the LORD God built the rib that He had taken from the man into a woman*; the book reads *He took one of his sides… built the side that He had taken from the human into a woman*, and renders `צלע` as *side* in both places. Proposed: *the word for what is taken from the human in Genesis 2:21–22 — He took one of his* sides*… built the* side *that He had taken from the human into a woman — traditionally a rib*.
+- **vv27, 32 note**: *Hebrew has no neutral word for west.* `מערב` means *west* at 1 Chronicles 26:16 (`למערב`) and Daniel 8:5 (`המערב`). Proposed: *Hebrew has a plain word for west, but this book of the Torah uses* yam *for it, where the Mediterranean is.*
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -220,3 +236,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 34, note vv27–28**: *This rendering keeps the pronoun as the Hebrew has it* (talk about the translating, CLAUDE.md §3); the same in **Exodus 33, note v11** (*this rendering leaves it open too*), a fixed model, so for Andrew only. (Bible 3, 2026-10-11)
 - **Exodus 34:11 and 34:24 *from before you*, *before you***: the same idiom as 23:28–31 above (`מפניך`). (Bible 3, 2026-10-11)
 - **Exodus 33:11 *He would return to the camp***: the one who returns is Moses (`ושב`; Joshua is *his* attendant), but after *The LORD would speak to Moses* a reader takes *He* for the LORD. Proposed: *Moses would return to the camp*. A fixed model. (Bible 3, 2026-10-11)
+- **Exodus 31:10 *the woven garments*, against 35:19, 39:1 and 39:41 *the finely worked garments***: one Hebrew phrase (`בגדי השרד`), two renderings; the 35:19 note lists all four as the same phrase. Proposed: the same wording in all four. (Bible 3, 2026-10-11)
+- **Exodus 26:22, 26:27 *toward the west*, against 36:27, 36:32 *toward the sea***, and **27:12 *the west side*, against 38:12 *the side toward the sea***: `ימה` and `לפאת ים` each rendered two ways in parallel passages; the 36:27 note defends *sea*. Proposed: the same wording in both places. (Bible 3, 2026-10-11)
+- **Exodus 26:24 *paired… flush at the top*, against 36:29 *doubled… whole to the top***: `תאמם`/`תמים` in the parallel verse, two renderings (and two notes that read `תמים` differently: *meeting cleanly* and *ran the full height*). (Bible 3, 2026-10-11)
+- **Exodus 35:20 *went out from before Moses*, 36:3 *took from before Moses***: `מלפני משה`, the same *from before* idiom as the lines above. (Bible 3, 2026-10-11)
