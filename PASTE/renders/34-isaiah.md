@@ -2,6 +2,134 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 39–42 — rendered 2026-10-11, 10:50 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (40:3, 6, 9, 13; 42:1, 4).
+
+**Parallel passage:** Isaiah 39 is 2 Kings 20:12–19, compared word by word; Kings' English is used where the words are the same. Isaiah's differences: *Merodach* (Kings *Berodach*); *he had been sick and had recovered* (v1); *his treasure house* without *all*, and *all his armory* (v2); *They have come to me* (v3); *the LORD of hosts* (v5); *There will be peace and security in my days* as a statement (v8; Kings asks it).
+
+**Lessons from the spot check of 31–34 applied in this run:** a word the source repeats on purpose keeps one English word wherever a note claims the echo (*renew their strength*, 40:31 and 41:1; *grow faint… weary*, 40:28–31; *crushed reed*, 36:6 and 42:3; *the Spirit of the LORD*, 40:7 and 13); quotations are taken from this project's English of the passage quoted; no subject or person is supplied that the Hebrew lacks.
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- No sentence starts with *And*.
+- *hinneh*: 39:6 cut (as Kings); 40:9 *Here is your God!* and 40:10 *Here is the Lord GOD!* (presentations; the second *hinneh* in 40:10 cut); 41:11, 41:24, 41:29 *hen* cut; 41:15 *I will make you*; 41:27 *Here they are!* (a presentation); 42:1 *Here is My servant* (a presentation, as Matthew 12:18); 42:9 cut.
+
+**Read forms followed (no note, the meaning is the same):** 39:2 *nekhoto*; 41:23 *nir'eh*; 42:20 *ra'ot*; 42:24 *limshissah*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:6 (note), 1:26, 2:7, 50:21; Exodus 15:3; Leviticus 26:41; Ruth 4:14; 2 Chronicles 20:7; Psalms 22:6, 23:2; Daniel 1:3 (Hebrew); Matthew 3:3, 12:18–21; Luke 2:32.
+- Isaiah 6:9–10, 8:1, 11:1, 13:1, 20:3, 21:9, 22:20, 26:17–18, 35:4, 36:6, 37:35, 38:3–5.
+- Earlier notes in other books that quote these chapters agree with them, apart from wording in Job 7:1 (*Her warfare is ended*), 3 Meqabyan 9:10 (*Who has measured the Spirit of the LORD, or what man shows Him His counsel?*), Sirach 18:13 (*He will feed His flock*) and Matthew 6:30 (*stands forever*); logged in `NOTES_FOR_ANDREW.md`, not changed.
+
+**Checked against the sources:**
+- Hebrew: 2 Kings 20:12–19 word by word against Isaiah 39; every *avdi*, "My servant," in Isaiah 1–41 (Israel first at 41:8).
+- Swete's Greek: Isaiah 40:2, 3, 6, 9, 13, 20; 41:4, 14; 42:1, 4, 19.
+- SBLGNT: John 1:23; 1 Peter 1:24–25; Romans 11:34; James 2:23; Luke 2:32; Revelation 1:17, 22:12, 22:13.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **39:** the envoys from Babylon; Hezekiah shows them everything; *the days are coming… carried to Babylon*.
+- **40:** *Comfort, comfort My people*; the voice in the wilderness; *all flesh is grass*; *Here is your God!*; the LORD who measures the waters and names the stars; *those who wait for the LORD will renew their strength*.
+- **41:** the coastlands summoned to court; the conqueror from the east; *Israel, My servant… do not fear, for I am with you*; the idols challenged to tell the future.
+- **42:** *Here is My servant… a crushed reed he will not break*; *a light for the nations*; a new song; the blind and deaf servant Israel.
+
+### Isaiah 39: The Envoys from Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sefarim* "writings" | letters (as Kings) |
+| 2 | *beit nekhoto* | his treasure house (as Kings) |
+| 2 | *beit kelav* "house of his vessels" | his armory (as Kings) |
+| 6 | *hinneh yamim ba'im* | The days are coming (as Kings) |
+| 7 | *sarisim* | eunuchs (as Kings) |
+| 8 | *ki yihyeh shalom ve-emet be-yamai* | There will be peace and security in my days (note) |
+
+### Isaiah 40: Comfort, Comfort My People
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *dabberu al lev Yerushalayim* "speak upon the heart of Jerusalem" | ***KEPT AS IS*** Speak to the heart of Jerusalem (as Genesis 50:21; note) |
+| 2 | *male'ah tseva'ah* "her service is filled" | her hard service is ended (note) |
+| 2 | *nirtsah avonah* | her iniquity is paid for (Leviticus 26:41's verb; note) |
+| 2 | *kiflayim* | double |
+| 3 | *qol qore ba-midbar pannu derekh* | A voice calls: "In the wilderness prepare the way" (note) |
+| 4 | *he-aqov… ha-rekhasim* | the uneven ground… the rough places |
+| 6 | *ve-amar* "and he says" | and one says |
+| 6 | *kol chasdo* "all its loyal love" | all its loyalty (note) |
+| 7 | *ruach YHWH* | the Spirit of the LORD (choice below) |
+| 9 | *mevaseret Tsiyyon* | Zion, herald of good news (note) |
+| 10 | *u-zero'o moshelah lo* "and His arm rules for Him" | and His arm rules for Him |
+| 11 | *alot yenahel* "the nursing ones He leads" | and gently lead those that are nursing |
+| 12 | *be-sho'olo… ba-zeret… ba-shalish* "in His hollow… with a span… in a third-measure" | in the hollow of His hand… with a span… in a measure |
+| 12 | (pronouns) | His (the One who measured the waters is God) |
+| 13 | *mi tikken et ruach YHWH* | Who has marked out the Spirit of the LORD |
+| 15 | *ke-shachaq moznayim* "like the dust of scales" | as dust on the scales |
+| 17 | *me-efes va-tohu* | less than nothing and emptiness |
+| 19 | *ha-pesel* | An idol! |
+| 20 | *ha-mesukkan terumah* "the one impoverished of offering" | ***KEPT AS IS*** He who is too poor for such an offering (the phrase is obscure) |
+| 22 | *ke-doq* "like a thin cloth" | like a curtain |
+| 24 | *giz'am* | their stump (11:1's word; note) |
+| 27 | *u-me-Elohai mishpati ya'avor* "and from my God my right passes over" | and my right is passed over by my God |
+| 30 | *kashol yikkashelu* "stumbling they stumble" | stumble and fall |
+| 31 | *qovei YHWH* | those who wait for the LORD |
+| 31 | *yachalifu khoach* "will exchange strength" | will renew their strength (as 41:1) |
+| 31 | *ya'alu ever ka-nesharim* "they will raise a pinion like eagles" | they will mount up with wings like eagles |
+
+### Isaiah 41: Do Not Fear, I Am with You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hacharishu elai* | Be silent before Me |
+| 2 | *tsedeq yiqra'ehu le-raglo* "righteousness calls him to its foot" | whom righteousness calls to its feet |
+| 4 | *ani hu* | I am He |
+| 7 | *machaliq pattish et holem pa'am* "the smoother of the hammer him who strikes the anvil" | he who smooths with the hammer him who strikes the anvil |
+| 8 | *ohavi* "who loves Me" | My friend (as 2 Chronicles 20:7; note) |
+| 9 | *u-me-atsileha* | from its farthest corners |
+| 10 | *al tishta* | do not be dismayed |
+| 14 | *tola'at Ya'aqov metei Yisra'el* | ***KEPT AS IS*** you worm Jacob, you men of Israel (*metei*, "men," perhaps "few men") |
+| 14 | *go'alekh* | your Redeemer (note) |
+| 15 | *hinneh samtikh* | I will make you |
+| 18 | *shefayim* | the bare heights (as the Numbers 23:3 note) |
+| 18 | *u-ve-tokh beqa'ot* | in the middle of the valleys |
+| 19 | *erez shittah va-hadas ve-ets shemen… berosh tidhar u-te'ashur* | the cedar, the acacia, the myrtle and the olive… the cypress, the plane and the pine |
+| 21 | *atsumoteikhem* "your strong things" | your strong arguments |
+| 24 | *me-ayin… me-afa* | less than nothing… less than nothing |
+| 24 | *to'evah* | detestable (fixed term) |
+| 25 | *segganim* | rulers |
+| 27 | *rishon le-Tsiyyon hinneh hinnam* "first to Zion, here, here they are" | ***KEPT AS IS*** I first said to Zion, "Here they are!" (the line is compressed) |
+| 29 | *aven* | a delusion |
+| 29 | *ruach va-tohu* | wind and emptiness (note) |
+
+### Isaiah 42: Here Is My Servant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hen avdi* | Here is My servant (a presentation; lowercase *he* and *him* for the servant in Isaiah, as at 7:14 and 9:6; note) |
+| 1 | *ratsetah nafshi* | in whom My soul delights |
+| 3 | *qaneh ratsuts* | a crushed reed (as 36:6; note) |
+| 3 | *pishtah khehah* | a dimly burning wick |
+| 3 | *le-emet* "to truth" | faithfully |
+| 4 | *lo yikhheh ve-lo yaruts* | He will not grow dim or be crushed (note) |
+| 4 | *le-torato* | for his instruction (note) |
+| 5 | *roqa ha-arets* | who spread out the earth (note) |
+| 9 | *ha-rishonot hinneh va'u* | The former things have come to pass (*hinneh* cut) |
+| 11 | *chatserim teshev Qedar* | the villages where Kedar lives |
+| 13 | *yari'a af yatsriach* | He shouts, He raises the battle cry |
+| 14 | *ef'eh eshshom ve-esh'af* | I will cry out… I will gasp and pant |
+| 15 | *iyyim* "islands, coastlands" | dry land |
+| 19 | *meshullam* | ***KEPT AS IS*** the one at peace with Me (note: uncertain) |
+| 20 | *ve-lo tishmor* | but do not keep them |
+| 22 | *hafeach ba-churim kullam* "snaring in holes all of them" | they are all trapped in holes |
+| 22 | *ein omer hashav* | no one to say, "Give it back!" |
+
+**Choices for you:**
+- **40:7, *ruach YHWH*** — *The grass withers, the flower fades, when the Spirit of the LORD blows on it; surely the people are grass.* And v13: *Who has marked out the Spirit of the LORD, or what man has shown Him His counsel?*
+  - **(a) "the Spirit of the LORD"** in both verses (in the text now): the fixed term says *ruach* of God or of the LORD is *the Spirit*, and keeping one English word shows v7 and v13 use the same two words.
+  - **(b) "the breath of the LORD"** in v7, as a wind that withers grass (the fixed term keeps *a wind* lowercase), and *the Spirit* in v13.
+  - Recommend **(a)**. The rule settles v7 on its words, though a wind is what the line pictures; if (b), the note will say the two verses share *ruach YHWH*.
+
 ## Isaiah 35–38 — rendered 2026-10-11, 5:51 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere.
