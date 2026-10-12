@@ -13,11 +13,17 @@ I send a prompt").
 - which of two files is right when they disagree, by the rule they serve;
 - process and tools: the checker, the reports, the build, the Routine, the
   hand-off between sessions;
-- a provable error in a book that is not closed.
+- a provable error in a book that is not closed;
+- anything that is not a choice of meaning (Andrew, 2026-10-12: he wants the
+  places where the source honestly allows more than one meaning, and would
+  rather the sessions fix everything else): rule breaks, words not kept the
+  same, notes that misquote or overclaim, a departure from the Hebrew with no
+  witness named.
 
 **May not settle**, because CLAUDE.md gives these to Andrew:
-- a substantive or alternate translation (CLAUDE.md §2), a new fixed term, a
-  new kept *And*, or any change of meaning;
+- a place where the source honestly allows more than one meaning (CLAUDE.md
+  §2; these are the decisions Andrew wants most), a new fixed term, a new kept
+  *And*;
 - anything in a closed book (Genesis, Exodus, Leviticus) unless it is provably
   wrong;
 - CLAUDE.md's own rules.

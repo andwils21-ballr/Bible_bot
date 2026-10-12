@@ -7,7 +7,11 @@ hand on 2026-10-03 (1 Chronicles 14–17); it found notes saying a word was
 "fixed as" something, wording copied from a parallel passage, and a broken
 sentence filled in, and it found mistakes of its own.
 
-A spot check never changes a chapter. It reports; Andrew decides.
+A spot check reports; it does not change chapters while it runs. Afterward
+(Andrew, 2026-10-12) Bible 2 fixes the rule breaks and the departures from the
+Hebrew it found, logs them in the book's `PASTE/changes/` file, and adds the
+choices of meaning to the book's `PASTE/renders/` file. Only the choices of
+meaning go to Andrew.
 
 The Routine "Bible_bot — weekly spot check (in Bible 2)" pings the Bible 2
 session every Sunday at 3:10 PM Central (Andrew did not want a new session on

@@ -51,6 +51,15 @@ sense of it. **These are worked out together with Andrew.** Lay out the literal
 options, say what each would mean, and give your recommendation. He decides the
 substantive ones.
 
+**These are the decisions Andrew wants most** (Andrew, 2026-10-12): a place
+where the Hebrew or Greek honestly allows more than one meaning, such as
+Isaiah 32:2, *ish*, "each one" (every prince a shelter) or "a man" (the king
+himself). "That's the whole reason I started this project." Everything else
+he would rather the sessions fix among themselves (`COUNCIL.md`): rule breaks,
+words kept or not kept the same, notes that misquote or overclaim, renderings
+that leave the Hebrew with no witness named. Bring him the meanings; fix the
+rest.
+
 **When to change a rendering from the usual English:**
 
 - A legitimate translation can be logically concluded from the source (the

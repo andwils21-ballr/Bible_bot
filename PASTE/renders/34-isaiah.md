@@ -544,6 +544,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 17 | *hippil lahen goral… ba-qav* | He has cast the lot for them… by the line (note) |
 
 **Choices for you:**
+- **32:2, *ve-hayah ish*** — *Each will be like a hiding place from the wind, a shelter from the storm* (after v1, *A king will reign in righteousness, and princes will rule in justice*). Added by Bible 2 from the spot check of 2026-10-11 (Bible Main settled it without a note).
+  - **(a) "Each will be like a hiding place"** (in the text now): *ish* as "each one," every prince a shelter.
+  - **(b) "A man will be like a hiding place"**: *ish* as "a man," which can be the king of v1 himself.
+  - The Hebrew says *ish* and does not say which. The blind re-render chose (b).
+- **34:16, *ki fi hu tsivvah*** — *Seek in the book of the LORD, and read: not one of these will be missing… For My mouth has commanded, and His Spirit has gathered them.* Added by Bible 2 from the spot check (the text had *His mouth*, which is not the Hebrew; now corrected to the Hebrew's *my*).
+  - **(a) "My mouth"** (in the text now): the LORD's mouth, beside *His Spirit*.
+  - **(b) "my mouth"**: the prophet's, who has just said *seek in the book of the LORD*.
+  - The Hebrew is *pi*, "my mouth," and does not say whose; the Greek reads *the Lord commanded them*. The capital decides it.
 - **33:17, *melekh be-yofyo*** — *Your eyes will see the King in His beauty; they will see a land that stretches afar.*
   - **(a) "the King in His beauty"** (in the text now), the LORD: v22 of the same poem says *the LORD is our king*, and Isaiah's own words in the temple were *my eyes have seen the King, the LORD of hosts* (6:5).
   - **(b) "the king in his beauty"**, a human king, as in 32:1, *A king will reign in righteousness*.

@@ -1,0 +1,23 @@
+# Decision Making with Before/After: Isaiah
+
+Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
+
+## Spot-check fixes in Isaiah 31–34 (2026-10-12)
+
+**Request:** the spot check of 2026-10-11 (`PASTE/spot-checks/2026-10-11.md`) found these in Bible Main's cycle; Andrew (2026-10-12) asked that rule breaks be fixed by the sessions rather than brought to him. Each change matches the blind re-render and the Hebrew. The meaning choices (32:2, 33:17, 34:16) are in the Isaiah 31–34 entry of `PASTE/renders/34-isaiah.md`.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 31:6 | Return to Him from whom you have so deeply turned away, sons of Israel. | Return to Him from whom the sons of Israel have so deeply turned away. (`העמיקו`, third person) |
+| Isaiah 32:14 | the hill and the watchtower | the Ophel and the watchtower (`עפל`, a named part of Jerusalem) |
+| Isaiah 32:18 | in quiet resting places | in resting places at ease (*sha'anannot*, as in vv9, 11; the note says the repetition is meant) |
+| Isaiah 32, note vv9, 11, 18 | **"Women at ease… in quiet resting places"** | **"Women at ease… in resting places at ease"** |
+| Isaiah 33:6 | and He will be the stability of your times | There will be stability in your times (the Hebrew names no subject) |
+| Isaiah 33:8 | The covenant is broken; cities are despised; there is no regard for man. | He has broken the covenant; he has despised the cities; he has no regard for man. (active, `הפר… מאס… לא חשב`) |
+| Isaiah 33:10 and its note | now I will be lifted up; now I will be exalted | now I will rise high; now I will be lifted up (*rum*, *nasa*, as 6:1's *high and lifted up*, which the note cites) |
+| Isaiah 33:20 | a quiet home | a home at ease (*sha'anan*) |
+| Isaiah 34:3 | the mountains will flow with their blood | the mountains will melt with their blood (`ונמסו`) |
+| Isaiah 34:4 and its note | all their host will fall as leaves fall from the vine, like fruit falling from the fig tree | all their host will wither as a leaf withers from the vine, like a withered fig from the fig tree (`יבול כנבל… כנבלת`) |
+| Isaiah 34:11 | The owl and the hedgehog … the line of chaos and the stones of emptiness | The pelican and the hedgehog (*qa'at*, as Leviticus 11:18, Deuteronomy 14:17) … the line of the wild and the stones of the waste (Genesis 1:2, *wild and waste*) |
+| Isaiah 34, note v11 | the *tohu va-vohu* of Genesis 1:2, *formless and void* | the *tohu va-vohu* of Genesis 1:2, *wild and waste*; adds *"The pelican" — qa'at, the bird of Leviticus 11:18* |
+| Isaiah 34:16 | For His mouth has commanded | For My mouth has commanded (`פי`, *my mouth*; whose mouth is a choice for Andrew), with a new note on v16 |
