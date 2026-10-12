@@ -2,6 +2,198 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 47–50 — rendered 2026-10-12, 12:52 PM CDT
+
+**Source:**
+- Hebrew (WLC) throughout.
+- The Greek (Swete) is followed once: 47:13 has *the astrologers of the heavens*. The Hebrew verb there, *havar*, is found nowhere else and its meaning is not known. The note names the Greek.
+- The Greek is quoted in notes where it reads differently: 47:3; 48:1, 10, 11, 14; 49:5, 12, 17, 24; 50:4, 6.
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- *va-yehi* (48:18, 19) is rendered plain, as *would have been*.
+- *ve-attah*:
+  - 47:8 *So now hear this*.
+  - 48:16 *And now the Lord GOD has sent me*, kept: the speech turns there to a new voice, and the turn carries weight. It is the only sentence in these chapters that starts with *And*.
+  - 49:5 *But now the LORD says*.
+- *hinneh*:
+  - 47:14; 48:7, 10; 49:12 (twice) cut.
+  - 49:22 *I am about to lift up My hand* (God's *hinneh* with a verb).
+- *hen*: 49:16, 21; 50:1, 2, 9 (twice), 11 cut.
+
+**Read forms followed:**
+- 49:5 *lo*, "to Him," is in the text as *that Israel might be gathered to Him*. The written form, *lo* "not", reads differently, so the note says so.
+- 47:13 *hoverei*: the note names it, because the note is on that word.
+- No note, because the meaning is the same: 49:6 *netsurei* and 49:13 *piftsechu*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 3:16, 4:2, 16:4, 16:8, 22:17; Exodus 11:5, 32:9; Numbers 11:23; Deuteronomy 4:20, 8:15, 24:1; 2 Kings 4:1; Psalms 68:26, 105:41, 106:9; Matthew 26:67.
+- Isaiah 8:16, 9:2, 10:3, 10:5, 26:9, 28:16, 37:22, 40:10, 40:27, 41:8, 42:6, 42:8, 44:2, 44:9, 44:15–16, 44:23, 44:24, 44:28, 45:6, 46:3, 46:4, 46:9.
+- Not yet rendered here, so quoted from the source:
+  - Hebrew: Isaiah 51:8, 53:12, 57:21, 59:1, 59:16.
+  - SBLGNT: Acts 13:47; Romans 8:33–34; 2 Corinthians 6:2.
+- Earlier notes in other books that quote these chapters differ in wording in two places: 1 Enoch 48:4 (Isaiah 49:6) and Numbers 11:12 (Isaiah 49:23). These are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+
+**Checked against the sources:**
+- Hebrew: every *hinneh*, *hen* and *ve-attah* in chapters 47–50, and every written form that differs from its read form.
+- Swete's Greek: Isaiah 47:3, 13; 48:1, 10, 11, 14, 16, 19; 49:1, 3, 5, 6, 7, 8, 12, 17, 24; 50:1, 2, 4, 6, 8, 9, 10, 11.
+- SBLGNT: Acts 13:47; Romans 8:33–34, 14:11; 2 Corinthians 6:2; Revelation 7:16–17; Matthew 26:67.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **47:** Babylon, the *virgin daughter*, brought from the throne to the millstones; she says *I am, and there is none besides me*, the LORD's own words, and loses husband and children in one day; her astrologers cannot save her.
+- **48:** Israel, *stubborn* and *a rebel from the womb*, told the new things before they happen so it cannot credit its idols; *refined… in the furnace of affliction*; *Go out from Babylon*.
+- **49:** the servant called from the womb, named Israel and sent to Israel, made *a light for the nations*; Zion says *the LORD has forgotten me*; *Can a woman forget her nursing child?*; her children come home.
+- **50:** *Where is your mother's certificate of divorce?*; the servant taught morning by morning, who gave his back to those who strike and did not hide his face from spitting; walking in darkness.
+
+### Isaiah 47: The Fall of the Daughter of Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *betulat bat Bavel* | virgin daughter of Babylon (37:22; note) |
+| 1 | *rakkah va-anuggah* | tender and delicate |
+| 2 | *galli tsammatekh chespi shovel* "uncover your veil, strip off the train" | remove your veil; strip off your skirt |
+| 3 | *lo efga adam* "I will not meet a man" | I will spare no one (choice below) |
+| 4 | *go'alenu* | Our Redeemer |
+| 5 | *gevéret mamlakhot* | the mistress of kingdoms (note) |
+| 6 | *chillalti nachalati* | I profaned My inheritance |
+| 7 | *lo zakhart acharitah* "you did not remember its end" | or remember how it would end |
+| 8 | *adinah* | you lover of pleasures |
+| 8 | *ani ve-afsi od* | I am, and there is none besides me (45:6; note) |
+| 9 | *ke-tummam* "as their completeness" | in full measure |
+| 9 | *be-ro'v keshafayikh, be-otsmat chavarayikh* | in spite of your many sorceries and the great power of your spells |
+| 10 | *ein ro'ani* | No one sees me |
+| 10 | *hi shovevatekh* "it turned you back" | led you astray |
+| 11 | *lo tede'i shachrah* | which you will not know how to charm away (choice below) |
+| 11 | *kapperah* | ward off (note) |
+| 11 | *sho'ah* | ruin (10:3; note) |
+| 12 | *ulai ta'arotsi* | perhaps you will strike terror |
+| 13 | *hoverei shamayim* (read form) | the astrologers of the heavens (Greek; note) |
+| 13 | *mod'im le-chodashim* | who make known at the new moons |
+| 14 | *ein gachelet lachmam* "no coal for warming them" | It is no coal to warm oneself by (44:15–16; note) |
+| 15 | *ish le-evro ta'u* "each to his side they wander" | they wander off, each his own way |
+
+### Isaiah 48: Refined in the Furnace of Affliction
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *u-mimmei Yehudah yatsa'u* "and from the waters of Judah came out" | ***KEPT AS IS*** and who came from the waters of Judah (the figure is the Hebrew's; note) |
+| 1 | *yazkiru* "cause to remember" | call on |
+| 2 | *nismakhu* | lean on |
+| 4 | *qasheh* | stubborn (Exodus 32:9; note) |
+| 4 | *gid barzel orpekha* | your neck is an iron sinew |
+| 5 | *pen tomar* | so that you would not say |
+| 5 | *otsbi* | My idol |
+| 6 | *u-netsurot* | hidden things |
+| 7 | *hinneh yeda'tin* | I knew them already |
+| 8 | *bagod tivgod* "dealing treacherously you would deal treacherously" | you would deal treacherously |
+| 8 | *poshea mi-beten* | a rebel from the womb (note) |
+| 9 | *a'arikh appi* "I lengthen My anger" | I defer My anger |
+| 9 | *echetam lakh* | I hold it back for you |
+| 10 | *bechartikha* | I have chosen you (note) |
+| 11 | *ki eikh yechal* | for how should it be profaned? (no subject in the Hebrew; note) |
+| 13 | *tippechah* | spread out |
+| 14 | *YHWH ahevo ya'aseh cheftso… u-zero'o Kasdim* "the LORD loves him; he will do his purpose… and his arm Chaldeans" | The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans (choice below) |
+| 16 | *mi-et heyotah sham ani* "from the time of its being, there I" | from the time it came to be, I have been there |
+| 16 | *shelachani ve-rucho* | has sent me, and His Spirit (both readings kept; note) |
+| 17 | *melammedkha le-ho'il* "teaching you to profit" | who teaches you what is for your good |
+| 18 | *lu hiqshavta* | If only you had paid attention |
+| 19 | *zar'ekha* | your seed (Genesis 22:17; note) |
+| 19 | *ke-me'otav* | like its grains |
+| 19 | *shemo* "his name" | its name (the seed's) |
+| 21 | *be-charavot* | through the deserts |
+| 21 | *va-yazuvu mayim* | and water gushed out (Psalm 105:41; note) |
+
+### Isaiah 49: A Light for the Nations
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi-me'ei immi hizkir shemi* "from my mother's inward parts He caused my name to be remembered" | from my mother's body He named my name |
+| 2 | *chets barur* | a polished arrow |
+| 3 | *etpa'ar* | I will be glorified (44:23; note) |
+| 4 | *le-tohu ve-hevel* | for emptiness and vapor (note) |
+| 4 | *mishpati… u-fe'ullati* | my right… my reward (40:27; 40:10; note) |
+| 5 | *ve-attah* | But now |
+| 5 | *ve-Yisra'el lo lo ye'asef* (read form) | and that Israel might be gathered to Him (note) |
+| 6 | *naqel* | It is too small a thing |
+| 6 | *u-netsurei Yisra'el* | the preserved of Israel |
+| 6 | *yeshu'ati* | My deliverance |
+| 7 | *livzoh nefesh* "to one despised of soul" | to one deeply despised |
+| 7 | *limta'ev goy* | abhorred by the nation |
+| 8 | *be-et ratson* | In a time of favor (2 Corinthians 6:2; note) |
+| 8 | *le-hanchil nechalot shomemot* | to give out the desolate inheritances |
+| 9 | *higgalu* | Show yourselves |
+| 9 | *shefayim* | the bare heights |
+| 10 | *sharav* | burning heat |
+| 12 | *mi-yam* "from the sea" | from the west |
+| 12 | *Sinim* | the land of Sinim (note) |
+| 15 | *ullah* | her nursing child |
+| 16 | *chaqqotikh* | I have engraved you |
+| 17 | *banayikh* | Your sons (choice below) |
+| 17 | *mehar'sayikh* | those who tore you down |
+| 18 | *ke-kallah* "as the bride" | as a bride does |
+| 19 | *tetseri mi-yoshev* | you will be too narrow for those who live in you |
+| 20 | *benei shikkulayikh* "sons of your bereavement" | The children born in your bereavement (47:8; note) |
+| 20 | *be-oznayikh* | in your hearing |
+| 21 | *galmudah* | barren |
+| 22 | *hinneh essa* | I am about to lift up |
+| 22 | *nissi* | My signal (11:12) |
+| 22 | *be-chotsen* "in the bosom" | in their arms |
+| 23 | *omenayikh* | your foster fathers |
+| 23 | *appayim erets* "nostrils to the earth" | with their faces to the ground |
+| 23 | *qovai* | those who wait for Me (40:31) |
+| 24 | *shevi tsaddiq* | ***KEPT AS IS*** the captives of the righteous (the Hebrew's word; note) |
+| 26 | *ke-asis* | as with sweet wine |
+| 26 | *avir Ya'aqov* | the Mighty One of Jacob (Genesis 49:24) |
+
+### Isaiah 50: I Did Not Hide My Face
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sefer keritut* | certificate of divorce (Deuteronomy 24:1; note) |
+| 1 | *mi-nosai* | of My creditors (2 Kings 4:1; note) |
+| 2 | *ha-qatsor qatsrah yadi* "is it short, short My hand" | Is My hand too short (Numbers 11:23; note) |
+| 2 | *mi-pedut* | to redeem |
+| 2 | *be-ga'arati* | By My rebuke (Psalm 106:9; note) |
+| 3 | *qadrut* | blackness |
+| 4 | *leshon limmudim* | the tongue of disciples (8:16; note) |
+| 4 | *la'ut* | ***KEPT AS IS*** to sustain (a word found only here; note) |
+| 4 | *ka-limmudim* | as disciples hear |
+| 6 | *le-morim* | to those who pull out the beard |
+| 7 | *ka-challamish* | like flint (Deuteronomy 8:15; note) |
+| 8 | *matsdiqi* | He who declares me in the right (note) |
+| 8 | *mi va'al mishpati* "who is the master of my case" | Who has a case against me? |
+| 9 | *yarshi'eni* | will declare me guilty |
+| 10 | *chashekhim ve-ein nogah lo* | in darkness and has no light (9:2; note) |
+| 10 | *ve-yisha'en* | and rely |
+| 11 | *me'azzerei ziqot* "girding on firebrands" | who arm yourselves with firebrands |
+| 11 | *le-ma'atsevah* | in torment (note) |
+
+**Left standing on purpose:**
+- 48:1, *who came from the waters of Judah*: the Hebrew's own picture, the people as a stream from its spring.
+- 48:16, *has sent me, and His Spirit*: both readings are kept in the Hebrew order.
+- 49:24, *the captives of the righteous*: the Hebrew's word; the note gives the range.
+- 50:4, *to sustain*: the verb is found only here.
+
+**Choices for you:**
+- **47:3, *lo efga adam*** — *I will take vengeance, and I will spare no one.*
+  - **(a) "I will spare no one"** (in the text now): *paga* as meeting someone with mercy.
+  - **(b) "I will let no one plead"** (or *no one will intercede*): *paga* as in 53:12 and 59:16, where the same verb is to intercede.
+  - Recommend **(a)**. The line is God's sentence on Babylon, and both readings end in the same place; (a) is the plainer English of *I will not meet a man*.
+- **47:11, *lo tede'i shachrah*** — *But disaster will come on you, which you will not know how to charm away; calamity will fall on you, which you will not be able to ward off.*
+  - **(a) "which you will not know how to charm away"** (in the text now): the verb *shachar*, "seek," as of 26:9, *seeks You at dawn*; it matches *ward off* (*kapperah*) in the next line and the sorceries of v9.
+  - **(b) "whose dawning you will not know"** (or *where it comes from*): the noun *shachar*, "dawn."
+  - Recommend **(a)**, because of the parallel line and the sorceries.
+- **48:14, *ya'aseh cheftso… u-zero'o*** — *The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans.*
+  - **(a) "His purpose… His arm"** (in the text now): the LORD's purpose and arm, carried out by Cyrus. 44:28 has Cyrus *carry out all My purpose*, the same word *chefets*.
+  - **(b) "his purpose… his arm"**: Cyrus's own will and arm.
+  - The Hebrew says *his* both times and does not say whose. Recommend **(a)**, because of 44:28.
+- **49:17, *banayikh*** — *Your sons hurry back; those who tore you down and laid you waste go out from you.*
+  - **(a) "Your sons"** (in the text now): the Hebrew vowels; the sons come home in vv20–22.
+  - **(b) "Your builders"**: the same letters read *bonayikh*. This stands against *those who tore you down* in the same verse, and the Greek has *you will quickly be built*.
+  - Recommend **(a)**. The Hebrew vowels and the chapter's children (vv20–22, 25) agree, and the note gives (b).
+
 ## Isaiah 43–46 — rendered 2026-10-12, 7:54 AM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (44:2; 45:1).
