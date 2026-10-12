@@ -2,6 +2,174 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 43–46 — rendered 2026-10-12, 7:54 AM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (44:2; 45:1).
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- *ve-hayah* (44:15) is rendered plain: *Then it becomes fuel for a man*.
+- *ve-attah*: 43:1 *But now, thus says the LORD*; 44:1 *But now hear*.
+- *hinneh*: 43:19 *hineni oseh* is *I am about to do* (God's *hinneh* with a participle); 44:11 *hen* cut.
+- No sentence starts with *And*. No *O* in Isaiah's own words (45:15 is *the God of Israel, the Savior*).
+
+**Read forms followed:**
+- 44:24 *me-itti*, "from with Me," is in the text as *by Myself*. The written form *mi itti*, "who was with Me?", reads differently, so the 44:22–24 note says so.
+- No note, because the meaning is the same: 44:17 *yisgad*, 45:2 *ayasher* and 46:11 *atsati*. The 46:11 note names *atsati* anyway, because it explains the phrase.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:1, 1:2, 1:26, 2:7, 10:7; Exodus 30:12, 32:32; Deuteronomy 32:4, 32:15, 33:26; 1 Samuel 24:6; 2 Chronicles 36:23; Ezra 1:2; Psalm 51:1.
+- Isaiah 8:17, 14:27, 18:1–2, 29:16, 32:15, 34:2, 34:5, 40:18, 40:25, 40:28–31, 41:2, 41:4, 41:9, 41:13–14, 41:25, 42:3.
+- Not yet rendered here, so quoted from the source: Amos 3:6 and Jeremiah 50:2 (Hebrew); Romans 9:20, 14:11, Philippians 2:10–11, 1 Peter 2:9 and Revelation 1:17 (SBLGNT).
+- Earlier notes in other books that quote these chapters differ in wording in five places: 1 Enoch 106:13, 1 Meqabyan 1:13, 1 Meqabyan 34:11, Psalm 66:12 and Jubilees 12:2–5. These are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+
+**Checked against the sources:**
+- Hebrew:
+  - 46:5 has 40:25's two verbs, *tedammeyuni* and *tashvu*, plus *tamshiluni*. The note first said 40:18 and 25 used *mashal*; it was corrected before the commit.
+  - 43:17 *kapishtah* against 42:3 *pishtah*.
+  - 44:12 *va-yi'af* against 40:28–31.
+  - 45:1 *hechezaqti* against 41:9 and 41:13.
+  - Every *hinneh*, *hen* and *ve-attah* in chapters 43–46.
+- Swete's Greek: Isaiah 44:2, 44:24, 45:1, 45:23.
+
+**Corrected before the report:**
+- 45:15 had *O God of Israel*. It now reads *the God of Israel, the Savior*.
+- 45:23 had *every tongue shall swear allegiance*. It now reads *every tongue shall swear*, because the Hebrew has the verb alone.
+- The 43:28 note now names the nations and Edom (34:2, 5).
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **43:** *I have called you by name; you are Mine*; *when you pass through the waters*; *You are My witnesses*; *I am about to do a new thing*; Israel wearies the LORD with its sins, and He blots them out.
+- **44:** the Spirit poured on Jacob's seed; *I am the first and I am the last*; the idol maker who cooks his dinner on half a log and worships the other half; Cyrus named as the LORD's shepherd.
+- **45:** Cyrus, the LORD's anointed; *I form light and create darkness*; the clay and the potter; *Turn to Me and be saved, all the ends of the earth*; *to Me every knee shall bow*.
+- **46:** Bel and Nebo carried off on beasts; the LORD who carries Israel from the womb to old age; *declaring the end from the beginning*.
+
+### Isaiah 43: I Have Called You by Name
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-attah* | But now |
+| 1 | *bara'akha… yotserkha* | who created you… who formed you (note) |
+| 2 | *lo yishtefukha* | they will not sweep over you |
+| 3 | *kofrekha* | your ransom (Exodus 30:12; note) |
+| 4 | *me-asher yaqarta be-einai* "from when you were precious in My eyes" | Because you are precious in My eyes |
+| 4 | *adam* | men |
+| 4 | *tachat nafshekha* | in exchange for your life |
+| 10 | *ani hu* | I am He (note) |
+| 12 | *ve-ein bakhem zar* "and there was not among you a stranger" | when there was no strange god among you |
+| 13 | *gam mi-yom* "also from day" | From this day on |
+| 14 | *ve-horadti varichim kullam* | and will bring them all down as fugitives |
+| 14 | *ve-khasdim ba-oniyyot rinnatam* "and Chaldeans in the ships their shout" | ***KEPT AS IS*** the Chaldeans, in the ships they rejoiced in (the phrase is obscure) |
+| 17 | *da'akhu ka-pishtah khavu* | they are extinguished, quenched like a wick (42:3; note) |
+| 19 | *hineni oseh chadashah* | I am about to do a new thing |
+| 20 | *tannim u-venot ya'anah* | the jackals and the ostriches |
+| 22 | *ki yaga'ta bi* | you have grown weary of Me |
+| 23–24 | *lo he'evadtikha… he'evadtani* "I did not make you serve… you made Me serve" | I have not made you serve… you have made Me serve (note) |
+| 24 | *qanita… qaneh* | bought… fragrant cane (note) |
+| 25 | *mocheh fesha'ekha* | who blots out your transgressions (note) |
+| 26 | *hazkireni* "cause Me to remember" | Remind Me |
+| 27 | *avikha ha-rishon* | ***KEPT AS IS*** Your first father (who is meant is not said) |
+| 27 | *u-melitsekha* "and your interpreters" | and your spokesmen |
+| 28 | *va-achallel sarei qodesh* | So I profaned the princes of the sanctuary |
+| 28 | *la-cherem* | to destruction (note) |
+
+### Isaiah 44: Besides Me There Is No God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-attah* | But now |
+| 2 | *Yeshurun* | Jeshurun (Deuteronomy 32:15, 33:26; note) |
+| 3 | *tsame… yabbashah* "thirsty… dry" | the thirsty land… the dry ground |
+| 3 | *ruchi al zar'ekha* | My Spirit on your seed (32:15; note) |
+| 4 | *be-vein chatsir* "in between grass" | among the grass |
+| 5 | *yikhtov yado la-YHWH* "write his hand, To the LORD" | will write on his hand, 'The LORD's' |
+| 5 | *yekhanneh* | take… as a title |
+| 7 | *mi-sumi am olam* "from My setting an ancient people" | since I appointed an ancient people |
+| 7 | *ve-otiyyot* "and the coming things" | what is to come |
+| 8 | *al tirhu* | Do not tremble (a word found only here) |
+| 8 | *ein tsur* | There is no Rock (Deuteronomy 32:4; note) |
+| 9 | *tohu* | emptiness |
+| 9 | *ve-edeihem hemmah* "and their witnesses, they" (dots over *hemmah*) | their witnesses (note) |
+| 11 | *ve-charashim hemmah me-adam* "and craftsmen they are from man" | and the craftsmen are only human |
+| 12 | *charash barzel ma'atsad* "a craftsman of iron, a cutting tool" | The ironsmith takes a cutting tool |
+| 12 | *va-yi'af* | and grows faint (40:28–31; note) |
+| 13 | *ba-sered… ba-maqtsu'ot… u-va-mechugah* | with a stylus… with planes… with a compass |
+| 13 | *ke-tavnit ish, ke-tif'eret adam* | into the figure of a man, with the beauty of a human (note) |
+| 14 | *tirzah ve-allon… oren* | a cypress or an oak… a pine |
+| 16 | *he'ach* | Aha |
+| 17 | *yisgad* (read form) | he bows down |
+| 18 | *tach* "smeared" | are smeared over |
+| 19 | *le-vul ets* | to a block of wood |
+| 19 | *le-to'evah* | a detestable thing |
+| 20 | *ro'eh efer* | He feeds on ashes |
+| 20 | *lev hutal* | a deluded heart |
+| 21 | *lo tinnasheni* | you will not be forgotten by Me |
+| 22 | *ka-av… ve-khe-anan* "like a thick cloud… like a cloud" | like a cloud… like mist |
+| 24 | *me-itti* (read form) | by Myself (note) |
+| 25 | *baddim* | the babblers |
+| 26 | *mal'akhav* | His messengers |
+| 27 | *tsulah* | the deep |
+| 28 | *ro'i* | My shepherd (note) |
+| 28 | *ve-heikhal tiwwased* | and of the temple, 'Your foundation shall be laid' |
+
+### Isaiah 45: To Cyrus, His Anointed
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *li-meshicho* | to His anointed (note) |
+| 1 | *u-motnei melakhim afatteach* "and the loins of kings I will loosen" | and to loosen the belts of kings (note) |
+| 2 | *va-hadurim ayasher* "and swellings I will make level" | ***KEPT AS IS*** and level the swelling hills (*hadurim* is obscure) |
+| 3 | *otsrot choshekh* | the treasures of darkness |
+| 4 | *akhannekha* | I give you a title of honor (44:5's verb) |
+| 5 | *a'azzerkha* | I gird you |
+| 7 | *oseh shalom u-vore ra* "making peace and creating evil" | I make peace and create disaster (choice below) |
+| 8 | *harifu* | Drip down |
+| 8 | *ve-yifru yesha* | that deliverance may bear fruit |
+| 9 | *cheres et charsei adamah* | a potsherd among the potsherds of the earth |
+| 9 | *u-fo'olkha ein yadayim lo* "and your work, no hands to him" | or your work say, 'He has no hands' |
+| 11 | *ha-otiyyot she'aluni* "the coming things ask Me" | ***KEPT AS IS*** Ask Me about the things to come (read as an invitation; the line may be a reproach) |
+| 13 | *ha'irotihu* | I have stirred him up |
+| 14 | *u-seva'im anshei middah* | and the Sabeans, men of stature (note) |
+| 14 | *ba-ziqqim* | in chains |
+| 15 | *El mistatter* | a God who hides Himself (8:17; note) |
+| 15 | *Elohei Yisra'el moshia* | the God of Israel, the Savior |
+| 18 | *lo tohu vera'ah* | He did not create it to be empty (Genesis 1:2; note) |
+| 19 | *tohu baqqeshuni* | Seek Me in emptiness |
+| 20 | *peleitei ha-goyim* | you survivors of the nations |
+| 20 | *ets pislam* | their wooden idols |
+| 23 | *tishava kol lashon* | every tongue shall swear |
+| 24 | *li amar* "to Me he said" | it shall be said of Me |
+| 24 | *ha-necherim bo* | who were incensed against Him |
+| 25 | *yitsdequ* | shall be justified (note) |
+
+### Isaiah 46: Bel Bows Down
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kara Bel qores Nevo* | Bel bows down; Nebo stoops |
+| 1 | *nesu'oteikhem amusot massa la-ayefah* "your carried things loaded, a burden for the weary" | the things you carry are loaded as a burden on weary beasts (note) |
+| 2 | *ve-nafsham* "and their soul" | but they themselves |
+| 3 | *ha-amusim minni veten* | you who have been loaded on Me from birth (note) |
+| 4 | *ani esbol… essa… esbol* | I will bear… I will carry… I will bear (note) |
+| 5 | *tedammeyuni ve-tashvu ve-tamshiluni* | liken Me and make Me equal, and compare Me (40:25; note) |
+| 6 | *ha-zalim* | Those who lavish |
+| 6 | *ba-qaneh* "with the reed" | on the scale |
+| 8 | *ve-hit'oshashu* | ***KEPT AS IS*** and stand firm (a word found only here) |
+| 8 | *hashivu… al lev* | take it to heart |
+| 10 | *me-reshit acharit* | the end from the beginning (Genesis 1:1; note) |
+| 11 | *ayit* | a bird of prey (note) |
+| 11 | *atsati* (read form) | the man of My counsel |
+| 12 | *abbirei lev* "mighty of heart" | you stubborn of heart |
+
+**Left standing on purpose:** 43:14, *the Chaldeans, in the ships they rejoiced in*; 43:27, *Your first father*; 45:2, *level the swelling hills*; 45:11, *Ask Me about the things to come*; 46:8, *stand firm*.
+
+**Choices for you:**
+- **45:7, *ra*** — *I form light and create darkness; I make peace and create disaster; I am the LORD, who does all these things.*
+  - **(a) "create disaster"** (in the text now): *ra* is set against *shalom*, as *darkness* is set against *light*, and Amos 3:6 uses the word of what comes on a city.
+  - **(b) "create evil"**, the King James word, which keeps the one Hebrew word that also means moral evil.
+  - Recommend **(a)**. The pairing with *peace* fixes the sense here; if (b), the note will say *ra* is set against *shalom*.
+
 ## Isaiah 39–42 — rendered 2026-10-11, 10:50 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently (40:3, 6, 9, 13; 42:1, 4).
