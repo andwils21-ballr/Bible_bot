@@ -127,7 +127,10 @@ def to_speech(body):
             continue
         else:
             m = VERSE_RE.match(block)
-            text = (m.group(2) if m else block).replace("  \n", " ")
+            text = m.group(2) if m else block
+            # Later verses run on inside one block (the blessing, Numbers 6:24-26):
+            # drop their bold numbers so the player does not read them aloud.
+            text = re.sub(r"[ ]{2,}\n\*\*\d+\*\*[ ]+", " ", text).replace("  \n", " ")
             text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
             text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"\1", text)
             if m:
