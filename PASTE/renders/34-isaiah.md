@@ -177,19 +177,19 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 50:4, *to sustain*: the verb is found only here.
 
 **Choices for you:**
-- **47:3, *lo efga adam*** — *I will take vengeance, and I will spare no one.*
+- ✅ Decided 2026-10-14: (a), as the text has it. **47:3, *lo efga adam*** — *I will take vengeance, and I will spare no one.*
   - **(a) "I will spare no one"** (in the text now): *paga* as meeting someone with mercy.
   - **(b) "I will let no one plead"** (or *no one will intercede*): *paga* as in 53:12 and 59:16, where the same verb is to intercede.
   - Recommend **(a)**. The line is God's sentence on Babylon, and both readings end in the same place; (a) is the plainer English of *I will not meet a man*.
-- **47:11, *lo tede'i shachrah*** — *But disaster will come on you, which you will not know how to charm away; calamity will fall on you, which you will not be able to ward off.*
+- ✅ Decided 2026-10-14: (a), as the text has it. **47:11, *lo tede'i shachrah*** — *But disaster will come on you, which you will not know how to charm away; calamity will fall on you, which you will not be able to ward off.*
   - **(a) "which you will not know how to charm away"** (in the text now): the verb *shachar*, "seek," as of 26:9, *seeks You at dawn*; it matches *ward off* (*kapperah*) in the next line and the sorceries of v9.
   - **(b) "whose dawning you will not know"** (or *where it comes from*): the noun *shachar*, "dawn."
   - Recommend **(a)**, because of the parallel line and the sorceries.
-- **48:14, *ya'aseh cheftso… u-zero'o*** — *The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans.*
+- ✅ Decided 2026-10-14: (a), as the text has it. **48:14, *ya'aseh cheftso… u-zero'o*** — *The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans.*
   - **(a) "His purpose… His arm"** (in the text now): the LORD's purpose and arm, carried out by Cyrus. 44:28 has Cyrus *carry out all My purpose*, the same word *chefets*.
   - **(b) "his purpose… his arm"**: Cyrus's own will and arm.
   - The Hebrew says *his* both times and does not say whose. Recommend **(a)**, because of 44:28.
-- **49:17, *banayikh*** — *Your sons hurry back; those who tore you down and laid you waste go out from you.*
+- ✅ Decided 2026-10-14: (a), as the text has it. **49:17, *banayikh*** — *Your sons hurry back; those who tore you down and laid you waste go out from you.*
   - **(a) "Your sons"** (in the text now): the Hebrew vowels; the sons come home in vv20–22.
   - **(b) "Your builders"**: the same letters read *bonayikh*. This stands against *those who tore you down* in the same verse, and the Greek has *you will quickly be built*.
   - Recommend **(a)**. The Hebrew vowels and the chapter's children (vv20–22, 25) agree, and the note gives (b).
