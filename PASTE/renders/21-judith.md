@@ -181,7 +181,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Greek:** none.
 
-**Choices for you:** none.
+**Choices for you:** none new.
 
 ### Judith 1: Nebuchadnezzar and Arphaxad
 

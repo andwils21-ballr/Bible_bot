@@ -12,7 +12,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choices for you:** none.
+**Choices for you:** none new.
 
 ### Nehemiah 11: Those Who Lived in Jerusalem
 
@@ -255,7 +255,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choices for you:** none.
+**Choices for you:** none new.
 
 ### Nehemiah 1: Nehemiah's Prayer
 

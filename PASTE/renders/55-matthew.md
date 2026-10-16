@@ -20,7 +20,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** nothing new.
 
-**Choices for you:** none new. Still open from earlier runs: 14:27 (*I am* or *It is I*) and 18:22 (*seventy-seven* or *seventy times seven*), with the older ones listed below.
+**Choices for you:** none new.
 
 ## Matthew 27 (canon and Matthew loop, run 21, 2026-09-27)
 

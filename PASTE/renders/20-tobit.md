@@ -8,7 +8,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Greek:** **11:16** *Tobit* for the held text's *Tobias*: the verse is about the man who now can see; the longer Greek names no one. Noted.
 
-**Choices for you:** none.
+**Choices for you:** none new.
 
 ### Tobit 9: The Money Brought from Rages
 
@@ -93,7 +93,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Greek:** **6:10** *Ecbatana* for the held text's *Rages*, from the longer Greek, backed by 3:7 and 6:6. Noted.
 
-**Choices for you:** none.
+**Choices for you:** none new.
 
 ### Tobit 5: A Companion for the Journey
 
