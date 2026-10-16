@@ -92,9 +92,22 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 14 | *berach* "flee" | ***KEPT AS IS*** Flee (note) |
 
 **Choices for you:**
-- **8:6 "the flame of Yah"** — *shalhevetyah* can be "the flame of Yah" (God's short name, as in Hallelujah) or "a mighty flame" (*-yah* as a superlative). The text has the name, since the letters are there and the spec keeps *Yah*; if it is the name, it is the only place God is named in the Song. Now: *Its flashes are flashes of fire, the flame of Yah.*
-- **8:14 "Flee, my beloved"** — *berach* means "flee" or "run," and the Greek has "flee"; older English Bibles have "Make haste." Now: *Flee, my beloved, and be like a gazelle or a young stag on the mountains of spices.*
-- **6:4, 6:10 "awesome as the bannered hosts"** — *nidgalot*, "those under banners": troops (the Greek "ranks set in order"), or the hosts of the sky beside the dawn, moon and sun. Older English: "terrible as an army with banners."
+- **8:6, *shalhevetyah***
+  - Now: *Its flashes are flashes of fire, / the flame of Yah.*
+  - (a) **the flame of Yah** (now): God's short name, as in Hallelujah; the letters are there and the spec keeps *Yah*. If it is the name, it is the only place God is named in the Song.
+  - (b) **a mighty flame**: *-yah* as a superlative.
+  - No recommendation was given.
+- **8:14, *berach***
+  - Now: *Flee, my beloved, and be like a gazelle / or a young stag on the mountains of spices.*
+  - (a) **Flee** (now): *berach* means *flee* or *run*, and the Greek has *flee*.
+  - (b) **Make haste**, as older English Bibles have it.
+  - No recommendation was given.
+- **6:4, 6:10, *nidgalot***
+  - Now, 6:4: *awesome as the bannered hosts.*
+  - Now, 6:10: *beautiful as the moon, pure as the sun, / awesome as the bannered hosts?*
+  - (a) **the bannered hosts** (now): *those under banners*, troops (the Greek *ranks set in order*), or the hosts of the sky beside the dawn, moon and sun.
+  - (b) **an army with banners**, as older English (*terrible as an army with banners*).
+  - No recommendation was given.
 
 ## Song of Songs 1–4 — rendered 2026-10-07, 5:58 PM CDT (report 6:01 PM CDT)
 
@@ -178,8 +191,26 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 14 | *kol rashei vesamim* "all heads of spices" | all the finest spices |
 
 **Choices for you:**
-- ***dodim*, "love," or "caresses"** — the plural noun means love shown, lovemaking; "love" is how most English Bibles have it, and the text keeps "love." Verses: 1:2 *For your love is better than wine*; 1:4 *we will praise your love more than wine*; 4:10 *How beautiful is your love… How much better is your love than wine*. The same word comes again in 5:1 and 7:12.
-- **1:5 "black and lovely" or "black but lovely"** — the Hebrew and the Greek have "and"; older English Bibles have "but." Now: *I am black and lovely.*
-- **2:1 "a flower of Sharon"** — "rose" (older English) has no support in the word; "crocus" is a modern guess; the Greek has "a flower of the plain." Now: *I am a flower of Sharon, a lily of the valleys.*
-- **No speaker labels** (above). Many modern Bibles add "She," "He," "Friends." Recommendation: none in the text, as the Hebrew has none; a note where the voice changes.
+- ***dodim*, "love" or "caresses"** (also 5:1 and 7:12)
+  - Now, 1:2: *For your love is better than wine*
+  - Now, 1:4: *we will praise your love more than wine*
+  - Now, 4:10: *How beautiful is your love… How much better is your love than wine*
+  - (a) **love** (now), as most English Bibles have it.
+  - (b) **caresses**: the plural noun means love shown, lovemaking.
+  - No recommendation was given.
+- **1:5, "black and lovely" or "black but lovely"**
+  - Now: *I am black and lovely, daughters of Jerusalem*
+  - (a) **and** (now): the Hebrew and the Greek.
+  - (b) **but**, as older English Bibles have it.
+  - No recommendation was given.
+- **2:1, "a flower of Sharon"**
+  - Now: *I am a flower of Sharon, a lily of the valleys.*
+  - (a) **a flower of Sharon** (now).
+  - (b) **a rose of Sharon** (older English; the word does not support it), **a crocus** (a modern guess), or **a flower of the plain** (the Greek).
+  - No recommendation was given.
+- **Speaker labels** (above)
+  - Now: none in the text; notes point out a change of voice where it matters (1:2, 1:15–16, 4:16).
+  - (a) **None** (now), as the Hebrew has none.
+  - (b) **Headings** such as *She*, *He*, *Friends*, as many modern Bibles add.
+  - Recommend (a).
 

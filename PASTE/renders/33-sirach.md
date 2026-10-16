@@ -114,7 +114,7 @@ Echoes in the notes were checked two ways:
 - **51:19** "fasting".
 - **51:20** "a heart with them".
 
-**Choices:** none new. The book's open choices stand in the entries below: the foreword, the placeholders, Satan, 43:23 and 48:17, and the copying slips.
+**Choices for you:** none new.
 
 ## Sirach 45–48 — rendered 2026-10-09, 7:53 AM CDT
 
@@ -292,29 +292,20 @@ Echoes in the notes were checked two ways:
 - **48:11** "adorned with love".
 - **48:17** "Gog".
 
-### Choices
-
-**Widespread: copying slips in Swete's Greek** (logged in `NOTES_FOR_ANDREW.md`). Swete prints one manuscript as it stands. The spec allows a departure only on *a witness in `sources/`*, and for Sirach there is none. The renders therefore keep the slip and explain it in a note:
-- 43:23 *Iēsous* for *nēsous*. Reads now: "and Joshua planted it."
-- 48:17 *ton Gōg*. Reads now: "and brought Gog in among them."
-- 43:26 *euōdia* for *euodia*. Read as "success."
-- 43:8 *parabolōn* for *parembolōn*. Reads now: "a vessel of parables."
-
-The options:
-1. **Keep the slips as printed, with notes.** This is what the text has now, and it is what the spec allows.
-2. **Add a second witness to `sources/`**, then follow it where it tells the event better (spec rule 2). Candidates: Swete's apparatus if a digitized copy exists, the Hebrew manuscripts of Ben Sira, or Rahlfs's 1935 Septuagint. Each needs its licence checked first.
-
-**Recommendation:** option 2, so that lines like 43:23 and 48:17 can make sense. Until then, option 1.
-
-**Sirach 48:17, *ton Gōg*.** Reads now: "Hezekiah fortified his city, / and brought Gog in among them; / he dug through the sheer rock with iron, / and built pools for water."
-
-The rest of the verse is Hezekiah's tunnel (2 Kings 20:20, *brought water into the city*). The KJV has "brought in water into the midst thereof."
-
-The options:
-1. **Keep "Gog"**, as Swete prints it.
-2. **"brought water in among them"**, once a witness is added.
-
-**Recommendation:** as for 43:23.
+**Choices for you:**
+- **Copying slips in Swete's Greek** (widespread: every book read from Swete; logged in `NOTES_FOR_ANDREW.md`). Swete prints one manuscript as it stands, and the spec allows a departure only on a witness in `sources/`; for Sirach there is none.
+  - Now, 43:23: *and Joshua planted it.* (*Iēsous* for *nēsous*)
+  - Now, 48:17: *and brought Gog in among them* (*ton Gōg*)
+  - Now, 43:26: *Through Him its end is success* (*euōdia* read as *euodia*)
+  - Now, 43:8: *a vessel of parables on high* (*parabolōn* for *parembolōn*)
+  - (a) **Keep the slips as printed, with notes** (now), as the spec allows.
+  - (b) **Add a second witness to `sources/`** (Swete's apparatus if a digitized copy exists, the Hebrew manuscripts of Ben Sira, or Rahlfs's 1935 Septuagint, each with its licence checked first), then follow it where it tells the event better (spec rule 2).
+  - Recommend (b), so that lines like 43:23 and 48:17 can make sense; until then, (a).
+- **48:17, *ton Gōg*** (the rest of the verse is Hezekiah's tunnel, 2 Kings 20:20; the KJV has *brought in water into the midst thereof*)
+  - Now: *Hezekiah fortified his city, / and brought Gog in among them; / he dug through the sheer rock with iron, / and built pools for water.*
+  - (a) **Gog**, as Swete prints it (now).
+  - (b) **brought water in among them**, once a witness is added.
+  - Recommend (b) if a witness is added; until then, (a).
 
 ## Sirach 41–44 — rendered 2026-10-08, 10:51 PM CDT
 
@@ -476,20 +467,13 @@ Echoes in the notes were checked two ways:
 - **43:23** "Joshua planted it".
 - **44:17** "because of this… because of this".
 
-### Choices
-
-**Sirach 43:23, *Iēsous*: Joshua, Jesus, or "islands".**
-
-*Reads now:* "By His counsel He calmed the deep, / and Joshua planted it."
-
-Swete prints *kai ephyteusen autēn Iēsous*. *Iēsous* is Joshua's name in Greek (Sirach 46:1, *Iēsous Nauē*, Joshua son of Nun), and it is also the name Jesus. Change one letter and it becomes *nēsous*, "islands." That gives "He calmed the deep, and planted islands in it," the reading of the KJV ("planteth islands therein") and of most English Bibles.
-
-The options:
-1. **Keep "Joshua"**: Swete as printed, with the note. Accurate to the text in `sources/`, but the line makes little sense: Joshua did not plant the deep.
-2. **"and planted islands in it"**: makes sense of the calmed deep. The spec ("When the witnesses differ", rule 5) allows a departure from Swete only with a witness in `sources/`. None there has *nēsous*; Rahlfs's Septuagint or the Hebrew Sirach would be one if added.
-3. **"and Jesus planted it"**: the same Greek word read as the other name. It reads as a statement about Jesus that the line, in a hymn about the sea, does not support.
-
-**Recommendation:** option 2 if a witness with *nēsous* is added to `sources/`; until then option 1, as it stands.
+**Choices for you:**
+- **43:23, *Iēsous*: Joshua, Jesus, or "islands"** (*Iēsous* is Joshua's name in Greek, Sirach 46:1, and also the name Jesus; one letter changed, it is *nēsous*, *islands*)
+  - Now: *By His counsel He calmed the deep, / and Joshua planted it.*
+  - (a) **Joshua** (now): Swete as printed, with the note; accurate to the text in `sources/`, but Joshua did not plant the deep.
+  - (b) **and planted islands in it**: makes sense of the calmed deep, as the KJV (*planteth islands therein*) and most English Bibles; the spec allows it only with a witness in `sources/`, and none there has *nēsous*.
+  - (c) **and Jesus planted it**: the same Greek word read as the other name; it reads as a statement about Jesus that the line, in a hymn about the sea, does not support.
+  - Recommend (b) if a witness with *nēsous* is added to `sources/`; until then, (a).
 
 ## Sirach 37–40 — rendered 2026-10-08, 5:55 PM CDT
 
@@ -666,7 +650,7 @@ Echoes in the notes were checked two ways:
 - **40:18** "the contented man and the worker".
 - **40:27** "they have covered him".
 
-**Choices:** none new.
+**Choices for you:** none new.
 
 ## Sirach 33–36 — rendered 2026-10-08, 12:55 PM CDT
 
@@ -818,7 +802,7 @@ Echoes in the notes were checked two ways:
 - **36:15** "those You created in the beginning".
 - **36:21** "A woman will accept any man".
 
-**Choices:** none new.
+**Choices for you:** none new.
 
 ## Sirach 29–32 — rendered 2026-10-08, 10:20 AM CDT (the routine's 7:46 AM run, done late)
 
@@ -964,7 +948,7 @@ Echoes in the notes were checked two ways:
 
 **Left standing on purpose:** 29:8 "for charity's sake give him time" (Swete has no "not"; note); 30:7 "For his sons' lives he will bind up his wounds" (Swete's wording; note); 30:12 "bruise his ribs"; 30:13 "so that he does not stumble, to your disgrace"; 31:13 "it weeps at everything"; 31:14 "Where he looks"; 31:22 "you will find my words"; 32:18 "even after acting without counsel" (note); 32:22 "guard yourself against your own children" (note); 32:23 "trust your own soul."
 
-**Choices:** none new.
+**Choices for you:** none new.
 
 ## Sirach 25–28 — rendered 2026-10-07, 10:31 PM CDT
 
@@ -1090,7 +1074,7 @@ Echoes in the notes were checked two ways:
 
 **Left standing on purpose:** 25:15 the snake's head; 25:17 "like sackcloth" (Swete's reading); 26:5 "over a fourth I have pleaded"; 26:6 "a scourge of the tongue that shares it with all"; 26:18 "with a steady heart"; 27:23 "he speaks sweetly to you" (Swete: "your mouth"); 28:7 "overlook ignorance"; 28:14–15 "a third tongue."
 
-**Choices:** none new.
+**Choices for you:** none new.
 
 ## Sirach 21–24 — rendered 2026-10-07, 10:22 PM CDT (the cycle began at 7:04 PM; a usage-limit pause came in between)
 
@@ -1193,8 +1177,16 @@ Echoes in the notes were checked two ways:
 | 31 | *kai idou egeneto* "and *idou*, it became" | and my canal became (*idou* cut) |
 
 **Choices for you:**
-- **21:27 "the adversary" or "Satan"** — *ton satanan*. This joins the open Satan question from Job 1–2. Now: *When the ungodly man curses the adversary, he curses his own soul.*
-- **24:23 "the law"** — the verse quotes Deuteronomy 33:4, where *torah* is now "instruction." Whatever you rule for *torah* should probably decide this line too. Now: *the law that Moses commanded, an inheritance for the assemblies of Jacob.*
+- **21:27, *ton satanan*** (joins the Satan question in Job 1–2)
+  - Now: *When the ungodly man curses the adversary, he curses his own soul.*
+  - (a) **the adversary** (now).
+  - (b) **Satan**.
+  - No recommendation was given.
+- **24:23, *nomon*** (the verse quotes Deuteronomy 33:4, where *torah* is now *instruction*; the *torah* question is open across books)
+  - Now: *the law that Moses commanded, an inheritance for the assemblies of Jacob.*
+  - (a) **the law** (now).
+  - (b) **the instruction**, as Deuteronomy 33:4.
+  - Recommend: whatever you rule for *torah* decides this line too.
 
 ## Sirach 17–20 — rendered 2026-10-07, 7:01 PM CDT
 
@@ -1294,7 +1286,7 @@ Echoes in the notes were checked two ways:
 | 29 | *xenia kai dōra* "guest-gifts and gifts" | Gifts and presents |
 | 29 | *hōs phimos en stomati* "as a muzzle in the mouth" | like a muzzle on the mouth |
 
-**Choices for you:** none new in these chapters.
+**Choices for you:** none new.
 
 ## Sirach 13–16 — rendered 2026-10-07, 6:56 PM CDT
 
@@ -1380,7 +1372,7 @@ Echoes in the notes were checked two ways:
 | 27 | *tas archas autōn* "their beginnings/rules" | their dominions |
 | 30 | *psychēn pantos zōou ekalypsen to prosōpon autēs* "the life of every animal covered its face" | With every kind of living thing He covered its face |
 
-**Choices for you:** none new in these chapters.
+**Choices for you:** none new.
 
 ## Sirach 9–12 — rendered 2026-10-07, 6:51 PM CDT — 1,001 chapters rendered
 
@@ -1471,7 +1463,7 @@ Echoes in the notes were checked two ways:
 | 17 | *hyposchasei pternan sou* "he will undercut your heel" | he will trip your heel |
 | 18 | *alloiōsei to prosōpon autou* "will alter his face" | change his expression |
 
-**Choices for you:** none new in these chapters.
+**Choices for you:** none new.
 
 ## Sirach 5–8 — rendered 2026-10-07, 6:47 PM CDT — the project passes half (997 of 1,989)
 
@@ -1557,7 +1549,7 @@ Echoes in the notes were checked two ways:
 | 18 | *ti texetai* "what it will bear" | what it will give birth to |
 | 19 | *kai mē anapheretō soi charin* "and let him not bring you back a favor" | ***KEPT AS IS*** and do not let him repay you with a favor (note) |
 
-**Choices for you:** none new in these chapters.
+**Choices for you:** none new.
 
 ## Sirach 1–4 — rendered 2026-10-07, 6:41 PM CDT
 
@@ -1645,6 +1637,14 @@ Echoes in the notes were checked two ways:
 | 30 | *phantasiokopōn* "acting on fancies" | capricious |
 
 **Choices for you:**
-- **The translator's foreword** (Sirach's "Prologue," by the author's grandson) — in Swete's Greek in `sources/`, not printed by the helper, and not rendered. Render it above 1:1, unnumbered, or leave it out?
-- **Verses with no Greek** (1:5, 7, 21; 3:19, 25, and later chapters, listed in NOTES_FOR_ANDREW.md) — kept as numbered placeholders, as Nehemiah 7:68. The other way is to leave the numbers out.
+- **The translator's foreword** (the Prologue, by the author's grandson; in Swete's Greek in `sources/`, not printed by the helper)
+  - Now: not rendered.
+  - (a) **Render it above 1:1**, unnumbered.
+  - (b) **Leave it out.**
+  - No recommendation was given.
+- **Verses with no Greek** (1:5, 7, 21; 3:19, 25, and later chapters, listed in `NOTES_FOR_ANDREW.md`)
+  - Now, 1:5: *(This verse is not in the Greek text followed here; see the note.)*
+  - (a) **Numbered placeholders** (now), as Nehemiah 7:68.
+  - (b) **Leave the numbers out.**
+  - No recommendation was given.
 

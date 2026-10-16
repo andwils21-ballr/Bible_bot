@@ -74,8 +74,16 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 13 | *ki zeh kol ha'adam* "for this is all of man" | ***KEPT AS IS*** for this is the whole of man (no "duty"; note) |
 
 **Choices for you:**
-- **12:11 "one Shepherd"** — capital S makes it God (Genesis 49:24; Psalm 80:1), which is the likeliest reading; lowercase would leave it open (Solomon, or any one teacher). Now: *they are given by one Shepherd.*
-- **12:13 "the whole of man"** — most English Bibles add "duty" ("the whole duty of man"). The Hebrew has no such word. Now: *Fear God and keep His commandments, for this is the whole of man.*
+- **12:11, "one Shepherd"**
+  - Now: *they are given by one Shepherd.*
+  - (a) **Shepherd**, capital S (now): God (Genesis 49:24; Psalm 80:1), the likeliest reading.
+  - (b) **shepherd**, lowercase, which leaves it open (Solomon, or any one teacher).
+  - Recommend (a).
+- **12:13, "the whole of man"**
+  - Now: *Fear God and keep His commandments, for this is the whole of man.*
+  - (a) **the whole of man** (now): the Hebrew has no word for *duty*.
+  - (b) **the whole duty of man**, as most English Bibles add.
+  - No recommendation was given.
 
 ## Ecclesiastes 5–8 — rendered 2026-10-07, 5:43 PM CDT
 

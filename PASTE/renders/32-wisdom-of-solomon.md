@@ -71,7 +71,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 21 | *krystalloeides genos ambrosias trophēs* "the ice-like kind of ambrosial food" | the icelike… kind of heavenly food (note) |
 
 **Choices for you:**
-- **18:15–16 "Your all-powerful word… it filled all things with death"** — *logos*, God's word as the warrior of the Passover night. The text uses "it." A capital "He" would make it a person, as Revelation 19:13 names *the Word of God*; lowercase "he" would personify it without that claim. Now: *and standing, it filled all things with death, and touched heaven while it stood on the earth.*
+- **18:15–16, *logos*, God's word as the warrior of the Passover night**
+  - Now, 18:15: *Your all-powerful word leaped from heaven, from the royal throne, / a stern warrior*
+  - Now, 18:16: *and standing, it filled all things with death, / and touched heaven while it stood on the earth.*
+  - (a) **it** (now).
+  - (b) **He**, capital: it makes the word a person, as Revelation 19:13 names *the Word of God*.
+  - (c) **he**, lowercase: it personifies the word without that claim.
+  - No recommendation was given.
 
 ## Wisdom of Solomon 13–16 — rendered 2026-10-07, 6:31 PM CDT
 
@@ -158,8 +164,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 28 | *phthanein ton hēlion* "to get ahead of the sun" | rise before the sun |
 
 **Choices for you:**
-- **14:12 "the beginning of fornication"** — *porneia*. The fixed term for Hebrew *zanah* in worship is "give themselves to," and "fornication" is the plain old word; "sexual immorality" is the usual New Testament English. The verse means both the turning to idols and the sins of vv24–26. Now: *For the devising of idols was the beginning of fornication.*
-- **14:26 "exchange of nature"** — *geneseōs enallagē*; others render "sexual perversion." The literal phrase keeps the link to Romans 1:26 visible. Now: *forgetfulness of favors, defilement of souls, exchange of nature, disorder in marriage.*
+- **14:12, *porneia***
+  - Now: *For the devising of idols was the beginning of fornication*
+  - The verse means both the turning to idols and the sins of vv24–26; the fixed term for Hebrew *zanah* in worship is *give themselves to*.
+  - (a) **fornication** (now), the plain old word.
+  - (b) **sexual immorality**, the usual New Testament English.
+  - No recommendation was given.
+- **14:26, *geneseōs enallagē***
+  - Now: *forgetfulness of favors, defilement of souls, exchange of nature, disorder in marriage*
+  - (a) **exchange of nature** (now): the literal phrase keeps the link to Romans 1:26 visible.
+  - (b) **sexual perversion**, as others render it.
+  - No recommendation was given.
 
 ## Wisdom of Solomon 9–12 — rendered 2026-10-07, 6:25 PM CDT
 
@@ -247,8 +262,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 27 | *to terma tēs katadikēs* "the end-point of condemnation" | the last of condemnation |
 
 **Choices for you:**
-- ***pais*, "child" or "servant," across the book** — 2:13 "a child of the Lord"; 9:4 "Your servants"; 12:7 "the children of God"; 12:20 "Your children." Each follows its context (the "father" and "son" around 2:13; "I am Your servant" in 9:5; "Your sons" around chapter 12). Keeping one word every time would let a reader see that the Greek repeats it.
-- **11:20 "the breath of Your power"** — lowercase, a scattering blast (as 5:23); a capital would make it God's Spirit. Now: *and scattered by the breath of Your power.*
+- **11:20, *the breath of Your power***
+  - Now: *and scattered by the breath of Your power.*
+  - (a) **breath**, lowercase (now): a scattering blast, as 5:23.
+  - (b) **Spirit**, capital: God's Spirit.
+  - No recommendation was given.
+- ***pais* across the book**: raised with 2:13 in the Wisdom 1–4 report, with these verses.
 
 ## Wisdom of Solomon 5–8 — rendered 2026-10-07, 6:19 PM CDT
 
@@ -338,8 +357,18 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 21 | *ouk allōs esomai enkratēs ean mē ho theos dō* "I will not otherwise be in mastery unless God gives" | ***KEPT AS IS*** I would not possess her unless God gave her (note) |
 
 **Choices for you:**
-- **6:9, 6:21, 8:15 "monarchs"** — *tyrannoi*; "tyrants" in English now means cruel rulers, which the Greek word does not say here. Now: *To you, then, monarchs, my words are directed*; *monarchs of the peoples*; *dread monarchs will be afraid when they hear of me*.
-- **7:22 "unique"** — *monogenes*, "only-begotten" in older English, the word of John 1:14 and 3:16. "Unique" says what it means of wisdom's spirit; "only-begotten" would keep the echo of John visible. Now: *For in her is a spirit that is intelligent, holy, unique, manifold…*
+- **6:9, 6:21, 8:15, *tyrannoi***
+  - Now, 6:9: *To you, then, monarchs, my words are directed*
+  - Now, 6:21: *monarchs of the peoples*
+  - Now, 8:15: *dread monarchs will be afraid when they hear of me*
+  - (a) **monarchs** (now): *tyrants* in English now means cruel rulers, which the Greek word does not say here.
+  - (b) **tyrants**.
+  - No recommendation was given.
+- **7:22, *monogenes***
+  - Now: *For in her is a spirit that is intelligent, holy, unique, manifold*
+  - (a) **unique** (now): it says what the word means of wisdom's spirit.
+  - (b) **only-begotten**, as older English: it keeps the echo of John 1:14 and 3:16 visible.
+  - No recommendation was given.
 
 ## Wisdom of Solomon 1–4 — rendered 2026-10-07, 6:13 PM CDT
 
@@ -428,7 +457,22 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 19 | *heōs eschatou chersōthēsontai* "they will be made dry land to the last" | they will be left utterly dry and barren |
 
 **Choices for you:**
-- **1:5 "the holy spirit of discipline"** — lowercase, as the spirit of wisdom (1:6 says "wisdom is a spirit"); the fixed term capitalizes *the Spirit* when it is "of God" or "of the Lord," as 1:7 is. Wisdom 7:22 and 9:17 ("Your holy Spirit") will raise it again. Now: *For the holy spirit of discipline flees deceit.*
-- **2:13 "a child of the Lord"** — *pais* is "child" or "servant"; "servant" would echo Isaiah 52:13, "child" fits the "father" and "son" of vv16 and 18. Now: *and calls himself a child of the Lord.*
-- **2:24 "the devil"** — *diabolos*, the Greek word for the satan of Job 1–2 (still an open choice in Job). Now: *through the envy of the devil death entered the world.*
+- **1:5, *hagion pneuma paideias***
+  - Now: *For the holy spirit of discipline flees deceit*
+  - (a) **spirit**, lowercase (now), as the spirit of wisdom (1:6, *wisdom is a spirit*); the fixed term capitalizes *the Spirit* when it is *of God* or *of the Lord*, as 1:7 is. 7:22 and 9:17 (*Your holy Spirit*) raise it again.
+  - (b) **Spirit**, capital.
+  - No recommendation was given.
+- ***pais*, "child" or "servant", across the book**
+  - Now, 2:13: *and calls himself a child of the Lord.*
+  - Now, 9:4: *do not reject me from among Your servants.*
+  - Now, 12:7: *a worthy colony of the children of God.*
+  - Now, 12:20: *the enemies of Your children*
+  - (a) **Each by its context** (now): *child* at 2:13 (the *father* and *son* of vv16, 18), *servants* at 9:4 (*I am Your servant*, 9:5), *children* in chapter 12 (*Your sons*).
+  - (b) **One word every time**, so a reader can see that the Greek repeats it; *servant* at 2:13 would echo Isaiah 52:13.
+  - No recommendation was given.
+- **2:24, *diabolos*** (the Greek word for the satan of Job 1–2, an open choice in Job)
+  - Now: *but through the envy of the devil death entered the world*
+  - (a) **the devil** (now).
+  - (b) Whatever is ruled for *ha-satan* in Job 1–2.
+  - No recommendation was given.
 
