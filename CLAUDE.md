@@ -143,21 +143,24 @@ removed:
 
   ```
   - **12:4, *kesef over ish***
-    - Now: *the money of each man who passes the count*
     - (a) **the money of each man who passes the count** (now): the census half-shekel (Exodus 30:13).
     - (b) **current money**: silver in common use (Genesis 23:16).
     - Recommend (a): Chronicles names the census tax in this same repair.
   ```
 
-  One *Now* line for each verse involved. A choice is raised once, in the
+  The option the text has now is marked *(now)*; there is no separate *Now*
+  line, since Andrew reads the verse in the text (Andrew, 2026-10-16). A
+  choice is raised once, in the
   report of the run that found it; later reports do not repeat it. When
   Andrew rules, the first line starts `✅ Decided <date>: <ruling>.`
 - **The chat reply stays short:**
   - What landed, and the progress count.
   - **Left standing on purpose**: verse and one-line reason for each.
   - **Choices for you**: only the choices new in this run. For every choice,
-    list every verse involved, with how each one reads now, so he can check the
-    context. Open choices stay in their own book's file (renders or changes)
+    first say in plain words what the passage is about: who is speaking, to
+    whom, what is happening, and the point being made, since Andrew may not
+    have read that book yet. Then say what each option would mean. Full verses
+    are not needed (Andrew, 2026-10-16). Open choices stay in their own book's file (renders or changes)
     and are **not** carried from book to book or repeated in later replies;
     Andrew takes them up when he reaches that book (Andrew, 2026-09-26).
   - **Widespread decisions go first.** Anything that could affect many books
