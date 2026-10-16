@@ -2,6 +2,157 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 63–66 — rendered 2026-10-16, 5:58 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 63:9, 11; 64:1, 4, 5, 6; 65:4, 11, 16, 20, 22; 66:3, 18, 19. Isaiah is now complete.
+
+**Chapter break:** English 64:1 is the end of Hebrew 63:19, and English 64:2–12 is Hebrew 64:1–11. The English numbering is followed, and the note on 64:1 says so. The checker's CHECK on 64 (12 verses against the Hebrew's 11) is this offset.
+
+**Kept formulas:**
+- 65:24 *ve-hayah* + a time clause: *And it shall come to pass, before they call, that I will answer*.
+- 66:23 *ve-hayah* with *as often as* (*from new moon to new moon*) is a habit, so it is rendered plain.
+- No other sentence starts with *And*.
+- *hinneh*: 65:6, 13 (three times), 14; 66:15 cut. God's *hinneni* + participle: 65:17, 18 *I am about to create*; 66:12 *I am about to extend*.
+- *hen*: 64:5, 9 cut.
+- *hinneni, hinneni* (65:1) is the answer *Here I am, here I am*, as at 6:8 and 58:9.
+- *ve-attah* (64:8): *But now*, the prayer turning from confession to plea.
+
+**Read forms followed:**
+- 63:9 *lo*, "to Him": the written form is *lo*, "not." The note gives both, and a choice is below.
+- 65:4 *u-meraq*, "broth": the written form is *u-feraq*, "and pieces." The note gives both.
+- 66:17 *achat*, "one" (a woman): the written form is *achad*, "one" (a man). The note gives both.
+- No note, because the meaning is the same: 65:7 *el*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:1, 2:9, 3:14, 10:2, 25:30, 30:11; Exodus 13:13, 33:2, 14, 15; Leviticus 6:18, 7:18, 11:7, 29, 13:45, 15:19–20; Numbers 5:22, 7:3; Deuteronomy 4:37, 28:30; Joshua 7:25–26; Judges 20:16; 1 Kings 8:27; 2 Kings 25:9; Ezra 9:4, 10:3; Psalms 51:11, 77:20.
+- Isaiah 1:2, 1:29, 11:6–9, 29:16, 34:6, 37:3, 40:1, 42:14, 45:9, 48:18, 49:15, 51:2, 58:9, 59:16, 59:17, 59:20, 60:4, 60:7, 61:2, 62:2.
+- Not yet rendered here, so quoted from the source: Daniel 12:2 (Hebrew); Mark 1:10, 9:48, Acts 7:48–50, Romans 10:20–21, 1 Corinthians 2:9, Ephesians 4:30, Hebrews 13:20, 2 Peter 3:13, Revelation 3:14, 12:5, 19:13, 15, 21:1, 4 (SBLGNT).
+- The 59:16 note's quotation of 63:5, *I was appalled that there was no one to uphold; My own arm brought Me deliverance*, matches. Earlier Isaiah notes that quote these chapters now match: 34:6's *in crimsoned garments from Bozrah* (63:1), 1:29's *sacrificing in the gardens* (65:3), 11:9's (65:25) and 18:7's (66:20).
+- Notes in other books that quote these chapters differ in wording in fifteen places (1 Enoch, 1 and 2 Meqabyan, Judith, Matthew 5:35, Jubilees, Ezra 9:4, Wisdom 19:9, Judges 5, Genesis 30). These are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *hen*, *ve-hayah* and *ve-attah* in chapters 63–66, and every written form that differs from its read form.
+  - *Ruach qodsh-*, "Holy Spirit," at Isaiah 63:10, 11 and Psalm 51:13 (English 51:11) only; *dera'on* at Isaiah 66:24 and Daniel 12:2 only.
+  - *g-'-l* in 63:3–4; *bore* three times in 65:17–18; *chared* in 66:2, 5 and Ezra 9:4, 10:3; *tsav* in Numbers 7:3; the verbs of 42:14 against 63:15 and 64:12; *pash'u vi* in 1:2 against 66:24; *be-fanav* in Deuteronomy 4:37; *panai… va-hanichoti* in Exodus 33:14; *gad* in Genesis 30:11.
+- Swete's Greek: Isaiah 63:1, 6, 8, 9, 11, 14, 15, 17, 18, 19; 64:1–7, 11, 12; 65:1, 2, 3, 4, 11, 15, 16, 20, 22, 23, 25; 66:1, 2, 3, 5, 9, 17, 18, 19, 24.
+
+**The checker** found no errors; its one CHECK is the chapter break above.
+
+**What these chapters are:**
+- **63:** *Who is this coming from Edom?*; the LORD alone treads the winepress; then the people's prayer begins, remembering the days of Moses: *You, LORD, are our Father*.
+- **64:** the prayer goes on: *Oh, that You would tear open the heavens and come down*; *we are the clay, and You are our potter*; the temple burned; *Will You keep silent?*
+- **65:** the LORD answers: *Here I am* to those who did not seek Him; judgment on those who worship in the gardens; *new heavens and a new earth*; *They shall not harm or destroy in all My holy mountain*.
+- **66:** *Heaven is My throne*; the one who trembles at His word; Zion gives birth in a day; the nations gather and see His glory; the book ends with the fire that is not quenched.
+
+### Isaiah 63: The One Who Comes from Edom
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *chamuts begadim* | in crimsoned garments |
+| 1 | *tso'eh* | striding |
+| 1 | *ani medabber bi-tsdaqah* | It is I, speaking in righteousness |
+| 3 | *nitsham* "their juice" | their lifeblood (also v6) |
+| 3 | *eg'alti* | I have stained (note) |
+| 4 | *shenat ge'ulai* | the year of My redemption (note) |
+| 7 | *chasdei YHWH* | the LORD's acts of loyal love |
+| 9 | *lo tsar* (read form) | He was distressed (choice below) |
+| 9 | *mal'akh panav* "the messenger of His face" | the messenger of His presence (Exodus 33:14; note) |
+| 11 | *va-yizkor… Mosheh ammo* "he remembered… Moses, His people" | His people remembered the days of old, the days of Moses (note) |
+| 11 | *ro'ei tso'no* | the shepherds of His flock (note) |
+| 14 | *tenichennu* | gave them rest (note) |
+| 15 | *hamon me'ekha* "the stirring of Your inward parts" | The yearning of Your heart |
+| 15 | *hit'appaqu* | are restrained (64:12; note there) |
+| 18 | *la-mits'ar yareshu* | ***KEPT AS IS*** possessed it for a little while (the Hebrew does not say what *it* is) |
+| 19 | *hayinu me'olam lo mashalta bam* | We have long been like those You never ruled |
+
+### Isaiah 64: Tear Open the Heavens
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lu qarata shamayim* (Hebrew 63:19) | Oh, that You would tear open the heavens (note) |
+| 1, 3 | *nazollu* | quake… quaked |
+| 2 | *ki-qdoach esh hamasim* | as when fire kindles brushwood |
+| 3 | *lo neqavveh* | that we did not look for |
+| 5 | *paga'ta et sas ve-oseh tsedeq* | You meet the one who gladly does righteousness |
+| 5 | *bahem olam ve-nivvashea* "in them, long; and we will be saved" | we have been in them a long time, and will we be saved? (choice below) |
+| 6 | *beged iddim* | a menstrual cloth (note) |
+| 7 | *va-temugenu be-yad avonenu* "melted us in the hand of our iniquities" | made us melt away in the power of our iniquities |
+| 8 | *yotsrenu* | our potter (29:16; note) |
+| 9 | *habbet na* | Look on us, please |
+| 11 | *tif'arteinu* | beautiful (60:7; note) |
+| 12 | *tit'appaq… techesheh* | restrain Yourself… keep silent (42:14; note) |
+
+### Isaiah 65: New Heavens and a New Earth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *nidrashti… nimtseti* | I let Myself be sought… I let Myself be found (note) |
+| 1 | *lo qora vi-shmi* | not called by My name (63:19; note) |
+| 4 | *u-va-netsurim yalinu* | spend the night in hidden places (note) |
+| 4 | *meraq piggulim* | broth of foul meat (Leviticus 7:18; note) |
+| 5 | *qedashtikha* "I am holy to you" | I am too holy for you (note) |
+| 6 | *hinneh ketuvah lefanai* | It stands written before Me |
+| 7 | *u-maddoti pe'ullatam rishonah* | I will measure into their lap payment for their former deeds |
+| 9 | *yoresh harai* | an heir to My mountains |
+| 11–12 | *la-Gad… la-Meni… u-maniti* | for Fortune… for Destiny… I will destine (note) |
+| 15 | *li-shvu'ah* "for an oath" | for a curse |
+| 16 | *be-Elohei amen* "by the God of Amen" | by the God of truth (note) |
+| 17–18 | *hineni vore* | I am about to create (note) |
+| 20 | *ul yamim* "a suckling of days" | an infant who lives but a few days |
+| 20 | *ha-chote* | the sinner (choice below) |
+| 22 | *yevallu* "wear out" | will long enjoy |
+| 23 | *la-behalah* | for sudden terror |
+| 25 | *yir'u ke-echad* | shall graze together (11:6–9, in its words; note) |
+
+### Isaiah 66: Heaven Is My Throne
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hadom raglai* "the footstool of My feet" | My footstool |
+| 2 | *va-yihyu khol elleh* | and so all these things came to be |
+| 2 | *ani u-nekheh ruach* | poor and broken in spirit |
+| 2, 5 | *chared* | trembles (Ezra 9:4; note) |
+| 3 | *shochet ha-shor makkeh ish* "slaughtering the ox, striking a man" | Whoever slaughters an ox is like one who kills a man (choice below) |
+| 3 | *mazkir levonah* | burns frankincense as a memorial |
+| 3 | *shiqqutsehem* | their loathsome things (fixed term) |
+| 4 | *ta'alulehem… u-megurotam* | harsh treatment… what they dread |
+| 8 | *be-fa'am echat* | at once |
+| 9 | *ha-ani ashbir* | Shall I bring to the mouth of the womb (37:3; note) |
+| 11 | *mi-ziz kevodah* | in her abundant glory |
+| 12 | *al tsad tinnase'u* | you will be carried on the hip (60:4) |
+| 17 | *achar achat ba-tavekh* | ***KEPT AS IS*** following one in the middle (who leads the rite is not said; note) |
+| 17 | *ha-sheqets* | loathsome things (fixed term) |
+| 18 | *ve-anokhi ma'aseihem u-machshevoteihem* "and I, their works and their thoughts" | As for Me, I know their works and their thoughts (note) |
+| 19 | *moshkhei qeshet* | who draw the bow (note) |
+| 20 | *u-va-tsabbim* | in covered wagons (Numbers 7:3; note) |
+| 20 | *u-va-kirkarot* | on swift camels |
+| 21 | *mehem* | some of them (note) |
+| 24 | *dera'on* | an abhorrence (note) |
+
+**Left standing on purpose:**
+- 63:18, *possessed it*: the Hebrew does not say what *it* is.
+- 66:17, *following one in the middle*: who leads the rite is not said.
+
+**Choices for you:**
+
+- **63:9, *lo tsar… u-mal'akh panav***
+  - (a) **In all their distress He was distressed, and the messenger of His presence saved them** (now): the read form, *lo*, "to Him." The LORD shares His people's distress and saves them through the messenger who carries His presence.
+  - (b) **He became their Savior in all their distress. No envoy, no messenger: His own presence saved them**: the written form, *lo*, "not," with *tsir*, "envoy," as the Greek reads it. The LORD saved them Himself, not through a go-between.
+  - Recommend (b): it keeps the letters as written and has the Greek with it, and it tells the event as Exodus 33 tells it. The LORD offered *a messenger* (33:2), Moses would not go without His face (33:15), and Deuteronomy 4:37 says *He Himself brought you out*. v14's *gave them rest* is the other half of the same promise (Exodus 33:14).
+- **64:5, *bahem olam ve-nivvashea***
+  - (a) **we have been in them a long time, and will we be saved?** (now): a question. *Them* are the sins just confessed, and the people doubt there is a way back.
+  - (b) **in them we will be forever, and we will be saved**: a statement. *Them* are *Your ways* two lines above, and the people hold on to the promise.
+  - Recommend (a): the next verses go on confessing (*We have all become like one who is unclean*), and the prayer turns to hope only at v8, *But now, LORD, You are our Father*.
+- **65:20, *ve-ha-chote ben me'ah shanah yequllal***
+  - (a) **the sinner a hundred years old will be accursed** (now): *chote* as "sinner," its usual sense and the Greek's. Even with life so long, sin is still under the curse.
+  - (b) **the one who falls short of a hundred will be thought accursed**: *chote* as "one who misses," the verb's first sense (Judges 20:16). Dying before a hundred will look like a curse, so long will life be.
+  - Recommend (a): it is the word's usual sense and the Greek's, though (b) matches the line before it.
+- **66:3, *shochet ha-shor makkeh ish***
+  - (a) **Whoever slaughters an ox is like one who kills a man** (now): with *like*, as the Greek has *as*. Worship from someone who is not humble (v2) is as bad as murder or a pig's-blood offering.
+  - (b) **One slaughters an ox and kills a man**: no *like*. The same people bring the LORD's sacrifices and also commit murder and pagan rites, as in 65:3–4 and 66:17.
+  - Recommend (a): the chapter opens by setting the temple against the humble heart (vv1–2), and v3 reads as the other side of that.
+
 ## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
 
 **Source:** Hebrew (WLC) throughout. The Greek (Swete) is followed once, at 61:8, *robbery and wrongdoing* (Andrew's ruling, 2026-10-16). It is quoted in notes where it reads differently: 59:19; 61:1, 8; 62:5, 11.
