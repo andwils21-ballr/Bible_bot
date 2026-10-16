@@ -2,6 +2,153 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 55–58 — rendered 2026-10-16, 7:49 AM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 55:3, 10; 57:5, 9; 58:6.
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- No sentence starts with *And*. 56:6 starts *The foreigners*, and 57:14 *One will say*.
+- *ve-hayah* (55:13; 56:12) is rendered plain.
+- *hen*: 55:4, 5; 56:3; 58:3, 4 cut.
+- *hineni*: 58:9 *Here I am*, the LORD's answer (note).
+
+**Read forms followed (no note, the meaning is the same):** 55:13 *ve-tachat*; 56:10 *tsofav*; 57:19 *niv*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 22:1, 25:8, 42:2; Exodus 31:13; Leviticus 16:29, 18:21; Deuteronomy 6:9, 23:1, 23:3, 32:13; 1 Samuel 13:14; 2 Samuel 7:16, 18:18; 2 Chronicles 6:42; Matthew 21:13.
+- Isaiah 1:29, 6:1, 11:12, 40:3, 42:3, 44:23, 44:28, 45:9, 48:20, 48:22, 49:3, 49:4, 49:8, 49:13, 52:8, 52:11–13, 53:5, 53:6, 53:10, 56:5.
+- Not yet rendered here, so quoted from the source: Mark 11:17; Luke 4:18; Acts 8:27–28, 13:34; 2 Corinthians 9:10; Ephesians 2:17 (SBLGNT).
+- Earlier notes in other books that quote these chapters differ in wording in six places: Esther 2:7, 2 Chronicles 6:42, Matthew 21:13, 2 Meqabyan 4:22, 2 Meqabyan 12:6 and Jubilees 2:29. These are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+- Two lines were matched to other books' quotations before the commit, because those quotations had the Hebrew right:
+  - 56:7 *make them joyful* (as 1 Meqabyan 36:14);
+  - 58:13 *from doing your own pleasure* (*asot*, as Jubilees 2:29).
+
+**Checked against the sources:**
+- Hebrew: every *hinneh*, *hen*, *ve-attah* and *ve-hayah* in chapters 55–58, and every written form that differs from its read form; 2 Samuel 7:16 *ne'man*.
+- Swete's Greek: Isaiah 55:3, 10; 56:7; 57:5, 9, 19; 58:6, 10.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **55:** *Come, everyone who thirsts*; the sure loyal love shown to David opened to all; *My thoughts are not your thoughts*; the word that does not return empty.
+- **56:** the foreigner and the eunuch given a name in the LORD's house; *a house of prayer for all the peoples*; the blind watchmen and mute dogs.
+- **57:** the righteous taken away; the people's worship on every high hill and in the valleys; the One *high and lifted up* who dwells with the crushed; *Peace, peace, to the far and to the near*.
+- **58:** the fast the LORD does not choose and the one He does; *the repairer of the breach*; the sabbath a delight.
+
+### Isaiah 55: Come to the Waters
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hoy* | Come (note) |
+| 1 | *shivru* | buy grain… buy (Genesis 42:2; note) |
+| 2 | *tishqelu khesef* | weigh out money |
+| 2 | *shim'u shamoa* "listen listening" | Listen carefully |
+| 2 | *ba-deshen* "in fatness" | in rich food |
+| 3 | *chasdei David ha-ne'emanim* | the sure loyal love shown to David (2 Chronicles 6:42; note) |
+| 4 | *nagid* | a leader (1 Samuel 13:14; note) |
+| 5 | *pe'arakh* | He has glorified you (49:3; note) |
+| 7 | *ish aven* | the man of iniquity |
+| 7 | *yarbeh lisloach* | He will abundantly pardon |
+| 10 | *hirvah* | watering |
+| 11 | *et asher chafatsti* | what I purpose (53:10; note) |
+| 12 | *yimcha'u khaf* | will clap their hands |
+| 13 | *ha-na'atsuts… ha-sirpad* | the thornbush… the brier |
+
+### Isaiah 56: A House of Prayer for All the Peoples
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *mechallelo* | not profaning it |
+| 3 | *ben ha-nekhar* | the foreigner (fixed term) |
+| 3 | *havdel yavdilani* "separating He will separate me" | The LORD will separate me |
+| 3 | *ets yavesh* | a dry tree |
+| 4 | *ba-asher chafatsti* | what pleases Me |
+| 5 | *yad va-shem* "a hand and a name" | a monument and a name (2 Samuel 18:18; note) |
+| 5 | *etten lo* "I will give him" | to each I will give (note) |
+| 6 | *le-sharto* | to minister to Him |
+| 7 | *le-ratson* | will be accepted |
+| 8 | *nidchei Yisra'el* | the banished of Israel (11:12) |
+| 10 | *hozim* | dreaming (a word found only here; note) |
+| 11 | *azzei nefesh* "strong of soul" | have a greedy appetite (note) |
+| 11 | *mi-qatsehu* "from his end" | every last one |
+| 12 | *gadol yeter me'od* | great beyond measure |
+
+### Isaiah 57: The High and Lifted Up One Dwells with the Crushed
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *anshei chesed* | men of loyal love |
+| 1 | *ne'esaf* | is taken away (Genesis 25:8; note) |
+| 2 | *holekh nekhocho* | each who walks in uprightness |
+| 3 | *zera mena'ef va-tizneh* "seed of an adulterer, and she played the prostitute" | offspring of the adulterer and the prostitute |
+| 4 | *titanaggu* | are you mocking |
+| 5 | *ha-nechamim ba-elim* | you who burn with lust among the oaks (choice below) |
+| 6 | *be-chalqei nachal chelqekh* | Among the smooth stones of the valley is your portion (note) |
+| 6 | *hem hem* | ***KEPT AS IS*** they, they (the Hebrew repeats it) |
+| 6 | *ennachem* | Shall I relent |
+| 7 | *gavoah ve-nissa* | high and lifted up (v15; note) |
+| 8 | *zikhronekh* | your memorial |
+| 8 | *me-itti* "from with Me" | turning from Me |
+| 8 | *yad chazit* | ***KEPT AS IS*** you gazed on a hand (note) |
+| 9 | *va-tashuri la-melekh* | You journeyed to the king (choice below) |
+| 10 | *no'ash* | It is hopeless |
+| 10 | *chayyat yadekh* "the life of your hand" | new life for your strength |
+| 11 | *machsheh u-me'olam* "silent, and from long ago" | silent, and for a long time |
+| 13 | *qibbutsayikh* "your gatherings" | your collection of idols |
+| 13 | *hevel* | a breath |
+| 14 | *ve-amar* "and he will say" | One will say |
+| 14 | *sollu sollu* | Build up, build up |
+| 15 | *shokhen ad* | who dwells forever |
+| 15 | *dakka… nidka'im* | crushed (53:5, 10; note) |
+| 16 | *u-neshamot* | and the breath |
+| 17 | *bitso* | his gain |
+| 19 | *niv sefatayim* | the fruit of the lips |
+| 20 | *nigrash* "driven" | tossing |
+
+### Isaiah 58: The Fast That I Choose
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *be-garon* "with the throat" | aloud |
+| 1 | *ka-shofar* | like a ram's horn (fixed term) |
+| 3 | *innu nafshenu* | afflicted our souls (Leviticus 16:29; note) |
+| 3 | *timtse'u chefets* "you find pleasure" | you seek your own pleasure (note) |
+| 3 | *tingosu* | drive hard |
+| 5 | *ke-agmon* | like a reed |
+| 5 | *yom ratson* | a day of favor (49:8; note) |
+| 6 | *agudot motah* | the straps of the yoke |
+| 6 | *ratsutsim* | the oppressed (42:3; note) |
+| 7 | *aniyyim merudim* | the homeless poor |
+| 7 | *u-mi-besarkha lo titallam* | not to hide yourself from your own flesh |
+| 8 | *arukhatekha* | your healing |
+| 8 | *ya'asfekha* | will be your rear guard (52:12; note) |
+| 9 | *shelach etsba* | the pointing of the finger |
+| 10 | *ve-tafeq la-ra'ev nafshekha* "and you bring out your soul to the hungry" | if you pour yourself out for the hungry (note; choice below) |
+| 11 | *be-tsachtsachot* | in scorched places |
+| 12 | *goder perets* | the repairer of the breach (note) |
+| 13 | *asot chafatsekha* | from doing your own pleasure |
+| 13 | *ve-dabber davar* "and speaking a word" | nor talking idly |
+| 14 | *bamotei arets* | the heights of the earth (Deuteronomy 32:13; note) |
+
+**Left standing on purpose:**
+- 57:6, *they, they are your lot*: the Hebrew repeats it.
+- 57:8, *you gazed on a hand*: what is meant is not said more plainly.
+
+**Choices for you:**
+- **57:5, *ba-elim*** — *you who burn with lust among the oaks, under every green tree.*
+  - **(a) "among the oaks"** (in the text now): the *oaks* of 1:29, *the oaks that you desired*, beside *every green tree*.
+  - **(b) "with the gods"**: the same letters; the Greek has *who call on idols*.
+  - Recommend **(a)**, because of the trees in the same line and in 1:29.
+- **57:9, *la-melekh*** — *You journeyed to the king with oil and multiplied your perfumes; you sent your envoys far off, and sent them down even to Sheol.*
+  - **(a) "to the king"** (in the text now): a foreign king courted with gifts.
+  - **(b) "to Molech"**: the same letters, the god of child sacrifice (Leviticus 18:21), after the children slaughtered in v5 and with *down even to Sheol* in the next line.
+  - Recommend **(a)**, with (b) in the note. The Hebrew vowels read *king*.
+- **58:10, *ve-tafeq la-ra'ev nafshekha*** — *if you pour yourself out for the hungry and satisfy the desire of the afflicted.*
+  - **(a) "pour yourself out"** (in the text now): *nafshekha*, "your soul, yourself," as the Hebrew has it.
+  - **(b) "give your bread to the hungry"**: the Greek, *give your bread to the hungry from your soul*, as in v7.
+  - Recommend **(a)**. It is the Hebrew, and the giving of self goes further than the bread of v7.
+
 ## Isaiah 51–54 — rendered 2026-10-16, 6:04 AM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 51:19; 52:5, 15; 53:1, 8, 11; 54:11–12, 15.
