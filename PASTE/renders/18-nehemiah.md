@@ -80,7 +80,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** **9:17**, *in Egypt* for *in their rebellion*, following the Greek, backed by Numbers 14:4 (*Let us appoint a leader and return to Egypt*). Noted.
 
 **Choices for you:**
-- **7:68**, the missing verse, now reads *(This verse is not in the Hebrew or the Greek of Nehemiah; see the note.)* (a) as now, the number kept and the line left out. (b) **Their horses were seven hundred and thirty-six, their mules two hundred and forty-five**, supplied from Ezra 2:66 with a note, as most English Bibles print it. Recommend (a): no witness of Nehemiah has the line.
+- **7:68, the missing verse** (English 7:69–73 is Hebrew 7:68–72)
+  - Now: *(This verse is not in the Hebrew or the Greek of Nehemiah; see the note.)*
+  - (a) **As now**: the number kept and the line left out.
+  - (b) **Their horses were seven hundred and thirty-six, their mules two hundred and forty-five**, supplied from Ezra 2:66 with a note, as most English Bibles print it.
+  - Recommend (a): no witness of Nehemiah has the line.
 
 ### Nehemiah 7: The Record of the First Return
 
@@ -156,15 +160,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Numbering:** English 4:1–6 is Hebrew 3:33–38 (noted in chapter 4; logged in NOTES_FOR_ANDREW for HANDOFF).
 
-**A mark of the book's own, for you to rule on:** *Remember me, my God, for good* (5:19), Nehemiah's short prayer, which comes back at 13:14, 22 and 31. Recommend: keep it in the same words every time, as the book's signature.
-
 **"And it came to pass" under the new rule:** kept at 4:1 and 6:1 (a chapter's first verse) and 4:16 (*from that day on*, a new time); cut at 4:7, 4:12, 4:15 and 6:16.
 
 **The *torah* question:** none in these chapters.
 
 **Departures from the Hebrew:** none.
 
-**Choices for you:** none.
+**Choices for you:** all decided; moved to `PASTE/decided/18-nehemiah.md`.
 
 ### Nehemiah 3: The Builders of the Wall
 

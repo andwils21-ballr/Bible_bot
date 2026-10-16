@@ -13,8 +13,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **33:19**, *divrei Chozai*, now reads *are written in the records of Hozai*. (a) **Hozai**, a name, as the Hebrew is written, as now. (b) **the seers**, the Greek, which is *ha-chozim* in Hebrew, the word of v18, one letter more. Recommend (a): the Hebrew makes sense as a name, and the note gives the Greek.
-- **36:10**, *achiv*, now reads *made Zedekiah his kinsman king*. (a) **his kinsman**, as now: *ach* is used of a wider relative (Lot is Abram's *ach*, Genesis 14:14). (b) **his brother**, the plain word, which makes Zedekiah Jehoiachin's brother. (c) **his uncle**, following Kings (2 Kings 24:17) and the Greek (*his father's brother*). Recommend (a): it is a true sense of the Hebrew and agrees with Kings without leaving the Hebrew.
+- **33:19, *divrei Chozai***
+  - Now: *are written in the records of Hozai*
+  - (a) **Hozai**, a name, as the Hebrew is written (now).
+  - (b) **the seers**, the Greek, which is *ha-chozim* in Hebrew, the word of v18, one letter more.
+  - Recommend (a): the Hebrew makes sense as a name; the note gives the Greek.
+- **36:10, *achiv***
+  - Now: *and made Zedekiah his kinsman king over Judah and Jerusalem.*
+  - (a) **his kinsman** (now): *ach* is used of a wider relative (Lot is Abram's *ach*, Genesis 14:14).
+  - (b) **his brother**, the plain word, which makes Zedekiah Jehoiachin's brother.
+  - (c) **his uncle**, following Kings (2 Kings 24:17) and the Greek (*his father's brother*).
+  - Recommend (a): it is a true sense of the Hebrew and agrees with Kings without leaving the Hebrew.
 
 ### 2 Chronicles 33: Manasseh's Captivity and Return
 
@@ -160,7 +169,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **26:5**, *ha-mevin bi-r'ot ha-Elohim*, now reads *Zechariah, who had understanding in the visions of God*. (a) **in the visions of God**, the Hebrew, as now. (b) **in the fear of God**, the Greek (*en phobō Kyriou*), which is *be-yir'at* in Hebrew, one letter more. Recommend (a): the Hebrew reads well, and a teacher of the king who *saw* is in keeping with the prophets of this book.
+- **26:5, *ha-mevin bi-r'ot ha-Elohim***
+  - Now: *in the days of Zechariah, who had understanding in the visions of God*
+  - (a) **in the visions of God**, the Hebrew (now).
+  - (b) **in the fear of God**, the Greek (*en phobō Kyriou*), which is *be-yir'at* in Hebrew, one letter more.
+  - Recommend (a): the Hebrew reads well, and a teacher of the king who *saw* is in keeping with the prophets of this book.
 
 ### 2 Chronicles 25: Amaziah and the Gods of Edom
 
@@ -247,7 +260,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **22:6**, *va-Azaryahu ven Yehoram*, **Azariah son of Jehoram**, against *Ahaziah* in vv1, 2 and 7. The Greek has *Ochozias*, as Kings has (2 Kings 8:29). The text reads *Ahaziah*; the note quotes the Hebrew.
 
 **Choices for you:**
-- **22:2**, the age, the departure above. (a) **twenty-two**, following Kings, as now. (b) **twenty**, following the Greek of Chronicles. (c) **forty-two**, the Hebrew, with a note that it cannot be right. Recommend (a): Kings is the Hebrew witness for the same verse.
+- **22:2, Ahaziah's age** (the departure above)
+  - Now: *Ahaziah was twenty-two years old when he began to reign*
+  - (a) **twenty-two**, following Kings (now).
+  - (b) **twenty**, following the Greek of Chronicles.
+  - (c) **forty-two**, the Hebrew, with a note that it cannot be right.
+  - Recommend (a): Kings is the Hebrew witness for the same verse.
 
 ### 2 Chronicles 21: Jehoram and Elijah's Letter
 
@@ -339,8 +357,16 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **20:1**, *me-ha-Ammonim*, **some of the Ammonites**, right after *the sons of Ammon*. The Greek has *of the Meunites* (*Meinaiōn*), a people named again in 26:7, and vv10, 22–23 call the army *Ammon, Moab and Mount Seir*. The text reads *and with them some of the Meunites*; the note quotes the Hebrew.
 
 **Choices for you:**
-- **17:3**, *be-darkhei David aviv ha-rishonim*, now reads *he walked in the earlier ways of David his father*. (a) The Hebrew, as now: David, his forefather. (b) The Greek, which has no *David*: *the earlier ways of his father*, that is Asa, faithful in his early years and not in his last (16:7–12). Recommend (a), with the note.
-- **20:2**, *me-Aram*, now reads *from beyond the sea, from Aram*. (a) **Aram**, the Hebrew and the Greek, as now. (b) **Edom**, one letter different, which fits *Mount Seir* in the army; no witness in `sources/` has it. Recommend (a).
+- **17:3, *be-darkhei David aviv ha-rishonim***
+  - Now: *because he walked in the earlier ways of David his father*
+  - (a) **The Hebrew** (now): David, his forefather.
+  - (b) **The Greek**, which has no *David*: *the earlier ways of his father*, that is Asa, faithful in his early years and not in his last (16:7–12).
+  - Recommend (a), with the note.
+- **20:2, *me-Aram***
+  - Now: *A great multitude is coming against you from beyond the sea, from Aram.*
+  - (a) **Aram**, the Hebrew and the Greek (now).
+  - (b) **Edom**, one letter different, which fits *Mount Seir* in the army; no witness in `sources/` has it.
+  - Recommend (a).
 
 ### 2 Chronicles 17: Jehoshaphat Teaches Judah
 
@@ -433,7 +459,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **15:3**, *ve-yamim rabbim le-Yisrael le-lo Elohei emet*. The Hebrew has no verb. The text reads *For many days Israel **was** without the true God…*, past, the days of the judges. (a) **was**, as now. (b) **will be**, a warning of a time to come, as Hosea 3:4 reads. Recommend (a): v4 goes on in the past, *when in their distress they turned… He was found by them*.
+- **15:3, *ve-yamim rabbim le-Yisrael*** (the Hebrew has no verb)
+  - Now, 15:3: *For many days Israel was without the true God, without a priest to teach and without instruction.*
+  - Now, 15:4: *But when in their distress they turned to the LORD, the God of Israel, and sought Him, He was found by them.*
+  - (a) **was** (now): past, the days of the judges.
+  - (b) **will be**: a warning of a time to come, as Hosea 3:4 reads.
+  - Recommend (a): v4 goes on in the past.
 
 ### 2 Chronicles 13: Abijah's War with Jeroboam
 
@@ -518,7 +549,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:** (decided ones moved to `PASTE/decided/14-2-chronicles.md`)
-- **9:4**, *va-aliyyato asher ya'aleh beit YHWH*, now reads *the ascent by which he went up to the house of the LORD*. Kings has *his burnt offerings that he offered* (1 Kings 10:5), and the Greek of Chronicles has *burnt offerings*. (a) The Hebrew, as now. (b) **his burnt offerings**, following Kings and the Greek. Recommend (a): the Hebrew reads, and the note gives the other.
+- **9:4, *va-aliyyato asher ya'aleh beit YHWH***
+  - Now: *and the ascent by which he went up to the house of the LORD*
+  - (a) **The Hebrew** (now).
+  - (b) **his burnt offerings that he offered**, following Kings (1 Kings 10:5) and the Greek of Chronicles.
+  - Recommend (a): the Hebrew reads; the note gives the other.
 
 ### 2 Chronicles 9: The Queen of Sheba and Solomon's Wealth
 
@@ -568,7 +603,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 15 | *la-se'irim* | for the goat-spirits (as Leviticus 17:7; noted) |
 | 17 | *li-shanim shalosh… li-shanim shalosh* | for three years… for three years ***KEPT AS IS***: the Hebrew says it twice; noted |
 | 18 | written *ben*, read *bat* | the daughter of Jerimoth (noted) |
-| 21 | *u-filagshim* | secondary wives (widespread choice above) |
+| 21 | *u-filagshim* | secondary wives (decided; see `PASTE/decided/14-2-chronicles.md`) |
 | 22 | *le-rosh… le-nagid be-echav* | as chief, leader among his brothers |
 | 23 | *va-yaven va-yifrots* | He acted wisely and distributed |
 | 23 | *va-yish'al hamon nashim* | sought many wives for them |
@@ -600,7 +635,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **7:16**, *ve-attah bacharti ve-hiqdashti*. The text reads *I have chosen and consecrated this house*, with *ve-attah* cut under the 2026-10-03 rule, because v15 has just said *Now My eyes will be open*. (a) Cut, as now. (b) **And now I have chosen…**, keeping the turn. Recommend (a).
+- **7:16, *ve-attah bacharti ve-hiqdashti***
+  - Now, 7:15: *Now My eyes will be open and My ears attentive to the prayer made in this place.*
+  - Now, 7:16: *I have chosen and consecrated this house, so that My name may be there forever.*
+  - (a) **Cut** *ve-attah* (now), under the 2026-10-03 rule, because v15 has just said *Now*.
+  - (b) **And now I have chosen…**, keeping the turn.
+  - Recommend (a).
 
 ### 2 Chronicles 5: The Ark Brought into the House
 
@@ -685,10 +725,20 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departure from the Hebrew, by your witnesses rule:**
 - **1:13**, *la-bamah*, **to the high place**, which cannot stand with *from before the tent of meeting… to Jerusalem*. The Greek has *ek*, **from**. The text reads *So Solomon came from the high place at Gibeon*; the note quotes the Hebrew.
 
-**Choices for you (the first two reach across books):**
-- **Hiram / Huram, the king of Tyre** (2:3, 11, 12; and later 8:2, 18; 9:10, 21). Chronicles writes *Churam*; Kings writes *Chiram*; the Greek has *Cheiram* in both. You ruled 1 Chronicles 14:1 **Hiram** as the received name. (a) **Hiram** throughout 2 Chronicles, as the text has it now, with a note in 2:3. (b) **Huram**, the spelling of this book. Recommend (a): it is the same king, and a reader should find him under one name. The craftsman stays **Huram** / **Huram-abi** (2:13; 4:11, 16), which keeps the two men apart; Kings calls the craftsman *Hiram* too (1 Kings 7:13).
-- ***qodesh ha-qodashim*** (3:8, 10; 4:22). The text now reads **the Most Holy Place**, as Kings does for the same building (1 Kings 6:16; 8:6). Exodus 26:33–34 reads **the Holy of Holies**, with a note built on it. (a) **Most Holy Place** in Kings and Chronicles, **Holy of Holies** in Exodus, as now. (b) One term everywhere. Logged in `NOTES_FOR_ANDREW.md`.
-- **1:5**, *va-yidreshehu*. The text reads *Solomon and the assembly sought **Him** there*. (a) **Him**, the LORD: *seek the LORD* is this book's word for faithfulness (1 Chronicles 22:19; 28:9). (b) **it**, the altar, as the Greek has it. Recommend (a).
+**Choices for you:** (decided ones moved to `PASTE/decided/14-2-chronicles.md`)
+- ***qodesh ha-qodashim*** (reaches across books; logged in `NOTES_FOR_ANDREW.md`)
+  - Now, 3:8: *He made the room of the Most Holy Place.*
+  - Now, 3:10: *In the room of the Most Holy Place he made two cherubim*
+  - Now, 4:22: *its inner doors to the Most Holy Place*
+  - Kings reads **the Most Holy Place** for the same building (1 Kings 6:16; 8:6); Exodus 26:33–34 reads **the Holy of Holies**, with a note built on it.
+  - (a) **Most Holy Place** in Kings and Chronicles, **Holy of Holies** in Exodus (now).
+  - (b) One term everywhere.
+  - No recommendation was given.
+- **1:5, *va-yidreshehu***
+  - Now: *and Solomon and the assembly sought Him there.*
+  - (a) **Him**, the LORD (now): *seek the LORD* is this book's word for faithfulness (1 Chronicles 22:19; 28:9).
+  - (b) **it**, the altar, as the Greek has it.
+  - Recommend (a).
 
 ### 2 Chronicles 1: Solomon Asks for Wisdom
 
@@ -712,7 +762,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 |---|---|---|
 | 1 (Heb 1:18) | *va-yomer Shelomoh livnot* | Solomon gave orders to build |
 | 2 | *ish sabbal… ish chotsev ba-har* | men to carry loads… to cut stone in the hill country |
-| 3 | *Churam* | Hiram (choice above; noted) |
+| 3 | *Churam* | Hiram (decided; see `PASTE/decided/14-2-chronicles.md`; noted) |
 | 3 | *ka'asher asita… la-shevet bo* | As you dealt with David my father… — ***KEPT AS IS***: the sentence has no second half; noted |
 | 4 | *hinneh ani voneh* | I am about to build (*hinneh* + participle) |
 | 4 | *u-ma'arekhet tamid* | the bread set out continually |

@@ -10,8 +10,16 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **26:20**, *ve-ha-Leviyyim Achiyyah*, **and the Levites, Ahijah**: a name found nowhere else in these lists, standing where no name is expected. The Greek has *hoi Leuitai adelphoi autōn*, **the Levites their kinsmen** (Hebrew *acheihem*, one letter more). The text now reads *Their kinsmen the Levites were over the treasuries of the house of God*; the note quotes the Hebrew.
 
 **Choices for you:**
-- **26:20**, the departure above. (a) **Their kinsmen the Levites**, following the Greek, as the text has it. (b) **And the Levites: Ahijah was over the treasuries**, keeping the Hebrew. Recommend (a): the verse heads a list of treasurers by family (vv21–28), and Ahijah is in none of them.
-- **27:18**, *Elihu, one of David's brothers*. The Greek has *Eliab*, Jesse's firstborn (2:13; 1 Samuel 16:6); no Elihu is among Jesse's sons in 2:13–15. (a) **Elihu**, the Hebrew, as the text has it, with the note. (b) **Eliab**, following the Greek. Recommend (a): *achei David* can mean a kinsman as well as a brother, so the Hebrew is not self-contradictory.
+- **26:20, *ve-ha-Leviyyim Achiyyah*** (the departure above)
+  - Now: *Their kinsmen the Levites were over the treasuries of the house of God and the treasuries of the dedicated gifts.*
+  - (a) **Their kinsmen the Levites**, the Greek (*acheihem*, one letter more), as now; the note quotes the Hebrew.
+  - (b) **And the Levites: Ahijah was over the treasuries**, the Hebrew.
+  - Recommend (a): the verse heads a list of treasurers by family (vv21–28), and Ahijah is in none of them.
+- **27:18, *Elihu, one of David's brothers***
+  - Now: *for Judah, Elihu, one of David's brothers*
+  - (a) **Elihu**, the Hebrew (now), with the note.
+  - (b) **Eliab**, the Greek: Jesse's firstborn (2:13; 1 Samuel 16:6); no Elihu is among Jesse's sons in 2:13–15.
+  - Recommend (a): *achei David* can mean a kinsman as well as a brother, so the Hebrew is not self-contradictory.
 
 ### 1 Chronicles 26: Gatekeepers, Treasurers and Officials
 
@@ -106,8 +114,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew:** none.
 
 **Choices for you:**
-- **22:14**, *be-onyi*. The text now reads *In my affliction I have prepared for the house of the LORD a hundred thousand talents of gold…* (a) **In my affliction**, *oni* as in *I have seen the affliction of My people* (Exodus 3:7) and *God has seen my affliction* (Genesis 31:42): what the gathering cost David. (b) **In my poverty**, the Greek *kata tēn ptōcheian mou*: modesty, though the sums are vast. (c) **With great pains**: the effort, without the word's weight. Recommend (a), as the text has it; the note gives (b) and (c).
-- **25:1**, *sarei ha-tsava*. The text now reads *David and the commanders of the army set apart for the service some of the sons of Asaph…* (a) **the commanders of the army**, the phrase's sense elsewhere in the book (19:18; 27:34) and the Greek's. (b) **the commanders of the service**, *tsava* as the Levites' term of duty (Numbers 4:3). Recommend (a), as the text has it; the note gives (b).
+- **22:14, *be-onyi***
+  - Now: *In my affliction I have prepared for the house of the LORD a hundred thousand talents of gold*
+  - (a) **In my affliction** (now): *oni* as in *I have seen the affliction of My people* (Exodus 3:7) and *God has seen my affliction* (Genesis 31:42); what the gathering cost David.
+  - (b) **In my poverty**, the Greek *kata tēn ptōcheian mou*: modesty, though the sums are vast.
+  - (c) **With great pains**: the effort, without the word's weight.
+  - Recommend (a); the note gives (b) and (c).
+- **25:1, *sarei ha-tsava***
+  - Now: *David and the commanders of the army set apart for the service some of the sons of Asaph*
+  - (a) **the commanders of the army** (now): the phrase's sense elsewhere in the book (19:18; 27:34) and the Greek's.
+  - (b) **the commanders of the service**: *tsava* as the Levites' term of duty (Numbers 4:3).
+  - Recommend (a); the note gives (b).
 
 ### 1 Chronicles 22: David Prepares for the House of God
 
@@ -187,8 +204,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choice for you:**
-- **21:1**, *Satan stood up against Israel and incited David to number Israel*. The Hebrew is *satan* with no article. (a) **Satan**, a name, as the text has it now and as the note on 2 Samuel 24:1 already quotes it; the Greek has *diabolos*, the New Testament's word for the devil. (b) **an adversary**, the plain meaning of the word without the article, as in Numbers 22:22, where *the messenger of the LORD took his stand in the road as an adversary*; Job has the article, *ha-satan* (Job 1:6). Samuel tells the same event as the LORD's anger inciting David (2 Samuel 24:1). Recommend (a), with the note giving (b), since the 2 Samuel note already reads *Satan*.
+**Choices for you:**
+- **21:1, *satan*** (no article)
+  - Now: *Satan stood up against Israel and incited David to number Israel.*
+  - (a) **Satan**, a name (now), as the note on 2 Samuel 24:1 already quotes it; the Greek has *diabolos*, the New Testament's word for the devil.
+  - (b) **an adversary**, the plain meaning without the article, as in Numbers 22:22 (*the messenger of the LORD took his stand in the road as an adversary*); Job has the article, *ha-satan* (Job 1:6). Samuel tells the same event as the LORD's anger inciting David (2 Samuel 24:1).
+  - Recommend (a), with the note giving (b).
 
 ### 1 Chronicles 18: David's Wars and Officials
 
@@ -271,8 +292,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departure from the Hebrew, by your witnesses rule:**
 - **15:18**, *Zechariah, Jaaziel*. The Hebrew reads *Zechariah ben, Jaaziel*: *ben*, **son of**, with no name after it. The Greek lacks the word, and the same names in v20 run without it. Noted.
 
-**Choice for you:**
-- **15:22, 27**, *massa*. (a) **the carrying**, as the text has it: *Chenaniah, chief of the Levites, was in charge of the carrying; he directed the carrying, for he understood it* (v22); *Chenaniah the leader of the carrying of the singers* (v27). The word is from *nasa*, **to lift, to carry**, the verb of v2 and v15, and the chapter is about carrying the ark. (b) **the singing** (lifting up the voice): the Greek has *chief of the songs* in v22, and v27 joins the word to *the singers*. Recommend (a), with the note giving (b); it is uncertain.
+**Choices for you:**
+- **15:22, 27, *massa***
+  - Now, 15:22: *Chenaniah, chief of the Levites, was in charge of the carrying; he directed the carrying, for he understood it.*
+  - Now, 15:27: *and Chenaniah the leader of the carrying of the singers*
+  - (a) **the carrying** (now): from *nasa*, to lift, to carry, the verb of v2 and v15, and the chapter is about carrying the ark.
+  - (b) **the singing** (lifting up the voice): the Greek has *chief of the songs* in v22, and v27 joins the word to *the singers*.
+  - Recommend (a), with the note giving (b); it is uncertain.
 
 ### 1 Chronicles 14: David's House and Victories
 
@@ -357,8 +383,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choice for you:**
-- **12:18**, *Then the spirit clothed Amasai*. The Hebrew has *ve-ruach lavshah et Amasai*, only *ruach*, with no *of God* or *of the LORD*, though the verb is the one of *The Spirit of the LORD clothed Gideon* (Judges 6:34) and Amasai then speaks in verse. (a) **the spirit** (lowercase), as the text has it now: your 2026-09-30 rule capitalizes *ruach* only when it is *of God* or *of the LORD*. (b) **the Spirit**, reading it as God's Spirit from the verb and the speech that follows. Recommend (a): the Hebrew does not say whose spirit it is, and the note gives the Judges parallel.
+**Choices for you:**
+- **12:18, *ve-ruach lavshah et Amasai*** (only *ruach*, with no *of God* or *of the LORD*)
+  - Now: *Then the spirit clothed Amasai, the chief of the officers*
+  - (a) **the spirit** (now): the 2026-09-30 ruling capitalizes *ruach* only when it is *of God* or *of the LORD*.
+  - (b) **the Spirit**: the verb is the one of *The Spirit of the LORD clothed Gideon* (Judges 6:34), and Amasai then speaks in verse.
+  - Recommend (a): the Hebrew does not say whose spirit it is; the note gives the Judges parallel.
 
 ### 1 Chronicles 10: The Death of Saul
 
@@ -529,8 +559,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **4:3**, *These were the sons of Etam*. The Hebrew reads *these the father of Etam*; the Greek has *the sons of Etam*. Noted.
 - **4:39**, *the entrance of Gerar*. The Hebrew has *Gedor*, a town of Judah; the Greek has *Gerar*, and v40 says the people there were *of Ham* (Genesis 10:19 puts Gerar on the Canaanite border). Noted.
 
-**Choice for you:**
-- **3:19**, *The sons of Pedaiah: Zerubbabel*. (a) **Pedaiah**, as the Hebrew of Chronicles has it, making Zerubbabel Shealtiel's nephew. (b) **Shealtiel**, as the Greek here reads (*the sons of Shealtiel: Zerubbabel*) and as Ezra 3:2, Haggai 1:1 and Matthew 1:12 call him *son of Shealtiel*. The Hebrew is clear and does not contradict itself, so the text keeps (a) and the note gives (b). Recommend (a); the Greek may have brought the verse into line with Ezra and Haggai, but that cannot be shown.
+**Choices for you:**
+- **3:19, *The sons of Pedaiah: Zerubbabel***
+  - Now: *The sons of Pedaiah: Zerubbabel and Shimei.*
+  - (a) **Pedaiah**, the Hebrew of Chronicles (now), making Zerubbabel Shealtiel's nephew.
+  - (b) **Shealtiel**, the Greek here (*the sons of Shealtiel: Zerubbabel*), as Ezra 3:2, Haggai 1:1 and Matthew 1:12 call him *son of Shealtiel*.
+  - Recommend (a): the Hebrew is clear and does not contradict itself; the Greek may have brought the verse into line with Ezra and Haggai, but that cannot be shown. The note gives (b).
 
 ### 1 Chronicles 2: The Sons of Israel and the Line of Judah
 
