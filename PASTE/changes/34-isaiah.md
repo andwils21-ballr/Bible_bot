@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 58:10, *nefesh* twice (2026-10-16)
+
+**Request:** Andrew asked why the line did not say *soul*, since that is the Hebrew. *Pour out your soul* is Hannah's prayer (1 Samuel 1:15, a different verb), so the ruling keeps *soul* without *pour*, the same word both times as the Hebrew has it.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 58:10 | if you pour yourself out for the hungry and satisfy the desire of the afflicted, | if you give your soul to the hungry and satisfy the soul of the afflicted, |
+| Isaiah 58, note v10 | **"if you pour yourself out for the hungry"** — *…nafshekha*, "you bring out your soul to the hungry"… | **"if you give your soul to the hungry and satisfy the soul of the afflicted"** — *nefesh* twice… |
+
 ## Isaiah 57:9, *la-melekh* (2026-10-16)
 
 **Request:** Andrew's ruling on the Isaiah 55–58 choices: (b) for 57:9, *to Molech*; (a) for 57:5, as rendered. The letters *mlk* are read as the god's name rather than with the Hebrew vowels, *the king*.

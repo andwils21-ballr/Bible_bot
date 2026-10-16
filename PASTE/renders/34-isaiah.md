@@ -124,7 +124,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 8 | *arukhatekha* | your healing |
 | 8 | *ya'asfekha* | will be your rear guard (52:12; note) |
 | 9 | *shelach etsba* | the pointing of the finger |
-| 10 | *ve-tafeq la-ra'ev nafshekha* "and you bring out your soul to the hungry" | if you pour yourself out for the hungry (note; choice below) |
+| 10 | *ve-tafeq la-ra'ev nafshekha* "and you bring out your soul to the hungry" | if you give your soul to the hungry… the soul of the afflicted (decided 2026-10-16; note) |
 | 11 | *be-tsachtsachot* | in scorched places |
 | 12 | *goder perets* | the repairer of the breach (note) |
 | 13 | *asot chafatsekha* | from doing your own pleasure |
@@ -144,7 +144,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - **(a) "to the king"** (in the text now): a foreign king courted with gifts.
   - **(b) "to Molech"**: the same letters, the god of child sacrifice (Leviticus 18:21), after the children slaughtered in v5 and with *down even to Sheol* in the next line.
   - Recommend **(a)**, with (b) in the note. The Hebrew vowels read *king*.
-- **58:10, *ve-tafeq la-ra'ev nafshekha*** — *if you pour yourself out for the hungry and satisfy the desire of the afflicted.*
+- ✅ Decided 2026-10-16: **give your soul… the soul of the afflicted**, a third wording, *nefesh* kept the same twice; now in the text (`PASTE/changes/34-isaiah.md`). **58:10, *ve-tafeq la-ra'ev nafshekha*** — *if you pour yourself out for the hungry and satisfy the desire of the afflicted.*
   - **(a) "pour yourself out"** (in the text now): *nafshekha*, "your soul, yourself," as the Hebrew has it.
   - **(b) "give your bread to the hungry"**: the Greek, *give your bread to the hungry from your soul*, as in v7.
   - Recommend **(a)**. It is the Hebrew, and the giving of self goes further than the bread of v7.
