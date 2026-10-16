@@ -4,7 +4,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 ## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
 
-**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 59:19; 61:1, 8; 62:5, 11.
+**Source:** Hebrew (WLC) throughout. The Greek (Swete) is followed once, at 61:8, *robbery and wrongdoing* (Andrew's ruling, 2026-10-16). It is quoted in notes where it reads differently: 59:19; 61:1, 8; 62:5, 11.
 
 **Kept formulas:**
 - None of *And it came to pass* or *And it shall come to pass* in these chapters.
