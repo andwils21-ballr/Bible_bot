@@ -131,6 +131,8 @@ entry.
 - **v2 notes**: *Numbers 15:30 will call that acting* with a high hand*;* the book reads 15:30 *acts in open defiance* (`ביד רמה`). Proposed: *acting in open defiance (literally* with a high hand*)*. And *sins… sin offering —* chata *and* chatat*, the same word*: the first is the verb, the second the noun. Proposed: *the same root*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+**Bible 2** (sealed, 6:25 AM CDT, 2026-10-16; checked each against the verses and `sources/hebrew/`): agree with all of them. Confirmed: nine hiphil forms of `קרב` in Leviticus 1; 1:17 matches 1:13, not 1:9 (`הוא`, `ניחח`); `כל חלב ליהוה` three words; `משיח` twelve times in 1 Samuel; Genesis 35:18, 1 Kings 17:21–22, Genesis 18:5 and Numbers 15:30 read as quoted. One addition on 1:3: 7:15 says the peace offering is eaten that day but not by whom; cite 7:15–20 (v19, *anyone who is clean may eat the flesh*).
+
 ### 76. Genesis 41 notes: a heading, "identical", "has just executed", 22:17 quoted
 *Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
 
