@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 57:9, *la-melekh* (2026-10-16)
+
+**Request:** Andrew's ruling on the Isaiah 55–58 choices: (b) for 57:9, *to Molech*; (a) for 57:5, as rendered. The letters *mlk* are read as the god's name rather than with the Hebrew vowels, *the king*.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 57:9 | You journeyed to the king with oil | You journeyed to Molech with oil |
+| Isaiah 57, note v9 | **"You journeyed to the king with oil"** — *la-melekh*, "to the king." The same letters spell *Molekh*… | **"You journeyed to Molech with oil"** — the letters are *mlk*. The Hebrew vowels read them *la-melekh*, "to the king"; the same letters spell *Molekh*… and the text reads them so… |
+
 ## Isaiah 52:15, wording (2026-10-16)
 
 **Request:** Andrew asked for wordings that read more naturally than *startle*, and chose the Greek's own words, *so many nations will marvel at him*, which pairs with v14's *As many were appalled at you*.

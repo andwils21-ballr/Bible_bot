@@ -91,7 +91,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 8 | *zikhronekh* | your memorial |
 | 8 | *me-itti* "from with Me" | turning from Me |
 | 8 | *yad chazit* | ***KEPT AS IS*** you gazed on a hand (note) |
-| 9 | *va-tashuri la-melekh* | You journeyed to the king (choice below) |
+| 9 | *va-tashuri la-melekh* "to the king" | You journeyed to Molech (decided 2026-10-16; note) |
 | 10 | *no'ash* | It is hopeless |
 | 10 | *chayyat yadekh* "the life of your hand" | new life for your strength |
 | 11 | *machsheh u-me'olam* "silent, and from long ago" | silent, and for a long time |
@@ -136,11 +136,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 57:8, *you gazed on a hand*: what is meant is not said more plainly.
 
 **Choices for you:**
-- **57:5, *ba-elim*** — *you who burn with lust among the oaks, under every green tree.*
+- ✅ Decided 2026-10-16: (a), as the text has it. **57:5, *ba-elim*** — *you who burn with lust among the oaks, under every green tree.*
   - **(a) "among the oaks"** (in the text now): the *oaks* of 1:29, *the oaks that you desired*, beside *every green tree*.
   - **(b) "with the gods"**: the same letters; the Greek has *who call on idols*.
   - Recommend **(a)**, because of the trees in the same line and in 1:29.
-- **57:9, *la-melekh*** — *You journeyed to the king with oil and multiplied your perfumes; you sent your envoys far off, and sent them down even to Sheol.*
+- ✅ Decided 2026-10-16: (b), **to Molech**; now in the text (`PASTE/changes/34-isaiah.md`). **57:9, *la-melekh*** — *You journeyed to the king with oil and multiplied your perfumes; you sent your envoys far off, and sent them down even to Sheol.*
   - **(a) "to the king"** (in the text now): a foreign king courted with gifts.
   - **(b) "to Molech"**: the same letters, the god of child sacrifice (Leviticus 18:21), after the children slaughtered in v5 and with *down even to Sheol* in the next line.
   - Recommend **(a)**, with (b) in the note. The Hebrew vowels read *king*.
