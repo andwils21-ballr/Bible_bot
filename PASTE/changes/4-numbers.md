@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 8:19 (2026-10-16)
+
+**Request:** Andrew could not picture what 8:19 describes. Two causes: *wholly given* stood in v19, where the Hebrew has *netunim* once (the doubled *netunim netunim*, "wholly given," is v16); and nothing told the reader the Levites stand between the people and the holy place. Andrew approved both changes (2026-10-16).
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 8:19 | I have given the Levites, wholly given, to Aaron and to his sons from among the sons of Israel, to do the service of the sons of Israel at the tent of meeting and to make atonement… | I have given the Levites to Aaron and to his sons, given from among the sons of Israel, to do the service of the sons of Israel at the tent of meeting in their place, and to make atonement… (*in their place*, as *in place of* in vv16, 18) |
+| Numbers 8, notes | — | new note on v19: the Levites as the people's buffer (1:53; 18:22–23) and ransom; *no plague* as in Exodus 30:12 |
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
