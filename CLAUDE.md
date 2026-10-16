@@ -122,13 +122,20 @@ removed:
 - **`PASTE/renders/<order>-<slug>.md`, "New Chapters: <Book>"**, one file per
   book (same names as the `books/` folders), gets every render cycle's report
   for that book, newest at the top. A cycle that crosses into a new book
-  splits its report and starts the new book's file with its header. Mark a
-  choice `✅ Decided: …` once Andrew rules on it.
+  splits its report and starts the new book's file with its header. It holds
+  only choices still open, so Andrew can see at a glance what waits on him.
   - For each chapter: a table `Verse | Word-for-word | In the text now`, one
     row per judgment call, meaning anywhere the English departs from
     word-for-word.
   - Where a rough or uncertain rendering was left standing on purpose, its
     last cell starts with `***KEPT AS IS***`.
+- **`PASTE/decided/<order>-<slug>.md`, "Decided Choices: <Book>"** (Andrew,
+  2026-10-16): once Andrew rules on a choice, mark it `✅ Decided <date>: …`
+  and move it, in the same commit, out of the renders file into this one,
+  under the heading of the run that raised it, newest at the top. In the
+  renders file the run's **Choices for you** then lists only open choices
+  (*all decided; moved to `PASTE/decided/<file>`* when none are left), and a
+  table cell that said *choice below* points to the decided file.
 - **The chat reply stays short:**
   - What landed, and the progress count.
   - **Left standing on purpose**: verse and one-line reason for each.

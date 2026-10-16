@@ -25,8 +25,8 @@ each unit:
 4. Look for what can be cleaned up without Andrew:
    - a checker ERROR, or a CHECK that is a real problem;
    - a report that says the text reads one way when the chapter reads another;
-   - a choice marked `✅ Decided` that was never applied, or applied in one
-     verse and missed in another;
+   - a choice marked `✅ Decided` (in `PASTE/decided/<book>.md`) that was
+     never applied, or applied in one verse and missed in another;
    - a later ruling (the spec, `PASTE/changes/`) that this chapter predates
      and plainly falls under: *And it came to pass* keep/cut, *hinneh*,
      capital pronouns, *And now*, the fixed terms;

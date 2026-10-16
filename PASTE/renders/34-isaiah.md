@@ -83,7 +83,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2 | *holekh nekhocho* | each who walks in uprightness |
 | 3 | *zera mena'ef va-tizneh* "seed of an adulterer, and she played the prostitute" | offspring of the adulterer and the prostitute |
 | 4 | *titanaggu* | are you mocking |
-| 5 | *ha-nechamim ba-elim* | you who burn with lust among the oaks (choice below) |
+| 5 | *ha-nechamim ba-elim* | you who burn with lust among the oaks (decided; see `PASTE/decided/34-isaiah.md`) |
 | 6 | *be-chalqei nachal chelqekh* | Among the smooth stones of the valley is your portion (note) |
 | 6 | *hem hem* | ***KEPT AS IS*** they, they (the Hebrew repeats it) |
 | 6 | *ennachem* | Shall I relent |
@@ -135,19 +135,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 57:6, *they, they are your lot*: the Hebrew repeats it.
 - 57:8, *you gazed on a hand*: what is meant is not said more plainly.
 
-**Choices for you:**
-- ✅ Decided 2026-10-16: (a), as the text has it. **57:5, *ba-elim*** — *you who burn with lust among the oaks, under every green tree.*
-  - **(a) "among the oaks"** (in the text now): the *oaks* of 1:29, *the oaks that you desired*, beside *every green tree*.
-  - **(b) "with the gods"**: the same letters; the Greek has *who call on idols*.
-  - Recommend **(a)**, because of the trees in the same line and in 1:29.
-- ✅ Decided 2026-10-16: (b), **to Molech**; now in the text (`PASTE/changes/34-isaiah.md`). **57:9, *la-melekh*** — *You journeyed to the king with oil and multiplied your perfumes; you sent your envoys far off, and sent them down even to Sheol.*
-  - **(a) "to the king"** (in the text now): a foreign king courted with gifts.
-  - **(b) "to Molech"**: the same letters, the god of child sacrifice (Leviticus 18:21), after the children slaughtered in v5 and with *down even to Sheol* in the next line.
-  - Recommend **(a)**, with (b) in the note. The Hebrew vowels read *king*.
-- ✅ Decided 2026-10-16: **give your soul… the soul of the afflicted**, a third wording, *nefesh* kept the same twice; now in the text (`PASTE/changes/34-isaiah.md`). **58:10, *ve-tafeq la-ra'ev nafshekha*** — *if you pour yourself out for the hungry and satisfy the desire of the afflicted.*
-  - **(a) "pour yourself out"** (in the text now): *nafshekha*, "your soul, yourself," as the Hebrew has it.
-  - **(b) "give your bread to the hungry"**: the Greek, *give your bread to the hungry from your soul*, as in v7.
-  - Recommend **(a)**. It is the Hebrew, and the giving of self goes further than the bread of v7.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 51–54 — rendered 2026-10-16, 6:04 AM CDT
 
@@ -250,7 +238,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | Verse | Word-for-word | In the text now |
 |---|---|---|
 | 1 | *li-shemu'atenu* "our report" | what we have heard (note) |
-| 2 | *lefanav* | before Him (choice below) |
+| 2 | *lefanav* | before Him (decided; see `PASTE/decided/34-isaiah.md`) |
 | 2 | *ka-yoneq* | like a young plant (note) |
 | 2 | *me-erets tsiyyah* | out of dry ground |
 | 3 | *chadal ishim* | forsaken by men |
@@ -264,14 +252,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 6 | *hifgia bo* "made fall on him" | has laid on him (v12; note) |
 | 8 | *me-otser u-mi-mishpat* | By oppression and judgment |
 | 8 | *ve-et doro mi yesoche'ach* "and his generation who will consider" | ***KEPT AS IS*** and as for his generation, who considered (the line is obscure) |
-| 8 | *nega lamo* "a blow to them" | stricken (choice below) |
+| 8 | *nega lamo* "a blow to them" | stricken (decided; see `PASTE/decided/34-isaiah.md`) |
 | 9 | *va-yitten* "and he gave" | His grave was made (no subject in the Hebrew; note) |
 | 9 | *be-motav* "in his deaths" | in his death (note) |
 | 10 | *chafets dakk'o* | was pleased to crush him |
 | 10 | *hecheli* | He made him sick |
-| 10 | *im tasim asham nafsho* | When his soul makes a guilt offering (choice below) |
+| 10 | *im tasim asham nafsho* | When his soul makes a guilt offering (decided; see `PASTE/decided/34-isaiah.md`) |
 | 10 | *zera* | offspring |
-| 11 | *yir'eh* | he will see (choice below) |
+| 11 | *yir'eh* | he will see (decided; see `PASTE/decided/34-isaiah.md`) |
 | 11 | *yatsdiq tsaddiq avdi la-rabbim* | the righteous one, My servant, will make the many righteous (50:8; note) |
 | 12 | *achalleq lo va-rabbim* | I will give him a portion among the many |
 | 12 | *he'erah la-mavet nafsho* "he laid bare his soul to death" | he poured out his soul to death |
@@ -297,7 +285,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 12 | *shimshotayikh* "your suns" | your battlements |
 | 12 | *kadkod… avnei eqdach* | ***KEPT AS IS*** rubies… sparkling stones (the gems are not known; note) |
 | 13 | *limmudei YHWH* | disciples of the LORD (8:16; 50:4; note) |
-| 15 | *gor yagur* | stirs up strife (choice below) |
+| 15 | *gor yagur* | stirs up strife (decided; see `PASTE/decided/34-isaiah.md`) |
 | 16 | *mashchit le-chabbel* | the ravager to destroy |
 | 17 | *tarshi'i* | you will condemn |
 | 17 | *tsidqatam* | their righteousness |
@@ -307,31 +295,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 53:8, *as for his generation, who considered*: the line is obscure.
 - 54:12, *rubies… sparkling stones*: the gems are not known.
 
-**Choices for you:**
-- ✅ Decided 2026-10-16: (b), in the Greek's words, **so many nations will marvel at him** (`PASTE/changes/34-isaiah.md`). **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
-  - **(a) "sprinkle"** (in the text now): the priest's verb (Leviticus 4:6; 16:14).
-  - **(b) "startle"** (or *many nations will marvel at him*): the Greek, which matches *appalled* in v14 and the kings' shut mouths.
-  - Recommend **(a)**. It is what the Hebrew word means, and the note gives the Greek.
-- ✅ Decided 2026-10-16: (a), as the text has it. **53:2, *lefanav*** — *He grew up before Him like a young plant.*
-  - **(a) "before Him"** (in the text now): before the LORD, whose arm is named in v1.
-  - **(b) "before him"** or *before us*: the observer, or an unnamed one. The Hebrew does not say.
-  - Recommend **(a)**.
-- ✅ Decided 2026-10-16: (a), as the text has it. **53:8, *nega lamo*** — *who considered that he was cut off from the land of the living, stricken for the transgression of my people?*
-  - **(a) "stricken"** (in the text now): *lamo* as "to him," a poetic singular.
-  - **(b) "the blow was theirs"**: *lamo* as its usual plural, "to them."
-  - Recommend **(a)**. The whole chapter is about the one who was struck.
-- ✅ Decided 2026-10-16: (a), as the text has it. **53:10, *im tasim asham nafsho*** — *When his soul makes a guilt offering, he will see offspring.*
-  - **(a) "When his soul makes a guilt offering"** (in the text now): *nafsho* as the subject.
-  - **(b) "When you make his soul a guilt offering"**: *tasim* as "you," spoken to God or to the reader.
-  - Recommend **(a)**. The servant is the one acting through vv10–12.
-- ✅ Decided 2026-10-16: (a), as the text has it. **53:11, *yir'eh*** — *Out of the anguish of his soul he will see and be satisfied.*
-  - **(a) "he will see"** (in the text now): the Hebrew, with no object.
-  - **(b) "he will see light"**: the Greek has *to show him light*.
-  - Recommend **(a)**, with the Greek in the note.
-- ✅ Decided 2026-10-16: (a), as the text has it. **54:15, *gor yagur*** — *If anyone stirs up strife, it is not from Me; whoever stirs up strife with you will fall because of you.*
-  - **(a) "stirs up strife"** (in the text now): *gur* as "attack" (Psalm 59:3).
-  - **(b) "lives as a guest"**: the fixed term for *gur*. The Greek reads it this way: *proselytes will come to you through Me*.
-  - Recommend **(a)**, because the line ends *will fall because of you*.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 47–50 — rendered 2026-10-12, 12:52 PM CDT
 
@@ -385,7 +349,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 1 | *betulat bat Bavel* | virgin daughter of Babylon (37:22; note) |
 | 1 | *rakkah va-anuggah* | tender and delicate |
 | 2 | *galli tsammatekh chespi shovel* "uncover your veil, strip off the train" | remove your veil; strip off your skirt |
-| 3 | *lo efga adam* "I will not meet a man" | I will spare no one (choice below) |
+| 3 | *lo efga adam* "I will not meet a man" | I will spare no one (decided; see `PASTE/decided/34-isaiah.md`) |
 | 4 | *go'alenu* | Our Redeemer |
 | 5 | *gevéret mamlakhot* | the mistress of kingdoms (note) |
 | 6 | *chillalti nachalati* | I profaned My inheritance |
@@ -396,7 +360,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 9 | *be-ro'v keshafayikh, be-otsmat chavarayikh* | in spite of your many sorceries and the great power of your spells |
 | 10 | *ein ro'ani* | No one sees me |
 | 10 | *hi shovevatekh* "it turned you back" | led you astray |
-| 11 | *lo tede'i shachrah* | which you will not know how to charm away (choice below) |
+| 11 | *lo tede'i shachrah* | which you will not know how to charm away (decided; see `PASTE/decided/34-isaiah.md`) |
 | 11 | *kapperah* | ward off (note) |
 | 11 | *sho'ah* | ruin (10:3; note) |
 | 12 | *ulai ta'arotsi* | perhaps you will strike terror |
@@ -425,7 +389,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 10 | *bechartikha* | I have chosen you (note) |
 | 11 | *ki eikh yechal* | for how should it be profaned? (no subject in the Hebrew; note) |
 | 13 | *tippechah* | spread out |
-| 14 | *YHWH ahevo ya'aseh cheftso… u-zero'o Kasdim* "the LORD loves him; he will do his purpose… and his arm Chaldeans" | The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans (choice below) |
+| 14 | *YHWH ahevo ya'aseh cheftso… u-zero'o Kasdim* "the LORD loves him; he will do his purpose… and his arm Chaldeans" | The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans (decided; see `PASTE/decided/34-isaiah.md`) |
 | 16 | *mi-et heyotah sham ani* "from the time of its being, there I" | from the time it came to be, I have been there |
 | 16 | *shelachani ve-rucho* | has sent me, and His Spirit (both readings kept; note) |
 | 17 | *melammedkha le-ho'il* "teaching you to profit" | who teaches you what is for your good |
@@ -461,7 +425,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 12 | *Sinim* | the land of Sinim (note) |
 | 15 | *ullah* | her nursing child |
 | 16 | *chaqqotikh* | I have engraved you |
-| 17 | *banayikh* | Your sons (choice below) |
+| 17 | *banayikh* | Your sons (decided; see `PASTE/decided/34-isaiah.md`) |
 | 17 | *mehar'sayikh* | those who tore you down |
 | 18 | *ke-kallah* "as the bride" | as a bride does |
 | 19 | *tetseri mi-yoshev* | you will be too narrow for those who live in you |
@@ -507,23 +471,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 49:24, *the captives of the righteous*: the Hebrew's word; the note gives the range.
 - 50:4, *to sustain*: the verb is found only here.
 
-**Choices for you:**
-- ✅ Decided 2026-10-14: (a), as the text has it. **47:3, *lo efga adam*** — *I will take vengeance, and I will spare no one.*
-  - **(a) "I will spare no one"** (in the text now): *paga* as meeting someone with mercy.
-  - **(b) "I will let no one plead"** (or *no one will intercede*): *paga* as in 53:12 and 59:16, where the same verb is to intercede.
-  - Recommend **(a)**. The line is God's sentence on Babylon, and both readings end in the same place; (a) is the plainer English of *I will not meet a man*.
-- ✅ Decided 2026-10-14: (a), as the text has it. **47:11, *lo tede'i shachrah*** — *But disaster will come on you, which you will not know how to charm away; calamity will fall on you, which you will not be able to ward off.*
-  - **(a) "which you will not know how to charm away"** (in the text now): the verb *shachar*, "seek," as of 26:9, *seeks You at dawn*; it matches *ward off* (*kapperah*) in the next line and the sorceries of v9.
-  - **(b) "whose dawning you will not know"** (or *where it comes from*): the noun *shachar*, "dawn."
-  - Recommend **(a)**, because of the parallel line and the sorceries.
-- ✅ Decided 2026-10-14: (a), as the text has it. **48:14, *ya'aseh cheftso… u-zero'o*** — *The LORD loves him; he will carry out His purpose on Babylon, and His arm will be against the Chaldeans.*
-  - **(a) "His purpose… His arm"** (in the text now): the LORD's purpose and arm, carried out by Cyrus. 44:28 has Cyrus *carry out all My purpose*, the same word *chefets*.
-  - **(b) "his purpose… his arm"**: Cyrus's own will and arm.
-  - The Hebrew says *his* both times and does not say whose. Recommend **(a)**, because of 44:28.
-- ✅ Decided 2026-10-14: (a), as the text has it. **49:17, *banayikh*** — *Your sons hurry back; those who tore you down and laid you waste go out from you.*
-  - **(a) "Your sons"** (in the text now): the Hebrew vowels; the sons come home in vv20–22.
-  - **(b) "Your builders"**: the same letters read *bonayikh*. This stands against *those who tore you down* in the same verse, and the Greek has *you will quickly be built*.
-  - Recommend **(a)**. The Hebrew vowels and the chapter's children (vv20–22, 25) agree, and the note gives (b).
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 43–46 — rendered 2026-10-12, 7:54 AM CDT
 
