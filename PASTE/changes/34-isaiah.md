@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 52:15, *yazzeh* (2026-10-16)
+
+**Request:** Andrew's ruling on the Isaiah 51–54 choices: (b) for 52:15, with other wordings still to be discussed. The options were (a) **sprinkle**, the Hebrew verb's sense everywhere else (Leviticus 4:6; 16:14), and (b) **startle**, following the Greek *so many nations will marvel at him*, which answers *appalled* in v14 and the kings' shut mouths.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 52:15 | so he will sprinkle many nations; | so he will startle many nations; |
+| Isaiah 52, note v15 | **"so he will sprinkle many nations"** — *yazzeh*, the verb of the priest who *sprinkles*… The Greek has *so many nations will marvel at him*… | **"so he will startle many nations"** — the reading of the Greek, *so many nations will marvel at him*… The Hebrew is *yazzeh*, everywhere else the verb of the priest who *sprinkles*…: *so he will sprinkle many nations*. |
+
 ## Spot-check fixes in Isaiah 31–34 (2026-10-12)
 
 **Request:** the spot check of 2026-10-11 (`PASTE/spot-checks/2026-10-11.md`) found these in Bible Main's cycle; Andrew (2026-10-12) asked that rule breaks be fixed by the sessions rather than brought to him. Each change matches the blind re-render and the Hebrew. The meaning choices (32:2, 33:17, 34:16) are in the Isaiah 31–34 entry of `PASTE/renders/34-isaiah.md`.

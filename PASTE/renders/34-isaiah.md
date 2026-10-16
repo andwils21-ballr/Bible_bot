@@ -95,7 +95,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 13 | *yarum ve-nissa ve-gavah* | he will rise high and be lifted up, and be very exalted (6:1; 33:10; note) |
 | 14 | *alekha… mar'ehu* "at you… his appearance" | at you… his appearance (the Hebrew changes person) |
 | 14 | *mishchat* | marred |
-| 15 | *yazzeh* | he will sprinkle (choice below) |
+| 15 | *yazzeh* "he will sprinkle" | he will startle (the Greek; decided 2026-10-16; note) |
 | 15 | *yiqpetsu… pihem* | will shut their mouths |
 
 ### Isaiah 53: He Carried Our Sicknesses
@@ -161,27 +161,27 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 54:12, *rubies… sparkling stones*: the gems are not known.
 
 **Choices for you:**
-- **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
+- ✅ Decided 2026-10-16: (b), **startle**; now in the text (`PASTE/changes/34-isaiah.md`). Other wordings to be discussed. **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
   - **(a) "sprinkle"** (in the text now): the priest's verb (Leviticus 4:6; 16:14).
   - **(b) "startle"** (or *many nations will marvel at him*): the Greek, which matches *appalled* in v14 and the kings' shut mouths.
   - Recommend **(a)**. It is what the Hebrew word means, and the note gives the Greek.
-- **53:2, *lefanav*** — *He grew up before Him like a young plant.*
+- ✅ Decided 2026-10-16: (a), as the text has it. **53:2, *lefanav*** — *He grew up before Him like a young plant.*
   - **(a) "before Him"** (in the text now): before the LORD, whose arm is named in v1.
   - **(b) "before him"** or *before us*: the observer, or an unnamed one. The Hebrew does not say.
   - Recommend **(a)**.
-- **53:8, *nega lamo*** — *who considered that he was cut off from the land of the living, stricken for the transgression of my people?*
+- ✅ Decided 2026-10-16: (a), as the text has it. **53:8, *nega lamo*** — *who considered that he was cut off from the land of the living, stricken for the transgression of my people?*
   - **(a) "stricken"** (in the text now): *lamo* as "to him," a poetic singular.
   - **(b) "the blow was theirs"**: *lamo* as its usual plural, "to them."
   - Recommend **(a)**. The whole chapter is about the one who was struck.
-- **53:10, *im tasim asham nafsho*** — *When his soul makes a guilt offering, he will see offspring.*
+- ✅ Decided 2026-10-16: (a), as the text has it. **53:10, *im tasim asham nafsho*** — *When his soul makes a guilt offering, he will see offspring.*
   - **(a) "When his soul makes a guilt offering"** (in the text now): *nafsho* as the subject.
   - **(b) "When you make his soul a guilt offering"**: *tasim* as "you," spoken to God or to the reader.
   - Recommend **(a)**. The servant is the one acting through vv10–12.
-- **53:11, *yir'eh*** — *Out of the anguish of his soul he will see and be satisfied.*
+- ✅ Decided 2026-10-16: (a), as the text has it. **53:11, *yir'eh*** — *Out of the anguish of his soul he will see and be satisfied.*
   - **(a) "he will see"** (in the text now): the Hebrew, with no object.
   - **(b) "he will see light"**: the Greek has *to show him light*.
   - Recommend **(a)**, with the Greek in the note.
-- **54:15, *gor yagur*** — *If anyone stirs up strife, it is not from Me; whoever stirs up strife with you will fall because of you.*
+- ✅ Decided 2026-10-16: (a), as the text has it. **54:15, *gor yagur*** — *If anyone stirs up strife, it is not from Me; whoever stirs up strife with you will fall because of you.*
   - **(a) "stirs up strife"** (in the text now): *gur* as "attack" (Psalm 59:3).
   - **(b) "lives as a guest"**: the fixed term for *gur*. The Greek reads it this way: *proselytes will come to you through Me*.
   - Recommend **(a)**, because the line ends *will fall because of you*.
