@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 11:4 and 11:33 (2026-10-16)
+
+**Request:** Andrew's rulings. 11:33: (b), *before it ran out*: *terem yikkaret*, "before it was cut off," as the verb is used of food and wine in Joel 1:5, 16, and as the Greek has it (*before it gave out*), in place of the traditional *before it was chewed*. 11:4: *rabble* singled out the non-Israelites too harshly, and *mixed crowd* sounded like everyone; Andrew asked for a word like *outsiders*.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 11:4 | The rabble among them felt a craving | The outsiders among them felt a craving |
+| Numbers 11:33 | The meat was still between their teeth, before it was chewed, when | The meat was still between their teeth, before it ran out, when |
+| Numbers 11, note v4 | **"the rabble"** — … Exodus 12:38 used a different phrase… | **"the outsiders"** — … the Greek uses one word for both, *epimiktos*, "the mixed"… |
+| Numbers 11, note vv18–23 | — | now **vv18–23, 33**, with *before it ran out*, Joel 1:5, 16, the Greek, and the traditional *before it was chewed* |
+
 ## Numbers 11, a note on the quail as judgment (2026-10-16)
 
 **Request:** Andrew asked whether God is merciful or angry in Numbers 11, and approved a note at vv18–20 saying the meat is a judgment given as a gift. To keep the chapter at ten notes, the v23 note is folded into the new one, and the v12 and v15 notes are joined. The v12 note's quotation of Isaiah 49:23 now matches that verse as rendered (logged 2026-10-12 in `NOTES_FOR_ANDREW.md`).
