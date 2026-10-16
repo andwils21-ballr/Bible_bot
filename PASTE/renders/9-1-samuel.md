@@ -179,7 +179,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **25:1, *Paran* or *Maon*.** The Hebrew has *David went down to the wilderness of Paran*, the wilderness where Israel camped after Sinai (Numbers 10:12). The Greek has *the wilderness of Maon*. The next verse opens *There was a man in Maon*, and David was last *in the wilderness of Maon* (23:24–25), so the story itself places him there. **Recommendation: Maon**, with the note keeping *Paran*. Today the text has *Paran*.
+- **25:1, *Paran* or *Maon***
+  - Now, 25:1: *Then David arose and went down to the wilderness of Paran.*
+  - Now, 25:2: *There was a man in Maon whose business was at Carmel.*
+  - (a) **Paran**, the Hebrew (now): the wilderness where Israel camped after Sinai (Numbers 10:12).
+  - (b) **Maon**, the Greek: the next verse is set in Maon, and David was last *in the wilderness of Maon* (23:24–25).
+  - Recommend (b), with the note keeping *Paran*.
 
 ## 1 Samuel 20–23 (loop, cycle 8, 9:18 AM Central, 2026-09-30)
 
@@ -556,8 +561,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above. In 13:5 *thirty thousand chariots* stands in the Hebrew and the Greek alike and is left as printed.
 
 **Choices for you:**
-- **12:11, *Bedan* or *Barak*.** The Hebrew names *Jerubbaal and Bedan and Jephthah and Samuel*. No deliverer called Bedan appears anywhere in Judges; the Greek has *Barak*, Deborah's partner against Sisera, whom v9 has just named. **Recommendation: Barak**, with the note keeping *Bedan*. Today the text has *Bedan*.
-- **12:15, *your fathers* or *your king*.** The Hebrew has *against you and against your fathers*; the Greek has *against you and against your king*, which matches v14 and v25 (*both you and your king*). **Recommendation: your king.** Today the text has *your fathers*.
+- **12:11, *Bedan* or *Barak***
+  - Now: *The LORD sent Jerubbaal and Bedan and Jephthah and Samuel, and delivered you*
+  - (a) **Bedan**, the Hebrew (now): no deliverer called Bedan appears anywhere in Judges.
+  - (b) **Barak**, the Greek: Deborah's partner against Sisera, whom v9 names.
+  - Recommend (b), with the note keeping *Bedan*.
+- **12:15, *your fathers* or *your king***
+  - Now, 12:15: *then the hand of the LORD will be against you, as it was against your fathers.*
+  - Now, 12:14: *both you and the king who reigns over you*; 12:25: *both you and your king shall be swept away.*
+  - (a) **your fathers**, the Hebrew (now).
+  - (b) **your king**, the Greek, which matches v14 and v25.
+  - Recommend (b).
 
 ## 1 Samuel 8–11 (loop, cycle 5, 8:45 AM Central, 2026-09-30)
 
@@ -653,7 +667,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
-**Choices for you:** none new. (*Gibbor chayil*, 9:1, follows the open choice in Ruth 2:1.)
+**Choices for you:** none new.
 
 ## 1 Samuel 4–7 (loop, cycle 4, 8:38 AM Central, 2026-09-30)
 
@@ -830,6 +844,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **1 Samuel 3:13, "bringing a curse on themselves" or "cursing God".** Now: *his sons were bringing a curse on themselves, and he did not restrain them.* The Greek: *his sons were speaking evil of God*. *Lahem* (themselves) and *Elohim* (God) differ by two letters. The context gives weight to the Greek: Eli's sons are condemned for contempt of the LORD's offering (2:17, 2:29), and Exodus 22:28 forbids cursing God; *cursing themselves* is an odd charge to bring against them. But the Hebrew reads, and it is not impossible. My recommendation: follow the Greek, with the Hebrew in the note. It is the same kind of call as Judges 1:18 and 10:12.
-- **"The LORD of hosts" as a fixed term.** *YHWH tseva'ot* appears here for the first time (1:3, 1:11) and will appear more than two hundred times in Samuel, Kings and the Prophets. Now: *the LORD of hosts*, the received English. The alternative is *the LORD of armies*, which is what *tseva'ot* means. My recommendation: keep *the LORD of hosts* and add it to the fixed-terms table; the note on 1:3 says what *hosts* means.
+- **3:13, "bringing a curse on themselves" or "cursing God"**
+  - Now: *because his sons were bringing a curse on themselves, and he did not restrain them.*
+  - (a) **on themselves**, the Hebrew *lahem* (now).
+  - (b) **speaking evil of God**, the Greek: *lahem* and *Elohim* differ by two letters. Eli's sons are condemned for contempt of the LORD's offering (2:17, 2:29), and Exodus 22:28 forbids cursing God; *cursing themselves* is an odd charge.
+  - Recommend (b), with the Hebrew in the note: the Hebrew reads and is not impossible, but the context backs the Greek.
+- ***YHWH tseva'ot*** (first at 1:3 and 1:11; more than two hundred times in Samuel, Kings and the Prophets)
+  - Now, 1:3: *to worship and to sacrifice to the LORD of hosts at Shiloh.*
+  - (a) **the LORD of hosts** (now), the received English, added to the fixed-terms table; the note on 1:3 says what *hosts* means.
+  - (b) **the LORD of armies**, what *tseva'ot* means.
+  - Recommend (a).
 

@@ -146,12 +146,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **19:12, *qol demamah daqqah*.** The text now reads: *After the fire, a sound of thin silence.* The three words: *qol*, **sound** or **voice**; *demamah*, **silence** or **stillness** (the calm after the storm in Psalm 107:29); *daqqah*, **thin**, **fine**, the word for fine dust (Isaiah 29:5). The options:
-  - *a sound of thin silence* (now in the text): word for word; strange in English, but so is the Hebrew.
-  - *a still small voice* (KJV and many since): the familiar line; *voice* makes it speech, which the Hebrew does not say until v13.
-  - *a gentle whisper* or *the sound of a low whisper*: reads easily, but *whisper* is not in the words.
-  - *the sound of a light breeze*: the Greek.
-  **Recommendation: keep *a sound of thin silence*.** It is what the words say, and v13 then brings the *voice* separately.
+- **19:12, *qol demamah daqqah***
+  - Now, 19:12: *After the fire, a sound of thin silence.*
+  - Now, 19:13: *A voice came to him and said, "What are you doing here, Elijah?"*
+  - The words: *qol*, **sound** or **voice**; *demamah*, **silence** or **stillness** (the calm after the storm, Psalm 107:29); *daqqah*, **thin**, **fine** (fine dust, Isaiah 29:5).
+  - (a) **a sound of thin silence** (now): word for word; strange in English, but so is the Hebrew.
+  - (b) **a still small voice** (KJV and many since): the familiar line; *voice* makes it speech, which the Hebrew does not say until v13.
+  - (c) **a gentle whisper** or **the sound of a low whisper**: reads easily, but *whisper* is not in the words.
+  - (d) **the sound of a light breeze**: the Greek.
+  - Recommend (a): it is what the words say, and v13 then brings the *voice* separately.
 
 ## 1 Kings 13–16 (loop, cycle 20, 1:59 PM Central, 2026-09-30)
 

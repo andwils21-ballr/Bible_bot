@@ -174,8 +174,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none this run.
 
-**Choice for you:**
-- **17:21**, *ki qara Yisra'el me-al beit David*, with no subject. (a) **For He tore Israel from the house of David**: the LORD as subject, as in Ahijah's sign, *I am about to tear the kingdom out of the hand of Solomon* (1 Kings 11:31). (b) **For Israel tore away from the house of David**: Israel as subject. The Hebrew allows both; the Greek is garbled here (*for Israel… from upon the house of David*). The text has (a), and the note gives (b). Recommend (a): the verse goes on with *they made Jeroboam king*, and in v20 and v23 the LORD is the one acting.
+**Choices for you:**
+- **17:21, *ki qara Yisra'el me-al beit David*** (no subject)
+  - Now: *For He tore Israel from the house of David, and they made Jeroboam son of Nebat king.*
+  - (a) **For He tore Israel** (now): the LORD as subject, as in Ahijah's sign, *I am about to tear the kingdom out of the hand of Solomon* (1 Kings 11:31).
+  - (b) **For Israel tore away from the house of David**: Israel as subject. The Hebrew allows both; the Greek is garbled here.
+  - Recommend (a): the verse goes on with *they made Jeroboam king*, and in v20 and v23 the LORD is the one acting. The note gives (b).
 
 ### 2 Kings 15: Azariah, Jotham and the Last Kings of Israel
 
@@ -275,8 +279,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew, by your witnesses rule:**
 - **14:26**, *the affliction of Israel was very bitter*. The Hebrew has *moreh*, which means **rebellious** (Deuteronomy 21:18) or **teacher**, and *very rebellious affliction* does not make sense; the Greek has *pikran*, **bitter**. Noted.
 
-**Choice for you:**
-- **12:4**, *kesef over ish*. (a) **the money of each man who passes the count**: the census half-shekel, from *everyone who passes over to those counted* (Exodus 30:13), which Chronicles calls *the tax of Moses* (2 Chronicles 24:6, 9). (b) **current money**: the silver in common use, as Abraham's silver was *over la-socher*, *current with the merchant* (Genesis 23:16). The text has (a), because Chronicles names the census tax in its account of this same repair. The note gives both. Recommend (a).
+**Choices for you:**
+- **12:4, *kesef over ish***
+  - Now: *the money of each man who passes the count*
+  - (a) **the money of each man who passes the count** (now): the census half-shekel, from *everyone who passes over to those counted* (Exodus 30:13), which Chronicles calls *the tax of Moses* (2 Chronicles 24:6, 9).
+  - (b) **current money**: silver in common use, as Abraham's silver was *current with the merchant* (Genesis 23:16).
+  - Recommend (a): Chronicles names the census tax in its account of this same repair. The note gives both.
 
 ### 2 Kings 11: Athaliah and the Crowning of Joash
 
@@ -548,7 +556,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **5:12, the river's name.** Your rule is to follow the read form (*qere*), and your names rule is to use the English name the reader already knows. Here they pull apart. The written text has *Avanah*, which gives the familiar English *Abana* (and the Greek *Abana*); the read form is *Amanah*, *Amana*. The text now reads: *Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel?* The other reading would be *Are not Amana and Pharpar…* **Recommendation: keep *Abana*.** It is the name English readers know, the written text and the Greek both have it, and the two forms mean the same river.
+- **5:12, the river's name**
+  - Now: *Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel?*
+  - The read-form rule and the names rule pull apart here.
+  - (a) **Abana** (now): the written form *Avanah*, the Greek *Abana*, and the name English readers know.
+  - (b) **Amana**, the read form *Amanah*.
+  - Recommend (a): the two forms mean the same river.
 
 ## 2 Kings 1–2 (loop, cycle 22, 2:11 PM Central, 2026-09-30)
 

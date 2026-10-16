@@ -177,9 +177,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **28:4, 8** "between the evenings": the fixed phrase of Exodus 12:6 and 29:41.
 - **30:14** "from day to day": the husband's silence runs past the day he heard.
 
-### Choices for you
-
-None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21); *elef*; Deuel or Reuel; the shekel wording; the optional Leviticus 23:11 note; and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+**Choices for you:** none new.
 
 **Logged in NOTES_FOR_ANDREW.md:** English 29:40 is Hebrew 30:1, and English 30:1–16 is Hebrew 30:2–17. Swete's Greek follows the Hebrew numbering here.
 
@@ -290,10 +288,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 - **26:4**: a sentence with no main verb in the Hebrew.
 - **26:59** "who was born to Levi": the Hebrew has no subject for "she bore".
 
-### Choices for you
-
-1. **Still open from yesterday: *mei niddah*,** "the water for impurity" (19:9, 13, 20, 21), or "the water of separation". I recommend "impurity".
-2. **Still open:** *elef* (26:51 now points to the note on 1:16), Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices (moshav, 19:26 Greek, tevel).
+**Choices for you:** none new.
 
 **Logged in NOTES_FOR_ANDREW.md:** English 26:1 is Hebrew 25:19 plus 26:1.
 
@@ -385,16 +380,15 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 - **22:32** "headlong": the word is rare and its meaning uncertain.
 - **22:41** "the edge of the people": Balak shows Balaam only part of the camp.
 
-### Choices for you
-
-1. **New: *mei niddah*, the water in Numbers 19.** *Niddah* is "monthly separation" in Leviticus 15 and "impurity" in Leviticus 20:21. Numbers 19 now says "the water for impurity" in every place:
-   - 19:9 "for the water for impurity"
-   - 19:13 "the water for impurity was not thrown on him"
-   - 19:20 "The water for impurity has not been thrown on him"
-   - 19:21 "The one who sprinkles the water for impurity… the one who touches the water for impurity"
-
-   The other option is "the water of separation", which matches Leviticus 15 but reads less plainly. My recommendation is to keep "impurity". The water removes the state; it doesn't cause a separation.
-2. **Still open:** *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the three Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
+**Choices for you:**
+- **19:9, 13, 20, 21, *mei niddah***
+  - Now, 19:9: *for the water for impurity*
+  - Now, 19:13: *the water for impurity was not thrown on him*
+  - Now, 19:20: *The water for impurity has not been thrown on him*
+  - Now, 19:21: *The one who sprinkles the water for impurity… the one who touches the water for impurity*
+  - (a) **the water for impurity** (now): *niddah* as in Leviticus 20:21; the water removes the state.
+  - (b) **the water of separation**: *niddah* as the *monthly separation* of Leviticus 15; it matches Leviticus 15 but reads less plainly.
+  - Recommend (a): the water does not cause a separation.
 
 ## Numbers 15–18 (routine fired 1:01 PM Central, 2026-09-25)
 
@@ -473,9 +467,7 @@ None new. Still open: *mei niddah* ("the water for impurity", 19:9, 13, 20, 21);
 - **16:1** "took men": the Hebrew never says what Korah took; *men* is the usual fill, and the note gives the Greek *spoke*.
 - **16:28** "not from my own heart": the heart is where the Hebrew decides and plans, and *my own mind* would lose the idiom without making it clearer.
 
-### Choices for you
-
-None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording (18:16 now reads "by the shekel of the sanctuary"), the optional Leviticus 23:11 note, and the three open Leviticus choices in `PASTE/changes/3-leviticus.md` (moshav, 19:26 Greek, tevel).
+**Choices for you:** none new.
 
 **Logged in NOTES_FOR_ANDREW.md:** the Hebrew numbers Numbers 16:36–50 as 17:1–15, and Numbers 17 as 17:16–28. Swete's Greek follows the English here.
 
@@ -563,9 +555,7 @@ None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording (18:16 
 - **13:33** "the sons of Anak are from the Nephilim": kept as an aside. The Greek doesn't have it.
 - **14:9** "they are bread for us": the picture answers the scouts' "a land that devours."
 
-### Choices for you
-
-None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording, the optional Leviticus 23:11 note, and the four Leviticus choices in `PASTE/changes/3-leviticus.md`.
+**Choices for you:** none new.
 
 **Logged in NOTES_FOR_ANDREW.md:** Swete's Greek of Numbers 13 is one verse ahead of the Hebrew.
 
@@ -586,11 +576,11 @@ None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording, the op
 | 11 | "one chief to the day, one chief to the day" | one chief each day |
 | 13 etc. | *qe'arah / mizraq / kaf* | dish / basin / pan (as Exodus 25:29, 27:3) |
 | 13 etc. | "its weight a hundred and thirty" | weighing a hundred and thirty shekels ("shekels" supplied, as v85 shows) |
-| 13, 19, 25… | *sheqel ha-qodesh* | the shekel of the sanctuary (see Choices) |
+| 13, 19, 25… | *sheqel ha-qodesh* | the shekel of the sanctuary (see the choice in `PASTE/renders/3-leviticus.md`) |
 | 16 / 17 | *se'ir izzim* / *attudim* | male goat / he-goats (two words kept apart, as Genesis 31:10) |
 | 12–83 | the same six verses for each chief | ***KEPT AS IS*** written out in full twelve times, identical each time |
 | 24, 30… | "on the third day, chief of the sons of Zebulun" (no verb) | On the third day it was the chief of the sons of Zebulun |
-| 42, 47 | *De'uel* | ***KEPT AS IS*** Deuel (the Hebrew here; see Choices) |
+| 42, 47 | *De'uel* | ***KEPT AS IS*** Deuel (the Hebrew here; see the choice in the Numbers 1–2 report) |
 
 ### Numbers 8: The Lamps and the Levites
 
@@ -633,7 +623,7 @@ None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording, the op
 | 9 | *ha-tsar ha-tsorer etkhem*, "the oppressor oppressing you" | the enemy who oppresses you |
 | 14 etc. | *al tseva'o*, "over his army" | over its army |
 | 21 | *nos'ei ha-miqdash*, "carrying the sanctuary" | carrying the holy things (literal form in the note) |
-| 20 | *De'uel* | ***KEPT AS IS*** Deuel (see Choices) |
+| 20 | *De'uel* | ***KEPT AS IS*** Deuel (see the choice in the Numbers 1–2 report) |
 | 30 | "to my land and to my kindred I will go" | I will go back to my own land and my own kindred |
 | 33 | "a three days' journey… a three days' journey" | a three days' journey… those three days |
 | 36 | *rivevot alfei Yisrael*, "the ten thousands of the thousands of Israel" | the countless thousands of Israel |
@@ -641,21 +631,11 @@ None new. Still open: *qeri*, *elef*, Deuel or Reuel, the shekel wording, the op
 ### Left standing on purpose
 
 - **7:12–83:** the twelve identical gifts, written out in full. That is how the Hebrew records them, and the note says why it matters.
-- **7:42, 47; 10:20 "Deuel":** as the Hebrew has it in these verses (see Choices).
+- **7:42, 47; 10:20 "Deuel":** as the Hebrew has it in these verses (see the choice in the Numbers 1–2 report).
 - **8:19:** "the sons of Israel" five times in one verse.
 - **9:3, 5, 11 "between the evenings":** the Passover phrase, kept as in Exodus 12:6.
 
-### Choices for you
-
-1. **Deuel or Reuel (still open).** This cycle adds the rest of the verses:
-   - **Numbers 1:14, 7:42, 7:47 and 10:20** read *Eliasaph son of **Deuel***.
-   - **Numbers 2:14** reads ***Reuel***.
-   - The Greek has *Reuel* in all five.
-
-   **Recommendation:** use one name everywhere. That would be *Deuel*, since four of the five Hebrew verses have it, with the note giving *Reuel*.
-2. **The shekel wording (still open).** Numbers 7 adds fourteen more verses reading *the shekel of the sanctuary*: 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85 and 86. The recommendation stands: *of the holy place* throughout.
-
-Still open from earlier: *qeri*, *elef*, the optional Leviticus 23:11 note, and the four Leviticus choices in `PASTE/changes/3-leviticus.md`.
+**Choices for you:** none new. (Deuel or Reuel and the shekel wording are raised in the Numbers 1–2 and Leviticus 26–27 reports, with every verse.)
 
 ## Numbers 3–6 (routine fired 6:01 PM Central, 2026-09-24)
 
@@ -678,7 +658,7 @@ Still open from earlier: *qeri*, *elef*, the optional Leviticus 23:11 note, and 
 | 38 | *miqdash* | the sanctuary |
 | 39 | 22,000 (the clans add up to 22,300) | ***KEPT AS IS*** twenty-two thousand (note gives the sum, the Greek's 22,150, and the one-letter possibility) |
 | 47 | *la-gulgolet*, "by the skull" | head by head |
-| 47, 50 | *sheqel ha-qodesh* | the shekel of the sanctuary (see Choices) |
+| 47, 50 | *sheqel ha-qodesh* | the shekel of the sanctuary (see the choice in `PASTE/renders/3-leviticus.md`) |
 
 ### Numbers 4: Carrying the Holy Things
 
@@ -735,21 +715,17 @@ Still open from earlier: *qeri*, *elef*, the optional Leviticus 23:11 note, and 
 | 21 | *asher tassig yado*, "what his hand can reach" | whatever else he can afford |
 | 26 | *ve-yasem lekha shalom*, "and set peace for you" | and give you peace |
 
-### Choices for you
-
-1. **The shekel wording.** New in this cycle: 3:47 and 3:50 read *the shekel of the sanctuary*, as Leviticus 27 does. This chapter has both Hebrew words side by side, so it helps decide the open question:
-   - *qodesh* (the shekel's word, and *the charge of the holy place*, 3:28, 32)
-   - *miqdash* (*the charge of the sanctuary*, 3:38)
-
-   One Hebrew word, one English word would make the shekel **of the holy place**. Every verse involved:
-   - *of the sanctuary* now: Exodus 30:13, 24; Leviticus 27:3, 25; Numbers 3:47, 50
-   - *of the holy place* now: Exodus 38:24–26; Leviticus 5:15
-
-   **Recommendation: "of the holy place" everywhere**, which keeps *sanctuary* for *miqdash*.
-2. **4:14, the Greek's extra sentence about the basin.** The Greek adds: *and they shall take a purple cloth and cover the basin and its stand, and put them into a blue leather covering, and put them on a carrying frame.* The Hebrew never says who carries the basin. **Recommendation: leave it out of the text** and keep it in the note. Nothing else in the Bible confirms the sentence, and it may be a scribe's filling of a gap.
-3. **4:3 and six more verses: thirty years old or twenty-five.** The Hebrew says thirty in all seven verses (4:3, 23, 30, 35, 39, 43, 47), and the Greek says twenty-five in all seven. The Hebrew of 8:24 itself says twenty-five. **Recommendation: keep thirty.** The Hebrew is consistent within this chapter, and the note shows the difference.
-
-Still open from earlier reports: *qeri* (Leviticus 26), *elef*, Deuel or Reuel, and the optional 23:11 note.
+**Choices for you:** (the shekel wording is raised in the Leviticus 26–27 report, with these verses)
+- **4:14, the Greek's extra sentence about the basin**
+  - Now: *They shall spread over it a covering of fine leather, and put in its poles.* (the verse ends there)
+  - (a) **Leave it out of the text** (now), with the Greek in the note.
+  - (b) **Add it**: *and they shall take a purple cloth and cover the basin and its stand, and put them into a blue leather covering, and put them on a carrying frame.*
+  - Recommend (a): the Hebrew never says who carries the basin, nothing else in the Bible confirms the sentence, and it may be a scribe's filling of a gap.
+- **4:3, 23, 30, 35, 39, 43, 47, the age of service**
+  - Now, all seven: *from thirty years old and upward to fifty years old*
+  - (a) **thirty**, the Hebrew in all seven (now), with the note.
+  - (b) **twenty-five**, the Greek in all seven; the Hebrew of 8:24 itself says twenty-five.
+  - Recommend (a): the Hebrew is consistent within this chapter, and the note shows the difference.
 
 ## Numbers 1–2 (routine fired 1:01 PM Central, 2026-09-24; reported with Leviticus 26–27)
 
@@ -796,16 +772,19 @@ Still open from earlier reports: *qeri* (Leviticus 26), *elef*, Deuel or Reuel, 
 
 - **Numbers 1:16 and the census:** *elef* read as "thousand"; see Choices.
 - **Numbers 2:14:** "Reuel" where the other four mentions say "Deuel"; see Choices.
-### Choices for you (every verse listed)
-
-**1. *elef* (the census): "thousand" or "clan"?** Numbers 1:16 ("the heads of the thousands of Israel") and every total in 1:21–46 and 2:4–32. Judges 6:15 uses *elef* for Gideon's clan. The text's own sums (1:46, 2:32) and Exodus 38:26 add up on the *thousand* reading. My recommendation: keep "thousand"; the note on 1:16 gives both.
-
-**2. Gad's chief's father: Deuel or Reuel?**
-
-| Verse | Hebrew | Reads now |
-|---|---|---|
-| Numbers 1:14 | *De'uel* | Eliasaph son of **Deuel** |
-| Numbers 2:14 | *Re'uel* | Eliasaph son of **Reuel** |
-| Numbers 7:42, 7:47, 10:20 | *De'uel* | (not rendered yet) |
-
-The Greek has *Reuel* all five times. Options: keep each verse as the Hebrew has it (now), or use one name everywhere: Deuel (the Hebrew majority) or Reuel (the Greek).
+**Choices for you:**
+- **1:16 and the census totals, *elef***
+  - Now, 1:16: *They were the heads of the thousands of Israel.*
+  - Now, 1:21–46 and 2:4–32: every total in thousands (1:46 and 2:32, *six hundred and three thousand five hundred and fifty*)
+  - (a) **thousand** (now): the text's own sums (1:46, 2:32) and Exodus 38:26 add up on this reading.
+  - (b) **clan**: Judges 6:15 uses *elef* for Gideon's clan.
+  - Recommend (a); the note on 1:16 gives both.
+- **Gad's chief's father: Deuel or Reuel**
+  - Now, 1:14: *Eliasaph son of Deuel* (Hebrew *De'uel*)
+  - Now, 2:14: *Eliasaph son of Reuel* (Hebrew *Re'uel*)
+  - Now, 7:42, 7:47, 10:20: *Eliasaph son of Deuel* (Hebrew *De'uel*)
+  - The Greek has *Reuel* all five times.
+  - (a) Each verse as the Hebrew has it (now).
+  - (b) **Deuel** everywhere, the Hebrew majority, with the note giving *Reuel*.
+  - (c) **Reuel** everywhere, the Greek.
+  - Recommend (b) (Numbers 7–10 report).

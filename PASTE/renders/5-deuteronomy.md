@@ -41,7 +41,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 33:3, kept close to the difficult Hebrew.
 
-**Choices for you:** none new. The 32:8 / 32:43 question from run 13 is still open.
+**Choices for you:** none new.
 
 ## Deuteronomy 32 (OT loop, run 13, 7:08 PM Central, 2026-09-28)
 
@@ -76,7 +76,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** v5 kept close to the broken Hebrew; the note says so.
 
 **Choices for you:**
-- **32:8 and 32:43, Hebrew or Greek?** The Ethiopian Old Testament stands in the Greek tradition, and here the Greek differs in substance. At v8 the Hebrew has the nations' borders set *according to the number of the sons of Israel*; the Greek has *the angels of God*. At v43 the Greek adds *Rejoice, heavens, with Him, and let all the sons of God worship Him*, the line Hebrews 1:6 quotes. The text follows the Hebrew, as the project's Hebrew-source books do, and both Greek readings are given in the notes. If you would rather the Greek stand in the text at either verse, say so.
+- **32:8 and 32:43, Hebrew or Greek** (the Ethiopian Old Testament stands in the Greek tradition, and here the Greek differs in substance)
+  - Now, 32:8: *He set the boundaries of the peoples / according to the number of the sons of Israel.*
+  - Now, 32:43: *Rejoice, nations, with His people, / for He avenges the blood of His servants.*
+  - (a) **The Hebrew** in both (now), with both Greek readings in the notes, as the project's Hebrew-source books do.
+  - (b) **The Greek** at either verse: v8 *according to the number of the angels of God*; v43 adds *Rejoice, heavens, with Him, and let all the sons of God worship Him*, the line Hebrews 1:6 quotes.
+  - Recommend (a).
 
 ## Deuteronomy 30–31 (OT loop, run 12, 7:03 PM Central, 2026-09-28)
 
@@ -372,7 +377,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** nothing new.
 
-**Choices for you:** none new. One consistency item logged in `NOTES_FOR_ANDREW.md`: *Abib* (Exodus 23, 34, and now Deuteronomy 16) against *Aviv* (Exodus 13:4 and two notes).
+**Choices for you:** none new.
 
 ## Deuteronomy 13–15 (OT loop, run 6, 6:30 PM Central, 2026-09-28)
 

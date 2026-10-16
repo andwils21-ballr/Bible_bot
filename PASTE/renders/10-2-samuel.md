@@ -97,7 +97,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **21:19, who killed Goliath.** The Hebrew and the Greek both read: *Elhanan son of Jaare-oregim, the Bethlehemite, struck down Goliath the Gittite, the shaft of whose spear was like a weaver's beam.* 1 Samuel 17 has David kill the Philistine of Gath, *the shaft of his spear was like a weaver's beam* (17:7). Chronicles reads *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite* (1 Chronicles 20:5); *beit ha-Lachmi et* (*the Bethlehemite*) and *et Lachmi* (*Lahmi*) are close in their letters, and *oregim* (*weavers*) also ends the verse. The verse reads now as the Hebrew, with a note. The other reading would be *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*. **Recommendation: keep the Hebrew with the note.** Only Chronicles has the other reading, and it is the reading that removes the difficulty, which your rule does not count as support.
+- **21:19, who killed Goliath**
+  - Now: *Elhanan son of Jaare-oregim, the Bethlehemite, struck down Goliath the Gittite, the shaft of whose spear was like a weaver's beam.* (the Hebrew and the Greek both read so)
+  - 1 Samuel 17 has David kill the Philistine of Gath (*the shaft of his spear was like a weaver's beam*, 17:7); 1 Chronicles 20:5 reads *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*. *beit ha-Lachmi et* (*the Bethlehemite*) and *et Lachmi* (*Lahmi*) are close in their letters, and *oregim* (*weavers*) also ends the verse.
+  - (a) **The Hebrew** (now), with the note.
+  - (b) **Chronicles' reading**: *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*.
+  - Recommend (a): only Chronicles has the other reading, and it is the reading that removes the difficulty, which the witnesses rule does not count as support.
 
 ## 2 Samuel 17–20 (loop, cycle 15, 1:23 PM Central, 2026-09-30)
 
@@ -313,7 +318,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **16:12, the Greek over the read form.** Your rule is to follow the read form (*qere*). Here the read form is *be-eini*, *on my eye*, and the written form is *be-avoni*, *on my guilt*. The Greek reads the same written letters as *be-onyi*, *on my affliction*, and *ra'ah be-oni* is a fixed phrase: *the LORD has seen my affliction* (Genesis 29:32), *if You will indeed look on the affliction of Your servant* (1 Samuel 1:11). The verse now reads: *Perhaps the LORD will look on my affliction, and the LORD will repay me with good for his cursing today.* The read form would give *Perhaps the LORD will look on my eye*, usually taken as *my tears*. **Recommendation: keep *affliction*.**
+- **16:12, *be-avoni*: the Greek over the read form**
+  - Now: *Perhaps the LORD will look on my affliction, and the LORD will repay me with good for his cursing today.*
+  - (a) **my affliction** (now): the Greek reads the written letters (*be-avoni*, *on my guilt*) as *be-onyi*, and *ra'ah be-oni* is a fixed phrase (*the LORD has seen my affliction*, Genesis 29:32; 1 Samuel 1:11). This departs from the read-form rule.
+  - (b) **my eye**, the read form *be-eini*, usually taken as *my tears*: *Perhaps the LORD will look on my eye*.
+  - Recommend (a).
 
 ## 2 Samuel 9–12 (loop, cycle 13, 1:08 PM Central, 2026-09-30)
 

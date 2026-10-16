@@ -135,7 +135,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **Judges 19:2, "whored against him" or "went away from him".** Now: *His concubine whored against him, and she left him and went to her father's house.* The Greek: *his concubine went away from him*, with no word of unfaithfulness. The context gives some weight to the Greek: an unfaithful concubine going home to her father is odd, and her husband goes after her *to speak to her heart* (v3), not to accuse her. But the context does not prove it, since the Hebrew reads plainly. My recommendation: keep the Hebrew, with the Greek in the note, as it is now.
+- **19:2, "whored against him" or "went away from him"**
+  - Now, 19:2: *His secondary wife whored against him, and she left him and went to her father's house at Bethlehem in Judah.*
+  - Now, 19:3: *Her husband rose and went after her, to speak to her heart and bring her back.*
+  - (a) **whored against him**, the Hebrew (now), with the Greek in the note.
+  - (b) **went away from him**, the Greek, with no word of unfaithfulness: an unfaithful wife going home to her father is odd, and her husband goes after her *to speak to her heart* (v3), not to accuse her.
+  - Recommend (a): the context gives some weight to the Greek but does not prove it, and the Hebrew reads plainly.
 
 ## Judges 13–16 (routine ping, 7:52 AM Central, 2026-09-30)
 
@@ -247,7 +252,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above. The Nazirite question of 14:8–10 (the carcass, the feast) is left as the text has it, with no verdict.
 
 **Choices for you:**
-- **Judges 14:15, "seventh day" or "fourth day".** Now: *On the seventh day they said to Samson's wife…* The Greek: *on the fourth day*. The context backs the Greek: v14 says they failed *for three days*, and v17 says she wept *the seven days that the feast lasted*, which cannot follow a threat made on the seventh. My recommendation: follow the Greek. Verses involved: 14:12 (*seven days of the feast*), 14:14 (*for three days*), 14:15 (*on the seventh day*), 14:17 (*the seven days*; *on the seventh day he told her*), 14:18 (*on the seventh day, before the sun went down*).
+- **14:15, "seventh day" or "fourth day"**
+  - Now, 14:12: *within the seven days of the feast*
+  - Now, 14:14: *For three days they could not explain the riddle.*
+  - Now, 14:15: *And it came to pass on the seventh day that they said to Samson's wife…*
+  - Now, 14:17: *She wept over him the seven days that the feast lasted. And it came to pass on the seventh day that he told her*
+  - Now, 14:18: *on the seventh day, before the sun went down*
+  - (a) **the seventh day**, the Hebrew (now).
+  - (b) **the fourth day**, the Greek: v14 says they failed *for three days*, and she wept *the seven days that the feast lasted* (v17), which cannot follow a threat made on the seventh.
+  - Recommend (b).
 
 ## Judges 9–12 (routine ping, 10:51 PM Central, 2026-09-29)
 
@@ -333,7 +346,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **Judges 10:12, "Maon" or "Midian".** Now: *When the Sidonians, Amalek and Maon oppressed you, and you cried out to Me, I saved you from their hand.* The Greek has *Midian*. The context backs the Greek: Midian is the great oppressor of chapters 6–8 (6:1, *the LORD gave them into the hand of Midian*), and Maon is never named as an oppressor anywhere in the book. My recommendation: follow the Greek. It is a list of oppressors the LORD saved them from, and Midian is the one the book has just spent three chapters on.
+- **10:12, "Maon" or "Midian"**
+  - Now: *When the Sidonians, Amalek and Maon oppressed you, and you cried out to Me, I saved you from their hand.*
+  - (a) **Maon**, the Hebrew (now).
+  - (b) **Midian**, the Greek: Midian is the great oppressor of chapters 6–8 (6:1, *the LORD gave them into the hand of Midian*), and Maon is never named as an oppressor anywhere in the book.
+  - Recommend (b): it is a list of oppressors the LORD saved them from, and the book has just spent three chapters on Midian.
 
 ## Judges 5–8 (routine ping, 5:52 PM Central, 2026-09-29)
 
@@ -446,8 +463,18 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above. The Song of Deborah (chapter 5) has more of them than any chapter so far. It is among the oldest Hebrew poems, and several of its words are found nowhere else.
 
 **Choices for you:**
-- **Judges 5:5, "flowed down" or "quaked".** Now: *The mountains flowed down before the LORD, / the One of Sinai*. The Hebrew *nazelu* is **flowed** (as the *flowing waters* of Exodus 15:8). The Greek has *were shaken*, which reads the same letters as *nazollu*, **quaked**, as in Isaiah 64:1 (Hebrew 63:19). The context backs the Greek: v4 has *the earth shook*. My recommendation: keep *flowed down*. The Hebrew makes sense as it stands (rain pouring off the mountains in v4 flows on in v5), and the Greek goes in the note, where it already is.
-- **Judges 8:16, "taught" or "threshed".** Now: *with them he taught the men of Succoth a lesson*. The Hebrew *va-yoda* is **he made them know**. The Greek has *he threshed*, which is *va-yadosh*, one letter different, and is exactly what Gideon promised in v7 (*I will thresh your flesh*). My recommendation: follow the Greek. The promise in v7 is the checkable context your witnesses rule asks for.
+- **5:5, "flowed down" or "quaked"**
+  - Now, 5:4: *the earth shook, the heavens poured, / the clouds poured down water.*
+  - Now, 5:5: *The mountains flowed down before the LORD, / the One of Sinai*
+  - (a) **flowed down**, the Hebrew *nazelu* (now), as the *flowing waters* of Exodus 15:8: the rain of v4 flows on in v5.
+  - (b) **quaked**, the Greek *were shaken*, reading the same letters as *nazollu*, as in Isaiah 64:1; v4 has *the earth shook*.
+  - Recommend (a); the Greek is in the note.
+- **8:16, "taught" or "threshed"**
+  - Now, 8:7: *I will thresh your flesh with the thorns of the wilderness and with briers.*
+  - Now, 8:16: *with them he taught the men of Succoth a lesson.*
+  - (a) **taught**, the Hebrew *va-yoda*, *he made them know* (now).
+  - (b) **threshed**, the Greek, which is *va-yadosh*, one letter different, and exactly what Gideon promised in v7.
+  - Recommend (b): the promise in v7 is the checkable context the witnesses rule asks for.
 
 ## Judges 1–4 (routine ping, 12:51 PM Central, 2026-09-29)
 
@@ -540,5 +567,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 4:4 *the wife of Lappidoth*: the usual reading is kept; *a woman of torches* is in the note.
 
 **Choices for you:**
-- **Judges 1:18, Hebrew or Greek.** Now: *Judah took Gaza with its territory, Ashkelon with its territory and Ekron with its territory.* The Greek: *Judah did not inherit Gaza or its territory, or Ashkelon or its territory, or Ekron or its territory, or Ashdod or its surrounding land.* The context backs the Greek: 1:19 (*he could not drive out the inhabitants of the valley*), 3:3 (*the five lords of the Philistines* among the nations left), 16:1 (Gaza is Philistine), and Joshua 13:3 (the five Philistine cities are land still to be taken). By your witnesses rule (2 and 4), the Greek qualifies. My recommendation: follow the Greek in the text and put the Hebrew in the note. It is the same kind of call as Deuteronomy 32:8 and 32:43, which are still open.
+- **1:18, Hebrew or Greek**
+  - Now, 1:18: *Judah took Gaza with its territory, Ashkelon with its territory and Ekron with its territory.*
+  - Now, 1:19: *but he could not drive out the inhabitants of the valley, because they had chariots of iron.*
+  - (a) **took**, the Hebrew (now).
+  - (b) **did not inherit**, the Greek: *Judah did not inherit Gaza or its territory, or Ashkelon or its territory, or Ekron or its territory, or Ashdod or its surrounding land.* The context backs it: 1:19, 3:3 (*the five lords of the Philistines* among the nations left), 16:1 (Gaza is Philistine), and Joshua 13:3.
+  - Recommend (b), with the Hebrew in the note (witnesses rule 2 and 4).
 

@@ -119,5 +119,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
 **Choices for you:**
-- **Ruth 2:1, "a man of worth" or "a mighty man of valor".** *Gibbor chayil* is *mighty man of valor* in Joshua 1:14, 6:2, 10:7 and Judges 6:12, 11:1, all soldiers. Of Boaz it means a man of standing and means, and in 3:11 he calls Ruth *eshet chayil*, which cannot be *a woman of valor* in the same sense. Now: Ruth 2:1 *a man of worth*, 3:11 *a woman of worth*. My recommendation: keep it this way, so the two words pair as the Hebrew pairs them, and add *gibbor chayil* to the fixed-terms table as *mighty man of valor* in war and *man of worth* elsewhere, if you agree.
+- **2:1 and 3:11, *gibbor chayil* and *eshet chayil***
+  - Now, 2:1: *Naomi had a relative of her husband's, a man of worth, of the clan of Elimelech*
+  - Now, 3:11: *all the people at the gate of my town know that you are a woman of worth.*
+  - (a) **a man of worth** (now), pairing with *a woman of worth* as the Hebrew pairs them: of Boaz it means standing and means, and *eshet chayil* cannot be *a woman of valor* in the soldier's sense.
+  - (b) **a mighty man of valor**, as in Joshua 1:14, 6:2, 10:7 and Judges 6:12, 11:1, all soldiers.
+  - Recommend (a), and add *gibbor chayil* to the fixed-terms table: *mighty man of valor* in war, *man of worth* elsewhere.
 
