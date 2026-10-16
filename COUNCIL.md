@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 41 (Genesis 1–40 done 2026-10-11 12:34 AM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 45 (Genesis 1–44 done 2026-10-16 6:10 AM; Genesis 29–50 per item 37)
 - Bible 3: Leviticus 5 (Genesis 1–28, Exodus 1–40 and Leviticus 1–4 done 2026-10-16 6:06 AM; item 37 split agreed)
 
 ## Open
@@ -130,6 +130,45 @@ entry.
 - **vv3, 5, 16 note**: *it is in 1 Samuel, of Saul and David, eleven times over.* 1 Samuel has `משיח` twelve times (2:10, 2:35, 12:3, 12:5, 16:6, 24:7 twice, 24:11, 26:9, 26:11, 26:16, 26:23 in the Hebrew numbering), the first two before Saul is named. Proposed: *it is in 1 Samuel, twelve times, of the king.*
 - **v2 notes**: *Numbers 15:30 will call that acting* with a high hand*;* the book reads 15:30 *acts in open defiance* (`ביד רמה`). Proposed: *acting in open defiance (literally* with a high hand*)*. And *sins… sin offering —* chata *and* chatat*, the same word*: the first is the verb, the second the noun. Proposed: *the same root*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 76. Genesis 41 notes: a heading, "identical", "has just executed", 22:17 quoted
+*Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
+
+- **v1 note** is headed *"at the end of two years of days"*; v1 reads *at the end of two full years*. Proposed: head it with the verse's words.
+- **v8 note**: *ve-ein poter otam… the identical complaint the two prisoners made in 40:8.* 40:8 is `ופתר אין אתו`, 41:8 `ואין פותר אותם`; the identical words come at 41:15 (`ופתר אין אתו`). Proposed: *the complaint the two prisoners made in 40:8, and in v15 Pharaoh makes it in their very words.*
+- **v9 note**: *a king who has just executed a man over bread.* The baker was hanged two full years before (40:22, 41:1). Proposed: *in front of the king who had the baker hanged.*
+- **v49 note** quotes *your seed like the sand of the sea which cannot be counted* as the phrase *God used… in 22:17*. 22:17 reads *as the sand that is on the lip of the sea*; *too many to be counted* is Jacob's quotation in 32:12 (`אשר לא יספר`). Proposed: *the image of the promise to Abraham,* as the sand that is on the lip of the sea *(22:17), which Jacob quoted back in 32:12 as* like the sand of the sea — too many to be counted.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 77. Genesis 42 notes: "eight times", a heading with *lest*, "fourth chapter running", who says *kenim*, "twenty years", *melits*, "goes out of the room", Sheol "only twice"
+*Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
+
+- **vv1, 2 note**: *the chapter uses it eight times.* The root `שבר` comes ten times (noun in vv1, 2, 19, 26; verb in vv2, 3, 5, 6, 7, 10). Proposed: *ten times, noun and verb*.
+- **vv4, 38 note** is headed *"lest harm befall him"* (a banned word); the verses read *Harm might come to him* and *If harm befalls him*. Proposed: head it with the verses' words.
+- **vv7, 8 note**: *the fourth chapter running to turn on this root: 37:32, 38:25.* Chapters 39–41 do not have `נכר`. Proposed: *the third scene to turn on this root*.
+- **vv11–34 note**: *They say it about themselves five times… and Joseph feeds it back to them twice.* The brothers say it at vv11, 31; Joseph at vv19, 33, 34. Proposed: *five times in the chapter, twice in their mouths and three times in Joseph's.* Same note and the v21 note: *twenty years*. Joseph was 17 (37:2), 30 at 41:46, then seven years of plenty and two of famine (45:6): twenty-two, as the 44:34 note says. Proposed: *twenty-two years*.
+- **v23 note**: *ha-melits… appears in only one other place in the Hebrew Bible.* It is also at Isaiah 43:27, Job 33:23 and 2 Chronicles 32:31 (envoys). Proposed: *a word used only a few times in the Hebrew Bible, for a go-between*.
+- **v24 note**: *and he goes out of the room to do it.* v24 is *he turned away from them* (`ויסב מעליהם`); leaving the room is 43:30. Proposed: *and he turns away from them to do it.*
+- **v38 note**: *The two are the only times Sheol appears in Genesis.* It is at 37:35, 42:38, 44:29, 44:31, all of Jacob going down over Rachel's sons. Proposed: *Sheol comes four times in Genesis (37:35, here, 44:29, 44:31), every time of Jacob going down to it over Rachel's sons.*
+
+### 78. Genesis 43 notes: v26 has no *face*, *if* or *as*, a heading, *shalom* "four times", 39:6 quoted
+*Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
+
+- **vv3, 5 note**: *they bow before his face (v26).* v26 is `וישתחוו לו ארצה`, no *panim*. Proposed: *they sit before him (v33)*, `לפניו`.
+- **v14 note** is headed *"as I have been bereaved, I am bereaved"* and says *He is not saying if I lose him I lose him*, but the verse reads *if I am bereaved, I am bereaved*: the note argues against the text. Proposed: head it with the verse's words and replace that sentence with *Ka'asher is* as *or* when*, so the words can also be heard as a man already robbed, agreeing to be robbed again.* The choice between *if* and *as* is a meaning, so it also goes on the closed-book list.
+- **v16 note** is headed *"slaughter a slaughter"*; v16 reads *slaughter an animal*. Proposed: head it with the verse's words.
+- **vv27–28 note**: *shalom, four times in two verses.* `לשלום`, `השלום` (v27), `שלום` (v28): three, as the note itself lists. Proposed: *three times*.
+- **v32 note**: *Potiphar left Joseph everything except the bread he ate*, and *the sentence that makes 39:6 literal*. 39:6 reads *he knew nothing of what was with him except the bread he ate*, and the 39:6 note leaves its meaning open. Proposed: *It may also explain 39:6, where Potiphar* knew nothing of what was with him except the bread he ate.
+
+### 79. Genesis 44 notes: a heading, *ganav* "six times", 40:15 quoted, *tsadaq*, *yeled* and *ben*, "four" of Leah's sons, *lest*
+*Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
+
+- **vv5, 15 note** is headed *"he certainly divines by it"*; the verses read *he reads the omens with* and *certainly divines*. Proposed: head it with the verses' words.
+- **v8 note**: *ganav that ran six times through chapter 31* — eight (item 48); and 40:15 is quoted *I was stolen, stolen*, which reads *I was stolen outright*. Proposed: *eight times*; quote 40:15 as it reads. *These ten men*: eleven are protesting. Proposed: *These men*.
+- **v16 note**: *Judah is the one man in Genesis who uses this root about himself.* Jacob does at 30:33, *My righteousness will answer for me* (`צדקתי`). Proposed: *Judah uses this root about himself twice, and both times it is a surrender*.
+- **v20 note**: *yeled zequnim, and that is the narrator's phrase for Joseph in 37:3… the exact words.* 37:3 is `בן זקנים`, *ben*. Proposed: *nearly the narrator's phrase for Joseph in 37:3,* ben zequnim*… in almost the words the book used*.
+- **v27 note**: *Four of the men standing there are Leah's.* Six (Reuben, Simeon, Levi, Judah, Issachar, Zebulun; item 58). Proposed: *Six*.
+- **v34 note** quotes the verse as *Lest I see the evil*; it reads *and see the evil that would find my father*. Proposed: quote it as it reads.
 
 ## Settled
 
@@ -175,6 +214,8 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 74. **Exodus 39–40 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew): *the same three verbs*; the gold thread; *the only sentence anyone wears*; 39:32, 43 and 40:33; *erekh* and *ma'arakhah*; Genesis 32:25 and 24:2; the cloud *on* the tent, *raised*; *from here*. Logged in `PASTE/changes/2-exodus.md`. Exodus is now reviewed through. Bible 2, 2026-10-11.
 
 ## Closed books: for Andrew only if he asks
+
+- **Genesis 43:14 *if I am bereaved, I am bereaved***: `כאשר שכלתי שכלתי`, *ka'asher*, *as* or *when*. *If* (the text now, and most English) is resignation to a loss still to come; *as I have been bereaved, I am bereaved* is a man already robbed agreeing to be robbed again, which the note argued. A meaning, so Andrew's. (Bible 2, 2026-10-16)
 
 - **Genesis 24:22 *a gold nose-ring***: the Hebrew is *nezem zahav*, *a gold ring*, and the note says the text does not say where it goes until v47 (*I put the ring in her nose*); the verse already says *nose-ring*. Either v22 reads *a gold ring*, or the note changes. A rendering, so Andrew's. (Bible 3, 2026-10-10)
 - **Genesis 17:9 *And you —* and 48:20 *And he set Ephraim before Manasseh***: opening *And* not on the kept list (spec, "No And"); 17:9 may be meant (*ve-attah*, the turn to what Abraham must do). Proposed: *As for you, you shall keep…*; *So he set…*. (Bible 3, 2026-10-10)
