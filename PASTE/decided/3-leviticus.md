@@ -4,11 +4,14 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/3-leviticus.md` once
 
 ## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 
-### Choices for you (every verse listed)
+**Choices for you:**
 
-**1. *toshav* (a non-Israelite living long-term among Israel): "settler" or "resident"?** ✅ Decided: **resident**.
+- ✅ Decided 2026-09-24: **resident**. ***toshav***, a non-Israelite living long-term among Israel
+  - (a) **settler**
+  - (b) **resident**
+  - Either word works. One word everywhere makes Leviticus 25:23 visibly echo Abraham.
 
-| Verse | Reads now |
+| Verse | Read at the time |
 |---|---|
 | Genesis 23:4 | "A foreigner and a **settler** I am among you" (Abraham) |
 | Exodus 12:45 | "A **resident** and a hired man shall not eat of it" |
@@ -20,11 +23,12 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/3-leviticus.md` once
 | Leviticus 25:45 | "the sons of the **residents** who live with you as foreigners" |
 | Leviticus 25:47 | "a foreigner or a **resident** with you" |
 
-Either word works. One word everywhere makes Leviticus 25:23 visibly echo Abraham.
+- ✅ Decided 2026-09-24: **soothing aroma**. ***re'ach nichoach***, the smell of an offering
+  - (a) **quieting smell**: *nichoach* is from *nuach*, to rest; it keeps that link and Noah's name.
+  - (b) **soothing aroma**: smoother, but loses the root.
+  - (c) **a restful smell**.
 
-**2. *re'ach nichoach* (the smell of an offering): "quieting smell" or "soothing aroma"?** ✅ Decided: **soothing aroma**.
-
-| Verse | Reads now |
+| Verse | Read at the time |
 |---|---|
 | Genesis 8:21 | "the LORD smelled **the quieting smell**" (Noah; the note ties *nichoach* to *nuach*, rest, and to Noah's name) |
 | Exodus 29:18, 29:25, 29:41 | "**a quieting smell**" |
@@ -37,9 +41,10 @@ Either word works. One word everywhere makes Leviticus 25:23 visibly echo Abraha
 | Leviticus 17:6 | "**a soothing aroma**" |
 | Leviticus 23:13, 23:18 | "**a soothing aroma**" |
 
-*Nichoach* is from *nuach*, to rest: the smell that brings rest. "Quieting" keeps that link (and Noah's name). "Soothing aroma" is smoother but loses the root. A third option is "**a restful smell**".
-
-**3. *ben nekhar* (a foreigner from outside) vs. *ger* (a foreigner living among Israel): both are "foreigner" in places.** ✅ Decided: *ben nekhar* = **foreigner**, *ger* = **guest**.
+- ✅ Decided 2026-09-24: *ben nekhar* = **foreigner**, *ger* = **guest**. ***ben nekhar*** (a foreigner from outside) and ***ger*** (a foreigner living among Israel), both *foreigner* in places
+  - In Exodus 12:43 and 12:48 one kind may not eat the Passover and the other may (once circumcised); one English word hides that.
+  - (a) *ben nekhar* = **an outsider from abroad** or **a foreigner from abroad**; *ger* stays *a foreigner living among you*.
+  - (b) Keep both as *foreigner*.
 
 | Verse | Hebrew | Reads now |
 |---|---|---|
@@ -51,16 +56,16 @@ Either word works. One word everywhere makes Leviticus 25:23 visibly echo Abraha
 | Leviticus 22:18 | *ger* | "the **foreigners** living in Israel" |
 | Leviticus 22:25 | *ben nekhar* | "from the hand of a **foreigner**" |
 
-In Exodus 12:43 vs 12:48, one kind may not eat the Passover and the other may (once circumcised). Using the same English word hides that. Option: *ben nekhar* = "**an outsider from abroad**" or "**a foreigner from abroad**"; *ger* stays "a foreigner living among you".
+- ✅ Decided 2026-09-24: **servant**. ***eved*** when God is the master
+  - In Leviticus 25 the same word is used in the same sentence for the human slave being sold, which is the point.
+  - (a) **slave**
+  - (b) **servant**: reads naturally for Abraham and Moses.
+  - Options given: keep both as they were, or make Leviticus 25 *servants* too.
 
-**4. *eved* when God is the master: "slave" or "servant"?** ✅ Decided: **servant**.
-
-| Verse | Reads now |
+| Verse | Read at the time |
 |---|---|
 | Genesis 26:24 | "for the sake of Abraham **My servant**" |
 | Exodus 14:31 | "in Moses **His servant**" |
 | Leviticus 25:42 | "For they are **My slaves**… They shall not be sold as a **slave** is sold" |
 | Leviticus 25:55 | "the sons of Israel are **slaves** to Me. They are **My slaves**" |
-
-In Leviticus 25 the same word is used in the same sentence for the human slave being sold, which is the point. "Servant" for Abraham and Moses reads naturally. Options: keep both as they are, or make Leviticus 25 "servants" too.
 

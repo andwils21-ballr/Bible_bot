@@ -33,7 +33,7 @@ The "In the text now" column shows each chapter as first rendered. The 2026-09-2
 | 28 | *ba-chamat qeri*, "in the heat of qeri" | in furious hostility |
 | 30 | *chammanim* | ***KEPT AS IS*** incense altars (the word's meaning is uncertain; "sun pillars" is the other reading) |
 | 30 | *gillulim* | idols |
-| 31 | *re'ach nichoach* | soothing aroma (see Choices) |
+| 31 | *re'ach nichoach* | soothing aroma (decided; see `PASTE/decided/3-leviticus.md`) |
 | 34, 43 | *tirtseh*, "will be paid / accept" | will be paid its sabbaths |
 | 36 | *morekh*, "softness" | faintness |
 | 36 | *qol aleh niddaf* | the sound of a driven leaf |
@@ -71,32 +71,24 @@ The "In the text now" column shows each chapter as first rendered. The 2026-09-2
 - **Leviticus 26:30:** *chammanim*: incense altars or sun pillars; uncertain.
 - **Leviticus 27:29:** a devoted person "shall surely be put to death": hard, and the text gives no case.
 
-### Choices for you (every verse listed)
-
-**1. *qeri* (Leviticus 26 only, 7 times): "in hostility" or "by chance"?**
-
-| Verse | Reads now |
-|---|---|
-| 26:21 | "if you walk with Me **in hostility**" |
-| 26:23 | "but walk with Me **in hostility**" |
-| 26:24 | "then I too will walk with you **in hostility**" |
-| 26:27 | "but walk with Me **in hostility**" |
-| 26:28 | "then I will walk with you **in furious hostility**" |
-| 26:40 | "that they walked with Me **in hostility**" |
-| 26:41 | "so that I too walked with them **in hostility**" |
-
-From *qarah*, to meet or happen. **Option A (now):** opposition. **Option B:** "as if by chance", living as if what happens has nothing to do with God, and God answers by leaving them to chance: *if you walk with Me carelessly… I will walk with you carelessly*. Both are real readings of the word.
-
-**2. *sheqel ha-qodesh*: "shekel of the sanctuary" or "shekel of the holy place"?**
-
-| Verse | Reads now |
-|---|---|
-| Exodus 30:13, 30:24 | the shekel of **the sanctuary** |
-| Exodus 38:24, 38:25, 38:26 | the shekel of **the holy place** |
-| Leviticus 5:15 | the shekel of **the holy place** |
-| Leviticus 27:3, 27:25 | the shekel of **the sanctuary** |
-
-This choice is repeated, with the Numbers 3 verses added, in `4-numbers.md`.
+**Choices for you:**
+- **26:21–41, *qeri*** (found only in this chapter, seven times; from *qarah*, to meet or happen)
+  - Now, 26:21: *If you walk with Me in hostility and will not listen to Me*
+  - Now, 26:23: *but walk with Me in hostility*
+  - Now, 26:24: *then I too will walk with you in hostility*
+  - Now, 26:27: *but walk with Me in hostility*
+  - Now, 26:28: *then I will walk with you in furious hostility*
+  - Now, 26:40: *and also that they walked with Me in hostility*
+  - Now, 26:41: *so that I too walked with them in hostility*
+  - (a) **in hostility** (now): opposition.
+  - (b) **carelessly**, as if by chance: living as if what happens has nothing to do with God, and God answers by leaving them to chance (*if you walk with Me carelessly… I will walk with you carelessly*).
+  - No recommendation: both are real readings of the word.
+- ***sheqel ha-qodesh*, the shekel weight** (Exodus, Leviticus and Numbers)
+  - Now, *the shekel of the sanctuary*: Exodus 30:13, 24; Leviticus 27:3, 25; Numbers 3:47, 50; 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 86; 18:16
+  - Now, *the shekel of the holy place*: Exodus 38:24, 25, 26; Leviticus 5:15
+  - (a) **the shekel of the holy place** everywhere: *qodesh* is the word of *the charge of the holy place* (Numbers 3:28, 32), and *sanctuary* stays for *miqdash* (*the charge of the sanctuary*, 3:38).
+  - (b) **the shekel of the sanctuary** everywhere.
+  - Recommend (a).
 
 ## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 
@@ -229,6 +221,4 @@ Every note was checked against the printed Hebrew; cross-references were checked
 - **23:11:** "the day after the sabbath": which sabbath is not stated.
 - **23:24:** "a remembrance by a blast": what is blown, and what is remembered, are not stated.
 
-### Choices for you (every verse listed)
-
-All decided; moved to `PASTE/decided/3-leviticus.md`.
+**Choices for you:** all decided; moved to `PASTE/decided/3-leviticus.md`.

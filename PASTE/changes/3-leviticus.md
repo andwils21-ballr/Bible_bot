@@ -284,15 +284,15 @@ Every place was checked by what follows the "And". Four verses that start a quot
 - **The render tables for 22–27 were checked.** Their stiff lines are in the tables below: 24:12 *by the mouth of the LORD*, 24:23 *stoned him with stones*, 26:5 *reach to the grape harvest*.
 - **So this stops happening:** `RENDERING_SPEC.md` now has a section, *The readability pass*, with these eight patterns taken from your Exodus rulings, and `CLAUDE.md` points to it. The scheduled renders read both files, so Numbers 7 onward is written with it.
 
-### Choices for you (nothing changed yet)
+**Choices for you:**
 
-**1. "and here —" in the priest's inspections (Leviticus 13–14, 25 verses).** ✅ Decided 2026-09-25: removed and stitched (see the entry above). Your ruling keeps *And here —* for *hinneh*, the word that puts the reader inside someone's eyes. In these two chapters it sits in front of *if* (*and here — if the mark has spread*), and the pair stumbles. In a diagnosis, *hinneh* means *and if he sees that*.
-- **A:** keep as it is.
-- **B:** *the priest shall look, and if the mark has spread…*. Where there is no *if*: *and finds that there is no white hair…*.
+- ✅ Decided 2026-09-25: (b), removed and stitched (see the entry above). **Leviticus 13–14, "and here —" in the priest's inspections (25 verses)**. In these two chapters *hinneh* sits in front of *if* (*and here — if the mark has spread*), and the pair stumbles; in a diagnosis it means *and if he sees that*.
+  - Before: as in the table below.
+  - (a) Keep as it is.
+  - (b) *the priest shall look, and if the mark has spread…*; where there is no *if*: *and finds that there is no white hair…*.
+  - Recommend (b), in these two chapters only.
 
-**Recommend B, in these two chapters only.** Everywhere else, *And here —* stays.
-
-| Verse | Reads now |
+| Verse | Before |
 |---|---|
 | 13:5 | And the priest shall look at him on the seventh day, and here — if the mark has stayed as it was and has not spread in the skin, the priest shall shut him away another seven days |
 | 13:6 | And the priest shall look at him again on the seventh day, and here — if the mark has faded and has not spread in the skin, the priest shall declare him clean |
@@ -320,34 +320,29 @@ Every place was checked by what follows the "And". Four verses that start a quot
 | 14:44 | the priest shall come and look, and here — if the mark has spread in the house, it is a malignant blight in the house |
 | 14:48 | But if the priest comes and looks, and here — the mark has not spread in the house after the house was plastered, then the priest shall declare the house clean, because the mark has healed |
 
-**2. *moshav*, "your dwellings" vs "the dwelling".** *The dwelling* is the fixed name for the tabernacle (*mishkan*). A different word, *moshav*, "where you live", is rendered *dwellings* in six verses and *settlements* in four, so *dwelling* ends up meaning two different things in the same books.
-
-| Verse | Reads now |
-|---|---|
-| Exodus 10:23 | there was light in their **dwellings** |
-| Exodus 12:20 | In all your **dwellings** you shall eat unleavened bread |
-| Exodus 35:3 | You shall not kindle a fire in any of your **settlements** |
-| Leviticus 3:17 | in all your **settlements**: you shall eat no fat and no blood |
-| Leviticus 7:26 | in any of your **settlements** |
-| Leviticus 23:3 | a sabbath to the LORD in all your **dwellings** |
-| Leviticus 23:14, 21, 31 | a lasting statute… in all your **dwellings** |
-| Leviticus 23:17 | From your **dwellings** you shall bring two loaves |
-
-**Recommend** *wherever you live* in the formula, *from your homes* at Leviticus 23:17, and *where they lived* at Exodus 10:23.
-
-**3. Leviticus 19:26: the Greek reads it differently.** It now reads *You shall not eat anything with the blood in it*. The Hebrew is *al ha-dam*, and the same phrase in 1 Samuel 14:32–34 describes soldiers eating meat with the blood still in it. The Greek reads *You shall not eat **on the mountains***. That is Ezekiel's phrase for eating at hill shrines: *he does not eat on the mountains* (Ezekiel 18:6). The rest of the verse forbids divination and omens, which fits the Greek.
-- **A:** keep the Hebrew and add a note giving the Greek.
-- **B:** follow the Greek, with a note giving the Hebrew.
-
-**Recommend A.** The Hebrew phrase is attested in 1 Samuel, and eating blood is a running law of this book (3:17, 7:26, 17:10–14).
-
-**4. *tevel*, "a mixing" (18:23, 20:12).** These read *It is a mixing.* and *They have done a mixing.* The note at 18:23 explains that the word means running together things that belong apart, the same idea as the *two kinds* of 19:19.
-- **A:** keep.
-- **B:** *It is a perversion* / *They have committed a perversion*, with the note keeping *mixing*.
-
-**Recommend A**, because it keeps the link to 19:19. B reads more smoothly.
-
-Still open from earlier: *qeri* (26:21–41), the shekel wording, and the optional 23:11 note.
+- ***moshav*, "where you live"** (the formula *in all your dwellings / settlements*). *The dwelling* is the fixed name for the tabernacle (*mishkan*), so *dwellings* for *moshav* makes one English word mean two Hebrew ones.
+  - Now, Exodus 10:23: *there was light in their dwellings*
+  - Now, Exodus 12:20: *In all your dwellings you shall eat unleavened bread*
+  - Now, Exodus 35:3: *You shall not kindle a fire in any of your settlements*
+  - Now, Leviticus 3:17: *in all your settlements: you shall eat no fat and no blood*
+  - Now, Leviticus 7:26: *in any of your settlements*
+  - Now, Leviticus 23:3: *a sabbath to the LORD in all your dwellings*
+  - Now, Leviticus 23:14, 21, 31: *a lasting statute… in all your dwellings*
+  - Now, Leviticus 23:17: *From your dwellings you shall bring two loaves*
+  - (a) **wherever you live** in the formula, **from your homes** at Leviticus 23:17, **where they lived** at Exodus 10:23.
+  - (b) As now, *dwellings* and *settlements*.
+  - Recommend (a).
+- **Leviticus 19:26, *al ha-dam***
+  - Now: *You shall not eat anything with the blood in it.*
+  - (a) **The Hebrew** (now), with a note giving the Greek: the same phrase in 1 Samuel 14:32–34 is soldiers eating meat with the blood still in it.
+  - (b) **The Greek**, *You shall not eat on the mountains*, Ezekiel's phrase for eating at hill shrines (Ezekiel 18:6), with a note giving the Hebrew; the rest of the verse forbids divination and omens, which fits it.
+  - Recommend (a): eating blood is a running law of this book (3:17, 7:26, 17:10–14). The note giving the Greek is not written yet.
+- **Leviticus 18:23, 20:12, *tevel***
+  - Now, 18:23: *It is a mixing.*
+  - Now, 20:12: *They have done a mixing.*
+  - (a) **a mixing** (now): the note at 18:23 ties it to the *two kinds* of 19:19.
+  - (b) **a perversion** (*It is a perversion*; *They have committed a perversion*), with the note keeping *mixing*.
+  - Recommend (a): it keeps the link to 19:19; (b) reads more smoothly.
 
 ### Left standing on purpose
 
@@ -996,7 +991,14 @@ Still open: ***ger*** is also "foreigner" today (Exodus 12:48, 49; Leviticus 22:
 - **The weekly Sabbath (your reading):** the sheaf is waved on a Sunday. Then Pentecost, fifty days later, also always falls on a Sunday.
 - **The first day of Unleavened Bread (v7):** that day is kept like a sabbath, so the sheaf would fall on a fixed date, whatever the weekday.
 
-Your reading has a New Testament echo. Jesus rose *on the first day of the week* after the Sabbath (Matthew 28:1), and Paul calls Him *the firstfruits of those who have fallen asleep* (1 Corinthians 15:20): the firstfruits sheaf of v10–11. If you want, the v11 note can add that.
+Your reading has a New Testament echo. Jesus rose *on the first day of the week* after the Sabbath (Matthew 28:1), and Paul calls Him *the firstfruits of those who have fallen asleep* (1 Corinthians 15:20): the firstfruits sheaf of v10–11.
+
+**Choices for you:**
+- **23:11, the v11 note**
+  - Now: *on the day after the sabbath*; the note gives both readings and not the New Testament echo.
+  - (a) **Add the echo** to the v11 note: Matthew 28:1 and 1 Corinthians 15:20.
+  - (b) Leave the note as it is.
+  - No recommendation was given.
 
 **23:24 "a remembrance by a blast" (no change made).** *Teru'ah* covers two sounds:
 - **a great shout** (the shout at Jericho, Joshua 6:5)

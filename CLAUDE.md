@@ -136,6 +136,22 @@ removed:
   renders file the run's **Choices for you** then lists only open choices
   (*all decided; moved to `PASTE/decided/<file>`* when none are left), and a
   table cell that said *choice below* points to the decided file.
+- **One layout for every choice** (Andrew, 2026-10-16), in renders, changes
+  and decided files alike, under a line `**Choices for you:**` (or
+  `**Choices for you:** none new.`). Nothing else in a report is offered to
+  Andrew: no *open to you*, *please confirm* or *for your attention*.
+
+  ```
+  - **12:4, *kesef over ish***
+    - Now: *the money of each man who passes the count*
+    - (a) **the money of each man who passes the count** (now): the census half-shekel (Exodus 30:13).
+    - (b) **current money**: silver in common use (Genesis 23:16).
+    - Recommend (a): Chronicles names the census tax in this same repair.
+  ```
+
+  One *Now* line for each verse involved. A choice is raised once, in the
+  report of the run that found it; later reports do not repeat it. When
+  Andrew rules, the first line starts `✅ Decided <date>: <ruling>.`
 - **The chat reply stays short:**
   - What landed, and the progress count.
   - **Left standing on purpose**: verse and one-line reason for each.
