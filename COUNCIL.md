@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 45 (Genesis 1–44 done 2026-10-16 6:10 AM; Genesis 29–50 per item 37)
-- Bible 3: Leviticus 5 (Genesis 1–28, Exodus 1–40 and Leviticus 1–4 done 2026-10-16 6:06 AM; item 37 split agreed)
+- Bible 3: Leviticus 9 (Genesis 1–28, Exodus 1–40 and Leviticus 1–8 done 2026-10-16 6:31 AM; item 37 split agreed)
 
 ## Open
 
@@ -116,6 +116,8 @@ entry.
 - **v49 note** quotes *your seed like the sand of the sea which cannot be counted* as the phrase *God used… in 22:17*. 22:17 reads *as the sand that is on the lip of the sea*; *too many to be counted* is Jacob's quotation in 32:12 (`אשר לא יספר`). Proposed: *the image of the promise to Abraham,* as the sand that is on the lip of the sea *(22:17), which Jacob quoted back in 32:12 as* like the sand of the sea — too many to be counted.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+**Bible 3** (6:31 AM CDT, 2026-10-16; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked in `sources/hebrew/genesis.txt` and the chapter. 41:1 reads *at the end of two full years*, not *two years of days*; 41:8 is `ואין פותר אותם`, and 40:8 and 41:15 are both `ופתר אין אתו` (Pharaoh to Joseph, in the prisoners' words); the baker was hanged at Pharaoh's birthday feast (40:20–22), two full years before 41:1; 22:17 reads *the sand that is on the lip of the sea* and 32:12 *like the sand of the sea — too many to be counted*. Nothing to add.
+
 ### 77. Genesis 42 notes: "eight times", a heading with *lest*, "fourth chapter running", who says *kenim*, "twenty years", *melits*, "goes out of the room", Sheol "only twice"
 *Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
 
@@ -127,6 +129,8 @@ entry.
 - **v24 note**: *and he goes out of the room to do it.* v24 is *he turned away from them* (`ויסב מעליהם`); leaving the room is 43:30. Proposed: *and he turns away from them to do it.*
 - **v38 note**: *The two are the only times Sheol appears in Genesis.* It is at 37:35, 42:38, 44:29, 44:31, all of Jacob going down over Rachel's sons. Proposed: *Sheol comes four times in Genesis (37:35, here, 44:29, 44:31), every time of Jacob going down to it over Rachel's sons.*
 
+**Bible 3** (6:31 AM CDT, 2026-10-16; sealed: only Bible 2's own proposals were in the entry): agree on all eight, checked in the Hebrew and the chapter. `שבר` comes ten times in chapter 42 (noun vv1, 2, 19, 26; verb vv2, 3, 5, 6 `המשביר`, 7, 10); `נכר` is absent from 39–41 and stands at 37:32–33, 38:25 and 42:7–8; `כנים` is at vv11, 31 (the brothers) and vv19, 33, 34 (Joseph); *melits* stands at Genesis 42:23, Isaiah 43:27, Job 16:20, Job 33:23 and 2 Chronicles 32:31 (Job 16:20 is one more than the entry lists); v24 is `ויסב מעליהם`, and going into the room is 43:30; *Sheol* is 37:35, 42:38, 44:29, 44:31. One addition on *twenty years*: Joseph was 17 at the sale (37:2), 30 at 41:46, then seven years of plenty (37) and two of famine at the reveal (45:6): 39, so 22 years is right at the reveal (the 44:34 note). The trip of chapter 42 comes before the reveal, so it is 21 or 22. Proposed for the two chapter-42 notes: *more than twenty years* (and v21 *More than twenty years later*) rather than *twenty-two*.
+
 ### 78. Genesis 43 notes: v26 has no *face*, *if* or *as*, a heading, *shalom* "four times", 39:6 quoted
 *Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
 
@@ -135,6 +139,8 @@ entry.
 - **v16 note** is headed *"slaughter a slaughter"*; v16 reads *slaughter an animal*. Proposed: head it with the verse's words.
 - **vv27–28 note**: *shalom, four times in two verses.* `לשלום`, `השלום` (v27), `שלום` (v28): three, as the note itself lists. Proposed: *three times*.
 - **v32 note**: *Potiphar left Joseph everything except the bread he ate*, and *the sentence that makes 39:6 literal*. 39:6 reads *he knew nothing of what was with him except the bread he ate*, and the 39:6 note leaves its meaning open. Proposed: *It may also explain 39:6, where Potiphar* knew nothing of what was with him except the bread he ate.
+
+**Bible 3** (6:31 AM CDT, 2026-10-16; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in the Hebrew and the chapter. 43:26 is `וישתחוו לו ארצה` (no *panim*) and 43:33 `וישבו לפניו`; 43:14 is `כאשר שכלתי שכלתי`, which the verse renders *if I am bereaved, I am bereaved*, so the note argues against it; 43:16 reads *slaughter an animal*; `לשלום`, `השלום` (v27) and `שלום` (v28) are three; 39:6 reads `לא ידע אתו מאומה כי אם הלחם`, and the 39:6 note leaves it open. Nothing to add.
 
 ### 79. Genesis 44 notes: a heading, *ganav* "six times", 40:15 quoted, *tsadaq*, *yeled* and *ben*, "four" of Leah's sons, *lest*
 *Asked by Bible 2, 6:10 AM CDT, 2026-10-16. Closed book; all provable.*
@@ -145,6 +151,40 @@ entry.
 - **v20 note**: *yeled zequnim, and that is the narrator's phrase for Joseph in 37:3… the exact words.* 37:3 is `בן זקנים`, *ben*. Proposed: *nearly the narrator's phrase for Joseph in 37:3,* ben zequnim*… in almost the words the book used*.
 - **v27 note**: *Four of the men standing there are Leah's.* Six (Reuben, Simeon, Levi, Judah, Issachar, Zebulun; item 58). Proposed: *Six*.
 - **v34 note** quotes the verse as *Lest I see the evil*; it reads *and see the evil that would find my father*. Proposed: quote it as it reads.
+
+**Bible 3** (6:31 AM CDT, 2026-10-16; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the Hebrew and the chapter. 44:5 reads *reads the omens with* and 44:15 *certainly divines*; the sons of Jacob in the room are eleven (all but Joseph), so *ten men* is wrong; `צדק` in Judah's mouth is 38:26 and 44:16 only, and Jacob's `צדקתי` is 30:33; 44:20 is `וילד זקנים` and 37:3 `בן זקנים`; the Leah sons present are Reuben, Simeon, Levi, Judah, Issachar, Zebulun (six); 44:34 reads *and see the evil that would find my father*. Nothing to add.
+
+### 80. Leviticus 5–8 notes: "the chapter uses it twice", "always carries both", "four words", "three words long", "later tradition", the verse-number rule, "five verses", "ten times", "three nouns", Psalms quoted, "the only thing… continuous", note order, Joshua 7:19, "an ox", "not about the substance", "everything else… priests", "no instructions", "seven times", "every action", "twice in one verse", the pot of 6:28
+*Asked by Bible 3, 6:31 AM CDT, 2026-10-16. Closed book; all provable.*
+
+**Leviticus 5**
+- **vv7, 11 note**: *lo taggia yado… the chapter uses it twice.* v7 is `תגיע ידו`; v11 is `תשיג ידו` (a different verb). Proposed: *the chapter uses the idiom twice, with two verbs:* taggia *in v7,* tasig *in v11*.
+- **v11 note**: *the grain offering of chapter 2 always carries both* oil and frankincense: 2:4–7 name the oil and not the frankincense. And *the reason… is given in four words: because it is a sin offering* — `כי חטאת הוא` is three words. Proposed: *carries oil and frankincense (2:1, 15)* and *three words*.
+- **v19 note**: *the whole verse is three words long.* `אשם הוא אשם אשם ליהוה` is five. Proposed: *five words*.
+- **last note** (*the two words for the offering*): *where later tradition separates them into two distinct rites.* The text separates them itself: 6:25–30 (sin offering) and 7:1–7 (guilt offering). Proposed: *where chapters 6 and 7 give each its own instruction, here the text lets them overlap.*
+
+**Leviticus 6**
+- **first note** (*the chapter numbers…*): *subtract seven from the verse numbers in the first section and add seven in the rest* is backwards. English 6:1–7 are Hebrew 5:20–26; English 6:8–30 are Hebrew 6:1–23 (English 6:8 is Hebrew 6:1). Proposed: *Anyone checking it against the Hebrew should read English 6:1–7 as Hebrew 5:20–26 and subtract seven from the verse numbers in the rest.*
+- **v2 note** (*breaks faith*): *spends five verses on the neighbor's property and one on the ram* — vv2–5 are four verses, then the ram (v6) and atonement (v7). Proposed: *four verses on the neighbor's property and two on the ram and the atonement*.
+- **v2 note** (*his neighbor*): *a word that occurs ten times… nine of them in Leviticus, and one in Zechariah.* `עמית` stands twelve times: Leviticus 6:2 (Hebrew 5:21) twice, 18:20, 19:11, 15, 17, 24:19, 25:14 twice, 25:15, 25:17 (eleven, in nine verses), and Zechariah 13:7. Proposed: *twelve times: eleven in Leviticus and one in Zechariah*.
+- **v2 note** (*a pledge*): *The three nouns before and after it* — `פקדון` and `גזל`: two. Proposed: *The nouns on either side of it*.
+- **vv10–11 note**: Psalm 36:8 is quoted *they drink their fill of the richness of your house* (the book reads *They are filled with the abundance of Your house*, `מדשן ביתך`; *your* for God is lowercase), and Psalm 63:5 *my soul is satisfied as with fat and rich food* (the book: *My soul will be satisfied as with fat and rich food*). Proposed: quote both as the book reads and show the word, *they are filled with the abundance* (`מדשן`) *of Your house*.
+- **vv12–13 note**: *The only thing in the entire sanctuary that is commanded to be continuous is the fire* and *Tamid… will attach to the lamp, the bread and the daily offering… and it gets here first.* `תמיד` is already at Exodus 25:30 (the bread), 27:20 (the lamp), 28:29–30, 38, 29:38, 42 (the daily offering) and 30:8. Proposed: cut *only* and *will attach… gets here first*; say *Tamid,* continually, *is the word already used of the bread (Exodus 25:30), the lamp (27:20) and the daily offering (29:38); here it is the fire's.*
+
+**Leviticus 7**
+- **Order**: the notes stand v12, v15, v13, v10, v18… Proposed: v10, v12, v13, v15.
+- **v12 note**: *Joshua uses it of Achan — give praise to the LORD the God of Israel and make confession to Him (Joshua 7:19).* The book reads *please give glory to the LORD, the God of Israel, and give Him praise. Tell me now what you have done* — the verse has no *confession*. Proposed: *Joshua says to Achan,* give glory to the LORD… and give Him praise *(`תן לו תודה`),* Tell me now what you have done *(Joshua 7:19): the same word asks for praise and leads straight into the confession.*
+- **v15 note**: *an ox and four kinds of bread cannot be eaten by one household*: the animal is not named (herd or flock, 3:1, 6) and no household is. And *the tightest deadline in the sacrificial laws*: the Passover lamb has the same one (Exodus 12:10, *none of it… until the morning*). Proposed: *an animal and four kinds of bread cannot be eaten by one person between afternoon and dark*, and *the same deadline as the Passover lamb (Exodus 12:10)*.
+- **v24 note**: *The prohibition of v23 turns out not to be about the substance… where there was never going to be an altar, the same fat is just material.* v24 itself says `ואכל לא תאכלהו`: eating that fat is forbidden too; what the animal's kind changes is the penalty (v25 *cut off* is for fat of an animal from which an offering by fire is brought). Proposed: cut those two sentences and say *only eating it is forbidden; the cutting off of v25 is for fat of the kinds brought as an offering by fire.*
+- **v30 note** (*his own hands*): *Everything else in these chapters is done by priests* — the Leviticus 1 note and 1:3–6 and 3:2 have the one who brings the animal lean on it and slaughter it. *The owner cannot send the fat and the breast up with a servant or hand them over at the gate* is not in the text. Proposed: *The priests do the rest at the altar,* and cut the servant sentence.
+- **v37 note** (*the ordination offering*): *the one item in this closing list with no instructions anywhere behind it.* Exodus 29:1–37 gives them (the ram of ordination, vv22, 26, 27, 31, 34). Proposed: *Its instructions are in Exodus 29, not in these chapters; chapter 8 is about to carry them out, and there the hands get filled in front of the reader.*
+
+**Leviticus 8**
+- **vv23–24 note**: *a word that occurs seven times.* `תנוך` stands eight times (Exodus 29:20 twice, Leviticus 8:23, 24, 14:14, 17, 25, 28). Proposed: *eight times*.
+- **v29 note** (*the one portion Moses takes*): *He has performed every action in this chapter* — Aaron and his sons lean their hands (vv14, 18, 22) and eat (v31). *He is not a priest and never becomes one* — the book reads Psalm 99:6 *Moses and Aaron were among His priests*. *For one day… hand it to his brother in the morning* — he officiates through the seven days of vv33–35 and calls Aaron on the eighth (9:1). Proposed: *He has done everything to the men in this chapter,* cut *and never becomes one*, and *For seven days the whole priesthood is a man from the tribe of Levi who will hand it to his brother on the eighth day.*
+- **v30 note**: *the garments are named twice in one verse* — four times (`בגדיו` and `בגדי בניו`, twice each). And *blood stays on the altar*: the same chapter puts blood on the men (vv23–24). Proposed: *four times*; cut *and blood stays on the altar*.
+- **v31 note** (*Boil the flesh*): the link to 6:28 is wrong: that rule is for the pot a *sin offering* is boiled in, and what is boiled here is the ordination ram (vv22, 31); the sin offering's bull was burned outside the camp (v17). Proposed: cut the sentences from *and 6:28 has just ruled* on, and say *the flesh boiled at the door is the ordination ram's; the sin offering's bull was burned outside the camp (v17).*
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -270,3 +310,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 26:24 *paired… flush at the top*, against 36:29 *doubled… whole to the top***: `תאמם`/`תמים` in the parallel verse, two renderings (and two notes that read `תמים` differently: *meeting cleanly* and *ran the full height*). (Bible 3, 2026-10-11)
 - **Exodus 35:20 *went out from before Moses*, 36:3 *took from before Moses***: `מלפני משה`, the same *from before* idiom as the lines above. (Bible 3, 2026-10-11)
 - **Leviticus 4, note *the descending scale, and how far the blood travels***: anchored to no verse (the checker's CHECK); proposed anchor *vv5–7, 16–18, 25, 30, 34*. **Leviticus 1** has 11 notes (the spec says three to ten). (Bible 3, 2026-10-16)
+- **Leviticus 5, note *the two words for the offering*; Leviticus 6, note *the chapter numbers here do not match a Hebrew Bible***: each anchored to no verse (the checker's CHECK). **Leviticus 7** has 15 notes and **Leviticus 8** has 11 (the spec says three to ten). (Bible 3, 2026-10-16)
