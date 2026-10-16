@@ -103,9 +103,33 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 41 (Genesis 1–40 done 2026-10-11 12:34 AM; Genesis 29–50 per item 37)
-- Bible 3: Leviticus 1 (Genesis 1–28 and Exodus 1–40 done 2026-10-11 12:42 AM; item 37 split agreed)
+- Bible 3: Leviticus 5 (Genesis 1–28, Exodus 1–40 and Leviticus 1–4 done 2026-10-16 6:06 AM; item 37 split agreed)
 
 ## Open
+
+### 75. Leviticus 1–4 notes: "the man who built the tent", "four times", "the only offering… eats none", "in front of everyone", *the same three letters*, "word for word", *never a spirit*, "a pat of bread", "four words", "procedure for priests", "the fat never is", "eleven times", *high hand*
+*Asked by Bible 3, 6:06 AM CDT, 2026-10-16. Closed book; all provable.*
+
+**Leviticus 1**
+- **v1 note** (*and it answers the last verse of Exodus*): *The man who built the tent* — Bezalel and Oholiab made it (Exodus 31:2, 36:1); Moses raised it (40:18). And *solved in the first four words of the next*: the call is three Hebrew words (`ויקרא אל משה`), and *from the tent of meeting* is the seventh and eighth word of the verse. Proposed: *The man who raised the tent* and *solved in the first verse of the next*.
+- **v2 note** (*offering*): *the causative* hiqriv *— used four times in this chapter.* The hiphil of `קרב` stands nine times in chapter 1 (vv2 twice, 3 twice, 5, 10, 13, 14, 15). Proposed: *nine times*.
+- **v3 note** (*burnt offering*): *the only offering in the system where the worshipper eats none of it.* He eats none of the grain offering either (the priests do, 2:3, 10) nor of the sin offering (4:11–12, burned outside the camp); the one he does eat is the peace offering (7:15). Proposed: *nothing comes back down to the table — the priest receives only the hide (7:8). Of the sacrifices, only the peace offering (7:15) is eaten by the one who brings it.*
+- **v5 note** (*who does the killing*): *in front of everyone* and *until the blood is in a bowl* are not in the chapter (the entrance of the tent, v3; *before the LORD*, v5; the priests *bring the blood*, no vessel named). Proposed: cut *in front of everyone*, and end *until the blood is brought to the altar.*
+- **v9 note** (*a soothing aroma*): *The man's name,* Noach*, is built from the same three letters.* `נח` is two letters; the root `נוח` (*nuach*) has three, the *vav* is absent from the name. Proposed: *is built from the same root*.
+- **v15 note** (*pinch off its head*): *given the same closing sentence, word for word, as the bull in v9.* v9 is `עלה אשה ריח ניחוח ליהוה`; v17 has the extra `הוא` and matches v13 (the flock) word for word. Proposed: *as the sheep and goats in v13, word for word*.
+
+**Leviticus 2**
+- **v1 note** (*a person*): *never meaning a spirit separable from a body.* The book itself reads Genesis 35:18 *as her soul was going out* and 1 Kings 17:21–22 *let this child's life come back into him… the life of the child came back into him*, both `נפש`. Proposed: cut *and never meaning a spirit separable from a body*.
+- **v6 note** (*Break it into pieces*): *a pat of bread is what Abraham offers the three men at Genesis 18:5.* The book reads 18:5 *a morsel of bread* (`פת לחם`). Proposed: *the ordinary word for a morsel of bread — pat lechem is what Abraham offers the three men at Genesis 18:5.*
+
+**Leviticus 3**
+- **v16 note**: *four words in Hebrew,* kol chelev la-YHWH. `כל חלב ליהוה` is three words. Proposed: *three words*.
+- **v17 note**: *the chapter is procedure for priests until this verse* — it speaks of the one who brings the offering in the third person throughout (*he shall lean his hand… slaughter it*, vv2, 8, 13), and v17 is its first *you*. And *the fat never is [given a reason]*: v16, *All fat belongs to the LORD*, is the reason, and the v16 note says so (*the reason for everything the chapter has just described*). Proposed: *the chapter speaks of* he *and* his offering *until this verse, which turns to* your generations… you shall eat*;* and *Blood is given its reason later (17:11,* the life of the flesh is in the blood*); the fat's reason is v16,* All fat belongs to the LORD*. Two prohibitions of equal weight in one sentence, and the reason for each is stated in a different place.*
+
+**Leviticus 4**
+- **vv3, 5, 16 note**: *it is in 1 Samuel, of Saul and David, eleven times over.* 1 Samuel has `משיח` twelve times (2:10, 2:35, 12:3, 12:5, 16:6, 24:7 twice, 24:11, 26:9, 26:11, 26:16, 26:23 in the Hebrew numbering), the first two before Saul is named. Proposed: *it is in 1 Samuel, twelve times, of the king.*
+- **v2 notes**: *Numbers 15:30 will call that acting* with a high hand*;* the book reads 15:30 *acts in open defiance* (`ביד רמה`). Proposed: *acting in open defiance (literally* with a high hand*)*. And *sins… sin offering —* chata *and* chatat*, the same word*: the first is the verb, the second the noun. Proposed: *the same root*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -227,3 +251,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Exodus 26:22, 26:27 *toward the west*, against 36:27, 36:32 *toward the sea***, and **27:12 *the west side*, against 38:12 *the side toward the sea***: `ימה` and `לפאת ים` each rendered two ways in parallel passages; the 36:27 note defends *sea*. Proposed: the same wording in both places. (Bible 3, 2026-10-11)
 - **Exodus 26:24 *paired… flush at the top*, against 36:29 *doubled… whole to the top***: `תאמם`/`תמים` in the parallel verse, two renderings (and two notes that read `תמים` differently: *meeting cleanly* and *ran the full height*). (Bible 3, 2026-10-11)
 - **Exodus 35:20 *went out from before Moses*, 36:3 *took from before Moses***: `מלפני משה`, the same *from before* idiom as the lines above. (Bible 3, 2026-10-11)
+- **Leviticus 4, note *the descending scale, and how far the blood travels***: anchored to no verse (the checker's CHECK); proposed anchor *vv5–7, 16–18, 25, 30, 34*. **Leviticus 1** has 11 notes (the spec says three to ten). (Bible 3, 2026-10-16)
