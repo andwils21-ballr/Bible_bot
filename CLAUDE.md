@@ -159,8 +159,9 @@ removed:
   - **Choices for you**: only the choices new in this run. For every choice,
     first say in plain words what the passage is about: who is speaking, to
     whom, what is happening, and the point being made, since Andrew may not
-    have read that book yet. Then say what each option would mean. Full verses
-    are not needed (Andrew, 2026-10-16). Open choices stay in their own book's file (renders or changes)
+    have read that book yet. Then give the full sentence the disputed words
+    appear in, as it reads now, and say what each option would mean. Whole
+    verses are not needed (Andrew, 2026-10-16). Open choices stay in their own book's file (renders or changes)
     and are **not** carried from book to book or repeated in later replies;
     Andrew takes them up when he reaches that book (Andrew, 2026-09-26).
   - **Widespread decisions go first.** Anything that could affect many books
