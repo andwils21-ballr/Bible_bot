@@ -8,9 +8,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. Copying slips read as the plain word: 19:11 *ʾemḥərka* as *ʾi-məḥərka*, **you had no pity**; 21:4 *baʿamat* as *baʿamaḍā*, **by wrongdoing**. 19:6 began with *And*; per the spec it reads *You too, earth*.
 
+**Noted:** 21:7 *za-ḫala* is rendered **rust** (silver will rust, James 5:3), noted.
+
 **Choices for you:**
-- **21:7 *za-ḫala*** → **rust** (silver will rust, James 5:3), noted.
-- **Words kept in Ge'ez:** 21:10 *ḥatl* (a place on the farm); 21:22 *ʾagʿəwo* (a forbidden food, beside what is torn and what has died).
+- **21:10, 22, words kept in Ge'ez: *ḥatl* (a place on the farm); *ʾagʿəwo* (a forbidden food, beside what is torn and what has died)**
+  - Now, 21:10: *in the enclosures of the field, the ḥatl, the threshing floor or the winepress*
+  - Now, 21:22: *to keep far from ʾagʿəwo, from what is torn and what has died*
+  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
+  - (b) **A guess put in the text**, with the Ge'ez in the note.
+  - No recommendation was given.
 
 ### 2 Meqabyan 19: O Earth, O Death
 
@@ -52,9 +58,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. Copying slips read as the plain word: 17:4 *nads* as *nafs*, **soul**; 18:10 *mərət* as *mədr*, **earth**. 16:7 avoids *after its kind* (spec): **of its own kind**.
 
+**Noted:** the weather words of 15:4–5, 20 are read from v20's list of cold: *ṭāqā*, *gime* → **gloom**, **fog**; *dadak*, *marqi*, *ḥasatyā* → **sleet**, **frost**, **ice**. 18:11 *ʿəda* → **the light** (went out of our bright eyes), the plain sense. Each is noted.
+
 **Choices for you:**
-- **Weather words in 15:4–5, 20:** *ṭāqā*, *gime* → **gloom**, **fog**; *dadak*, *marqi*, *ḥasatyā* → **sleet**, **frost**, **ice** (read from v20's list of cold); *ḍaʿāʿ* and *tay* kept in Ge'ez. Noted.
-- **18:11 *ʿəda*** → **the light** (went out of our bright eyes), the plain sense; noted.
+- **15:4, 20, weather words kept in Ge'ez: *ḍaʿāʿ* and *tay***
+  - Now, 15:4: *on the day of gloom, on the day of fog, on the day of ḍaʿāʿ, on the day of lightning*
+  - Now, 15:20: *fire and tay, a stormy wind, ice, hail and sleet*
+  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
+  - (b) **A guess put in the text**, with the Ge'ez in the note.
+  - No recommendation was given.
 
 ### 2 Meqabyan 15: The Day of Judgment
 
@@ -104,10 +116,9 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Kept as is:** 14:31–32 say the same words twice, of the pregnant woman and of the earth; both are rendered (noted).
 
-**Choices for you:**
-- **12:13 *Ṭəlməyākos*:** the angel of death's name, kept as the Ge'ez spells it.
-- **13:1, 9 *five* Maccabees:** the sons of Meqabis are counted here for the first time (digit *5*, noted).
-- **14:16:** *taʾatito wa-wino məsbəʿita*, rendered **after it has passed away… sevenfold**; the sense is uncertain (noted).
+**Noted:** 12:13 *Ṭəlməyākos*, the angel of death's name, kept as the Ge'ez spells it. 13:1, 9: the sons of Meqabis are counted as *five* here for the first time (digit *5*, noted). 14:16 *taʾatito wa-wino məsbəʿita* is rendered **after it has passed away… sevenfold**; the sense is uncertain (noted).
+
+**Choices for you:** none new.
 
 ### 2 Meqabyan 12: The Death of Tsirutsaydan
 
@@ -149,11 +160,21 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Numbers:** 9:8 *5* kingdoms, kept as **five** (1 Meqabyan 5:24 has *four*, noted). 10:26 *2* kingdoms, **two**.
 
+**Noted:** 10:8, *the dwelling of the Beloved who comes from on high*, the book's own words in Balaam's blessing, rendered as they stand with a note to Numbers 24. 11:8, *the sons of Korah and Asaph*, where Numbers has Dathan and Abiram, rendered as the book has it, noted.
+
 **Choices for you:**
-- **10:8, *the dwelling of the Beloved who comes from on high*:** the book's own words in Balaam's blessing, rendered as they stand with a note to Numbers 24.
-- **11:8, *the sons of Korah and Asaph*:** Numbers has Dathan and Abiram; rendered as the book has it, noted.
-- **11:19, *Samuel and Elijah in Jerusalem*:** rendered as the book has it, with no note arguing with it.
-- **Words kept in Ge'ez:** 10:23 *sabsab*; 11:12–13 *ḫoṣādāt*, *mawādəd* (tabernacle furnishings).
+- **11:19, *Samuel and Elijah in Jerusalem***
+  - Now: *and for Samuel and Elijah in Jerusalem, in the tent in the temple, where Solomon built*
+  - (a) **As the book has it, with no note arguing with it** (now).
+  - (b) As the book has it, with a note on the difficulty.
+  - No recommendation was given.
+- **10:23, 11:12–13, words kept in Ge'ez: *sabsab*; *ḫoṣādāt*, *mawādəd* (tabernacle furnishings)**
+  - Now, 10:23: *nor on those in the sabsab, nor on the virgins*
+  - Now, 11:12: *the mercy seat and the ḫoṣādāt, the cherubim and the basins*
+  - Now, 11:13: *the carrying poles and the mawādəd*
+  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
+  - (b) **A guess put in the text**, with the Ge'ez in the note.
+  - No recommendation was given.
 
 ### 2 Meqabyan 9: The Broad Way and the Narrow
 
@@ -192,14 +213,26 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Landed:** 2 Meqabyan 5, 6, 7, 8. Progress 699 → **703 of 1,989 (35.3%)**. Ge'ez alone. Esther 11–16 still waits on your choice.
 
-**Departures from the Ge'ez:** none. One reading against a stray negative, noted: 5:6 *wa-ʾi-yəballəʿu*, **and they do not eat** (what has died), read as **They eat**: the Chaldeans are the ones who eat it, as the rest of the verse and v10 say.
+**Departures from the Ge'ez:** none. One reading against a stray negative, 5:6 (see the choice below).
 
 **Numbers:** 5:3 *5* years, kept as **five** (may be cut short, noted). 8:23 *2))*, those Joshua killed, left as *[number lost]*; *5* kings stands (the five kings of Joshua 10).
 
 **Choices for you:**
-- **5:6** (above).
-- **5:10 *ʾArabāmāyān*:** a people kept in Ge'ez.
-- **8:9 *Takkaze*:** the Tekezé river of Ethiopia, kept in the book's form with a note.
+- **5:6, a stray negative** (*wa-ʾi-yəballəʿu*, *and they do not eat*)
+  - Now: *They eat everything that has died, blood, what a beast has eaten and what is torn*
+  - (a) **They eat** (now), with a note: the Chaldeans are the ones who eat it, as the rest of the verse and v10 say.
+  - (b) **and they do not eat**, the Ge'ez as it stands.
+  - No recommendation was given.
+- **5:10, a people's name kept in Ge'ez: *ʾArabāmāyān***
+  - Now: *which the sons of the ʾArabāmāyān do, sinners and rebels*
+  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
+  - (b) **A guess put in the text**, with the Ge'ez in the note.
+  - No recommendation was given.
+- **8:9, *Takkaze*** (the Tekezé river of Ethiopia)
+  - Now: *raises his neck as far as the river Takkaze*
+  - (a) **Takkaze**, the book's form (now), with a note.
+  - (b) **Tekezé**, the river's usual English name.
+  - No recommendation was given.
 
 ### 2 Meqabyan 5: The Sons of Meqabis in Captivity
 
@@ -249,9 +282,21 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Ge'ez:** none. One-letter readings, noted: 3:5 *rodkəwwā* as *ragaṣkəwwā*, **I trampled it**; 3:10 *za-gabarku*, **that I made**, as *za-gabarka*, **that you made**.
 
 **Choices for you:**
-- **The king's name: *Maqābis* → Meqabis.** A Moabite king, not the Maccabeus (*Maqābyos*) of 1 Meqabyan. Spelled from the Ge'ez, close to the book's name. Say if you want another form (e.g. *Maccabis*).
-- **4:1 *Hośeʿ* → Hoshea**, likely Joshua (Numbers 13:16, noted). Say if you want it as Joshua in the text.
-- **Words kept in Ge'ez:** 4:19 *marānātā*, *milonāt*, *ḫoṣādāt* (furnishings).
+- **The king's name, *Maqābis*** (a Moabite king, not the Maccabeus, *Maqābyos*, of 1 Meqabyan)
+  - Now, 1:1: *About Meqabis, who came upon the Jews in Mesopotamia of Syria*
+  - (a) **Meqabis** (now), spelled from the Ge'ez, close to the book's name.
+  - (b) Another form, such as **Maccabis**.
+  - No recommendation was given.
+- **4:1, *Hośeʿ*** (likely Joshua, Numbers 13:16, noted)
+  - Now: *Some were in the days of Hoshea,*
+  - (a) **Hoshea** (now).
+  - (b) **Joshua** in the text.
+  - No recommendation was given.
+- **4:19, words kept in Ge'ez: *marānātā*, *milonāt*, *ḫoṣādāt* (furnishings)**
+  - Now: *He made marānātā and milonāt, tables and tents, basins and ḫoṣādāt*
+  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
+  - (b) **A guess put in the text**, with the Ge'ez in the note.
+  - No recommendation was given.
 
 ### 2 Meqabyan 1: Meqabis Destroys Jerusalem
 
