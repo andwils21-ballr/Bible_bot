@@ -10,9 +10,18 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **"And it came to pass" kept:** 42:7, *after the LORD had spoken these words*, a move forward in time.
 
-**Decisions made, open to you:**
-- **42:6 "therefore I despise myself, and repent in dust and ashes."** The Hebrew has no object for "despise" (as at 7:16), and "repent… in dust and ashes" can also mean "am comforted concerning dust and ashes." The traditional reading is followed; the note gives both alternatives.
-- **42:7–8 "spoken of Me"** for *elai*, which can also be "to Me"; noted.
+**Choices for you:**
+- **42:6, *em'as ve-nichamti al afar va-efer***
+  - Now: *therefore I despise myself, / and repent in dust and ashes.*
+  - The Hebrew has no object for *despise* (as at 7:16), and *repent… in dust and ashes* can also mean *am comforted concerning dust and ashes*.
+  - (a) **I despise myself, and repent in dust and ashes**, the traditional reading (now); the note gives both alternatives.
+  - (b) **The other readings, given in the note**: *despise* with no object supplied, and *am comforted concerning dust and ashes*.
+  - No recommendation was given.
+- **42:7–8, *elai***
+  - Now, 42:7: *for you have not spoken of Me what is right, as My servant Job has*
+  - (a) **of Me** (now), noted.
+  - (b) **to Me**.
+  - No recommendation was given.
 
 **Noted:** the Greek adds a closing passage after 42:17 (Job will rise again; he is Jobab of Edom). Not rendered; the note mentions it.
 
@@ -24,7 +33,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Numbering (English followed):** English 40:1–24 = Hebrew 40:1–24; English 41:1–8 = Hebrew 40:25–32; English 41:9–34 = Hebrew 41:1–26. Each chapter has a note. The checker flags the verse counts as a known offset. **This Job offset is not yet in HANDOFF.md's list**; I did not edit HANDOFF in a render cycle.
 
-**Written and read forms that differ in meaning:** 41:12 written "not," read "about him." Rendered "I will not keep silent about him," carrying both, with a note; this is a small departure from strictly following the read form, open to you.
+**Written and read forms that differ in meaning:** 41:12 (the choice below).
+
+**Choices for you:**
+- **41:12, written *lo*, "not", read *lo*, "about him"**
+  - Now: *I will not keep silent about him, / his limbs, his mighty strength and his fine frame.*
+  - (a) **Both** (now): *I will not keep silent about him*, with a note; a small departure from strictly following the read form.
+  - (b) **The read form alone**, as the spec's read-form rule asks.
+  - No recommendation was given.
 
 **Spec rules applied:** 40:15 *hinneh* rendered "Here is Behemoth" (a presentation); 41:22 *yalin* "lodges," avoiding *abide*.
 
@@ -57,10 +73,19 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 33:28 written "my soul… my life," read "his soul… his life."
 Spelling only, no note: 33:21.
 
-**Noted, open to you:**
-- 32:3 "declared Job guilty": the scribes' tradition says the original was "declared God guilty."
-- 32:1 "in his own eyes": the Greek and Syriac read "in their eyes."
-- 34:29–33 is among the hardest passages in the book; the note says so.
+**Noted:** 34:29–33 is among the hardest passages in the book; the note says so.
+
+**Choices for you:**
+- **32:3, Job or God declared guilty**
+  - Now: *because they had found no answer and yet had declared Job guilty.*
+  - (a) **Job**, as the Hebrew stands (now).
+  - (b) **God**: the scribes' tradition says the original was *declared God guilty*.
+  - No recommendation was given.
+- **32:1, *in his own eyes***
+  - Now: *So these three men ceased to answer Job, because he was righteous in his own eyes.*
+  - (a) **in his own eyes**, the Hebrew (now).
+  - (b) **in their eyes**, the Greek and Syriac.
+  - No recommendation was given.
 
 **Word choice:** 33:4 *ruach El* "the Spirit of God" and 34:14 "His Spirit" capitalized per the word table; 32:8 "the spirit in man" lowercase. 33:23 *mal'akh* "messenger."
 
@@ -110,10 +135,14 @@ Spelling only, no note: 33:21.
 
 **Departure from the Hebrew text, with a note:** 19:28 "found in him" follows some Hebrew manuscripts and the Greek; the Leningrad text has "in me." Witness rule 2: the friends are speaking of Job.
 
-**Decisions made, open to you:**
-- **19:25 "my Redeemer… He will stand"** capitalized, following the Church's reading of the *go'el* as Christ. The Hebrew does not say who the *go'el* is; the note says so. Lowercase ("my redeemer… he") would leave it open.
-- **19:15 "the guests in my house"** for *gerei veiti*, and **18:19 "where he lived as a guest"** for *megurav*, following the word table for *ger* / *gur*. 19:15 *nokhri* is "foreigner."
-- **19:26–27** is the hardest passage so far; the note says every translation of it is partly a guess.
+**Noted:** 19:26–27 is the hardest passage so far; the note says every translation of it is partly a guess. 19:15 *nokhri* is **foreigner**. (19:15 and 18:19, *ger* / *gur*, follow the fixed term; moved to `PASTE/decided/26-job.md`.)
+
+**Choices for you:**
+- **19:25, *go'ali*, "my Redeemer… He will stand"**
+  - Now: *For I know that my Redeemer lives, / and at the last He will stand upon the dust.*
+  - (a) **Capitalized** (now), following the Church's reading of the *go'el* as Christ; the note says the Hebrew does not say who the *go'el* is.
+  - (b) **Lowercase**, *my redeemer… he*, which leaves it open.
+  - No recommendation was given.
 
 ## Job 14–17 — rendered 2026-10-07, 1:48 PM CDT
 
@@ -134,8 +163,15 @@ Spelling only, no note: 33:21.
 **What these chapters are:** Job to God: "Your hands shaped me… and now You swallow me up" (ch. 10). Zophar's first speech: God exacts less than Job deserves (ch. 11). Job: ask the beasts; the hand of the LORD has done this; a hymn of God overturning the great (ch. 12). Job turns from his "worthless physicians" to God: "Though He slay me, I will hope in Him" (ch. 13).
 
 **Written and read forms that differ in meaning (read form followed, with a note):**
-- **13:15** written *lo* "not": "He will slay me; I have no hope." Read *lo* "in Him": "Though He slay me, I will hope in Him." The two are opposite in sense. The read form is followed per the spec; this is the best-known verse in these chapters, so I flag it for you.
+- **13:15** (the choice below)
 - 10:20 written "Let Him cease… let Him set," read "Cease, and leave me alone."
+
+**Choices for you:**
+- **13:15, written *lo*, "not", read *lo*, "in Him"** (the best-known verse in these chapters)
+  - Now: *Though He slay me, I will hope in Him; / yet I will argue my ways to His face.*
+  - (a) **The read form** (now), per the spec: *Though He slay me, I will hope in Him.*
+  - (b) **The written form**: *He will slay me; I have no hope.* The two are opposite in sense.
+  - No recommendation was given.
 
 **Noted:** 12:9 is the only place in the speeches (chs. 3–37) where the name *YHWH* is used.
 
@@ -154,11 +190,24 @@ Spelling only, no note: 33:21.
 - 6:29 written "my turning back," read "turn back."
 Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
-**Noted, open to you:**
-- 7:20 "a burden to myself": the scribes' tradition says the original was "to You," which the Greek has. Rendered as the Hebrew stands.
-- 9:19 "who will summon me?": the Hebrew has "me"; the Greek reads it of God.
-- 9:33 "There is no arbiter": the Greek has "Would that there were."
-- 6:14 the sense of the line is uncertain; the other reading is in the note.
+**Noted:** 6:14, the sense of the line is uncertain; the other reading is in the note.
+
+**Choices for you:**
+- **7:20, *a burden to myself***
+  - Now: *Why have You made me Your target, / so that I am a burden to myself?*
+  - (a) **to myself**, as the Hebrew stands (now).
+  - (b) **to You**: the scribes' tradition says the original was *to You*, which the Greek has.
+  - No recommendation was given.
+- **9:19, *who will summon me?***
+  - Now: *If it is a matter of justice, who will summon me?*
+  - (a) **me**, the Hebrew (now).
+  - (b) **Him**: the Greek reads it of God.
+  - No recommendation was given.
+- **9:33, *There is no arbiter***
+  - Now: *There is no arbiter between us, / who might lay his hand on us both.*
+  - (a) **There is no arbiter**, the Hebrew (now).
+  - (b) **Would that there were an arbiter**, the Greek.
+  - No recommendation was given.
 
 **Word choice:** "loathe" is kept for *sheqets* and "detestable" for *to'evah*, as the word table has them. So 9:31 *ti'avuni* is "abhor," and *ma'as* at 7:16 and 9:21 is "despise."
 
@@ -172,12 +221,14 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **"And it came to pass" kept:** 2:1, *one day*, as at 1:6.
 
-**Decisions made, open to you:**
-- **2:9 "Curse God and die"** — Hebrew *barekh*, "bless," rendered by the sense as at 1:5 and 1:11.
-- **3:10 "my mother's womb"** for Hebrew "my womb," with a note.
-- **4:18 "His messengers"** for *mal'akhav*, heavenly beings here; the word table's rule (messenger, never angel) followed.
-- **5:17 "the Almighty"** for *Shaddai*, first time in the book, with a note.
-- **Eloah** (singular) is "God," noted at 3:4.
+**Noted:** 2:9 *Curse God and die* is *barekh*, "bless," rendered by the sense, as at 1:5 and 1:11 (the choice in the Job 1 report). 5:17 *Shaddai* is **the Almighty**, first time in the book, with a note. *Eloah* (singular) is **God**, noted at 3:4. (4:18 *His messengers* follows the fixed term; moved to `PASTE/decided/26-job.md`.)
+
+**Choices for you:**
+- **3:10, *my womb***
+  - Now: *because it did not shut the doors of my mother's womb*
+  - (a) **my mother's womb** (now), with a note.
+  - (b) **my womb**, the Hebrew's words.
+  - No recommendation was given.
 
 **Read with other vowels? Left as written, with a note:** 3:8 "day" (or "sea"); 3:22 "exulting" (or "the grave mound"); 4:17 "before God" (or "more than God"); 5:5 "the snare" (or "the thirsty," as the Greek has it).
 
@@ -189,9 +240,24 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **"And it came to pass" kept:** 1:6 and 1:13, both *one day*, a new time (spec rule 3). 1:5 *va-yehi ki* is inside the running scene and is cut.
 
-**Decisions made, open to you:**
-- **"cursed God" (1:5, 1:11)** for Hebrew *berakh*, "blessed," the scribes' polite substitute. Rendered by the sense, with a note; 2:5 and 2:9 will do the same.
-- **"Satan"** for *ha-satan*, "the accuser," with the article. Kept as the name readers know, with a note that it is a title here.
-- **"the young people" (1:19)** for *ha-ne'arim*, which is "the young men" (servants) in 1:15–17.
-- **v21** set as verse lines, as the one poem in the prose opening.
+**Noted:** v21 is set as verse lines, the one poem in the prose opening.
+
+**Choices for you:**
+- **1:5, 1:11, 2:5, 2:9, *berakh*, "bless", for cursing God** (the scribes' polite substitute)
+  - Now, 1:5: *Perhaps my sons have sinned and cursed God in their hearts.*
+  - Now, 1:11 and 2:5: *and he will surely curse You to Your face.*
+  - Now, 2:9: *Curse God and die.*
+  - (a) **curse**, by the sense (now), with a note.
+  - (b) **bless**, the word as written.
+  - No recommendation was given.
+- **1:6 and on, *ha-satan***
+  - Now, 1:6: *and Satan also came among them.*
+  - (a) **Satan**, the name readers know (now), with a note that it is a title here.
+  - (b) **the accuser**, the title, with the article.
+  - No recommendation was given.
+- **1:19, *ha-ne'arim***
+  - Now: *It fell on the young people, and they are dead.*
+  - (a) **the young people** (now).
+  - (b) **the young men**, as the word reads for the servants in 1:15–17.
+  - No recommendation was given.
 

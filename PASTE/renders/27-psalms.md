@@ -302,8 +302,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** a lament after defeat, "Wake up! Why do You sleep, Lord?" (44); a royal wedding song, "Your throne, O God, is forever and ever" (45); "God is our refuge and strength… Be still, and know that I am God" (46); "God has gone up with a shout" (47).
 
-**Decision made, open to you:**
-- **45:6–7 pronouns.** The king is addressed as *Elohim*, "O God." Rendered "Your throne, O God… the scepter of your kingdom," with the king lowercase as the Old Testament rule has it; Hebrews 1:8–9 applies the verses to the Son, and the note says so. The other readings ("Your throne is God's," "your divine throne") are in the note.
+**Choices for you:**
+- **45:6–7, the king addressed as *Elohim*, "O God"**
+  - Now, 45:6: *Your throne, O God, is forever and ever; / the scepter of your kingdom is a scepter of uprightness.*
+  - Now, 45:7: *therefore God, your God, has anointed you with the oil of gladness above your companions.*
+  - (a) **The king lowercase** (now), as the Old Testament has it; the note says Hebrews 1:8–9 applies the verses to the Son and gives the other readings (*Your throne is God's*, *your divine throne*).
+  - (b) **Capitals for the king**, read as the Son with Hebrews 1:8–9.
+  - No recommendation was given.
 
 **Refrain:** 46:7 and 46:11 identical.
 
@@ -351,9 +356,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Checker:** one flag on the 32:3 note heading ("I kept") is the quoted text, not a note about translating; left as it is.
 
-**Decision made, open to you:**
-- **33:6 "the breath of His mouth"** for *ruach piv*, lowercase. The word table says *ruach* of God is "the Spirit," but here the phrase is "the *ruach* of His mouth," parallel to "the word"; the note gives the Church's reading of Word and Spirit at creation. Capitalized, it would read "by the Spirit of His mouth."
-- **32:8 "with My eye on you"**: God taken as the speaker, so capitalized; the note gives the other view.
+**Choices for you:**
+- **33:6, *ruach piv***
+  - Now: *By the word of the LORD the heavens were made, / and by the breath of His mouth all their host.*
+  - (a) **the breath of His mouth**, lowercase (now): the phrase is *the ruach of His mouth*, parallel to *the word*; the note gives the Church's reading of Word and Spirit at creation.
+  - (b) **the Spirit of His mouth**, by the fixed term for *ruach* of God.
+  - No recommendation was given.
+- **32:8, who is speaking**
+  - Now: *I will instruct you and teach you in the way you should go; / I will counsel you with My eye on you.*
+  - (a) **God as the speaker**, capitalized (now); the note gives the other view.
+  - (b) **The psalmist as the speaker**, lowercase.
+  - No recommendation was given.
 
 **Other readings in the notes:** 31:6 "I hate" (Greek "You hate"); 31:10 "my iniquity" (Greek "my affliction"); 33:7 "a heap" (Greek "a wineskin").
 
@@ -374,10 +387,22 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** "The LORD is my shepherd" (23); "Lift up your heads, you gates… the King of glory" (24); an alphabet prayer, "To You, LORD, I lift up my soul" (25); "I have walked in my integrity" (26).
 
-**Departures, with a note — please confirm:**
-- **23:6 "I will dwell in the house of the LORD."** The Hebrew has *ve-shavti*, "and I will return"; the Greek reads "dwell," as in 27:4. Followed the Greek, the familiar reading.
-- **24:4 "his soul."** The written text has "his soul," the read form "My soul" (God's own, as in "take My name in vain"). The written form is followed, against the spec's read-form rule, since the line describes the worshiper; the note gives the read form. If you want the read form, it would be "who has not lifted up My soul to what is false."
-- **24:6 "God of Jacob."** The Hebrew has only "Jacob"; the Greek and Syriac add "God of."
+**Choices for you:**
+- **23:6, *ve-shavti***
+  - Now: *and I will dwell in the house of the LORD / for length of days.*
+  - (a) **dwell**, the Greek, the familiar reading, as in 27:4 (now), with a note.
+  - (b) **return**, the Hebrew *ve-shavti*, *and I will return*.
+  - No recommendation was given.
+- **24:4, written *his soul*, read *My soul***
+  - Now: *who has not lifted up his soul to what is false*
+  - (a) **his soul**, the written form (now), against the spec's read-form rule, since the line describes the worshiper; the note gives the read form.
+  - (b) **My soul**, the read form (God's own, as in *take My name in vain*): *who has not lifted up My soul to what is false.*
+  - No recommendation was given.
+- **24:6, *God of Jacob***
+  - Now: *who seek Your face, God of Jacob.*
+  - (a) **God of Jacob** (now), as the Greek and Syriac read.
+  - (b) **Jacob**, the Hebrew alone.
+  - No recommendation was given.
 
 **Uncertain lines, with the other reading in the note:** 25:17.
 
@@ -387,8 +412,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** "The heavens declare the glory of God" and the perfect law of the LORD (19); a prayer for the king before battle, "Some trust in chariots" (20), and the thanksgiving after it (21); "My God, my God, why have You forsaken me?" (22).
 
-**Departure from the Leningrad text, with a note — please confirm:**
-- **22:16 "they have pierced my hands and my feet."** The Leningrad text has *ka'ari*, "like a lion," leaving the line without a verb. The Greek, Syriac and Latin read "pierced" (or "dug"), and one of the oldest Hebrew copies, from the Judean Desert, has the verb *ka'aru*. Followed under witness rule 2 (agreement among witnesses, and the line needs a verb). This is the most debated verse in the Psalms; your call if you want the Leningrad reading in the text instead.
+**Choices for you:**
+- **22:16, *ka'ari*** (the most debated verse in the Psalms)
+  - Now: *For dogs surround me; / a company of evildoers encircles me; / they have pierced my hands and my feet.*
+  - (a) **they have pierced** (now): the Greek, Syriac and Latin read *pierced* (or *dug*), and one of the oldest Hebrew copies, from the Judean Desert, has the verb *ka'aru*; followed under witness rule 2 (agreement among witnesses, and the line needs a verb).
+  - (b) **like a lion**, the Leningrad text *ka'ari*, which leaves the line without a verb.
+  - Recommend (a).
 
 **Pronouns:** 21:8–12 addressed to the king, lowercase, since v9 speaks of the LORD in the third person; the note gives the other reading. Psalm 22's speaker lowercase as the Old Testament has it; the notes give the Gospel quotations (Mark 15:34; John 19:24; Hebrews 2:12).
 
@@ -430,12 +459,29 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** "What is man, that You remember him?" (8); the LORD enthroned as judge (9) and the cry against the wicked who says "There is no God" (10), one acrostic poem in two parts.
 
-**Numbering, for your attention:** the Greek, and with it the Ethiopian Psalter, count Psalms 9 and 10 as one psalm, so from Psalm 10 to 147 their numbers run one behind the Hebrew and English (the Ethiopian Psalm 22 is the English 23). The spec says to follow the English, and that is done; the note at 9:1 says so. A reader of the Ethiopian Psalter will find the numbers off by one; a cross-reference line in each psalm's notes could help, if you want it.
+**Numbering:** the Greek, and with it the Ethiopian Psalter, count Psalms 9 and 10 as one psalm, so from Psalm 10 to 147 their numbers run one behind the Hebrew and English (the Ethiopian Psalm 22 is the English 23). The spec says to follow the English, and that is done; the note at 9:1 says so.
 
-**Decisions made, open to you:**
-- **8:5 "little less than God"** for *me-Elohim*; the Greek has "than the angels," which Hebrews 2:7 quotes. The Hebrew is followed.
-- **8:4–6 pronouns** lowercase (*man… the son of man… him*), as Psalm 2.
-- **10:3 "curses"** for *berekh*, the scribes' "bless," as in Job.
+**Choices for you:**
+- **8:5, *me-Elohim***
+  - Now: *Yet You have made him little less than God / and crown him with glory and honor.*
+  - (a) **than God**, the Hebrew (now).
+  - (b) **than the angels**, the Greek, which Hebrews 2:7 quotes.
+  - No recommendation was given.
+- **8:4–6, pronouns**
+  - Now, 8:4: *what is man, that You remember him, / and the son of man, that You visit him?*
+  - (a) **Lowercase** (now), as Psalm 2.
+  - (b) **Capitals**, read with Hebrews 2:6–9 as Jesus.
+  - No recommendation was given.
+- **10:3, *berekh*, "bless", for cursing**
+  - Now: *and the greedy man curses and despises the LORD.*
+  - (a) **curses**, by the sense (now), as in Job.
+  - (b) **blesses**, the word as written.
+  - No recommendation was given.
+- **The 9–10 numbering in the notes**
+  - Now: one note, at 9:1, says the Greek and the Ethiopian Psalter count 9 and 10 as one psalm.
+  - (a) **That note only** (now).
+  - (b) **A cross-reference line in each psalm's notes**, so a reader of the Ethiopian Psalter can find the number.
+  - No recommendation was given.
 
 ## Psalms 4–7 — rendered 2026-10-07, 2:16 PM CDT
 
@@ -457,11 +503,26 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** the two ways, the righteous and the wicked (1); the LORD's anointed king, "You are My son" (2); David fleeing from Absalom, "Salvation belongs to the LORD" (3).
 
-**Decisions made, open to you:**
-- **Pronouns in Psalm 2.** The anointed king is lowercase (*His anointed… My king… You are My son… Kiss the son, or he will be angry*), following the spec: an Old Testament passage keeps its own pronouns, and the New Testament quotations capitalize. Capitalizing the son here would read the psalm through Acts and Hebrews.
-- **2:12 "Kiss the son"** for *nashqu var*: *bar* is Aramaic for "son." The Greek has "take hold of instruction." Noted with the other readings.
-- **"Selah"** kept in italics at the end of the line, where the Hebrew puts it, with one note at 3:2. No spec rule yet.
-- **1:2 *torah*** rendered "law," with "instruction" in the note.
+**Noted:** *Selah* is kept in italics at the end of the line, where the Hebrew puts it, with one note at 3:2 (no spec rule yet).
+
+**Choices for you:**
+- **Psalm 2, pronouns for the anointed king**
+  - Now, 2:2: *against the LORD and against His anointed*
+  - Now, 2:7: *He said to me, "You are My son; today I have fathered you.*
+  - Now, 2:12: *Kiss the son, or he will be angry*
+  - (a) **Lowercase** (now): an Old Testament passage keeps its own pronouns; the New Testament quotations capitalize.
+  - (b) **Capitals** for the son, which would read the psalm through Acts and Hebrews.
+  - No recommendation was given.
+- **2:12, *nashqu var***
+  - Now: *Kiss the son, or he will be angry*
+  - (a) **Kiss the son** (now): *bar* is Aramaic for *son*; the note gives the other readings.
+  - (b) **take hold of instruction**, the Greek.
+  - No recommendation was given.
+- **1:2, *torah*** (the *torah* question is open across books; `NOTES_FOR_ANDREW.md`, 2026-10-01 and 2026-10-07)
+  - Now: *but his delight is in the law of the LORD, / and on His law he meditates day and night.*
+  - (a) **law** (now), with *instruction* in the note.
+  - (b) **instruction**, as Exodus through Joshua, Chronicles and Nehemiah have it.
+  - No recommendation was given.
 
 **No "And" starts.**
 
