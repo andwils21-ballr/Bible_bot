@@ -2,6 +2,190 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 51–54 — rendered 2026-10-16, 6:04 AM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 51:19; 52:5, 15; 53:1, 8, 11; 54:11–12, 15.
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- No sentence starts with *And*. 53:1 is one question, *Who has believed what we have heard, and to whom has the arm of the LORD been revealed?*
+- *ve-attah*: 52:5 *So now*.
+- *hinneh*: 51:22 cut; 52:6 *here I am* (*hineni*, the LORD presenting Himself); 52:13 cut; 54:11 *I am about to set* (God's *hinneh* with a participle); 54:16 cut.
+- *hen*: 54:15 cut.
+
+**Read forms followed:**
+- 52:5 *mah li*, "what do I have here": the written form is *mi li*, "who do I have here," and the note gives both.
+- No note, because the meaning is the same: 52:2 *hitpattechi*; 52:5 *moshlav*; 54:16 *hinneh*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 7:11, 9:11, 11:30, 12:2, 13:10, 28:14, 47:4; Exodus 12:11, 14:19; Leviticus 4:6, 5:6, 16:14, 16:22; Numbers 25:12; 2 Kings 9:30; Ezra 1:7; Psalms 59:3, 60:3, 75:8; Ecclesiastes 12:1 (Hebrew); Matthew 8:17.
+- Isaiah 2:3, 6:1, 8:16, 11:1, 11:10, 27:1, 30:7, 33:10, 35:10, 40:9, 42:6, 44:3, 44:28, 45:13, 46:4, 47:1, 48:19, 49:6, 50:1, 50:4, 50:8, 50:9.
+- Not yet rendered here, so quoted from the source: Ezekiel 27:16 (Hebrew); John 6:45, 12:38; Acts 8:27–35; Romans 2:24, 10:15, 10:16, 15:21; 2 Corinthians 6:17; Galatians 4:26–27; 1 Peter 2:22, 2:24; Luke 22:37 (SBLGNT).
+- Earlier notes in other books that quote these chapters differ in wording in five places: Tobit 13:16–17, Psalm 38:13–14, and Matthew 3:9, 20:28 and 27:57. These are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+- One fix in an earlier Isaiah chapter: the 46:4 note now says *pains*, to match 53:4.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *hen* and *ve-attah* in chapters 51–54, and every written form that differs from its read form.
+  - 51:9 *mecholelet* and 53:5 *mecholal* (one root); 53:3–4 *makh'ovot*, *choli*; 53:6, 12 *paga*; 53:10 *chafets*, *chefets*; Psalm 59:3 *yaguru*.
+- Swete's Greek: Isaiah 51:4, 9, 14, 16, 19, 20; 52:5, 7, 14, 15; 53:1–5, 8–12; 54:1, 11, 12, 13, 15, 17.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **51:** *Look to the rock from which you were hewn*; the arm of the LORD called to wake as at the sea; Jerusalem told to rise from the cup of wrath, which passes to her tormentors.
+- **52:** *Awake, awake… Zion*; *How beautiful on the mountains are the feet of him who brings good news*; *Depart, depart*; the servant who will *rise high and be lifted up*.
+- **53:** the servant despised and pierced, who *carried our sicknesses*, led like a lamb to the slaughter, cut off, and who *will make the many righteous*.
+- **54:** the barren one told to sing; the LORD her husband; the oath like Noah's; the city of jewels; *all your sons will be disciples of the LORD*.
+
+### Isaiah 51: Awake, Awake
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *maqqevet bor nuqqartem* "the hollow of the pit you were dug" | the quarry from which you were dug |
+| 2 | *techolelkhem* "who writhed with you" | who bore you |
+| 2 | *va-arbehu* | and made him many (note) |
+| 3 | *ki nicham* | For the LORD comforts |
+| 4 | *torah* | instruction (2:3; note) |
+| 4 | *argia* "I will make rest" | I will set |
+| 5 | *u-zero'ai* | and My arms |
+| 6 | *nimlachu* | will vanish |
+| 6 | *kemo khen* | in the same way |
+| 6 | *lo techat* "will not be shattered" | will not be broken |
+| 7 | *chelpat enosh* | the reproach of men |
+| 8 | *sas* | the worm |
+| 9 | *Rahav… tannin* | Rahab… the dragon (27:1; note) |
+| 9 | *mecholelet* | who pierced (53:5; note) |
+| 10 | *mei tehom rabbah* | the waters of the great deep (Genesis 7:11; note) |
+| 11 | (whole verse) | as 35:10 (note) |
+| 13 | *va-tefached tamid* | you live in dread continually |
+| 13 | *ka'asher konen* "as he made ready" | when he sets himself |
+| 14 | *tso'eh* "the one bent over" | The one bowed down |
+| 14 | *la-shachat* | to the pit |
+| 17 | *qubba'at kos ha-tar'elah* | the bowl, the cup of reeling (Psalm 60:3; note) |
+| 17 | *shatit matsit* "you drank, you drained" | and drained it |
+| 19 | *mi yanud lakh* | who will grieve with you? |
+| 19 | *mi anachamekh* "who — I will comfort you" | ***KEPT AS IS*** by whom shall I comfort you? (note) |
+| 20 | *ke-to mikhmar* | like an antelope in a net |
+| 22 | *yariv ammo* | who pleads the cause of His people |
+| 23 | *shechi ve-na'avorah* | Bow down, that we may pass over |
+
+### Isaiah 52: How Beautiful on the Mountains
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *arel ve-tame* | the uncircumcised and the unclean |
+| 2 | *qumi shevi* "arise, sit" | rise up, sit enthroned (47:1; note) |
+| 2 | *shevi'ah bat Tsiyyon* | captive daughter of Zion |
+| 3 | *chinnam* | for nothing (note) |
+| 4 | *la-gur* | to live there as guests (Genesis 47:4; note) |
+| 4 | *be-efes* "for nothing" | for nothing |
+| 5 | *mah li fo* (read form) | what do I have here (note) |
+| 5 | *yehelilu* | howl |
+| 5 | *mino'ats* | is despised |
+| 6 | *hineni* | here I am |
+| 7 | *mevasser* | him who brings good news (40:9; note) |
+| 7 | *malakh Elohayikh* | Your God reigns |
+| 8 | *ayin be-ayin* | eye to eye |
+| 11 | *mi-tokhah* | from the middle of her |
+| 11 | *hibbaru* | purify yourselves |
+| 12 | *be-chippazon* | in haste (Exodus 12:11; note) |
+| 12 | *me'assifkhem* "your gatherer" | your rear guard |
+| 13 | *yaskil* | will act wisely |
+| 13 | *yarum ve-nissa ve-gavah* | he will rise high and be lifted up, and be very exalted (6:1; 33:10; note) |
+| 14 | *alekha… mar'ehu* "at you… his appearance" | at you… his appearance (the Hebrew changes person) |
+| 14 | *mishchat* | marred |
+| 15 | *yazzeh* | he will sprinkle (choice below) |
+| 15 | *yiqpetsu… pihem* | will shut their mouths |
+
+### Isaiah 53: He Carried Our Sicknesses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *li-shemu'atenu* "our report" | what we have heard (note) |
+| 2 | *lefanav* | before Him (choice below) |
+| 2 | *ka-yoneq* | like a young plant (note) |
+| 2 | *me-erets tsiyyah* | out of dry ground |
+| 3 | *chadal ishim* | forsaken by men |
+| 3 | *ish makh'ovot vi-yedua choli* | a man of pains, and acquainted with sickness (v4; note) |
+| 3 | *u-khe-master panim mimmennu* | like one from whom people hide their faces |
+| 4 | *cholayenu hu nasa u-makh'ovenu sevalam* | he carried our sicknesses and bore our pains (note) |
+| 4 | *nagua mukkeh Elohim* | stricken, struck down by God |
+| 5 | *mecholal* | pierced (51:9; note) |
+| 5 | *musar shelomenu* "the discipline of our peace" | the chastisement that brought us peace |
+| 5 | *u-va-chavurato* "and by his welt" | and by his wounds (note) |
+| 6 | *hifgia bo* "made fall on him" | has laid on him (v12; note) |
+| 8 | *me-otser u-mi-mishpat* | By oppression and judgment |
+| 8 | *ve-et doro mi yesoche'ach* "and his generation who will consider" | ***KEPT AS IS*** and as for his generation, who considered (the line is obscure) |
+| 8 | *nega lamo* "a blow to them" | stricken (choice below) |
+| 9 | *va-yitten* "and he gave" | His grave was made (no subject in the Hebrew; note) |
+| 9 | *be-motav* "in his deaths" | in his death (note) |
+| 10 | *chafets dakk'o* | was pleased to crush him |
+| 10 | *hecheli* | He made him sick |
+| 10 | *im tasim asham nafsho* | When his soul makes a guilt offering (choice below) |
+| 10 | *zera* | offspring |
+| 11 | *yir'eh* | he will see (choice below) |
+| 11 | *yatsdiq tsaddiq avdi la-rabbim* | the righteous one, My servant, will make the many righteous (50:8; note) |
+| 12 | *achalleq lo va-rabbim* | I will give him a portion among the many |
+| 12 | *he'erah la-mavet nafsho* "he laid bare his soul to death" | he poured out his soul to death |
+| 12 | *yafgia* | intercedes (v6; note) |
+
+### Isaiah 54: Sing, Barren One
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *aqarah* | barren one (Genesis 11:30; note) |
+| 1 | *shomemah… be'ulah* | the desolate one… the married one |
+| 2 | *al tachsokhi* | do not hold back |
+| 3 | *tifrotsi* | you will burst out (Genesis 28:14; note) |
+| 3 | *yoshivu* | will people |
+| 5 | *bo'alayikh osayikh* (plural forms) | your Maker is your husband (note) |
+| 6 | *eshet ne'urim* | a wife of one's youth |
+| 8 | *be-shetsef qetsef* | In a flood of anger (note) |
+| 8 | *chesed olam* | everlasting loyal love |
+| 9 | *ki mei Noach zot li* | For this is like the waters of Noah to Me |
+| 10 | *berit shelomi* | My covenant of peace (Numbers 25:12; note) |
+| 11 | *so'arah* | storm-tossed |
+| 11 | *marbits ba-pukh* "making lie down in antimony" | set… in antimony (2 Kings 9:30; note) |
+| 12 | *shimshotayikh* "your suns" | your battlements |
+| 12 | *kadkod… avnei eqdach* | ***KEPT AS IS*** rubies… sparkling stones (the gems are not known; note) |
+| 13 | *limmudei YHWH* | disciples of the LORD (8:16; 50:4; note) |
+| 15 | *gor yagur* | stirs up strife (choice below) |
+| 16 | *mashchit le-chabbel* | the ravager to destroy |
+| 17 | *tarshi'i* | you will condemn |
+| 17 | *tsidqatam* | their righteousness |
+
+**Left standing on purpose:**
+- 51:19, *by whom shall I comfort you?*: the LORD's own question, in the first person.
+- 53:8, *as for his generation, who considered*: the line is obscure.
+- 54:12, *rubies… sparkling stones*: the gems are not known.
+
+**Choices for you:**
+- **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
+  - **(a) "sprinkle"** (in the text now): the priest's verb (Leviticus 4:6; 16:14).
+  - **(b) "startle"** (or *many nations will marvel at him*): the Greek, which matches *appalled* in v14 and the kings' shut mouths.
+  - Recommend **(a)**. It is what the Hebrew word means, and the note gives the Greek.
+- **53:2, *lefanav*** — *He grew up before Him like a young plant.*
+  - **(a) "before Him"** (in the text now): before the LORD, whose arm is named in v1.
+  - **(b) "before him"** or *before us*: the observer, or an unnamed one. The Hebrew does not say.
+  - Recommend **(a)**.
+- **53:8, *nega lamo*** — *who considered that he was cut off from the land of the living, stricken for the transgression of my people?*
+  - **(a) "stricken"** (in the text now): *lamo* as "to him," a poetic singular.
+  - **(b) "the blow was theirs"**: *lamo* as its usual plural, "to them."
+  - Recommend **(a)**. The whole chapter is about the one who was struck.
+- **53:10, *im tasim asham nafsho*** — *When his soul makes a guilt offering, he will see offspring.*
+  - **(a) "When his soul makes a guilt offering"** (in the text now): *nafsho* as the subject.
+  - **(b) "When you make his soul a guilt offering"**: *tasim* as "you," spoken to God or to the reader.
+  - Recommend **(a)**. The servant is the one acting through vv10–12.
+- **53:11, *yir'eh*** — *Out of the anguish of his soul he will see and be satisfied.*
+  - **(a) "he will see"** (in the text now): the Hebrew, with no object.
+  - **(b) "he will see light"**: the Greek has *to show him light*.
+  - Recommend **(a)**, with the Greek in the note.
+- **54:15, *gor yagur*** — *If anyone stirs up strife, it is not from Me; whoever stirs up strife with you will fall because of you.*
+  - **(a) "stirs up strife"** (in the text now): *gur* as "attack" (Psalm 59:3).
+  - **(b) "lives as a guest"**: the fixed term for *gur*. The Greek reads it this way: *proselytes will come to you through Me*.
+  - Recommend **(a)**, because the line ends *will fall because of you*.
+
 ## Isaiah 47–50 — rendered 2026-10-12, 12:52 PM CDT
 
 **Source:**
