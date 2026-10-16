@@ -242,7 +242,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 13 | *yarum ve-nissa ve-gavah* | he will rise high and be lifted up, and be very exalted (6:1; 33:10; note) |
 | 14 | *alekha… mar'ehu* "at you… his appearance" | at you… his appearance (the Hebrew changes person) |
 | 14 | *mishchat* | marred |
-| 15 | *yazzeh* "he will sprinkle" | he will startle (the Greek; decided 2026-10-16; note) |
+| 15 | *yazzeh* "he will sprinkle" | so many nations will marvel at him (the Greek; decided 2026-10-16; note) |
 | 15 | *yiqpetsu… pihem* | will shut their mouths |
 
 ### Isaiah 53: He Carried Our Sicknesses
@@ -308,7 +308,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 54:12, *rubies… sparkling stones*: the gems are not known.
 
 **Choices for you:**
-- ✅ Decided 2026-10-16: (b), **startle**; now in the text (`PASTE/changes/34-isaiah.md`). Other wordings to be discussed. **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
+- ✅ Decided 2026-10-16: (b), in the Greek's words, **so many nations will marvel at him** (`PASTE/changes/34-isaiah.md`). **52:15, *yazzeh*** — *so he will sprinkle many nations; kings will shut their mouths because of him.*
   - **(a) "sprinkle"** (in the text now): the priest's verb (Leviticus 4:6; 16:14).
   - **(b) "startle"** (or *many nations will marvel at him*): the Greek, which matches *appalled* in v14 and the kings' shut mouths.
   - Recommend **(a)**. It is what the Hebrew word means, and the note gives the Greek.

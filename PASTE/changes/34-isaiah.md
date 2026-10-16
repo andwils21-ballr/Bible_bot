@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 52:15, wording (2026-10-16)
+
+**Request:** Andrew asked for wordings that read more naturally than *startle*, and chose the Greek's own words, *so many nations will marvel at him*, which pairs with v14's *As many were appalled at you*.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 52:15 | so he will startle many nations; | so many nations will marvel at him; |
+| Isaiah 52, note v15 | **"so he will startle many nations"** — the reading of the Greek, *so many nations will marvel at him*, which… | **"so many nations will marvel at him"** — the reading of the Greek, which… |
+
 ## Isaiah 52:15, *yazzeh* (2026-10-16)
 
 **Request:** Andrew's ruling on the Isaiah 51–54 choices: (b) for 52:15, with other wordings still to be discussed. The options were (a) **sprinkle**, the Hebrew verb's sense everywhere else (Leviticus 4:6; 16:14), and (b) **startle**, following the Greek *so many nations will marvel at him*, which answers *appalled* in v14 and the kings' shut mouths.
