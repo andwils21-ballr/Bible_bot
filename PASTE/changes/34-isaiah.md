@@ -9,7 +9,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Where | Before | After |
 |---|---|---|
 | Isaiah 52:15 | so he will sprinkle many nations; | so he will startle many nations; |
-| Isaiah 52, note v15 | **"so he will sprinkle many nations"** — *yazzeh*, the verb of the priest who *sprinkles*… The Greek has *so many nations will marvel at him*… | **"so he will startle many nations"** — the reading of the Greek, *so many nations will marvel at him*… The Hebrew is *yazzeh*, everywhere else the verb of the priest who *sprinkles*…: *so he will sprinkle many nations*. |
+| Isaiah 52, note v15 | **"so he will sprinkle many nations"** — *yazzeh*, the verb of the priest who *sprinkles*… The Greek has *so many nations will marvel at him*… | **"so he will startle many nations"** — the reading of the Greek, *so many nations will marvel at him*… The Hebrew is *yazzeh*, the verb of the priest who *sprinkles*…: *so he will sprinkle many nations*. |
 
 ## Spot-check fixes in Isaiah 31–34 (2026-10-12)
 
