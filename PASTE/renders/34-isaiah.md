@@ -52,7 +52,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *mafgia* | no one to intercede (53:12; note) |
 | 17 | *qin'ah* | zeal |
 | 18 | *ke-al gemulot ke-al* "according to deeds, according to" | According to their deeds, so |
-| 19 | *ki yavo kha-nahar tsar, ruach YHWH nosesah vo* | for He will come like a rushing stream that the Spirit of the LORD drives on (choice below) |
+| 19 | *ki yavo kha-nahar tsar, ruach YHWH nosesah vo* | for He will come like a rushing stream that the Spirit of the LORD drives on (decided; see `PASTE/decided/34-isaiah.md`) |
 | 20 | *go'el* | A Redeemer (note) |
 
 ### Isaiah 60: Arise, Shine
@@ -120,26 +120,25 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 
-- **59:19, *ki yavo kha-nahar tsar, ruach YHWH nosesah vo***
-  - Now: *for He will come like a rushing stream that the Spirit of the LORD drives on*
-  - (a) **like a rushing stream that the Spirit of the LORD drives on** (now): *tsar* as "narrow, rushing," said of the stream; the LORD comes like a flood.
-  - (b) **when the adversary comes like a river, the Spirit of the LORD will lift a banner against him**: *tsar* as "adversary," *nosesah* from *nes*, "banner."
-  - Recommend (a): vv15–18 are about the LORD coming to repay, and the Greek also has the LORD's wrath coming *like a violent river*.
 - **61:8, *gazel be-olah***
-  - Now: *I hate robbery with a burnt offering*
-  - (a) **robbery with a burnt offering** (now): the Hebrew vowels; a sacrifice brought from stolen goods.
-  - (b) **robbery with wrongdoing**: the same letters read *be-avlah*; the Greek has *robbery from injustice*.
-  - Recommend (a): it is the Hebrew as read, and it fits the LORD who *loves justice* rejecting a gift taken by theft.
+  - Now (v7): *Instead of your shame there will be a double portion; instead of disgrace they will rejoice in their portion; therefore in their land they will possess a double portion; everlasting joy will be theirs.*
+  - Now (v8): *For I, the LORD, love justice; I hate robbery with a burnt offering; I will faithfully give them their reward, and make an everlasting covenant with them.*
+  - (a) **"I hate robbery with a burnt offering"** (now): God hates it when people steal and then bring what they stole to the altar as an offering, worship paid for by theft. This is what the Hebrew vowels say, and Isaiah has attacked offerings that cover injustice before (1:11; 58:3–7).
+  - (b) **"I hate robbery and wrongdoing"**: God hates the robbery done to His people, and so He pays them back (*I will faithfully give them their reward*). The same Hebrew letters, with other vowels, spell *avlah*, "wrongdoing," and the Greek reads it this way (*robbery from injustice*).
+  - Recommend (b): set in vv7–8, the line gives the reason God repays His people double for their shame, and *burnt offering* breaks that thought. (a) is the Hebrew as voweled; the note would give it.
 - **62:4, *Cheftsi-vah… Be'ulah***
-  - Now: *but you will be called My Delight Is in Her, and your land Married*
-  - (a) **My Delight Is in Her… Married** (now): the meanings, set against *Forsaken* and *Desolate* in the same verse, as the Hebrew sets them.
-  - (b) **Hephzibah… Beulah**: the names as written, with the meanings in the note (2 Kings 21:1 has *Hephzibah* as a name, and its note quotes this verse that way).
-  - Recommend (a): *Forsaken* and *Desolate* are already given as meanings, and the reader needs to hear the pair turned around.
+  - Now (v4): *You will no longer be called Forsaken, and your land will no longer be called Desolate; but you will be called My Delight Is in Her, and your land Married; for the LORD delights in you, and your land will be married.*
+  - What the question is: in Hebrew all four names are ordinary words. Jerusalem was called *Azuvah*, "Forsaken," and her land *Shemamah*, "Desolate." God renames her *Cheftsi-vah*, "My delight is in her," and her land *Be'ulah*, "married." The King James Bible translated the old names (*Forsaken*, *Desolate*) but left the new ones in Hebrew, *Hephzibah* and *Beulah*.
+  - (a) **"My Delight Is in Her… Married"** (now): translate the new names, as the old ones are translated, so the reader hears *Forsaken* turned into *My Delight* and *Desolate* into *Married*.
+  - (b) **"Hephzibah… Beulah"**: keep the new names in Hebrew, *you will be called Hephzibah, and your land Beulah*, with the meanings in the note. *Hephzibah* is also a real woman's name, the mother of King Manasseh (2 Kings 21:1).
+  - Recommend (a): the point of the verse is the reversal, and in (b) the reader cannot hear it without the note.
 - **62:5, *yiv'alukh banayikh***
-  - Now: *For as a young man marries a virgin, so your sons will marry you*
-  - (a) **your sons will marry you** (now): the Hebrew vowels; the people take the land as a bride (*your land will be married*, v4). This is the same word as 49:17, decided as *your sons*.
-  - (b) **your Builder will marry you**: the same letters read *bonayikh*; the LORD marries the city, as the next line says, *so your God will rejoice over you*.
-  - Recommend (a), as at 49:17, with (b) in the note.
+  - Now (v4, end): *for the LORD delights in you, and your land will be married.*
+  - Now (v5): *For as a young man marries a virgin, so your sons will marry you; and as the bridegroom rejoices over the bride, so your God will rejoice over you.*
+  - What the question is: Jerusalem is pictured as a bride. *Your sons will marry you* has the city's own sons marrying their mother, which is an odd picture. The Hebrew letters *bnyk* can be read two ways.
+  - (a) **"so your sons will marry you"** (now): the Hebrew vowels, *banayikh*, and the Greek (*so your sons will live with you*). The people come back and "marry" the land, settle it and make it theirs, as v4 just said, *your land will be married*.
+  - (b) **"so your Builder will marry you"**: the same letters read *bonayikh*. Then both halves of the verse say one thing: God is the groom, as in 54:5, *your Maker is your husband*, and *The LORD builds up Jerusalem* (Psalm 147:2). No ancient witness reads it this way.
+  - Recommend (a): every witness has *sons*, and v4 has already set up the land as the bride. (b) reads more smoothly, and the note gives it.
 
 ## Isaiah 55–58 — rendered 2026-10-16, 7:49 AM CDT
 

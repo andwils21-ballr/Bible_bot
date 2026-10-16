@@ -2,6 +2,14 @@
 
 Choices Andrew has ruled on, moved here from `PASTE/renders/34-isaiah.md` once marked ✅, under the heading of the run that raised them. Newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
+
+- ✅ Decided 2026-10-16: (a), as the text has it. **59:19, *ki yavo kha-nahar tsar, ruach YHWH nosesah vo***
+  - Now: *for He will come like a rushing stream that the Spirit of the LORD drives on*
+  - (a) **like a rushing stream that the Spirit of the LORD drives on** (now): *tsar* as "narrow, rushing," said of the stream; the LORD comes like a flood.
+  - (b) **when the adversary comes like a river, the Spirit of the LORD will lift a banner against him**: *tsar* as "adversary," *nosesah* from *nes*, "banner."
+  - Recommend (a): vv15–18 are about the LORD coming to repay, and the Greek also has the LORD's wrath coming *like a violent river*.
+
 ## Isaiah 55–58 — rendered 2026-10-16, 7:49 AM CDT
 
 - ✅ Decided 2026-10-16: (a), as the text has it. **57:5, *ba-elim***
