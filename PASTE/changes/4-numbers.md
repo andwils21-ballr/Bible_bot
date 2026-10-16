@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 10:30–31, who is speaking (2026-10-16)
+
+**Request:** Andrew: name who *he* is in 10:29–32, so it is obvious when the father-in-law is speaking. The Hebrew has *he said* in both verses (readability pass, item 5). *Hobab* is named rather than *his father-in-law*, because whether Hobab or Reuel is the father-in-law is the open question in the v29 note.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 10:30 | But he said to him, "I will not go… | But Hobab said to him, "I will not go… |
+| Numbers 10:31 | He said, "Please do not leave us… | Moses said, "Please do not leave us… |
+
 ## Numbers 8:19 (2026-10-16)
 
 **Request:** Andrew could not picture what 8:19 describes. Two causes: *wholly given* stood in v19, where the Hebrew has *netunim* once (the doubled *netunim netunim*, "wholly given," is v16); and nothing told the reader the Levites stand between the people and the holy place. Andrew approved both changes (2026-10-16).
