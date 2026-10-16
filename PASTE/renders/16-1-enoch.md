@@ -19,7 +19,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** none new.
 
-**Choices for you:** none new. Still open from earlier runs: 105:2 *My Son* (105–106 report); choice #1 of the 72 report; 51:4, 57:1, 62:5, 71:14.
+**Choices for you:** none new.
 
 ## 1 Enoch 105–106 (Enoch loop, run 24, 2026-09-26)
 
@@ -42,7 +42,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:** 106:13, *from the height of heaven*, as the Ge'ez has it.
 
 **Choices for you:**
-1. **105:2, "I and My Son."** The Lord is the speaker, and the Ge'ez is *ʾana wa-waldəya*. Capitalized, *My Son* reads as the Son of God, which is how an Ethiopian Orthodox reader will hear it. Charles prints *my son*, leaving it open who is meant. **Now:** *My Son*, with a note citing John 14:23 and Psalm 2:7. **Recommendation:** keep *My Son*. The speaker is the Lord and every pronoun for Him is capitalized. The alternative is *my son* with a note. This is the same kind of choice as 71:14.
+- **105:2, *ʾana wa-waldəya*, "I and My Son"** (the Lord is the speaker)
+  - Now: *For I and My Son will be joined with them forever in the paths of uprightness in their lives*
+  - (a) **My Son** (now), with a note citing John 14:23 and Psalm 2:7: it reads as the Son of God, which is how an Ethiopian Orthodox reader will hear it.
+  - (b) **my son**, with a note, as Charles prints it, leaving it open who is meant.
+  - Recommend (a): the speaker is the Lord and every pronoun for Him is capitalized. The same kind of choice as 71:14.
 
 ## 1 Enoch 103–104 (Enoch loop, run 23, 2026-09-26)
 
@@ -63,7 +67,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 103:9, 103:14, 104:3: the EOTC as it stands. At 103:14 and 104:3 the EOTC has *angels* where Charles has *rulers*; the EOTC's reading is kept both times and at 100:10.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 103–104).
+**Choices for you:** none new.
 
 ## 1 Enoch 100–102 (Enoch loop, run 22, 2026-09-26)
 
@@ -87,7 +91,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 100:11 and 101:1, the EOTC as it stands. 102:5 and 102:11 are readings, not certainties: 102:5 follows the Greek's sense of a hard Ge'ez clause, and 102:11 follows Charles on who is speaking. Both notes say so.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 100–102).
+**Choices for you:** none new.
 
 ## 1 Enoch 98–99 (Enoch loop, run 21, 2026-09-26)
 
@@ -111,7 +115,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 98:5, 98:7, 99:5: the EOTC as it stands. 98:15: the one place in this run where the Ge'ez could not be rendered with confidence; the English gives Charles's sense and the note says so.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 98–99).
+**Choices for you:** none new.
 
 ## 1 Enoch 94–97 (Enoch loop, run 20, 2026-09-26)
 
@@ -137,7 +141,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 96:3, 96:5, 97:4, 97:6: the EOTC as it stands.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 94–97).
+**Choices for you:** none new.
 
 ## 1 Enoch 91–93 (Enoch loop, run 19, 2026-09-26)
 
@@ -157,7 +161,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 91:15, the Ge'ez as it stands.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 91–93).
+**Choices for you:** none new.
 
 ## 1 Enoch 90 (Enoch loop, run 18, 2026-09-26)
 
@@ -179,7 +183,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** none.
 
-**Choices for you:** none new; 90:1 is another case under choice #1 of the 72 report. **For your attention:** 90:38 — the EOTC says the first of the white bulls *became a word, and that word became a great beast*. Charles, judging the text corrupt, prints *a lamb*. The English follows the EOTC and the note gives both.
+**Choices for you:** (90:1 falls under the choice in the 1 Enoch 72 report)
+- **90:38, *became a word***
+  - Now: *The first among them became a word, and that word became a great beast with great black horns on its head*
+  - (a) **a word**, the EOTC (now), with the note giving both.
+  - (b) **a lamb**, Charles, who judges the text corrupt.
+  - No recommendation was given; the English follows the EOTC.
 
 ## 1 Enoch 89 (Enoch loop, run 17, 2026-09-26)
 
@@ -204,7 +213,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 89:10 *hobay* and *foqanas*; 89:54 "gave up His place".
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 89).
+**Choices for you:** none new.
 
 ## 1 Enoch 86–88 (Enoch loop, run 16, 2026-09-26)
 
@@ -222,7 +231,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 88:3, the Ge'ez as it stands.
 
-**Choices for you:** none new; 87:2 is another case under choice #1 of the 72 report, still open.
+**Choices for you:** none new. (87:2 falls under the choice in the 1 Enoch 72 report.)
 
 ## 1 Enoch 83–85 (Enoch loop, run 15, 2026-09-26)
 
@@ -242,7 +251,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** none.
 
-**Choices for you:** none new; choice #1 of the 72 report still open.
+**Choices for you:** none new.
 
 ## 1 Enoch 82 (Enoch loop, run 14, 2026-09-26)
 
@@ -262,7 +271,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 82:16 "sorrow"; the chapter's abrupt end after the second season (noted).
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 82).
+**Choices for you:** none new.
 
 ## 1 Enoch 79–81 (Enoch loop, run 13, 2026-09-26)
 
@@ -283,7 +292,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 80:5, the Ge'ez as it stands.
 
-**Choices for you:** none new; choice #1 of the 72 report still open (no case in 79–81).
+**Choices for you:** none new.
 
 ## 1 Enoch 76–78 (Enoch loop, run 12, 2026-09-26)
 
@@ -316,9 +325,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 - **76:10** "whose name is Sea"; **77:7** "and there, they say, is the desert"; **78:4** and **78:17**: the Ge'ez as it stands, sense uncertain.
 
-### Choices for you
-
-None new. Choice #1 of the 72 report (numbers against the text's arithmetic) is still open; 78:7 is one more case under it.
+**Choices for you:** none new. (78:7 falls under the choice in the 1 Enoch 72 report.)
 
 ## 1 Enoch 73–75 (Enoch loop, run 11, 2026-09-26)
 
@@ -373,15 +380,13 @@ None new. Choice #1 of the 72 report (numbers against the text's arithmetic) is 
 - **74:12** "The moon brings in the years exactly": the EOTC's word, which conflicts with vv11 and 14. It is a word, not a number, so choice #1 of the 72 report does not cover it; Charles's *the sun and the stars* is noted.
 - **74:14** "because it is increased in its going out by sixty-two days": the sense is uncertain.
 
-### Choices for you
-
-None new. Choice #1 in the 72 report (numbers that break the text's arithmetic) is still open; none of 73–75 needed it.
+**Choices for you:** none new.
 
 ## 1 Enoch 72 (Enoch loop, run 10, 2026-09-26)
 
 **Landed:** 1 Enoch 72, the first chapter of the Astronomical Book (72–82): the six gates of the sun in the east and the west, the length of day and night in eighteen parts month by month, and the 364-day year. From here there is no Knibb Ge'ez and no OCP English. The text rests on the EOTC, with Charles for meaning (the Greek has 77–78 only).
 
-**A decision that affects the whole Astronomical Book (72–82):** three numbers or words in the EOTC here break the chapter's own arithmetic (72:25, 26, 28). The English follows the reading the arithmetic requires, which is also Charles's, and a note gives the EOTC's reading. The alternative is to print the EOTC's word as it stands, with a note. The same question will come up again in 73–82. See **Choices for you**, #1.
+**Widespread:** the choice below, on numbers that break the text's own arithmetic, reaches the whole Astronomical Book (72–82) and Jubilees.
 
 ### 1 Enoch 72: The Sun and the Gates of Heaven
 
@@ -418,19 +423,15 @@ None new. Choice #1 in the 72 report (numbers that break the text's arithmetic) 
 - **72:34** "day draws near to day, and night to night": the Ge'ez as it stands.
 - **72:35** "it returns sixty times": the Ge'ez as it stands, and Charles has the same.
 
-### Choices for you
-
-**1. When the EOTC's numbers break the text's own arithmetic, what goes in the English?** This affects the whole Astronomical Book (72–82) and possibly later chapters with numbers. The three cases in 72:
-- **72:25** EOTC *because of my sign*; vv13, 19 and 31 have *its sign*, one letter different.
-  - Now: *…rises in the first gate for thirty-one mornings, because of its sign…*
-- **72:26** EOTC night *twelve* parts, day *seven*, in the same verse that says *the night… becomes double the day*.
-  - Now: *…the night is exactly twelve parts and the day six parts.*
-- **72:28** EOTC night *eleven* parts, day *one*.
-  - Now: *…the night is eleven parts and the day seven parts.*
-- The options:
-  - (a) **Follow the arithmetic** (in the text now): print what the chapter's own sums require (and Charles has), and give the EOTC's reading in a note.
-  - (b) **Follow the EOTC as it stands**: print *my sign*, *seven*, *one*, and give the arithmetic in a note.
-- Recommendation: **(a)**. Each case is a single word, the chapter itself shows the right number, and a reader meeting "day one part" would stop there. The note keeps the EOTC's reading visible. If you choose (b), every case is listed in the note of the verse it belongs to, so the switch is quick.
+**Choices for you:**
+- **When the EOTC's numbers break the text's own arithmetic, what goes in the English?** (reaches across books: the whole Astronomical Book, 72–82, and Jubilees)
+  - Now, 72:25: *rises in the first gate for thirty-one mornings, because of its sign* (EOTC *because of my sign*; vv13, 19 and 31 have *its sign*, one letter different)
+  - Now, 72:26: *the night is exactly twelve parts and the day six parts* (EOTC day *seven*, in the verse that says the night *becomes double the day*)
+  - Now, 72:28: *the night is eleven parts and the day seven parts* (EOTC day *one*)
+  - The same question at 78:7, 87:2 and 90:1, and in the Jubilees dates that break the book's own arithmetic (5:22 and chapters 14–48, listed in the Jubilees reports).
+  - (a) **Follow the arithmetic** (now): print what the chapter's own sums require (and Charles has), with the EOTC's reading in a note.
+  - (b) **Follow the EOTC as it stands**: print *my sign*, *seven*, *one*, with the arithmetic in a note.
+  - Recommend (a): each case is a single word, the chapter itself shows the right number, and a reader meeting *day one part* would stop there. If (b), every case is already listed in its verse's note, so the switch is quick.
 
 ## 1 Enoch 71 (Enoch loop, run 9, 2026-09-26)
 
@@ -479,18 +480,15 @@ Charles's changes not followed (noted at v14): he rewrites 71:14 as *This is the
 
 None.
 
-### Choices for you
-
-**1. 71:14 — "You are the Son of Man" or "You are the son of man"?** The angel speaks to Enoch: *ʾanta wəʾətu walda bəʾəsi zatawaladka la-ṣədq*, **you are the son of a man who was born for righteousness**. Ge'ez has no capital letters; English has to choose. The capital makes Enoch the Son of Man of the Parables. The lower case makes it an address, as the angel called Noah *son of man* at 60:10, and leaves the question open.
-- (a) **Capital** (in the text now), v14: *"You are the Son of Man who was born for righteousness. Righteousness has dwelt on you, and the righteousness of the Head of Days will not forsake you."*
-- (b) **Lower case**, v14: *"You are the son of man who was born for righteousness. Righteousness has dwelt on you…"*
-- The verses around it, as they read now:
-  - v16: *All will walk in your way, since righteousness will never forsake you. With you will be their dwelling, and with you their portion…*
-  - v17: *So there will be length of days with that Son of Man, and the righteous will have peace…*
-- For (a): the Ge'ez form is *walda bəʾəsi*, the title's form at 69:29, *that Son of Man has appeared and sat on the throne of his glory*. It is not *walda sabʾ*, the words used to address Noah at 60:10. And v16 gives Enoch the promise the Parables gave the Son of Man, *they will live with that Son of Man* (62:14): *with you will be their dwelling*.
-- For (b): v17 goes straight back to *that Son of Man* in the third person, with the other form of the title.
-- The OCP's English of the Ge'ez has the capital. Charles avoids the question by changing *You are* to *This is*.
-- Recommendation: **(a)**. The note gives the reasons and names Charles's change.
+**Choices for you:**
+- **71:14, "the Son of Man" or "the son of man"** (Ge'ez *walda bəʾəsi*, *son of a man*; Ge'ez has no capital letters)
+  - Now, 71:14: *"You are the Son of Man who was born for righteousness. Righteousness has dwelt on you, and the righteousness of the Head of Days will not forsake you."*
+  - Now, 71:16: *All will walk in your way, since righteousness will never forsake you. With you will be their dwelling, and with you their portion…*
+  - Now, 71:17: *So there will be length of days with that Son of Man, and the righteous will have peace…*
+  - (a) **Capital** (now): it makes Enoch the Son of Man of the Parables. *walda bəʾəsi* is the title's form at 69:29 (*that Son of Man has appeared*), not the *walda sabʾ* used to address Noah at 60:10; and v16 gives Enoch the promise the Parables gave the Son of Man (*they will live with that Son of Man*, 62:14).
+  - (b) **Lower case**: an address, as the angel called Noah *son of man* at 60:10, leaving the question open; v17 goes straight back to *that Son of Man* in the third person, with the other form of the title.
+  - The OCP's English has the capital; Charles avoids the question by changing *You are* to *This is*.
+  - Recommend (a); the note gives the reasons and names Charles's change.
 
 ## 1 Enoch 69–70 (Enoch loop, run 8, 2026-09-26)
 
@@ -558,9 +556,7 @@ Small, not noted:
 - **69:11** "because of this the power is consuming me": the Ge'ez as it stands; the *me* is unexplained (noted).
 - **69:22** "So too the souls of the waters and the souls of the winds…": the clause has no verb in either Ge'ez witness.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 
 ## 1 Enoch 65–68 (Enoch loop, run 7, 2026-09-26)
 
@@ -645,9 +641,7 @@ Small, not noted:
 - **67:3** "It will multiply and be blessed before the dry land": the EOTC as it stands; Knibb's *on the dry land* is noted.
 - **68:3** "because of those who led them out like this": the Ge'ez as it stands.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 
 ## 1 Enoch 61–64 (Enoch loop, run 6, 2026-09-26)
 
@@ -735,16 +729,14 @@ The fixed-terms row for *Son of Man* said the EOTC reads *son of a woman* at 62:
 - **62:2** "The Lord of Spirits sat on the throne of His glory, and the spirit of righteousness was poured out on him": both Ge'ez witnesses read *sat*. Charles's *seated him* is noted.
 - **63:10** "into the flame of the heaviness of Sheol": the Ge'ez as it stands; both English renderings are in the note.
 
-### Choices for you
-
-**1. 62:5 — "that Son of a woman" or "that Son of Man"?** Both Ge'ez witnesses read *zəku walda bəʾəsit*, **that son of a woman**. *Bəʾəsit* is the word for the woman in labor in v4, one verse earlier. Both English renderings (OCP, Charles) give *that Son of Man*, as if the word were *bəʾəsi*, **man**; the two differ only by the final letter. Where the title returns in the EOTC at 69:29 and 71:14, it reads *walda bəʾəsi*, **son of a man**.
-- (a) **Son of a woman** (in the text now), v5: *…and pain will seize them when they see that Son of a woman sitting on the throne of his glory.*
-- (b) **Son of Man**, v5: *…and pain will seize them when they see that Son of Man sitting on the throne of his glory.*
-- The verses around it, as they read now:
-  - v4: *Pain will come on them like a woman in labor, for whom giving birth is hard when her child comes to the mouth of her womb and she labors hard to give birth.*
-  - v7: *For from the beginning the Son of Man was hidden…*
-  - v9: *…They will set their hope on that Son of Man…*
-- Recommendation: **(a)**. It is what the base text and Knibb's Ge'ez both say, and it follows directly on v4's woman in labor. The note gives the English renderings' *Son of Man*, the one-letter difference, and Galatians 4:4, *born of a woman*. The capital *S* keeps it plainly a title.
+**Choices for you:**
+- **62:5, "that Son of a woman" or "that Son of Man"** (both Ge'ez witnesses read *zəku walda bəʾəsit*, *that son of a woman*)
+  - Now, 62:4: *Pain will come on them like a woman in labor, for whom giving birth is hard*
+  - Now, 62:5: *and pain will seize them when they see that Son of a woman sitting on the throne of his glory.*
+  - Now, 62:7: *For from the beginning the Son of Man was hidden…*; 62:9: *They will set their hope on that Son of Man…*
+  - (a) **Son of a woman** (now): what the base text and Knibb's Ge'ez both say; *bəʾəsit* is the word for the woman in labor in v4.
+  - (b) **Son of Man**, as both English renderings (OCP, Charles) give it, as if the word were *bəʾəsi*; the two differ only by the final letter, and the title returns as *walda bəʾəsi* at 69:29 and 71:14.
+  - Recommend (a). The note gives *Son of Man*, the one-letter difference, and Galatians 4:4, *born of a woman*; the capital *S* keeps it plainly a title.
 
 ## 1 Enoch 57–60 (Enoch loop, run 5, 2026-09-26)
 
@@ -828,12 +820,13 @@ Small, not noted:
 - **60:19** "and the spirit is its angel": the Ge'ez as it stands.
 - **60:21** the sentence breaks off with a dash, as it does in both Ge'ez witnesses.
 
-### Choices for you
-
-**1. 57:1 — "until midday" or "to the south"?** The Ge'ez is *ʾəska manfaqa ʿəlat*, literally **until half the day**. The OCP's English gives *until midday*; Charles takes it as a direction beside *east* and *west* and gives *to the south*. The chapter has no Greek to check.
-- (a) **until midday** (in the text now): *…and they came on the winds from the east and from the west until midday.* v2 then ends *in one day*.
-- (b) **to the south**: *…and they came on the winds from the east, and from the west to the south.*
-- Recommendation: **(a)**. It is what the Ge'ez says, and v2's *in one day* keeps the verse about time. The note gives Charles's reading.
+**Choices for you:**
+- **57:1, *ʾəska manfaqa ʿəlat*, "until midday" or "to the south"** (literally *until half the day*; no Greek for this chapter)
+  - Now, 57:1: *and they came on the winds from the east and from the west until midday.*
+  - Now, 57:2 ends *in one day*.
+  - (a) **until midday** (now), as the OCP's English.
+  - (b) **to the south**, Charles, taking it as a direction beside *east* and *west*.
+  - Recommend (a): it is what the Ge'ez says, and v2's *in one day* keeps the verse about time. The note gives Charles's reading.
 
 ## 1 Enoch 51–56 (Enoch loop, run 4, 2026-09-26)
 
@@ -948,16 +941,13 @@ Charles's reorderings not followed: he moves 51:5a into 51:1 and the opening wor
 - **55:3** "After this, it is by My command… Before this, My wrath and My punishment will rest on them": compressed in both Ge'ez witnesses.
 - **56:7** "until their corpses are counted up through their death and their punishment": the Ge'ez as it stands. Charles adds a *no* (*till there be no number*), which neither Ge'ez witness has.
 
-### Choices for you
-
-**1. 51:4 — do the raised righteous become angels?** The EOTC ends the verse at *angels in heaven* and starts v5 with *and*. Read that way, the words say *all will become angels in heaven*. Knibb's Ge'ez runs the same words straight on without the *and*, and both English renderings (OCP, Charles) read them as *the faces of all the angels in heaven will shine with joy*.
-- (a) **EOTC division** (in the text now):
-  - v4: *In those days the mountains will leap like rams, and the hills will skip like lambs filled with milk, and all will become angels in heaven.*
-  - v5: *Their faces will shine with joy, for in those days the Chosen One will arise. The earth will rejoice, and the righteous will live on it, and the chosen will walk and go about on it.*
-- (b) **Knibb and the English renderings:**
-  - v4: *…like lambs filled with milk, and the faces of all the angels in heaven will shine with joy.*
-  - v5: *For in those days the Chosen One will arise…*
-- Recommendation: **(a)**. The EOTC is the base text, and its verse break and its *and* leave only that reading. It also fits the chapter: v1–2 are about the dead being given back and chosen. The note sets out both readings, and cites Mark 12:25 and Luke 20:36.
+**Choices for you:**
+- **51:4, do the raised righteous become angels?**
+  - Now, 51:4: *In those days the mountains will leap like rams, and the hills will skip like lambs filled with milk, and all will become angels in heaven.*
+  - Now, 51:5: *Their faces will shine with joy, for in those days the Chosen One will arise.*
+  - (a) **The EOTC's verse division** (now): it ends v4 at *angels in heaven* and starts v5 with *and*, which leaves only this reading.
+  - (b) **Knibb and the English renderings**: Knibb's Ge'ez runs on without the *and*, and both English renderings (OCP, Charles) read *the faces of all the angels in heaven will shine with joy. / For in those days the Chosen One will arise…*
+  - Recommend (a): the EOTC is the base text, and it fits the chapter (vv1–2 are about the dead given back and chosen). The note sets out both and cites Mark 12:25 and Luke 20:36.
 
 ## 1 Enoch 47–50 (Enoch loop, run 3, 2026-09-26)
 
@@ -1033,9 +1023,7 @@ Small, not noted:
 - **47:2** "their patience may not have to last forever": the Ge'ez clause as it stands.
 - **48:7** "he has been the keeper of their life": the sense of the Ge'ez is uncertain; both English renderings are given in the note.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 
 ## 1 Enoch 42–46 (Enoch loop, run 2, 2026-09-26)
 
@@ -1102,9 +1090,7 @@ None.
 - **45:1** "the name of the dwelling of the holy ones and of the Lord of Spirits": the Ge'ez phrase as it stands.
 - **46:7** "All their deeds show wrongdoing, and all their deeds are wrongdoing": the doubling is in both witnesses.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 
 ## 1 Enoch 37–41 (Enoch loop, run 1, 2026-09-26)
 
@@ -1177,9 +1163,7 @@ None.
 - **41:3** "they satisfy the dust of the earth": the rain's work, in the text's words.
 - **41:8** "between the light and between the darkness": the doubled *between* of Genesis 1:4.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 
 ## 1 Enoch 29–36 (rendered at Andrew's request, 2026-09-26)
 
@@ -1258,7 +1242,5 @@ None.
 - **30:1** "Beyond it, above these, above the mountain of the east": the Ge'ez piles up place words, and the pile is kept.
 - **34:3** "with violence… with violence": the only witness is rough here.
 
-### Choices for you
-
-None.
+**Choices for you:** none new.
 

@@ -23,7 +23,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** none new.
 
-**Choices for you:** none new. The dates that break the book's own arithmetic, listed run by run above (chapters 14–48), all wait on your ruling on choice #1 of the 1 Enoch 72 report.
+**Choices for you:** none new.
 
 ## Jubilees 47–48 (Jubilees loop, run 23, 2026-09-27)
 
@@ -588,7 +588,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** 9:3, "Sek", a name only this Ge'ez has.
 
-**Choices for you:** none new. There is a finding in `NOTES_FOR_ANDREW.md`: Charles and Knibb disagree on the Ge'ez word *samen*. Jubilees follows Charles (south), which the chapter's hot and cold lands bear out.
+**Choices for you:** none new.
 
 ## Jubilees 6–7 (Jubilees loop, run 3, 2026-09-26)
 
@@ -664,7 +664,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **4:15–28:** "the daughter of his father's sister", as the Ge'ez reads.
 - **4:24:** the Ge'ez says the flood did not come over the land of Eden; Charles reads the opposite.
 
-**Choices for you:** none new. 5:22 is a case under choice #1 of the 1 Enoch 72 report (when a number breaks the text's own arithmetic).
+**Choices for you:** none new. (5:22, a number that breaks the text's own arithmetic, falls under the choice in the 1 Enoch 72 report.)
 
 ## Jubilees 1–3 (Jubilees loop, run 1, 2026-09-26)
 
@@ -715,25 +715,17 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **1:29:** "from the day of the new creation", as both the Ge'ez and Charles have it.
 - **2:2:** "for darkness and for all things", as the Ge'ez has it.
 
-**Choices for you:**
-1. **"Angel" or "messenger."**
-   - This project's Genesis renders the Hebrew *mal'akh* "messenger" (Genesis 16:7, 28:12; Exodus 14:19). Jubilees and 1 Enoch use the Ge'ez *malʾak*, rendered "angel" throughout 1 Enoch.
-   - In Jubilees the angels are the narrators: "we".
-   - **Now:** "angel". Examples:
-     - 1:27 *He said to the angel of the presence*
-     - 1:29 *The angel of the presence, who went before the camps of Israel*
-     - 2:1 *The angel of the presence spoke to Moses*
-     - 2:2 *the angels of the presence, and the angels of holiness, and the angels of the spirit of fire…*
-     - 2:18 *All the angels of the presence and all the angels of holiness*
-     - 1:25 *every angel and every spirit will know them*
-   - **Recommendation:** keep "angel". It is the same Ge'ez word as in 1 Enoch, and the book treats these as heavenly beings, not as a job. Where Jubilees retells a Genesis "messenger of the LORD" scene (the binding of Isaac, chapter 18), I will mention it in the note.
-2. **Chapter 1's verse numbers.**
-   - The EOTC fits the text other editions number 1–19 into 1–17, then continues at 20, so there are no verses 18 and 19. Nothing is missing.
-   - **Now:** the EOTC's numbers, as the spec requires, with a note.
-   - **The alternative:** renumber 1–29 like the second Ge'ez text and other editions, so readers never see a skip.
-   - **Recommendation:** keep the EOTC's numbers. From v20 on they agree with everyone else.
-3. **3:5, 8, "rib" or "side."**
-   - This project's Genesis 2:21 renders the Hebrew *tsela* "side", with a note. Jubilees' Ge'ez *gabo* is "rib" in Charles, the only English available, so "side" could not be backed from the English.
-   - **Now:** "rib", with a note pointing to Genesis 2:21.
-   - **Recommendation:** keep "rib" unless you want the two books to match.
+**Choices for you:** (decided ones moved to `PASTE/decided/15-jubilees.md`)
+- **Chapter 1's verse numbers**
+  - Now: 1:1–17, then 1:20; there are no verses 18 and 19. The EOTC fits the text other editions number 1–19 into 1–17, so nothing is missing.
+  - (a) **The EOTC's numbers** (now), as the spec requires, with a note.
+  - (b) **Renumber 1–29** like the second Ge'ez text and other editions, so readers never see a skip.
+  - Recommend (a): from v20 on they agree with everyone else.
+- **3:5, 8, "rib" or "side"**
+  - Now, 3:5: *He took for the woman one bone from among his bones, and this rib was the beginning of the woman*
+  - Now, 3:8: *In the first week Adam was made, and the rib, his wife*
+  - This project's Genesis 2:21 renders the Hebrew *tsela* **side**, with a note; Jubilees' Ge'ez *gabo* is **rib** in Charles, the only English available, so *side* could not be backed from the English.
+  - (a) **rib** (now), with a note pointing to Genesis 2:21.
+  - (b) **side**, to match Genesis.
+  - Recommend (a), unless you want the two books to match.
 

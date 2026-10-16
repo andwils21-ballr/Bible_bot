@@ -159,11 +159,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **A new writer:** Tobit tells chapters 1–3 in the first person. The text is Swete's Greek, the shorter form; the longer Greek (Sinaiticus) is cited where it differs in substance.
 
-**A mark of the book's own, for you to rule on:** *eleēmosynē*, **charity** (*acts of charity*), the book's word from 1:3 to the end; 3:2 uses it of God (*all Your ways are mercy*). Recommend: *charity* every time it is said of people.
-
 **Departures from the Greek:** **1:15, 18** *Sennacherib* for the held text's *Acherel*, from the longer Greek, backed by 1:21 and 2 Kings 19:37. **3:16** *the great God* for *the great Raphael*, from the longer Greek. Both noted.
 
-**Choices for you:** none beyond the mark above.
+**Choices for you:**
+- **1:3 and throughout, *eleēmosynē*** (the book's word from 1:3 to the end; a mark of the book's own, spec "A book may keep a mark of its own")
+  - Now, 1:3: *I did many acts of charity for my brothers and my nation*
+  - Now, 3:2: *all Your works and all Your ways are mercy and truth* (the same word, of God)
+  - (a) **charity** (*acts of charity*) every time it is said of people, kept as the book's mark (now).
+  - (b) The English that fits each verse, without one word kept throughout.
+  - Recommend (a).
 
 ### Tobit 1: Tobit in Nineveh
 
