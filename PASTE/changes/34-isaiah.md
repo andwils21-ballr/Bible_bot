@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 61:8, *gazel be-avlah* (2026-10-16)
+
+**Request:** Andrew's ruling on the Isaiah 59–62 choices: (b) for 61:8, following the Greek (*robbery from injustice*), because vv7–8 give the reason the LORD repays His people; (a) for 59:19, 62:4 and 62:5, as rendered.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 61:8 | I hate robbery with a burnt offering; | I hate robbery and wrongdoing; |
+| Isaiah 61, note v8 | **"I hate robbery with a burnt offering"** — *gazel be-olah*: the Hebrew vowels read *be-olah*… the Greek has *robbery from injustice*. | **"I hate robbery and wrongdoing"** — *gazel be-avlah*, following the Greek… The Hebrew vowels read the same letters *be-olah*, "with a burnt offering"… |
+
 ## Isaiah 58:10, *nefesh* twice (2026-10-16)
 
 **Request:** Andrew asked why the line did not say *soul*, since that is the Hebrew. *Pour out your soul* is Hannah's prayer (1 Samuel 1:15, a different verb), so the ruling keeps *soul* without *pour*, the same word both times as the Hebrew has it.
