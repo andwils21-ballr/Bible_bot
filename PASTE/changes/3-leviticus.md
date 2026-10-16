@@ -2,6 +2,26 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 1–4 (council 75, settled 2026-10-16)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`COUNCIL.md`, item 75). Leviticus is closed; each note misstated the source or the book.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 1, note v1 | The man who built the tent… solved in the first four words of the next | The man who raised the tent… solved in the first verse of the next |
+| Leviticus 1, note v2 | *hiqriv* — used four times in this chapter | *hiqriv* — used nine times in this chapter |
+| Leviticus 1, note v3 | It is the only offering in the system where the worshipper eats none of it. | — the priest receives only the hide (7:8). Of the sacrifices, only the peace offering is eaten by the one who brings it (7:15–20). |
+| Leviticus 1, note v5 | cuts its throat himself, in front of everyone… until the blood is in a bowl. | cuts its throat himself… until the blood is brought to the altar. |
+| Leviticus 1, note v9 | built from the same three letters | built from the same root |
+| Leviticus 1, note v15 | word for word, as the bull in v9 | as the sheep and goats in v13, word for word |
+| Leviticus 2, note v1 | *soul* in most English Bibles and never meaning a spirit separable from a body. | *soul* in most English Bibles. |
+| Leviticus 2, note v6 | *a pat of bread* is what Abraham offers | *pat lechem* is what Abraham offers |
+| Leviticus 3, note v16 | four words in Hebrew | three words in Hebrew |
+| Leviticus 3, note v17 | the chapter is procedure for priests until this verse, which turns and speaks to… the fat never is. …the text explains one of them and not the other. | the chapter speaks of *he* and *his offering* until this verse, which turns to *your generations… you shall eat*… the fat's reason is v16, *All fat belongs to the LORD*. …the reason for each is stated in a different place. |
+| Leviticus 4, note vv3, 5, 16 | in 1 Samuel, of Saul and David, eleven times over | in 1 Samuel, twelve times, of the king |
+| Leviticus 4, note v2 | will call that acting *with a high hand* | will call that acting in open defiance (literally *with a high hand*) |
+| Leviticus 4, note v2 | *chata* and *chatat*, the same word. | *chata* and *chatat*, the same root. |
+
 ## Capital pronouns for God (Andrew, 2026-10-10)
 
 **Request:** Andrew, 11:12 PM CDT, 2026-10-10: "Always capitalize 'he' in reference to God." The closed books predate the capital-pronoun rule (2026-09-28); Bible 2 searched every verse and note of Genesis, Exodus and Leviticus for a lowercase pronoun pointing to God (or to Jesus, CLAUDE.md §6) and changed each one found. All other hits pointed to people.
