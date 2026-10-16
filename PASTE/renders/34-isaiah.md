@@ -2,6 +2,145 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 59:19; 61:1, 8; 62:5, 11.
+
+**Kept formulas:**
+- None of *And it came to pass* or *And it shall come to pass* in these chapters.
+- No sentence starts with *And*.
+- *ve-hayah* (60:19) is rendered plain.
+- *hinneh*: 59:9; 60:2; 62:11 (three times) cut.
+- *hen*: 59:1 cut.
+
+**Read forms followed:**
+- 60:21 *matta'ai*, "My planting": the written form is *matta'o*, "His planting," and the note gives both.
+- No note, because the meaning is the same: 62:3 *u-tsenif*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:4, 25:13; Exodus 3:7, 19:6; Leviticus 20:26, 25:10; Deuteronomy 28:33; 2 Kings 21:1; Matthew 2:11, 21:5.
+- Isaiah 1:29, 9:2, 11:1, 11:12, 14:2, 36:3, 40:1, 40:3, 40:10, 41:14, 42:1, 45:1, 49:3, 49:8, 49:22, 50:2, 51:2, 51:16, 53:10, 53:12, 54:1, 54:5, 54:7–8, 55:5, 57:5, 57:14, 58:5, 58:8, 58:10.
+- Not yet rendered here, so quoted from the source: Isaiah 63:5 (Hebrew); Luke 4:16–21, Romans 3:15–17, 11:26–27, Ephesians 6:14, 17, 1 Thessalonians 5:8, 1 Peter 2:9, Revelation 21:23 (SBLGNT).
+- Earlier notes in other books that quote these chapters differ in wording in six places: 1 Meqabyan 24:9 and 8:21, Tobit 13:11, Ezra 7:27, Matthew 21:5 and 2 Kings 21:1. These are logged in `NOTES_FOR_ANDREW.md` and were not changed. The Numbers 11 note's quotation of 59:1, *the LORD's hand is not too short to save*, matches.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *hen* and *ve-hayah* in chapters 59–62, and every written form that differs from its read form.
+  - 59:16 against 63:5; 60:1–3 *zarach*; *pa'ar* in 60:7, 9, 13, 21; 61:3 *pe'er* and *efer*; 36:3 *ha-mazkir*.
+- Swete's Greek: Isaiah 59:7, 19, 20; 60:17, 21; 61:1, 2, 3, 6, 8, 10; 62:2, 4, 5, 11.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **59:** *The LORD's hand is not too short to save*; the people's sins and their confession; the LORD arms Himself with righteousness; *A Redeemer will come to Zion*.
+- **60:** *Arise, shine, for your light has come*; the nations and their wealth come to Zion; *the LORD will be your everlasting light*.
+- **61:** *The Spirit of the Lord GOD is on me*; good news to the poor, liberty to the captives, *the year of the LORD's favor*; a garland instead of ashes.
+- **62:** *For Zion's sake I will not keep silent*; the new names; the watchmen who remind the LORD; *Your deliverance is coming*.
+
+### Isaiah 59: The Redeemer Will Come to Zion
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *mavdilim* | have made a separation (note) |
+| 4 | *nishpat be-emunah* | goes to law honestly |
+| 4 | *haro amal* | they conceive trouble |
+| 5 | *ve-ha-zureh* "and the crushed one" | from one that is crushed |
+| 10 | *ba-ashmannim* | ***KEPT AS IS*** among the strong (the word is found only here; note) |
+| 11 | *hamoh nehgeh* "moaning we moan" | we moan and moan |
+| 12 | *anetah vanu* "answers against us" | testify against us |
+| 15 | *mishtolel* | makes himself a prey |
+| 16 | *mafgia* | no one to intercede (53:12; note) |
+| 17 | *qin'ah* | zeal |
+| 18 | *ke-al gemulot ke-al* "according to deeds, according to" | According to their deeds, so |
+| 19 | *ki yavo kha-nahar tsar, ruach YHWH nosesah vo* | for He will come like a rushing stream that the Spirit of the LORD drives on (choice below) |
+| 20 | *go'el* | A Redeemer (note) |
+
+### Isaiah 60: Arise, Shine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zarach* | has risen (note) |
+| 4 | *al tsad te'amanah* "on the side they will be carried" | will be carried on the hip |
+| 5 | *ve-nahart* | and be radiant |
+| 5 | *u-fachad ve-rachav levavekh* "your heart will tremble and grow wide" | your heart will tremble and swell |
+| 5 | *hamon yam* | the abundance of the sea |
+| 6 | *shif'at gemallim* | A multitude of camels |
+| 7 | *al ratson* | with favor |
+| 7 | *u-veit tif'arti afa'er* "and the house of My beauty I will beautify" | and I will beautify My beautiful house (note) |
+| 8 | *el arubboteihem* | to their windows |
+| 13 | *berosh tidhar u-te'ashshur* | the cypress, the plane and the pine |
+| 14 | *shechoach* | bending low |
+| 15 | *li-ge'on olam* | majestic forever |
+| 16 | *ve-shod melakhim tinaqi* | you will nurse at the breast of kings |
+| 17 | *pequddatekh… nogesayikh* | your overseers… your slave drivers (fixed for Isaiah; note) |
+| 21 | *netser matta'ai* (read form) | the branch of My planting (note) |
+| 22 | *be-ittah achishennah* | in its time I will hasten it (note) |
+
+### Isaiah 61: The Year of the LORD's Favor
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ruach Adonai YHWH* | The Spirit of the Lord GOD |
+| 1 | *mashach* | has anointed (45:1; note) |
+| 1 | *anavim* | the poor |
+| 1 | *deror* | liberty (Leviticus 25:10; note) |
+| 1 | *peqach-qoach* "opening-opening" | the opening of the prison (note) |
+| 3 | *pe'er tachat efer* | a garland instead of ashes (note) |
+| 3 | *ruach kehah* "a dim spirit" | a faint spirit |
+| 3 | *elei ha-tsedeq* | oaks of righteousness (1:29; note) |
+| 5 | *zarim… benei nekhar* | Strangers… foreigners (fixed term) |
+| 6 | *titkyammaru* | ***KEPT AS IS*** you will boast (the verb's sense is uncertain) |
+| 7 | *mishneh* | a double portion (note) |
+| 7 | *tachat boshtekhem… yaronnu chelqam* "instead of your shame… they will rejoice" | ***KEPT AS IS*** *your* and *they* in one verse (note) |
+| 8 | *gazel be-olah* | robbery with a burnt offering (choice below) |
+| 8 | *be-emet* "in truth" | faithfully |
+| 10 | *sos asis* "rejoicing I will rejoice" | I will greatly rejoice |
+| 10 | *yekhahen pe'er* "acts the priest with a garland" | wears a garland like a priest (note) |
+
+### Isaiah 62: A New Name
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lo echesheh… lo eshqot* | I will not keep silent… I will not rest |
+| 2 | *yiqqovennu* | will give |
+| 3 | *u-tsenif melukhah* | a royal diadem |
+| 4 | *Azuvah… Shemamah… Cheftsi-vah… Be'ulah* | Forsaken… Desolate… My Delight Is in Her… Married (choice below) |
+| 5 | *yiv'alukh banayikh* | your sons will marry you (choice below) |
+| 6 | *ha-mazkirim* | You who remind the LORD (36:3; note) |
+| 6 | *al domi lakhem* "no rest to you" | take no rest |
+| 9 | *bechatsrot qodshi* | in the courts of My sanctuary |
+| 10 | *saqqelu me-even* | clear it of stones |
+| 11 | *hinneh yish'ekh ba* | Your deliverance is coming (note) |
+| 12 | *Derushah* | Sought Out |
+
+**Left standing on purpose:**
+- 59:10, *among the strong*: the word is found only here, and its sense is uncertain.
+- 61:6, *you will boast*: the verb's sense is uncertain.
+- 61:7, *your* and *they* in one verse: the Hebrew changes person.
+
+**Choices for you:**
+
+- **59:19, *ki yavo kha-nahar tsar, ruach YHWH nosesah vo***
+  - Now: *for He will come like a rushing stream that the Spirit of the LORD drives on*
+  - (a) **like a rushing stream that the Spirit of the LORD drives on** (now): *tsar* as "narrow, rushing," said of the stream; the LORD comes like a flood.
+  - (b) **when the adversary comes like a river, the Spirit of the LORD will lift a banner against him**: *tsar* as "adversary," *nosesah* from *nes*, "banner."
+  - Recommend (a): vv15–18 are about the LORD coming to repay, and the Greek also has the LORD's wrath coming *like a violent river*.
+- **61:8, *gazel be-olah***
+  - Now: *I hate robbery with a burnt offering*
+  - (a) **robbery with a burnt offering** (now): the Hebrew vowels; a sacrifice brought from stolen goods.
+  - (b) **robbery with wrongdoing**: the same letters read *be-avlah*; the Greek has *robbery from injustice*.
+  - Recommend (a): it is the Hebrew as read, and it fits the LORD who *loves justice* rejecting a gift taken by theft.
+- **62:4, *Cheftsi-vah… Be'ulah***
+  - Now: *but you will be called My Delight Is in Her, and your land Married*
+  - (a) **My Delight Is in Her… Married** (now): the meanings, set against *Forsaken* and *Desolate* in the same verse, as the Hebrew sets them.
+  - (b) **Hephzibah… Beulah**: the names as written, with the meanings in the note (2 Kings 21:1 has *Hephzibah* as a name, and its note quotes this verse that way).
+  - Recommend (a): *Forsaken* and *Desolate* are already given as meanings, and the reader needs to hear the pair turned around.
+- **62:5, *yiv'alukh banayikh***
+  - Now: *For as a young man marries a virgin, so your sons will marry you*
+  - (a) **your sons will marry you** (now): the Hebrew vowels; the people take the land as a bride (*your land will be married*, v4). This is the same word as 49:17, decided as *your sons*.
+  - (b) **your Builder will marry you**: the same letters read *bonayikh*; the LORD marries the city, as the next line says, *so your God will rejoice over you*.
+  - Recommend (a), as at 49:17, with (b) in the note.
+
 ## Isaiah 55–58 — rendered 2026-10-16, 7:49 AM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 55:3, 10; 57:5, 9; 58:6.
