@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 49 (Genesis 1–48 done 2026-10-17; Genesis 29–50 per item 37)
-- Bible 3: Leviticus 17 (Genesis 1–28, Exodus 1–40 and Leviticus 1–16 done 2026-10-17 8:29 AM; item 37 split agreed)
+- Bible 3: Leviticus 21 (Genesis 1–28, Exodus 1–40 and Leviticus 1–20 done 2026-10-17 8:32 AM; item 37 split agreed)
 
 ## Open
 
@@ -166,6 +166,34 @@ entry.
 
 - **v22 note**: *In chapter 34 Simeon and Levi took the city by sword while he was elsewhere.* Chapter 34 does not say where Jacob was at the killing (34:25–30); he speaks at once afterward (v30). Proposed: cut *while he was elsewhere*.
 - Checked and standing: *ga'al* once in Genesis (48:16); *ve-yidgu* found only here; *sikkel* rare; 48:4 *an assembly of peoples*.
+
+### 87. Leviticus 17–20 notes: note order, "not a spirit that can leave a body", "three words", "most quoted" twice, "everywhere else… passive", "twice", "20:14 use fire", "the only place… the land… acts", v28 quoted, "does not say what", "four words", "up to chapter 16… Aaron and his sons", "nine of the ten", "in the same order"
+*Asked by Bible 3, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
+
+**Leviticus 17** (a fixed model; every item is a count or a contradiction with the book's own text)
+- **Order**: the vv3–9 note stands after the v7 notes, the vv8, 10, 12, 13, 15 note after the v13 note, and the v10 note last. Proposed, by first verse: vv3–9, v4, v7, v7, vv8, 10, 12, 13, 15, v10, v11, v11, v13.
+- **v11 note** (*nefesh*): *It is not a spirit that can leave a body.* The book reads Genesis 35:18 *as her soul was going out* and 1 Kings 17:21–22 *let this child's life come back into him… the life of the child came back into him*, both `נפש`. Proposed: cut that sentence (the same fix as the Leviticus 2 note).
+- **v11 note** (*makes atonement by the life*): *three words* — `בנפש יכפר` is two. And *It is the single most quoted sentence in Leviticus*: the Leviticus 19 note on 19:18 says the same of that verse (*the most quoted line in Leviticus*). Proposed: *two words*, and cut *It is the single most quoted sentence in Leviticus and* (leaving *Its last clause has never been settled*).
+- **v10 note**: *Everywhere else the penalty is* he shall be cut off*, passive.* 20:3, 5, 6 have the same first-person sentence (`ונתתי פני… והכרתי אתו`), and 23:30 has `והאבדתי`. Proposed: *Here, at 20:3, 5 and 6, and at 23:30 the sentence names Him; most other places say* he shall be cut off*, passive.*
+
+**Leviticus 18**
+- **Order**: the v3 and v5 notes stand last. Proposed: v3, v5, then the v6 notes.
+- **vv7–8 note**: *twice the text describes an offense against a woman as an offense against a man* — three times: v8 (your father's nakedness), v14 (*the nakedness of your father's brother… his wife*) and v16. Proposed: *three times (vv8, 14, 16)*.
+- **v21 note**: *though 20:14 and later books use fire.* 20:14 is the man who takes a woman and her mother, not Molech; fire is in Deuteronomy 18:10 (`מעביר בנו ובתו באש`) and 2 Kings 23:10. Proposed: *though Deuteronomy 18:10 and 2 Kings 23:10 have fire*.
+- **vv25, 28 note**: *This is the only place in the Torah where the land is the one who acts.* The book reads Exodus 15:12 *The earth swallowed them* and Numbers 16:32 *The earth opened its mouth and swallowed them*. And v28 is quoted *the land will not vomit you out*; the verse reads *it will vomit you out as it vomited out the nation that was before you*. Proposed: *This is one of the few places in the Torah where the land is the one who acts (see also Exodus 15:12, Numbers 16:32)* and quote v28 as it reads.
+- **v3 note**: *It does not say what those practices were. Every account of what Egypt or Canaan actually did comes from somewhere other than this text.* vv24 and 27 say the nations before them *did all these detestable things*, the acts listed in vv6–23; only Egypt's practices are left unnamed. Proposed: *v3 names neither; vv24 and 27 say the people of Canaan did all these things, and nothing in the chapter says what Egypt did.*
+- **v5 note**: *va-chai bahem, four words* — `וחי בהם` is two. Proposed: *two words*.
+
+**Leviticus 19**
+- **Order**: the two v18 notes stand first, before the v2 note. Proposed: v2, vv9–10, v11, v14, v16, v17, then the two v18 notes.
+- **v2 note**: *Everything up to chapter 16 was spoken to Aaron and his sons; the demand to be holy was a priest's job description.* 11:2, 12:2 and 15:2 are spoken to the sons of Israel, 11:44–45 says *be holy* to them, and 17:2 includes *all the sons of Israel*. What is new at 19:2 is `אל כל עדת בני ישראל`, *the whole congregation*, found nowhere else in Leviticus as an address. Proposed: *This is the only place in Leviticus where Moses is told to speak to the whole congregation; the demand to be holy was already made to the sons of Israel at 11:44–45, and here it is made to all.*
+- **v11 note**: *Nine of the ten occurrences of* amit *in the Bible are in Leviticus* — twelve, eleven in Leviticus (item 80, the Leviticus 6 note). Proposed: *Eleven of the twelve*.
+
+**Leviticus 20**
+- **Order**: the v17 note stands first, then v9, v4, v2. Proposed: v2, v4, v9, v17.
+- **v9 note**: *the phrase settles the question in three words each time* — `דמיו בו` and `דמיהם בם` are two. Proposed: *two words*.
+- **chapter note** (*chapter 18 and chapter 20 are the same list twice*): *Almost every offense in 18 reappears here in the same order.* Chapter 20 opens with Molech (18:21) and the spirits, puts the neighbor's wife before the father's wife, the male after the daughter-in-law, the animal before the sister, and the monthly separation (18:19) after her. Proposed: *in a different order*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -297,3 +325,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 5, note *the two words for the offering*; Leviticus 6, note *the chapter numbers here do not match a Hebrew Bible***: each anchored to no verse (the checker's CHECK). **Leviticus 7** has 15 notes and **Leviticus 8** has 11 (the spec says three to ten). (Bible 3, 2026-10-16)
 - **Leviticus 11:18, 30 *the white owl*, *the chameleon***: one Hebrew word (`תנשמת`, three times in the Bible, twice in this chapter), two animals; the note calls exactly that *a solution rather than a reading*. **Leviticus 11**, note *the chapter never says why*: anchored to no verse (the checker's CHECK). **Leviticus 10 and 11** have 12 notes each (the spec says three to ten). (Bible 3, 2026-10-16)
 - **Leviticus 13**, notes *the priest is not a physician* and *what the chapter never says*, and **Leviticus 15**, note *uncleanness is not sin*: each anchored to no verse (the checker's CHECK). **Leviticus 13, 14 and 16** have 12, 13 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
+- **Leviticus 19:28, note *tattoo marks***: *the ban is not on marking as such but on marking oneself over a death* — the Hebrew gives `לנפש` (*for the dead*) only to the gashing; whether it also limits the tattoo is a meaning. **Leviticus 19:23** (*the word here is* forbidden *and the picture is in this note*) and **Leviticus 20:17** (*checked against Hosea 6:6 and Psalm 25:10*; *the English cannot show the collision, so it is recorded here*): talk about the translating and the checking, not about the text. **Leviticus 20**, note *chapter 18 and chapter 20 are the same list twice*: anchored to no verse (the checker's CHECK). **Leviticus 18 and 19** have 11 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
