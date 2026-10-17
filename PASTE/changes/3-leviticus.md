@@ -2,6 +2,24 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 21–24 (council 91, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (19:27–28 and 21:5; 3:11 `לחם אשה ליהוה`; *cut off from his people* in fifteen other verses; 10:3 `אקדש`, 22:32 `ונקדשתי`; Exodus 12:18 `בערב… בערב`; `מום` in 21–22 and 24:19–20; Exodus 27:20, 1 Samuel 21:6 and Numbers 23:8 as the book reads them). Leviticus is closed; each note misstated the source, a count or the book.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 21, note v5 | the identical practices… in almost the same words | three parallel practices… in different words |
+| Leviticus 21, note vv6, 8, 17, 21, 22 | the same startling phrase as 3:11 | a close relative of 3:11, *lechem isheh la-YHWH* |
+| Leviticus 21, note v10 | about rank among his brothers rather than about oil | adds rank among his brothers to the oil |
+| Leviticus 22, note v3 | and eleven more | and twelve more |
+| Leviticus 22, note v32 | the form Moses used… (10:3) | the same verb Moses quoted… (10:3, *eqqadesh*) |
+| Leviticus 23, note v11 | on different dates, and later Jewish communities divided over exactly this line. | on different dates. |
+| Leviticus 23, note v32 | the only place in the Bible that says outright where a sacred day begins and ends: at evening. | here the text says outright that the day runs from evening to evening, as Exodus 12:18 counts the festival. |
+| Leviticus 24, note vv2–8 | Exodus 27:20 gave the lamp command to Moses; here the people are told to supply the oil. | Exodus 27:20 gives the same command; here it is said again. |
+| Leviticus 24, note vv5–9 | 1 Samuel 21:7… his disciples | 1 Samuel 21:6… His disciples |
+| Leviticus 24, note v11 | *how can I **curse** whom God has not cursed?* | *How can I **put a curse on** one God has not cursed?* |
+| Leviticus 24, note vv19–20 | the word of the last three chapters | the word of chapters 21 and 22 |
+
 ## Notes corrected in Leviticus 17–20 (council 87, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (17:11 `בנפש יכפר`; 17:10 and 20:3, 5, 6 first person, 23:30 `והאבדתי`; 18:8, 14, 16; Deuteronomy 18:10 and 2 Kings 23:10 `באש`; 18:5 `וחי בהם`; 19:2 the only `כל עדת בני ישראל` in Leviticus; 20:9 `דמיו בו`; Exodus 15:12, Numbers 16:32 and 18:28 as the book reads them). Leviticus is closed; each note misstated the source, a count or the book. Leviticus 17 is a fixed model; these are counts and contradictions with the book's own text.

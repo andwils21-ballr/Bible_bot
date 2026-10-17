@@ -107,29 +107,6 @@ entry.
 
 ## Open
 
-### 91. Leviticus 21–24 notes: "the identical practices", "the same phrase as 3:11", "eleven more", "the form Moses used", "later Jewish communities", "the only place", "Exodus 27:20", 1 Samuel 21:7, "his disciples", Numbers 23:8 quoted, "last three chapters"
-*Asked by Bible 3, 8:36 AM CDT, 2026-10-17. Closed book; all provable.*
-
-**Leviticus 21**
-- **v5 note** (*the same three mourning customs, again*): *the identical practices were forbidden to everyone (19:27–28)… in almost the same words.* 19:27 is `לא תקפו פאת ראשכם` (*round off the hair at the sides of your head*); 21:5 is `קרחה בראשם` (*a bald patch*). Only the beard edge and the gash run in parallel, with other verbs. Proposed: *Two chapters ago three parallel practices were forbidden to everyone (19:27–28). Here they are forbidden to priests, in different words.*
-- **vv6, 8, 17, 21, 22 note**: *the same startling phrase as 3:11.* 3:11 is `לחם אשה ליהוה` (*food, an offering by fire to the LORD*), not *bread of his God*. Proposed: *a close relative of 3:11,* lechem isheh la-YHWH*, where what goes up from the altar is called God's food.*
-- **v10 note**: *this one is about rank among his brothers rather than about oil* — v10 itself says *on whose head the anointing oil was poured*. Proposed: *this one adds rank among his brothers to the oil*.
-
-**Leviticus 22**
-- **v3 note**: *7:20, 17:4, 20:17, and eleven more.* The sentence *cut off from his people* stands in fifteen verses besides 22:3 (7:20, 21, 25, 27; 17:4, 9, 10; 18:29; 19:8; 20:3, 5, 6, 17, 18; 23:29). Proposed: *7:20, 17:4, 20:17, and twelve more*.
-- **v32 note**: *ve-niqdashti, the form Moses used at the death of Nadab and Abihu* — 10:3 is `אקדש` (*eqqadesh*, the form the Leviticus 10 note names), 22:32 is `ונקדשתי`. Proposed: *the same verb Moses quoted at the death of Nadab and Abihu (10:3,* eqqadesh*)*.
-
-**Leviticus 23**
-- **v11 note**: *and later Jewish communities divided over exactly this line* — nothing printed shows it. Proposed: cut the clause (the two readings and their different dates stay).
-- **v32 note**: *the only place in the Bible that says outright where a sacred day begins and ends* — Exodus 12:18 already counts the festival `בערב… עד יום האחד ועשרים לחדש בערב` (*at evening… until the twenty-first day at evening*). Proposed: *Here the text says outright that the day runs from evening to evening, as Exodus 12:18 counts the festival.*
-
-**Leviticus 24**
-- **vv2–8 note**: *Exodus 27:20 gave the lamp command to Moses; here the people are told to supply the oil.* Exodus 27:20 has the same sentence (*command the sons of Israel, and let them bring you clear oil of beaten olives for the light*). Proposed: *Exodus 27:20 gives the same command; here it is said again.*
-- **vv5–9 note**: *1 Samuel 21:7* — the book numbers it 21:6 (the English division the book follows); and *the Pharisees object to his disciples* — *His* (Jesus, capital pronoun). Proposed: *21:6* and *His disciples*.
-- **v11 note**: *how can I curse whom God has not cursed? (Numbers 23:8)* — the book reads *How can I put a curse on one God has not cursed?* Proposed: quote it as it reads.
-- **vv19–20 note**: *the word of the last three chapters* — `מום` stands in chapters 21 and 22 (21:17, 18, 21, 23; 22:20, 21, 25), not 23. Proposed: *the word of chapters 21 and 22*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 92. Numbers 3–6 notes: Proverbs 7:25 quoted, note order in 5
 *Asked by Bible 2, 8:39 AM CDT, 2026-10-17. Numbers is not closed.*
 
@@ -197,6 +174,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 82. **Leviticus 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 13, 14 and 16; the changing mark and v13; *in the Bible*; *the same roots*, *as long as the mark is on him*; Psalm 51:7 and Jeremiah 2:13 quoted; *nasag* as 5:11, three verbs; demolition after repair; *two words*; the long flow's days and birds; *v24*, 15:24 and 20:18 told apart; no *identical*; *five chapters*, Aaron first; *the closing words*, *so far*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 87. **Leviticus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 17–20; no *spirit that can leave a body*; *two words* (17:11, 18:5, 20:9); no *most quoted* in 17; the first-person penalty at 20:3, 5, 6 and 23:30; *three times*; Deuteronomy 18:10 and 2 Kings 23:10; *one of the few places*, 18:28 quoted; Canaan's acts named, Egypt's not; the whole congregation at 19:2; *eleven of the twelve*; *a different order*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 83–86, 88–90. **Genesis 45–50 and Numbers 1–2 notes** (Bible 2, agreed by Bible 3, sealed; Bible 3's *two totals in two verses* preferred): three scenes of *nakar*; 32:8; *eleven verses*; *these men*; vv8–15; *more than twenty years*; *since chapter 43*; *since 43:3… four chapters*; the Greek's five names and its nine; order in 46; *living as a guest*; 32:10 quoted; no *while he was elsewhere*; *the last clause*; *After Bethel*; *two of them new*; Leah's eyes (29:17); *the previous chapter*; *buried one verse*; *his brothers*; *three words… nearly*; Exodus 10:24 quoted; *aron* only here; the dreams Joseph interpreted; *vv3, 10, 18, 25*. Logged in `PASTE/changes/1-genesis.md` and `4-numbers.md`. Genesis is reviewed through. Bible 2, 2026-10-17.
+91. **Leviticus 21–24 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): *three parallel practices… in different words*; 3:11's *lechem isheh*; rank added to the oil; *twelve more*; 10:3 *eqqadesh*; no *later Jewish communities*; evening to evening as Exodus 12:18; Exodus 27:20 the same command; 1 Samuel 21:6, *His disciples*; Numbers 23:8 quoted; *chapters 21 and 22*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 
