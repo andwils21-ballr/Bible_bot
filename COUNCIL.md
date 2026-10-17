@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Numbers 3 (Genesis 1–50 and Numbers 1–2 done 2026-10-17; Numbers is the next unread book, item 37)
-- Bible 3: Leviticus 21 (Genesis 1–28, Exodus 1–40 and Leviticus 1–20 done 2026-10-17 8:32 AM; item 37 split agreed)
+- Bible 3: Leviticus 25 (Genesis 1–28, Exodus 1–40 and Leviticus 1–24 done 2026-10-17 8:36 AM; item 37 split agreed)
 
 ## Open
 
@@ -173,6 +173,29 @@ entry.
 - **Numbers 1, v2 note**: *It is the idiom of Joseph's two dreams in prison.* The dreams were the cupbearer's and the baker's; Joseph interpreted them (Genesis 40:13, 19, *lift your head*, as the book reads). Proposed: *It is the idiom of the two dreams Joseph interpreted in prison.*
 - **Numbers 2, note headed *v10, 18, 25 the four directions***: it explains all four, and east, *qedem*, is v3 (*qedmah mizrachah*). Proposed: head it *vv3, 10, 18, 25*.
 - Checked and standing: 1:1 a month after Exodus 40:17; 1:16 and Exodus 38:26, 603,550; *va-yityaldu* found only at 1:18; *nikkevu* and Leviticus 24:11; 2:32 the four camps add up (186,400 + 151,450 + 108,100 + 157,600). The open choices of this report (*elef*, Deuel or Reuel) stay with Andrew.
+
+### 91. Leviticus 21–24 notes: "the identical practices", "the same phrase as 3:11", "eleven more", "the form Moses used", "later Jewish communities", "the only place", "Exodus 27:20", 1 Samuel 21:7, "his disciples", Numbers 23:8 quoted, "last three chapters"
+*Asked by Bible 3, 8:36 AM CDT, 2026-10-17. Closed book; all provable.*
+
+**Leviticus 21**
+- **v5 note** (*the same three mourning customs, again*): *the identical practices were forbidden to everyone (19:27–28)… in almost the same words.* 19:27 is `לא תקפו פאת ראשכם` (*round off the hair at the sides of your head*); 21:5 is `קרחה בראשם` (*a bald patch*). Only the beard edge and the gash run in parallel, with other verbs. Proposed: *Two chapters ago three parallel practices were forbidden to everyone (19:27–28). Here they are forbidden to priests, in different words.*
+- **vv6, 8, 17, 21, 22 note**: *the same startling phrase as 3:11.* 3:11 is `לחם אשה ליהוה` (*food, an offering by fire to the LORD*), not *bread of his God*. Proposed: *a close relative of 3:11,* lechem isheh la-YHWH*, where what goes up from the altar is called God's food.*
+- **v10 note**: *this one is about rank among his brothers rather than about oil* — v10 itself says *on whose head the anointing oil was poured*. Proposed: *this one adds rank among his brothers to the oil*.
+
+**Leviticus 22**
+- **v3 note**: *7:20, 17:4, 20:17, and eleven more.* The sentence *cut off from his people* stands in fifteen verses besides 22:3 (7:20, 21, 25, 27; 17:4, 9, 10; 18:29; 19:8; 20:3, 5, 6, 17, 18; 23:29). Proposed: *7:20, 17:4, 20:17, and twelve more*.
+- **v32 note**: *ve-niqdashti, the form Moses used at the death of Nadab and Abihu* — 10:3 is `אקדש` (*eqqadesh*, the form the Leviticus 10 note names), 22:32 is `ונקדשתי`. Proposed: *the same verb Moses quoted at the death of Nadab and Abihu (10:3,* eqqadesh*)*.
+
+**Leviticus 23**
+- **v11 note**: *and later Jewish communities divided over exactly this line* — nothing printed shows it. Proposed: cut the clause (the two readings and their different dates stay).
+- **v32 note**: *the only place in the Bible that says outright where a sacred day begins and ends* — Exodus 12:18 already counts the festival `בערב… עד יום האחד ועשרים לחדש בערב` (*at evening… until the twenty-first day at evening*). Proposed: *Here the text says outright that the day runs from evening to evening, as Exodus 12:18 counts the festival.*
+
+**Leviticus 24**
+- **vv2–8 note**: *Exodus 27:20 gave the lamp command to Moses; here the people are told to supply the oil.* Exodus 27:20 has the same sentence (*command the sons of Israel, and let them bring you clear oil of beaten olives for the light*). Proposed: *Exodus 27:20 gives the same command; here it is said again.*
+- **vv5–9 note**: *1 Samuel 21:7* — the book numbers it 21:6 (the English division the book follows); and *the Pharisees object to his disciples* — *His* (Jesus, capital pronoun). Proposed: *21:6* and *His disciples*.
+- **v11 note**: *how can I curse whom God has not cursed? (Numbers 23:8)* — the book reads *How can I put a curse on one God has not cursed?* Proposed: quote it as it reads.
+- **vv19–20 note**: *the word of the last three chapters* — `מום` stands in chapters 21 and 22 (21:17, 18, 21, 23; 22:20, 21, 25), not 23. Proposed: *the word of chapters 21 and 22*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -307,3 +330,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 11:18, 30 *the white owl*, *the chameleon***: one Hebrew word (`תנשמת`, three times in the Bible, twice in this chapter), two animals; the note calls exactly that *a solution rather than a reading*. **Leviticus 11**, note *the chapter never says why*: anchored to no verse (the checker's CHECK). **Leviticus 10 and 11** have 12 notes each (the spec says three to ten). (Bible 3, 2026-10-16)
 - **Leviticus 13**, notes *the priest is not a physician* and *what the chapter never says*, and **Leviticus 15**, note *uncleanness is not sin*: each anchored to no verse (the checker's CHECK). **Leviticus 13, 14 and 16** have 12, 13 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 19:28, note *tattoo marks***: *the ban is not on marking as such but on marking oneself over a death* — the Hebrew gives `לנפש` (*for the dead*) only to the gashing; whether it also limits the tattoo is a meaning. **Leviticus 19:23** (*the word here is* forbidden *and the picture is in this note*) and **Leviticus 20:17** (*checked against Hosea 6:6 and Psalm 25:10*; *the English cannot show the collision, so it is recorded here*): talk about the translating and the checking, not about the text. **Leviticus 20**, note *chapter 18 and chapter 20 are the same list twice*: anchored to no verse (the checker's CHECK). **Leviticus 18 and 19** have 11 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
+- **Leviticus 23:24 *a remembrance with horn blasts***: the note says *this verse names no instrument*, but the rendering supplies *horn* (`זכרון תרועה`, no instrument). Either the note or the rendering changes; a rendering ruling. **Leviticus 22 and 23** have 12 and 15 notes (the spec says three to ten). (Bible 3, 2026-10-17)
