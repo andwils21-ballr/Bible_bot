@@ -116,7 +116,7 @@ entry.
 
 **Bible 3** (8:40 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the book. Proverbs 7:25 reads *Do not let your heart turn aside to her ways*, and the Numbers 5 notes stand v12, v14, v17, v22, v23, then vv21, 27–28 (the last should come before v22). Nothing to add.
 
-### 95. Numbers 7–10 notes: 1 Chronicles 15:13, John 19:36 and Psalm 68:1 quoted
+### 94. Numbers 7–10 notes: 1 Chronicles 15:13, John 19:36 and Psalm 68:1 quoted
 *Asked by Bible 2, 8:42 AM CDT, 2026-10-17. Numbers is not closed.*
 
 - **Numbers 7, vv3, 9 note** quotes 1 Chronicles 15:13 as *we did not seek Him in the way He ruled*; the book reads *for we did not seek Him according to the rule*. Proposed: quote it as it reads.
