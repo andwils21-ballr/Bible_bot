@@ -2,6 +2,33 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 5–8 (council 80, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`COUNCIL.md`, item 80). Leviticus is closed; each note misstated the source, a count or the book.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 5, note vv7, 11 | the chapter uses it twice | the chapter uses the idiom twice, with two verbs (*taggia* in v7, *tasig* in v11) |
+| Leviticus 5, note v11 | always carries both… given in four words | carries oil and frankincense (2:1, 15)… given in three words |
+| Leviticus 5, note v19 | three words long | five words long |
+| Leviticus 5, last note | where later tradition separates them into two distinct rites | where chapters 6 and 7 give each its own instruction |
+| Leviticus 6, first note | subtract seven from the verse numbers in the first section and add seven in the rest | read English 6:1–7 as Hebrew 5:20–26 and subtract seven from the verse numbers in the rest |
+| Leviticus 6, note v2 | five verses on the neighbor's property and one on the ram | four verses on the neighbor's property and two on the ram and the atonement |
+| Leviticus 6, note v2 (*amito*) | ten times… nine of them in Leviticus | twelve times… eleven of them in Leviticus |
+| Leviticus 6, note v2 (pledge) | The three nouns before and after it | The nouns on either side of it |
+| Leviticus 6, note vv10–11 | *they drink their fill of the richness of your house*… *my soul is satisfied* | *they are filled with the abundance* (*mi-deshen*) *of Your house*… *my soul will be satisfied* |
+| Leviticus 6, note vv12–13 | The only thing in the entire sanctuary that is commanded to be continuous is the fire… *Tamid*… will attach to the lamp, the bread and the daily offering… and it gets here first. | Keeping the fire continuous is manual… *Tamid*… is the word already used of the bread (Exodus 25:30), the lamp (27:20) and the daily offering (29:38); here it is the fire's. |
+| Leviticus 7, notes | order v12, v15, v13, v10 | order v10, v12, v13, v15 |
+| Leviticus 7, note v12 | *give praise to the LORD the God of Israel and make confession to Him* (Joshua 7:19) — where a single Hebrew root does the work of both English words | *give glory to the LORD… and give Him praise* (*ten lo todah*), *Tell me now what you have done* (Joshua 7:19): the same word asks for praise and leads straight into the confession |
+| Leviticus 7, note v15 | the tightest deadline in the sacrificial laws… an ox… by one household | the same deadline as the Passover lamb (Exodus 12:10)… an animal… by one person |
+| Leviticus 7, note v24 | The prohibition of v23 turns out not to be about the substance… the same fat is just material. | the cutting off of v25 is for fat of the kinds brought as an offering by fire. |
+| Leviticus 7, note v30 | The owner cannot send the fat and the breast up with a servant… Everything else in these chapters is done by priests. | The priests do the rest at the altar. |
+| Leviticus 7, note v37 | the one item in this closing list with no instructions anywhere behind it… Chapter 8 is about to supply it | Its instructions are in Exodus 29, not in these chapters; chapter 8 is about to carry them out |
+| Leviticus 8, note vv23–24 | occurs seven times | occurs eight times |
+| Leviticus 8, note v29 | He has performed every action… never becomes one… For one day… in the morning | He has done everything to the men… He is not a priest… For seven days… on the eighth day |
+| Leviticus 8, note v30 | and blood stays on the altar… named twice in one verse | named four times in one verse |
+| Leviticus 8, note v31 | and 6:28 has just ruled that the pot a sin offering is boiled in must be smashed… | the flesh boiled at the door is the ordination ram's; the sin offering's bull was burned outside the camp (v17). |
+
 ## Notes corrected in Leviticus 1–4 (council 75, settled 2026-10-16)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`COUNCIL.md`, item 75). Leviticus is closed; each note misstated the source or the book.
