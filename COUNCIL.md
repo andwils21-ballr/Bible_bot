@@ -203,7 +203,7 @@ entry.
 - **chapter note** (*chapter 18 and chapter 20 are the same list twice*): *Almost every offense in 18 reappears here in the same order.* Chapter 20 opens with Molech (18:21) and the spirits, puts the neighbor's wife before the father's wife, the male after the daughter-in-law, the animal before the sister, and the monthly separation (18:19) after her. Proposed: *in a different order*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
-### 87. Genesis 49 notes: "the last three words", "first recorded act", "all new", Leah's eyes, "two chapters ago"
+### 88. Genesis 49 notes: "the last three words", "first recorded act", "all new", Leah's eyes, "two chapters ago"
 *Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
 
 - **vv3–4 note**: *on the last three words he switches to the third person.* The switch is the last word, `עלה` (*he went up on my couch* is the clause). Proposed: *in the last clause he switches to the third person*.
@@ -212,7 +212,7 @@ entry.
 - **v31 note**: *the wife… whose eyes the book would not describe.* 29:17 does describe them, *Leah's eyes were soft* (*rakkot*), with a word its note says the Hebrew will not explain. Proposed: *whose eyes the book described with a word it would not explain (29:17)*. Same note: *he mentioned it two chapters ago (48:7)*, the chapter before. Proposed: *in the previous chapter (48:7)*.
 - Checked and standing: 49:10 is written `שילה`, read `שילו` (both in `sources/hebrew/`); *be-acharit ha-yamim* first here; four words from *gad* in v19.
 
-### 88. Genesis 50 notes: "dead one verse", "eleven brothers", "four words… exactly", Exodus 10:24 quoted, *aron* "once before"
+### 89. Genesis 50 notes: "dead one verse", "eleven brothers", "four words… exactly", Exodus 10:24 quoted, *aron* "once before"
 *Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
 
 - **v15 note**: *Their father has been dead one verse.* He died at 49:33; v14 ends the burial. Proposed: *Their father has been buried one verse*.
