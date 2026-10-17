@@ -75,7 +75,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2 | *ki-qdoach esh hamasim* | as when fire kindles brushwood |
 | 3 | *lo neqavveh* | that we did not look for |
 | 5 | *paga'ta et sas ve-oseh tsedeq* | You meet the one who gladly does righteousness |
-| 5 | *bahem olam ve-nivvashea* "in them, long; and we will be saved" | we have been in them a long time, and will we be saved? (choice below) |
+| 5 | *bahem olam ve-nivvashea* "in them, long; and we will be saved" | we have been in our sins a long time, and will we be saved? (decided; see `PASTE/decided/34-isaiah.md`) |
 | 6 | *beged iddim* | a menstrual cloth (note) |
 | 7 | *va-temugenu be-yad avonenu* "melted us in the hand of our iniquities" | made us melt away in the power of our iniquities |
 | 8 | *yotsrenu* | our potter (29:16; note) |
@@ -100,7 +100,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *be-Elohei amen* "by the God of Amen" | by the God of truth (note) |
 | 17–18 | *hineni vore* | I am about to create (note) |
 | 20 | *ul yamim* "a suckling of days" | an infant who lives but a few days |
-| 20 | *ha-chote* | the sinner (choice below) |
+| 20 | *ha-chote* "the one who misses" | the one who falls short of a hundred will be thought accursed (decided; see `PASTE/decided/34-isaiah.md`) |
 | 22 | *yevallu* "wear out" | will long enjoy |
 | 23 | *la-behalah* | for sudden terror |
 | 25 | *yir'u ke-echad* | shall graze together (11:6–9, in its words; note) |
@@ -113,7 +113,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2 | *va-yihyu khol elleh* | and so all these things came to be |
 | 2 | *ani u-nekheh ruach* | poor and broken in spirit |
 | 2, 5 | *chared* | trembles (Ezra 9:4; note) |
-| 3 | *shochet ha-shor makkeh ish* "slaughtering the ox, striking a man" | Whoever slaughters an ox is like one who kills a man (choice below) |
+| 3 | *shochet ha-shor makkeh ish* "slaughtering the ox, striking a man" | Whoever slaughters an ox is like one who kills a man (decided; see `PASTE/decided/34-isaiah.md`) |
 | 3 | *mazkir levonah* | burns frankincense as a memorial |
 | 3 | *shiqqutsehem* | their loathsome things (fixed term) |
 | 4 | *ta'alulehem… u-megurotam* | harsh treatment… what they dread |
@@ -140,18 +140,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **In all their distress He was distressed, and the messenger of His presence saved them** (now): the read form, *lo*, "to Him." The LORD shares His people's distress and saves them through the messenger who carries His presence.
   - (b) **He became their Savior in all their distress. No envoy, no messenger: His own presence saved them**: the written form, *lo*, "not," with *tsir*, "envoy," as the Greek reads it. The LORD saved them Himself, not through a go-between.
   - Recommend (b): it keeps the letters as written and has the Greek with it, and it tells the event as Exodus 33 tells it. The LORD offered *a messenger* (33:2), Moses would not go without His face (33:15), and Deuteronomy 4:37 says *He Himself brought you out*. v14's *gave them rest* is the other half of the same promise (Exodus 33:14).
-- **64:5, *bahem olam ve-nivvashea***
-  - (a) **we have been in them a long time, and will we be saved?** (now): a question. *Them* are the sins just confessed, and the people doubt there is a way back.
-  - (b) **in them we will be forever, and we will be saved**: a statement. *Them* are *Your ways* two lines above, and the people hold on to the promise.
-  - Recommend (a): the next verses go on confessing (*We have all become like one who is unclean*), and the prayer turns to hope only at v8, *But now, LORD, You are our Father*.
-- **65:20, *ve-ha-chote ben me'ah shanah yequllal***
-  - (a) **the sinner a hundred years old will be accursed** (now): *chote* as "sinner," its usual sense and the Greek's. Even with life so long, sin is still under the curse.
-  - (b) **the one who falls short of a hundred will be thought accursed**: *chote* as "one who misses," the verb's first sense (Judges 20:16). Dying before a hundred will look like a curse, so long will life be.
-  - Recommend (a): it is the word's usual sense and the Greek's, though (b) matches the line before it.
-- **66:3, *shochet ha-shor makkeh ish***
-  - (a) **Whoever slaughters an ox is like one who kills a man** (now): with *like*, as the Greek has *as*. Worship from someone who is not humble (v2) is as bad as murder or a pig's-blood offering.
-  - (b) **One slaughters an ox and kills a man**: no *like*. The same people bring the LORD's sacrifices and also commit murder and pagan rites, as in 65:3–4 and 66:17.
-  - Recommend (a): the chapter opens by setting the temple against the humble heart (vv1–2), and v3 reads as the other side of that.
 
 ## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
 

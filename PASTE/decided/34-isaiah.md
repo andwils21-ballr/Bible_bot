@@ -2,6 +2,21 @@
 
 Choices Andrew has ruled on, moved here from `PASTE/renders/34-isaiah.md` once marked ✅, under the heading of the run that raised them. Newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 63–66 — rendered 2026-10-16, 5:58 PM CDT
+
+- ✅ Decided 2026-10-16: (a), with *them* spelled out: **we have been in our sins a long time, and will we be saved?** (`PASTE/changes/34-isaiah.md`). **64:5, *bahem olam ve-nivvashea***
+  - (a) **we have been in them a long time, and will we be saved?** (now): a question. *Them* are the sins just confessed, and the people doubt there is a way back.
+  - (b) **in them we will be forever, and we will be saved**: a statement. *Them* are *Your ways* two lines above, and the people hold on to the promise.
+  - Recommend (a): the next verses go on confessing (*We have all become like one who is unclean*), and the prayer turns to hope only at v8, *But now, LORD, You are our Father*.
+- ✅ Decided 2026-10-16: (b), **the one who falls short of a hundred will be thought accursed**; now in the text (`PASTE/changes/34-isaiah.md`). **65:20, *ve-ha-chote ben me'ah shanah yequllal***
+  - (a) **the sinner a hundred years old will be accursed** (now): *chote* as "sinner," its usual sense and the Greek's. Even with life so long, sin is still under the curse.
+  - (b) **the one who falls short of a hundred will be thought accursed**: *chote* as "one who misses," the verb's first sense (Judges 20:16). Dying before a hundred will look like a curse, so long will life be.
+  - Recommend (a): it is the word's usual sense and the Greek's, though (b) matches the line before it.
+- ✅ Decided 2026-10-16: (a), as rendered. **66:3, *shochet ha-shor makkeh ish***
+  - (a) **Whoever slaughters an ox is like one who kills a man** (now): with *like*, as the Greek has *as*. Worship from someone who is not humble (v2) is as bad as murder or a pig's-blood offering.
+  - (b) **One slaughters an ox and kills a man**: no *like*. The same people bring the LORD's sacrifices and also commit murder and pagan rites, as in 65:3–4 and 66:17.
+  - Recommend (a): the chapter opens by setting the temple against the humble heart (vv1–2), and v3 reads as the other side of that.
+
 ## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
 
 - ✅ Decided 2026-10-16: (b), **robbery and wrongdoing**; now in the text (`PASTE/changes/34-isaiah.md`). **61:8, *gazel be-olah***

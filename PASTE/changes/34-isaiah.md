@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 64:5, 65:20, 66:3 (2026-10-16)
+
+**Request:** Andrew's rulings on the Isaiah 63–66 choices: 64:5 as a question, with *them* spelled out as *our sins* (his wording, checked: the *them* of the question reading are the sins of *we sinned*); 65:20 (b), *the one who falls short of a hundred*; 66:3 (a), as rendered. 63:9 stays open.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 64:5 | we have been in them a long time, | we have been in our sins a long time, |
+| Isaiah 64, note v5 | **"we have been in them a long time, and will we be saved?"** … Read as a question, *them* are the sins of the line before… | **"we have been in our sins a long time, and will we be saved?"** … Read as a question, *them* are the sins of *we sinned*… |
+| Isaiah 65:20 | and the sinner a hundred years old will be accursed. | and the one who falls short of a hundred will be thought accursed. |
+| Isaiah 65, note v20 | **"the sinner a hundred years old will be accursed"** … Read as "the sinner," as the Greek reads it, the line says sin is still under the curse… Read as "the one who misses," it carries on the line before… | **"the one who falls short of a hundred will be thought accursed"** … Read so, the line carries on the one before it: life will be so long that to die short of a hundred will be counted a curse (*yequllal*, "will be cursed"). The same word is the usual word for *the sinner*, and the Greek reads it that way… |
+
 ## Isaiah 61:8, *gazel be-avlah* (2026-10-16)
 
 **Request:** Andrew's ruling on the Isaiah 59–62 choices: (b) for 61:8, following the Greek (*robbery from injustice*), because vv7–8 give the reason the LORD repays His people; (a) for 59:19, 62:4 and 62:5, as rendered.
