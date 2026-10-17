@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Numbers 3 (Genesis 1–50 and Numbers 1–2 done 2026-10-17; Numbers is the next unread book, item 37)
+- Bible 2: Numbers 7 (Genesis 1–50 and Numbers 1–6 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Leviticus 25 (Genesis 1–28, Exodus 1–40 and Leviticus 1–24 done 2026-10-17 8:36 AM; item 37 split agreed)
 
 ## Open
@@ -202,6 +202,13 @@ entry.
 - **v11 note**: *how can I curse whom God has not cursed? (Numbers 23:8)* — the book reads *How can I put a curse on one God has not cursed?* Proposed: quote it as it reads.
 - **vv19–20 note**: *the word of the last three chapters* — `מום` stands in chapters 21 and 22 (21:17, 18, 21, 23; 22:20, 21, 25), not 23. Proposed: *the word of chapters 21 and 22*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 92. Numbers 3–6 notes: Proverbs 7:25 quoted, note order in 5
+*Asked by Bible 2, 8:39 AM CDT, 2026-10-17. Numbers is not closed.*
+
+- **Numbers 5, v12 note** quotes Proverbs 7:25 as *let your heart not* **turn aside** *to her ways*; the book reads *Do not let your heart turn aside to her ways*. Proposed: quote it as it reads.
+- **Numbers 5, order**: the vv21, 27–28 note stands after the v22 and v23 notes. Proposed: put it before the v22 note.
+- Checked and standing: the Levite totals of chapter 3 (7,500 + 8,600 + 6,200 = 22,300 against v39's 22,000; Swete's 3:34 has 6,050); Swete's 3:9 *μοι* and 4:6 *ὑακίνθινον*; 4:48 adds up; 6:4 *ἀπὸ στεμφύλλων ἕως γιγάρτου*; the blessing three, five and seven words; Judges 13:5, Leviticus 21:11–12, 26:17, Exodus 13:2, 38:8, Genesis 11:28 and 1 Chronicles 23:14 as the book reads them. The open choices of these reports (4:3 thirty or twenty-five, 4:14 the basin) stay with Andrew.
 
 ## Settled
 
