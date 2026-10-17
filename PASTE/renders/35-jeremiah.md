@@ -2,6 +2,160 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 5–8 — rendered 2026-10-17, 7:53 AM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 6:2, 16; 7:18; 8:10–12, 13.
+
+**Chapter break:** English 8 has 22 verses. Hebrew 8:23 is English 9:1, and English 9:2–26 is Hebrew 9:1–25. The English numbering is followed, and the note on 8:18–22 says so. The checker's CHECK on 8 (22 verses against the Hebrew's 23) is this offset; it is logged in `NOTES_FOR_ANDREW.md` for `HANDOFF.md`.
+
+**Kept formulas:**
+- 5:19 *ve-hayah ki*: *And it shall come to pass, when you say…, that you shall say to them*.
+- 7:24 *va-yihyu le-achor* is "they went," not the formula, and is rendered plain.
+- No other sentence starts with *And*.
+- *hinneh*: 6:10 (twice), 22; 7:8, 20; 8:8, 9, 15 cut. 7:11 *gam anokhi hinneh*: *I Myself have seen it*. 8:19 *hinneh qol*: *Hear the cry*. 7:32 *hinneh yamim ba'im*: *days are coming*.
+- God's *hineni* + participle: 5:14 *I am about to make*; 5:15 *I am about to bring*; 6:19 *I am about to bring*; 6:21 *I am about to lay*; 8:17 *I am about to send*.
+- *ve-attah* (7:13): *So now*, drawing the consequence.
+
+**Read forms followed:**
+- 8:7 *ve-sis*, "the swift": the written form is *ve-sus*, "and the horse." The note gives both.
+- No note, because the meaning is the same: 5:6 *meshuvoteihem*; 5:7 *eslach*; 5:24 *yoreh*; 6:7 *bayir*, "well" (written *bor*, "cistern"); 6:21 *ve-avadu*; 6:25 *tetse'u*, *telekhu*; 6:29 *me-esh tam*; 7:22 *hotsi'i*; 8:1 *yotsi'u*; 8:6 *bi-merutsatam*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 18:26, 22:2, 37:25; Exodus 19:5, 20:3, 20:13–16; Leviticus 1:9, 19:10, 26:12; Numbers 6:7, 21:6, 21:9; Deuteronomy 11:14, 16:9–10, 28:49, 28:51, 28:56, 30:19; Deuteronomy 28:26; Joshua 18:1; 1 Samuel 4:11, 15:22; 2 Kings 23:5, 23:10, 23:16; 2 Chronicles 36:15; Job 38:11; Psalms 31:13, 78:60, 115:5–6; Isaiah 1:3, 1:22, 1:25, 53:12, 56:7; Matthew 5:22, 11:29, 21:13, 21:19.
+- Not yet rendered here, so quoted from the source: Jeremiah 9:15, 16:9, 20:3, 20:10, 23:15, 23:29, 25:10, 33:11, 44:19, 50:41–43; Amos 1:1, Zephaniah 1:2 (Hebrew); Mark 8:18, Acts 7:51 (SBLGNT).
+- Earlier notes that quote these chapters: Matthew 21's (7:11), Wisdom 14's (6:14), Isaiah 13's (6:4) and 2 Kings 23's (7:31) match. 3 Meqabyan 6's quotes 5:8 as *They were well-fed, lusty stallions, each neighing for his neighbor's wife*, and the text now reads so. Five others differ in wording (Matthew 11:28, 1 Enoch 69:18, 1 Meqabyan 27, 2 Kings 9, 2 Chronicles 36:15); these are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *hen*, *ve-hayah*, *va-yehi* and *ve-attah* in chapters 5–8, and every written form that differs from its read form.
+  - *hashkem* in Jeremiah (7:13, 25; 11:7; 25:4; 26:5 and others); *magor mi-saviv* (6:25; 20:3, 10; 46:5; 49:29; Psalm 31:14 Hebrew); *qol chatan* (7:34; 16:9; 25:10; 33:11); *malkat ha-shamayim* (7:18; 44:17–19, 25); *kavvanim* (7:18; 44:19 only); *asof asef* (Jeremiah 8:13, Zephaniah 1:2); *mei rosh* (8:14; 9:14 Hebrew; 23:15); 50:41–43 against 6:22–24; 23:29; 20:2–3; Amos 1:1.
+- Swete's Greek: Jeremiah 5:7, 8, 13, 14, 31; 6:1, 2, 6, 16, 18, 27, 29; 7:4, 11, 18, 22, 29; 8:7, 8, 10, 11, 12, 13, 18, 19, 22.
+
+**The checker** found no errors; its one CHECK is the chapter break above.
+
+**What these chapters are:**
+- **5:** *Roam through the streets of Jerusalem… if you can find a man*; the yoke broken; *a nation whose language you do not know*; the sea that keeps its boundary and the people who do not.
+- **6:** the enemy from the north at the gates; *Peace, peace, when there is no peace*; *ask for the ancient paths… and you will find rest for your souls*; the refiner's fire.
+- **7:** the sermon in the temple gate: *a den of robbers*; Shiloh; the queen of heaven; *Obey My voice*; Topheth and the Valley of Slaughter.
+- **8:** the bones spread before the sun; the stork that knows its season; *The harvest is past*; *Is there no balm in Gilead?*
+
+### Jeremiah 5: Search the Streets of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shotetu* | Roam |
+| 1 | *mevaqqesh emunah* | seeks faithfulness |
+| 3 | *chizqu peneihem mi-sela* "they made their faces stronger than rock" | They made their faces harder than rock |
+| 5 | *shaveru ol nittequ moserot* | broken the yoke and burst the bonds (2:20; note) |
+| 6 | *shoqed* | is watching (1:12; note) |
+| 6 | *meshuvoteihem* | their faithlessness (3:6) |
+| 7 | *yitgodadu* | trooped |
+| 8 | *meyuzanim mashkim* | well-fed, lusty (the words are uncertain; the sense is plain) |
+| 9, 29 | *lo titnaqqem nafshi* "shall My soul not avenge itself" | shall I not avenge Myself |
+| 10 | *sharoteha* | her vine rows |
+| 11 | *bagod bagedu* | have utterly betrayed |
+| 12 | *lo hu* "not he" | Not He! |
+| 13 | *ha-dibber* | the word |
+| 15 | *goy eitan* | an enduring nation |
+| 17 | *yeroshesh* | they will beat down |
+| 19 | *elohei nekhar… zarim* | foreign gods… strangers |
+| 22 | *choq olam* | a lasting decree |
+| 24 | *shevu'ot chuqqot qatsir* | the weeks appointed for the harvest (Deuteronomy 16:9; note) |
+| 26 | *ke-shakh yequshim* | like fowlers crouching |
+| 28 | *shamenu ashetu* | they have grown fat and sleek |
+| 31 | *yirdu al yedeihem* "rule on their hands" | rule at their direction |
+
+### Jeremiah 6: Peace, Peace, When There Is No Peace
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mas'et* | a fire signal |
+| 1 | *nishqefah* | looks down |
+| 2 | *ha-navah ve-ha-me'unnagah damiti* | The lovely and delicate one… I will destroy (choice below) |
+| 3 | *ra'u ish et yado* "each grazes his hand" | each will graze his own part |
+| 4 | *qaddeshu milchamah* | Consecrate war (Isaiah 13:3's note) |
+| 6 | *hofqad* | to be punished |
+| 7 | *ke-haqir… heqerah* | As a well keeps its water fresh, so she keeps… fresh |
+| 8 | *pen teqa nafshi mimmekh* | or My soul will be torn from you |
+| 9 | *olel ye'olelu* | They will strip… bare (Leviticus 19:10; note) |
+| 10 | *arelah oznam* | Their ears are uncircumcised (note) |
+| 11 | *sod bachurim* | the gatherings of young men |
+| 14 | *al neqallah* | lightly |
+| 15 | *hovishu ki to'evah asu* | They acted shamefully, committing detestable things |
+| 16 | *margo'a le-nafshekhem* | rest for your souls (Matthew 11:29; note) |
+| 18 | *u-de'i edah et asher bam* | ***KEPT AS IS*** and know, you congregation, what is among them (the line's sense is uncertain) |
+| 20 | *qaneh ha-tov* | fragrant cane (Isaiah 43:24) |
+| 23 | *arukh ke-ish la-milchamah* | set in array as a man for battle |
+| 25 | *magor mi-saviv* | terror is on every side (note) |
+| 26 | *evel yachid* | mourning as for an only son (note) |
+| 27 | *bachon… mivtsar* | ***KEPT AS IS*** a tester… a fortress (*mivtsar* in an assayer's line; its sense here is uncertain) |
+| 29 | *nachar mappuach* | The bellows blow fiercely |
+| 30 | *kesef nim'as* | rejected silver |
+
+### Jeremiah 7: A Den of Robbers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *heitivu darkheikhem* "make your ways good" | Amend your ways |
+| 3 | *va-ashakkenah etkhem* | I will let you dwell |
+| 4 | *heikhal YHWH… hemmah* "the temple of the LORD… are these" | The temple of the LORD… is this! |
+| 5 | *heitev teitivu… asoh ta'asu* | truly amend… truly do |
+| 6 | *ger* | the guest (fixed term) |
+| 9 | *ha-ganov ratsoach ve-na'of* | Will you steal, murder, commit adultery (Exodus 20; note) |
+| 10 | *nitstsalnu* | We are delivered! |
+| 11 | *me'arat paritsim* | a den of robbers (Matthew 21:13; note) |
+| 13, 25 | *hashkem ve-dabber… hashkem ve-shaloach* "rising early and speaking… rising early and sending" | again and again (2 Chronicles 36:15; note) |
+| 16 | *al tifga bi* | do not… intercede with Me (Isaiah 53:12; note) |
+| 18 | *kavvanim* | cakes (note) |
+| 19 | *boshet peneihem* "the shame of their faces" | their own shame |
+| 21 | *sefu* | Add |
+| 24 | *va-yihyu le-achor ve-lo le-fanim* | went backward and not forward |
+| 26 | *va-yaqshu et orpam* | stiffened their neck |
+| 29 | *gozzi nizrekh* | Cut off your crown (Numbers 6:7; note) |
+| 29 | *dor evrato* | the generation of His wrath |
+| 30 | *shiqqutseihem* | their loathsome things (fixed term) |
+| 32 | *me-ein maqom* | because there is no room elsewhere |
+| 33 | *nivlat* | The corpses (Deuteronomy 28:26) |
+
+### Jeremiah 8: Is There No Balm in Gilead?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *le-domen* | dung |
+| 3 | *ve-nivchar mavet me-chayyim* | Death will be chosen rather than life (Deuteronomy 30:19; note) |
+| 5 | *meshuvah nitstsachat* | lasting faithlessness (note) |
+| 6 | *ke-sus shotef ba-milchamah* | like a horse plunging headlong into battle |
+| 7 | *chasidah… tor ve-sis ve-agur* | the stork… the turtledove, the swift and the crane (note) |
+| 8 | *et sheqer soferim* | the lying pen of the scribes |
+| 10 | *le-yoreshim* | to new owners |
+| 13 | *asof asifem* | I will gather them up and sweep them away (choice below) |
+| 13 | *va-etten lahem ya'avrum* | ***KEPT AS IS*** what I gave them will pass away from them (the line's sense is uncertain) |
+| 14 | *nidmah… hadimmanu* "let us be silent… has silenced us" | perish… has doomed us to perish |
+| 14 | *mei rosh* | poisoned water (note) |
+| 16 | *nachrat… mitshalot abbirav* | The snorting… the neighing of his stallions |
+| 17 | *ein lahem lachash* | that cannot be charmed |
+| 18 | *mavligiti alei yagon* | ***KEPT AS IS*** There is no cheer for me in my grief (*mavligiti* is found only here; its sense is uncertain) |
+| 19 | *havlei nekhar* | their foreign emptiness (2:5) |
+| 22 | *tsori* | balm (Genesis 37:25; note) |
+| 22 | *lo altah arukhat* "new flesh has not come up" | not been healed |
+
+**Left standing on purpose:**
+- 6:18, *know, you congregation, what is among them*: the line's sense is uncertain.
+- 6:27, *a fortress*: the word sits oddly in an assayer's line, and its sense here is uncertain.
+- 8:13, *what I gave them will pass away from them*: the line's sense is uncertain.
+- 8:18, *There is no cheer for me in my grief*: *mavligiti* is found only here.
+
+**Choices for you:**
+
+- **6:2, *ha-navah ve-ha-me'unnagah damiti***
+  - (a) **The lovely and delicate one, the daughter of Zion, I will destroy** (now): *navah*, "lovely," and *damiti*, "I will cut off." The LORD will destroy the city He has pampered, the *delicate* woman of Deuteronomy 28:56.
+  - (b) **To a lovely pasture I liken the daughter of Zion**: the same letters read *naveh*, "pasture," and *damiti*, "I have likened." The city is a green pasture, and the shepherds and flocks of v3 come and graze it bare.
+  - Recommend (a): *me'unnagah*, "delicate, pampered," is said of a woman, not of a pasture, and the line stands among the war cries of vv1 and 4–6. (b) runs smoothly into v3, and the note gives it.
+- **8:13, *asof asifem***
+  - (a) **I will gather them up and sweep them away** (now): the Hebrew vowels, which join *asaf*, "gather," to *suf*, "come to an end," as Zephaniah 1:2 does (*I will utterly sweep away everything*). The LORD's harvest is His judgment.
+  - (b) **When I would gather them in, there are no grapes on the vine**: *asaf* alone, the harvest. The LORD comes to gather His crop and finds nothing; the Greek has *they will gather their produce*.
+  - Recommend (b): the rest of the verse is all harvest (no grapes, no figs, the leaf withered), and the Greek reads it that way. (a) is the Hebrew as voweled, and the note gives it.
+
 ## Jeremiah 1–4 — rendered 2026-10-16, 10:54 PM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 1:1; 2:2, 18, 20, 34; 3:1, 14; 4:10. Jeremiah is a new writer: the style is taken from the Hebrew itself, the rules from Genesis 25, Exodus 33 and Leviticus 17. Verse counts match the Hebrew in all four chapters.
