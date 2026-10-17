@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Numbers 7 (Genesis 1–50 and Numbers 1–6 done 2026-10-17; Numbers is the next unread book, item 37)
+- Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Deuteronomy 1 (Genesis 1–28, Exodus 1–40 and Leviticus 1–27 done 2026-10-17 8:39 AM; item 37 split agreed)
 
 ## Open
@@ -124,6 +124,14 @@ entry.
 
 **Leviticus 25 and 27**: no errors found. Checked: the five places in Leviticus where the written and the read word differ (9:22, 11:21, 16:21, 21:5, 25:30); `יעקוב` five times in the Bible (Leviticus 26:42, Jeremiah 30:18, 33:26, 46:27, 51:19); `קרי` seven times, all in chapter 26; `געל` five times in chapter 26 (vv11, 15, 30, 43, 44); `בפרך` at 25:43, 46, 53; `מום` and `נשך` quotations; Job 19:25, Genesis 23:4, 2 Chronicles 36:21 and Deuteronomy 10:16 as the book reads them.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 94. Numbers 7–10 notes: 1 Chronicles 15:13, John 19:36 and Psalm 68:1 quoted
+*Asked by Bible 2, 8:42 AM CDT, 2026-10-17. Numbers is not closed.*
+
+- **Numbers 7, vv3, 9 note** quotes 1 Chronicles 15:13 as *we did not seek Him in the way He ruled*; the book reads *for we did not seek Him according to the rule*. Proposed: quote it as it reads.
+- **Numbers 9, v12 note** quotes John 19:36 as *not a bone of him shall be broken*: lowercase for Jesus, where the Gospel applies the words to Him (spec, "Pronouns for God and for Jesus"), and other words than the Exodus 12:46 note uses for the same verse (*a bone of Him shall not be broken*, item 53). Proposed: *a bone of Him shall not be broken*.
+- **Numbers 10, vv35–36 note** quotes Psalm 68:1 as *let God rise up, let His enemies be scattered, and let those who hate Him flee before Him*; the book reads *Let God arise, let His enemies be scattered, / and let those who hate Him flee before Him.* Proposed: quote it as it reads.
+- Checked and standing: 7:84–88 totals; Nahshon alone not called *chief*; Swete's 7:10 *ἐγκαινισμόν* and 10:31 *πρεσβύτης*; 8:11, 13, 15, 21 *tenufah*; *al pi YHWH* seven times in 9:18–23; 10:11 nineteen days after 1:1; Exodus 25:22, 25:40, 30:12, Numbers 18:22–23 and Judges 4:11 as the book reads them.
 
 ## Settled
 
