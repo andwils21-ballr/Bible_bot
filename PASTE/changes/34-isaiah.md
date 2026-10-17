@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Isaiah 63:9, *lo tsar… u-mal'akh panav* (2026-10-16)
+
+**Request:** Andrew asked why (b) said *No envoy, no messenger*; the answer was the written form and the Greek, set against Exodus 33:2–3, 14–15, where the LORD offered a messenger and Moses would not go without His face. He chose (b) in the smoother wording.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 63:8–9 | and He became their Savior. / In all their distress He was distressed, / and the messenger of His presence saved them; | and He became their Savior / in all their distress. / It was no envoy or messenger, / but His own presence that saved them; |
+| Isaiah 63, note v9 | **v9 "In all their distress He was distressed"** — the read form, *lo tsar*, "to Him there was distress." The written form is… | **vv8–9 "He became their Savior in all their distress. It was no envoy or messenger, but His own presence that saved them"** — this follows the written Hebrew and the Greek… The read form is *lo*, "to Him," which gives *In all their distress He was distressed, and the messenger of His presence saved them*. |
+| Isaiah 63, note vv9, 14 | **"the messenger of His presence… gave them rest"** … the LORD said He would send *a messenger* (Exodus 33:2)… | **"His own presence… gave them rest"** … the LORD said He would send *a messenger* and *I will not go up among you* (Exodus 33:2–3)… |
+
 ## Isaiah 64:5, 65:20, 66:3 (2026-10-16)
 
 **Request:** Andrew's rulings on the Isaiah 63–66 choices: 64:5 as a question, with *them* spelled out as *our sins* (his wording, checked: the *them* of the question reading are the sins of *we sinned*); 65:20 (b), *the one who falls short of a hundred*; 66:3 (a), as rendered. 63:9 stays open.

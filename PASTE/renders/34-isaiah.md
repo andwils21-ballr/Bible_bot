@@ -4,7 +4,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 ## Isaiah 63–66 — rendered 2026-10-16, 5:58 PM CDT
 
-**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 63:9, 11; 64:1, 4, 5, 6; 65:4, 11, 16, 20, 22; 66:3, 18, 19. Isaiah is now complete.
+**Source:** Hebrew (WLC) throughout. The Greek (Swete) is followed once, at 63:9, with the written Hebrew, *no envoy or messenger, but His own presence* (Andrew's ruling, 2026-10-16). It is quoted in notes where it reads differently: 63:9, 11; 64:1, 4, 5, 6; 65:4, 11, 16, 20, 22; 66:3, 18, 19. Isaiah is now complete.
 
 **Chapter break:** English 64:1 is the end of Hebrew 63:19, and English 64:2–12 is Hebrew 64:1–11. The English numbering is followed, and the note on 64:1 says so. The checker's CHECK on 64 (12 verses against the Hebrew's 11) is this offset.
 
@@ -18,7 +18,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - *ve-attah* (64:8): *But now*, the prayer turning from confession to plea.
 
 **Read forms followed:**
-- 63:9 *lo*, "to Him": the written form is *lo*, "not." The note gives both, and a choice is below.
+- 63:9 is the one place the written form is followed: *lo*, "not," with the Greek (Andrew's ruling). The note gives the read form, *lo*, "to Him."
 - 65:4 *u-meraq*, "broth": the written form is *u-feraq*, "and pieces." The note gives both.
 - 66:17 *achat*, "one" (a woman): the written form is *achad*, "one" (a man). The note gives both.
 - No note, because the meaning is the same: 65:7 *el*.
@@ -56,8 +56,8 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 3 | *eg'alti* | I have stained (note) |
 | 4 | *shenat ge'ulai* | the year of My redemption (note) |
 | 7 | *chasdei YHWH* | the LORD's acts of loyal love |
-| 9 | *lo tsar* (read form) | He was distressed (choice below) |
-| 9 | *mal'akh panav* "the messenger of His face" | the messenger of His presence (Exodus 33:14; note) |
+| 9 | *lo tsar* (written form, read *lo tsir*, "no envoy") | It was no envoy or messenger (the Greek; decided; see `PASTE/decided/34-isaiah.md`) |
+| 9 | *mal'akh panav* "messenger, His face" | messenger, but His own presence (Exodus 33:14; note) |
 | 11 | *va-yizkor… Mosheh ammo* "he remembered… Moses, His people" | His people remembered the days of old, the days of Moses (note) |
 | 11 | *ro'ei tso'no* | the shepherds of His flock (note) |
 | 14 | *tenichennu* | gave them rest (note) |
@@ -134,12 +134,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 63:18, *possessed it*: the Hebrew does not say what *it* is.
 - 66:17, *following one in the middle*: who leads the rite is not said.
 
-**Choices for you:**
-
-- **63:9, *lo tsar… u-mal'akh panav***
-  - (a) **In all their distress He was distressed, and the messenger of His presence saved them** (now): the read form, *lo*, "to Him." The LORD shares His people's distress and saves them through the messenger who carries His presence.
-  - (b) **He became their Savior in all their distress. No envoy, no messenger: His own presence saved them**: the written form, *lo*, "not," with *tsir*, "envoy," as the Greek reads it. The LORD saved them Himself, not through a go-between.
-  - Recommend (b): it keeps the letters as written and has the Greek with it, and it tells the event as Exodus 33 tells it. The LORD offered *a messenger* (33:2), Moses would not go without His face (33:15), and Deuteronomy 4:37 says *He Himself brought you out*. v14's *gave them rest* is the other half of the same promise (Exodus 33:14).
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 59–62 — rendered 2026-10-16, 12:49 PM CDT
 

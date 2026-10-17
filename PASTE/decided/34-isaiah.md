@@ -4,6 +4,10 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/34-isaiah.md` once m
 
 ## Isaiah 63–66 — rendered 2026-10-16, 5:58 PM CDT
 
+- ✅ Decided 2026-10-16: (b), in smoother words: **He became their Savior in all their distress. It was no envoy or messenger, but His own presence that saved them**; now in the text (`PASTE/changes/34-isaiah.md`). **63:9, *lo tsar… u-mal'akh panav***
+  - (a) **In all their distress He was distressed, and the messenger of His presence saved them** (now): the read form, *lo*, "to Him." The LORD shares His people's distress and saves them through the messenger who carries His presence.
+  - (b) **He became their Savior in all their distress. No envoy, no messenger: His own presence saved them**: the written form, *lo*, "not," with *tsir*, "envoy," as the Greek reads it. The LORD saved them Himself, not through a go-between.
+  - Recommend (b): it keeps the letters as written and has the Greek with it, and it tells the event as Exodus 33 tells it. The LORD offered *a messenger* (33:2), Moses would not go without His face (33:15), and Deuteronomy 4:37 says *He Himself brought you out*. v14's *gave them rest* is the other half of the same promise (Exodus 33:14).
 - ✅ Decided 2026-10-16: (a), with *them* spelled out: **we have been in our sins a long time, and will we be saved?** (`PASTE/changes/34-isaiah.md`). **64:5, *bahem olam ve-nivvashea***
   - (a) **we have been in them a long time, and will we be saved?** (now): a question. *Them* are the sins just confessed, and the people doubt there is a way back.
   - (b) **in them we will be forever, and we will be saved**: a statement. *Them* are *Your ways* two lines above, and the people hold on to the promise.
