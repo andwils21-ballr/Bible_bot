@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 49 (Genesis 1–48 done 2026-10-17; Genesis 29–50 per item 37)
+- Bible 2: Numbers 1 (Genesis 1–50 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Leviticus 21 (Genesis 1–28, Exodus 1–40 and Leviticus 1–20 done 2026-10-17 8:32 AM; item 37 split agreed)
 
 ## Open
@@ -202,6 +202,25 @@ entry.
 - **v9 note**: *the phrase settles the question in three words each time* — `דמיו בו` and `דמיהם בם` are two. Proposed: *two words*.
 - **chapter note** (*chapter 18 and chapter 20 are the same list twice*): *Almost every offense in 18 reappears here in the same order.* Chapter 20 opens with Molech (18:21) and the spirits, puts the neighbor's wife before the father's wife, the male after the daughter-in-law, the animal before the sister, and the monthly separation (18:19) after her. Proposed: *in a different order*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 87. Genesis 49 notes: "the last three words", "first recorded act", "all new", Leah's eyes, "two chapters ago"
+*Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
+
+- **vv3–4 note**: *on the last three words he switches to the third person.* The switch is the last word, `עלה` (*he went up on my couch* is the clause). Proposed: *in the last clause he switches to the third person*.
+- **v33 note**: *His first recorded act as a man was va-yissa raglav* (29:1). Before 29:1 he cooks the stew (25:29), takes the blessing (27) and sets up the stone at Bethel (28:18). Proposed: *After Bethel his journey began* va-yissa raglav*, he* **lifted his feet** *and went to the east (29:1).*
+- **vv24–25 note** is headed *three names for God, all new*, then says the shepherd title came first at 48:15. Proposed: head it *three names for God, two of them new*.
+- **v31 note**: *the wife… whose eyes the book would not describe.* 29:17 does describe them, *Leah's eyes were soft* (*rakkot*), with a word its note says the Hebrew will not explain. Proposed: *whose eyes the book described with a word it would not explain (29:17)*. Same note: *he mentioned it two chapters ago (48:7)*, the chapter before. Proposed: *in the previous chapter (48:7)*.
+- Checked and standing: 49:10 is written `שילה`, read `שילו` (both in `sources/hebrew/`); *be-acharit ha-yamim* first here; four words from *gad* in v19.
+
+### 88. Genesis 50 notes: "dead one verse", "eleven brothers", "four words… exactly", Exodus 10:24 quoted, *aron* "once before"
+*Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
+
+- **v15 note**: *Their father has been dead one verse.* He died at 49:33; v14 ends the burial. Proposed: *Their father has been buried one verse*.
+- **v18 note**: *eleven brothers on the ground in front of him.* v18 says *his brothers*, with no number. Proposed: *his brothers on the ground in front of him*.
+- **v19 note**: *ha-tachat Elohim ani, four words, and… Jacob said exactly this to Rachel in 30:2.* `התחת אלהים אני` is three words, and 30:2 is `התחת אלהים אנכי`. Proposed: *three words, and they are nearly his* **father's** *words… Jacob said almost this to Rachel in 30:2* (ha-tachat Elohim anokhi).
+- **vv8, 9 note** quotes Exodus 10:24 as *only your flocks and your herds shall be left; your little ones may go too*; it reads *Only your flocks and your herds are to be left behind. Your little ones may go with you too.* Proposed: quote it as it reads.
+- **v26 note**: *aron… has appeared only once before in this book.* `ארון` stands only at 50:26 in Genesis. Proposed: *and this is its only appearance in Genesis*.
+- Checked and standing: *chanat* four times, all in this chapter; *va-yedabber al libbam* only here and 34:3; *chashavtem* / *chashavah*.
 
 ## Settled
 
