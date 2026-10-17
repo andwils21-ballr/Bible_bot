@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Genesis 45 (Genesis 1–44 done 2026-10-16 6:10 AM; Genesis 29–50 per item 37)
-- Bible 3: Leviticus 13 (Genesis 1–28, Exodus 1–40 and Leviticus 1–12 done 2026-10-16 6:35 AM; item 37 split agreed)
+- Bible 3: Leviticus 17 (Genesis 1–28, Exodus 1–40 and Leviticus 1–16 done 2026-10-17 8:29 AM; item 37 split agreed)
 
 ## Open
 
@@ -131,6 +131,33 @@ entry.
 **Leviticus 12**
 - **v3 note**: *in eight Hebrew words* — `וביום השמיני ימול בשר ערלתו` is five. And *gets a subordinate clause* — it is a sentence of its own. Proposed: *in five Hebrew words* and *gets one short sentence*.
 - **v8 note**: *Two different idioms for the same thing in one book* — three verbs: 5:7 `תגיע ידו`, 5:11 `תשיג ידו`, 12:8 `תמצא ידה`. And *the verse ends with the identical words the full version ends with — and she shall be clean*: v7 reads `וטהרה ממקר דמיה`, *and she shall be clean from the flow of her blood*. Proposed: *Three different verbs for the same thing in one book* (5:11 is* tasig*) and *the verse ends with the same clause the full version has —* and she shall be clean *— without* from the flow of her blood.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 82. Leviticus 13–16 notes: note order, "stops changing", "in literature", "same words", "permanent", Psalm 51:7 and Jeremiah 2:13 quoted, "third idiom", "no mercy", "last three words", "water and sunset", "the same act", "identical" goats, "six chapters", "once a year"
+*Asked by Bible 3, 8:29 AM CDT, 2026-10-17. Closed book; all provable.*
+
+**Leviticus 13**
+- **Order**: the v4 note stands after the vv12–13 note. Proposed: v4 first.
+- **vv12–13 note**: *the moment it stops changing the man is clean, however he looks.* v11 declares an old, unchanging blight unclean with no wait, and vv3, 25, 30 declare a deep mark with white hair unclean at once. Proposed: cut that clause and say *The waiting is for a mark that is changing; the man whose whole skin has turned white is clean (v13).*
+- **v4 note**: *the first quarantine in literature* — nothing printed shows it. Proposed: *the first quarantine in the Bible*.
+- **v45 note**: *in the same words,* paro'a *and* parom — 10:6 has `תפרעו` and `תפרמו`, the same roots in other forms; and *imposed on this man as a permanent condition* — v46 says *all the days the mark is on him*. Proposed: *from the same roots* and *for as long as the mark is on him*.
+
+**Leviticus 14**
+- **Order**: the v14 note stands before the v12 and v10 notes. Proposed: v10, v12, v14.
+- **v4 note** quotes Psalm 51:7 *purge me with hyssop and I shall be clean*; the book reads *Purge me with hyssop, and I will be clean*. **v5 note** quotes Jeremiah 2:13 *the fountain of living water*; the book reads *the fountain of living waters*. Proposed: quote both as the book reads.
+- **v21 note**: *the third idiom Leviticus uses… three different verbs.* `אין ידו משגת` is the same verb (*nasag*) as 5:11 `לא תשיג ידו` (and 14:22, 30, 31 `אשר תשיג ידו`). The verbs are *naga* (5:7), *nasag* (5:11, here) and *matsa* (12:8). Proposed: *This is the same verb as 5:11,* nasag*; with 5:7* naga *and 12:8* matsa *the book has three verbs for one gesture.*
+- **v45 note**: *the one for the building has no mercy in it at all.* The house is emptied first (v36, which the v36 note calls a mercy), and its stones are replaced and the plaster renewed before the demolition (vv40–44). Proposed: *the one for the building ends in demolition (v45), after the stones are replaced and the house replastered (vv40–44).*
+
+**Leviticus 15**
+- **v31 note**: *the last three words of the verse are the whole problem* — `אשר בתוכם` is two words. Proposed: *the last two words*.
+- **note** *uncleanness is not sin*: *The remedy is water and sunset* — for a long flow, vv13–15 and 28–30 add seven days and two birds, a sin offering and a burnt offering. Proposed: *The remedy is water and sunset, and for a long flow seven days and two birds (vv13–15, 28–30).*
+- **v24 note**: headed *vv24* (a typo for *v24*). And *Two penalties for one action… no note can close it honestly*: the Hebrew differs — 15:24 `ותהי נדתה עליו` (*her separation comes on him*), 20:18 `וגלה את מקרה… והיא גלתה את מקור דמיה` (both uncover her flow). Proposed: head it *v24*, cut *and no note can close it honestly*, and add *15:24 says her separation* comes on him*; 20:18 says both* uncover *her flow.*
+
+**Leviticus 16**
+- **Order**: the vv7, 10, 21–22 and 14:7 note stands after the v22 note. Proposed: before the v8 note.
+- **vv8–10 note**: *two goats, identical* — v5 says only *two male goats* from the congregation. Proposed: cut *identical*.
+- **v16 note**: *the last six chapters were building toward* — chapters 11–15 are five. And *The atonement in this chapter is made for the building before it is made for anybody in it*: Aaron's own atonement comes first (vv6, 11), then the building (v16), then the people (vv17, 24). Proposed: *the last five chapters* and *made for the building (v16) before it is made for the people (vv17, 24), and after Aaron's own (vv6, 11)*.
+- **v34 note**: *the last three words before the chapter closes* — `אחת בשנה` is two words, and the verse ends *He did as the LORD commanded Moses*. And *the only rite in the book scheduled by the calendar* — chapter 23 dates Passover, the festival of weeks, trumpets and booths, and 25:9 the jubilee on this same tenth day. Proposed: *the closing words of the statute* and *the only rite so far in the book scheduled by the calendar*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
@@ -261,3 +288,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 4, note *the descending scale, and how far the blood travels***: anchored to no verse (the checker's CHECK); proposed anchor *vv5–7, 16–18, 25, 30, 34*. **Leviticus 1** has 11 notes (the spec says three to ten). (Bible 3, 2026-10-16)
 - **Leviticus 5, note *the two words for the offering*; Leviticus 6, note *the chapter numbers here do not match a Hebrew Bible***: each anchored to no verse (the checker's CHECK). **Leviticus 7** has 15 notes and **Leviticus 8** has 11 (the spec says three to ten). (Bible 3, 2026-10-16)
 - **Leviticus 11:18, 30 *the white owl*, *the chameleon***: one Hebrew word (`תנשמת`, three times in the Bible, twice in this chapter), two animals; the note calls exactly that *a solution rather than a reading*. **Leviticus 11**, note *the chapter never says why*: anchored to no verse (the checker's CHECK). **Leviticus 10 and 11** have 12 notes each (the spec says three to ten). (Bible 3, 2026-10-16)
+- **Leviticus 13**, notes *the priest is not a physician* and *what the chapter never says*, and **Leviticus 15**, note *uncleanness is not sin*: each anchored to no verse (the checker's CHECK). **Leviticus 13, 14 and 16** have 12, 13 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
