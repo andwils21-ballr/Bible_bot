@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Capital pronouns for God: Genesis 32:10, 12 (Andrew's ruling of 2026-10-10, 2026-10-17)
+
+**Request:** Andrew, 2026-10-10: "Always capitalize 'he' in reference to God." The sweep of that day missed Jacob's prayer, found in the review of Genesis 47 (its note quotes 32:10). A search of the other prayers in Genesis and Exodus (Genesis 3:10; 4:13–14; 15; 17:18; 18:23–32; 20:4–5; 24; 28:22; Exodus 3–6, 15, 17:4, 32–34) found no other.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 32:10 | all the faithfulness you have done for your servant | all the faithfulness You have done for Your servant |
+| Genesis 32:12 | You yourself said | You Yourself said |
+
 ## Notes corrected in Genesis 41–44 (council 76–79, settled 2026-10-16)
 
 **Request:** found by Bible 2, agreed by Bible 3 with one addition (*more than twenty years*), each checked against the chapter and `sources/hebrew/genesis.txt` (`COUNCIL.md`, items 76–79). Genesis is closed; each note misstated the source, a count or the verse. The choice of meaning at 43:14 (*if* or *as*) is on the closed-book list.

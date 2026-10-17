@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Genesis 45 (Genesis 1–44 done 2026-10-16 6:10 AM; Genesis 29–50 per item 37)
+- Bible 2: Genesis 49 (Genesis 1–48 done 2026-10-17; Genesis 29–50 per item 37)
 - Bible 3: Leviticus 17 (Genesis 1–28, Exodus 1–40 and Leviticus 1–16 done 2026-10-17 8:29 AM; item 37 split agreed)
 
 ## Open
@@ -159,6 +159,39 @@ entry.
 - **v16 note**: *the last six chapters were building toward* — chapters 11–15 are five. And *The atonement in this chapter is made for the building before it is made for anybody in it*: Aaron's own atonement comes first (vv6, 11), then the building (v16), then the people (vv17, 24). Proposed: *the last five chapters* and *made for the building (v16) before it is made for the people (vv17, 24), and after Aaron's own (vv6, 11)*.
 - **v34 note**: *the last three words before the chapter closes* — `אחת בשנה` is two words, and the verse ends *He did as the LORD commanded Moses*. And *the only rite in the book scheduled by the calendar* — chapter 23 dates Passover, the festival of weeks, trumpets and booths, and 25:9 the jubilee on this same tenth day. Proposed: *the closing words of the statute* and *the only rite so far in the book scheduled by the calendar*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 82. Genesis 45 notes: *nakar* "three chapters", "twelve verses", 32:9, "these ten men"
+*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
+
+- **v1 note** (*made himself known*): *Three chapters have run on* nakar. `נכר` turns three scenes, not three chapters running: 37:32–33, 38:25–26, 42:7–8 (item 77). Proposed: *Three scenes have turned on* nakar *(37:32–33, 38:25–26, 42:7–8)*.
+- **v7 note**: *Jacob used it in 32:9.* The verse is English 32:8 (*the camp that is left will be an escape*; Hebrew 32:9). Proposed: *32:8*.
+- **v15 note**: *Joseph talks for twelve verses.* He speaks in vv3–13: eleven. Proposed: *eleven verses*.
+- **v27 note**: *Words from these ten men were not enough.* Eleven came back (Benjamin with them, vv19–25). Proposed: *Words from these men*.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
+
+### 83. Genesis 46 notes: "verses 9–15", "four words apart", "forty years", "since chapter 44", *panim* "since 42:6", the Greek's nine, order
+*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
+
+- **v15 note**: *count the names in verses 9–15 and there are thirty-four.* Reuben is named in v8; the thirty-four are vv8–15. Proposed: *verses 8–15*.
+- **vv26–27 note**: *two totals four words apart.* `ששים ושש` (v26) and `שבעים` (v27) stand thirteen words apart, in two verses. Proposed: *two totals in two verses*.
+- **v19 note**: *Forty years after her death.* Rachel died at Benjamin's birth (35:16–19), before Joseph was seventeen (37:2); he is thirty-nine now (41:46; 45:6). Proposed: *More than twenty years after her death*.
+- **v28 note**: *Judah has been leading since chapter 44.* He speaks for them from 43:3 and gives the pledge at 43:8–9. Proposed: *since chapter 43*.
+- **v30 note**: *panim, the word this reunion has run on since 42:6… for five chapters.* 42:6 is `אפים ארצה`, *appayim*, not *panim*; the face first comes at 43:3 (*You shall not see my face*). Proposed: *since 43:3… for four chapters*.
+- **v27 Greek note**: *at v20 it adds three further generations… Machir… Gilead… Sutalaam and Taam… Edem. Nine instead of two.* Swete's 46:20 adds five names over two generations (Machir and Gilead; Sutalaam, Taam and Edem), which with Manasseh and Ephraim make seven, while its v27 says *ψυχαὶ ἐννέα*, nine. Proposed: *at v20 it adds five descendants the Hebrew has not got: Manasseh's son Machir and his son Gilead, and Ephraim's sons Sutalaam and Taam, and Sutalaam's son Edem. Its v27 then counts Joseph's sons in Egypt as **nine**, two more than its own list names, and the total as **seventy-five**.*
+- **Order**: the vv26–27 note stands before the v19 note, and the v27 Greek note after the vv32, 34 note. Proposed: v19, vv26–27, v27 (Greek), v28.
+
+### 84. Genesis 47 notes: *magur* glossed against the fixed term, 32:11
+*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
+
+- **v9 note**: *the years of my* **time as a foreigner** *— magur, from gur, to reside as an outsider… how long he has been a stranger.* The verse reads *The years I have lived as a guest* (*gur*, the fixed term). Proposed: *the years of my* **living as a guest** *— magur, from gur, to live as a guest… how long he has been a guest.*
+- **v29 note**: *chesed ve-emet, kindness and truth, is the pair Jacob used of God in 32:11.* It is English 32:10, where it reads *all the kindnesses and all the faithfulness*. Proposed: *the pair Jacob used of God in 32:10,* all the kindnesses and all the faithfulness *You have done*.
+- Found in the same review and fixed under Andrew's capital-pronoun ruling (2026-10-10), not a council matter: Genesis 32:10 *You have done for Your servant*, 32:12 *You Yourself said*; logged in `PASTE/changes/1-genesis.md`.
+
+### 85. Genesis 48 notes: "while he was elsewhere"
+*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; provable.*
+
+- **v22 note**: *In chapter 34 Simeon and Levi took the city by sword while he was elsewhere.* Chapter 34 does not say where Jacob was at the killing (34:25–30); he speaks at once afterward (v30). Proposed: cut *while he was elsewhere*.
+- Checked and standing: *ga'al* once in Genesis (48:16); *ve-yidgu* found only here; *sikkel* rare; 48:4 *an assembly of peoples*.
 
 ## Settled
 
