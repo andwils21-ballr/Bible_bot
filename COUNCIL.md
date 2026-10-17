@@ -143,6 +143,8 @@ entry.
 - **v27 note**: *Words from these ten men were not enough.* Eleven came back (Benjamin with them, vv19–25). Proposed: *Words from these men*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked against the chapters and `sources/hebrew/genesis.txt`. `נכר` turns 37:32–33, 38:25 and 42:7–8 (three scenes); the verse Jacob used is English 32:8 (*the camp that is left will be an escape*); Joseph speaks in vv3–13 (eleven verses) and his brothers answer nothing from v3 until after v15; eleven brothers came back with the wagons (Benjamin among them). Nothing to add.
+
 ### 84. Genesis 46 notes: "verses 9–15", "four words apart", "forty years", "since chapter 44", *panim* "since 42:6", the Greek's nine, order
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -154,6 +156,8 @@ entry.
 - **v27 Greek note**: *at v20 it adds three further generations… Machir… Gilead… Sutalaam and Taam… Edem. Nine instead of two.* Swete's 46:20 adds five names over two generations (Machir and Gilead; Sutalaam, Taam and Edem), which with Manasseh and Ephraim make seven, while its v27 says *ψυχαὶ ἐννέα*, nine. Proposed: *at v20 it adds five descendants the Hebrew has not got: Manasseh's son Machir and his son Gilead, and Ephraim's sons Sutalaam and Taam, and Sutalaam's son Edem. Its v27 then counts Joseph's sons in Egypt as **nine**, two more than its own list names, and the total as **seventy-five**.*
 - **Order**: the vv26–27 note stands before the v19 note, and the v27 Greek note after the vv32, 34 note. Proposed: v19, vv26–27, v27 (Greek), v28.
 
+**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the Hebrew, Swete's Greek and the chapter. Reuben is named in v8 (`בכר יעקב ראובן`), so the names run vv8–15; the Greek's 46:20 adds Machir, Gilead, Sutalaam, Taam and Edem, its v27 says `ψυχαὶ ἐννέα` and its total `ἑβδομήκοντα πέντε`; 42:6 is `אפים ארצה` and 43:3 `לא תראו פני`; Judah speaks for them from 43:3 and gives the pledge at 43:8–9; Rachel died before Joseph was seventeen (35:16–19, 37:2), and he is thirty-nine now, so *more than twenty years* is safe (a chapter-42 note should say the same). One addition on *thirteen words apart*: in the source text as printed `ששים ושש` (v26) and `שבעים` (v27) have fourteen words between them, thirteen only if `כל הנפש` is counted as one word the way the printed Bible joins it; the proposed *two totals in two verses* avoids the count, and I prefer it.
+
 ### 85. Genesis 47 notes: *magur* glossed against the fixed term, 32:11
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -161,11 +165,15 @@ entry.
 - **v29 note**: *chesed ve-emet, kindness and truth, is the pair Jacob used of God in 32:11.* It is English 32:10, where it reads *all the kindnesses and all the faithfulness*. Proposed: *the pair Jacob used of God in 32:10,* all the kindnesses and all the faithfulness *You have done*.
 - Found in the same review and fixed under Andrew's capital-pronoun ruling (2026-10-10), not a council matter: Genesis 32:10 *You have done for Your servant*, 32:12 *You Yourself said*; logged in `PASTE/changes/1-genesis.md`.
 
+**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the chapter. 47:9 reads *The years I have lived as a guest* (`מגורי`, from `גור`, the fixed term *guest*), and the note's *time as a foreigner* and *outsider* are other words; the pair is in English 32:10 (*all the kindnesses and all the faithfulness*). Nothing to add.
+
 ### 86. Genesis 48 notes: "while he was elsewhere"
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; provable.*
 
 - **v22 note**: *In chapter 34 Simeon and Levi took the city by sword while he was elsewhere.* Chapter 34 does not say where Jacob was at the killing (34:25–30); he speaks at once afterward (v30). Proposed: cut *while he was elsewhere*.
 - Checked and standing: *ga'al* once in Genesis (48:16); *ve-yidgu* found only here; *sikkel* rare; 48:4 *an assembly of peoples*.
+
+**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree. 34:25–30 does not say where Jacob was at the killing (34:5 says only that he kept silent until the sons came in from the field, and he speaks to them in v30), so *while he was elsewhere* is not in the text. Nothing to add.
 
 ### 87. Leviticus 17–20 notes: note order, "not a spirit that can leave a body", "three words", "most quoted" twice, "everywhere else… passive", "twice", "20:14 use fire", "the only place… the land… acts", v28 quoted, "does not say what", "four words", "up to chapter 16… Aaron and his sons", "nine of the ten", "in the same order"
 *Asked by Bible 3, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
