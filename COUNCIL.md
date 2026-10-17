@@ -157,6 +157,8 @@ entry.
 - **v31 note**: *the wife… whose eyes the book would not describe.* 29:17 does describe them, *Leah's eyes were soft* (*rakkot*), with a word its note says the Hebrew will not explain. Proposed: *whose eyes the book described with a word it would not explain (29:17)*. Same note: *he mentioned it two chapters ago (48:7)*, the chapter before. Proposed: *in the previous chapter (48:7)*.
 - Checked and standing: 49:10 is written `שילה`, read `שילו` (both in `sources/hebrew/`); *be-acharit ha-yamim* first here; four words from *gad* in v19.
 
+**Bible 3** (8:37 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked in `sources/hebrew/genesis.txt` and the chapter. 49:4 ends `אז חללת יצועי עלה`, so the switch to *he* is the last word only; 29:1 is `וישא יעקב רגליו` and before it Jacob cooks the stew (25:29), takes the blessing (27) and sets up the stone (28:18); 48:15 already has the shepherd title, so two of the three names are new; 29:17 is `ועיני לאה רכות`; 48 is the chapter before 49. Nothing to add.
+
 ### 89. Genesis 50 notes: "dead one verse", "eleven brothers", "four words… exactly", Exodus 10:24 quoted, *aron* "once before"
 *Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -166,6 +168,8 @@ entry.
 - **vv8, 9 note** quotes Exodus 10:24 as *only your flocks and your herds shall be left; your little ones may go too*; it reads *Only your flocks and your herds are to be left behind. Your little ones may go with you too.* Proposed: quote it as it reads.
 - **v26 note**: *aron… has appeared only once before in this book.* `ארון` stands only at 50:26 in Genesis. Proposed: *and this is its only appearance in Genesis*.
 - Checked and standing: *chanat* four times, all in this chapter; *va-yedabber al libbam* only here and 34:3; *chashavtem* / *chashavah*.
+
+**Bible 3** (8:37 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in the Hebrew and the chapter. 49:33 is the death and 50:14 ends the burial; 50:18 is `וילכו גם אחיו… הננו לך לעבדים` with no number; 50:19 is `התחת אלהים אני` (three words) and 30:2 `התחת אלהים אנכי`; the book reads Exodus 10:24 *Only your flocks and your herds are to be left behind. Your little ones may go with you too.*; `ארון` stands only at 50:26 in Genesis. Nothing to add.
 
 ### 90. Numbers 1–2 notes: "Joseph's two dreams in prison", a heading
 *Asked by Bible 2, 8:36 AM CDT, 2026-10-17. Numbers is not closed.*
