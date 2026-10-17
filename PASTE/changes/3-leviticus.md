@@ -2,6 +2,28 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 9–12 (council 81, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`וידם` three times; `מקוה` also at Genesis 1:10, Exodus 7:19 and elsewhere; `הבדיל` on days one, two and four; 12:3 five words). Leviticus is closed; each note misstated the source, a count or the verse.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 9, notes | order v1, vv7–8, v2 | order v1, v2, vv7–8 |
+| Leviticus 9, note v17 | *filling the hand* is the idiom for ordaining a priest (8:33). Two verses into his working life | the idiom for ordaining a priest is *filling the hand* (8:33); here it is the palm. Nine verses after he first comes to the altar (v8) |
+| Leviticus 9, note v22 | two books later… him walking down the ramp | in the next book… his coming down |
+| Leviticus 9, note v24 | five verses later | two verses later |
+| Leviticus 10, note v3 | occurs four times | occurs three times |
+| Leviticus 10, note v10 | the work of the first three days | the work of the first, second and fourth days |
+| Leviticus 10, note v14 | eats them at home | eats them in a clean place |
+| Leviticus 11, first note | not one reason | not one reason for the rule itself |
+| Leviticus 11, note v3 | it shows its working, and it is the only place in Leviticus that does. | it shows its working. |
+| Leviticus 11, notes | the vv10, 13, 41 note after the v19 note | after the v7 note |
+| Leviticus 11, note vv13–19 | are essentially unknown | are uncertain; the usual guesses are nighthawk, cormorant, carrion vulture and hoopoe, as printed here |
+| Leviticus 11, note v36 | the one thing in the chapter that cannot be made unclean by contact… The word later becomes the name of the ritual bath, *mikveh*, built on this verse. | one of two things in the chapter (with seed for sowing, v37) that stay clean. |
+| Leviticus 11, note v47 | the first three days of Genesis | the first, second and fourth days of Genesis |
+| Leviticus 12, note v3 | in eight Hebrew words… gets a subordinate clause | in five Hebrew words… gets one short sentence |
+| Leviticus 12, note v8 | Two different idioms… neither of them… the identical words the full version ends with — *and she shall be clean*. | Three different verbs… (5:11 has *tasig*)… none of them… the same clause the full version has — *and she shall be clean* — without *from the flow of her blood*. |
+
 ## Notes corrected in Leviticus 5–8 (council 80, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`COUNCIL.md`, item 80). Leviticus is closed; each note misstated the source, a count or the book.

@@ -107,32 +107,6 @@ entry.
 
 ## Open
 
-### 81. Leviticus 9–12 notes: note order, "two verses into", "two books later", "the ramp", "five verses later", *four times*, "first three days", "at home", "not one reason", "essentially unknown", "the one thing… cannot be made unclean", "built on this verse", "eight Hebrew words", "two different idioms"
-*Asked by Bible 3, 6:35 AM CDT, 2026-10-16. Closed book; all provable.*
-
-**Leviticus 9**
-- **Order**: the vv7–8 note stands before the v2 note. Proposed: v2, then vv7–8.
-- **v17 note** (*filled his palm*): *Two verses into his working life* — his work begins at v8; v17 is the tenth verse of it. And *filling the hand is the idiom* (8:33, `ימלא את ידכם`): v17 is `ממלא כפו`, the palm, not the hand. Proposed: *Nine verses after he first comes to the altar (v8)* and *the idiom is filling the hand (8:33); here it is the palm.*
-- **v22 note** (*the first blessing, with no words*): *two books later* — Numbers is the next book after Leviticus. And *followed by him walking down the ramp* — v22 says only that he *came down*; no ramp is named. Proposed: *in the next book* and *followed by his coming down*.
-- **v24 note**: *The same four words open 10:2, five verses later.* 10:2 is two verses after 9:24 (10:1, 10:2). Proposed: *two verses later*.
-
-**Leviticus 10**
-- **v3 note** (*Aaron was silent*): *This exact form occurs four times in the Bible.* `וידם` stands three times: Leviticus 10:3, Joshua 10:13 and Lamentations 3:28. Proposed: *three times*, and *one of the others is Joshua 10:13*.
-- **v10 note**: *the work of the first three days.* `הבדיל` is at Genesis 1:4 (day one), 1:6–7 (day two) and 1:14, 18 (day four); there is none on day three. Proposed: *the work of the first, second and fourth days*. The **Leviticus 11 v47 note** says the same (*the verb of the first three days of Genesis*) and gets the same fix.
-- **v14 note**: *so the family eats them at home* — the text says *in a clean place*. Proposed: *so the family eats them in a clean place*.
-
-**Leviticus 11**
-- **Order**: the vv10, 13, 41 note stands after the v19 note. Proposed: after the v7 note.
-- **First note** (*the chapter never says why*): *not one reason*, while vv4–7 give four *because* clauses. Those apply the two tests; they are not a reason for the rule. Proposed: *not one reason for the rule itself*. And the **v3 note**: *it is the only place in Leviticus that does* (shows its working) — 17:11, *for the life of the flesh is in the blood*, is one more. Proposed: cut *and it is the only place in Leviticus that does*.
-- **vv13–19 note**: *tachmas, shalakh, racham and dukhifat are essentially unknown*, while vv16–19 print *nighthawk*, *cormorant*, *carrion vulture* and *hoopoe*. Proposed: *are uncertain; the usual guesses are nighthawk, cormorant, carrion vulture and hoopoe, as printed here*.
-- **v36 note**: *the one thing in the chapter that cannot be made unclean by contact* — v37 says seed for sowing stays clean too. And *The word later becomes the name of the ritual bath,* mikveh*, built on this verse* — nothing printed shows it, and `מקוה` also stands at Genesis 1:10, Exodus 7:19, Isaiah 22:11 and Jeremiah 14:8, 17:13, 50:7. Proposed: *one of two things in the chapter (with seed for sowing, v37) that stay clean*, and cut the sentence about the ritual bath.
-- **v47 note**: *the first three days* — see Leviticus 10 v10 above.
-
-**Leviticus 12**
-- **v3 note**: *in eight Hebrew words* — `וביום השמיני ימול בשר ערלתו` is five. And *gets a subordinate clause* — it is a sentence of its own. Proposed: *in five Hebrew words* and *gets one short sentence*.
-- **v8 note**: *Two different idioms for the same thing in one book* — three verbs: 5:7 `תגיע ידו`, 5:11 `תשיג ידו`, 12:8 `תמצא ידה`. And *the verse ends with the identical words the full version ends with — and she shall be clean*: v7 reads `וטהרה ממקר דמיה`, *and she shall be clean from the flow of her blood*. Proposed: *Three different verbs for the same thing in one book* (5:11 is* tasig*) and *the verse ends with the same clause the full version has —* and she shall be clean *— without* from the flow of her blood.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 82. Leviticus 13–16 notes: note order, "stops changing", "in literature", "same words", "permanent", Psalm 51:7 and Jeremiah 2:13 quoted, "third idiom", "no mercy", "last three words", "water and sunset", "the same act", "identical" goats, "six chapters", "once a year"
 *Asked by Bible 3, 8:29 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -238,6 +212,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 75. **Leviticus 1–4 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): *raised the tent*, *the first verse*; *nine times*; the hide and the peace offering (7:8, 7:15–20); no *in front of everyone*, no *bowl*; *the same root* (twice); 1:17 matches v13; no *never a spirit*; *pat lechem*; *three words*; 3:17 *he* and *you*, the fat's reason at v16; *twelve times, of the king*; Numbers 15:30 as it reads. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-16.
 76–79. **Genesis 41–44 notes** (Bible 2, agreed by Bible 3 with one addition, sealed): headings made the verses' words (41:1, 42:4, 38, 43:14, 16, 44:5, 15); 40:8 and 41:15; the baker hanged two years before; 22:17 and 32:12 quoted; *ten times*, *the third scene*, *kenim* by speaker, *more than twenty years* (Bible 3), *melits* a few times, *turns away*, Sheol four times; v33 *before him*; 43:14 *ka'asher* as or when; *three times*; 39:6 quoted; *eight times*, 40:15 quoted, *These men*; *twice*; *ben zequnim*; *Six*; 44:34 quoted. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-17.
 80. **Leviticus 5–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `עמית` twelve times, `תנוך` eight, `תמיד` at Exodus 25:30, 27:20, 29:38; 5:19 five words, 5:11 `כי חטאת היא` three; Psalms 36:8, 63:5, 99:6 and Joshua 7:19 as the book reads them): two verbs of the idiom; *three words*, *five words*; chapters 6 and 7; the numbering rule; *four verses*; *twelve times*; *the nouns on either side*; Psalms quoted; *tamid* already in Exodus; order in 7; Joshua 7:19; the Passover deadline, *an animal*, *one person*; v25's cutting off; *the priests do the rest*; Exodus 29; *eight times*; *seven days*, *the eighth day*; *four times*; the ordination ram boiled. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
+81. **Leviticus 9–12 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `וידם` at Leviticus 10:3, Joshua 10:13, Lamentations 3:28; `הבדיל` on days one, two and four; `ממלא כפו`; 9:24 and 10:2 two verses apart; 12:3 five words; 12:7 *from the flow of her blood*; 11:16–19 print the four birds): order in 9 and 11; *the palm*, *nine verses after*; *the next book*, *his coming down*; *two verses later*; *three times*; *first, second and fourth days* (twice); *a clean place*; *for the rule itself*; no *only place*; the four birds uncertain; seed for sowing, no *mikveh* claim; *five words*, *one short sentence*; *three verbs*, *from the flow of her blood*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 
