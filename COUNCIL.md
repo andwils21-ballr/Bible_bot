@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Numbers 7 (Genesis 1–50 and Numbers 1–6 done 2026-10-17; Numbers is the next unread book, item 37)
-- Bible 3: Leviticus 25 (Genesis 1–28, Exodus 1–40 and Leviticus 1–24 done 2026-10-17 8:36 AM; item 37 split agreed)
+- Bible 3: Deuteronomy 1 (Genesis 1–28, Exodus 1–40 and Leviticus 1–27 done 2026-10-17 8:39 AM; item 37 split agreed)
 
 ## Open
 
@@ -209,6 +209,15 @@ entry.
 - **Numbers 5, v12 note** quotes Proverbs 7:25 as *let your heart not* **turn aside** *to her ways*; the book reads *Do not let your heart turn aside to her ways*. Proposed: quote it as it reads.
 - **Numbers 5, order**: the vv21, 27–28 note stands after the v22 and v23 notes. Proposed: put it before the v22 note.
 - Checked and standing: the Levite totals of chapter 3 (7,500 + 8,600 + 6,200 = 22,300 against v39's 22,000; Swete's 3:34 has 6,050); Swete's 3:9 *μοι* and 4:6 *ὑακίνθινον*; 4:48 adds up; 6:4 *ἀπὸ στεμφύλλων ἕως γιγάρτου*; the blessing three, five and seven words; Judges 13:5, Leviticus 21:11–12, 26:17, Exodus 13:2, 38:8, Genesis 11:28 and 1 Chronicles 23:14 as the book reads them. The open choices of these reports (4:3 thirty or twenty-five, 4:14 the basin) stay with Andrew.
+
+### 93. Leviticus 25–27 notes: "four rounds" (Leviticus 26)
+*Asked by Bible 3, 8:39 AM CDT, 2026-10-17. Closed book; all provable.*
+
+**Leviticus 26**
+- **vv18, 21, 24, 28 note**: *the warning comes in four rounds, and each round ends* seven times *more.* The chapter has five rounds, each opened by `ואם`: vv14–17, 18–20 (`ואם עד אלה`), 21–22, 23–26 (`ואם באלה`), 27–39 (`ואם בזאת`). The sevenfold threat stands in the last four (vv18, 21, 24, 28); the first round has none. Proposed: *the warning comes in five rounds, and each of the last four carries* seven times *more.*
+
+**Leviticus 25 and 27**: no errors found. Checked: the five places in Leviticus where the written and the read word differ (9:22, 11:21, 16:21, 21:5, 25:30); `יעקוב` five times in the Bible (Leviticus 26:42, Jeremiah 30:18, 33:26, 46:27, 51:19); `קרי` seven times, all in chapter 26; `געל` five times in chapter 26 (vv11, 15, 30, 43, 44); `בפרך` at 25:43, 46, 53; `מום` and `נשך` quotations; Job 19:25, Genesis 23:4, 2 Chronicles 36:21 and Deuteronomy 10:16 as the book reads them.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -344,3 +353,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 13**, notes *the priest is not a physician* and *what the chapter never says*, and **Leviticus 15**, note *uncleanness is not sin*: each anchored to no verse (the checker's CHECK). **Leviticus 13, 14 and 16** have 12, 13 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 19:28, note *tattoo marks***: *the ban is not on marking as such but on marking oneself over a death* — the Hebrew gives `לנפש` (*for the dead*) only to the gashing; whether it also limits the tattoo is a meaning. **Leviticus 19:23** (*the word here is* forbidden *and the picture is in this note*) and **Leviticus 20:17** (*checked against Hosea 6:6 and Psalm 25:10*; *the English cannot show the collision, so it is recorded here*): talk about the translating and the checking, not about the text. **Leviticus 20**, note *chapter 18 and chapter 20 are the same list twice*: anchored to no verse (the checker's CHECK). **Leviticus 18 and 19** have 11 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 23:24 *a remembrance with horn blasts***: the note says *this verse names no instrument*, but the rendering supplies *horn* (`זכרון תרועה`, no instrument). Either the note or the rendering changes; a rendering ruling. **Leviticus 22 and 23** have 12 and 15 notes (the spec says three to ten). (Bible 3, 2026-10-17)
+- **Leviticus 25:10, note *jubilee***: *The Liberty Bell in Philadelphia carries this verse* — true, but nothing in the project's sources shows it. **Leviticus 27**, note *the valuation*: the checker asks whether *fixed term* is about the text or the translating; here it means a set phrase in Hebrew grammar, and *set phrase* would not collide with the spec's *fixed terms*. **Leviticus 25 and 26** have 13 and 12 notes (the spec says three to ten). (Bible 3, 2026-10-17)
