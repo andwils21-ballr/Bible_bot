@@ -178,6 +178,8 @@ entry.
 - **Numbers 2, note headed *v10, 18, 25 the four directions***: it explains all four, and east, *qedem*, is v3 (*qedmah mizrachah*). Proposed: head it *vv3, 10, 18, 25*.
 - Checked and standing: 1:1 a month after Exodus 40:17; 1:16 and Exodus 38:26, 603,550; *va-yityaldu* found only at 1:18; *nikkevu* and Leviticus 24:11; 2:32 the four camps add up (186,400 + 151,450 + 108,100 + 157,600). The open choices of this report (*elef*, Deuel or Reuel) stay with Andrew.
 
+**Bible 3** (8:38 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the chapters and `sources/hebrew/numbers.txt`. The book reads Genesis 40:13, 19 as the note quotes them, and those are the cupbearer's and the baker's dreams (Joseph's own dreams are in chapter 37); the Numbers 2 note explains the east (`קדמה מזרחה`, 2:3 as well as vv10, 18, 25), south, west and north, so it is anchored by vv3, 10, 18, 25. Nothing to add.
+
 ### 91. Leviticus 21–24 notes: "the identical practices", "the same phrase as 3:11", "eleven more", "the form Moses used", "later Jewish communities", "the only place", "Exodus 27:20", 1 Samuel 21:7, "his disciples", Numbers 23:8 quoted, "last three chapters"
 *Asked by Bible 3, 8:36 AM CDT, 2026-10-17. Closed book; all provable.*
 
