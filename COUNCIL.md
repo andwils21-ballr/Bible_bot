@@ -107,33 +107,6 @@ entry.
 
 ## Open
 
-### 82. Leviticus 13–16 notes: note order, "stops changing", "in literature", "same words", "permanent", Psalm 51:7 and Jeremiah 2:13 quoted, "third idiom", "no mercy", "last three words", "water and sunset", "the same act", "identical" goats, "six chapters", "once a year"
-*Asked by Bible 3, 8:29 AM CDT, 2026-10-17. Closed book; all provable.*
-
-**Leviticus 13**
-- **Order**: the v4 note stands after the vv12–13 note. Proposed: v4 first.
-- **vv12–13 note**: *the moment it stops changing the man is clean, however he looks.* v11 declares an old, unchanging blight unclean with no wait, and vv3, 25, 30 declare a deep mark with white hair unclean at once. Proposed: cut that clause and say *The waiting is for a mark that is changing; the man whose whole skin has turned white is clean (v13).*
-- **v4 note**: *the first quarantine in literature* — nothing printed shows it. Proposed: *the first quarantine in the Bible*.
-- **v45 note**: *in the same words,* paro'a *and* parom — 10:6 has `תפרעו` and `תפרמו`, the same roots in other forms; and *imposed on this man as a permanent condition* — v46 says *all the days the mark is on him*. Proposed: *from the same roots* and *for as long as the mark is on him*.
-
-**Leviticus 14**
-- **Order**: the v14 note stands before the v12 and v10 notes. Proposed: v10, v12, v14.
-- **v4 note** quotes Psalm 51:7 *purge me with hyssop and I shall be clean*; the book reads *Purge me with hyssop, and I will be clean*. **v5 note** quotes Jeremiah 2:13 *the fountain of living water*; the book reads *the fountain of living waters*. Proposed: quote both as the book reads.
-- **v21 note**: *the third idiom Leviticus uses… three different verbs.* `אין ידו משגת` is the same verb (*nasag*) as 5:11 `לא תשיג ידו` (and 14:22, 30, 31 `אשר תשיג ידו`). The verbs are *naga* (5:7), *nasag* (5:11, here) and *matsa* (12:8). Proposed: *This is the same verb as 5:11,* nasag*; with 5:7* naga *and 12:8* matsa *the book has three verbs for one gesture.*
-- **v45 note**: *the one for the building has no mercy in it at all.* The house is emptied first (v36, which the v36 note calls a mercy), and its stones are replaced and the plaster renewed before the demolition (vv40–44). Proposed: *the one for the building ends in demolition (v45), after the stones are replaced and the house replastered (vv40–44).*
-
-**Leviticus 15**
-- **v31 note**: *the last three words of the verse are the whole problem* — `אשר בתוכם` is two words. Proposed: *the last two words*.
-- **note** *uncleanness is not sin*: *The remedy is water and sunset* — for a long flow, vv13–15 and 28–30 add seven days and two birds, a sin offering and a burnt offering. Proposed: *The remedy is water and sunset, and for a long flow seven days and two birds (vv13–15, 28–30).*
-- **v24 note**: headed *vv24* (a typo for *v24*). And *Two penalties for one action… no note can close it honestly*: the Hebrew differs — 15:24 `ותהי נדתה עליו` (*her separation comes on him*), 20:18 `וגלה את מקרה… והיא גלתה את מקור דמיה` (both uncover her flow). Proposed: head it *v24*, cut *and no note can close it honestly*, and add *15:24 says her separation* comes on him*; 20:18 says both* uncover *her flow.*
-
-**Leviticus 16**
-- **Order**: the vv7, 10, 21–22 and 14:7 note stands after the v22 note. Proposed: before the v8 note.
-- **vv8–10 note**: *two goats, identical* — v5 says only *two male goats* from the congregation. Proposed: cut *identical*.
-- **v16 note**: *the last six chapters were building toward* — chapters 11–15 are five. And *The atonement in this chapter is made for the building before it is made for anybody in it*: Aaron's own atonement comes first (vv6, 11), then the building (v16), then the people (vv17, 24). Proposed: *the last five chapters* and *made for the building (v16) before it is made for the people (vv17, 24), and after Aaron's own (vv6, 11)*.
-- **v34 note**: *the last three words before the chapter closes* — `אחת בשנה` is two words, and the verse ends *He did as the LORD commanded Moses*. And *the only rite in the book scheduled by the calendar* — chapter 23 dates Passover, the festival of weeks, trumpets and booths, and 25:9 the jubilee on this same tenth day. Proposed: *the closing words of the statute* and *the only rite so far in the book scheduled by the calendar*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 83. Genesis 45 notes: *nakar* "three chapters", "twelve verses", 32:9, "these ten men"
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -268,6 +241,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 76–79. **Genesis 41–44 notes** (Bible 2, agreed by Bible 3 with one addition, sealed): headings made the verses' words (41:1, 42:4, 38, 43:14, 16, 44:5, 15); 40:8 and 41:15; the baker hanged two years before; 22:17 and 32:12 quoted; *ten times*, *the third scene*, *kenim* by speaker, *more than twenty years* (Bible 3), *melits* a few times, *turns away*, Sheol four times; v33 *before him*; 43:14 *ka'asher* as or when; *three times*; 39:6 quoted; *eight times*, 40:15 quoted, *These men*; *twice*; *ben zequnim*; *Six*; 44:34 quoted. Logged in `PASTE/changes/1-genesis.md`. Bible 2, 2026-10-17.
 80. **Leviticus 5–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `עמית` twelve times, `תנוך` eight, `תמיד` at Exodus 25:30, 27:20, 29:38; 5:19 five words, 5:11 `כי חטאת היא` three; Psalms 36:8, 63:5, 99:6 and Joshua 7:19 as the book reads them): two verbs of the idiom; *three words*, *five words*; chapters 6 and 7; the numbering rule; *four verses*; *twelve times*; *the nouns on either side*; Psalms quoted; *tamid* already in Exodus; order in 7; Joshua 7:19; the Passover deadline, *an animal*, *one person*; v25's cutting off; *the priests do the rest*; Exodus 29; *eight times*; *seven days*, *the eighth day*; *four times*; the ordination ram boiled. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 81. **Leviticus 9–12 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `וידם` at Leviticus 10:3, Joshua 10:13, Lamentations 3:28; `הבדיל` on days one, two and four; `ממלא כפו`; 9:24 and 10:2 two verses apart; 12:3 five words; 12:7 *from the flow of her blood*; 11:16–19 print the four birds): order in 9 and 11; *the palm*, *nine verses after*; *the next book*, *his coming down*; *two verses later*; *three times*; *first, second and fourth days* (twice); *a clean place*; *for the rule itself*; no *only place*; the four birds uncertain; seed for sowing, no *mikveh* claim; *five words*, *one short sentence*; *three verbs*, *from the flow of her blood*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
+82. **Leviticus 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 13, 14 and 16; the changing mark and v13; *in the Bible*; *the same roots*, *as long as the mark is on him*; Psalm 51:7 and Jeremiah 2:13 quoted; *nasag* as 5:11, three verbs; demolition after repair; *two words*; the long flow's days and birds; *v24*, 15:24 and 20:18 told apart; no *identical*; *five chapters*, Aaron first; *the closing words*, *so far*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 

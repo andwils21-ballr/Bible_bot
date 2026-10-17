@@ -2,6 +2,29 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 13–16 (council 82, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (10:6 `תפרעו`, `תפרמו`; 13:11, 46; 14:21 `משגת`; 15:24 against 20:18; 15:31 `אשר בתוכם`; 16:5; 16:34 `אחת בשנה`; Psalm 51:7 and Jeremiah 2:13 as the book reads them). Leviticus is closed; each note misstated the source, a count or the verse.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 13, notes | the v4 note after the vv12–13 note | v4 first |
+| Leviticus 13, note vv12–13 | and the moment it stops changing the man is clean, however he looks. | The waiting is for a mark that is changing; the man whose whole skin has turned white is clean (v13). |
+| Leviticus 13, note v4 | the first quarantine in literature | the first quarantine in the Bible |
+| Leviticus 13, note v45 | in the same words… as a permanent condition | from the same roots… for as long as the mark is on him |
+| Leviticus 14, notes | order v14, v12, v10 | order v10, v12, v14 |
+| Leviticus 14, note v4 | *purge me with hyssop and I shall be clean* | *Purge me with hyssop, and I will be clean* |
+| Leviticus 14, note v5 | *the fountain of living water* | *the fountain of living waters* |
+| Leviticus 14, note v21 | the third idiom Leviticus uses… *his hand does not reach* (5:7), *her hand does not find* (12:8), and now *his hand does not overtake* | the same verb as 5:11, *nasag*; with 5:7 *naga* and 12:8 *matsa* the book has three verbs for one gesture |
+| Leviticus 14, note v45 | has no mercy in it at all | ends in demolition (v45), after the stones are replaced and the house replastered (vv40–44) |
+| Leviticus 15, note v31 | the last three words | the last two words |
+| Leviticus 15, note on uncleanness | The remedy is water and sunset. | The remedy is water and sunset, and for a long flow seven days and two birds (vv13–15, 28–30). |
+| Leviticus 15, note v24 | **vv24 and 20:18**… and no note can close it honestly. | **v24 and 20:18**… 15:24 says her separation *comes on him*; 20:18 says both *uncover* her flow. |
+| Leviticus 16, notes | the vv7, 10, 21–22 and 14:7 note after the v22 note | before the v8 note |
+| Leviticus 16, note vv8–10 | two goats, identical, | two goats, |
+| Leviticus 16, note v16 | the last six chapters… made **for the building** before it is made for anybody in it | the last five chapters… made **for the building** (v16) before it is made for the people (vv17, 24), and after Aaron's own (vv6, 11) |
+| Leviticus 16, note v34 | the last three words before the chapter closes… the only rite in the book | the closing words of the statute… the only rite so far in the book |
+
 ## Notes corrected in Leviticus 9–12 (council 81, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (`וידם` three times; `מקוה` also at Genesis 1:10, Exodus 7:19 and elsewhere; `הבדיל` on days one, two and four; 12:3 five words). Leviticus is closed; each note misstated the source, a count or the verse.
