@@ -2,6 +2,36 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 41–44 (council 76–79, settled 2026-10-16)
+
+**Request:** found by Bible 2, agreed by Bible 3 with one addition (*more than twenty years*), each checked against the chapter and `sources/hebrew/genesis.txt` (`COUNCIL.md`, items 76–79). Genesis is closed; each note misstated the source, a count or the verse. The choice of meaning at 43:14 (*if* or *as*) is on the closed-book list.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 41, note heading v1 | "at the end of two years of days" | "at the end of two full years" |
+| Genesis 41, note v8 | the identical complaint the two prisoners made in 40:8. | the complaint the two prisoners made in 40:8, and in v15 Pharaoh makes it in their very words. |
+| Genesis 41, note v9 | in front of a king who has just executed a man over bread. | in front of the king who had the baker hanged. |
+| Genesis 41, note v49 | the phrase God used for the promise to Abraham in 22:17 and Jacob quoted back in 32:12, *your seed like the sand of the sea which cannot be counted*. | the image of the promise to Abraham, *as the sand that is on the lip of the sea* (22:17), which Jacob quoted back in 32:12 as *like the sand of the sea — too many to be counted*. |
+| Genesis 42, note vv1, 2 | uses it eight times | uses it ten times, noun and verb |
+| Genesis 42, note heading vv4, 38 | "lest harm befall him" | "Harm might come to him… if harm befalls him" |
+| Genesis 42, note vv7, 8 | the fourth chapter running to turn on this root | the third scene to turn on this root |
+| Genesis 42, note on *kenim* | They say it about themselves five times in one chapter, and Joseph feeds it back to them twice. … for twenty years. | The word comes five times in the chapter, twice in their mouths and three times in Joseph's. … for more than twenty years. |
+| Genesis 42, note v21 | Twenty years later | More than twenty years later |
+| Genesis 42, note v23 | a word that appears in only one other place in the Hebrew Bible. | a word used only a few times in the Hebrew Bible, for a go-between. |
+| Genesis 42, note v24 | he goes out of the room to do it. | he turns away from them to do it. |
+| Genesis 42, note v38 | The two are the only times Sheol appears in Genesis, and both are Jacob, and both are about Rachel's sons. | Sheol comes four times in Genesis (37:35, here, 44:29, 44:31), every time of Jacob going down to it over Rachel's sons. |
+| Genesis 43, note vv3, 5 | they bow before his face (v26) | they sit *before him* (v33) |
+| Genesis 43, note v14 | "as I have been bereaved, I am bereaved" … He is not saying *if I lose him I lose him*; he is speaking as a man already robbed, agreeing to be robbed again. | "if I am bereaved, I am bereaved" … *Ka'asher* is *as* or *when*, so the words can also be heard as a man already robbed, agreeing to be robbed again. |
+| Genesis 43, note heading v16 | "slaughter a slaughter" | "slaughter an animal" |
+| Genesis 43, note vv27–28 | four times in two verses | three times in two verses |
+| Genesis 43, note v32 | It is also the sentence that makes 39:6 literal: Potiphar left Joseph everything *except the bread he ate*. | It may also explain 39:6, where Potiphar *knew nothing of what was with him except the bread he ate*. |
+| Genesis 44, note heading vv5, 15 | "he certainly divines by it" | "he reads the omens with… certainly divines" |
+| Genesis 44, note v8 | ran six times through chapter 31… *I was stolen, stolen*. These ten men | ran eight times through chapter 31… *I was stolen outright*. These men |
+| Genesis 44, note v16 | Judah is the one man in Genesis who uses this root about himself | Judah uses this root about himself twice |
+| Genesis 44, note v20 | and that is the narrator's phrase for **Joseph** in 37:3… in the exact words | nearly the narrator's phrase for **Joseph** in 37:3, *ben zequnim*… in almost the words |
+| Genesis 44, note v27 | Four of the men | Six of the men |
+| Genesis 44, note v34 | *Lest I see the evil that would find my father.* | *And see the evil that would find my father.* |
+
 ## Notes corrected in Genesis 40 (council 73, settled 2026-10-11)
 
 **Request:** found by Bible 2, agreed by Bible 3 after checking the Hebrew and the chapter (`COUNCIL.md`, item 73). Genesis is closed; each is a heading, count or claim the text does not bear out, or a note out of order.
