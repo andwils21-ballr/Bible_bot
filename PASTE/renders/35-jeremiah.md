@@ -2,6 +2,142 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 13–16 — rendered 2026-10-17, 5:51 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 13:4; 14:8; 15:11, 14. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- 13:6 *va-yehi miqqets yamim rabbim*, a new time: *And it came to pass after many days that the LORD said to me*.
+- 15:2 and 16:10 *ve-hayah ki*: *And it shall come to pass, when they say to you…, that you shall say to them*.
+- No other sentence starts with *And*.
+- *hinneh*: 13:7; 14:13, 18 (twice), 19 cut. 16:12 *ve-hinnekhem* cut.
+- God's *hineni* + participle: 13:13 *I am about to fill*; 16:9 *I am about to silence*; 16:16 *I am about to send*; 16:21 *I am about to make them know*. 16:14 *hinneh yamim ba'im*: *days are coming*.
+
+**Read forms followed:**
+- 15:11 *sheritikha*: the written form *sherotikha* is uncertain; the note says so, and the line is left standing.
+- 16:16 *le-dayyagim*, "for fishers": the written form is *le-dugim*, "for fish." The note gives both.
+- No note, because the meaning is the same: 13:16 *ve-shit*; 13:20 *se'u*, *re'u*; 14:3 *tse'ireihem*; 14:14 *ve-elil*, *ve-tarmit*; 15:4 *le-za'avah*; 15:9 *ba*; 15:16 *devarekha*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:14, 2:24, 22:17; Exodus 4:16, 32:11, 34:6; Leviticus 16:4, 19:34, 26:30; Numbers 12:1; Deuteronomy 10:20, 14:1, 18:20, 26:19, 28:25, 28:48, 28:64; 1 Samuel 2:5, 12:23; 2 Samuel 15:30; 1 Kings 17:1; 2 Kings 22:8, 24:3, 24:12, 24:15; Psalm 99:6; Isaiah 40:2, 42:8; Matthew 4:19.
+- Not yet rendered here, so quoted from the source: Jeremiah 17:3–4, 17:12, 21:9, 23:7–8, 27:8, 29:2, 29:18, 38:2, 38:7–13, 44:13, 51:63; Ezekiel 3:3, 24:16; Hosea 1:2, 8:13; Amos 6:7; Nahum 3:5 (Hebrew); Revelation 10:10, 13:10 (SBLGNT).
+- Earlier notes that quote these chapters, Jubilees 37's (13:23) and Job 23's (15:16), match. Jeremiah 1's note quotes 15:20 as *I will make you to this people a fortified wall of bronze; they will fight against you, but they will not overcome you*, and the text reads so.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *ve-hayah* and *va-yehi* in chapters 13–16, and every written form that differs from its read form.
+  - 15:13–14 against 17:3–4 (*ha'avarti* / *ha'avadti*); 16:14–15 against 23:7–8; the sword–famine–pestilence triad (14:12; 21:9; 27:8, 13; 29:18; 32:24, 36; 38:2; 42:17, 22; 44:13; Ezekiel 6:11); *marzeach* (Jeremiah 16:5, Amos 6:7 only); 29:2 *ha-gevirah*; 38:7; 51:63; 17:12; Hosea 8:13; Nahum 3:5; Ezekiel 3:3, 24:16.
+- Swete's Greek: Jeremiah 13:4, 17, 18, 21; 14:8, 18; 15:10, 11, 12, 14, 16, 18, 19; 16:5, 7, 16.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **13:** the linen loincloth buried by the Euphrates and ruined; the wine jars; *Say to the king and to the queen mother*; *Can the Cushite change his skin?*
+- **14:** the drought; *Hope of Israel… why should You be like a guest in the land?*; the prophets who promise peace; the people's confession.
+- **15:** *Even if Moses and Samuel stood before Me*; Jeremiah's complaint, *Woe is me, my mother*; *Your words were found, and I ate them*; *If you return… you shall be as My mouth*.
+- **16:** no wife, no mourning, no feasting; a new exodus from the north; the fishers and the hunters; *they will know that My name is the LORD*.
+
+### Jeremiah 13: The Linen Loincloth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ezor pishtim* | a linen loincloth (note) |
+| 1 | *al motnekha* "on your loins" | around your waist |
+| 4 | *Peratah* | to the Euphrates (note) |
+| 4 | *bi-nqiq ha-sela* | in a cleft of the rock |
+| 7 | *lo yitslach la-kol* | good for nothing |
+| 9 | *ge'on* | the pride |
+| 11 | *yidbaq… hidbaqti* | clings… made… cling (Genesis 2:24; note) |
+| 12 | *nevel* | jar |
+| 13 | *shikkaron* | drunkenness |
+| 14 | *me-hashchitam* "from destroying them" | nothing will keep Me from destroying them |
+| 16 | *harei nashef* | the mountains at twilight |
+| 16 | *tsalmavet* | the shadow of death (2:6) |
+| 17 | *mi-penei gevah* | for your pride |
+| 18 | *ha-gevirah* | the queen mother (note) |
+| 18 | *hashpilu shevu* "make low, sit" | Take a lowly seat |
+| 19 | *hogelat shelomim* | wholly taken into exile |
+| 21 | *allufim le-rosh* | ***KEPT AS IS*** those you yourself taught to be your friends (the line's sense is uncertain) |
+| 22 | *nechmesu aqevayikh* "your heels suffer violence" | you are violated (note) |
+| 23 | *kushi* | the Cushite (note) |
+| 25 | *menat middayikh* | the portion I have measured out to you |
+| 27 | *mitshalotayikh* | your neighings (5:8) |
+| 27 | *shiqqutsayikh* | your loathsome things (fixed term) |
+
+### Jeremiah 14: The Drought
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-batsarot* | the drought |
+| 2 | *qaderu la-arets* "they are dark to the ground" | they sit in black on the ground |
+| 3 | *gevim* | the cisterns |
+| 4 | *chattah* | cracked |
+| 6 | *ka-tannim* | like jackals |
+| 7 | *meshuvoteinu* | our faithlessness (3:6) |
+| 8 | *ke-ger* | like a guest (fixed term; note) |
+| 9 | *nidham* | dismayed |
+| 10 | *lo chasakhu* | they have not restrained |
+| 13 | *shelom emet* | true peace |
+| 14 | *ve-qesem ve-elil* | divination, a worthless thing |
+| 17 | *shever gadol nishberah* | is broken with a great breaking |
+| 18 | *sacharu el erets ve-lo yada'u* | ***KEPT AS IS*** go about in a land they do not know (the line's sense is uncertain) |
+| 21 | *kisse khevodekha* | Your glorious throne (note) |
+| 22 | *havlei ha-goyim* | the emptinesses of the nations (note) |
+
+### Jeremiah 15: Your Words Were Found, and I Ate Them
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ein nafshi el ha-am ha-zeh* "My soul is not toward this people" | My heart would not turn toward this people |
+| 3 | *arba mishpachot* "four families" | four kinds of destroyers |
+| 3 | *lischov* | to drag away |
+| 4 | *le-za'avah* | a horror (Deuteronomy 28:25; note) |
+| 6 | *nil'eiti hinnachem* | I am weary of relenting |
+| 7 | *be-mizreh* | with a winnowing fork |
+| 8 | *al em bachur shoded* | against the mothers of young men a destroyer |
+| 9 | *nafchah nafshah* | she has breathed out her soul |
+| 10 | *ish riv ve-ish madon* | a man of strife and contention |
+| 11 | *sheritikha le-tov… hifga'ti vekha* | ***KEPT AS IS*** I will set you free for good… make the enemy plead with you (the verse is hard; note) |
+| 12 | *ha-yaroa barzel* | ***KEPT AS IS*** Can one break iron (the verse is hard; note) |
+| 13 | *lo vi-mchir* | without price |
+| 14 | *ve-ha'avarti et oyevekha* | I will make you go with your enemies (choice below) |
+| 15 | *le-erekh appekha* | In Your slowness to anger (Exodus 34:6; note) |
+| 17 | *sod mesacheqim* | the company of revelers |
+| 18 | *akhzav* | a deceitful brook (note) |
+| 19 | *yaqar mi-zolel* | what is precious from what is worthless |
+| 19 | *ke-fi tihyeh* | you shall be as My mouth (Exodus 4:16; note) |
+| 21 | *aritsim* | the ruthless |
+
+### Jeremiah 16: No Wife, No Mourning, No Feasting
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *memotei tachalu'im* | deadly diseases |
+| 5 | *beit marzeach* | the house of mourning (note) |
+| 5 | *ha-chesed ve-ha-rachamim* | My loyal love and My compassion |
+| 6 | *lo yitgodad ve-lo yiqqareach* | gash himself, or shave his head (Deuteronomy 14:1; note) |
+| 7 | *yifresu lahem* "break for them" | break bread for the mourner |
+| 7 | *kos tanchumim* | the cup of consolation |
+| 8 | *beit mishteh* | the house of feasting |
+| 13 | *ve-hetalti* | I will hurl |
+| 13 | *chaninah* | favor |
+| 16 | *dayyagim… tsayyadim* | fishers… hunters (note) |
+| 18 | *mishneh* | double (Isaiah 40:2; note) |
+| 18 | *nivlat shiqqutseihem* | the carcasses of their loathsome things (Leviticus 26:30; note) |
+| 19 | *uzzi u-ma'uzzi u-menusi* | my strength and my stronghold, my refuge |
+
+**Left standing on purpose:**
+- 13:21, *those you yourself taught to be your friends*: the line's sense is uncertain.
+- 14:18, *go about in a land they do not know*: the line's sense is uncertain.
+- 15:11–12, *I will set you free for good… Can one break iron*: both verses are hard in the Hebrew; the note gives the range.
+
+**Choices for you:**
+
+- **15:14, *ve-ha'avarti et oyevekha***
+  - (a) **I will make you go with your enemies into a land you do not know** (now): the Hebrew here, *ha'avarti*, "I will make pass." The people are carried off along with their conquerors.
+  - (b) **I will make you serve your enemies in a land you do not know**: *ha'avadti*, "I will make serve," one letter different (*d* for *r*), as the same oracle reads when it comes again in 17:4, and as the Greek reads here.
+  - Recommend (b): the same lines stand in 17:3–4 with *serve*, the Greek has *serve* here too, and *serve your enemies* is the curse of the covenant (Deuteronomy 28:48).
+
 ## Jeremiah 9–12 — rendered 2026-10-17, 12:51 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with 10:11 in Aramaic, as the Hebrew Bible has it; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 10:5, 24; 11:5, 15, 19; 12:9. The Greek does not have 10:6–8, 10 or most of 11:7–8, and the notes say so.

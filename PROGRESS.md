@@ -1,6 +1,6 @@
 # Progress
 
-**1118 of 1989 chapters rendered (56.2%).**
+**1122 of 1989 chapters rendered (56.4%).**
 
 Next up: **Esther 11**
 
@@ -40,7 +40,7 @@ Next up: **Esther 11**
 | 32 | Wisdom of Solomon | source | done |
 | 33 | Sirach | source | done |
 | 34 | Isaiah | source | done |
-| 35 | Jeremiah | source | 12/52 |
+| 35 | Jeremiah | source | 16/52 |
 | 36 | Lamentations | source | 0/5 |
 | 37 | Baruch | source | 0/5 |
 | 38 | Letter of Jeremiah | source | 0/1 |
