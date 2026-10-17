@@ -2,6 +2,36 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Genesis 45–50 (council 83–86, 88–89, settled 2026-10-17)
+
+**Request:** found by Bible 2, agreed by Bible 3, each checked against the chapter, `sources/hebrew/genesis.txt` and Swete's Greek (`COUNCIL.md`, items 83–86 and 88–89). Genesis is closed; each note misstated the source, a count or the verse. Genesis is now reviewed through.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 45, note v1 | Three chapters have run on *nakar* | Three scenes have turned on *nakar* (37:32–33, 38:25–26, 42:7–8) |
+| Genesis 45, note v7 | 32:9 | 32:8 |
+| Genesis 45, note v15 | twelve verses | eleven verses |
+| Genesis 45, note v27 | these ten men | these men |
+| Genesis 46, note v15 | verses 9–15 | verses 8–15 |
+| Genesis 46, note vv26–27 | two totals four words apart | two totals in two verses |
+| Genesis 46, note v19 | Forty years after her death | More than twenty years after her death |
+| Genesis 46, note v28 | since chapter 44 | since chapter 43 |
+| Genesis 46, note v30 | since 42:6… for five chapters | since 43:3… for four chapters |
+| Genesis 46, note v27 (Greek) | counts them as **nine**, because at v20 it adds three further generations… Nine instead of two makes the total **seventy-five**. | at v20 adds five descendants the Hebrew has not got… Its v27 then counts Joseph's sons in Egypt as **nine**, two more than its own list names, and the total as **seventy-five**. |
+| Genesis 46, notes | v15, vv26–27, v19 … vv32, 34, v27 (Greek) | v15, v19, vv26–27, v27 (Greek), v28 … |
+| Genesis 47, note v9 | **time as a foreigner** — *magur*, from *gur*, to reside as an outsider… a stranger | **living as a guest** — *magur*, from *gur*, to live as a guest… a guest |
+| Genesis 47, note v29 | in 32:11 | in 32:10, *all the kindnesses and all the faithfulness You have done* |
+| Genesis 48, note v22 | took the city by sword while he was elsewhere | took the city by sword |
+| Genesis 49, note vv3–4 | on the last three words | in the last clause |
+| Genesis 49, note v33 | His first recorded act as a man was | After Bethel his journey began |
+| Genesis 49, note heading vv24–25 | three names for God, all new | three names for God, two of them new |
+| Genesis 49, note v31 | whose eyes the book would not describe… two chapters ago | whose eyes the book described with a word it would not explain (29:17)… in the previous chapter |
+| Genesis 50, note v15 | has been dead one verse | has been buried one verse |
+| Genesis 50, note v18 | eleven brothers | his brothers |
+| Genesis 50, note v19 | four words, and they are his **father's** words. Jacob said exactly this to Rachel in 30:2 | three words, and they are nearly his **father's** words. Jacob said almost this to Rachel in 30:2 (*ha-tachat Elohim anokhi*) |
+| Genesis 50, note vv8, 9 | *only your flocks and your herds shall be left; your little ones may go too* | *Only your flocks and your herds are to be left behind. Your little ones may go with you too.* |
+| Genesis 50, note v26 | it has appeared only once before in this book | this is its only appearance in Genesis |
+
 ## Capital pronouns for God: Genesis 32:10, 12 (Andrew's ruling of 2026-10-10, 2026-10-17)
 
 **Request:** Andrew, 2026-10-10: "Always capitalize 'he' in reference to God." The sweep of that day missed Jacob's prayer, found in the review of Genesis 47 (its note quotes 32:10). A search of the other prayers in Genesis and Exodus (Genesis 3:10; 4:13–14; 15; 17:18; 18:23–32; 20:4–5; 24; 28:22; Exodus 3–6, 15, 17:4, 32–34) found no other.

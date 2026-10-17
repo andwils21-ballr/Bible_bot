@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes corrected in Numbers 1–2 (council 90, settled 2026-10-17)
+
+**Request:** found by Bible 2, agreed by Bible 3 (`COUNCIL.md`, item 90).
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 1, note v2 | the idiom of Joseph's two dreams in prison | the idiom of the two dreams Joseph interpreted in prison |
+| Numbers 2, note heading | v10, 18, 25 the four directions | vv3, 10, 18, 25 the four directions |
+
 ## Numbers 11:4 and 11:33 (2026-10-16)
 
 **Request:** Andrew's rulings. 11:33: (b), *before it ran out*: *terem yikkaret*, "before it was cut off," as the verb is used of food and wine in Joel 1:5, 16, and as the Greek has it (*before it gave out*), in place of the traditional *before it was chewed*. 11:4: *rabble* singled out the non-Israelites too harshly, and *mixed crowd* sounded like everyone; Andrew asked for a word like *outsiders*.

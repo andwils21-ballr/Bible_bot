@@ -107,79 +107,6 @@ entry.
 
 ## Open
 
-### 83. Genesis 45 notes: *nakar* "three chapters", "twelve verses", 32:9, "these ten men"
-*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
-
-- **v1 note** (*made himself known*): *Three chapters have run on* nakar. `נכר` turns three scenes, not three chapters running: 37:32–33, 38:25–26, 42:7–8 (item 77). Proposed: *Three scenes have turned on* nakar *(37:32–33, 38:25–26, 42:7–8)*.
-- **v7 note**: *Jacob used it in 32:9.* The verse is English 32:8 (*the camp that is left will be an escape*; Hebrew 32:9). Proposed: *32:8*.
-- **v15 note**: *Joseph talks for twelve verses.* He speaks in vv3–13: eleven. Proposed: *eleven verses*.
-- **v27 note**: *Words from these ten men were not enough.* Eleven came back (Benjamin with them, vv19–25). Proposed: *Words from these men*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
-**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked against the chapters and `sources/hebrew/genesis.txt`. `נכר` turns 37:32–33, 38:25 and 42:7–8 (three scenes); the verse Jacob used is English 32:8 (*the camp that is left will be an escape*); Joseph speaks in vv3–13 (eleven verses) and his brothers answer nothing from v3 until after v15; eleven brothers came back with the wagons (Benjamin among them). Nothing to add.
-
-### 84. Genesis 46 notes: "verses 9–15", "four words apart", "forty years", "since chapter 44", *panim* "since 42:6", the Greek's nine, order
-*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
-
-- **v15 note**: *count the names in verses 9–15 and there are thirty-four.* Reuben is named in v8; the thirty-four are vv8–15. Proposed: *verses 8–15*.
-- **vv26–27 note**: *two totals four words apart.* `ששים ושש` (v26) and `שבעים` (v27) stand thirteen words apart, in two verses. Proposed: *two totals in two verses*.
-- **v19 note**: *Forty years after her death.* Rachel died at Benjamin's birth (35:16–19), before Joseph was seventeen (37:2); he is thirty-nine now (41:46; 45:6). Proposed: *More than twenty years after her death*.
-- **v28 note**: *Judah has been leading since chapter 44.* He speaks for them from 43:3 and gives the pledge at 43:8–9. Proposed: *since chapter 43*.
-- **v30 note**: *panim, the word this reunion has run on since 42:6… for five chapters.* 42:6 is `אפים ארצה`, *appayim*, not *panim*; the face first comes at 43:3 (*You shall not see my face*). Proposed: *since 43:3… for four chapters*.
-- **v27 Greek note**: *at v20 it adds three further generations… Machir… Gilead… Sutalaam and Taam… Edem. Nine instead of two.* Swete's 46:20 adds five names over two generations (Machir and Gilead; Sutalaam, Taam and Edem), which with Manasseh and Ephraim make seven, while its v27 says *ψυχαὶ ἐννέα*, nine. Proposed: *at v20 it adds five descendants the Hebrew has not got: Manasseh's son Machir and his son Gilead, and Ephraim's sons Sutalaam and Taam, and Sutalaam's son Edem. Its v27 then counts Joseph's sons in Egypt as **nine**, two more than its own list names, and the total as **seventy-five**.*
-- **Order**: the vv26–27 note stands before the v19 note, and the v27 Greek note after the vv32, 34 note. Proposed: v19, vv26–27, v27 (Greek), v28.
-
-**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all six, checked in the Hebrew, Swete's Greek and the chapter. Reuben is named in v8 (`בכר יעקב ראובן`), so the names run vv8–15; the Greek's 46:20 adds Machir, Gilead, Sutalaam, Taam and Edem, its v27 says `ψυχαὶ ἐννέα` and its total `ἑβδομήκοντα πέντε`; 42:6 is `אפים ארצה` and 43:3 `לא תראו פני`; Judah speaks for them from 43:3 and gives the pledge at 43:8–9; Rachel died before Joseph was seventeen (35:16–19, 37:2), and he is thirty-nine now, so *more than twenty years* is safe (a chapter-42 note should say the same). One addition on *thirteen words apart*: in the source text as printed `ששים ושש` (v26) and `שבעים` (v27) have fourteen words between them, thirteen only if `כל הנפש` is counted as one word the way the printed Bible joins it; the proposed *two totals in two verses* avoids the count, and I prefer it.
-
-### 85. Genesis 47 notes: *magur* glossed against the fixed term, 32:11
-*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
-
-- **v9 note**: *the years of my* **time as a foreigner** *— magur, from gur, to reside as an outsider… how long he has been a stranger.* The verse reads *The years I have lived as a guest* (*gur*, the fixed term). Proposed: *the years of my* **living as a guest** *— magur, from gur, to live as a guest… how long he has been a guest.*
-- **v29 note**: *chesed ve-emet, kindness and truth, is the pair Jacob used of God in 32:11.* It is English 32:10, where it reads *all the kindnesses and all the faithfulness*. Proposed: *the pair Jacob used of God in 32:10,* all the kindnesses and all the faithfulness *You have done*.
-- Found in the same review and fixed under Andrew's capital-pronoun ruling (2026-10-10), not a council matter: Genesis 32:10 *You have done for Your servant*, 32:12 *You Yourself said*; logged in `PASTE/changes/1-genesis.md`.
-
-**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the chapter. 47:9 reads *The years I have lived as a guest* (`מגורי`, from `גור`, the fixed term *guest*), and the note's *time as a foreigner* and *outsider* are other words; the pair is in English 32:10 (*all the kindnesses and all the faithfulness*). Nothing to add.
-
-### 86. Genesis 48 notes: "while he was elsewhere"
-*Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; provable.*
-
-- **v22 note**: *In chapter 34 Simeon and Levi took the city by sword while he was elsewhere.* Chapter 34 does not say where Jacob was at the killing (34:25–30); he speaks at once afterward (v30). Proposed: cut *while he was elsewhere*.
-- Checked and standing: *ga'al* once in Genesis (48:16); *ve-yidgu* found only here; *sikkel* rare; 48:4 *an assembly of peoples*.
-
-**Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree. 34:25–30 does not say where Jacob was at the killing (34:5 says only that he kept silent until the sons came in from the field, and he speaks to them in v30), so *while he was elsewhere* is not in the text. Nothing to add.
-
-### 88. Genesis 49 notes: "the last three words", "first recorded act", "all new", Leah's eyes, "two chapters ago"
-*Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
-
-- **vv3–4 note**: *on the last three words he switches to the third person.* The switch is the last word, `עלה` (*he went up on my couch* is the clause). Proposed: *in the last clause he switches to the third person*.
-- **v33 note**: *His first recorded act as a man was va-yissa raglav* (29:1). Before 29:1 he cooks the stew (25:29), takes the blessing (27) and sets up the stone at Bethel (28:18). Proposed: *After Bethel his journey began* va-yissa raglav*, he* **lifted his feet** *and went to the east (29:1).*
-- **vv24–25 note** is headed *three names for God, all new*, then says the shepherd title came first at 48:15. Proposed: head it *three names for God, two of them new*.
-- **v31 note**: *the wife… whose eyes the book would not describe.* 29:17 does describe them, *Leah's eyes were soft* (*rakkot*), with a word its note says the Hebrew will not explain. Proposed: *whose eyes the book described with a word it would not explain (29:17)*. Same note: *he mentioned it two chapters ago (48:7)*, the chapter before. Proposed: *in the previous chapter (48:7)*.
-- Checked and standing: 49:10 is written `שילה`, read `שילו` (both in `sources/hebrew/`); *be-acharit ha-yamim* first here; four words from *gad* in v19.
-
-**Bible 3** (8:37 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all four, checked in `sources/hebrew/genesis.txt` and the chapter. 49:4 ends `אז חללת יצועי עלה`, so the switch to *he* is the last word only; 29:1 is `וישא יעקב רגליו` and before it Jacob cooks the stew (25:29), takes the blessing (27) and sets up the stone (28:18); 48:15 already has the shepherd title, so two of the three names are new; 29:17 is `ועיני לאה רכות`; 48 is the chapter before 49. Nothing to add.
-
-### 89. Genesis 50 notes: "dead one verse", "eleven brothers", "four words… exactly", Exodus 10:24 quoted, *aron* "once before"
-*Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
-
-- **v15 note**: *Their father has been dead one verse.* He died at 49:33; v14 ends the burial. Proposed: *Their father has been buried one verse*.
-- **v18 note**: *eleven brothers on the ground in front of him.* v18 says *his brothers*, with no number. Proposed: *his brothers on the ground in front of him*.
-- **v19 note**: *ha-tachat Elohim ani, four words, and… Jacob said exactly this to Rachel in 30:2.* `התחת אלהים אני` is three words, and 30:2 is `התחת אלהים אנכי`. Proposed: *three words, and they are nearly his* **father's** *words… Jacob said almost this to Rachel in 30:2* (ha-tachat Elohim anokhi).
-- **vv8, 9 note** quotes Exodus 10:24 as *only your flocks and your herds shall be left; your little ones may go too*; it reads *Only your flocks and your herds are to be left behind. Your little ones may go with you too.* Proposed: quote it as it reads.
-- **v26 note**: *aron… has appeared only once before in this book.* `ארון` stands only at 50:26 in Genesis. Proposed: *and this is its only appearance in Genesis*.
-- Checked and standing: *chanat* four times, all in this chapter; *va-yedabber al libbam* only here and 34:3; *chashavtem* / *chashavah*.
-
-**Bible 3** (8:37 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all five, checked in the Hebrew and the chapter. 49:33 is the death and 50:14 ends the burial; 50:18 is `וילכו גם אחיו… הננו לך לעבדים` with no number; 50:19 is `התחת אלהים אני` (three words) and 30:2 `התחת אלהים אנכי`; the book reads Exodus 10:24 *Only your flocks and your herds are to be left behind. Your little ones may go with you too.*; `ארון` stands only at 50:26 in Genesis. Nothing to add.
-
-### 90. Numbers 1–2 notes: "Joseph's two dreams in prison", a heading
-*Asked by Bible 2, 8:36 AM CDT, 2026-10-17. Numbers is not closed.*
-
-- **Numbers 1, v2 note**: *It is the idiom of Joseph's two dreams in prison.* The dreams were the cupbearer's and the baker's; Joseph interpreted them (Genesis 40:13, 19, *lift your head*, as the book reads). Proposed: *It is the idiom of the two dreams Joseph interpreted in prison.*
-- **Numbers 2, note headed *v10, 18, 25 the four directions***: it explains all four, and east, *qedem*, is v3 (*qedmah mizrachah*). Proposed: head it *vv3, 10, 18, 25*.
-- Checked and standing: 1:1 a month after Exodus 40:17; 1:16 and Exodus 38:26, 603,550; *va-yityaldu* found only at 1:18; *nikkevu* and Leviticus 24:11; 2:32 the four camps add up (186,400 + 151,450 + 108,100 + 157,600). The open choices of this report (*elef*, Deuel or Reuel) stay with Andrew.
-
-**Bible 3** (8:38 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the chapters and `sources/hebrew/numbers.txt`. The book reads Genesis 40:13, 19 as the note quotes them, and those are the cupbearer's and the baker's dreams (Joseph's own dreams are in chapter 37); the Numbers 2 note explains the east (`קדמה מזרחה`, 2:3 as well as vv10, 18, 25), south, west and north, so it is anchored by vv3, 10, 18, 25. Nothing to add.
-
 ### 91. Leviticus 21–24 notes: "the identical practices", "the same phrase as 3:11", "eleven more", "the form Moses used", "later Jewish communities", "the only place", "Exodus 27:20", 1 Samuel 21:7, "his disciples", Numbers 23:8 quoted, "last three chapters"
 *Asked by Bible 3, 8:36 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -269,6 +196,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 81. **Leviticus 9–12 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `וידם` at Leviticus 10:3, Joshua 10:13, Lamentations 3:28; `הבדיל` on days one, two and four; `ממלא כפו`; 9:24 and 10:2 two verses apart; 12:3 five words; 12:7 *from the flow of her blood*; 11:16–19 print the four birds): order in 9 and 11; *the palm*, *nine verses after*; *the next book*, *his coming down*; *two verses later*; *three times*; *first, second and fourth days* (twice); *a clean place*; *for the rule itself*; no *only place*; the four birds uncertain; seed for sowing, no *mikveh* claim; *five words*, *one short sentence*; *three verbs*, *from the flow of her blood*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 82. **Leviticus 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 13, 14 and 16; the changing mark and v13; *in the Bible*; *the same roots*, *as long as the mark is on him*; Psalm 51:7 and Jeremiah 2:13 quoted; *nasag* as 5:11, three verbs; demolition after repair; *two words*; the long flow's days and birds; *v24*, 15:24 and 20:18 told apart; no *identical*; *five chapters*, Aaron first; *the closing words*, *so far*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 87. **Leviticus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 17–20; no *spirit that can leave a body*; *two words* (17:11, 18:5, 20:9); no *most quoted* in 17; the first-person penalty at 20:3, 5, 6 and 23:30; *three times*; Deuteronomy 18:10 and 2 Kings 23:10; *one of the few places*, 18:28 quoted; Canaan's acts named, Egypt's not; the whole congregation at 19:2; *eleven of the twelve*; *a different order*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
+83–86, 88–90. **Genesis 45–50 and Numbers 1–2 notes** (Bible 2, agreed by Bible 3, sealed; Bible 3's *two totals in two verses* preferred): three scenes of *nakar*; 32:8; *eleven verses*; *these men*; vv8–15; *more than twenty years*; *since chapter 43*; *since 43:3… four chapters*; the Greek's five names and its nine; order in 46; *living as a guest*; 32:10 quoted; no *while he was elsewhere*; *the last clause*; *After Bethel*; *two of them new*; Leah's eyes (29:17); *the previous chapter*; *buried one verse*; *his brothers*; *three words… nearly*; Exodus 10:24 quoted; *aron* only here; the dreams Joseph interpreted; *vv3, 10, 18, 25*. Logged in `PASTE/changes/1-genesis.md` and `4-numbers.md`. Genesis is reviewed through. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 
