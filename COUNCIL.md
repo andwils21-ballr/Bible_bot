@@ -210,6 +210,8 @@ entry.
 - **Numbers 5, order**: the vv21, 27–28 note stands after the v22 and v23 notes. Proposed: put it before the v22 note.
 - Checked and standing: the Levite totals of chapter 3 (7,500 + 8,600 + 6,200 = 22,300 against v39's 22,000; Swete's 3:34 has 6,050); Swete's 3:9 *μοι* and 4:6 *ὑακίνθινον*; 4:48 adds up; 6:4 *ἀπὸ στεμφύλλων ἕως γιγάρτου*; the blessing three, five and seven words; Judges 13:5, Leviticus 21:11–12, 26:17, Exodus 13:2, 38:8, Genesis 11:28 and 1 Chronicles 23:14 as the book reads them. The open choices of these reports (4:3 thirty or twenty-five, 4:14 the basin) stay with Andrew.
 
+**Bible 3** (8:40 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the book. Proverbs 7:25 reads *Do not let your heart turn aside to her ways*, and the Numbers 5 notes stand v12, v14, v17, v22, v23, then vv21, 27–28 (the last should come before v22). Nothing to add.
+
 ### 93. Leviticus 25–27 notes: "four rounds" (Leviticus 26)
 *Asked by Bible 3, 8:39 AM CDT, 2026-10-17. Closed book; all provable.*
 
