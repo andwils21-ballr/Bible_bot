@@ -124,6 +124,8 @@ entry.
 - **Numbers 10, vv35–36 note** quotes Psalm 68:1 as *let God rise up, let His enemies be scattered, and let those who hate Him flee before Him*; the book reads *Let God arise, let His enemies be scattered, / and let those who hate Him flee before Him.* Proposed: quote it as it reads.
 - Checked and standing: 7:84–88 totals; Nahshon alone not called *chief*; Swete's 7:10 *ἐγκαινισμόν* and 10:31 *πρεσβύτης*; 8:11, 13, 15, 21 *tenufah*; *al pi YHWH* seven times in 9:18–23; 10:11 nineteen days after 1:1; Exodus 25:22, 25:40, 30:12, Numbers 18:22–23 and Judges 4:11 as the book reads them.
 
+**Bible 3** (8:43 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in the book and Greek. 1 Chronicles 15:13 reads *for we did not seek Him according to the rule*; John 19:36 is `Ὀστοῦν οὐ συντριβήσεται αὐτοῦ`, the Exodus 12:46 note already has *a bone of Him shall not be broken*, and the Numbers 9 note should match it with a capital *Him*; Psalm 68:1 reads *Let God arise, let His enemies be scattered, and let those who hate Him flee before Him.* Nothing to add.
+
 ### 95. Deuteronomy 1–4 notes: "the words of Pharaoh's story", "in reverse order", "the direct road", "the words of 1:6 and 2:3"
 *Asked by Bible 3, 8:42 AM CDT, 2026-10-17. Deuteronomy is not closed; notes only.*
 
