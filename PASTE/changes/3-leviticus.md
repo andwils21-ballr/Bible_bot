@@ -2,6 +2,29 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 17–20 (council 87, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (17:11 `בנפש יכפר`; 17:10 and 20:3, 5, 6 first person, 23:30 `והאבדתי`; 18:8, 14, 16; Deuteronomy 18:10 and 2 Kings 23:10 `באש`; 18:5 `וחי בהם`; 19:2 the only `כל עדת בני ישראל` in Leviticus; 20:9 `דמיו בו`; Exodus 15:12, Numbers 16:32 and 18:28 as the book reads them). Leviticus is closed; each note misstated the source, a count or the book. Leviticus 17 is a fixed model; these are counts and contradictions with the book's own text.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 17, notes | vv3–9 after the v7 notes; vv8, 10, 12, 13, 15 after v13; v10 last | in verse order: vv3–9, v4, v7, v7, vv8–15, v10, v11, v11, v13 |
+| Leviticus 17, note v11 (*nefesh*) | It is not a spirit that can leave a body; it is breath | It is breath |
+| Leviticus 17, note v11 (atonement) | three words… It is the single most quoted sentence in Leviticus and its last clause | two words… Its last clause |
+| Leviticus 17, note v10 | Everywhere else the penalty is *he shall be cut off*, passive | Here, at 20:3, 5 and 6, and at 23:30 the sentence names Him; most other places say *he shall be cut off*, passive |
+| Leviticus 18, notes | the v3 and v5 notes last | v3, v5 first |
+| Leviticus 18, note vv7–8 | twice the text describes | three times (vv8, 14, 16) the text describes |
+| Leviticus 18, note v21 | though 20:14 and later books use fire | though Deuteronomy 18:10 and 2 Kings 23:10 have fire |
+| Leviticus 18, note vv25, 28 | This is the only place in the Torah… *the land will not vomit you out* | This is one of the few places in the Torah… (see also Exodus 15:12, Numbers 16:32)… *it will vomit you out as it vomited out the nation that was before you* |
+| Leviticus 18, note v3 | It does not say what those practices were. Every account of what Egypt or Canaan actually did comes from somewhere other than this text, and the chapter itself simply says | v3 names neither; vv24 and 27 say the people of Canaan did all these things, and nothing in the chapter says what Egypt did. The verse itself simply says |
+| Leviticus 18, note v5 | four words | two words |
+| Leviticus 19, notes | the two v18 notes first | v2, vv9–10, v11, v14, v16, v17, then the two v18 notes |
+| Leviticus 19, note v2 | Everything up to chapter 16 was spoken to Aaron and his sons; the demand to be holy was a priest's job description. Here the same word is handed to everyone, and | This is the only place in Leviticus where Moses is told to speak to the whole congregation; the demand to be holy was already made to the sons of Israel at 11:44–45, and here it is made to all. |
+| Leviticus 19, note v11 | Nine of the ten occurrences | Eleven of the twelve occurrences |
+| Leviticus 20, notes | v17, v9, v4, v2 | v2, v4, v9, v17 |
+| Leviticus 20, note v9 | in three words each time | in two words each time |
+| Leviticus 20, chapter note | in the same order | in a different order |
+
 ## Notes corrected in Leviticus 13–16 (council 82, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (10:6 `תפרעו`, `תפרמו`; 13:11, 46; 14:21 `משגת`; 15:24 against 20:18; 15:31 `אשר בתוכם`; 16:5; 16:34 `אחת בשנה`; Psalm 51:7 and Jeremiah 2:13 as the book reads them). Leviticus is closed; each note misstated the source, a count or the verse.

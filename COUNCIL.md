@@ -148,34 +148,6 @@ entry.
 
 **Bible 3** (8:34 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree. 34:25–30 does not say where Jacob was at the killing (34:5 says only that he kept silent until the sons came in from the field, and he speaks to them in v30), so *while he was elsewhere* is not in the text. Nothing to add.
 
-### 87. Leviticus 17–20 notes: note order, "not a spirit that can leave a body", "three words", "most quoted" twice, "everywhere else… passive", "twice", "20:14 use fire", "the only place… the land… acts", v28 quoted, "does not say what", "four words", "up to chapter 16… Aaron and his sons", "nine of the ten", "in the same order"
-*Asked by Bible 3, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
-
-**Leviticus 17** (a fixed model; every item is a count or a contradiction with the book's own text)
-- **Order**: the vv3–9 note stands after the v7 notes, the vv8, 10, 12, 13, 15 note after the v13 note, and the v10 note last. Proposed, by first verse: vv3–9, v4, v7, v7, vv8, 10, 12, 13, 15, v10, v11, v11, v13.
-- **v11 note** (*nefesh*): *It is not a spirit that can leave a body.* The book reads Genesis 35:18 *as her soul was going out* and 1 Kings 17:21–22 *let this child's life come back into him… the life of the child came back into him*, both `נפש`. Proposed: cut that sentence (the same fix as the Leviticus 2 note).
-- **v11 note** (*makes atonement by the life*): *three words* — `בנפש יכפר` is two. And *It is the single most quoted sentence in Leviticus*: the Leviticus 19 note on 19:18 says the same of that verse (*the most quoted line in Leviticus*). Proposed: *two words*, and cut *It is the single most quoted sentence in Leviticus and* (leaving *Its last clause has never been settled*).
-- **v10 note**: *Everywhere else the penalty is* he shall be cut off*, passive.* 20:3, 5, 6 have the same first-person sentence (`ונתתי פני… והכרתי אתו`), and 23:30 has `והאבדתי`. Proposed: *Here, at 20:3, 5 and 6, and at 23:30 the sentence names Him; most other places say* he shall be cut off*, passive.*
-
-**Leviticus 18**
-- **Order**: the v3 and v5 notes stand last. Proposed: v3, v5, then the v6 notes.
-- **vv7–8 note**: *twice the text describes an offense against a woman as an offense against a man* — three times: v8 (your father's nakedness), v14 (*the nakedness of your father's brother… his wife*) and v16. Proposed: *three times (vv8, 14, 16)*.
-- **v21 note**: *though 20:14 and later books use fire.* 20:14 is the man who takes a woman and her mother, not Molech; fire is in Deuteronomy 18:10 (`מעביר בנו ובתו באש`) and 2 Kings 23:10. Proposed: *though Deuteronomy 18:10 and 2 Kings 23:10 have fire*.
-- **vv25, 28 note**: *This is the only place in the Torah where the land is the one who acts.* The book reads Exodus 15:12 *The earth swallowed them* and Numbers 16:32 *The earth opened its mouth and swallowed them*. And v28 is quoted *the land will not vomit you out*; the verse reads *it will vomit you out as it vomited out the nation that was before you*. Proposed: *This is one of the few places in the Torah where the land is the one who acts (see also Exodus 15:12, Numbers 16:32)* and quote v28 as it reads.
-- **v3 note**: *It does not say what those practices were. Every account of what Egypt or Canaan actually did comes from somewhere other than this text.* vv24 and 27 say the nations before them *did all these detestable things*, the acts listed in vv6–23; only Egypt's practices are left unnamed. Proposed: *v3 names neither; vv24 and 27 say the people of Canaan did all these things, and nothing in the chapter says what Egypt did.*
-- **v5 note**: *va-chai bahem, four words* — `וחי בהם` is two. Proposed: *two words*.
-
-**Leviticus 19**
-- **Order**: the two v18 notes stand first, before the v2 note. Proposed: v2, vv9–10, v11, v14, v16, v17, then the two v18 notes.
-- **v2 note**: *Everything up to chapter 16 was spoken to Aaron and his sons; the demand to be holy was a priest's job description.* 11:2, 12:2 and 15:2 are spoken to the sons of Israel, 11:44–45 says *be holy* to them, and 17:2 includes *all the sons of Israel*. What is new at 19:2 is `אל כל עדת בני ישראל`, *the whole congregation*, found nowhere else in Leviticus as an address. Proposed: *This is the only place in Leviticus where Moses is told to speak to the whole congregation; the demand to be holy was already made to the sons of Israel at 11:44–45, and here it is made to all.*
-- **v11 note**: *Nine of the ten occurrences of* amit *in the Bible are in Leviticus* — twelve, eleven in Leviticus (item 80, the Leviticus 6 note). Proposed: *Eleven of the twelve*.
-
-**Leviticus 20**
-- **Order**: the v17 note stands first, then v9, v4, v2. Proposed: v2, v4, v9, v17.
-- **v9 note**: *the phrase settles the question in three words each time* — `דמיו בו` and `דמיהם בם` are two. Proposed: *two words*.
-- **chapter note** (*chapter 18 and chapter 20 are the same list twice*): *Almost every offense in 18 reappears here in the same order.* Chapter 20 opens with Molech (18:21) and the spirits, puts the neighbor's wife before the father's wife, the male after the daughter-in-law, the animal before the sister, and the monthly separation (18:19) after her. Proposed: *in a different order*.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 88. Genesis 49 notes: "the last three words", "first recorded act", "all new", Leah's eyes, "two chapters ago"
 *Asked by Bible 2, 8:34 AM CDT, 2026-10-17. Closed book; all provable.*
 
@@ -249,6 +221,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 80. **Leviticus 5–8 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `עמית` twelve times, `תנוך` eight, `תמיד` at Exodus 25:30, 27:20, 29:38; 5:19 five words, 5:11 `כי חטאת היא` three; Psalms 36:8, 63:5, 99:6 and Joshua 7:19 as the book reads them): two verbs of the idiom; *three words*, *five words*; chapters 6 and 7; the numbering rule; *four verses*; *twelve times*; *the nouns on either side*; Psalms quoted; *tamid* already in Exodus; order in 7; Joshua 7:19; the Passover deadline, *an animal*, *one person*; v25's cutting off; *the priests do the rest*; Exodus 29; *eight times*; *seven days*, *the eighth day*; *four times*; the ordination ram boiled. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 81. **Leviticus 9–12 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed: `וידם` at Leviticus 10:3, Joshua 10:13, Lamentations 3:28; `הבדיל` on days one, two and four; `ממלא כפו`; 9:24 and 10:2 two verses apart; 12:3 five words; 12:7 *from the flow of her blood*; 11:16–19 print the four birds): order in 9 and 11; *the palm*, *nine verses after*; *the next book*, *his coming down*; *two verses later*; *three times*; *first, second and fourth days* (twice); *a clean place*; *for the rule itself*; no *only place*; the four birds uncertain; seed for sowing, no *mikveh* claim; *five words*, *one short sentence*; *three verbs*, *from the flow of her blood*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 82. **Leviticus 13–16 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 13, 14 and 16; the changing mark and v13; *in the Bible*; *the same roots*, *as long as the mark is on him*; Psalm 51:7 and Jeremiah 2:13 quoted; *nasag* as 5:11, three verbs; demolition after repair; *two words*; the long flow's days and birds; *v24*, 15:24 and 20:18 told apart; no *identical*; *five chapters*, Aaron first; *the closing words*, *so far*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
+87. **Leviticus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 17–20; no *spirit that can leave a body*; *two words* (17:11, 18:5, 20:9); no *most quoted* in 17; the first-person penalty at 20:3, 5, 6 and 23:30; *three times*; Deuteronomy 18:10 and 2 Kings 23:10; *one of the few places*, 18:28 quoted; Canaan's acts named, Egypt's not; the whole congregation at 19:2; *eleven of the twelve*; *a different order*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 
