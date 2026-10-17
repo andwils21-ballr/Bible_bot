@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- Bible 2: Numbers 1 (Genesis 1–50 done 2026-10-17; Numbers is the next unread book, item 37)
+- Bible 2: Numbers 3 (Genesis 1–50 and Numbers 1–2 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Leviticus 21 (Genesis 1–28, Exodus 1–40 and Leviticus 1–20 done 2026-10-17 8:32 AM; item 37 split agreed)
 
 ## Open
@@ -194,6 +194,13 @@ entry.
 - **vv8, 9 note** quotes Exodus 10:24 as *only your flocks and your herds shall be left; your little ones may go too*; it reads *Only your flocks and your herds are to be left behind. Your little ones may go with you too.* Proposed: quote it as it reads.
 - **v26 note**: *aron… has appeared only once before in this book.* `ארון` stands only at 50:26 in Genesis. Proposed: *and this is its only appearance in Genesis*.
 - Checked and standing: *chanat* four times, all in this chapter; *va-yedabber al libbam* only here and 34:3; *chashavtem* / *chashavah*.
+
+### 90. Numbers 1–2 notes: "Joseph's two dreams in prison", a heading
+*Asked by Bible 2, 8:36 AM CDT, 2026-10-17. Numbers is not closed.*
+
+- **Numbers 1, v2 note**: *It is the idiom of Joseph's two dreams in prison.* The dreams were the cupbearer's and the baker's; Joseph interpreted them (Genesis 40:13, 19, *lift your head*, as the book reads). Proposed: *It is the idiom of the two dreams Joseph interpreted in prison.*
+- **Numbers 2, note headed *v10, 18, 25 the four directions***: it explains all four, and east, *qedem*, is v3 (*qedmah mizrachah*). Proposed: head it *vv3, 10, 18, 25*.
+- Checked and standing: 1:1 a month after Exodus 40:17; 1:16 and Exodus 38:26, 603,550; *va-yityaldu* found only at 1:18; *nikkevu* and Leviticus 24:11; 2:32 the four camps add up (186,400 + 151,450 + 108,100 + 157,600). The open choices of this report (*elef*, Deuel or Reuel) stay with Andrew.
 
 ## Settled
 
