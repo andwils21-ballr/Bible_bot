@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes corrected in Leviticus 26 (council 93, settled 2026-10-17)
+
+**Request:** found by Bible 3, agreed by Bible 2 after checking the Hebrew (`ואם` opens vv14, 18, 21, 23, 27; the sevenfold threat is in vv18, 21, 24, 28). Leviticus is closed; the note miscounted. Leviticus is now reviewed through.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 26, note vv18, 21, 24, 28 | the warning comes in four rounds, and each round ends *seven times* more | the warning comes in five rounds, and each of the last four carries *seven times* more |
+
 ## Notes corrected in Leviticus 21–24 (council 91, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/` (19:27–28 and 21:5; 3:11 `לחם אשה ליהוה`; *cut off from his people* in fifteen other verses; 10:3 `אקדש`, 22:32 `ונקדשתי`; Exodus 12:18 `בערב… בערב`; `מום` in 21–22 and 24:19–20; Exodus 27:20, 1 Samuel 21:6 and Numbers 23:8 as the book reads them). Leviticus is closed; each note misstated the source, a count or the book.

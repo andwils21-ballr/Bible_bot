@@ -116,15 +116,6 @@ entry.
 
 **Bible 3** (8:40 AM CDT, 2026-10-17; sealed: only Bible 2's own proposals were in the entry): agree on both, checked in the book. Proverbs 7:25 reads *Do not let your heart turn aside to her ways*, and the Numbers 5 notes stand v12, v14, v17, v22, v23, then vv21, 27–28 (the last should come before v22). Nothing to add.
 
-### 93. Leviticus 25–27 notes: "four rounds" (Leviticus 26)
-*Asked by Bible 3, 8:39 AM CDT, 2026-10-17. Closed book; all provable.*
-
-**Leviticus 26**
-- **vv18, 21, 24, 28 note**: *the warning comes in four rounds, and each round ends* seven times *more.* The chapter has five rounds, each opened by `ואם`: vv14–17, 18–20 (`ואם עד אלה`), 21–22, 23–26 (`ואם באלה`), 27–39 (`ואם בזאת`). The sevenfold threat stands in the last four (vv18, 21, 24, 28); the first round has none. Proposed: *the warning comes in five rounds, and each of the last four carries* seven times *more.*
-
-**Leviticus 25 and 27**: no errors found. Checked: the five places in Leviticus where the written and the read word differ (9:22, 11:21, 16:21, 21:5, 25:30); `יעקוב` five times in the Bible (Leviticus 26:42, Jeremiah 30:18, 33:26, 46:27, 51:19); `קרי` seven times, all in chapter 26; `געל` five times in chapter 26 (vv11, 15, 30, 43, 44); `בפרך` at 25:43, 46, 53; `מום` and `נשך` quotations; Job 19:25, Genesis 23:4, 2 Chronicles 36:21 and Deuteronomy 10:16 as the book reads them.
-- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
-
 ### 94. Numbers 7–10 notes: 1 Chronicles 15:13, John 19:36 and Psalm 68:1 quoted
 *Asked by Bible 2, 8:42 AM CDT, 2026-10-17. Numbers is not closed.*
 
@@ -193,6 +184,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 87. **Leviticus 17–20 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): order in 17–20; no *spirit that can leave a body*; *two words* (17:11, 18:5, 20:9); no *most quoted* in 17; the first-person penalty at 20:3, 5, 6 and 23:30; *three times*; Deuteronomy 18:10 and 2 Kings 23:10; *one of the few places*, 18:28 quoted; Canaan's acts named, Egypt's not; the whole congregation at 19:2; *eleven of the twelve*; *a different order*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
 83–86, 88–90. **Genesis 45–50 and Numbers 1–2 notes** (Bible 2, agreed by Bible 3, sealed; Bible 3's *two totals in two verses* preferred): three scenes of *nakar*; 32:8; *eleven verses*; *these men*; vv8–15; *more than twenty years*; *since chapter 43*; *since 43:3… four chapters*; the Greek's five names and its nine; order in 46; *living as a guest*; 32:10 quoted; no *while he was elsewhere*; *the last clause*; *After Bethel*; *two of them new*; Leah's eyes (29:17); *the previous chapter*; *buried one verse*; *his brothers*; *three words… nearly*; Exodus 10:24 quoted; *aron* only here; the dreams Joseph interpreted; *vv3, 10, 18, 25*. Logged in `PASTE/changes/1-genesis.md` and `4-numbers.md`. Genesis is reviewed through. Bible 2, 2026-10-17.
 91. **Leviticus 21–24 notes** (Bible 3, agreed by Bible 2 after checking each against the verses and `sources/hebrew/`, sealed): *three parallel practices… in different words*; 3:11's *lechem isheh*; rank added to the oil; *twelve more*; 10:3 *eqqadesh*; no *later Jewish communities*; evening to evening as Exodus 12:18; Exodus 27:20 the same command; 1 Samuel 21:6, *His disciples*; Numbers 23:8 quoted; *chapters 21 and 22*. Logged in `PASTE/changes/3-leviticus.md`. Bible 2, 2026-10-17.
+93. **Leviticus 25–27 notes** (Bible 3, agreed by Bible 2 after checking the Hebrew, sealed): *five rounds*, the sevenfold threat in the last four. Logged in `PASTE/changes/3-leviticus.md`. Leviticus is reviewed through. Bible 2, 2026-10-17.
 
 ## Closed books: for Andrew only if he asks
 
