@@ -2,6 +2,145 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 9–12 — rendered 2026-10-17, 12:51 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with 10:11 in Aramaic, as the Hebrew Bible has it; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 10:5, 24; 11:5, 15, 19; 12:9. The Greek does not have 10:6–8, 10 or most of 11:7–8, and the notes say so.
+
+**Chapter break:** English 9:1 is Hebrew 8:23, and English 9:2–26 is Hebrew 9:1–25. The English numbering is followed, and the note on 9:1 says so. The checker's CHECK on 9 (26 verses against the Hebrew's 25) is this offset.
+
+**Kept formulas:**
+- 12:15 *ve-hayah acharei*: *And it shall come to pass, after I have uprooted them, that I will again have compassion on them*.
+- 12:16 *ve-hayah im* is a condition, not a time, and is rendered plain: *If they will diligently learn… then they will be built up*.
+- No other sentence starts with *And*.
+- *hinneh*: 10:22 cut. *hinneh yamim ba'im*: 9:25 *Days are coming*.
+- God's *hineni* + participle: 9:7 *I am about to refine*; 9:15 *I am about to feed*; 10:18 *I am about to sling*; 11:11 *I am about to bring*; 11:22 *I am about to punish*; 12:14 *I am about to uproot*.
+
+**Read forms followed:**
+- 9:8 (Hebrew 9:7) *shachut*, "sharpened": the written form is *shochet*, "slaughtering." The note gives both.
+- No note, because the meaning is the same: 10:13 *ha-arets*; 10:17 *yoshevet* (written *yoshavti*, the *-ti* that Jeremiah's written forms use for "you," 2:20 note).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 15:11, 27:36; Exodus 25:31, 26:1, 28:5; Leviticus 19:27, 26:33; Numbers 18:20; Deuteronomy 4:20, 27:26, 29:18, 32:9; 2 Kings 18:26; 2 Chronicles 35:25; Ezra 2:23; Psalms 6:1, 7:9, 52:8, 73:3, 79:6–7, 135:7; Proverbs 20:24; Isaiah 1:8, 5:1–7, 29:13, 40:20, 41:7, 53:7–8, 54:2.
+- Not yet rendered here, so quoted from the source: Jeremiah 49:19, 50:44, 51:15–19 (Hebrew); Letter of Jeremiah 1:69 (Swete); 1 Corinthians 1:31, 2 Corinthians 10:17, Romans 11:17, Revelation 2:23, 15:4 (SBLGNT).
+- Earlier notes that quote these chapters: Job 21's (12:1) matches. 1 Enoch 95's quotes 9:1 with *so that I might weep*, and Psalm 28's quotes 9:8 as *with his mouth each speaks peace to his neighbor, but in his heart he plans an ambush*; the text now reads so in both. Five others differ in wording (1 Meqabyan 2 and 3, 1 Samuel 2, Psalm 79, 1 Chronicles 8); these are logged in `NOTES_FOR_ANDREW.md` and were not changed.
+
+**Checked against the sources:**
+- Hebrew and Aramaic:
+  - Every *hinneh*, *ve-hayah* and *va-yehi* in chapters 9–12 (with Hebrew 8:23), and every written form that differs from its read form.
+  - 10:11 *avadu* / *ye'vadu*; 10:12–16 against 51:15–19; 10:13 against Psalm 135:7; 10:25 against Psalm 79:6–7; 12:5 *ge'on ha-Yarden* at 49:19 and 50:44; 12:10–11 *shemamah*; 9:3 (Hebrew) *aqov ya'qov*.
+- Swete's Greek: Jeremiah 9:1, 2, 3, 4, 6, 8, 10, 21, 22, 23, 24, 25, 26; 10:1, 5, 6, 8, 9, 10, 11, 13, 16, 17, 24, 25; 11:5, 7, 15, 16, 19; 12:5, 9, 13; Letter of Jeremiah 1:69–70.
+
+**The checker** found no errors; its one CHECK is the chapter break above.
+
+**What these chapters are:**
+- **9:** *Oh, that my head were waters*; every brother a Jacob; the mourning women; *let him who boasts boast in this, that he understands and knows Me*.
+- **10:** the idols nailed down so they will not totter, and *the LORD is the true God*; one verse in Aramaic for the nations; the prophet's tent torn down; *Correct me, LORD, but with justice*.
+- **11:** *the words of this covenant* and the prophet's *Amen*; the green olive tree burned; the plot of the men of Anathoth: *like a gentle lamb led to the slaughter*.
+- **12:** *Why does the way of the wicked prosper?*; *If you have run with men on foot…*; the LORD's beloved given up; the neighbors uprooted and built up.
+
+### Jeremiah 9: Let Him Who Boasts Boast in This
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi yitten roshi mayim* "who will give my head waters" | Oh, that my head were waters (note) |
+| 2 | *melon orchim* | a travelers' lodging place |
+| 2 | *atseret bogedim* | a company of traitors |
+| 3 | *va-yadrekhu et leshonam qashtam sheqer* "they bend their tongue, their bow, falsehood" | They bend their tongue like their bow; falsehood… |
+| 4 | *aqov ya'qov* | is a supplanter (Genesis 27:36; note) |
+| 5 | *ha'aveh nil'u* | they weary themselves doing wrong |
+| 6 | *shivtekha be-tokh mirmah* | You live in the middle of deceit |
+| 8 | *chets shachut* (read form) | a sharpened arrow (note) |
+| 8 | *yasim orbo* | he plans an ambush |
+| 9 | *lo titnaqqem nafshi* | shall I not avenge Myself (5:9) |
+| 10 | *qol miqneh* | the lowing of cattle |
+| 11 | *me'on tannim* | a lair of jackals |
+| 17 | *ha-meqonenot… ha-chakhamot* | the mourning women… the skilled women (note) |
+| 19 | *hishlikhu mishkenoteinu* | they have cast down our dwellings |
+| 22 | *daber koh neum YHWH* | Speak: Thus declares the LORD |
+| 22 | *ke-amir* | like sheaves |
+| 24 | *chesed* | loyal love (note) |
+| 25 | *kol mul be-orlah* "all circumcised in foreskin" | all who are circumcised in the flesh alone (choice below) |
+| 26 | *qetsutsei fe'ah* | who clip the hair at the sides of their head (Leviticus 19:27; note) |
+
+### Jeremiah 10: The Living God and the Idols
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *otot ha-shamayim* | the signs of the heavens |
+| 3 | *chuqqot ha-ammim hevel* | the customs of the peoples are emptiness |
+| 4 | *lo yafiq* | so that it will not totter (Isaiah 41:7; note) |
+| 5 | *ke-tomer miqshah* | like a scarecrow in a cucumber field (choice below) |
+| 5 | *nasu yinnasu* | they have to be carried |
+| 7 | *lekha ya'atah* | this is Your due |
+| 8 | *musar havalim ets hu* "the instruction of emptinesses, wood it is" | the teaching of emptiness is wood |
+| 9 | *kesef meruqqa* | Beaten silver |
+| 9 | *tekhelet ve-argaman* | blue and purple (Exodus 26:1; note) |
+| 11 | *kidnah temerun lehom* (Aramaic) | Thus you shall say to them (note) |
+| 13 | *nesi'im* | the clouds (Psalm 135:7) |
+| 14 | *ruach* | breath |
+| 15 | *ma'aseh ta'tu'im* | a work of mockery |
+| 16 | *cheleq Ya'aqov* | the Portion of Jacob (note) |
+| 17 | *kin'atekh* | your bundle |
+| 18 | *qolea* | sling out |
+| 18 | *le-ma'an yimtsa'u* "so that they may find" | ***KEPT AS IS*** so that they may find it so (the line's sense is uncertain) |
+| 20 | *meitarai* | my cords (Isaiah 54:2; note) |
+| 24 | *pen tam'iteni* | or You will bring me to nothing |
+| 25 | *mishpachot* | the clans |
+| 25 | *naveihu* | his pasture |
+
+### Jeremiah 11: The Words of This Covenant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *mi-kur ha-barzel* | out of the iron furnace (Deuteronomy 4:20; note) |
+| 5 | *amen YHWH* | Amen, LORD (Deuteronomy 27:26; note) |
+| 7 | *ha'ed ha'idoti… hashkem ve-ha'ed* | I solemnly warned… I have warned them again and again (7:13) |
+| 9 | *qesher* | A conspiracy |
+| 13 | *la-boshet* | to the Shame (3:24; note) |
+| 15 | *mah li-ydidi… ha-mezimmatah ha-rabbim… u-vesar qodesh ya'avru me'alayikh* | ***KEPT AS IS*** What right has My beloved… so many vile deeds… Can holy flesh turn your disaster away from you (the Hebrew is hard to read; note) |
+| 16 | *zayit ra'anan* | A green olive tree (Psalm 52:8; note) |
+| 16 | *ve-ra'u dalliyotav* | its branches are broken |
+| 19 | *ke-khevesh alluf* | like a gentle lamb (Isaiah 53:7; note) |
+| 19 | *etz be-lachmo* "the tree with its bread" | the tree with its fruit (note) |
+| 20 | *kelayot va-lev* "kidneys and heart" | the mind and the heart (Psalm 7:9; note) |
+| 20 | *galliti et rivi* | I have committed my cause |
+| 23 | *shenat pequddatam* | the year of their punishment |
+
+### Jeremiah 12: Why Does the Way of the Wicked Prosper?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ki ariv elekha* | when I bring my case to You (note) |
+| 1 | *bogdei vaged* | all who deal treacherously |
+| 2 | *kilyoteihem* "their kidneys" | their hearts (note) |
+| 3 | *haqdishem* "make them holy" | set them apart (note) |
+| 4 | *lo yir'eh et acharitenu* | He will not see our end |
+| 5 | *tetachareh* | compete |
+| 5 | *ge'on ha-Yarden* "the pride of the Jordan" | the thickets of the Jordan (note) |
+| 6 | *qar'u acharekha male* | they are in full cry after you |
+| 7 | *yedidut nafshi* | the beloved of My soul (11:15; note) |
+| 9 | *ha-ayit tsavua* | a speckled bird of prey (Genesis 15:11; note) |
+| 10 | *chelqat chemdati* | My pleasant portion |
+| 11 | *ein ish sam al lev* | no man lays it to heart |
+| 13 | *nechlu lo yo'ilu* | they have worn themselves out but profit nothing |
+| 14 | *notesham… ettosh* | uproot… uproot (1:10; note) |
+| 16 | *ve-nivnu* | they will be built up (1:10; note) |
+
+**Left standing on purpose:**
+- 10:18, *so that they may find it so*: the line's sense is uncertain.
+- 11:15, the whole verse: the Hebrew is hard to read, and it is rendered by its sense; the note gives the Greek.
+
+**Choices for you:**
+
+- **9:25, *kol mul be-orlah***
+  - (a) **all who are circumcised in the flesh alone** (now): *be-orlah*, "in foreskin," as "only outwardly." The LORD will punish those who bear the sign in the body without the heart, and v26 says it of Judah with the nations: *uncircumcised in heart*.
+  - (b) **the circumcised and the uncircumcised alike**: *be-orlah* as "with the foreskin," the circumcised together with the uncircumcised. The LORD will punish everyone, whatever the mark on the body.
+  - Recommend (a): v26 ends with *uncircumcised in heart*, and the Greek also has *all circumcised in their foreskins*.
+- **10:5, *ke-tomer miqshah***
+  - (a) **like a scarecrow in a cucumber field** (now): *miqshah* as the *cucumber field* of Isaiah 1:8, and *tomer* as a post standing in it. The idols look like guardians and do nothing, as the rest of the verse says: *Do not be afraid of them, for they can do no harm*. The Letter of Jeremiah has the same picture.
+  - (b) **like a post of hammered work**: *miqshah* as *hammered work*, the hammered gold of the lampstand (Exodus 25:31). The idols are beaten metal on a post, as vv4 and 9 describe them; the Greek has *it is chased silver*.
+  - Recommend (a): the verse turns on the idol that frightens and cannot act, and the Letter of Jeremiah, in this canon, reads it as a scarecrow.
+
 ## Jeremiah 5–8 — rendered 2026-10-17, 7:53 AM CDT
 
 **Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 6:2, 16; 7:18; 8:10–12, 13.
