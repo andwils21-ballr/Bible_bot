@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- Bible 3: Deuteronomy 1 (Genesis 1–28, Exodus 1–40 and Leviticus 1–27 done 2026-10-17 8:39 AM; item 37 split agreed)
+- Bible 3: Deuteronomy 5 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–4 done 2026-10-17 8:42 AM; item 37 split agreed)
 
 ## Open
 
@@ -132,6 +132,16 @@ entry.
 - **Numbers 9, v12 note** quotes John 19:36 as *not a bone of him shall be broken*: lowercase for Jesus, where the Gospel applies the words to Him (spec, "Pronouns for God and for Jesus"), and other words than the Exodus 12:46 note uses for the same verse (*a bone of Him shall not be broken*, item 53). Proposed: *a bone of Him shall not be broken*.
 - **Numbers 10, vv35–36 note** quotes Psalm 68:1 as *let God rise up, let His enemies be scattered, and let those who hate Him flee before Him*; the book reads *Let God arise, let His enemies be scattered, / and let those who hate Him flee before Him.* Proposed: quote it as it reads.
 - Checked and standing: 7:84–88 totals; Nahshon alone not called *chief*; Swete's 7:10 *ἐγκαινισμόν* and 10:31 *πρεσβύτης*; 8:11, 13, 15, 21 *tenufah*; *al pi YHWH* seven times in 9:18–23; 10:11 nineteen days after 1:1; Exodus 25:22, 25:40, 30:12, Numbers 18:22–23 and Judges 4:11 as the book reads them.
+
+### 95. Deuteronomy 1–4 notes: "the words of Pharaoh's story", "in reverse order", "the direct road", "the words of 1:6 and 2:3"
+*Asked by Bible 3, 8:42 AM CDT, 2026-10-17. Deuteronomy is not closed; notes only.*
+
+- **Deuteronomy 2, v30 note**: *hiqshah… et rucho ve-immets et levavo, the words of Pharaoh's story: I Myself will make Pharaoh's heart hard (Exodus 7:3).* Exodus 7:3 has `אקשה` (*hiqshah*'s root); `אמץ` (*immets*, *make stubborn*) stands nowhere in Exodus. Proposed: *hiqshah is the verb of Pharaoh's story (Exodus 7:3: I Myself will make Pharaoh's heart hard);* immets *is not used there.*
+- **Deuteronomy 4, vv16–18 note**: *the creatures of Genesis 1 in reverse order.* Genesis 1 runs fish and birds (1:20–23), then animals and creeping things (1:24–25), then humankind (1:26–27); Deuteronomy 4 lists human, animal, bird, creeping thing, fish, so the birds and the creeping things have changed places. Proposed: *the creatures of Genesis 1 again, humankind first and fish last, with the birds and the creeping things changing places.*
+- **Deuteronomy 1, v2 note**: *from Horeb to Kadesh by the direct road is eleven days* — the verse says `דרך הר שעיר`, *by the way of Mount Seir*, and does not call it direct. Proposed: *by the way of Mount Seir*.
+- **Deuteronomy 3, v26 note**: *rav lakh… the words of 1:6 and 2:3* — those are `רב לכם` (plural); 3:26 is `רב לך` (singular). Proposed: *the words of 1:6 and 2:3, now singular*.
+- Checked and standing: every quotation of Exodus 18:21, Numbers 11:14, 13:28, 14:45, 20:12, 20:20, 21:2, 21:23, 21:34, 25:3, 27:4, 32:41, Genesis 2:24, 13:14, 14:3, 14:5, 15:2, 15:5, 19:37–38, 36:20, 49:1 and Exodus 20:4, 24:17 against the book; 1:3 is the only *And* beginning a verse, and *And now* at 4:1 is on the spec's kept list; capital pronouns for God in all four chapters; the report tables of Deuteronomy 1–2 and 3–5 agree with the chapters.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
@@ -270,3 +280,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 19:28, note *tattoo marks***: *the ban is not on marking as such but on marking oneself over a death* — the Hebrew gives `לנפש` (*for the dead*) only to the gashing; whether it also limits the tattoo is a meaning. **Leviticus 19:23** (*the word here is* forbidden *and the picture is in this note*) and **Leviticus 20:17** (*checked against Hosea 6:6 and Psalm 25:10*; *the English cannot show the collision, so it is recorded here*): talk about the translating and the checking, not about the text. **Leviticus 20**, note *chapter 18 and chapter 20 are the same list twice*: anchored to no verse (the checker's CHECK). **Leviticus 18 and 19** have 11 and 13 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 23:24 *a remembrance with horn blasts***: the note says *this verse names no instrument*, but the rendering supplies *horn* (`זכרון תרועה`, no instrument). Either the note or the rendering changes; a rendering ruling. **Leviticus 22 and 23** have 12 and 15 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 25:10, note *jubilee***: *The Liberty Bell in Philadelphia carries this verse* — true, but nothing in the project's sources shows it. **Leviticus 27**, note *the valuation*: the checker asks whether *fixed term* is about the text or the translating; here it means a set phrase in Hebrew grammar, and *set phrase* would not collide with the spec's *fixed terms*. **Leviticus 25 and 26** have 13 and 12 notes (the spec says three to ten). (Bible 3, 2026-10-17)
+- **Exodus 18:21, 25 *officers of thousands, of hundreds, of fifties, of tens***, against **Deuteronomy 1:15** and **2 Samuel 18:1**, **1 Chronicles 13:1**, **2 Chronicles 1:2** *commanders of thousands…*: one Hebrew phrase (`שרי אלפים ושרי מאות…`), two renderings. (Bible 3, 2026-10-17)
