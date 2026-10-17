@@ -160,7 +160,7 @@ entry.
 - **v34 note**: *the last three words before the chapter closes* — `אחת בשנה` is two words, and the verse ends *He did as the LORD commanded Moses*. And *the only rite in the book scheduled by the calendar* — chapter 23 dates Passover, the festival of weeks, trumpets and booths, and 25:9 the jubilee on this same tenth day. Proposed: *the closing words of the statute* and *the only rite so far in the book scheduled by the calendar*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
-### 82. Genesis 45 notes: *nakar* "three chapters", "twelve verses", 32:9, "these ten men"
+### 83. Genesis 45 notes: *nakar* "three chapters", "twelve verses", 32:9, "these ten men"
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
 - **v1 note** (*made himself known*): *Three chapters have run on* nakar. `נכר` turns three scenes, not three chapters running: 37:32–33, 38:25–26, 42:7–8 (item 77). Proposed: *Three scenes have turned on* nakar *(37:32–33, 38:25–26, 42:7–8)*.
@@ -169,7 +169,7 @@ entry.
 - **v27 note**: *Words from these ten men were not enough.* Eleven came back (Benjamin with them, vv19–25). Proposed: *Words from these men*.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
-### 83. Genesis 46 notes: "verses 9–15", "four words apart", "forty years", "since chapter 44", *panim* "since 42:6", the Greek's nine, order
+### 84. Genesis 46 notes: "verses 9–15", "four words apart", "forty years", "since chapter 44", *panim* "since 42:6", the Greek's nine, order
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
 - **v15 note**: *count the names in verses 9–15 and there are thirty-four.* Reuben is named in v8; the thirty-four are vv8–15. Proposed: *verses 8–15*.
@@ -180,14 +180,14 @@ entry.
 - **v27 Greek note**: *at v20 it adds three further generations… Machir… Gilead… Sutalaam and Taam… Edem. Nine instead of two.* Swete's 46:20 adds five names over two generations (Machir and Gilead; Sutalaam, Taam and Edem), which with Manasseh and Ephraim make seven, while its v27 says *ψυχαὶ ἐννέα*, nine. Proposed: *at v20 it adds five descendants the Hebrew has not got: Manasseh's son Machir and his son Gilead, and Ephraim's sons Sutalaam and Taam, and Sutalaam's son Edem. Its v27 then counts Joseph's sons in Egypt as **nine**, two more than its own list names, and the total as **seventy-five**.*
 - **Order**: the vv26–27 note stands before the v19 note, and the v27 Greek note after the vv32, 34 note. Proposed: v19, vv26–27, v27 (Greek), v28.
 
-### 84. Genesis 47 notes: *magur* glossed against the fixed term, 32:11
+### 85. Genesis 47 notes: *magur* glossed against the fixed term, 32:11
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; all provable.*
 
 - **v9 note**: *the years of my* **time as a foreigner** *— magur, from gur, to reside as an outsider… how long he has been a stranger.* The verse reads *The years I have lived as a guest* (*gur*, the fixed term). Proposed: *the years of my* **living as a guest** *— magur, from gur, to live as a guest… how long he has been a guest.*
 - **v29 note**: *chesed ve-emet, kindness and truth, is the pair Jacob used of God in 32:11.* It is English 32:10, where it reads *all the kindnesses and all the faithfulness*. Proposed: *the pair Jacob used of God in 32:10,* all the kindnesses and all the faithfulness *You have done*.
 - Found in the same review and fixed under Andrew's capital-pronoun ruling (2026-10-10), not a council matter: Genesis 32:10 *You have done for Your servant*, 32:12 *You Yourself said*; logged in `PASTE/changes/1-genesis.md`.
 
-### 85. Genesis 48 notes: "while he was elsewhere"
+### 86. Genesis 48 notes: "while he was elsewhere"
 *Asked by Bible 2, 8:32 AM CDT, 2026-10-17. Closed book; provable.*
 
 - **v22 note**: *In chapter 34 Simeon and Levi took the city by sword while he was elsewhere.* Chapter 34 does not say where Jacob was at the killing (34:25–30); he speaks at once afterward (v30). Proposed: cut *while he was elsewhere*.
