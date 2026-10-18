@@ -2,6 +2,170 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 29–32 — rendered 2026-10-18, 6:00 PM CDT
+
+**Source:** Hebrew (WLC) throughout. One place follows another reading, with a note naming the witness and quoting the Hebrew: 32:12 *Hanamel my uncle's son* (the Greek, as vv7–9 have it; the Hebrew there has *my uncle*). In Swete, Hebrew 29, 30, 31 and 32 are Greek 36, 37, 38 and 39. The Greek is quoted in notes where it reads differently: 29:7, 8, 11, 14, 16–20; 30:10–11; 31:2, 8, 22, 32, 35–37; 32:12, 39. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- No *va-yehi* is kept: 29:30 and 32:26 *va-yehi devar YHWH* are *the word of the LORD came*.
+- *ve-hayah* formula: 30:8 *And it shall come to pass in that day… that I will break his yoke*; 31:28 *And it shall come to pass that as I have watched over them…, so I will watch over them*.
+- No other sentence starts with *And*.
+- *hinneh*: 32:7, 17, 24, 27 cut. 30:3; 31:27, 31, 38 *hinneh yamim ba'im*: *Days are coming*. God's *hineni* + participle: 29:17 *I am about to send*; 29:21 *I am about to give*; 29:32 *I am about to punish*; 30:10 *I am about to save*; 30:18 *I am about to restore*; 31:8 *I am about to bring*; 32:3, 28 *I am about to give*; 32:37 *I am about to gather*.
+- *ve-attah*: 29:27 *So now*, drawing the consequence; 32:36 *ve-attah lakhen*, *But now*, the turn from the charges to the promise. 29:20 *ve-attem*, 30:10 and 32:25 *ve-attah* are the pronoun.
+- A stated *anokhi* with a finished verb is *I Myself*: 29:11 *For I Myself know the plans* (the spot check of 2026-10-18 on 27:6). With a participle, as 32:42 *anokhi mevi*, the pronoun is the verb's own subject and stays plain.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 29:14 *shevutkhem*; 29:18 *le-za'avah*; 29:23 *ha-yodea* (written *hu yodea*); 31:21 *halakht*; 31:39 *qav*; 32:1 *ba-shanah*; 32:4 *einav*; 32:23 *u-ve-torotkha*; 32:35 *hachati*.
+- 31:40 *ha-shedemot*, "the fields": the written form, *ha-sheremot*, is not a known word (the Greek spells it out, *asarēmōth*), so there is no second meaning to note.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:27, 18:14, 34:7, 35:3, 43:9; Exodus 4:22, 20:6, 31:18, 33:12, 33:14, 34:7; Leviticus 18:21, 25:25; Numbers 18:7; Deuteronomy 4:29, 6:5, 13:16, 20:5–7, 24:16, 30:3; Joshua 18:25; Ruth 4:4; 2 Samuel 13:12; 2 Kings 9:11, 11:18, 25:1, 25:7; Isaiah 44:2, 51:15, 65:6.
+- Not yet rendered here, so quoted from the source: Jeremiah 37:21, 40:1, 46:27–28; Ezekiel 18:2–4; Hosea 3:5, 11:4; Daniel 12:1; Lamentations 5:21 (Hebrew); Luke 22:20; Hebrews 8:8–12 (SBLGNT).
+- Earlier notes that quote these chapters, matched where the Hebrew allows: Jubilees 1's (29:13–14; 32:41), Matthew 27's (32:9, *weighed out the silver*), Psalm 37's (31:33), and this book's own 17:1 note (31:33). Three differ, logged in `NOTES_FOR_ANDREW.md` and not changed: 1 Enoch 84's (32:17, *too hard*), Leviticus 6's (31:14, *appetite*), Matthew 26's (31:31, *cut… a new covenant*).
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *ve-hayah*, *va-yehi* and *ve-attah* in chapters 29–32, and every written form that differs from its read form.
+  - 29:8 *machlemim* (only here); 29:22 *qelalah* and *qalam*; 30:7 against Daniel 12:1 and Genesis 35:3; 30:9 against Hosea 3:5; 30:10–11 against 46:27–28; 30:23–24 against 23:19–20; 31:8 *pisseach* and *pesach*; 31:15, 21 *tamrurim*; 31:29 against Ezekiel 18:2; 31:32 *ba'alti* against 3:14; 31:35 against Isaiah 51:15; 32:39 *echad* and *acher*, and Ezekiel 11:19 *lev echad*; 32:41 *be-khol libbi u-ve-khol nafshi* (only here).
+- Swete's Greek: Jeremiah 36:1–32 (Hebrew 29), 37:1–24 (Hebrew 30), 38:1–40 (Hebrew 31; its vv35–37 are Hebrew 37, 35, 36), 39:1–44 (Hebrew 32).
+
+**The checker** found no errors. Its one CHECK, 32:35 *nor did it come into My mind*, stands: it is an idiom, not a place, which the rule keeps, and it matches 7:31 and 19:5.
+
+**What these chapters are:**
+- **29:** Jeremiah's letter to the exiles in Babylon: build, plant, marry, seek the city's peace; seventy years, then *a future and a hope*; the lying prophets in Babylon, and Shemaiah's letter against Jeremiah.
+- **30:** the promises begin: *a time of distress for Jacob, yet out of it he will be saved*; the yoke broken; the incurable wound healed; *You will be My people, and I will be your God*.
+- **31:** Ephraim brought home; Rachel weeping in Ramah; the sour grapes; *a new covenant… on their heart I will write it*; the city rebuilt and holy.
+- **32:** in the siege, from prison, Jeremiah buys his cousin's field at Anathoth; his prayer; the answer: *Is anything too wondrous for Me?* Fields will again be bought.
+
+### Jeremiah 29: The Letter to the Exiles
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *yeter ziqnei ha-golah* "the rest of the elders of the exile" | the elders who were left among the exiles |
+| 2 | *ha-gevirah* | the queen mother (13:18) |
+| 2 | *sarei Yehudah* | the princes of Judah |
+| 7 | *shalom* | peace (three times; note) |
+| 8 | *qosmeikhem* | your soothsayers (27:9) |
+| 8 | *asher attem machlemim* "which you cause to dream" | that you cause them to dream (note; choice below) |
+| 10 | *efqod etkhem* | I will attend to you (23:2; note) |
+| 10 | *va-haqimoti aleikhem et devari ha-tov* | I will fulfill for you My good word |
+| 11 | *anokhi yada'ti* | I Myself know |
+| 11 | *machshevot shalom ve-lo le-ra'ah* | plans for peace and not for harm (21:10) |
+| 11 | *acharit ve-tiqvah* | a future and a hope (31:17; note) |
+| 13 | *ki tidreshuni* | when you search for Me (Deuteronomy 4:29) |
+| 14 | *ve-shavti et shevutkhem* | I will restore your fortunes (Deuteronomy 30:3) |
+| 17 | *ka-te'enim ha-sho'arim* | like rotten figs (24:2–3) |
+| 18 | *le-za'avah… u-le-shammah* | a horror… an astonishment (2 Chronicles 29's note) |
+| 19 | *hashkem ve-shaloach* | again and again |
+| 22 | *ve-luqqach mehem qelalah* "a curse will be taken from them" | will use this curse (note) |
+| 22 | *qalam* | roasted (note) |
+| 23 | *nevalah* | an outrage (Genesis 34:7; note) |
+| 26 | *peqidim* | overseers (2 Kings 11:18; note) |
+| 26 | *ha-mahpekhet ve-ha-tsinoq* | the stocks and the collar (20:2) |
+| 28 | *arukkah hi* "it is long" | It will be long |
+| 32 | *sarah dibber* | he has spoken rebellion (28:16) |
+
+### Jeremiah 30: A Time of Distress for Jacob
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *qol charadah* | a cry of trembling |
+| 6 | *yeraqon* | turned pale |
+| 7 | *et tsarah* | a time of distress (Daniel 12:1; Genesis 35:3; note) |
+| 8 | *u-moserotekha anatteq* | tear off your bonds (2:20; note) |
+| 8 | *ve-lo ya'avdu vo od zarim* | strangers will no longer make him their slave (27:7) |
+| 10 | *ve-ein macharid* | with no one to make him afraid (Leviticus 26:6) |
+| 11 | *ve-yissartikha la-mishpat* | I will correct you with justice (10:24; note) |
+| 11 | *ve-naqqeh lo anaqqekka* "and clearing I will not clear you" | I will not leave you unpunished (Exodus 34:7; note) |
+| 12 | *anush le-shivrekh* | Your hurt is incurable (15:18; note) |
+| 13 | *refu'ot te'alah ein lakh* | no healing, no new flesh for you (note) |
+| 14 | *musar akhzari* | the correction of a cruel one |
+| 16 | *sho'sayikh li-meshissah* | those who plunder you will be plundered |
+| 17 | *a'aleh arukhah lakh* "I will bring up new flesh for you" | I will make new flesh grow for you (8:22; note) |
+| 17 | *nidachah* | an outcast |
+| 18 | *al tillah* | on its mound (Deuteronomy 13:16; note) |
+| 18 | *al mishpato* | in its rightful place |
+| 19 | *mesachaqim* | revelers (15:17) |
+| 21 | *arav et libbo* | would pledge his heart (Genesis 43:9; note) |
+| 23 | *sa'ar mitgorer* | a sweeping tempest (note) |
+| 24 | *be-acharit ha-yamim* | In the end of days (23:20) |
+
+### Jeremiah 31: A New Covenant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *halokh le-hargi'o Yisrael* "going to give him rest, Israel" | when Israel went to find its rest (Exodus 33:14; note) |
+| 3 | *meshakhtikh chesed* | I have drawn you with loyal love (Hosea 11:4; note) |
+| 4 | *ta'di tuppayikh* | you will adorn yourself with your tambourines |
+| 4 | *mesachaqim* | the revelers (30:19) |
+| 5 | *ve-chillelu* "and make it common" | and use their fruit (Deuteronomy 20:6) |
+| 7 | *hosha YHWH et ammekha* | Save Your people, LORD |
+| 8 | *pisseach* | the lame (note) |
+| 9 | *u-ve-tachanunim* | with pleas for mercy |
+| 12 | *ve-naharu* | stream (Isaiah 2:2) |
+| 12 | *ke-gan raveh* | like a watered garden (Isaiah 58:11) |
+| 14 | *ve-rivveiti nefesh ha-kohanim dashen* | I will saturate the soul of the priests with richness (vv12, 25) |
+| 15 | *bekhi tamrurim* "weeping of bitternesses" | bitter weeping (note) |
+| 15 | *ki einennu* "because he is not" | because they are no more (Matthew 2:18) |
+| 18 | *shamo'a shama'ti* | I have heard |
+| 18 | *ke-egel lo lumad* | like an untrained calf |
+| 19 | *acharei shuvi* | ***KEPT AS IS*** after I turned (turned away or turned back; the Hebrew does not say) |
+| 20 | *hamu me'ai lo* "My inward parts murmur for him" | My heart yearns for him (Isaiah 63:15) |
+| 20 | *rachem arachamennu* | I will surely have compassion on him |
+| 21 | *tamrurim* | guideposts (note) |
+| 22 | *titchammaqin* | will you waver |
+| 22 | *neqevah tesovev gaver* | ***KEPT AS IS*** a woman encompasses a man (the sense is uncertain; note) |
+| 24 | *ve-nase'u ba-eder* | those who go about with the flocks |
+| 28 | *shaqadti… eshqod* | I have watched… I will watch (1:12; note) |
+| 31 | *ve-kharatti… berit chadashah* "and I will cut… a new covenant" | I will make a new covenant (11:10) |
+| 32 | *ba'alti vam* | though I was their husband (3:14; note; choice below) |
+| 35 | *chuqqot* | the fixed order |
+| 40 | *ha-shedemot* (read form) | the fields |
+
+### Jeremiah 32: The Field at Anathoth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *hinnaten yinnaten* | will surely be given |
+| 4 | *piv im piv… einav et einav* "his mouth with his mouth… his eyes his eyes" | mouth to mouth… eye to eye (2 Kings 25:7; note) |
+| 5 | *ad poqdi oto* | until I attend to him (27:22) |
+| 7 | *mishpat ha-ge'ullah* | the right of redemption (Leviticus 25:25; note) |
+| 9 | *shiv'ah sheqalim va-asarah ha-kesef* "seven shekels and ten of silver" | seventeen shekels of silver |
+| 10 | *va-ekhtov ba-sefer* "I wrote in the document" | I signed the deed |
+| 11 | *ha-mitsvah ve-ha-chuqqim* | the terms and conditions |
+| 12 | *Chanam'el dodi* "Hanamel my uncle" | Hanamel my uncle's son (the Greek; vv7–9; note) |
+| 14 | *bikhli cheres* | an earthenware jar (19:11; note) |
+| 17 | *lo yippale mimmekha kol davar* | Nothing is too wondrous for You (Genesis 18:14; note) |
+| 18 | *oseh chesed la-alafim* | You show loyal love to thousands (Exodus 20:6; note) |
+| 19 | *ve-rav ha-aliliyyah* | and mighty in deed |
+| 24 | *ha-solelot* | The siege ramps (6:6) |
+| 31 | *al appi ve-al chamati hayetah li* "has been to Me upon My anger and upon My wrath" | has roused My anger and My wrath |
+| 33 | *oref ve-lo fanim* | their backs… and not their faces (2:27; note) |
+| 33 | *hashkem ve-lammed* | again and again |
+| 35 | *leha'avir… la-Molekh* | to make… pass over to Molech (Leviticus 18:21; note) |
+| 35 | *lo altah al libbi* | nor did it come into My mind (7:31) |
+| 36 | *ve-attah lakhen* "and now, therefore" | But now |
+| 39 | *lev echad ve-derekh echad* | one heart and one way (note; choice below) |
+| 41 | *be-khol libbi u-ve-khol nafshi* | with all My heart and with all My soul (Deuteronomy 6:5; note) |
+
+**Left standing on purpose:**
+- 31:19, *after I turned*: turned away or turned back; the Hebrew does not say.
+- 31:22, *a woman encompasses a man*: the sense of the line is uncertain; the note gives the range and the Greek.
+
+**Choices for you:**
+- **29:8, *asher attem machlemim***
+  - (a) **the dreams that you cause them to dream** (now): the causative form, found only here. The people call up the dreams they want to hear, as 27:9 counts *your dreams* among their own diviners.
+  - (b) **the dreams that you dream**: the form read as the plain verb, as the Greek has it.
+  - Recommend (a): it is the form the Hebrew uses, and it fits v15, where the people themselves boast of their prophets in Babylon.
+- **31:32, *ve-anokhi ba'alti vam***
+  - (a) **though I was their husband** (now): the Hebrew, *ba'alti*, as in 3:14, *for I am your husband*. The covenant was a marriage, and they broke it.
+  - (b) **and I disregarded them**: the Greek, which Hebrews 8:9 quotes. They did not keep the covenant, so the LORD let them go.
+  - Recommend (a): the same words stand at 3:14, and the marriage picture runs through the book (3:1–14). The note gives the Greek and Hebrews.
+- **32:39, *lev echad ve-derekh echad***
+  - (a) **one heart and one way** (now): the Hebrew. One mind and one road for the whole people; Ezekiel's promise has the same words, *one heart* (Ezekiel 11:19).
+  - (b) **another heart and another way**: the Greek, reading *acher*, "another," for *echad*, "one"; the two words differ by one letter. A changed heart, as the new covenant of 31:33.
+  - Recommend (a): the Hebrew makes sense as it stands, and Ezekiel's promise has the same words.
+
 ## Jeremiah 25–28 — rendered 2026-10-18, 12:56 PM CDT
 
 **Source:** Hebrew (WLC) throughout. One place follows another reading, with a note naming the witness and quoting the Hebrew: 25:38 *the oppressing sword* (the Greek reads *sword*, and the book has the same phrase at 46:16 and 50:16). From 25:14 on, the Greek arranges the book differently: it puts the oracles against the nations after 25:13, so in Swete Hebrew 25:15–38 is Greek 32:1–24, and Hebrew 26, 27 and 28 are Greek 33, 34 and 35. The Greek is quoted in notes where it reads differently: 25:1, 9, 13–15, 26, 34, 38; 26:7–16; 27:1, 7, 9, 16–22; 28:1, 13. Verse counts match the Hebrew in all four chapters.
