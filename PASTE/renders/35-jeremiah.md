@@ -4,7 +4,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 ## Jeremiah 17–20 — rendered 2026-10-17, 10:50 PM CDT
 
-**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 17:9, 13, 16; 18:17; 20:3, 7. The Greek does not have 17:1–4, and the note says so. Verse counts match the Hebrew in all four chapters.
+**Source:** Hebrew (WLC) throughout. At 18:17 the letters are read with other vowels, *ar'em*, "I will show them," as the Greek reads them (Andrew's ruling, 2026-10-17). The Greek is quoted in notes where it reads differently: 17:9, 13, 16; 18:17; 20:3, 7. The Greek does not have 17:1–4, and the note says so. Verse counts match the Hebrew in all four chapters.
 
 **Kept formulas:**
 - 20:3 *va-yehi mi-mochorat*, a new time: *And it came to pass the next day that Pashhur released Jeremiah*.
@@ -82,7 +82,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 15 | *la-shav* | to emptiness |
 | 15 | *shevilei olam* | the ancient paths (6:16; note) |
 | 16 | *sheriqot olam* | a thing to be hissed at forever |
-| 17 | *oref ve-lo fanim er'em* "back and not face I will see them" | I will look on their backs and not their faces (choice below) |
+| 17 | *oref ve-lo fanim er'em* "back and not face I will see them" | I will show them My back and not My face (*ar'em*, with the Greek; decided; see `PASTE/decided/35-jeremiah.md`) |
 | 18 | *nakkehu va-lashon* | let us strike him with the tongue |
 | 21 | *haggirem al yedei cherev* "pour them out on the hands of the sword" | hand them over to the power of the sword (Psalm 63:10) |
 | 23 | *al tekhapper* | Do not atone (Nehemiah 4:5; note) |
@@ -126,12 +126,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 17:16, *from being a shepherd after You*: the line's sense is uncertain; the note gives the Greek.
 - 18:14, the whole verse: its sense is uncertain.
 
-**Choices for you:**
-
-- **18:17, *oref ve-lo fanim er'em***
-  - (a) **I will look on their backs and not their faces** (now): the Hebrew vowels, *er'em*, "I will see them." As the people flee before the enemy, the LORD sees only their backs.
-  - (b) **I will show them My back and not My face**: other vowels, *ar'em*, "I will show them." The LORD turns away from them in their disaster; the Greek has *I will show them*.
-  - Recommend (b): the people *turned their backs to Me, and not their faces* (2:27), and here the LORD gives them the same; *My back… My face* is the language of Exodus 33:23. (a) is the Hebrew as voweled, and the note gives it.
+**Choices for you:** all decided; moved to `PASTE/decided/35-jeremiah.md`.
 
 ## Jeremiah 13–16 — rendered 2026-10-17, 5:51 PM CDT
 
