@@ -2,6 +2,180 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 21–24 — rendered 2026-10-18, 8:04 AM CDT
+
+**Source:** Hebrew (WLC) throughout. Three places follow another reading, each with a note naming the witness and quoting the Hebrew: 23:8 *where He had driven them* (the Greek, and the same oath in 16:15); 23:33 *You are the burden* (the Greek: the same letters divided otherwise); 23:39 *I am about to lift you up* (the letters of *nasa*, as the Greek reads them). The Greek is quoted in notes where it reads differently: 22:23, 28, 29; 23:6, 23. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- No *va-yehi* is kept: 24:4 *va-yehi devar YHWH elai* is *the word of the LORD came to me*.
+- No *ve-hayah* formula: 21:9 *ve-hayetah lo nafsho le-shalal* is *it shall be* + a noun, rendered plain.
+- No sentence starts with *And*. No *ve-attah* in these chapters.
+- *hinneh*: 23:19 and 24:1 cut. God's *hineni* + participle: 21:4 *I am about to turn back*; 23:2 *I am about to punish*; 23:15 *I am about to feed*; 23:39 *I am about to lift you up*. 21:8 *hineni noten lifneikhem* is *I am setting before you*: the setting happens as He speaks, and it matches Matthew 7's note. *Hineni el / al*: 21:13; 23:30, 31, 32 *I am against*. 23:5, 7 *hinneh yamim ba'im*: *Days are coming*.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 21:9 *ve-chayah*; 21:12 *ma'alleleikhem*, "your deeds" (written *ma'alleleihem*, "their deeds": the same house is meant, and the read form matches 4:4); 22:4 *va-avadav*; 22:6 *noshavu*; 22:23 *yashavt*, *mequnnant* (the written *-ti* forms); 23:18 *devaro*, "His word" (written *devari*, "My word"); 24:9 *le-za'avah*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:2, 1:28, 15:2, 22:16; Exodus 3:20, 14:14, 17:15; Leviticus 19:13, 20:5, 20:20; Numbers 31:49; Deuteronomy 26:8, 28:25, 28:37, 29:4, 29:28, 30:19, 32:11; Judges 6:24; 1 Kings 7:2, 13:30, 22:19; 2 Kings 19:2, 19:35, 23:29, 23:34, 24:6, 24:8, 24:14, 24:17; 1 Chronicles 3:15, 3:17; Job 1:22, 15:8; Psalm 101:8; Isaiah 1:10, 4:2, 13:1, 28:4; Matthew 1:12, 23:38.
+- Not yet rendered here, so quoted from the source: Jeremiah 33:16, 37:3, 38:1–4, 39:18, 45:5, 52:24; Ezekiel 11:15; Hosea 9:10; Amos 3:7, 9:4; Haggai 2:23; Zechariah 3:8, 6:12 (Hebrew).
+- Earlier notes that quote these chapters match the text as rendered: 1 Enoch 94's and 99's (22:13), 1 Enoch 98's (22:19), 1 Chronicles 3's (22:11), 1 Kings 13's (22:18), 2 Kings 23's (22:10–11), 2 Kings 24's (22:24), Matthew 7's (21:8), Matthew 23's (22:5), Isaiah 4's (23:5). Job 15's quotes 23:18 as *the LORD's secret counsel*; logged in `NOTES_FOR_ANDREW.md` and not changed.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *ve-hayah*, *va-yehi* and *ve-attah* in chapters 21–24, and every written form that differs from its read form.
+  - 21:10 and 24:6 against Leviticus 20:5 and Amos 9:4; 21:9 *nafsho le-shalal* at 38:2, 39:18, 45:5; 22:23 *nechant* (this form only here); 22:30 *ariri* at Genesis 15:2 and Leviticus 20:20–21; 23:6 *tsidqenu* at 33:16; 23:9 *rachaf* (only Genesis 1:2 and Deuteronomy 32:11 besides); 23:13 *tiflah* at Job 1:22; 23:19–20 against 30:23–24; 23:26 *tarmit* at 14:14; 23:33 the word division; 23:39 *nashiti… nasho*.
+- Swete's Greek: Jeremiah 21:1–14; 22:1–30; 23:1–40; 24:1–10. Swete's text as held here has no words at 23:30–31; the notes say nothing about it.
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **21:** King Zedekiah, with Nebuchadnezzar at the wall, asks Jeremiah for a miracle; the LORD will fight against the city; *the way of life and the way of death*: whoever surrenders will live; a word to the house of David.
+- **22:** to the king of Judah: do justice; three kings: Shallum, taken to Egypt; Jehoiakim, *Woe to him who builds his house without righteousness… Is not this to know Me?*, the burial of a donkey; Coniah, the signet ring torn off, *Write this man down as childless*.
+- **23:** woe to the shepherds; the righteous Branch, *The LORD Is Our Righteousness*; against the prophets of dreams, *Is not My word like fire*; the burden of the LORD.
+- **24:** two baskets of figs: the exiles in Babylon are the good figs, Zedekiah and those left behind the bad.
+
+### Jeremiah 21: The Way of Life and the Way of Death
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *Nevukhadretsar* | Nebuchadnezzar (the name as Kings spells it, 2 Kings 24:1) |
+| 2 | *ke-khol nifle'otav* | according to all His wonderful works (Exodus 3:20; note) |
+| 2 | *ve-ya'aleh me-aleinu* "and he will go up from on us" | and make him withdraw from us |
+| 4 | *ha-tsarim aleikhem* | who are besieging you |
+| 4 | *ve-asafti otam* | ***KEPT AS IS*** I will gather them (the weapons or the Chaldeans; the Hebrew does not say which) |
+| 5 | *be-yad netuyah u-vi-zroa chazaqah* | with an outstretched hand and a strong arm (Deuteronomy 26:8; note) |
+| 7 | *le-fi cherev* "by the mouth of the sword" | with the sword |
+| 7 | *lo yachus… ve-lo yachmol ve-lo yerachem* | he will not pity them or spare them or have compassion (13:14; note) |
+| 8 | *hineni noten lifneikhem* | I am setting before you (Deuteronomy 30:19; note) |
+| 9 | *ve-nafal al ha-Kasdim* "falls to the Chaldeans" | surrenders to the Chaldeans |
+| 9 | *ve-hayetah lo nafsho le-shalal* | his life will be his as plunder (note) |
+| 10 | *samti fanai… le-ra'ah ve-lo le-tovah* | I have set My face against… for harm and not for good (Leviticus 20:5; note) |
+| 12 | *dinu la-boqer mishpat* "judge justice in the morning" | Execute justice in the morning (Psalm 101:8; note) |
+| 12 | *gazul* | the one who has been robbed |
+| 13 | *yoshevet ha-emeq tsur ha-mishor* | inhabitant of the valley, rock of the plain |
+| 13 | *mi yechat aleinu* | Who will come down against us? |
+| 13 | *mi yavo bi-me'onoteinu* | Who will enter our dwellings? |
+| 14 | *ki-feri ma'alleleikhem* | according to the fruit of your deeds (17:10) |
+| 14 | *be-ya'rah* | in her forest (1 Kings 7:2; note) |
+
+### Jeremiah 22: Is Not This to Know Me?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *al tonu* | Do not wrong (Exodus 22:21) |
+| 4 | *im aso ta'asu* "if doing you do" | if you diligently do this |
+| 4 | *yoshevim le-David al kis'o* "sitting for David on his throne" | who sit on the throne of David (17:25) |
+| 4 | *hu va-avadav ve-ammo* "he and his servants" | the king and his servants and his people |
+| 5 | *bi nishba'ti* | by Myself I have sworn (Genesis 22:16; note) |
+| 5 | *le-chorbah* | a desolation (Matthew 23:38; note) |
+| 6 | *im lo ashitekha midbar* "if I do not make you a wilderness" | yet I will surely make you a wilderness |
+| 7 | *ve-qiddashti* | I will consecrate (6:4; note) |
+| 7 | *ish ve-khelav* | each with his weapons |
+| 10 | *ve-al tanudu lo* | or grieve for him |
+| 10 | *bekhu vakho* "weep weeping" | weep bitterly |
+| 13 | *be-re'ehu ya'avod chinnam* "with his neighbor he works for nothing" | who makes his neighbor work for nothing |
+| 14 | *beit middot* "a house of measures" | a spacious house |
+| 14 | *ve-qara lo challonai* "and cuts out for it my windows" | and cuts out windows for it |
+| 14 | *ve-mashoach ba-shashar* | painting it with vermilion |
+| 15 | *metachareh va-arez* | you compete in cedar |
+| 16 | *ha-da'at oti* "the knowing of Me" | to know Me (9:24; note) |
+| 17 | *ha-meruchah* | extortion |
+| 18 | *hoy achi ve-hoy achot… hoy adon ve-hoy hodoh* | "Alas, my brother!" or "Alas, sister!"… "Alas, lord!" or "Alas, his majesty!" (1 Kings 13:30; note) |
+| 19 | *sachov ve-hashlekh* | dragged off and thrown out |
+| 20 | *me-avarim* | from Abarim (Numbers 27:12) |
+| 21 | *be-shalvotayikh* | in your ease |
+| 22 | *kol ro'ayikh tir'eh ruach* | The wind will shepherd all your shepherds (note) |
+| 23 | *mah nechant* | how you will be pitied (note; choice below) |
+| 24 | *chotam* | the signet ring (Haggai 2:23; note) |
+| 24 | *etteqenka* | I would tear you off |
+| 25 | *asher attah yagor mi-peneihem* | those you dread |
+| 26 | *ve-hetalti* | I will hurl |
+| 27 | *menasse'im et nafsham* "lifting up their soul" | they long |
+| 28 | *etsev nivzeh nafuts* | a despised, broken pot (18:4; 19:11; note) |
+| 29 | *erets erets erets* | Land, land, land (note) |
+| 30 | *ariri* | childless (Genesis 15:2; note) |
+| 30 | *lo yitslach* | will not prosper |
+
+### Jeremiah 23: The LORD Is Our Righteousness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ha-ro'im et ammi* "the ones shepherding My people" | who tend My people |
+| 2 | *lo feqadtem… poqed aleikhem* | you have not cared for them… I am about to punish you (note) |
+| 3 | *neveihen* | their fold |
+| 4 | *ve-lo yippaqedu* | nor will any be missing (Numbers 31:49; note) |
+| 5 | *tsemach tsaddiq* | a righteous Branch (Isaiah 4:2; note) |
+| 5 | *u-malakh melekh ve-hiskil* | he will reign as king and act wisely |
+| 6 | *asher yiqre'o YHWH tsidqenu* | by which he will be called: The LORD Is Our Righteousness (Exodus 17:15; note; choice below) |
+| 8 | *hiddachtim* "I had driven them" | He had driven them (the Greek and 16:15; note) |
+| 8 | *al admatam* | on their own soil |
+| 9 | *rachafu* | shake (Genesis 1:2; note) |
+| 9 | *ke-gever avaro yayin* "like a man wine has passed over" | like a man overcome by wine |
+| 10 | *mippenei alah* | because of the curse |
+| 10 | *u-gevuratam lo khen* "and their might not so" | and their might is not right |
+| 11 | *chanefu* | are godless |
+| 12 | *ka-chalaqlaqqot ba-afelah* | like slippery paths in the darkness (Psalm 35:6) |
+| 13 | *tiflah* | an unseemly thing (Job 1:22; note) |
+| 14 | *sha'arurah* | a horrible thing (5:30; note) |
+| 15 | *chanuppah* | godlessness |
+| 16 | *mahbilim hemmah etkhem* | they are filling you with emptiness (2:5) |
+| 17 | *omrim amor* "saying they say" | They keep saying |
+| 17 | *limna'atsai* | to those who despise Me |
+| 18 | *be-sod YHWH* | in the council of the LORD (Job 15:8; note) |
+| 19 | *hinneh sa'arat YHWH chemah yats'ah* | The storm of the LORD has gone out in wrath |
+| 20 | *titbonenu vah vinah* "you will understand it with understanding" | you will understand it clearly |
+| 20 | *be-acharit ha-yamim* | In the end of days (Genesis 49:1) |
+| 23 | *ha-Elohei mi-qarov ani* | Am I a God who is near (note) |
+| 26 | *ad matai ha-yesh be-lev* "until when — is there in the heart" | ***KEPT AS IS*** How long will this be in the heart (the Hebrew breaks off; the Greek reads so) |
+| 26 | *nevi'ei tarmit libbam* "prophets of the deceit of their heart" | who prophesy the deceit of their own hearts (14:14) |
+| 27 | *ba-Ba'al* | for Baal |
+| 28 | *emet* | faithfully |
+| 28 | *mah la-teven et ha-bar* | What has straw to do with wheat? |
+| 31 | *va-yin'amu ne'um* "and they declare a declaration" | and say, "He declares" (note) |
+| 32 | *u-ve-fachazutam* | and their recklessness |
+| 32 | *ve-ho'el lo yo'ilu* | They do not profit… at all (2:8) |
+| 33 | *et mah massa* "What burden?" | You are the burden (the Greek; note; choice below) |
+| 33 | *ve-natashti etkhem* | I will cast you off |
+| 36 | *lo tizkeru* | you shall no longer mention |
+| 39 | *ve-nashiti etkhem nasho* (vowels: "I will utterly forget you") | I am about to lift you up (the letters of *nasa*; the Greek; note; choice below) |
+| 40 | *cherpat olam u-khelimmut olam* | an everlasting reproach and an everlasting disgrace (20:11) |
+
+### Jeremiah 24: Two Baskets of Figs
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hir'ani YHWH ve-hinneh* "the LORD showed me, and look" | The LORD showed me |
+| 1 | *mu'adim lifnei heikhal YHWH* | set in front of the temple of the LORD |
+| 1 | *he-charash ve-ha-masger* | the craftsmen and the smiths (2 Kings 24:14; note) |
+| 2 | *ki-te'enei ha-bakkurot* | like first-ripe figs (Isaiah 28:4; note) |
+| 2 | *lo te'akhalnah me-ro'a* "will not be eaten for badness" | so bad that they could not be eaten |
+| 5 | *ken akkir… le-tovah* "so I will regard… for good" | so I will regard as good |
+| 6 | *ve-samti eini aleihem le-tovah* | I will set My eyes on them for good (21:10; Amos 9:4; note) |
+| 6 | *u-venitim ve-lo eheros* | I will build them up and not overthrow them (1:10; note) |
+| 7 | *lev la-da'at oti* | a heart to know Me (Deuteronomy 29:4; note) |
+| 8 | *ken etten* | so I will give up |
+| 9 | *le-za'avah le-ra'ah* | a horror and a disaster |
+| 9 | *le-cherpah u-le-mashal li-sheninah ve-liqlalah* | a reproach, a proverb, a byword and a curse (Deuteronomy 28:37; note) |
+| 10 | *ad tummam* | until they are consumed |
+
+**Left standing on purpose:**
+- 21:4, *I will gather them*: the weapons or the Chaldeans; the Hebrew does not say which.
+- 23:26, *How long will this be in the heart*: the Hebrew breaks off; the Greek reads it so.
+
+**Choices for you:**
+- **22:23, *mah nechant***
+  - (a) **how you will be pitied** (now): the Hebrew vowels, from *chanan*, "to show favor." The one nested among the cedars becomes someone to pity.
+  - (b) **how you will groan**: the Greek. The sound of a woman in labor, which the line goes on to name.
+  - Recommend (a): the Hebrew makes sense as it stands, and the Greek does not tell the event better; it only trades mockery for pain.
+- **23:6, *asher yiqre'o YHWH tsidqenu***
+  - (a) **this is the name by which he will be called: The LORD Is Our Righteousness** (now): the Hebrew accents join the LORD's name to the name, as in *The LORD Is My Banner* (Exodus 17:15).
+  - (b) **this is the name by which the LORD will call him: Our Righteousness**: the same words, with the LORD as the one who names him, as the Greek takes them (the Greek's name is *Iosedek*).
+  - Recommend (a): the name answers Zedekiah's, *Tsidqiyahu*, which needs both words, and 33:16 gives the same name to Jerusalem.
+- **23:33, 39, *massa*: the burden**
+  - (a) **You are the burden… I am about to lift you up and cast you off** (now): at v33 the Greek, *attem ha-massa*, the same letters divided otherwise; at v39 the letters of *nasa*, "to lift," as the Greek reads them (*I take*).
+  - (b) **What burden?… I am about to forget you completely and cast you off**: the Hebrew vowels at both verses.
+  - Recommend (a): the passage is built on *massa*, a load that is lifted, and (a) finishes the picture. (b) has its own thread: *you shall no longer mention* (v36), *I will forget you* (v39), *that will not be forgotten* (v40).
+
 ## Jeremiah 17–20 — rendered 2026-10-17, 10:50 PM CDT
 
 **Source:** Hebrew (WLC) throughout. At 18:17 the letters are read with other vowels, *ar'em*, "I will show them," as the Greek reads them (Andrew's ruling, 2026-10-17). The Greek is quoted in notes where it reads differently: 17:9, 13, 16; 18:17; 20:3, 7. The Greek does not have 17:1–4, and the note says so. Verse counts match the Hebrew in all four chapters.
