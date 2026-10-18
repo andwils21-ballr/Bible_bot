@@ -202,6 +202,7 @@ Where the joining word means *but*, *so* or *then*, use that word.
 | *the bone of that same day* (*be-etsem ha-yom*) | *on that very day* |
 | *bring* for motion away from the speaker | *take* (*take me out of this house*); the formula *the LORD who brought you out of Egypt* stays |
 | *the thing that* | *what* (*this is what the LORD has commanded*) |
+| *come into* a place (*When you come into the land*) | *enter*, *go into* or *arrive in*, whichever reads most naturally (*When you enter the land*; *they went into the house*; *they arrived in the wilderness of Zin*). *Come* stays only where the speaker is at the place (*this man has come into my house*; *he shall not come into this city*) and for idioms that are not about a place (*came into being*, *came into his heart*) (Andrew, 2026-10-18) |
 | a doubled verb (*boiled a boiling*) | the plain verb; the doubling may go in a note |
 | an idiom a reader must decode (*with a high hand*) | say what it does (*in open defiance*); the literal form in the note |
 
