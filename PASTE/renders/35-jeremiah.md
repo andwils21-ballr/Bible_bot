@@ -2,6 +2,137 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 17–20 — rendered 2026-10-17, 10:50 PM CDT
+
+**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 17:9, 13, 16; 18:17; 20:3, 7. The Greek does not have 17:1–4, and the note says so. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- 20:3 *va-yehi mi-mochorat*, a new time: *And it came to pass the next day that Pashhur released Jeremiah*.
+- 17:24 *ve-hayah im* is a condition, not a time, and is rendered plain: *If you diligently listen to Me… then there will enter*.
+- No other sentence starts with *And*.
+- *hinneh*: 17:15; 18:3 cut. God's *hinneh* / *hineni* + participle: 18:11 *I am about to shape*; 19:3, 15 *I am about to bring*; 20:4 *I am about to make you*. 19:6 *hinneh yamim ba'im*: *days are coming*.
+- *ve-attah* (18:11): *So now*, drawing the consequence.
+
+**Read forms followed:**
+- 17:8 *yir'eh*, "see": the written form is *yira*, "fear." The note gives both.
+- 18:22 *shuchah*, "pit": the written form is *sichah*. The note gives both.
+- 19:2 *ha-charsit*, "the Potsherd": the written form is *ha-charsot*. The note gives both.
+- No note, because the meaning is the same: 17:10 *ki-drakhav*; 17:13 *ve-surai*; 17:19 *ha-am*; 17:23 *shemoa*; 17:24 *bo*; 18:3 *ve-hinneh hu*; 18:10 *ha-ra*; 18:16 *sheriqot*; 18:23 *ve-yihyu*; 19:15 *mevi*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 19:25, 22:2, 22:12; Exodus 1:16, 23:11, 31:18, 33:23; Deuteronomy 5:12, 15:2, 28:53; 1 Samuel 3:11, 26:20; 1 Kings 22:20; 2 Kings 21:12, 23:12; 1 Chronicles 24:14; 2 Chronicles 36:21; Nehemiah 4:5, 13:18; Job 3:3; Psalms 1:3, 31:13, 106:23; Isaiah 24:1, 29:16, 45:9, 64:8.
+- Not yet rendered here, so quoted from the source: Jeremiah 29:26, 31:33; Ezekiel 7:26; Amos 2:5; Jonah 3:10; Zephaniah 1:5 (Hebrew); Romans 9:21 (SBLGNT).
+- Earlier notes that quote these chapters: 2 Chronicles 32's (17:5), Job 3's (20:14) and Matthew 27's (18:2) match. Nehemiah 4's quotes 18:23 as *Do not atone for their iniquity, and do not blot out their sin from before You*, and Nehemiah 13's and Jubilees 2's quote 17:21–22 with *load* and *by the gates*; the text now reads so in each. Psalm 1's quotes 17:8 as *He is like a tree*; logged in `NOTES_FOR_ANDREW.md` and not changed.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *ve-hayah*, *va-yehi* and *ve-attah* in chapters 17–20, and every written form that differs from its read form.
+  - 17:4 *shamat* against Exodus 23:11 and Deuteronomy 15:2; 17:1 against 31:33; 18:3 *ovnayim* against Exodus 1:16; 18:17 *er'em*; 19:1, 7 *baqbuq* / *baqqoti* against Isaiah 24:1; 20:2 against 29:26; *Bavel* first at 20:4 in the book; 20:10 against Psalm 31:14 (Hebrew); 20:12 against 11:20.
+- Swete's Greek: Jeremiah 17:1, 5, 9, 11, 13, 16; 18:3, 14, 17; 19:1; 20:3, 7, 10, 12.
+
+**The checker** found no errors. Its one CHECK, 19:5 *nor did it come into My mind*, stands: it is an idiom, not a place, which the rule keeps, and it matches 7:31.
+
+**What these chapters are:**
+- **17:** sin engraved on the heart; the man who trusts in man and the tree planted by water; *The heart is more deceitful than all else*; the prophet's prayer; the sabbath at the gates.
+- **18:** the potter's house: *Like the clay in the potter's hand, so are you in My hand*; the plot against Jeremiah and his prayer against the plotters.
+- **19:** the earthenware flask broken in the Valley of the Son of Hinnom: *So will I break this people and this city*.
+- **20:** Pashhur puts Jeremiah in the stocks and is renamed *Terror on Every Side*; Babylon named; *You enticed me, LORD*; *Cursed be the day on which I was born*.
+
+### Jeremiah 17: Written on the Tablet of Their Heart
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *be-tsipporen shamir* "with a nail of shamir" | with a point of diamond |
+| 1 | *charushah al luach libbam* | engraved on the tablet of their heart (Exodus 31:18; note) |
+| 2 | *va-asheireihem* | their Asherim |
+| 3 | *hararei ba-sadeh* | ***KEPT AS IS*** My mountain in the open country (the phrase's place in the sentence is uncertain) |
+| 3 | *bamotekha be-chattat* | your high places, for sin |
+| 4 | *ve-shamattah u-vekha* "you will let go, and through you" | You will let go, through your own fault (Exodus 23:11; note) |
+| 5 | *ve-sam basar zero'o* | makes flesh his arm |
+| 6 | *ke-ar'ar ba-aravah* | like a shrub in the desert |
+| 6 | *charerim* | parched places |
+| 8 | *lo yir'eh* (read form) | does not see (note) |
+| 8 | *yuval* | the stream |
+| 9 | *aqov ha-lev* | The heart is more deceitful (9:4; note) |
+| 9 | *anush* | desperately sick |
+| 10 | *kelayot* "kidneys" | the mind (11:20) |
+| 11 | *qore dagar ve-lo yalad* | Like a partridge that hatches eggs it did not lay (note) |
+| 13 | *ba-arets yikkatevu* | will be written in the earth (note) |
+| 16 | *lo atsti me-ro'eh acharekha* | ***KEPT AS IS*** I have not run away from being a shepherd after You (the line's sense is uncertain; note) |
+| 18 | *mishneh shibbaron* | double destruction (16:18) |
+| 21 | *hishameru be-nafshoteikhem* | Take care, for your lives' sake |
+| 21 | *massa* | a load |
+| 25 | *yoshevim al kisse David* | who sit on the throne of David |
+| 26 | *ha-shefelah* | the lowland |
+| 26 | *todah* | thank offerings |
+
+### Jeremiah 18: The Potter's House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *al ha-ovnayim* "on the two stones" | at the wheel (Exodus 1:16; note) |
+| 4 | *ve-nishchat… ve-shav va-ya'asehu* | Whenever… was spoiled… he would make it again |
+| 6 | *ka-chomer be-yad ha-yotser* | Like the clay in the potter's hand (Isaiah 64:8; note) |
+| 7 | *rega* | At one moment |
+| 8 | *ve-nichamti* | I will relent (Jonah 3:10; note) |
+| 11 | *hinneh anokhi yotser* | I am about to shape (note) |
+| 12 | *no'ash* | It is hopeless (2:25) |
+| 13 | *sha'arurit* | a very horrible thing |
+| 14 | *mi-tsur sadai… mayim zarim qarim nozlim* | ***KEPT AS IS*** the rock of the field… the cold flowing waters from afar (the verse's sense is uncertain) |
+| 15 | *la-shav* | to emptiness |
+| 15 | *shevilei olam* | the ancient paths (6:16; note) |
+| 16 | *sheriqot olam* | a thing to be hissed at forever |
+| 17 | *oref ve-lo fanim er'em* "back and not face I will see them" | I will look on their backs and not their faces (choice below) |
+| 18 | *nakkehu va-lashon* | let us strike him with the tongue |
+| 21 | *haggirem al yedei cherev* "pour them out on the hands of the sword" | hand them over to the power of the sword (Psalm 63:10) |
+| 23 | *al tekhapper* | Do not atone (Nehemiah 4:5; note) |
+| 23 | *mukhshalim* | overthrown |
+
+### Jeremiah 19: The Broken Flask
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *baqbuq yotser charas* | a potter's earthenware flask (note) |
+| 2 | *sha'ar ha-charsit* | the Potsherd Gate (note) |
+| 3 | *titsalnah oznav* | his ears will tingle (1 Samuel 3:11; note) |
+| 4 | *va-yenakkeru* | made… foreign |
+| 7 | *u-vaqqoti* | I will make void (note) |
+| 9 | *be-matsor u-ve-matsoq* | in the siege and in the distress (Deuteronomy 28:53; note) |
+| 11 | *lehera-feh* "be healed" | be mended (note) |
+| 13 | *ha-teme'im* | unclean |
+
+### Jeremiah 20: You Enticed Me, LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *paqid nagid* | chief officer |
+| 2 | *ha-mahpekhet* | the stocks |
+| 3 | *Magor-missabib* | Terror on Every Side (note) |
+| 4 | *le-magor* | a terror |
+| 7 | *pittitani… va-eppat* | You enticed me… I was enticed (1 Kings 22:20; note) |
+| 7 | *chazaqtani va-tukhal* | You were stronger than I, and You prevailed |
+| 8 | *chamas va-shod* | Violence and destruction |
+| 9 | *atsur be-atsmotai* | shut up in my bones |
+| 10 | *dibbat rabbim* | the whispering of many (Psalm 31:13; note) |
+| 10 | *shomrei tsal'i* "watchers of my stumbling" | watch for my fall |
+| 11 | *ke-gibbor arits* | as a dread warrior |
+| 12 | *kelayot va-lev* | the mind and the heart (11:20; note) |
+| 15 | *simmeach simmechahu* | making him very glad |
+| 16 | *ka-arim asher hafakh* | like the cities that the LORD overturned (Genesis 19:25; note) |
+| 17 | *ve-rachmah harat olam* | and her womb pregnant forever |
+
+**Left standing on purpose:**
+- 17:3, *My mountain in the open country*: where the phrase belongs in the sentence is uncertain.
+- 17:16, *from being a shepherd after You*: the line's sense is uncertain; the note gives the Greek.
+- 18:14, the whole verse: its sense is uncertain.
+
+**Choices for you:**
+
+- **18:17, *oref ve-lo fanim er'em***
+  - (a) **I will look on their backs and not their faces** (now): the Hebrew vowels, *er'em*, "I will see them." As the people flee before the enemy, the LORD sees only their backs.
+  - (b) **I will show them My back and not My face**: other vowels, *ar'em*, "I will show them." The LORD turns away from them in their disaster; the Greek has *I will show them*.
+  - Recommend (b): the people *turned their backs to Me, and not their faces* (2:27), and here the LORD gives them the same; *My back… My face* is the language of Exodus 33:23. (a) is the Hebrew as voweled, and the note gives it.
+
 ## Jeremiah 13–16 — rendered 2026-10-17, 5:51 PM CDT
 
 **Source:** Hebrew (WLC) throughout. At 15:14 the text follows 17:4 and the Greek, *serve your enemies* (Andrew's ruling, 2026-10-17). The Greek is quoted in notes where it reads differently: 13:4; 14:8; 15:11, 14. Verse counts match the Hebrew in all four chapters.
