@@ -2,6 +2,148 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 25–28 — rendered 2026-10-18, 12:56 PM CDT
+
+**Source:** Hebrew (WLC) throughout. One place follows another reading, with a note naming the witness and quoting the Hebrew: 25:38 *the oppressing sword* (the Greek reads *sword*, and the book has the same phrase at 46:16 and 50:16). From 25:14 on, the Greek arranges the book differently: it puts the oracles against the nations after 25:13, so in Swete Hebrew 25:15–38 is Greek 32:1–24, and Hebrew 26, 27 and 28 are Greek 33, 34 and 35. The Greek is quoted in notes where it reads differently: 25:1, 9, 13–15, 26, 34, 38; 26:7–16; 27:1, 7, 9, 16–22; 28:1, 13. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- 28:1 *va-yehi ba-shanah ha-hi*, a new time at a chapter's start: *And it came to pass in that same year… that Hananiah… spoke to me*. 26:8 *va-yehi ke-khallot* is cut inside the scene (*When Jeremiah had finished speaking*); 28:12 *va-yehi devar YHWH* is *the word of the LORD came*.
+- *ve-hayah* formula: 25:12 *And it shall come to pass, when seventy years are completed, that I will punish*; 25:28 *And it shall come to pass, when they refuse… that you shall say*. 27:8 *ve-hayah ha-goy* is *it shall be* + a noun, rendered plain.
+- No other sentence starts with *And*.
+- *hinneh*: 25:32; 26:14; 27:16 cut. God's *hinneh* / *hineni* + participle: 25:9 *I am about to send for*; 25:29 *I am beginning to bring disaster*; 28:16 *I am about to send you off*.
+- *ve-attah*: 26:13 and 27:6 *So now*, drawing the consequence. 25:30 *ve-attah* and 27:9 *ve-attem* are the pronoun, *As for you*.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 25:7 *hakh'iseni*; 25:13 *ve-heveti*; 26:6 *ha-zot*; 26:18 *Mikhah* (written *Mikhayah*); 28:1 *ba-shanah*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 20:7; Exodus 32:11, 32:14; Leviticus 26:13; Deuteronomy 4:2, 13:5, 18:10, 18:20, 18:22, 19:6, 21:22, 28:48; Joshua 6:21; 2 Kings 22:12–13, 23:6, 24:13, 25:13; 2 Chronicles 36:21; Ezra 1:7; Isaiah 16:10, 51:17, 63:3.
+- Not yet rendered here, so quoted from the source: Jeremiah 33:11, 36:1–2, 36:12, 36:25, 39:14, 40:5–6, 43:10, 46:2, 46:16, 49:34–39, 50:16, 51:41; Daniel 2:38 (Aramaic), 9:2; Joel 3:16; Amos 1:2; Micah 1:1, 3:12 (Hebrew); 1 Peter 4:17; Revelation 18:22–23 (SBLGNT).
+- Earlier notes that quote these chapters match the text as rendered: Sirach 28's (28:13), 2 Meqabyan 10's (26:18), Isaiah 16's (25:30), Psalm 76's (25:38, *lair*). 1 Enoch 89's and 2 Chronicles 36's cite 25:11 for the seventy years, and Psalm 75's cites 25:15, without quoting.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *ve-hayah*, *va-yehi* and *ve-attah* in chapters 25–28, and every written form that differs from its read form.
+  - 25:1 against 36:1 and 46:2; 25:10 against 7:34, 16:9, 33:11; 25:26 *Sheshakh* against 51:41; 25:34 *tefotsotikhem* (only here); 25:38 *ha-yonah* against 46:16 and 50:16; 26:18 against Micah 3:12; 26:22 against 36:12, 25; 26:23 *qivrei benei ha-am* (only here and 2 Kings 23:6); 26:24 against 39:14 and 40:5; 27:2 *motot* against Leviticus 26:13; 28:16 *sarah dibbarta* against Deuteronomy 13:5.
+- Swete's Greek: Jeremiah 25:1–14 (Hebrew 25:1–13), 32:1–24 (Hebrew 25:15–38), 33:1–24 (Hebrew 26), 34:1–18 (Hebrew 27), 35:1–17 (Hebrew 28).
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **25:** the fourth year of Jehoiakim: twenty-three years of warnings not heard; Nebuchadnezzar *My servant*; seventy years; the cup of the wine of wrath, handed to Jerusalem and then to the nations; the LORD roars against all the earth.
+- **26:** the temple sermon and Jeremiah's trial for his life; the elders cite Micah; the prophet Uriah is killed; Ahikam protects Jeremiah.
+- **27:** Jeremiah wears a yoke and tells five kings, Zedekiah and the priests to serve Babylon; the temple vessels will go to Babylon and come back.
+- **28:** Hananiah breaks the yoke and promises two years; the LORD answers with iron; Hananiah dies within the year.
+
+### Jeremiah 25: The Cup of the Wine of Wrath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *al kol am Yehudah* | concerning all the people of Judah |
+| 1 | *Nevukhadretsar* | Nebuchadnezzar (the name as Kings spells it, 2 Kings 24:1) |
+| 3 | *ashkem ve-dabber* "rising early and speaking" | again and again (7:13) |
+| 5 | *le-min olam ve-ad olam* | from of old and forever |
+| 7 | *le-ra lakhem* | to your own harm |
+| 9 | *hineni sholeach ve-laqachti* "I am sending and will take" | I am about to send for |
+| 9 | *mishpechot tsafon* | the clans of the north (1:15) |
+| 9 | *avdi* | My servant (note) |
+| 9 | *ve-hacharamtim* | I will devote them to destruction (Joshua 6:21; note) |
+| 9 | *le-shammah ve-li-shreqah* | a horror and a thing to be hissed at (19:8) |
+| 10 | *ve-ha'avadti* "I will make perish" | I will banish |
+| 10 | *qol rechayim ve-or ner* | the sound of the millstones and the light of the lamp (note) |
+| 14 | *ki avdu vam gam hemmah* "for they too will make slaves of them" | For many nations and great kings will make slaves of them too |
+| 15 | *kos ha-yayin ha-chemah* | this cup of the wine of wrath (Isaiah 51:17; note) |
+| 16 | *ve-hitgo'ashu ve-hitholalu* | and stagger and go mad |
+| 20 | *ha-erev* | the mixed peoples |
+| 22 | *malkhei ha-i* "the kings of the coast" | the kings of the coastlands |
+| 23 | *qetsutsei fe'ah* | who clip the hair at the sides of their head (9:26) |
+| 26 | *ish el achiv* "each to his brother" | one after another |
+| 26 | *Sheshakh* | Sheshach (51:41; note) |
+| 28 | *shato tishtu* "drinking you will drink" | You must drink! |
+| 29 | *anokhi mechel leha-ra* | I am beginning to bring disaster (1 Peter 4:17; note) |
+| 29 | *hinnaqeh tinnaqu lo tinnaqu* | will you go unpunished? You will not go unpunished |
+| 30 | *sha'og yish'ag al navehu* "roaring He will roar against His fold" | He will roar mightily against His fold |
+| 30 | *heidad ke-dorkhim ya'aneh* | He will raise a shout like those who tread grapes (Isaiah 16:10; note) |
+| 31 | *nishpat hu le-khol basar* | He is entering into judgment with all flesh |
+| 32 | *mi-yarketei arets* | from the farthest parts of the earth (6:22) |
+| 33 | *le-domen* | dung (8:2; 16:4) |
+| 34 | *addirei ha-tson* "the mighty ones of the flock" | the leaders of the flock |
+| 34 | *u-tefotsotikhem* | ***KEPT AS IS*** and of your scatterings (found only here; note) |
+| 37 | *ne'ot ha-shalom* | the peaceful folds |
+| 38 | *sukko* | His lair |
+| 38 | *charon ha-yonah* "the fierceness of the oppressor" | the oppressing sword (the Greek; 46:16; 50:16; note; choice below) |
+
+### Jeremiah 26: Jeremiah on Trial
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *al kol arei Yehudah ha-ba'im* "to all the cities of Judah that come" | to all who come from the cities of Judah |
+| 2 | *al tigra davar* | do not take away a word (Deuteronomy 4:2; note) |
+| 3 | *ve-nichamti el ha-ra'ah* | I will relent of the disaster (18:8) |
+| 5 | *ve-hashkem ve-shaloach* | again and again |
+| 8 | *mot tamut* "dying you will die" | You must die! (Deuteronomy 18:20; note) |
+| 9 | *va-yiqqahel… el* | crowded around |
+| 10 | *sarei Yehudah* | the officials of Judah |
+| 11 | *mishpat mavet la-ish ha-zeh* "a judgment of death for this man" | This man deserves to die (Deuteronomy 19:6; note) |
+| 13 | *heitivu darkheikhem* | amend your ways (7:3) |
+| 14 | *va-ani hineni be-yedkhem* | As for me, I am in your hands |
+| 15 | *yado'a ted'u* "knowing you shall know" | know for certain |
+| 18 | *iyyim* | a heap of ruins (2 Meqabyan 10's note) |
+| 18 | *le-vamot ya'ar* "for heights of a forest" | a wooded height |
+| 19 | *he-hamet hemituhu* | put him to death |
+| 19 | *va-yechal et penei YHWH* | plead with the LORD (Exodus 32:11; note) |
+| 19 | *osim ra'ah gedolah al nafshoteinu* | we are about to do great harm to ourselves |
+| 23 | *qivrei benei ha-am* | the graves of the common people (2 Kings 23:6; note) |
+
+### Jeremiah 27: The Yoke of the King of Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Yehoyaqim* | ***KEPT AS IS*** Jehoiakim (the chapter is set under Zedekiah; note) |
+| 2 | *moserot u-motot* | straps and yoke bars (Leviticus 26:13; note) |
+| 3 | *be-yad mal'akhim* | by the envoys |
+| 4 | *ve-tsivvita otam el adoneihem* | Give them this charge for their masters |
+| 5 | *la-asher yashar be-einai* | to whomever seems right in My eyes |
+| 6 | *avdi* | My servant (25:9) |
+| 7 | *ve-avdu vo* | will make him their slave (25:14) |
+| 9 | *qosmeikhem… onneneikhem… kashshafeikhem* | your soothsayers… those who read omens for you… your sorcerers (Deuteronomy 18:10; note) |
+| 9 | *chalomoteikhem* | your dreams (note) |
+| 10 | *le-ma'an harchiq* | so that you will be removed far |
+| 11 | *va-avadah* "and it will serve it" | and it will till it |
+| 18 | *yifge'u na* | let them intercede (7:16; note) |
+| 19 | *ha-yam* | the Sea (2 Kings 25:13) |
+| 20 | *chorei Yehudah* | the nobles of Judah |
+| 22 | *ad yom poqdi otam* | until the day I attend to them (Ezra 1:7; note) |
+
+### Jeremiah 28: Hananiah Breaks the Yoke
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yehi ba-shanah ha-hi* | And it came to pass in that same year… that |
+| 3 | *be-od shenatayim yamim* "in yet two years of days" | Within two years |
+| 6 | *yaqem YHWH et devarekha* | May the LORD fulfill the words |
+| 9 | *be-vo devar ha-navi* | when the word of that prophet comes to pass (Deuteronomy 18:22; note) |
+| 10 | *ha-motah* | the yoke bar |
+| 13 | *ve-asita tachteihen motot barzel* | but you have made in their place bars of iron (Sirach 28's note; note; choice below) |
+| 14 | *ol barzel* | an iron yoke (Deuteronomy 28:48; note) |
+| 15 | *hivtachta… al sheqer* | you have made this people trust in a lie |
+| 16 | *hineni meshallechakha* | I am about to send you off (note) |
+| 16 | *sarah dibbarta* | you have spoken rebellion (Deuteronomy 13:5; note) |
+
+**Left standing on purpose:**
+- 25:34, *and of your scatterings*: the word is found only here, and its sense is uncertain.
+- 27:1, *Jehoiakim*: the chapter is set under Zedekiah (vv3, 12; 28:1), but no witness in `sources/` names him here; the Greek has no v1.
+
+**Choices for you:**
+- **25:38, *mippenei charon ha-yonah***
+  - (a) **because of the oppressing sword** (now): the Greek reads *sword*, and *because of the oppressing sword* is the book's own phrase at 46:16 and 50:16.
+  - (b) **because of the fierceness of the oppressor**: the Hebrew here, *charon*, "fierceness," matching *His fierce anger* in the next line.
+  - Recommend (a): the Greek and the book's phrase in two other places agree, and the sword is what the LORD sends through the whole chapter (vv16, 27, 29, 31). (b) is a sound reading of the Hebrew as it stands, and the note gives it.
+- **28:13, *ve-asita tachteihen motot barzel***
+  - (a) **but you have made in their place bars of iron** (now): the Hebrew. By breaking the wooden yoke, Hananiah has brought on an iron one.
+  - (b) **but I will make in their place bars of iron**: the Greek. The LORD answers the broken bars with iron ones.
+  - Recommend (a): the Hebrew makes sense as it stands, and v14 still says *I have put an iron yoke*, so the LORD's hand in it is not lost.
+
 ## Jeremiah 21–24 — rendered 2026-10-18, 8:04 AM CDT
 
 **Source:** Hebrew (WLC) throughout. Three places follow another reading, each with a note naming the witness and quoting the Hebrew: 23:8 *where He had driven them* (the Greek, and the same oath in 16:15); 23:33 *You are the burden* (the Greek: the same letters divided otherwise); 23:39 *I am about to lift you up* (the letters of *nasa*, as the Greek reads them). The Greek is quoted in notes where it reads differently: 22:23, 28, 29; 23:6, 23. Verse counts match the Hebrew in all four chapters.
