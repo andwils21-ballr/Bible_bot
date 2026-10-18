@@ -81,8 +81,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **7:68, the missing verse** (English 7:69–73 is Hebrew 7:68–72)
-  - Now: *(This verse is not in the Hebrew or the Greek of Nehemiah; see the note.)*
-  - (a) **As now**: the number kept and the line left out.
+  - (a) **The number kept and the line left out** (now), with a note.
   - (b) **Their horses were seven hundred and thirty-six, their mules two hundred and forty-five**, supplied from Ezra 2:66 with a note, as most English Bibles print it.
   - Recommend (a): no witness of Nehemiah has the line.
 

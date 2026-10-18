@@ -2,9 +2,9 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## *Come into* a place: *enter*, *go into*, *arrive in* (Andrew, 2026-10-18)
+## *Come into* a place: *enter*, *go into*, *arrive in* (Andrew, 2026-10-17)
 
-**Request:** Andrew, 2026-10-18: Numbers 15:18, *When you come into the land*, "is not a natural way that we speak nowadays and it makes it hard to read naturally"; fix it systematically in the books rendered so far: *go to* or *arrive at*, whenever the text speaks of going to a place.
+**Request:** Andrew, 2026-10-17: Numbers 15:18, *When you come into the land*, "is not a natural way that we speak nowadays and it makes it hard to read naturally"; fix it systematically in the books rendered so far: *go to* or *arrive at*, whenever the text speaks of going to a place.
 
 **What was done:** every *come into* / *came into* (and *came in to* a place) in the verses of every rendered book was read. 106 that are about going into a place were changed, to whichever of *enter*, *go into*, *arrive in* or *go to* reads naturally in the sentence (*arrive at the land* and *go to the land* do not read naturally, so the land formula became *When you enter the land*, the closest English to the Hebrew *bo el*). Left as they are: places where the speaker is at the destination (Judges 19:23 *this man has come into my house*; 1 Samuel 21:15 *Shall this one come into my house?*; 2 Kings 19:32–33 and Isaiah 37:33–34 *He shall not come into this city*; 2 Meqabyan 10:10 *have come into this land*), Ruth 4:11 *the woman who is coming into your house* (joining his household), Psalm 69:2 *I have come into deep waters* (changed, then put back the same day: the deep waters are the psalmist's drowning, not a place he goes to, and *gone into* made it sound as if he waded in on purpose), and idioms that are not about a place (*came into being*, *came into his heart*, *came into His ears*, *coming into bloodguilt*, *came in to* a woman). Notes that quoted the changed verses were matched. The rule is now in `RENDERING_SPEC.md` ("Already ruled").
 

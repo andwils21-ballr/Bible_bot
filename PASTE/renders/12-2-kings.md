@@ -176,7 +176,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **17:21, *ki qara Yisra'el me-al beit David*** (no subject)
-  - Now: *For He tore Israel from the house of David, and they made Jeroboam son of Nebat king.*
   - (a) **For He tore Israel** (now): the LORD as subject, as in Ahijah's sign, *I am about to tear the kingdom out of the hand of Solomon* (1 Kings 11:31).
   - (b) **For Israel tore away from the house of David**: Israel as subject. The Hebrew allows both; the Greek is garbled here.
   - Recommend (a): the verse goes on with *they made Jeroboam king*, and in v20 and v23 the LORD is the one acting. The note gives (b).
@@ -281,7 +280,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **12:4, *kesef over ish***
-  - Now: *the money of each man who passes the count*
   - (a) **the money of each man who passes the count** (now): the census half-shekel, from *everyone who passes over to those counted* (Exodus 30:13), which Chronicles calls *the tax of Moses* (2 Chronicles 24:6, 9).
   - (b) **current money**: silver in common use, as Abraham's silver was *current with the merchant* (Genesis 23:16).
   - Recommend (a): Chronicles names the census tax in its account of this same repair. The note gives both.
@@ -557,7 +555,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **5:12, the river's name**
-  - Now: *Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel?*
   - The read-form rule and the names rule pull apart here.
   - (a) **Abana** (now): the written form *Avanah*, the Greek *Abana*, and the name English readers know.
   - (b) **Amana**, the read form *Amanah*.

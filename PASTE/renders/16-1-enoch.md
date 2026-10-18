@@ -43,7 +43,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **105:2, *ʾana wa-waldəya*, "I and My Son"** (the Lord is the speaker)
-  - Now: *For I and My Son will be joined with them forever in the paths of uprightness in their lives*
   - (a) **My Son** (now), with a note citing John 14:23 and Psalm 2:7: it reads as the Son of God, which is how an Ethiopian Orthodox reader will hear it.
   - (b) **my son**, with a note, as Charles prints it, leaving it open who is meant.
   - Recommend (a): the speaker is the Lord and every pronoun for Him is capitalized. The same kind of choice as 71:14.
@@ -185,7 +184,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:** (90:1 falls under the choice in the 1 Enoch 72 report)
 - **90:38, *became a word***
-  - Now: *The first among them became a word, and that word became a great beast with great black horns on its head*
   - (a) **a word**, the EOTC (now), with the note giving both.
   - (b) **a lamb**, Charles, who judges the text corrupt.
   - No recommendation was given; the English follows the EOTC.

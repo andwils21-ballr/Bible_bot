@@ -717,7 +717,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:** (decided ones moved to `PASTE/decided/15-jubilees.md`)
 - **Chapter 1's verse numbers**
-  - Now: 1:1–17, then 1:20; there are no verses 18 and 19. The EOTC fits the text other editions number 1–19 into 1–17, so nothing is missing.
   - (a) **The EOTC's numbers** (now), as the spec requires, with a note.
   - (b) **Renumber 1–29** like the second Ge'ez text and other editions, so readers never see a skip.
   - Recommend (a): from v20 on they agree with everyone else.

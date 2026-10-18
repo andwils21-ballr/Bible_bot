@@ -164,7 +164,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **11:19, *Samuel and Elijah in Jerusalem***
-  - Now: *and for Samuel and Elijah in Jerusalem, in the tent in the temple, where Solomon built*
   - (a) **As the book has it, with no note arguing with it** (now).
   - (b) As the book has it, with a note on the difficulty.
   - No recommendation was given.
@@ -219,17 +218,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **5:6, a stray negative** (*wa-ʾi-yəballəʿu*, *and they do not eat*)
-  - Now: *They eat everything that has died, blood, what a beast has eaten and what is torn*
   - (a) **They eat** (now), with a note: the Chaldeans are the ones who eat it, as the rest of the verse and v10 say.
   - (b) **and they do not eat**, the Ge'ez as it stands.
   - No recommendation was given.
 - **5:10, a people's name kept in Ge'ez: *ʾArabāmāyān***
-  - Now: *which the sons of the ʾArabāmāyān do, sinners and rebels*
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.
 - **8:9, *Takkaze*** (the Tekezé river of Ethiopia)
-  - Now: *raises his neck as far as the river Takkaze*
   - (a) **Takkaze**, the book's form (now), with a note.
   - (b) **Tekezé**, the river's usual English name.
   - No recommendation was given.
@@ -288,12 +284,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) Another form, such as **Maccabis**.
   - No recommendation was given.
 - **4:1, *Hośeʿ*** (likely Joshua, Numbers 13:16, noted)
-  - Now: *Some were in the days of Hoshea,*
   - (a) **Hoshea** (now).
   - (b) **Joshua** in the text.
   - No recommendation was given.
 - **4:19, words kept in Ge'ez: *marānātā*, *milonāt*, *ḫoṣādāt* (furnishings)**
-  - Now: *He made marānātā and milonāt, tables and tents, basins and ḫoṣādāt*
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.

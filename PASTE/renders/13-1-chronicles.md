@@ -11,12 +11,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **26:20, *ve-ha-Leviyyim Achiyyah*** (the departure above)
-  - Now: *Their kinsmen the Levites were over the treasuries of the house of God and the treasuries of the dedicated gifts.*
-  - (a) **Their kinsmen the Levites**, the Greek (*acheihem*, one letter more), as now; the note quotes the Hebrew.
+  - (a) **Their kinsmen the Levites** (now), the Greek (*acheihem*, one letter more); the note quotes the Hebrew.
   - (b) **And the Levites: Ahijah was over the treasuries**, the Hebrew.
   - Recommend (a): the verse heads a list of treasurers by family (vv21–28), and Ahijah is in none of them.
 - **27:18, *Elihu, one of David's brothers***
-  - Now: *for Judah, Elihu, one of David's brothers*
   - (a) **Elihu**, the Hebrew (now), with the note.
   - (b) **Eliab**, the Greek: Jesse's firstborn (2:13; 1 Samuel 16:6); no Elihu is among Jesse's sons in 2:13–15.
   - Recommend (a): *achei David* can mean a kinsman as well as a brother, so the Hebrew is not self-contradictory.
@@ -115,13 +113,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **22:14, *be-onyi***
-  - Now: *In my affliction I have prepared for the house of the LORD a hundred thousand talents of gold*
   - (a) **In my affliction** (now): *oni* as in *I have seen the affliction of My people* (Exodus 3:7) and *God has seen my affliction* (Genesis 31:42); what the gathering cost David.
   - (b) **In my poverty**, the Greek *kata tēn ptōcheian mou*: modesty, though the sums are vast.
   - (c) **With great pains**: the effort, without the word's weight.
   - Recommend (a); the note gives (b) and (c).
 - **25:1, *sarei ha-tsava***
-  - Now: *David and the commanders of the army set apart for the service some of the sons of Asaph*
   - (a) **the commanders of the army** (now): the phrase's sense elsewhere in the book (19:18; 27:34) and the Greek's.
   - (b) **the commanders of the service**: *tsava* as the Levites' term of duty (Numbers 4:3).
   - Recommend (a); the note gives (b).
@@ -206,7 +202,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **21:1, *satan*** (no article)
-  - Now: *Satan stood up against Israel and incited David to number Israel.*
   - (a) **Satan**, a name (now), as the note on 2 Samuel 24:1 already quotes it; the Greek has *diabolos*, the New Testament's word for the devil.
   - (b) **an adversary**, the plain meaning without the article, as in Numbers 22:22 (*the messenger of the LORD took his stand in the road as an adversary*); Job has the article, *ha-satan* (Job 1:6). Samuel tells the same event as the LORD's anger inciting David (2 Samuel 24:1).
   - Recommend (a), with the note giving (b).
@@ -385,7 +380,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **12:18, *ve-ruach lavshah et Amasai*** (only *ruach*, with no *of God* or *of the LORD*)
-  - Now: *Then the spirit clothed Amasai, the chief of the officers*
   - (a) **the spirit** (now): the 2026-09-30 ruling capitalizes *ruach* only when it is *of God* or *of the LORD*.
   - (b) **the Spirit**: the verb is the one of *The Spirit of the LORD clothed Gideon* (Judges 6:34), and Amasai then speaks in verse.
   - Recommend (a): the Hebrew does not say whose spirit it is; the note gives the Judges parallel.
@@ -561,7 +555,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **3:19, *The sons of Pedaiah: Zerubbabel***
-  - Now: *The sons of Pedaiah: Zerubbabel and Shimei.*
   - (a) **Pedaiah**, the Hebrew of Chronicles (now), making Zerubbabel Shealtiel's nephew.
   - (b) **Shealtiel**, the Greek here (*the sons of Shealtiel: Zerubbabel*), as Ezra 3:2, Haggai 1:1 and Matthew 1:12 call him *son of Shealtiel*.
   - Recommend (a): the Hebrew is clear and does not contradict itself; the Greek may have brought the verse into line with Ezra and Haggai, but that cannot be shown. The note gives (b).

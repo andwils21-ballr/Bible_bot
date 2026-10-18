@@ -302,7 +302,6 @@ Echoes in the notes were checked two ways:
   - (b) **Add a second witness to `sources/`** (Swete's apparatus if a digitized copy exists, the Hebrew manuscripts of Ben Sira, or Rahlfs's 1935 Septuagint, each with its licence checked first), then follow it where it tells the event better (spec rule 2).
   - Recommend (b), so that lines like 43:23 and 48:17 can make sense; until then, (a).
 - **48:17, *ton Gōg*** (the rest of the verse is Hezekiah's tunnel, 2 Kings 20:20; the KJV has *brought in water into the midst thereof*)
-  - Now: *Hezekiah fortified his city, / and brought Gog in among them; / he dug through the sheer rock with iron, / and built pools for water.*
   - (a) **Gog**, as Swete prints it (now).
   - (b) **brought water in among them**, once a witness is added.
   - Recommend (b) if a witness is added; until then, (a).
@@ -469,7 +468,6 @@ Echoes in the notes were checked two ways:
 
 **Choices for you:**
 - **43:23, *Iēsous*: Joshua, Jesus, or "islands"** (*Iēsous* is Joshua's name in Greek, Sirach 46:1, and also the name Jesus; one letter changed, it is *nēsous*, *islands*)
-  - Now: *By His counsel He calmed the deep, / and Joshua planted it.*
   - (a) **Joshua** (now): Swete as printed, with the note; accurate to the text in `sources/`, but Joshua did not plant the deep.
   - (b) **and planted islands in it**: makes sense of the calmed deep, as the KJV (*planteth islands therein*) and most English Bibles; the spec allows it only with a witness in `sources/`, and none there has *nēsous*.
   - (c) **and Jesus planted it**: the same Greek word read as the other name; it reads as a statement about Jesus that the line, in a hymn about the sea, does not support.
@@ -1178,12 +1176,10 @@ Echoes in the notes were checked two ways:
 
 **Choices for you:**
 - **21:27, *ton satanan*** (joins the Satan question in Job 1–2)
-  - Now: *When the ungodly man curses the adversary, he curses his own soul.*
   - (a) **the adversary** (now).
   - (b) **Satan**.
   - No recommendation was given.
 - **24:23, *nomon*** (the verse quotes Deuteronomy 33:4, where *torah* is now *instruction*; the *torah* question is open across books)
-  - Now: *the law that Moses commanded, an inheritance for the assemblies of Jacob.*
   - (a) **the law** (now).
   - (b) **the instruction**, as Deuteronomy 33:4.
   - Recommend: whatever you rule for *torah* decides this line too.
@@ -1637,8 +1633,7 @@ Echoes in the notes were checked two ways:
 | 30 | *phantasiokopōn* "acting on fancies" | capricious |
 
 **Choices for you:**
-- **The translator's foreword** (the Prologue, by the author's grandson; in Swete's Greek in `sources/`, not printed by the helper)
-  - Now: not rendered.
+- **The translator's foreword** (the Prologue, by the author's grandson; in Swete's Greek in `sources/`, not printed by the helper; not rendered yet)
   - (a) **Render it above 1:1**, unnumbered.
   - (b) **Leave it out.**
   - No recommendation was given.

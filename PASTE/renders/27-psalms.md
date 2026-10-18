@@ -358,12 +358,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **33:6, *ruach piv***
-  - Now: *By the word of the LORD the heavens were made, / and by the breath of His mouth all their host.*
   - (a) **the breath of His mouth**, lowercase (now): the phrase is *the ruach of His mouth*, parallel to *the word*; the note gives the Church's reading of Word and Spirit at creation.
   - (b) **the Spirit of His mouth**, by the fixed term for *ruach* of God.
   - No recommendation was given.
 - **32:8, who is speaking**
-  - Now: *I will instruct you and teach you in the way you should go; / I will counsel you with My eye on you.*
   - (a) **God as the speaker**, capitalized (now); the note gives the other view.
   - (b) **The psalmist as the speaker**, lowercase.
   - No recommendation was given.
@@ -389,17 +387,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **23:6, *ve-shavti***
-  - Now: *and I will dwell in the house of the LORD / for length of days.*
   - (a) **dwell**, the Greek, the familiar reading, as in 27:4 (now), with a note.
   - (b) **return**, the Hebrew *ve-shavti*, *and I will return*.
   - No recommendation was given.
 - **24:4, written *his soul*, read *My soul***
-  - Now: *who has not lifted up his soul to what is false*
   - (a) **his soul**, the written form (now), against the spec's read-form rule, since the line describes the worshiper; the note gives the read form.
   - (b) **My soul**, the read form (God's own, as in *take My name in vain*): *who has not lifted up My soul to what is false.*
   - No recommendation was given.
 - **24:6, *God of Jacob***
-  - Now: *who seek Your face, God of Jacob.*
   - (a) **God of Jacob** (now), as the Greek and Syriac read.
   - (b) **Jacob**, the Hebrew alone.
   - No recommendation was given.
@@ -414,7 +409,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **22:16, *ka'ari*** (the most debated verse in the Psalms)
-  - Now: *For dogs surround me; / a company of evildoers encircles me; / they have pierced my hands and my feet.*
   - (a) **they have pierced** (now): the Greek, Syriac and Latin read *pierced* (or *dug*), and one of the oldest Hebrew copies, from the Judean Desert, has the verb *ka'aru*; followed under witness rule 2 (agreement among witnesses, and the line needs a verb).
   - (b) **like a lion**, the Leningrad text *ka'ari*, which leaves the line without a verb.
   - Recommend (a).
@@ -463,7 +457,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **8:5, *me-Elohim***
-  - Now: *Yet You have made him little less than God / and crown him with glory and honor.*
   - (a) **than God**, the Hebrew (now).
   - (b) **than the angels**, the Greek, which Hebrews 2:7 quotes.
   - No recommendation was given.
@@ -473,12 +466,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **Capitals**, read with Hebrews 2:6–9 as Jesus.
   - No recommendation was given.
 - **10:3, *berekh*, "bless", for cursing**
-  - Now: *and the greedy man curses and despises the LORD.*
   - (a) **curses**, by the sense (now), as in Job.
   - (b) **blesses**, the word as written.
   - No recommendation was given.
 - **The 9–10 numbering in the notes**
-  - Now: one note, at 9:1, says the Greek and the Ethiopian Psalter count 9 and 10 as one psalm.
   - (a) **That note only** (now).
   - (b) **A cross-reference line in each psalm's notes**, so a reader of the Ethiopian Psalter can find the number.
   - No recommendation was given.
@@ -514,12 +505,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **Capitals** for the son, which would read the psalm through Acts and Hebrews.
   - No recommendation was given.
 - **2:12, *nashqu var***
-  - Now: *Kiss the son, or he will be angry*
   - (a) **Kiss the son** (now): *bar* is Aramaic for *son*; the note gives the other readings.
   - (b) **take hold of instruction**, the Greek.
   - No recommendation was given.
 - **1:2, *torah*** (the *torah* question is open across books; `NOTES_FOR_ANDREW.md`, 2026-10-01 and 2026-10-07)
-  - Now: *but his delight is in the law of the LORD, / and on His law he meditates day and night.*
   - (a) **law** (now), with *instruction* in the note.
   - (b) **instruction**, as Exodus through Joshua, Chronicles and Nehemiah have it.
   - No recommendation was given.

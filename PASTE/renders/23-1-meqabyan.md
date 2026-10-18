@@ -10,12 +10,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **36:3, the kingdom of the Medes and the Moabites** (when Israel went into Egypt)
-  - Now: *When Israel first went into the land of Egypt, in the kingdom of the Medes and the Moabites, He said…*
   - (a) **As the Ge'ez has it, with no note arguing with it** (now), though it does not fit history.
   - (b) As the Ge'ez has it, with a note saying it does not fit history.
   - No recommendation was given.
 - **36:29, gods' names kept in Ge'ez: *Māryā* of Midian and *Rāṣyon***
-  - Now: *to Baal, to Māryā of Midian, to the carved images of the foreigners, Dagon and Apollo, to Artemis and to Rāṣyon*
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.
@@ -62,12 +60,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **30:5, *maharkəwwomu*, "taught" or "had mercy"**
-  - Now: *When I did good to them, they did not do good to Me; when I taught them, they would not learn from Me.*
   - (a) **I taught them**, read as spelled (now), with a note.
   - (b) **I had mercy on them**.
   - No recommendation was given; the text keeps the spelling.
 - **30:14, creatures kept in Ge'ez: *ḥargaṣāt*, *ʾəngwatāt*, *qwarnanʿāt*** (creatures of the waters, beside Behemoth)
-  - Now: *the great creatures of the sea, the ḥargaṣāt, the ʾəngwatāt, Behemoth and the qwarnanʿāt*
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.
@@ -194,12 +190,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **21:30, a missing negative**
-  - Now: *Abraham, Isaac and Jacob, David, Hezekiah and Samuel, who did not transgress the commandment and the judgment of God*
   - (a) **who did not transgress** (now), the negative read where the verse requires it, with a note.
   - (b) **who transgress**, the Ge'ez as it stands (*ʾəlla yətʿaddawu*).
   - No recommendation was given.
 - **21:2, a people's name kept in Ge'ez: *Qarneʾon*** (among David's enemies)
-  - Now: *from the Amalekites and the Edomites, from the Qarneʾon*
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.
@@ -257,7 +251,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **17:6, *wa-ʾamʿəʿo ʾəḫu*** (in a list of the ways of God)
-  - Now: *But the way of God is humility and gentleness, loving one's neighbor, not provoking a brother, love for one another*
   - (a) **not provoking a brother** (now), with a note.
   - (b) **and provoking a brother**, the Ge'ez as it stands.
   - No recommendation was given.
@@ -316,7 +309,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **14:2, four souls or eight**
-  - Now: *He destroyed all and left none but four souls*
   - (a) **four**, as the Ge'ez has it (now), with a note: four are Noah and his sons.
   - (b) **eight**, as Peter counts them (1 Peter 3:20).
   - No recommendation was given.
@@ -389,7 +381,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.
 - **11:1, *ʾArmon***
-  - Now: *Hermon and its walls have fallen*
   - (a) **Hermon** (now), with a note.
   - (b) **a fortress**: the Hebrew word *armon* means a fortress.
   - No recommendation was given.
@@ -443,7 +434,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **6:2, Ezekiel or Hezekiah** (in a list of good kings)
-  - Now: *where Abraham, Isaac and Jacob are, David and Solomon and Ezekiel, and all the good kings*
   - (a) **Ezekiel**, as the Ge'ez has it (*Ḥəzqəʾel*), with a note (now).
   - (b) **Hezekiah**, as the Church reads it, as a departure with a note.
   - No recommendation was given.
@@ -501,12 +491,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **3:1, the sons' names, *ʾAbyā, Silā, Fantos***
-  - Now: *Abya, Sila and Fentos, servants of God Most High*
   - (a) **Abya, Sila and Fentos** (now), spelled from the Ge'ez as *Tsirutsaydan* was.
   - (b) **Another English form**, if you know one.
   - No recommendation was given.
 - **3:35, two words not known: *maʿāra gerā* and *ʾaflāṭis*** (two of the things thrown in to feed the furnace)
-  - Now: kept as Ge'ez words in italics, with a note.
   - (a) **Kept as Ge'ez words**, in italics, with a note (now).
   - (b) **A guess put in the text**, with the Ge'ez in the note.
   - No recommendation was given.

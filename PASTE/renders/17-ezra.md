@@ -158,7 +158,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **1:9, *machalaphim*** (a word found only here)
-  - Now: *thirty basins of gold, a thousand basins of silver, twenty-nine censers*
   - (a) **censers** (now), as 1 Esdras 2:13 has it.
   - (b) **knives**, the old English rendering, a guess from the root.
   - (c) **spare vessels**, after the Greek of Ezra (*parēllagmena*, *changed*).

@@ -14,12 +14,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **33:19, *divrei Chozai***
-  - Now: *are written in the records of Hozai*
   - (a) **Hozai**, a name, as the Hebrew is written (now).
   - (b) **the seers**, the Greek, which is *ha-chozim* in Hebrew, the word of v18, one letter more.
   - Recommend (a): the Hebrew makes sense as a name; the note gives the Greek.
 - **36:10, *achiv***
-  - Now: *and made Zedekiah his kinsman king over Judah and Jerusalem.*
   - (a) **his kinsman** (now): *ach* is used of a wider relative (Lot is Abram's *ach*, Genesis 14:14).
   - (b) **his brother**, the plain word, which makes Zedekiah Jehoiachin's brother.
   - (c) **his uncle**, following Kings (2 Kings 24:17) and the Greek (*his father's brother*).
@@ -170,7 +168,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **26:5, *ha-mevin bi-r'ot ha-Elohim***
-  - Now: *in the days of Zechariah, who had understanding in the visions of God*
   - (a) **in the visions of God**, the Hebrew (now).
   - (b) **in the fear of God**, the Greek (*en phobō Kyriou*), which is *be-yir'at* in Hebrew, one letter more.
   - Recommend (a): the Hebrew reads well, and a teacher of the king who *saw* is in keeping with the prophets of this book.
@@ -261,7 +258,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **22:2, Ahaziah's age** (the departure above)
-  - Now: *Ahaziah was twenty-two years old when he began to reign*
   - (a) **twenty-two**, following Kings (now).
   - (b) **twenty**, following the Greek of Chronicles.
   - (c) **forty-two**, the Hebrew, with a note that it cannot be right.
@@ -358,12 +354,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **17:3, *be-darkhei David aviv ha-rishonim***
-  - Now: *because he walked in the earlier ways of David his father*
   - (a) **The Hebrew** (now): David, his forefather.
   - (b) **The Greek**, which has no *David*: *the earlier ways of his father*, that is Asa, faithful in his early years and not in his last (16:7–12).
   - Recommend (a), with the note.
 - **20:2, *me-Aram***
-  - Now: *A great multitude is coming against you from beyond the sea, from Aram.*
   - (a) **Aram**, the Hebrew and the Greek (now).
   - (b) **Edom**, one letter different, which fits *Mount Seir* in the army; no witness in `sources/` has it.
   - Recommend (a).
@@ -550,7 +544,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:** (decided ones moved to `PASTE/decided/14-2-chronicles.md`)
 - **9:4, *va-aliyyato asher ya'aleh beit YHWH***
-  - Now: *and the ascent by which he went up to the house of the LORD*
   - (a) **The Hebrew** (now).
   - (b) **his burnt offerings that he offered**, following Kings (1 Kings 10:5) and the Greek of Chronicles.
   - Recommend (a): the Hebrew reads; the note gives the other.
@@ -735,7 +728,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) One term everywhere.
   - No recommendation was given.
 - **1:5, *va-yidreshehu***
-  - Now: *and Solomon and the assembly sought Him there.*
   - (a) **Him**, the LORD (now): *seek the LORD* is this book's word for faithfulness (1 Chronicles 22:19; 28:9).
   - (b) **it**, the altar, as the Greek has it.
   - Recommend (a).

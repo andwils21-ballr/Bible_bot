@@ -93,12 +93,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **8:6, *shalhevetyah***
-  - Now: *Its flashes are flashes of fire, / the flame of Yah.*
   - (a) **the flame of Yah** (now): God's short name, as in Hallelujah; the letters are there and the spec keeps *Yah*. If it is the name, it is the only place God is named in the Song.
   - (b) **a mighty flame**: *-yah* as a superlative.
   - No recommendation was given.
 - **8:14, *berach***
-  - Now: *Flee, my beloved, and be like a gazelle / or a young stag on the mountains of spices.*
   - (a) **Flee** (now): *berach* means *flee* or *run*, and the Greek has *flee*.
   - (b) **Make haste**, as older English Bibles have it.
   - No recommendation was given.
@@ -199,17 +197,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **caresses**: the plural noun means love shown, lovemaking.
   - No recommendation was given.
 - **1:5, "black and lovely" or "black but lovely"**
-  - Now: *I am black and lovely, daughters of Jerusalem*
   - (a) **and** (now): the Hebrew and the Greek.
   - (b) **but**, as older English Bibles have it.
   - No recommendation was given.
 - **2:1, "a flower of Sharon"**
-  - Now: *I am a flower of Sharon, a lily of the valleys.*
   - (a) **a flower of Sharon** (now).
   - (b) **a rose of Sharon** (older English; the word does not support it), **a crocus** (a modern guess), or **a flower of the plain** (the Greek).
   - No recommendation was given.
 - **Speaker labels** (above)
-  - Now: none in the text; notes point out a change of voice where it matters (1:2, 1:15–16, 4:16).
   - (a) **None** (now), as the Hebrew has none.
   - (b) **Headings** such as *She*, *He*, *Friends*, as many modern Bibles add.
   - Recommend (a).

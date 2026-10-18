@@ -9,7 +9,10 @@ Usage:
   python3 check_chapters.py --all           every rendered chapter
   python3 check_chapters.py genesis 2-kings every chapter of these books
   python3 check_chapters.py books/13-1-chronicles/14.md ...
+  python3 check_chapters.py --docs          the instruction files (CLAUDE.md §8)
 
+With no arguments it also checks the instruction files if one of them has
+changed, and the lines added to PASTE/ against the choice layout (CLAUDE.md §5).
 Exit status is 1 if any ERROR was found, so a render cycle can stop on it.
 What it cannot check (pronouns for God, doubled verbs, idioms, whether a note
 is true) still needs reading; see RENDERING_SPEC.md.
@@ -71,6 +74,15 @@ PROCESS = re.compile(r"\b(fixed as|fixed rendering|Andrew|readability|for clarit
                      r"|we (chose|decided)|I (chose|decided))\b", re.I)
 PROCESS_SOFT = re.compile(r"\b(fixed term|this project|the project's|the spec|chosen for|we (render|use|keep|follow|read)"
                           r"|I (render|kept))\b", re.I)
+# Leads in the text that a reader has to judge (spec, "No And" and "Already ruled").
+LEADS = [
+    (re.compile(r"\bNow then\b"), "never for *ve-attah*: *So*, *So now*, *But now*, *Now*, "
+     "or cut it (spec, \"No And\")"),
+    (re.compile(r"\b(come|comes|came|coming) into\b(?! being)(?! (his|her|their|your|my|our) "
+                r"(heart|mind)s?\b)"),
+     "a place is *enter*, *go into* or *arrive in*; *come* stays only where the speaker "
+     "is there, or for an idiom (spec, \"Already ruled\")"),
+]
 # A note that ends in a shrug is unfinished work.
 SHRUG = re.compile(r"\b(which is (strange|odd|curious|interesting)|strangely|curiously"
                    r"|it is not clear why|for some reason)\b", re.I)
@@ -174,6 +186,10 @@ def check(path):
             for m in HINNEH_SOFT.finditer(flat):
                 add("CHECK", where, f"*{m.group(1)}*: fine for a real verb *see*; "
                     "not for *hinneh* (2026-09-28)")
+        for pat, rule in LEADS:
+            m = pat.search(flat)
+            if m:
+                add("CHECK", where, f"*{m.group(0)}*: {rule}")
         rules = FIXED_ALL + (FIXED_HEBREW if from_hebrew else [])
         for pat, rule in rules:
             m = re.search(pat, flat)
@@ -205,12 +221,121 @@ def check(path):
     return found
 
 
+# The instruction files (CLAUDE.md §8) and their word budgets. Over budget means
+# tighten the wording or move history to RULINGS_HISTORY.md; never drop a ruling
+# to fit. A budget is raised only when Andrew adds rules that cannot be shortened.
+SPEC_PART2 = "\n## Part 2"
+DOCS = [  # (file, part, budget in words)
+    ("CLAUDE.md", None, 2400),
+    ("RENDERING_SPEC.md", "part 1", 4400),
+    ("RENDERING_SPEC.md", "part 2", 1200),
+    ("problem_solving.md", None, 1400),
+    ("REVIEW_LOOP.md", None, 500),
+    ("ROUTINE_PROMPT.md", None, 300),
+    ("COUNCIL.md", "Open", 2000),
+]
+RULE_FILES = ["CLAUDE.md", "RENDERING_SPEC.md", "problem_solving.md", "REVIEW_LOOP.md",
+              "ROUTINE_PROMPT.md"]
+# History belongs in RULINGS_HISTORY.md, not in a rule.
+HISTORY = re.compile(r"\breplacing (the|an?) (rule|ruling)s?\b|\b(was|were) swept\b"
+                     r"|\bswept to (this|the) rule\b|\brendered before (this|the) rule\b", re.I)
+# The choice layout (CLAUDE.md §5).
+NOW_LINE = re.compile(r"^\s*- (\*\*)?Now(\*\*)?:")
+OFFERED = re.compile(r"\b(open to you|please confirm|for your attention)\b", re.I)
+
+
+def changed(paths):
+    out = subprocess.run(["git", "diff", "--name-only", "origin/main", "--"] + paths,
+                         cwd=ROOT, capture_output=True, text=True).stdout.split()
+    out += subprocess.run(["git", "ls-files", "--others", "--exclude-standard"] + paths,
+                          cwd=ROOT, capture_output=True, text=True).stdout.split()
+    return set(out)
+
+
+def doc_part(name, part):
+    text = open(os.path.join(ROOT, name), encoding="utf-8").read()
+    if part == "part 1":
+        return text.split(SPEC_PART2)[0]
+    if part == "part 2":
+        return text.partition(SPEC_PART2)[2]
+    if part == "Open":
+        return text.partition("\n## Open\n")[2].split("\n## ")[0]
+    return text
+
+
+def sentences(text):
+    flat = re.sub(r"[*`_|>#]", "", " ".join(text.split())).lower()
+    return {s.strip() for s in re.split(r"(?<=[.;:!?])\s+", flat) if len(s.split()) >= 14}
+
+
+def check_docs():
+    found = []
+    for name, part, budget in DOCS:
+        n = len(doc_part(name, part).split())
+        if n > budget:
+            label = f"{name} ({part})" if part else name
+            found.append((label, f"{n} words; the budget is {budget} (CLAUDE.md §8)"))
+    seen = {}
+    for name in RULE_FILES:
+        text = open(os.path.join(ROOT, name), encoding="utf-8").read()
+        for m in HISTORY.finditer(text):
+            found.append((name, f"*{m.group(0)}*: history goes in RULINGS_HISTORY.md"))
+        for s in sentences(text):
+            if s in seen and seen[s] != name:
+                found.append((name, f"also in {seen[s]}: “{s[:70]}…” (one home per rule)"))
+            seen.setdefault(s, name)
+    return found
+
+
+def check_paste():
+    found = []
+    diff = subprocess.run(["git", "diff", "-U0", "origin/main", "--", "PASTE"], cwd=ROOT,
+                          capture_output=True, text=True).stdout
+    added = added_lines(diff)
+    for f in subprocess.run(["git", "ls-files", "--others", "--exclude-standard", "PASTE"],
+                            cwd=ROOT, capture_output=True, text=True).stdout.split():
+        added += [(f, l) for l in open(os.path.join(ROOT, f), encoding="utf-8").read().split("\n")]
+    for f, line in added:
+        if NOW_LINE.match(line):
+            found.append((f, f"a separate *Now:* line: mark the option *(now)* instead "
+                          f"(CLAUDE.md §5): “{line.strip()[:60]}”"))
+        m = OFFERED.search(line)
+        if m:
+            found.append((f, f"*{m.group(0)}*: only **Choices for you** is offered to Andrew "
+                          "(CLAUDE.md §5)"))
+    return found
+
+
+def added_lines(diff):
+    out, name = [], None
+    for line in diff.split("\n"):
+        if line.startswith("+++ "):
+            name = line[6:]
+        elif line.startswith("+") and name:
+            out.append((name, line[1:]))
+    return out
+
+
 def main():
-    files = chapter_files(sys.argv[1:])
+    args = sys.argv[1:]
+    docs = "--docs" in args
+    args = [a for a in args if a != "--docs"]
+    errors = checks = 0
+    extra = []
+    if docs or (not args and changed(sorted({d[0] for d in DOCS}))):
+        extra += check_docs()
+    if not args and not docs:
+        extra += check_paste()
+    for where, msg in extra:
+        print(f"  CHECK  {where}: {msg}")
+        checks += 1
+    if docs and not args:
+        print(f"\nInstruction files checked: {checks} to look at.")
+        return 0
+    files = chapter_files(args)
     if not files:
         print("No chapters to check (nothing changed since origin/main).")
         return 0
-    errors = checks = 0
     for path in files:
         found = check(path)
         if not found:

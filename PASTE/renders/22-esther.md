@@ -12,7 +12,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **7:4, *ki ein ha-tsar shoveh be-nezeq ha-melekh***
-  - Now: *If we had only been sold as slaves, men and women, I would have kept silent, for such distress would not be worth troubling the king.*
   - (a) **such distress would not be worth troubling the king** (now): *tsar* as distress.
   - (b) **the enemy could not make up the king's loss**: *tsar* as adversary, as in v6.
   - No recommendation was given; both are in the note.
@@ -73,9 +72,9 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **Esther 11–16, the Greek additions** (the next Esther chapters wait on this)
-  - Now: not rendered. The spec lists 11–16 as `english-only`, but no English of Esther is held in `sources/`, so rendering them that way would mean working from memory. Swete's Greek holds all six additions, inside chapters 1, 3, 4, 5, 8 and 10. Details in `NOTES_FOR_ANDREW.md`.
-  - (a) **Render 11–16 from Swete's Greek.**
-  - (b) **Keep them `english-only`**, as the spec says, with a note in 11.
+  - (a) **Render 11–16 from Swete's Greek**, which holds all six additions, inside chapters 1, 3, 4, 5, 8 and 10.
+  - (b) **Keep them `english-only`**, as the spec says, with a note in 11. No English of Esther is held in `sources/`, so this would mean working from memory.
+  - Not rendered yet; details in `NOTES_FOR_ANDREW.md`.
   - No recommendation was given.
 
 ### Esther 1: Vashti Refuses the King

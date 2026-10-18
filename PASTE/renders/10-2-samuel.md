@@ -98,7 +98,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **21:19, who killed Goliath**
-  - Now: *Elhanan son of Jaare-oregim, the Bethlehemite, struck down Goliath the Gittite, the shaft of whose spear was like a weaver's beam.* (the Hebrew and the Greek both read so)
   - 1 Samuel 17 has David kill the Philistine of Gath (*the shaft of his spear was like a weaver's beam*, 17:7); 1 Chronicles 20:5 reads *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*. *beit ha-Lachmi et* (*the Bethlehemite*) and *et Lachmi* (*Lahmi*) are close in their letters, and *oregim* (*weavers*) also ends the verse.
   - (a) **The Hebrew** (now), with the note.
   - (b) **Chronicles' reading**: *Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite*.
@@ -319,7 +318,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **16:12, *be-avoni*: the Greek over the read form**
-  - Now: *Perhaps the LORD will look on my affliction, and the LORD will repay me with good for his cursing today.*
   - (a) **my affliction** (now): the Greek reads the written letters (*be-avoni*, *on my guilt*) as *be-onyi*, and *ra'ah be-oni* is a fixed phrase (*the LORD has seen my affliction*, Genesis 29:32; 1 Samuel 1:11). This departs from the read-form rule.
   - (b) **my eye**, the read form *be-eini*, usually taken as *my tears*: *Perhaps the LORD will look on my eye*.
   - Recommend (a).

@@ -717,7 +717,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:** (the shekel wording is raised in the Leviticus 26–27 report, with these verses)
 - **4:14, the Greek's extra sentence about the basin**
-  - Now: *They shall spread over it a covering of fine leather, and put in its poles.* (the verse ends there)
   - (a) **Leave it out of the text** (now), with the Greek in the note.
   - (b) **Add it**: *and they shall take a purple cloth and cover the basin and its stand, and put them into a blue leather covering, and put them on a carrying frame.*
   - Recommend (a): the Hebrew never says who carries the basin, nothing else in the Bible confirms the sentence, and it may be a scribe's filling of a gap.

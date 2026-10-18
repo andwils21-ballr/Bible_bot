@@ -890,7 +890,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **45:7, *ra***
-  - Now: *I form light and create darkness; I make peace and create disaster; I am the LORD, who does all these things.*
   - (a) **create disaster** (now): *ra* is set against *shalom*, as *darkness* is set against *light*, and Amos 3:6 uses the word of what comes on a city.
   - (b) **create evil**, the King James word, which keeps the one Hebrew word that also means moral evil.
   - Recommend (a). The pairing with *peace* fixes the sense here; if (b), the note will say *ra* is set against *shalom*.
@@ -1272,22 +1271,18 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **32:2, *ve-hayah ish***
-  - Now: *Each will be like a hiding place from the wind, a shelter from the storm* (after v1, *A king will reign in righteousness, and princes will rule in justice*). Added by Bible 2 from the spot check of 2026-10-11 (Bible Main settled it without a note).
   - (a) **Each will be like a hiding place** (now): *ish* as "each one," every prince a shelter.
   - (b) **A man will be like a hiding place**: *ish* as "a man," which can be the king of v1 himself.
   - The Hebrew says *ish* and does not say which. The blind re-render chose (b). No recommendation was given.
 - **34:16, *ki fi hu tsivvah***
-  - Now: *Seek in the book of the LORD, and read: not one of these will be missing… For My mouth has commanded, and His Spirit has gathered them.* Added by Bible 2 from the spot check (the text had *His mouth*, which is not the Hebrew; now corrected to the Hebrew's *my*).
   - (a) **My mouth** (now): the LORD's mouth, beside *His Spirit*.
   - (b) **my mouth**: the prophet's, who has just said *seek in the book of the LORD*.
   - The Hebrew is *pi*, "my mouth," and does not say whose; the Greek reads *the Lord commanded them*. The capital decides it. No recommendation was given.
 - **33:17, *melekh be-yofyo***
-  - Now: *Your eyes will see the King in His beauty; they will see a land that stretches afar.*
   - (a) **the King in His beauty** (now), the LORD: v22 of the same poem says *the LORD is our king*, and Isaiah's own words in the temple were *my eyes have seen the King, the LORD of hosts* (6:5).
   - (b) **the king in his beauty**, a human king, as in 32:1, *A king will reign in righteousness*.
   - Recommend (a). Under the pronoun rule the choice decides the capitals.
 - **34:14, *lilit***
-  - Now: *Wild beasts will meet with hyenas; the goat-spirit will cry to his fellow; there too Lilith will settle and find herself a place of rest.*
   - (a) **Lilith** (now), read as a name, as the note on 13:21 already calls it.
   - (b) **the night creature**, from *layil*, "night," without a name.
   - Recommend (a): the word stands with *the goat-spirit*, *sa'ir*, another named creature of the ruins, and the note says what it is built from and what the Greek has.
@@ -1442,7 +1437,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **30:20, *morekha***
-  - Now: *Though the Lord gives you the bread of adversity and the water of affliction, your Teacher will hide Himself no more, but your eyes will see your Teacher.*
   - (a) **your Teacher**, the LORD (now): the verb *will hide* is singular, and the Teacher is the One hidden in the adversity just named.
   - (b) **your teachers**, the prophets: the spelling *moreikha* looks plural, and the prophets had been told *Do not see* (v10).
   - Recommend (a): the singular verb settles it, and *moreh* is also the early rain promised in v23 (Joel 2:23 uses the word both ways). The note gives the Greek, which differs.
@@ -1712,7 +1706,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **19:18, *ir ha-heres***
-  - Now: *In that day there will be five cities in the land of Egypt that speak the language of Canaan and swear allegiance to the LORD of hosts. One of them will be called the City of Destruction.*
   - (a) **the City of Destruction** (now): the Hebrew. *Heres* is "tearing down," the word of *You shall utterly tear them down* (Exodus 23:24), so the name can mean the city where the idols are torn down.
   - (b) **"the City of Righteousness":** the Greek, *polis asedek*. This is the name Jerusalem is given in 1:26, and it suits a verse about cities that swear to the LORD.
   - Recommend (a): the Hebrew word makes sense in a passage about idols falling (v1) and a standing stone set up for the LORD (v19), so nothing forces the change. The note gives both.
@@ -1869,28 +1862,23 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **14:4, *madhevah***
-  - Now: *How the slave driver has ceased, the taskmaster has ceased!*
   - (a) **the taskmaster** (now): the Greek's *epispoudastēs*, "one who hurries others on," from the verb the Greek of Exodus uses for the slave drivers who *pressed* Israel (5:13). It matches *slave driver* in the same line.
   - (b) **"the golden city":** the word taken from the Aramaic *dehav*, "gold" (Daniel 2:32). This is the KJV's reading.
   - Recommend (a): the Hebrew word is unknown, and the Greek reading fits the line and the Exodus language of vv2–3. The note gives (b).
 - **14:12, *helel ben shachar***
-  - Now: *How you have fallen from heaven, Day Star, son of the dawn!*
   - (a) **Day Star** (now): *helel* is from *halal*, "to shine." The Greek has *heōsphoros*, "dawn-bringer," the morning star.
   - (b) **"Lucifer":** the KJV's name, a Latin word for "light-bringer." It is the name most readers know, and it makes the line read as a proper name.
   - (c) **"Shining One":** closer to the Hebrew root, but less clear as a star.
   - Recommend (a): the word describes, it does not name. The taunt is addressed to *the king of Babylon* (v4), and the dead ask, *Is this the man?* (v16). The Names rule keeps received names, but *helel* is a title in a taunt, not a name the Hebrew gives anyone.
 - **16:3–4, *nidachai Mo'av***
-  - Now: *"Give counsel; grant a ruling; make your shade like night at the height of noon; hide the outcasts; do not betray the fugitive. Let the outcasts of Moab live as guests among you; be a shelter to them from the destroyer."*
   - (a) **Let the outcasts of Moab live as guests among you** (now): the Greek's reading of the same letters. Moab's refugees (v2) ask the daughter of Zion (v1). The commands in v3 are mostly feminine, and the answer in v5 is a throne in Zion.
   - (b) **"Let my outcasts live as guests among you; Moab, be a shelter to them":** the Hebrew vowels and accents. Israel's outcasts ask Moab, and the masculine *be* in v4 fits Moab. This is the KJV's reading.
   - Recommend (a). The note gives both, and David's family sheltered in Moab (1 Samuel 22:3).
 - **17:9, *ka-azuvat ha-choresh ve-ha-amir***
-  - Now: *In that day his strong cities will be like the deserted places of the woods and the hilltops, which they deserted before the sons of Israel.*
   - (a) **the woods and the hilltops** (now): the Hebrew. *Amir* is the word for *the top of the highest bough* in v6, where the last olives hang.
   - (b) **"as the Amorites and the Hivites deserted them":** the Greek. It names who *deserted* the cities before Israel.
   - Recommend (a): the Hebrew makes sense as it stands, with *they* being the land's earlier peoples, and *amir* ties the verse to v6. The note gives (b).
 - **18:7, *yuval shai… am memushakh***
-  - Now: *At that time a gift will be brought to the LORD of hosts — a people tall and smooth — and from a people feared near and far… to the place of the name of the LORD of hosts, Mount Zion.*
   - (a) **The people as the gift** (now): the Hebrew as written, with *from* only before the second *people*. Isaiah ends the same way, with the nations bringing Israel's brothers *as an offering to the LORD* (66:20).
   - (b) **"Gifts will be brought… from a people tall and smooth":** the Greek, and most English.
   - Recommend (a): it is what the Hebrew says. The note gives (b), Psalm 68:29–31 and the Ethiopian of Acts 8:27.
@@ -2035,13 +2023,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **10:27, *mipnei shamen***
-  - Now: *and the yoke will be broken because of fatness*.
   - (a) **because of fatness** (now): *shemen* as the fat of a body (Psalm 109:24). The neck has grown too thick for the yoke, and it answers v16, where Assyria's *fat ones* waste away (*mishmannav*, the same root).
   - (b) **because of the anointing:** *shemen* as the oil of anointing, the KJV's reading.
   - (c) **leave the phrase out**, as the Greek does (*the yoke will be destroyed from your shoulders*). That would follow a witness against the Hebrew with nothing in the context to back it.
   - Recommend (a): it is the plain sense of the word, and v16 sets it up. The note gives (b).
 - **10:34, *be-addir***
-  - Now: *and Lebanon will fall by the Majestic One*.
   - (a) **by the Majestic One** (now): God, as *addir* is used of Him in 33:21, *there the LORD in majesty will be for us*. It matches *with iron* in the line above, and in v33 the Lord is the one lopping the boughs.
   - (b) **with its majestic trees:** *addir* of great trees, as in Zechariah 11:2 and Ezekiel 17:23. This is the Greek's reading, *Lebanon will fall with its lofty ones*.
   - Recommend (a). The note gives both.
@@ -2191,7 +2177,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **7:14, *ha-almah*: "the virgin" or "the young woman"** (the most consequential choice in this run)
-  - Now: *Therefore the Lord Himself will give you a sign: / the virgin will conceive and bear a son, / and she will call his name Immanuel.*
   - The Hebrew: *hinneh ha-almah harah ve-yoledet ben ve-qarat shemo immanu el*, *the young woman is with child and is about to bear a son, and she will call his name Immanuel*. *Almah* is a young woman of marriageable age; the word for *virgin* is *betulah*; Genesis uses both of Rebekah before her marriage (24:16 *betulah*; 24:43 *ha-almah*). The Greek of Isaiah: *idou hē parthenos en gastri lēmpsetai kai texetai huion, kai kaleseis*, *the virgin will conceive and bear a son, and you will call*. Matthew 1:23 quotes the Greek of the birth of Jesus; this project's Matthew reads *The virgin will be with child*, and its note gives the Hebrew.
   - (a) **the virgin will conceive** (now): the Greek, followed under the spec's witnesses rule (*use another witness where it tells the event better and the context backs it*; *another passage that says the same* counts as context, here Matthew 1:23, in this canon). The Hebrew's *she will call* is kept.
   - (b) **the young woman is with child**: the Hebrew throughout, with the Greek and Matthew in the note. Closer to the source language; it reads as a sign for Ahaz's own day (7:16) and leaves Matthew's reading to the Gospel.
@@ -2346,7 +2331,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **4:2, *tsemach YHWH*: "the branch of the LORD" or "the Branch of the LORD"**
-  - Now: *In that day the branch of the LORD shall be beautiful and glorious, / and the fruit of the land shall be the pride and splendor / of the survivors of Israel.*
   - (a) **branch**, lowercase (now): what the LORD makes grow, in parallel with *the fruit of the land*; the land restored after the judgment.
   - (b) **Branch**, capital: the title of the coming king, as in Jeremiah 23:5 (*a righteous Branch*) and Zechariah 3:8 and 6:12 (*My servant the Branch*); the line becomes a promise of a person.
   - Recommend (a), with the note pointing to Jeremiah and Zechariah: the parallel with *the fruit of the land* governs this verse. When Jeremiah 23:5 and Zechariah come, the title can be capitalized there.
@@ -2426,7 +2410,6 @@ Echoes in the notes were checked three ways:
 
 **Choices for you:**
 - **1:18, promise or question** (*im yihyu chata'eikhem kashshanim kashsheleg yalbinu*, *if your sins are like scarlet, as snow they will be white*; the grammar allows both)
-  - Now: *"Come now, let us settle this," says the LORD: / "Though your sins are like scarlet, / they shall be white as snow; / though they are red like crimson, / they shall become like wool."*
   - (a) **A promise** (now): God offers to wash the sins white; the usual reading.
   - (b) **A judge's challenge**: *If your sins are scarlet, shall they pass for white as snow?* The *if* is then a rebuke, and vv19–20 give the real terms: obey or be eaten by the sword. The chapter's frame is a lawsuit (*let us settle this*), which supports reading the line as part of the argument.
   - Recommend (a), with the note giving (b): the line is too well known as a promise to change without strong reason, and the context does not force the question.

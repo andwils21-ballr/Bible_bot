@@ -562,7 +562,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **12:11, *Bedan* or *Barak***
-  - Now: *The LORD sent Jerubbaal and Bedan and Jephthah and Samuel, and delivered you*
   - (a) **Bedan**, the Hebrew (now): no deliverer called Bedan appears anywhere in Judges.
   - (b) **Barak**, the Greek: Deborah's partner against Sisera, whom v9 names.
   - Recommend (b), with the note keeping *Bedan*.
@@ -845,7 +844,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **3:13, "bringing a curse on themselves" or "cursing God"**
-  - Now: *because his sons were bringing a curse on themselves, and he did not restrain them.*
   - (a) **on themselves**, the Hebrew *lahem* (now).
   - (b) **speaking evil of God**, the Greek: *lahem* and *Elohim* differ by two letters. Eli's sons are condemned for contempt of the LORD's offering (2:17, 2:29), and Exodus 22:28 forbids cursing God; *cursing themselves* is an odd charge.
   - Recommend (b), with the Hebrew in the note: the Hebrew reads and is not impossible, but the context backs the Greek.

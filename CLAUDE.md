@@ -34,8 +34,7 @@ stumbling. The recurring patterns:
 - **Keep a word the same where the source repeats it on purpose** (a technical
   term, a formula, an echo of another passage), so the reader can see the link.
   Everywhere else, use the English that fits the context. Translation is not
-  word-for-word equivalence (Andrew, 2026-10-06, replacing "one Hebrew word,
-  one English word", which was never his rule). The fixed terms in the spec
+  word-for-word equivalence (Andrew, 2026-10-06). The fixed terms in the spec
   are his rulings, one by one, and stand.
 - **The readability pass** in `RENDERING_SPEC.md`: eight patterns from Andrew's
   rulings. Run it on every chapter before committing.
@@ -98,7 +97,7 @@ Read them before writing notes.
   the Hebrew, the Greek and the literal possibilities, show him the options, and
   decide together. Do not be agreeable. He is often right when he pushes back on
   you, so check before you answer.
-- **A partner: not a yes-man, not a critic** (Andrew, 2026-10-18). When his
+- **A partner: not a yes-man, not a critic** (Andrew, 2026-10-17). When his
   change is a sound translation and loses nothing, say so plainly and make it.
   When it does not fit, say why, with the facts, and offer what does. Never
   argue without a reason. Test your own changes the same way, and undo any that
@@ -112,7 +111,7 @@ Read them before writing notes.
 
 ## 5. Where things go: the reporting format
 
-Three places, each file with a permanent header line at the top that is never
+Four places, each file with a permanent header line at the top that is never
 removed:
 
 - **`PASTE/edits.md`, "Andrew's Edit Requests"**, is Andrew's alone: he pastes
@@ -184,9 +183,9 @@ removed:
 - **Versification** follows the English (KJV) chapter and verse numbering.
 - **Names**: the received English name (Abel, not *Vapor*); the meaning goes in
   a note.
-- **Kept on purpose**: *and it came to pass* (*va-yehi*). *Here —* and
-  *look —* for *hinneh* / *idou* are cut in every book, kept only where it carries something
-  (Andrew, 2026-09-28; see the spec).
+- ***And it came to pass*** (*va-yehi*) is kept only where it opens something,
+  and everywhere in Genesis. *Here —* and *look —* for *hinneh* / *idou* are
+  cut, kept only where cutting loses something (spec, "Word rules").
 - **No sentence starts with "And"** unless it does real work (spec, "No And").
 - **Capital Lord means God; lowercase lord is a man of rank.**
 - **Capital pronouns for God and for Jesus** (Andrew, 2026-09-28): *He, Him,
@@ -195,9 +194,10 @@ removed:
 - **Genesis is closed** (Andrew signed it off 2026-09-21). Fix it only when he
   asks or when it is provably wrong. No sweeps over finished books unless he
   asks.
-- **A render cycle does not modify** the spec, this file, `HANDOFF.md`,
-  `manifest.json`, the `build_*.py` scripts, `progress.py`, `source_text.py`, or
-  `sources/`. Log findings in `NOTES_FOR_ANDREW.md` instead.
+- **A render cycle does not modify** the instruction files (§8), `HANDOFF.md`,
+  `manifest.json`, the `build_*.py` scripts, `progress.py`, `source_text.py`,
+  `check_chapters.py` or `sources/`. Log findings in `NOTES_FOR_ANDREW.md`
+  instead.
 - **Style from the book, rules from the fixed models** (Andrew, 2026-10-03):
   the book's recent chapters show its writer's voice; Genesis 25, Exodus 33
   and Leviticus 17 hold the rules, and win where the two differ (spec, "Two
@@ -208,7 +208,11 @@ removed:
 ## 7. Other files
 
 - `RENDERING_SPEC.md`: how to write (format, word rules, witnesses, notes
-  standard). Read it in full before rendering.
+  standard). Before rendering, read it in full down to Part 2, and the part of
+  Part 2 for the book, if it has one.
+- `RULINGS_HISTORY.md`: where each ruling came from and what it replaced. Not
+  rules; read it only to learn why.
+- `ROUTINE_PROMPT.md`: the render Routine's prompt, word for word.
 - `HANDOFF.md`: recovery, the Routine, hard-won technical facts.
 - `NOTES_FOR_ANDREW.md`: findings for Andrew.
 - `SOURCES.md`: source texts and licences.
@@ -222,3 +226,27 @@ removed:
   section each session.
 - `REVIEW_LOOP.md`: how Bible 2 and Bible 3 review finished chapters for
   cleanups that do not need Andrew (Andrew, 2026-10-10).
+- `archive/`: finished loops and one-off files. Nothing in it is a rule.
+
+## 8. Keeping the instruction files clean (Andrew, 2026-10-17)
+
+The instruction files are what a session reads before it acts: this file,
+`RENDERING_SPEC.md`, `problem_solving.md`, `REVIEW_LOOP.md`,
+`ROUTINE_PROMPT.md`, and `COUNCIL.md`'s Open section. A rule buried in a long
+file is the one that slips, and a rule written twice drifts apart, so:
+
+- **One home per rule.** A rule is written out once: how to write in the spec;
+  the mission, working with Andrew and the reporting format here. Anywhere
+  else it gets one line that points to its home. Change the home first, then
+  every pointer.
+- **A new ruling replaces the old one.** Rewrite the rule in place and keep the
+  tag *(Andrew, <date>)*. What it replaced, and any sweep it caused, goes in
+  `RULINGS_HISTORY.md`, never in the rule.
+- **Rules for one book** go in Part 2 of the spec.
+- **The Routine prompt lists steps, not rules**, and the live Routine is changed
+  in the same sitting as `ROUTINE_PROMPT.md`, word for word.
+- **A finished loop or one-off file** moves to `archive/`.
+- **`check_chapters.py` checks these files** whenever one is changed (or with
+  `--docs`): word budgets, history in a rule file, and the same sentence in two
+  files. Over budget means tighten the wording or move history out. Never drop
+  a ruling to fit.

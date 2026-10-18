@@ -136,6 +136,12 @@ entry.
 - Checked and standing: every quotation of Exodus 18:21, Numbers 11:14, 13:28, 14:45, 20:12, 20:20, 21:2, 21:23, 21:34, 25:3, 27:4, 32:41, Genesis 2:24, 13:14, 14:3, 14:5, 15:2, 15:5, 19:37–38, 36:20, 49:1 and Exodus 20:4, 24:17 against the book; 1:3 is the only *And* beginning a verse, and *And now* at 4:1 is on the spec's kept list; capital pronouns for God in all four chapters; the report tables of Deuteronomy 1–2 and 3–5 agree with the chapters.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+### 96. Proverbs 5:7, 7:24, 8:32: *Now then, sons, listen to me*
+*Asked by Bible 2, 9:50 PM CDT, 2026-10-17. Proverbs is not closed. Found by the checker's new* Now then *lead.*
+
+- All three are `ועתה בנים שמעו לי`, *ve-attah banim shim'u li*, and each draws the consequence of what was just said: the warning about the stranger woman (5:3–6), the story of the young man (7:6–23), Wisdom at creation (8:22–31). The spec says never *Now then* for *ve-attah*, and *So now* where it draws the consequence. Proposed: **So now, sons, listen to me** in all three, the same words each time (spec, Style 6).
+- Rule: spec, "No And", *ve-attah*.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter

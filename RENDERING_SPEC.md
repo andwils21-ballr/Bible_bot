@@ -1,8 +1,11 @@
 # Rendering Spec
 
 How to write a chapter. The mission, your role, the notes policy and the
-non-negotiables are in `CLAUDE.md`; read that first. Consistency across 1,989
-chapters matters more than any one chapter being clever.
+non-negotiables are in `CLAUDE.md`; read that first. **Read everything above
+Part 2 in full every run; read Part 2 only for the book it names.** Where a
+ruling came from, and what it replaced, is in `RULINGS_HISTORY.md`; nothing
+there is a rule. Consistency across 1,989 chapters matters more than any one
+chapter being clever.
 
 ## Style
 
@@ -74,70 +77,77 @@ remain), *in the midst of* (use *among*, *in the middle of*, *inside*).
 For *pen*, the Hebrew behind most *lest*: *or you will…*, *otherwise…*, *in
 case…*, or a dash and a plain clause.
 
-### Kept on purpose (settled rulings)
+### *And it came to pass* (*va-yehi*) (Andrew, 2026-10-07)
 
-- **"And it came to pass"** for *va-yehi*, the scene-opening formula. When to
-  keep it and when to cut it:
-  - **Keep it only where it opens something** (Andrew, 2026-10-07, replacing
-    the rule of 2026-10-03, which kept every *when… , that…*):
-    1. **a book** (*And it came to pass after the death of Moses*, Joshua 1:1;
-       Nehemiah 1:1);
-    2. **a chapter's story**, in its first verse, even with a *when* clause
-       (*And it came to pass, when Samuel was old, that he made his sons
-       judges*, 1 Samuel 8:1);
-    3. **a new time**: a date, a count of days or years, or a move forward in
-       time (*in the fifth year*, *after this*, *at the end of twenty years*,
-       *in those days*, *one day*, *the next day*, *in the morning*, *that
-       night*, *at the turn of the year*);
-    4. **a refrain the book repeats on purpose**: Matthew's *And it came to
-       pass, when Jesus had finished these words* (7:28; 11:1; 13:53; 19:1;
-       26:1).
-    Where it is kept, its *that* stays: *And it came to pass in the month of
-    Nisan… that I took up the wine* (Nehemiah 2:1). The future, *vi-yhi* or
-    *ve-hayah* + a time clause in an instruction, is *And it shall come to
-    pass, when…, that…* (Ruth 3:4; 1 Samuel 10:5).
-  - **Cut it inside a scene already running**, with the *that* it brings:
-    *When I heard these words, I sat down and wept* (Nehemiah 1:4), not *And
-    it came to pass, when I heard these words, that I sat down*. This holds
-    for *when*, *as*, *while*, *after* + an event, and for a moment inside the
-    same scene (*At noon Elijah mocked them*, 1 Kings 18:27; *In a little
-    while the heavens grew black*, 18:45). Every rendered book but Genesis
-    was swept to this rule on 2026-10-07.
-  - **Genesis keeps every one** (Andrew, 2026-10-07). It is the book of
-    beginnings, covering the ages from creation to Joseph, and nearly every
-    turn in it is God's doing. There the formula marks each turn of time as
-    part of that one story, and its older, weightier cadence is part of what
-    sets the first book apart. Genesis is not swept to the rule above.
-  - **Cut it**, and write plain English, when *va-yehi* is not that formula:
-    1. **was, were, became, had, there was**: *All the days of Adam were…*;
-       *He had seven hundred wives*; *There was a great famine*; *This thing
-       became a sin*; every list and genealogy (*The sons of Ram were…*);
-       plural *va-yihyu*, **they were** (Numbers 15:32). The
-       same holds where the participle is itself the main verb and no event
-       follows (*So David and the elders… went*, 1 Chronicles 15:25).
-    2. **the word of the LORD came to** (below).
-    3. **a reason, not a time**: *va-yehi ki* meaning *because* (*This
-       happened because*, 2 Kings 17:7; *Because she pressed him*, Judges
-       16:16).
-    4. **a habit**: *whenever*, *as often as* (Numbers 10:35; 1 Kings 14:28).
-    5. **a clause inside a sentence already running**, where the formula
-       would break it: a parenthesis (1 Kings 18:4), or a quick *while…* in
-       speech that runs into the point (*While your servant was busy here and
-       there, he was gone*, 1 Kings 20:40); or a second *va-yehi* in a verse
-       that has just used the formula (2 Samuel 1:2).
-- **No "here —" or "look —" for *hinneh* / *idou*** (Andrew, 2026-09-28,
-  replacing the ruling of 2026-09-25). In every book, rendered and still to
-  come, in narrative and in speech: end the sentence before it and start the
-  next with what is seen, or let the clause run on (*He looked: the bush was
-  burning*; *A man with blight came and knelt before Him*; *I am old*, not
-  *Look now — I am old*). God's *hinneh* + participle is *I am about to…* or
-  *I will…* (*I am about to strike the water*, Exodus 7:17). *I — hinneh — I*
-  is *I Myself* (Exodus 14:17). A presentation may be *Here is* (*Here is the
-  blood of the covenant*, Exodus 24:8; *Here is My servant*, Matthew 12:18;
-  *Here is the bridegroom!*, Matthew 25:6). **Keep it only where cutting loses
-  something the word carries** — so far: *and here, it was Leah* (Genesis
-  29:25; Jubilees 28:4), the morning's discovery; and *And here — He came*
-  (1 Enoch 1:9), the words Jude quotes.
+The scene-opening formula. **Genesis keeps every one** (its mark, under "A book
+may keep a mark of its own" below). In every other book:
+
+**Keep it only where it opens something:**
+
+1. **a book** (*And it came to pass after the death of Moses*, Joshua 1:1;
+   Nehemiah 1:1);
+2. **a chapter's story**, in its first verse, even with a *when* clause (*And it
+   came to pass, when Samuel was old, that he made his sons judges*, 1 Samuel
+   8:1);
+3. **a new time**: a date, a count of days or years, or a move forward in time
+   (*in the fifth year*, *after this*, *at the end of twenty years*, *in those
+   days*, *one day*, *the next day*, *in the morning*, *that night*, *at the
+   turn of the year*);
+4. **a refrain the book repeats on purpose**: Matthew's *And it came to pass,
+   when Jesus had finished these words* (7:28; 11:1; 13:53; 19:1; 26:1).
+
+Where it is kept, its *that* stays: *And it came to pass in the month of
+Nisan… that I took up the wine* (Nehemiah 2:1).
+
+**Cut it, with the *that* it brings, inside a scene already running:** *When I
+heard these words, I sat down and wept* (Nehemiah 1:4), not *And it came to
+pass, when I heard these words, that I sat down*. This holds for *when*, *as*,
+*while*, *after* + an event, and for a moment inside the same scene (*At noon
+Elijah mocked them*, 1 Kings 18:27; *In a little while the heavens grew black*,
+18:45).
+
+**Cut it, and write plain English, where *va-yehi* is not the formula:**
+
+1. **was, were, became, had, there was**: *All the days of Adam were…*; *He had
+   seven hundred wives*; *There was a great famine*; *This thing became a sin*;
+   every list and genealogy (*The sons of Ram were…*); plural *va-yihyu*, **they
+   were** (Numbers 15:32). The same holds where the participle is itself the
+   main verb and no event follows (*So David and the elders… went*, 1 Chronicles
+   15:25).
+2. **the word of the LORD came to**.
+3. **a reason, not a time**: *va-yehi ki* meaning *because* (*This happened
+   because*, 2 Kings 17:7; *Because she pressed him*, Judges 16:16).
+4. **a habit**: *whenever*, *as often as* (Numbers 10:35; 1 Kings 14:28).
+5. **a clause inside a sentence already running**, where the formula would
+   break it: a parenthesis (1 Kings 18:4), or a quick *while…* in speech that
+   runs into the point (*While your servant was busy here and there, he was
+   gone*, 1 Kings 20:40); or a second *va-yehi* in a verse that has just used
+   the formula (2 Samuel 1:2).
+
+**Its future and past-habit forms** (Andrew, 2026-09-26 and 2026-10-07). *ve-hayah* as a
+formula (*ve-hayah ki…*, *ve-hayah ka'asher…*: "and it shall be, when…"), and
+*vi-yhi* or *ve-hayah* + a time clause in an instruction, are *And it shall come
+to pass, when…, that…* or *And it will come to pass* (Ruth 3:4; 1 Samuel 10:5),
+never *It will be, when*. *ve-hayah* of a past habit is *And it would come to
+pass* (Exodus 33:8). Where *ve-hayah* is only "it shall be" + a noun (*It shall
+be a sign*), it stays plain.
+
+### No *here —* or *look —* for *hinneh* / *idou* (Andrew, 2026-09-28)
+
+In every book, in narrative and in speech: end the sentence before it and start
+the next with what is seen, or let the clause run on (*He looked: the bush was
+burning*; *A man with blight came and knelt before Him*; *I am old*, not *Look
+now — I am old*).
+
+- God's *hinneh* + participle is *I am about to…* or *I will…* (*I am about to
+  strike the water*, Exodus 7:17).
+- *I — hinneh — I* is *I Myself* (Exodus 14:17).
+- A presentation may be *Here is* (*Here is the blood of the covenant*, Exodus
+  24:8; *Here is My servant*, Matthew 12:18; *Here is the bridegroom!*, Matthew
+  25:6).
+- **Keep it only where cutting loses something the word carries**, so far:
+  *and here, it was Leah* (Genesis 29:25; Jubilees 28:4), the morning's
+  discovery; and *And here — He came* (1 Enoch 1:9), the words Jude quotes.
 
 ### Pronouns for God and for Jesus (Andrew, 2026-09-28)
 
@@ -154,44 +164,38 @@ parable (*the master of the house*) stay lowercase.
 ### No "And" at the start of a sentence (Andrew, 2026-09-25)
 
 Hebrew joins almost every clause with *ve-*, "and". Do not start a sentence or a
-verse with *And*. Keep it only where it does real work, and say why in the
-report. The kept cases so far:
-- *And it came to pass* (above), and *And here —* where it is kept (above);
+verse with *And*. Where the joining word means *but*, *so* or *then*, use that
+word. Keep *And* only where it does real work, and say why in the report. The
+kept cases:
+
+- *And it came to pass* and its future and past-habit forms, and *And here —*
+  where it is kept (both above);
 - **Exodus 1:1**, *And these are the names*, where the note is built on the book
   continuing Genesis;
 - **Leviticus 1:1**, *And He called*, the book's Hebrew title;
 - **Genesis 1:1–2:3**, the creation week: *And God said… And it was so… And
   God saw that it was good… And it was evening, and it was morning.* The *And*
-  carries the rhythm of the seven days (Andrew, 2026-09-25).
-- **"And it shall come to pass"** / **"And it will come to pass"** for
-  *ve-hayah* as a formula (*ve-hayah ki…*, *ve-hayah ka'asher…*: "and it shall
-  be, when…"), the future twin of *And it came to pass*; the past habitual is
-  *And it would come to pass* (Exodus 33:8). Not *It will be, when* (Andrew,
-  2026-09-26). Where *ve-hayah* is only "it shall be" + a noun (*It shall be a
-  sign*), it stays plain.
+  carries the rhythm of the seven days;
 - **"And now"** for *ve-attah* inside speech, where the speaker turns from what
   has been said to what they ask or declare, and the turn itself carries weight
   (*And now, say this to My servant David*, 2 Samuel 7:8) (Andrew, 2026-09-26).
-  Otherwise render *ve-attah* by what it does in the sentence (Andrew,
-  2026-10-03):
+  Kept, for example: *And now, let your servant stay instead of the boy*
+  (Genesis 44:33); *And now, Israel, listen* (Deuteronomy 4:1); *Moses My
+  servant is dead. And now get up* (Joshua 1:2). Otherwise render *ve-attah* by
+  what it does in the sentence (Andrew, 2026-10-03):
   - **So** or **So now** where it draws the consequence of what was just said
     (*So do not let my blood fall to the ground*, 1 Samuel 26:20);
   - **But now** where it sets the present against what came before;
   - **Now** alone where the point is the moment (*Now do it*, 2 Samuel 3:18;
     *Now please forgive my sin*, 1 Samuel 15:25);
   - **cut it** where the next words already carry the turn.
-  Not *Now then*. Every *And now* rendered before this rule was reviewed under
-  it on 2026-10-03. Kept, for example: *And now, let your servant stay instead
-  of the boy* (Genesis 44:33); *And now, Israel, listen* (Deuteronomy 4:1);
-  *Moses My servant is dead. And now get up* (Joshua 1:2).
+  - Never *Now then*.
 
-Not kept: *The LORD spoke to Moses, saying*; *These are the generations of*;
-*He lifted up his eyes and saw* (the *And here —* that follows is the marker);
-*the word of the LORD came to*; the Judges refrain, *The sons of Israel did
-evil in the eyes of the LORD*, and its companions (*cried out to the LORD*,
-*the land had rest*) (Andrew, 2026-09-26).
-
-Where the joining word means *but*, *so* or *then*, use that word.
+Not kept (Andrew, 2026-09-26): *The LORD spoke to Moses, saying*; *These are
+the generations of*; *He lifted up his eyes and saw* (the *And here —* that
+follows is the marker); *the word of the LORD came to*; the Judges refrain, *The
+sons of Israel did evil in the eyes of the LORD*, and its companions (*cried out
+to the LORD*, *the land had rest*).
 
 ### Already ruled
 
@@ -202,7 +206,7 @@ Where the joining word means *but*, *so* or *then*, use that word.
 | *the bone of that same day* (*be-etsem ha-yom*) | *on that very day* |
 | *bring* for motion away from the speaker | *take* (*take me out of this house*); the formula *the LORD who brought you out of Egypt* stays |
 | *the thing that* | *what* (*this is what the LORD has commanded*) |
-| *come into* a place (*When you come into the land*) | *enter*, *go into* or *arrive in*, whichever reads most naturally (*When you enter the land*; *they went into the house*; *they arrived in the wilderness of Zin*). *Come* stays only where the speaker is at the place (*this man has come into my house*; *he shall not come into this city*) and for idioms that are not about a place (*came into being*, *came into his heart*) (Andrew, 2026-10-18) |
+| *come into* a place (*When you come into the land*) | *enter*, *go into* or *arrive in*, whichever reads most naturally (*When you enter the land*; *they went into the house*; *they arrived in the wilderness of Zin*). *Come* stays only where the speaker is at the place (*this man has come into my house*; *he shall not come into this city*) and for idioms that are not about a place (*came into being*, *came into his heart*) (Andrew, 2026-10-17) |
 | a doubled verb (*boiled a boiling*) | the plain verb; the doubling may go in a note |
 | an idiom a reader must decode (*with a high hand*) | say what it does (*in open defiance*); the literal form in the note |
 
@@ -210,7 +214,7 @@ Plain old words still in use stay: *flesh, seed, loins, womb, dread, kindred*.
 The goal is simplicity, not blandness. It is the translationese that goes, not
 the force.
 
-### The readability pass (Andrew's rulings on Exodus 16–19, 2026-09-25)
+### The readability pass (Andrew, 2026-09-25)
 
 Run this on every chapter before it is committed. Each item is a pattern Andrew
 had to flag by hand; the reader should never meet one.
@@ -249,11 +253,9 @@ report (`***KEPT AS IS***`).
 
 ### Fixed terms
 
-Andrew's rulings, one word at a time. Use these everywhere they occur. There is
-no general rule that every Hebrew or Greek word has one English word
-(Andrew, 2026-10-06): keep a word the same where the source repeats it on
-purpose, so the reader can see the link, and otherwise use the English that
-fits the context.
+Andrew's rulings, one word at a time. Use these everywhere they occur. A word
+not in this table follows `CLAUDE.md` §2: the same English where the source
+repeats it on purpose, and otherwise the English that fits the context.
 
 | Hebrew | English | Decided |
 |---|---|---|
@@ -313,49 +315,13 @@ If the helper reports no source, obey what it says for the book's tier:
 
 - **`english-only`** is worked from established translations, and chapter 1's
   first note says so. Currently: Esther 11–16 and books 82–89 except
-  Sirate Tsion (below).
+  Sirate Tsion (Part 2).
 - **`none`** gets the stub only (see Honesty rules). Currently: Josippon and
   Sirate Tsion.
 
-Never accept an OCR'd text with made-up verse numbers as a source.
-
-### Books 82–89, the broader canon (Andrew, 2026-09-27)
-
-Tier `english-only` (Sirate Tsion excepted: no text of it has been found, so it
-is tier `none`): no Ge'ez text of these books can be quoted, so each is
-worked from a public-domain scholar's translation (`SOURCES.md`, "The broader
-canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
-
-| Book | Worked from | Chapters |
-|---|---|---|
-| 1st Book of the Covenant | Cooper and Maclean 1902, **from the Syriac** | 73 |
-| 2nd Book of the Covenant | Guerrier and Grébaut 1913 (French); James 1924 for sections 12–62 | 62 |
-| Te'ezaz | Horner 1904 | 72 |
-| Gitzew | Schodde 1885 | 57 |
-| Abtilis | Tattam 1848, **from the Coptic** | 85 |
-| Didascalia | Harden 1920 | 43 |
-| Qalementos | Grébaut 1911-1928 (French) | 43 |
-
-- **Chapter 1's first note** names the translation the book is worked from.
-  Where it is a sister version (in bold above), the note says so plainly: the
-  text is the Syriac or Coptic form of the work, and the Ethiopic differs from
-  it in wording and in places in order. Abtilis follows Tattam's numbering of
-  the 85 Apostolic Canons; the Ethiopic has 81, and the note says so.
-  Qalementos stops where Grébaut stopped, in its third of seven books.
-- **2nd Book of the Covenant:** Guerrier's French is the Ethiopic and governs.
-  James's English follows the Coptic where it survives; use it for the sense of
-  a sentence the French OCR has spoiled, and where the two differ in substance,
-  follow the French and note the Coptic reading.
-- **The opening.** Where the edition prints an opening before chapter 1,
-  `source_text.py` prints it with chapter 1; render it above verse 1,
-  unnumbered.
-- **A chapter with no text** (a heading the scan lost, canons the edition prints
-  as one, a page missing from the scan): the helper says so. Write the stub
-  (Honesty rule 5) with a note saying where the text is or why it is missing.
-- **The Ge'ez OCR** (`ethiopic-ocr`), where there is one, checks names, numbers
-  and the shape of a passage. Never quote it.
-- Every chapter ends with the **Source text** note naming the edition and
-  translator (all public domain), and *English translation by this project*.
+Never accept an OCR'd text with made-up verse numbers as a source. Books with
+rules of their own (1 Enoch, Jubilees, Ezra Sutuel, 4 Baruch, 1–3 Meqabyan,
+books 82–89) are in Part 2.
 
 ### Written and read forms (Andrew, 2026-09-26)
 
@@ -380,68 +346,6 @@ The aim is the most accurate account of the event the text describes.
    "more familiar".
 5. **Every departure gets a note** naming the witness followed and quoting what
    the default text says. The witness must be in `sources/`.
-
-### Tier `witnesses`: 1 Enoch, Jubilees, Ezra Sutuel, 4 Baruch
-
-**Ezra Sutuel is on hold** (Andrew, 2026-10-07): skip it until a better source is found (a corrected Ge'ez, or an English translation of the Ethiopic). Its manifest entry carries `"hold"`, and `progress.py` passes over it.
-
-These survive as partial witnesses that disagree. `source_text.py` prints each
-witness, its scholarly English, and a mechanical divergence list.
-
-- Render from the witnesses, and say which witness each statement comes from.
-- The divergences are the best material, but a flagged verse is a lead, not a
-  finding.
-- A chapter with no witness is `english-only`.
-- A claim about a Ge'ez word cannot be checked the way Hebrew or Greek can:
-  quote it and report differences, but build no argument on what it supposedly
-  means.
-
-- **1 Enoch (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
-  (`ethiopic-eotc`), and verse numbers follow it. Knibb's Ge'ez (`ethiopic`,
-  chapters 1-71), the Greek, the Aramaic and the Latin are the other witnesses.
-  For meaning, use the OCP English (1-71) and Charles (all chapters); never
-  follow Charles's reordering or his emendations without a note. Every 1 Enoch
-  chapter from 37 on ends with a last note, **Source text**, carrying the credit
-  line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
-- **Jubilees (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
-  (`ethiopic-eotc`), and verse numbers follow it. The second Ge'ez text
-  (`ethiopic`, Ran HaCohen's), the Latin and the Greek are the other witnesses;
-  the Greek lines are mostly short excerpts and summaries, not continuous text.
-  For meaning, use the OCP English (Latin, Greek) and Charles (all chapters);
-  never carry Charles's bracketed dates or his emendations into the text. Where
-  the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text.
-  **Cut verses (Andrew, 2026-09-27, replacing the rule of 2026-09-26):** the
-  EOTC text as held here is cut short in several hundred verses; these are
-  losses in its digitization, not in the Ge'ez. Where it is cut, render the
-  missing words from the **Asmara printing** (`ethiopic-gff`), without
-  brackets, and name that text in the chapter's notes. Where the Asmara file
-  lacks them too (7:11, 7:15 and 14:16-16:13), render them from **Charles's
-  edition of the Ge'ez** (1895, `ethiopic-ocr`, read through his English),
-  also without brackets (Andrew, 2026-09-27). Words Charles supplied by his own
-  correction (his footnote says *emended* or *restored*) are in no manuscript:
-  they go in [square brackets] with a note saying so (7:18, 7:24, 15:32). Every
-  chapter ends with the **Source text** note.
-
-### 1–3 Meqabyan (Andrew, 2026-09-27)
-
-Tier `source`, worked from the one text there is: the EOTC Ge'ez
-(`ethiopic-eotc`), which sets the verse count and numbering. There is no Greek,
-Latin or Hebrew witness and no public-domain English. Andrew's Amharic (chapters
-1-8, private) may be read to check meaning, never copied, quoted or credited as a
-source. Where a numeral in the Ge'ez is cut short or lost (see `SOURCES.md`), the
-verse follows the Amharic's number and a note quotes what the Ge'ez has. A claim
-about what a Ge'ez word means is stated as a rendering, with the Ge'ez quoted;
-build no argument on its supposed root. Every chapter ends with the **Source
-text** note.
-
-2 and 3 Meqabyan follow the same rule (Ge'ez added 2026-09-27); their private
-Amharic check is the EOTCOpenSource Amharic, on the same never-copied terms. In
-all three books some verses stop where a number was due (`SOURCES.md` lists
-them). In 1 Meqabyan 2:27, 3:31, 4:5 and 4:8 Horovitz's Ge'ez excerpts
-(`ethiopic-ocr`, 1905) have the rest: render it without brackets and name
-Horovitz in the chapter's notes. Everywhere else render what the Ge'ez has,
-write *[words lost]* where it breaks off, and note it; a better source is still
-being sought (Andrew, 2026-09-27).
 
 ## The notes standard
 
@@ -484,33 +388,12 @@ Genesis 25:22 is the model.
 ## Two kinds of example (Andrew, 2026-10-03)
 
 A run copies whatever it reads last. If only the latest chapters are read, one
-slip in them is copied into every run after (the shadow run of 2026-10-03 found
-notes saying a word was "fixed as" something in every run since 1 Kings 13).
-So the examples have two jobs, kept apart:
+slip in them is copied into every run after (`HANDOFF.md`, "Drift"). So the
+examples have two jobs, kept apart:
 
 - **The book's own recent chapters set the writer's style.** Matthew does not
   write like John, and Chronicles does not read like Leviticus. Read the last
   two chapters of the book being rendered to match its author's voice.
-- **A book may keep a mark of its own** (Andrew, 2026-10-07). Where a book
-  has a feature of style that sets it apart, keep it there even where the
-  general rule would smooth it out: Genesis keeps every *And it came to pass*.
-  The mark must come from the book's own source text, never be added to it.
-  Each one is Andrew's ruling, recorded here by book.
-  - **Genesis:** every *And it came to pass* is kept.
-  - **Judges:** the refrain *The sons of Israel did evil in the eyes of the
-    LORD*, the same words each time.
-  - **Ezra:** *the hand of the LORD his God was on him* (7:6, 9, 28; 8:18,
-    22, 31), the same words each time.
-  - **Nehemiah:** *Remember me, my God* (5:19; 13:14, 22, 31), the same
-    opening each time; what follows it is rendered as each verse has it
-    (*for good*, 5:19 and 13:31).
-  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times.
-    Chapter 1 carries a short note on v2 that points the reader back, since
-    Genesis is far behind by then (Andrew, 2026-10-07): **v2 "Vanity"** —
-    *hevel*, the word that was Abel's name (Genesis 4:2). There it names a
-    man; here it is a word in the sentence.
-  - **Matthew:** *And it came to pass, when Jesus had finished these words*,
-    closing each of the five speeches (7:28; 11:1; 13:53; 19:1; 26:1).
 - **The fixed models hold the rules**: format, word rules, readability,
   pronouns, and what a note may and may not say. They never change unless
   Andrew changes them, so the standard cannot slide. Read them every run:
@@ -531,13 +414,146 @@ So the examples have two jobs, kept apart:
   difference shows in the English. (Copied from Samuel where the Hebrew of
   Chronicles differs: *See now* for *hinneh*, *Now then* for *ve-attah*, and a
   dropped *And it came to pass*.)
-- **The checker.** Before every commit, run `python3 check_chapters.py`. It
-  checks this run's chapters for what a program can check: banned words, an
-  *And* not on the kept list, *here —* and *look —*, the fixed terms, verse
-  numbers, and notes that talk about the translating. Fix every ERROR. Each
-  CHECK is a lead: either fix it or say in the report why it stands.
+- **A book may keep a mark of its own** (Andrew, 2026-10-07). Where a book
+  has a feature of style that sets it apart, keep it there even where the
+  general rule would smooth it out. The mark must come from the book's own
+  source text, never be added to it. Each one is Andrew's ruling, recorded
+  here by book.
+  - **Genesis:** every *And it came to pass* is kept. It is the book of
+    beginnings, covering the ages from creation to Joseph, and nearly every
+    turn in it is God's doing. There the formula marks each turn of time as
+    part of that one story, and its older, weightier cadence is part of what
+    sets the first book apart. Genesis is not swept to the general rule.
+  - **Judges:** the refrain *The sons of Israel did evil in the eyes of the
+    LORD*, the same words each time.
+  - **Ezra:** *the hand of the LORD his God was on him* (7:6, 9, 28; 8:18,
+    22, 31), the same words each time.
+  - **Nehemiah:** *Remember me, my God* (5:19; 13:14, 22, 31), the same
+    opening each time; what follows it is rendered as each verse has it
+    (*for good*, 5:19 and 13:31).
+  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times.
+    Chapter 1 carries a short note on v2 that points the reader back, since
+    Genesis is far behind by then (Andrew, 2026-10-07): **v2 "Vanity"** —
+    *hevel*, the word that was Abel's name (Genesis 4:2). There it names a
+    man; here it is a word in the sentence.
+  - **Matthew:** *And it came to pass, when Jesus had finished these words*,
+    closing each of the five speeches (7:28; 11:1; 13:53; 19:1; 26:1).
+
+## The checker
+
+Before every commit, run `python3 check_chapters.py`. It checks this run's
+chapters for what a program can check: banned words, an *And* not on the kept
+list, *here —* and *look —*, *Now then*, *come into*, the fixed terms, verse
+numbers, and notes that talk about the translating. Fix every ERROR. Each CHECK
+is a lead: either fix it or say in the report why it stands.
 
 ## Pace
 
 Quality over throughput: four excellent chapters beat twelve thin ones. Never
 pad notes, and stop one chapter early rather than rush the last.
+
+## Part 2: books with rules of their own
+
+Read only the part for the book being rendered or reviewed. Nothing here
+applies to any other book.
+
+### Books 82–89, the broader canon (Andrew, 2026-09-27)
+
+Tier `english-only` (Sirate Tsion excepted: no text of it has been found, so it
+is tier `none`): no Ge'ez text of these books can be quoted, so each is
+worked from a public-domain scholar's translation (`SOURCES.md`, "The broader
+canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
+
+| Book | Worked from | Chapters |
+|---|---|---|
+| 1st Book of the Covenant | Cooper and Maclean 1902, **from the Syriac** | 73 |
+| 2nd Book of the Covenant | Guerrier and Grébaut 1913 (French); James 1924 for sections 12–62 | 62 |
+| Te'ezaz | Horner 1904 | 72 |
+| Gitzew | Schodde 1885 | 57 |
+| Abtilis | Tattam 1848, **from the Coptic** | 85 |
+| Didascalia | Harden 1920 | 43 |
+| Qalementos | Grébaut 1911-1928 (French) | 43 |
+
+- **Chapter 1's first note** names the translation the book is worked from.
+  Where it is a sister version (in bold above), the note says so plainly: the
+  text is the Syriac or Coptic form of the work, and the Ethiopic differs from
+  it in wording and in places in order. Abtilis follows Tattam's numbering of
+  the 85 Apostolic Canons; the Ethiopic has 81, and the note says so.
+  Qalementos stops where Grébaut stopped, in its third of seven books.
+- **2nd Book of the Covenant:** Guerrier's French is the Ethiopic and governs.
+  James's English follows the Coptic where it survives; use it for the sense of
+  a sentence the French OCR has spoiled, and where the two differ in substance,
+  follow the French and note the Coptic reading.
+- **The opening.** Where the edition prints an opening before chapter 1,
+  `source_text.py` prints it with chapter 1; render it above verse 1,
+  unnumbered.
+- **A chapter with no text** (a heading the scan lost, canons the edition prints
+  as one, a page missing from the scan): the helper says so. Write the stub
+  (Honesty rule 5) with a note saying where the text is or why it is missing.
+- **The Ge'ez OCR** (`ethiopic-ocr`), where there is one, checks names, numbers
+  and the shape of a passage. Never quote it.
+- Every chapter ends with the **Source text** note naming the edition and
+  translator (all public domain), and *English translation by this project*.
+
+### Tier `witnesses`: 1 Enoch, Jubilees, Ezra Sutuel, 4 Baruch
+
+**Ezra Sutuel is on hold** (Andrew, 2026-10-07): skip it until a better source
+is found (a corrected Ge'ez, or an English translation of the Ethiopic). Its
+manifest entry carries `"hold"`, and `progress.py` passes over it.
+
+These survive as partial witnesses that disagree. `source_text.py` prints each
+witness, its scholarly English, and a mechanical divergence list.
+
+- Render from the witnesses, and say which witness each statement comes from.
+- The divergences are the best material, but a flagged verse is a lead, not a
+  finding.
+- A chapter with no witness is `english-only`.
+- A claim about a Ge'ez word cannot be checked the way Hebrew or Greek can:
+  quote it and report differences, but build no argument on what it supposedly
+  means.
+- **1 Enoch (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
+  (`ethiopic-eotc`), and verse numbers follow it. Knibb's Ge'ez (`ethiopic`,
+  chapters 1-71), the Greek, the Aramaic and the Latin are the other witnesses.
+  For meaning, use the OCP English (1-71) and Charles (all chapters); never
+  follow Charles's reordering or his emendations without a note. Every 1 Enoch
+  chapter from 37 on ends with a last note, **Source text**, carrying the credit
+  line in `SOURCES.md` (Beta Masaheft, CC BY-SA 4.0).
+- **Jubilees (Andrew, 2026-09-26):** the base text is the EOTC Ge'ez
+  (`ethiopic-eotc`), and verse numbers follow it. The second Ge'ez text
+  (`ethiopic`, Ran HaCohen's), the Latin and the Greek are the other witnesses;
+  the Greek lines are mostly short excerpts and summaries, not continuous text.
+  For meaning, use the OCP English (Latin, Greek) and Charles (all chapters);
+  never carry Charles's bracketed dates or his emendations into the text. Where
+  the EOTC lacks a verse (4:3-14, 26:33), fill it from the other Ge'ez text.
+  - **Cut verses (Andrew, 2026-09-27):** the EOTC text as held here is cut
+    short in several hundred verses; these are losses in its digitization, not
+    in the Ge'ez. Where it is cut, render the missing words from the **Asmara
+    printing** (`ethiopic-gff`), without brackets, and name that text in the
+    chapter's notes. Where the Asmara file lacks them too (7:11, 7:15 and
+    14:16-16:13), render them from **Charles's edition of the Ge'ez** (1895,
+    `ethiopic-ocr`, read through his English), also without brackets.
+  - Words Charles supplied by his own correction (his footnote says *emended*
+    or *restored*) are in no manuscript: they go in [square brackets] with a
+    note saying so (7:18, 7:24, 15:32).
+  - Every chapter ends with the **Source text** note.
+
+### 1–3 Meqabyan (Andrew, 2026-09-27)
+
+Tier `source`, worked from the one text there is: the EOTC Ge'ez
+(`ethiopic-eotc`), which sets the verse count and numbering. There is no Greek,
+Latin or Hebrew witness and no public-domain English.
+
+- **The private Amharic check.** Andrew's Amharic (1 Meqabyan 1-8) and the
+  EOTCOpenSource Amharic (2 and 3 Meqabyan) may be read to check meaning, never
+  copied, quoted or credited as a source.
+- **A numeral cut short or lost** in the Ge'ez (see `SOURCES.md`): the verse
+  follows the Amharic's number and a note quotes what the Ge'ez has.
+- **A claim about what a Ge'ez word means** is stated as a rendering, with the
+  Ge'ez quoted; build no argument on its supposed root.
+- **Verses that stop where a number was due** (all three books; `SOURCES.md`
+  lists them). In 1 Meqabyan 2:27, 3:31, 4:5 and 4:8 Horovitz's Ge'ez excerpts
+  (`ethiopic-ocr`, 1905) have the rest: render it without brackets and name
+  Horovitz in the chapter's notes. Everywhere else render what the Ge'ez has,
+  write *[words lost]* where it breaks off, and note it; a better source is
+  still being sought.
+- Every chapter ends with the **Source text** note.

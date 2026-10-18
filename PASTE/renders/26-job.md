@@ -12,7 +12,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **42:6, *em'as ve-nichamti al afar va-efer***
-  - Now: *therefore I despise myself, / and repent in dust and ashes.*
   - The Hebrew has no object for *despise* (as at 7:16), and *repent… in dust and ashes* can also mean *am comforted concerning dust and ashes*.
   - (a) **I despise myself, and repent in dust and ashes**, the traditional reading (now); the note gives both alternatives.
   - (b) **The other readings, given in the note**: *despise* with no object supplied, and *am comforted concerning dust and ashes*.
@@ -37,7 +36,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **41:12, written *lo*, "not", read *lo*, "about him"**
-  - Now: *I will not keep silent about him, / his limbs, his mighty strength and his fine frame.*
   - (a) **Both** (now): *I will not keep silent about him*, with a note; a small departure from strictly following the read form.
   - (b) **The read form alone**, as the spec's read-form rule asks.
   - No recommendation was given.
@@ -77,12 +75,10 @@ Spelling only, no note: 33:21.
 
 **Choices for you:**
 - **32:3, Job or God declared guilty**
-  - Now: *because they had found no answer and yet had declared Job guilty.*
   - (a) **Job**, as the Hebrew stands (now).
   - (b) **God**: the scribes' tradition says the original was *declared God guilty*.
   - No recommendation was given.
 - **32:1, *in his own eyes***
-  - Now: *So these three men ceased to answer Job, because he was righteous in his own eyes.*
   - (a) **in his own eyes**, the Hebrew (now).
   - (b) **in their eyes**, the Greek and Syriac.
   - No recommendation was given.
@@ -139,7 +135,6 @@ Spelling only, no note: 33:21.
 
 **Choices for you:**
 - **19:25, *go'ali*, "my Redeemer… He will stand"**
-  - Now: *For I know that my Redeemer lives, / and at the last He will stand upon the dust.*
   - (a) **Capitalized** (now), following the Church's reading of the *go'el* as Christ; the note says the Hebrew does not say who the *go'el* is.
   - (b) **Lowercase**, *my redeemer… he*, which leaves it open.
   - No recommendation was given.
@@ -168,7 +163,6 @@ Spelling only, no note: 33:21.
 
 **Choices for you:**
 - **13:15, written *lo*, "not", read *lo*, "in Him"** (the best-known verse in these chapters)
-  - Now: *Though He slay me, I will hope in Him; / yet I will argue my ways to His face.*
   - (a) **The read form** (now), per the spec: *Though He slay me, I will hope in Him.*
   - (b) **The written form**: *He will slay me; I have no hope.* The two are opposite in sense.
   - No recommendation was given.
@@ -194,17 +188,14 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **Choices for you:**
 - **7:20, *a burden to myself***
-  - Now: *Why have You made me Your target, / so that I am a burden to myself?*
   - (a) **to myself**, as the Hebrew stands (now).
   - (b) **to You**: the scribes' tradition says the original was *to You*, which the Greek has.
   - No recommendation was given.
 - **9:19, *who will summon me?***
-  - Now: *If it is a matter of justice, who will summon me?*
   - (a) **me**, the Hebrew (now).
   - (b) **Him**: the Greek reads it of God.
   - No recommendation was given.
 - **9:33, *There is no arbiter***
-  - Now: *There is no arbiter between us, / who might lay his hand on us both.*
   - (a) **There is no arbiter**, the Hebrew (now).
   - (b) **Would that there were an arbiter**, the Greek.
   - No recommendation was given.
@@ -225,7 +216,6 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **Choices for you:**
 - **3:10, *my womb***
-  - Now: *because it did not shut the doors of my mother's womb*
   - (a) **my mother's womb** (now), with a note.
   - (b) **my womb**, the Hebrew's words.
   - No recommendation was given.
@@ -256,7 +246,6 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
   - (b) **the accuser**, the title, with the article.
   - No recommendation was given.
 - **1:19, *ha-ne'arim***
-  - Now: *It fell on the young people, and they are dead.*
   - (a) **the young people** (now).
   - (b) **the young men**, as the word reads for the servants in 1:15–17.
   - No recommendation was given.

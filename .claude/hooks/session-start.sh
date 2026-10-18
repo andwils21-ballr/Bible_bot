@@ -14,6 +14,6 @@ pip install -q python-docx playwright pyyaml >/dev/null 2>&1 || true
 cat <<'MSG'
 Bible_bot session start. Before anything else:
 1. Read CLAUDE.md in full; it outranks every prompt. Then RENDERING_SPEC.md before rendering.
-2. Fixed models (RENDERING_SPEC.md, "Fixed models"): compare your work against them, not only against the latest chapters.
+2. Fixed models (RENDERING_SPEC.md, "Two kinds of example"): compare your work against them, not only against the latest chapters.
 3. Before every commit: python3 check_chapters.py (fix every ERROR), then python3 build_site.py && python3 progress.py.
 MSG

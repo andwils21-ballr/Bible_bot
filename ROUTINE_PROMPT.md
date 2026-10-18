@@ -1,7 +1,7 @@
 # The Routine prompt
 
 The exact text the scheduled Routine sends on each firing. Keep this file and
-the live Routine identical.
+the live Routine identical (`CLAUDE.md` §8): steps only, never rules.
 
 ---
 
@@ -9,44 +9,23 @@ Bible_bot render cycle.
 
 STEP 0: DO THIS BEFORE ANY INTERPRETING, PLANNING, RENDERING OR REPLYING.
 Sync the repo, then read /home/user/bible_bot/CLAUDE.md in full, every word.
-It holds the mission, your role, the notes policy, the reporting format and the
-non-negotiables, and it outranks this prompt.
+It outranks this prompt. This prompt lists the steps; the rules are in
+CLAUDE.md and RENDERING_SPEC.md.
 - Sync: `cd /home/user/bible_bot && git fetch origin main && git reset --hard origin/main`
 - If the folder is missing: `git clone https://github.com/andwils21-ballr/Bible_bot.git /home/user/bible_bot`
 
 Then:
-1. Read RENDERING_SPEC.md in full. Read the fixed models in full (Genesis 25,
-   Exodus 33, Leviticus 17; spec, "Two kinds of example"): they hold the rules.
+1. Read RENDERING_SPEC.md in full down to Part 2, and the part of Part 2 for
+   this book if it has one. Read the three fixed models in full (spec, "Two
+   kinds of example").
 2. Run `python3 progress.py` for the next chapter. Read the two most recent
-   chapters of the same book to match its writer's style (in the first run or
-   two of a new writer, take the style from the source itself). Where a recent
-   chapter and a fixed model differ on a rule, the fixed model wins.
+   chapters of the same book for its writer's style.
 3. For each chapter, print the source first:
-   `python3 source_text.py <slug> <chapter>`. Every claim in a note must be
-   checkable against that printed text. If there is no source, do exactly what
-   the book's tier says.
-4. Render the next four to six chapters. Four excellent chapters beat six thin
-   ones.
-5. Readability pass on every chapter (CLAUDE.md section 2). Stay close to the
-   text and clean it up in its own style: remove friction, never force. Never
-   flatten a real difficulty; keep it and mark it ***KEPT AS IS*** in the report.
-   Before committing, search this run's new chapters for any sentence that
-   starts with "And" and fix every one not on the spec's kept list.
-6. Run `python3 check_chapters.py` and fix every ERROR; answer each CHECK in
-   the report or fix it. Then run `python3 build_site.py && python3 progress.py`. Commit
+   `python3 source_text.py <slug> <chapter>`.
+4. Render the next four to six chapters, with the readability pass on each.
+5. Run `python3 check_chapters.py`: fix every ERROR, and fix each CHECK or say
+   in the report why it stands. Then run
+   `python3 build_site.py && python3 progress.py`. Commit
    `Render <Book> <first>–<last>` and push to main.
-7. Report exactly as CLAUDE.md section 5 says:
-   - Full judgment-call tables at the top of PASTE/renders/<order>-<slug>.md,
-     one file per book (start a new book's file with its header).
-   - A short chat reply with the progress count, "Left standing on purpose",
-     and "Choices for you" (only this run's new choices, every verse listed;
-     older ones stay in their book's file and are not repeated). Put any
-     decision that could affect many books at the top of the reply.
-   - Times in Central.
-
-Do not act on or write in PASTE/edits.md in a render cycle; only mention items
-not yet checked off. Do not modify CLAUDE.md, RENDERING_SPEC.md, HANDOFF.md,
-manifest.json, the build scripts, progress.py, source_text.py,
-check_chapters.py or sources/; log
-findings in NOTES_FOR_ANDREW.md. Never invent source text; the stub is the
-honest output when there is no source.
+6. Report as CLAUDE.md §5 says: the renders file first, then the short chat
+   reply.

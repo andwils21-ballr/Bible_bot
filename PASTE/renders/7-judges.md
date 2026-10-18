@@ -347,7 +347,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **10:12, "Maon" or "Midian"**
-  - Now: *When the Sidonians, Amalek and Maon oppressed you, and you cried out to Me, I saved you from their hand.*
   - (a) **Maon**, the Hebrew (now).
   - (b) **Midian**, the Greek: Midian is the great oppressor of chapters 6–8 (6:1, *the LORD gave them into the hand of Midian*), and Maon is never named as an oppressor anywhere in the book.
   - Recommend (b): it is a list of oppressors the LORD saved them from, and the book has just spent three chapters on Midian.

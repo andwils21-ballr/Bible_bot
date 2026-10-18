@@ -454,7 +454,6 @@ Every place was checked by what follows the "And". Four verses that start a quot
   - (b) As now, *dwellings* and *settlements*.
   - Recommend (a).
 - **Leviticus 19:26, *al ha-dam***
-  - Now: *You shall not eat anything with the blood in it.*
   - (a) **The Hebrew** (now), with a note giving the Greek: the same phrase in 1 Samuel 14:32–34 is soldiers eating meat with the blood still in it.
   - (b) **The Greek**, *You shall not eat on the mountains*, Ezekiel's phrase for eating at hill shrines (Ezekiel 18:6), with a note giving the Hebrew; the rest of the verse forbids divination and omens, which fits it.
   - Recommend (a): eating blood is a running law of this book (3:17, 7:26, 17:10–14). The note giving the Greek is not written yet.
@@ -1116,9 +1115,8 @@ Your reading has a New Testament echo. Jesus rose *on the first day of the week*
 
 **Choices for you:**
 - **23:11, the v11 note**
-  - Now: *on the day after the sabbath*; the note gives both readings and not the New Testament echo.
   - (a) **Add the echo** to the v11 note: Matthew 28:1 and 1 Corinthians 15:20.
-  - (b) Leave the note as it is.
+  - (b) **Leave the note as it is** (now): it gives both readings of *on the day after the sabbath* and not the New Testament echo.
   - No recommendation was given.
 
 **23:24 "a remembrance by a blast" (no change made).** *Teru'ah* covers two sounds:

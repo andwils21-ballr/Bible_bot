@@ -165,13 +165,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **14:12, *porneia***
-  - Now: *For the devising of idols was the beginning of fornication*
   - The verse means both the turning to idols and the sins of vv24–26; the fixed term for Hebrew *zanah* in worship is *give themselves to*.
   - (a) **fornication** (now), the plain old word.
   - (b) **sexual immorality**, the usual New Testament English.
   - No recommendation was given.
 - **14:26, *geneseōs enallagē***
-  - Now: *forgetfulness of favors, defilement of souls, exchange of nature, disorder in marriage*
   - (a) **exchange of nature** (now): the literal phrase keeps the link to Romans 1:26 visible.
   - (b) **sexual perversion**, as others render it.
   - No recommendation was given.
@@ -263,7 +261,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **11:20, *the breath of Your power***
-  - Now: *and scattered by the breath of Your power.*
   - (a) **breath**, lowercase (now): a scattering blast, as 5:23.
   - (b) **Spirit**, capital: God's Spirit.
   - No recommendation was given.
@@ -365,7 +362,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **tyrants**.
   - No recommendation was given.
 - **7:22, *monogenes***
-  - Now: *For in her is a spirit that is intelligent, holy, unique, manifold*
   - (a) **unique** (now): it says what the word means of wisdom's spirit.
   - (b) **only-begotten**, as older English: it keeps the echo of John 1:14 and 3:16 visible.
   - No recommendation was given.
@@ -458,7 +454,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Choices for you:**
 - **1:5, *hagion pneuma paideias***
-  - Now: *For the holy spirit of discipline flees deceit*
   - (a) **spirit**, lowercase (now), as the spirit of wisdom (1:6, *wisdom is a spirit*); the fixed term capitalizes *the Spirit* when it is *of God* or *of the Lord*, as 1:7 is. 7:22 and 9:17 (*Your holy Spirit*) raise it again.
   - (b) **Spirit**, capital.
   - No recommendation was given.
@@ -471,7 +466,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (b) **One word every time**, so a reader can see that the Greek repeats it; *servant* at 2:13 would echo Isaiah 52:13.
   - No recommendation was given.
 - **2:24, *diabolos*** (the Greek word for the satan of Job 1–2, an open choice in Job)
-  - Now: *but through the envy of the devil death entered the world*
   - (a) **the devil** (now).
   - (b) Whatever is ruled for *ha-satan* in Job 1–2.
   - No recommendation was given.
