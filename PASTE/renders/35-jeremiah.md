@@ -4,7 +4,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 ## Jeremiah 13–16 — rendered 2026-10-17, 5:51 PM CDT
 
-**Source:** Hebrew (WLC) throughout; the Greek (Swete) is followed nowhere. It is quoted in notes where it reads differently: 13:4; 14:8; 15:11, 14. Verse counts match the Hebrew in all four chapters.
+**Source:** Hebrew (WLC) throughout. At 15:14 the text follows 17:4 and the Greek, *serve your enemies* (Andrew's ruling, 2026-10-17). The Greek is quoted in notes where it reads differently: 13:4; 14:8; 15:11, 14. Verse counts match the Hebrew in all four chapters.
 
 **Kept formulas:**
 - 13:6 *va-yehi miqqets yamim rabbim*, a new time: *And it came to pass after many days that the LORD said to me*.
@@ -100,7 +100,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 11 | *sheritikha le-tov… hifga'ti vekha* | ***KEPT AS IS*** I will set you free for good… make the enemy plead with you (the verse is hard; note) |
 | 12 | *ha-yaroa barzel* | ***KEPT AS IS*** Can one break iron (the verse is hard; note) |
 | 13 | *lo vi-mchir* | without price |
-| 14 | *ve-ha'avarti et oyevekha* | I will make you go with your enemies (choice below) |
+| 14 | *ve-ha'avarti et oyevekha* "I will make pass with your enemies" | I will make you serve your enemies (17:4 and the Greek; decided; see `PASTE/decided/35-jeremiah.md`) |
 | 15 | *le-erekh appekha* | In Your slowness to anger (Exodus 34:6; note) |
 | 17 | *sod mesacheqim* | the company of revelers |
 | 18 | *akhzav* | a deceitful brook (note) |
@@ -131,12 +131,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 14:18, *go about in a land they do not know*: the line's sense is uncertain.
 - 15:11–12, *I will set you free for good… Can one break iron*: both verses are hard in the Hebrew; the note gives the range.
 
-**Choices for you:**
-
-- **15:14, *ve-ha'avarti et oyevekha***
-  - (a) **I will make you go with your enemies into a land you do not know** (now): the Hebrew here, *ha'avarti*, "I will make pass." The people are carried off along with their conquerors.
-  - (b) **I will make you serve your enemies in a land you do not know**: *ha'avadti*, "I will make serve," one letter different (*d* for *r*), as the same oracle reads when it comes again in 17:4, and as the Greek reads here.
-  - Recommend (b): the same lines stand in 17:3–4 with *serve*, the Greek has *serve* here too, and *serve your enemies* is the curse of the covenant (Deuteronomy 28:48).
+**Choices for you:** all decided; moved to `PASTE/decided/35-jeremiah.md`.
 
 ## Jeremiah 9–12 — rendered 2026-10-17, 12:51 PM CDT
 
