@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 25–28: the spot check of 2026-10-18
+
+**Request:** the weekly spot check (`PASTE/spot-checks/2026-10-18.md`). Rule breaks and departures from the Hebrew are for the sessions to fix (Andrew, 2026-10-12); each change matches the Hebrew and the blind re-render.
+
+| Where | Before | After |
+|---|---|---|
+| Jeremiah 26:19 | But we are about to do great harm to ourselves. | But we are about to bring great disaster on ourselves. (*ra'ah*, the word of *the disaster that He had pronounced* in the same verse) |
+| Jeremiah 27:6 | So now I have given all these lands | So now I Myself have given all these lands (*anokhi natatti*, as v5 *anokhi asiti*, *It is I who made*) |
+| Jeremiah 27, note v18 | the verb forbidden to Jeremiah himself, *do not intercede with Me* (7:16) | the verb forbidden to Jeremiah himself: *do not pray for this people… or intercede with Me* (7:16), as 7:16 reads |
+| Jeremiah 25, note vv34, 38 | …and the Greek does not have it. | …and the Greek does not have it. For *like a precious vessel* the Greek has *like the choice rams*, the flock picture of vv34–36. (with the new choice in `PASTE/renders/35-jeremiah.md`) |
+
 ## Jeremiah 18:17, *oref ve-lo fanim er'em* (2026-10-17)
 
 **Request:** Andrew's ruling on the Jeremiah 17–20 choice: (b), *I will show them My back and not My face*, the letters read *ar'em* as the Greek reads them, answering 2:27.

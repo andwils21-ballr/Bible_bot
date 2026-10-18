@@ -69,6 +69,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 33 | *le-domen* | dung (8:2; 16:4) |
 | 34 | *addirei ha-tson* "the mighty ones of the flock" | the leaders of the flock |
 | 34 | *u-tefotsotikhem* | ***KEPT AS IS*** and of your scatterings (found only here; note) |
+| 34 | *ki-khli chemdah* | like a precious vessel (the Greek: *like the choice rams*; note; choice below, from the spot check of 2026-10-18) |
 | 37 | *ne'ot ha-shalom* | the peaceful folds |
 | 38 | *sukko* | His lair |
 | 38 | *charon ha-yonah* "the fierceness of the oppressor" | the oppressing sword (the Greek; 46:16; 50:16; note; choice below) |
@@ -135,9 +136,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 27:1, *Jehoiakim*: the chapter is set under Zedekiah (vv3, 12; 28:1), but no witness in `sources/` names him here; the Greek has no v1.
 
 **Choices for you:**
+- **25:34, *ki-khli chemdah*** (raised by the spot check of 2026-10-18)
+  - (a) **you will fall like a precious vessel** (now): the Hebrew. A fine jar dropped and broken, the reverse of Coniah, *a vessel no one wants* (22:28).
+  - (b) **you will fall like the choice rams**: the Greek, *hōsper hoi krioi hoi eklektoi*. The leaders of the flock go down at the slaughter like the best rams, and the picture of shepherds and flock runs unbroken through vv34–36.
+  - Recommend (a): the Hebrew makes sense as it stands, and broken vessels run through the book (19:10–11; 22:28).
 - **25:38, *mippenei charon ha-yonah***
   - (a) **because of the oppressing sword** (now): the Greek reads *sword*, and *because of the oppressing sword* is the book's own phrase at 46:16 and 50:16.
-  - (b) **because of the fierceness of the oppressor**: the Hebrew here, *charon*, "fierceness," matching *His fierce anger* in the next line.
+  - (b) **because of the fierceness of the oppressor**: the Hebrew here. *Charon*, "fierceness," comes three times in two verses: *the fierce anger of the LORD* (v37), here, and *His fierce anger* in the next line, so the enemy's fury and the LORD's are one (the spot check of 2026-10-18).
   - Recommend (a): the Greek and the book's phrase in two other places agree, and the sword is what the LORD sends through the whole chapter (vv16, 27, 29, 31). (b) is a sound reading of the Hebrew as it stands, and the note gives it.
 - **28:13, *ve-asita tachteihen motot barzel***
   - (a) **but you have made in their place bars of iron** (now): the Hebrew. By breaking the wooden yoke, Hananiah has brought on an iron one.

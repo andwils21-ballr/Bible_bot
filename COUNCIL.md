@@ -142,6 +142,13 @@ entry.
 - All three are `ועתה בנים שמעו לי`, *ve-attah banim shim'u li*, and each draws the consequence of what was just said: the warning about the stranger woman (5:3–6), the story of the young man (7:6–23), Wisdom at creation (8:22–31). The spec says never *Now then* for *ve-attah*, and *So now* where it draws the consequence. Proposed: **So now, sons, listen to me** in all three, the same words each time (spec, Style 6).
 - Rule: spec, "No And", *ve-attah*.
 
+### 97. Jeremiah 26 *sarim* and 27:11 *ve-avadah* (from the spot check of 2026-10-18)
+*Asked by Bible 2, 3:38 PM CDT, 2026-10-18. Jeremiah is not closed. Report: `PASTE/spot-checks/2026-10-18.md`.*
+
+- **Jeremiah 26:10, 11, 12, 16, 21, *sarim***: Bible Main has *officials* (with *sarei Yehudah*, *the officials of Judah*, v10), and the vv8, 11, 16 note says *The officials sit as judges at the gate*. The book has *princes* for the same word at 1:18, 2:26, 4:9, 8:1, 17:25, 24:1, 8 and 25:18–19, the last in the same cycle, and the blind re-render has *princes* here. The word comes back often in chapters 34–38 (36:12, 14, 19, 21; 37:14–15; 38:4, 25, 27). Proposed: *princes*, as the book has it, in the verses and the note.
+- **Jeremiah 27:11, *ve-avadah ve-yashvah bah***: Bible Main has *and it will till it and live in it*. *Avad* is the chapter's word, eleven times as a verb in vv6–17, and *serves him* comes earlier in the same verse; this project's Genesis 2:5, 2:15 and 3:23 render *avad* with the ground as *serve* (*to serve it and to keep it*). Proposed: *and it will serve the land and live on it*, with no note, since the English now carries it. *Till* is the plain sense and not a rule break, so either answer stands.
+- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
