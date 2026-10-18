@@ -85,7 +85,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 20 | *me-avarim* | from Abarim (Numbers 27:12) |
 | 21 | *be-shalvotayikh* | in your ease |
 | 22 | *kol ro'ayikh tir'eh ruach* | The wind will shepherd all your shepherds (note) |
-| 23 | *mah nechant* | how you will be pitied (note; choice below) |
+| 23 | *mah nechant* | how you will be pitied (note; decided, see `PASTE/decided/35-jeremiah.md`) |
 | 24 | *chotam* | the signet ring (Haggai 2:23; note) |
 | 24 | *etteqenka* | I would tear you off |
 | 25 | *asher attah yagor mi-peneihem* | those you dread |
@@ -106,7 +106,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 4 | *ve-lo yippaqedu* | nor will any be missing (Numbers 31:49; note) |
 | 5 | *tsemach tsaddiq* | a righteous Branch (Isaiah 4:2; note) |
 | 5 | *u-malakh melekh ve-hiskil* | he will reign as king and act wisely |
-| 6 | *asher yiqre'o YHWH tsidqenu* | by which he will be called: The LORD Is Our Righteousness (Exodus 17:15; note; choice below) |
+| 6 | *asher yiqre'o YHWH tsidqenu* | by which he will be called: The LORD Is Our Righteousness (Exodus 17:15; note; decided, see `PASTE/decided/35-jeremiah.md`) |
 | 8 | *hiddachtim* "I had driven them" | He had driven them (the Greek and 16:15; note) |
 | 8 | *al admatam* | on their own soil |
 | 9 | *rachafu* | shake (Genesis 1:2; note) |
@@ -134,10 +134,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 31 | *va-yin'amu ne'um* "and they declare a declaration" | and say, "He declares" (note) |
 | 32 | *u-ve-fachazutam* | and their recklessness |
 | 32 | *ve-ho'el lo yo'ilu* | They do not profit… at all (2:8) |
-| 33 | *et mah massa* "What burden?" | You are the burden (the Greek; note; choice below) |
+| 33 | *et mah massa* "What burden?" | You are the burden (the Greek; note; decided, see `PASTE/decided/35-jeremiah.md`) |
 | 33 | *ve-natashti etkhem* | I will cast you off |
 | 36 | *lo tizkeru* | you shall no longer mention |
-| 39 | *ve-nashiti etkhem nasho* (vowels: "I will utterly forget you") | I am about to lift you up (the letters of *nasa*; the Greek; note; choice below) |
+| 39 | *ve-nashiti etkhem nasho* (vowels: "I will utterly forget you") | I am about to lift you up (the letters of *nasa*; the Greek; note; decided, see `PASTE/decided/35-jeremiah.md`) |
 | 40 | *cherpat olam u-khelimmut olam* | an everlasting reproach and an everlasting disgrace (20:11) |
 
 ### Jeremiah 24: Two Baskets of Figs
@@ -162,19 +162,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 21:4, *I will gather them*: the weapons or the Chaldeans; the Hebrew does not say which.
 - 23:26, *How long will this be in the heart*: the Hebrew breaks off; the Greek reads it so.
 
-**Choices for you:**
-- **22:23, *mah nechant***
-  - (a) **how you will be pitied** (now): the Hebrew vowels, from *chanan*, "to show favor." The one nested among the cedars becomes someone to pity.
-  - (b) **how you will groan**: the Greek. The sound of a woman in labor, which the line goes on to name.
-  - Recommend (a): the Hebrew makes sense as it stands, and the Greek does not tell the event better; it only trades mockery for pain.
-- **23:6, *asher yiqre'o YHWH tsidqenu***
-  - (a) **this is the name by which he will be called: The LORD Is Our Righteousness** (now): the Hebrew accents join the LORD's name to the name, as in *The LORD Is My Banner* (Exodus 17:15).
-  - (b) **this is the name by which the LORD will call him: Our Righteousness**: the same words, with the LORD as the one who names him, as the Greek takes them (the Greek's name is *Iosedek*).
-  - Recommend (a): the name answers Zedekiah's, *Tsidqiyahu*, which needs both words, and 33:16 gives the same name to Jerusalem.
-- **23:33, 39, *massa*: the burden**
-  - (a) **You are the burden… I am about to lift you up and cast you off** (now): at v33 the Greek, *attem ha-massa*, the same letters divided otherwise; at v39 the letters of *nasa*, "to lift," as the Greek reads them (*I take*).
-  - (b) **What burden?… I am about to forget you completely and cast you off**: the Hebrew vowels at both verses.
-  - Recommend (a): the passage is built on *massa*, a load that is lifted, and (a) finishes the picture. (b) has its own thread: *you shall no longer mention* (v36), *I will forget you* (v39), *that will not be forgotten* (v40).
+**Choices for you:** all decided; moved to `PASTE/decided/35-jeremiah.md`.
 
 ## Jeremiah 17–20 — rendered 2026-10-17, 10:50 PM CDT
 
