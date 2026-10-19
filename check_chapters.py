@@ -38,7 +38,8 @@ BANNED = ["lest", "behold", "unto", "thee", "thou", "thy", "thine", "ye",
           "peradventure", "nay", "yea", "ere", "betwixt", "amongst", "whilst",
           "hearken", "hearkened", "bade", "wrought", "albeit"]
 BANNED_PHRASES = [r"\bin the midst of\b", r"\bart thou\b", r"\bthou art\b",
-                  r"\bthus (says|said|declares)\b"]  # spec, "Already ruled"
+                  r"\bthus (says|said|declares)\b",
+                  r"\bdevot\w*\b[^.;:!?]{0,40}\bto destruction\b"]  # spec, "Already ruled"
 
 # Openings with "And" that the spec keeps.
 AND_KEPT = re.compile(r"And (it came to pass|it shall come to pass|it will come to pass"

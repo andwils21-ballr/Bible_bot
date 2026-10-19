@@ -2,6 +2,41 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *Cherem* in the Achan and Saul stories (Andrew, 2026-10-18)
+
+**Request:** the two groups held from the entry below. Achan (Joshua 6–7): Andrew, "*devoted* makes more sense… You devote something to someone, like you give it to them in honor. Saying devote with a direct reference to destroying is just a weird way to use that word… This should be *devote* then *doomed*." Saul and Ahab (1 Samuel 15; 1 Kings 20:42): (b), *destroy completely* and *doomed*. The ruling is in `RENDERING_SPEC.md`, "Already ruled", and `check_chapters.py` now stops *devote… to destruction*.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 14, note | *charam*, to devote to destruction, the root of | *charam*, to give over to the LORD by destroying, the root of |
+| Deuteronomy 7:26 | you will be devoted to destruction like it. You shall utterly loathe it and utterly detest it, for it is devoted to destruction. | you will be doomed like it. You shall utterly loathe it and utterly detest it, for it is doomed. |
+| Deuteronomy 7, note | Whoever takes a thing devoted to destruction becomes *cherem* with it: after Achan takes from the spoil of Jericho, God says of Israel, *they have become devoted to destruction* (Joshua 7:12). | Whoever takes a doomed thing becomes *cherem* with it: after Achan takes from the spoil of Jericho, God says of Israel, *they themselves are now doomed* (Joshua 7:12). |
+| Deuteronomy 13:15 | the sword, devoting it to destruction, with all that | the sword, destroying it completely, with all that |
+| Deuteronomy 13:17 | what is devoted to destruction shall cling | what is devoted shall cling |
+| Joshua 6:17 | devoted to the LORD for destruction. Only Rahab | devoted to the LORD. Only Rahab |
+| Joshua 6:18 | for you, keep yourselves from what is devoted to destruction, so that you do not devote it and then take from what is devoted, and make the camp of Israel something devoted to destruction and bring trouble | for you, keep away from what is devoted to the LORD, so that you do not devote it and then take some of it, and make the camp of Israel doomed and bring trouble |
+| Joshua 6:21 | **21** They devoted to destruction all that was in the city, | **21** They destroyed everything in the city, |
+| Joshua 6, note | "devoted to the LORD for destruction"** — *cherem*: | "devoted to the LORD"** — *cherem*: |
+| Joshua 7:1 | broke faith in the matter of what was devoted to destruction. Achan son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of what was devoted, and the anger of the LORD burned against | broke faith over what was devoted to the LORD. Achan son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of what was devoted, and the anger of the LORD burned against |
+| Joshua 7:12 | because they have become devoted to destruction. I will not be with you anymore unless you destroy what is devoted from among you. | because they themselves are now doomed. I will not be with you anymore unless you destroy what is devoted from among you. |
+| Joshua 7, note | and v12, *they have become devoted to destruction*. The warning of 6:18 has come true: *make the camp of Israel something devoted to destruction*. | and v12, *they themselves are now doomed*. The warning of 6:18 has come true: *make the camp of Israel doomed*. |
+| Joshua 7, note | broke faith with what was devoted*. Hosea 2:17 | broke faith over what was devoted to the LORD*. Hosea 2:17 |
+| Joshua 8, note | 13:16 for a town devoted to destruction. *Ai*, *ha-Ai*, | 13:16 for a town burned whole to the LORD. *Ai*, *ha-Ai*, |
+| Joshua 22:20 | break faith in the matter of what was devoted to destruction, and wrath fell | break faith over what was devoted to the LORD, and wrath fell |
+| 1 Samuel 15:3 | Amalek, and devote to destruction all that he | Amalek, and destroy completely all that he |
+| 1 Samuel 15:8 | people he devoted to destruction with the edge | people he destroyed with the edge |
+| 1 Samuel 15:9 | would not devote them to destruction. Everything that was despised and worthless they devoted to destruction. | would not destroy them completely. Everything that was despised and worthless they destroyed. |
+| 1 Samuel 15:15 | rest we have devoted to destruction." | rest we have destroyed completely." |
+| 1 Samuel 15:18 | and said, 'Go, devote to destruction the sinners, | and said, 'Go, completely destroy the sinners, |
+| 1 Samuel 15:20 | Amalek, and I devoted Amalek to destruction. | Amalek, and I destroyed Amalek completely. |
+| 1 Samuel 15:21 | of what was devoted to destruction, to sacrifice | of what was to be destroyed, to sacrifice |
+| 1 Samuel 15, note | - **v3 "devote to destruction"** — *ve-hacharamtem*, the *cherem* of Jericho, where Israel *devoted to destruction all that was in the city, | - **v3 "destroy completely"** — *ve-hacharamtem*, the *cherem* of Jericho, where Israel *destroyed everything in the city, |
+| 1 Kings 20:42 | have let go out of your hand the man I had devoted to destruction, your life shall | have let go the man I had doomed, your life shall |
+| 1 Kings 20, note | "the man I had devoted to destruction"** — *ish chermi*. Saul spared Agag, whom the LORD had devoted to destruction, and lost his | "the man I had doomed"** — *ish chermi*. Saul spared Agag, whom the LORD had doomed, and lost his |
+| 1 Chronicles 2:7 | broke faith in what was devoted to destruction. | broke faith over what was devoted to the LORD. |
+| Isaiah 11, note | Canaan (*They devoted to destruction all that was in the city*, | Canaan (*They destroyed everything in the city*, |
+| Jeremiah 25, note | Jericho, *They devoted to destruction all that was in the city* | Jericho, *They destroyed everything in the city* |
+
 ## *Devote to destruction* (*charam*): the best English for each verse (Andrew, 2026-10-18)
 
 **Request:** Numbers 21:2, *If You will indeed give this people into my hand, I will devote their towns to destruction*: "I don't like the way this reads… It doesn't read naturally." Then: "devote their towns to destruction is also weird." Options for v2: (a) *devote to destruction*; (b) *destroy completely*; (c) *destroy and keep nothing for ourselves*. Andrew: "use c here and go through the rest", each verse on its own, not one word for all.
