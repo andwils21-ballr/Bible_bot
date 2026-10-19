@@ -2,6 +2,161 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 41–45 — rendered 2026-10-19, 12:59 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 41, 42 and 43 are Greek 48, 49 and 50; Hebrew 44 is Greek 51:1–30 and Hebrew 45 is Greek 51:31–35. The Greek is quoted in notes where it reads differently: 41:1, 5, 6, 9; 42:1, 12, 20; 43:10, 12, 13; 44:25, 30; 45:4. Verse counts match the Hebrew in all five chapters. These five chapters finish the story of the fall and its aftermath; the oracles against the nations begin at 46.
+
+**Kept formulas:**
+- *va-yehi*: 41:1 *And it came to pass in the seventh month that Ishmael… came* (a new time, as 2 Kings 25:25 has it); 41:4 *And it came to pass on the day after Gedaliah was killed… that eighty men came* (the next day); 42:7 *And it came to pass at the end of ten days that the word of the LORD came* (a count of days; the second *va-yehi* is the *that*, as at 36:1); 43:1 *And it came to pass, when Jeremiah had finished speaking… that Azariah… said* (a chapter's first verse). Cut: 41:6 *When he met them*; 41:7 *When they had entered the city*; 41:13 *When all the people… saw*; 43:8 *Then the word of the LORD came*.
+- *ve-hayah* + a noun stays plain: 42:4 *whatever word the LORD answers you*; 42:16 *the sword… will overtake you*; 42:17 *All the men… will die*.
+- *ve-attah*: 42:15 cut (*ve-attah lakhen* stands where the *then* of an if-sentence already carries the turn); 42:22 *So now* (the consequence of v21); 44:7 *So now* (the consequence of vv2–6). In 45:5 *ve-attah* is the pronoun, "and you": *As for you*.
+- *hinneh*: cut at 44:2 and 45:4. God's *hineni* + participle: 43:10 *I am about to send for*; 44:11 *I am about to set My face*; 44:30 *I am about to give*; 45:5 *I am about to bring*; 44:27 *hineni shoqed*, *I will watch over them* (the spec's *I will…*; the note gives 1:12, *I am watching over My word*). 44:26 *hineni nishba'ti*, with a finished verb: *I have sworn*. A man's: 42:4 *hineni mitpallel*, *I will pray*.
+- No stated *anokhi* / *ani* with a finished verb from God. 44:29 *poqed ani* and 45:4 *ani hores… ani notesh* are participles and stay plain.
+- *This is what the LORD says*: 42:9 (*the One to whom you sent me*), 15, 18; 43:10; 44:2, 7, 11, 25, 30; 45:2, 4.
+- Doubled verbs made plain: 42:15 *som tesimun*; 42:19, 22 *yado'a ted'u* (*know for certain*); 44:17, 25 *asoh na'aseh*; 44:25 *haqem taqimnah… asoh ta'asenah*; 44:29 *qom yaqumu*.
+- *Gur* is *live as guests* throughout (42:15, 17, 22; 43:2, 5; 44:8, 12, 14, 28); *to'evah* is *detestable* (44:4, 22); *sarim* are *princes* (44:17, 21), and *sarei ha-chayalim* are *the commanders of the forces*.
+- Matched to this project's English: 2 Kings 25:25 (41:1); 37:20 and 38:26 *plea* (42:2, 9); 24:6 *build… overthrow… plant… uproot* (42:10; 45:4); 1:8 (42:11); 1 Kings 8:50 *compassion* (42:12); 4:5, 19 *the ram's horn* (42:14); 38:19 *anxious* (42:16); 2:16 *Memphis* (44:1); 15:2 (43:11); 25:9 *I am about to send for… My servant* (43:10); Deuteronomy 7:5 *shatter… standing stones* (43:13); 19:4 (44:3); 26:19 *great disaster on ourselves* (44:7); 1 Samuel 15:3 *child and infant* (44:7); 26:4 *My law* (44:10, 23); 21:10 *for harm and not for good* (44:11, 27); 22:27 *long to return* (44:14); 7:18 *the queen of heaven… pour out drink offerings* (44:17–19); Numbers 30 *everything that has come out of his mouth*, *stand*, *let stand* (44:17, 25, 28–29); 25:18 *a ruin, a horror… and a curse* (44:22); 4:4 *the evil of your deeds* (44:22); 4:31 *Woe is me* (45:3); Psalm 6:6 *I am weary with my sighing* (45:3); 21:9 *life as plunder* (45:5).
+- *Alah* and *qelalah* stand side by side in 42:18 and 44:12. *Qelalah* keeps *curse*, as at 24:9, 25:18 and in 44:8, 22; *alah*, the curse spoken in an oath (Numbers 5:21), is *a name to curse by*.
+- No sentence starts with *And* but the four kept formulas.
+
+**Read forms followed:**
+- 41:17 *Kimham* (written *Kemoham*): the read form gives the name Chimham, and the note works from it.
+- No note, because the meaning is the same: 42:6 *anachnu* (written *anu*); 42:20 *hit'eitem* (a spelling); 43:10 *shafriro* (written *shafruro*); 43:11 *u-va* (written *u-va'ah*).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 41:45; Exodus 14:2, 16:3; Leviticus 13:45; Numbers 30:2, 30:7, 30:9; Deuteronomy 4:27, 14:1, 17:16, 28:62, 28:68; 1 Samuel 6:9, 28:14; 2 Samuel 2:13–16, 12:31, 19:37–40; 1 Kings 2:23, 8:50, 15:22; 2 Kings 23:34, 25:25; Psalms 6:6, 41:9, 104:2; Isaiah 11:11.
+- Jeremiah 1:8, 1:10, 1:11–12, 2:16, 4:2, 7:12, 7:18, 7:31, 13:4–5, 15:2, 15:10, 16:6, 16:14–15, 17:26, 18:8, 20:18, 21:9, 22:12, 24:6, 25:9, 26:3, 26:19, 27:6, 31:28, 33:3, 36:1–4, 38:2, 38:6, 38:22, 39:5–7, 39:18, 40:14–16.
+- Cited without quoting: Nahum 3:14.
+- Earlier notes that cite these chapters agree with the text: Jeremiah 14's (44:13, the sword, famine and pestilence), 21's (45:5, life as plunder), 25's (43:10, *My servant*), and 2 Kings 22's (44:22, *le-shammah ve-liqlalah*).
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *va-yehi*, *ve-hayah* and *ve-attah* in chapters 41–45, and every written form that differs from its read form.
+  - 41:9 *be-yad Gedalyahu*; 41:17 *Gerut*, of *gur*; 42:10 *nichamti* against 18:8 and 26:3; 42:20 *be-nafshoteikhem* against 17:21, 1 Kings 2:23 and Proverbs 7:23; 43:9 *melet* (only here) and *malben* (2 Samuel 12:31; Nahum 3:14); 43:9 *taman* against 13:5; 43:10 *shafrir* (only here); 43:12 *'atah* in Leviticus 13:45, 1 Samuel 28:14, Psalms 84:6, 104:2 and 109:19; 44:12, 18, 27 *tamam*; 44:25, 28, 29 *qum*; 45:3 against Psalm 6:6.
+- Swete's Greek: Jeremiah 48:1–18 (Hebrew 41), 49:1–22 (Hebrew 42), 50:1–13 (Hebrew 43), 51:1–30 (Hebrew 44), 51:31–35 (Hebrew 45).
+
+**The checker** found no errors in these chapters. Its one CHECK on them, 41:7 *When they came into the city*, is fixed (*When they had entered the city*). Its two other CHECKs are chapters 8 and 9, the known chapter-break offsets.
+
+**What these chapters are:**
+- **41:** Ishmael, of the royal line, eats with Gedaliah and kills him; the next day he slaughters pilgrims bound for the burned temple and fills Asa's cistern; Johanan wins back the captives at Gibeon, and the remnant, afraid of Babylon, starts for Egypt.
+- **42:** the remnant asks Jeremiah to pray and swears to obey whatever comes; after ten days the answer is: stay, and the LORD will build you up; go to Egypt, and the sword will follow you there.
+- **43:** they call the word a lie and blame Baruch; all of them, with Jeremiah and Baruch, go down to Tahpanhes; Jeremiah buries stones at Pharaoh's door, where Nebuchadnezzar's throne will stand.
+- **44:** the last word to the Jews in Egypt; the men and women answer that the disaster came when they stopped serving the queen of heaven; the LORD tells them to keep their vows, and swears His name will no longer be on their lips.
+- **45:** a word from the year of the first scroll: Baruch is not to seek great things, but his life will be given him.
+
+### Jeremiah 41: The Murder at Mizpah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi-zera ha-melukhah ve-rabbei ha-melekh* "of the seed of the kingship and the chiefs of the king" | of the royal seed and one of the king's chief officers |
+| 3 | *et anshei ha-milchamah* | the men of war |
+| 4 | *le-hamit et Gedalyahu* "of the killing of Gedaliah" | after Gedaliah was killed |
+| 5 | *mitgodedim* | their bodies gashed (Deuteronomy 14:1; note) |
+| 6 | *holekh halokh u-vokheh* "going, going and weeping" | weeping as he went (note) |
+| 7 | *va-yishchatem… el tokh ha-bor* "slaughtered them into the cistern" | slaughtered them and threw them into the cistern |
+| 8 | *matmonim* | stores hidden |
+| 8 | *va-yechdal* | he held back |
+| 9 | *be-yad Gedalyahu* "by the hand of Gedaliah" | ***KEPT AS IS*** because of Gedaliah (note; choice below) |
+| 9 | *chalalim* | the slain |
+| 12 | *mayim rabbim* | the great waters (2 Samuel 2:13; note) |
+| 16 | *asher heshiv me-et Yishma'el* "whom he had brought back from Ishmael" | whom he had won back from Ishmael |
+| 16 | *gevarim anshei ha-milchamah* "strong men, men of war" | the fighting men |
+| 17 | *be-Gerut Kimham* | at Geruth Chimham (note) |
+| 17 | *lalekhet lavo Mitsrayim* "to go to come to Egypt" | on their way into Egypt |
+
+### Jeremiah 42: Do Not Go to Egypt
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tippol na techinnatenu lefaneikha* | Please let our plea come before you (37:20) |
+| 2 | *nish'arnu me'at me-harbeh* | we are left, a few out of many (Deuteronomy 28:62; note) |
+| 4 | *lo emna mikkem davar* "I will not withhold a word from you" | I will hold nothing back from you |
+| 5 | *yehi YHWH banu le-ed* "may the LORD be against us for a witness" | May the LORD be… a witness against us |
+| 9 | *le-happil techinnatkhem lefanav* | to bring your plea before Him (38:26) |
+| 10 | *shov teshvu* "if staying you will stay" | If you will indeed stay |
+| 10 | *nichamti el ha-ra'ah* | I relent of the disaster (18:8; 26:3; note) |
+| 12 | *ve-etten lakhem rachamim ve-richam etkhem* | I will grant you compassion, so that he will have compassion on you (1 Kings 8:50; note) |
+| 14 | *qol shofar* | the sound of the ram's horn (4:5, 19) |
+| 15 | *ve-attah lakhen* "and now, therefore" | then |
+| 15 | *som tesimun peneikhem* "if setting you set your faces" | If you set your faces (also v17) |
+| 16 | *do'agim* | anxious about (38:19) |
+| 16 | *yidbaq achareikhem* "will cling after you" | will follow close behind you |
+| 17 | *sarid u-falit* | survive or escape |
+| 18 | *le-alah u-le-shammah ve-li-qlalah u-le-cherpah* | a name to curse by, a horror, a curse and a reproach (also 44:12) |
+| 19 | *ha'idoti vakhem* "I have testified against you" | I have warned you |
+| 20 | *hit'eitem be-nafshoteikhem* "you have gone astray with your lives" | you have gone astray at the cost of your lives (1 Kings 2:23; note; choice below) |
+
+### Jeremiah 43: Into Egypt
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ha-zedim* | the arrogant (note) |
+| 2 | *sheqer attah medabber* | You are telling a lie! (40:16; note) |
+| 3 | *massit otkha banu* | is inciting you against us (38:22; note) |
+| 5 | *la-gur be-erets Yehudah* | to live as guests in the land of Judah (note) |
+| 7 | *va-yavo'u… va-yavo'u ad* "they came… they came as far as" | They went into… they arrived at (spec, *come into*) |
+| 9 | *ba-melet ba-malben* | ***KEPT AS IS*** in the mortar of the brickwork (rare words; note) |
+| 9 | *le-einei anashim Yehudim* | in the sight of the men of Judah |
+| 10 | *hineni sholeach ve-laqachti* "I am sending and I will take" | I am about to send for (25:9) |
+| 10 | *shafriro* | his royal canopy (found only here; note) |
+| 11 | *asher la-mavet la-mavet* | those who are for death, to death (15:2) |
+| 12 | *ve-atah… ka'asher ya'teh ha-ro'eh et bigdo* | He will wrap himself… as a shepherd wraps himself in his garment (Psalm 104:2; note; choice below) |
+| 12 | *ve-yatsa misham be-shalom* | he will go out from there in peace |
+| 13 | *matsevot Beit Shemesh* | the standing stones of Beth-shemesh (Deuteronomy 7:5; note) |
+
+### Jeremiah 44: The Queen of Heaven
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Nof* | Memphis (2:16) |
+| 2 | *attem re'item* | You yourselves have seen |
+| 4 | *hashkem ve-shalo'ach* "rising early and sending" | again and again (35:15) |
+| 7 | *osim ra'ah gedolah el nafshotekhem* "doing great evil to your souls" | bringing great disaster on yourselves (26:19; note) |
+| 7 | *olel ve-yoneq* | child and infant (1 Samuel 15:3) |
+| 8 | *asher attem ba'im la-gur sham* "where you are coming to live as guests" | where you have gone to live as guests |
+| 9 | *nashav* "his wives" | their wives |
+| 10 | *lo dukke'u* "they have not been crushed" | They have not been humbled |
+| 12 | *ve-tammu… yittammu* | they will come to an end (also vv18, 27; note) |
+| 14 | *menass'im et nafsham* "lifting up their soul" | they long (22:27) |
+| 17 | *asoh na'aseh et kol ha-davar asher yatsa mi-pinu* | We will do everything that has come out of our mouth (Numbers 30:2; note) |
+| 17 | *va-nisba lechem* | we had our fill of bread |
+| 19 | *kavvanim le-ha'atsivah* "cakes to image her" | cakes for her in her image |
+| 21 | *va-ta'aleh al libbo* "and it went up on His heart" | Did it not come into His mind? (7:31; note) |
+| 25 | *haqem taqimnah… ve-asoh ta'asenah* "establishing, establish… and doing, do" | let your vows stand, and perform your vows (Numbers 30:13–14; note) |
+| 26 | *im yihyeh od shemi niqra* "if My name will again be called" | My name will no longer be invoked |
+| 27 | *hineni shoqed* | I will watch over (1:12; 31:28; note) |
+| 28 | *metei mispar* "men of number" | few in number (Deuteronomy 4:27; note) |
+| 29 | *qom yaqumu* | will stand (note) |
+
+### Jeremiah 45: A Word to Baruch
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *al sefer mi-pi Yirmeyahu* | in a book at Jeremiah's dictation (36:4, 18) |
+| 3 | *yagon al makh'ovi* | sorrow to my pain (20:18; 30:15) |
+| 3 | *yaga'ti be-anchati* | I am weary with my sighing (Psalm 6:6; note) |
+| 4 | *ve-et kol ha-arets hi* "and the whole land, it" | that is, the whole land |
+| 5 | *ve-attah* | As for you |
+| 5 | *gedolot* | great things (33:3; note) |
+
+**Left standing on purpose:**
+- 41:9, *because of Gedaliah*: the Hebrew *by the hand of Gedaliah* cannot be taken at its face, since Gedaliah was dead the day before.
+- 43:9, *in the mortar of the brickwork*: *melet* is found only here, and *malben* elsewhere is the brick mold or kiln.
+
+**Choices for you:**
+- **41:9, *be-yad Gedalyahu***
+  - (a) **all the corpses of the men he had struck down because of Gedaliah** (now): *be-yad*, "by the hand of," read as "on account of": the pilgrims die for the murder that was still hidden (v4).
+  - (b) **The cistern into which Ishmael threw all the corpses of the men he had struck down was a great cistern, the one King Asa had made**: the Greek, *it is a great cistern*, in place of *by the hand of Gedaliah*.
+  - Recommend (a): it keeps the Hebrew, and the context does not need the Greek; the note gives both.
+- **42:20, *hit'eitem be-nafshoteikhem***
+  - (a) **For you have gone astray at the cost of your lives** (now): *be-nafsho* as in Adonijah's *at the cost of his own life* (1 Kings 2:23) and *it will cost him his life* (Proverbs 7:23). Verse 22 then names the cost: *you will die by the sword*.
+  - (b) **For you have deceived yourselves**: *nefesh* as the self; they deceived themselves when they swore to obey (vv5–6).
+  - Recommend (a): this project reads the same phrase that way in 1 Kings and Proverbs, and the chapter ends on the price.
+- **43:12, *ve-atah et erets Mitsrayim***
+  - (a) **He will wrap himself in the land of Egypt as a shepherd wraps himself in his garment** (now): *'atah*, "wrap," the conqueror putting on Egypt as easily as a shepherd his cloak.
+  - (b) **He will pick the land of Egypt clean as a shepherd picks the lice from his garment**: the Greek, *φθειριεῖ*; Egypt stripped as thoroughly as a cloak picked clean.
+  - Recommend (a): *wrap* is the sense of the verb in Leviticus 13:45, 1 Samuel 28:14 and Psalms 104:2 and 109:19 (*like a garment he wraps around himself*); (b) rests on the Greek alone.
+
 ## Jeremiah 37–40 — rendered 2026-10-19, 8:02 AM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 37, 38, 39 and 40 are Greek 44, 45, 46 and 47; Greek 46 has nothing of Hebrew 39:4–13. The Greek is quoted in notes where it reads differently: 37:1, 12; 38:1, 9, 23, 27, 28; 39:1, 3, 4–13; 40:5, 7–9. Verse counts match the Hebrew in all four chapters.
