@@ -2,6 +2,128 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 33–36 — rendered 2026-10-18, 10:53 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 33, 34, 35 and 36 are Greek 40, 41, 42 and 43; Greek 40 has 13 verses and nothing of Hebrew 33:14–26. The Greek is quoted in notes where it reads differently: 33:2, 14–26; 34:14; 35:11; 36:9, 25, 26. Verse counts match the Hebrew in all four chapters. The first run under Andrew's ruling of 2026-10-18: *This is what the LORD says* throughout (33:2, *This is what the LORD says, the One who made it*).
+
+**Kept formulas:**
+- *va-yehi*: 36:1 *And it came to pass in the fourth year of Jehoiakim… that this word came* (a chapter's opening, with a date); 36:9 *And it came to pass in the fifth year… in the ninth month, that… they proclaimed a fast* (a new time). Cut: 33:1, 19, 23; 34:12; 35:12; 36:27 *the word of the LORD came*; 35:11 inside speech (*But when Nebuchadnezzar… came up*); 36:16, 23 inside the scene.
+- No *ve-hayah* formula and no *ve-attah* in these chapters. No other sentence starts with *And*.
+- *hinneh*: 36:12 cut. 33:14 *Days are coming*. God's *hineni* + participle: 33:6 *I am about to bring*; 34:2 *I am about to give*; 34:17 *I am about to proclaim*; 34:22 *I am about to give the command*; 35:17 *I am about to bring*.
+- A stated *anokhi* / *ani* with a finished verb is *I Myself*: 34:5 *For I Myself have spoken the word*; 34:13 *I Myself made a covenant*; 35:14 *But I Myself have spoken to you*.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 33:8 *le-khol*; 33:26 *ashiv* (written *ashuv*); 34:11 *va-yikhbeshum*; 34:17 *le-za'avah*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 8:22, 15:10, 15:17, 17:5, 22:17; Exodus 20:12; Leviticus 25:10, 27:32; Deuteronomy 1:28, 10:8, 15:1, 15:12; Judges 1:16; 1 Kings 2:4, 17:1; 2 Kings 10:15–23, 22:8–11, 24:2, 24:8, 25:7; 1 Chronicles 2:55; 2 Chronicles 11:9, 16:14; Psalms 40:7, 136:1; Isaiah 22:10, 48:6, 61:1.
+- Not yet rendered here, so quoted from the source: Jeremiah 37:5, 37:11, 46:2; Hosea 3:5 (Hebrew).
+- Earlier notes that quote these chapters match the text as rendered: 2 Kings 10's (35:6), 2 Chronicles 16's (34:5). Psalm 148's cites 33:25 without quoting.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *va-yehi* and *ve-attah* in chapters 33–36, and every written form that differs from its read form.
+  - 33:3 *gedolot u-vetsurot* against Deuteronomy 1:28 and Isaiah 48:6 *netsurot*; 33:9 against 13:11 and Hosea 3:5; 33:14–16 against 23:5–6; 34:14 against Deuteronomy 15:1, 12; 34:18–19 *beter* (only here and Genesis 15:10); 34:18 *natatti* with two objects, as Genesis 17:5; 34:21 against 37:5, 11; 36: *mi-pi* six times (vv4, 6, 17, 18, 27, 32).
+- Swete's Greek: Jeremiah 40:1–13 (Hebrew 33:1–13), 41:1–22 (Hebrew 34), 42:1–19 (Hebrew 35), 43:1–32 (Hebrew 36).
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **33:** still in prison, Jeremiah hears of healing for the ruined city: the voices of bride and bridegroom return; the Branch of righteousness, and Jerusalem named *The LORD Is Our Righteousness*; David's line and the Levites as sure as day and night.
+- **34:** Zedekiah told he will see the king of Babylon and die in peace; Jerusalem frees its Hebrew slaves under siege, then takes them back, and the LORD "frees" the city to the sword; the calf cut in two.
+- **35:** the Rechabites refuse wine for their father's sake, and Judah will not listen to its God.
+- **36:** Baruch writes Jeremiah's words on a scroll and reads it at the temple; the king cuts it up and burns it; the scroll is written again, with more.
+
+### Jeremiah 33: Great and Inaccessible Things
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *oseh-ah… yotser otah* "its Maker… who forms it" | the One who made it… who formed it (18:4–6; note) |
+| 3 | *gedolot u-vetsurot* "great and fortified things" | great and inaccessible things (Deuteronomy 1:28; note) |
+| 4 | *ha-netutsim el ha-solelot ve-el ha-charev* "torn down to the siege ramps and to the sword" | ***KEPT AS IS*** torn down to hold off the siege ramps and the sword (the Hebrew is broken; note) |
+| 5 | *ba'im lehillachem et ha-Kasdim u-le-mal'am* "coming to fight the Chaldeans and to fill them" | Men come to fight against the Chaldeans, only to fill those houses (note) |
+| 6 | *arukhah* | new flesh (8:22; 30:17; note) |
+| 6 | *ateret shalom ve-emet* | an abundance of peace and truth |
+| 9 | *le-shem sason li-tehillah u-le-tif'aret* | a name of joy, a praise and a glory (13:11; note) |
+| 11 | *hodu… ki le-olam chasdo* | Give thanks… for His loyal love endures forever (Psalm 136:1) |
+| 12 | *neveh ro'im marbitsim tson* | pastures where shepherds rest their flocks |
+| 13 | *al yedei moneh* | under the hands of the one who counts them (Leviticus 27:32; note) |
+| 14 | *va-haqimoti et ha-davar ha-tov* | I will fulfill the good word (29:10) |
+| 15 | *atsmiach… tsemach tsedaqah* | I will make a Branch of righteousness sprout (23:5; note) |
+| 16 | *ve-zeh asher yiqra lah* | this is the name by which she will be called (23:6) |
+| 17 | *lo yikkaret le-David ish* "there shall not be cut off for David a man" | David will never lack a man (1 Kings 2:4) |
+| 25 | *chuqqot* | the fixed order (31:35) |
+
+### Jeremiah 34: Liberty Proclaimed and Taken Back
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *memshelet yado* "the dominion of his hand" | under his rule |
+| 3 | *tafos titafes* "seized you will be seized" | will surely be captured |
+| 3 | *u-fihu et pikha yedabber* | he will speak with you mouth to mouth (32:4) |
+| 5 | *u-khe-misrefot avoteikha… ken yisrefu lakh* "and like the burnings of your fathers… so they will burn for you" | as they burned for your fathers… so they will burn for you (2 Chronicles 16:14; note) |
+| 5 | *ki davar ani dibbarti* | For I Myself have spoken the word |
+| 8 | *liqro lahem deror* | to proclaim liberty to them (Leviticus 25:10; note) |
+| 9 | *le-vilti avad bam bi-Yehudi achihu ish* "so that no one serve himself of them, of a Jew his brother" | so that no one should keep a fellow Jew in servitude |
+| 10 | *ba'u va-berit* | had entered into the covenant |
+| 13 | *anokhi karatti* | I Myself made |
+| 14 | *miqqets sheva shanim* | At the end of seven years (Deuteronomy 15:1; note) |
+| 16 | *chofshim le-nafsham* "free for their soul" | free to go where they wished |
+| 17 | *hineni qore lakhem deror* | I am about to proclaim liberty for you (note) |
+| 18 | *ve-natatti et ha-anashim… ha-egel* "I will make the men… the calf" | I will make the men… like the calf (Genesis 17:5; note; choice below) |
+| 18 | *ha-overim et beriti* | who transgressed My covenant (note) |
+| 18 | *bein betarav* | between its halves (Genesis 15:10; note) |
+| 20 | *nivlatam le-ma'akhal* | their corpses will be food (16:4) |
+| 21 | *ha-olim me-aleikhem* "who are going up from you" | which has withdrawn from you (37:5; note) |
+
+### Jeremiah 35: The Rechabites
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *shomer ha-saf* | the keeper of the threshold |
+| 5 | *gevi'im* | bowls |
+| 7 | *asher attem garim sham* | where you live as guests |
+| 7 | *le-ma'an tichyu yamim rabbim* | so that you may live many days (Exodus 20:12; note) |
+| 11 | *mippenei cheil* "from before the army" | away from the army |
+| 13 | *tiqchu musar* | take correction (17:23) |
+| 14 | *huqam et divrei* "the words… have been established" | The words… have been kept |
+| 14 | *ve-anokhi dibbarti* | But I Myself have spoken |
+| 14 | *hashkem ve-dabber* | again and again (note) |
+| 15 | *shuvu na… ve-heitivu ma'alleleikhem* | Turn now… and amend your deeds (25:5; note) |
+| 19 | *lo yikkaret ish… omed lefanai* | will never lack a man to stand before Me (33:17–18; note) |
+
+### Jeremiah 36: The Scroll Burned and Written Again
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *megillat sefer* "a scroll of a book" | a scroll (Psalm 40:7; note) |
+| 4 | *mi-pi Yirmeyahu* "from Jeremiah's mouth" | at Jeremiah's dictation (note) |
+| 5 | *ani atsur* | I am barred |
+| 7 | *tippol techinnatam* "their plea will fall" | their plea will come before the LORD |
+| 10 | *ha-sofer* | the scribe (also vv12, 20, 21, 26, 32; *ta'ar ha-sofer*, the scribe's knife, v23) |
+| 16 | *pachadu ish el re'ehu* | they turned to one another in fear (note) |
+| 16 | *haggeid naggid* | We must surely tell |
+| 18 | *mi-piv yiqra elai* "from his mouth he called to me" | He dictated… to me |
+| 18 | *ba-deyo* | with ink |
+| 20 | *hifqidu* | having left |
+| 22 | *ha-ach* | the brazier |
+| 23 | *delatot* "doors" | columns |
+| 23 | *yiqra'eha* "he would tear it" | the king would cut them off (note) |
+| 25 | *hifgi'u* | pleaded (note) |
+| 26 | *va-yastirem YHWH* | but the LORD hid them (note) |
+| 29 | *bo yavo* "coming he will come" | will surely come |
+| 30 | *nivlato* | his dead body (22:19; note) |
+| 32 | *ve-od nosaf aleihem devarim rabbim ka-hemmah* | and many similar words were added to them (note) |
+
+**Left standing on purpose:**
+- 33:4–5, *torn down to hold off the siege ramps and the sword… only to fill those houses*: the Hebrew sentence is broken; the English follows its sense.
+
+**Choices for you:**
+- **34:18, *ve-natatti et ha-anashim… ha-egel***
+  - (a) **I will make the men who transgressed My covenant… like the calf that they cut in two** (now): *ve-natatti* takes two objects, *the men* and *the calf*, as in *father of a roar of nations I have made you* (Genesis 17:5). The men are made what the calf was made: cut in two.
+  - (b) **The men who transgressed My covenant… the calf that they cut in two… I will give them into the hand of their enemies**: *the calf* names the covenant they made, and the sentence waits for v20, which takes up *I will give* again.
+  - Recommend (a): it uses both of the Hebrew's verbs *natatti* (vv18, 20) and finishes v18 as a sentence; the note shows the grammar. (b) is also a fair reading of a long sentence.
+
 ## Jeremiah 29–32 — rendered 2026-10-18, 6:00 PM CDT
 
 **Source:** Hebrew (WLC) throughout. One place follows another reading, with a note naming the witness and quoting the Hebrew: 32:12 *Hanamel my uncle's son* (the Greek, as vv7–9 have it; the Hebrew there has *my uncle*). In Swete, Hebrew 29, 30, 31 and 32 are Greek 36, 37, 38 and 39. The Greek is quoted in notes where it reads differently: 29:7, 8, 11, 14, 16–20; 30:10–11; 31:2, 8, 22, 32, 35–37; 32:12, 39. Verse counts match the Hebrew in all four chapters.
