@@ -37,7 +37,8 @@ BANNED = ["lest", "behold", "unto", "thee", "thou", "thy", "thine", "ye",
           "verily", "wherefore", "whence", "thence", "hither", "thither",
           "peradventure", "nay", "yea", "ere", "betwixt", "amongst", "whilst",
           "hearken", "hearkened", "bade", "wrought", "albeit"]
-BANNED_PHRASES = [r"\bin the midst of\b", r"\bart thou\b", r"\bthou art\b"]
+BANNED_PHRASES = [r"\bin the midst of\b", r"\bart thou\b", r"\bthou art\b",
+                  r"\bthus (says|said|declares)\b"]  # spec, "Already ruled"
 
 # Openings with "And" that the spec keeps.
 AND_KEPT = re.compile(r"And (it came to pass|it shall come to pass|it will come to pass"
@@ -76,6 +77,8 @@ PROCESS_SOFT = re.compile(r"\b(fixed term|this project|the project's|the spec|ch
                           r"|I (render|kept))\b", re.I)
 # Leads in the text that a reader has to judge (spec, "No And" and "Already ruled").
 LEADS = [
+    (re.compile(r"\b[Tt]hus\b"), "plain English for *koh* / *ken*: *this is what*, *like this*, *so* "
+     "(spec, \"Already ruled\")"),
     (re.compile(r"\bNow then\b"), "never for *ve-attah*: *So*, *So now*, *But now*, *Now*, "
      "or cut it (spec, \"No And\")"),
     (re.compile(r"\b(come|comes|came|coming) into\b(?! being)(?! (?i:his|her|their|your|my|our) "

@@ -2,6 +2,268 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *Thus says the LORD* → *This is what the LORD says*, in every rendered book (Andrew, 2026-10-18)
+
+**Request:** after the people's messages became *A message from…*, Andrew asked why 2 Kings 18:19, 19:3 and 19:6 had to keep *Thus says*: "as long as they all echo the same, why does it matter… The word Thus more than anything is just not natural." He was right that the echo needs only the same words in all three. The third is the LORD's, so the question was the LORD's own formula, about 200 times so far and about 470 times in the Hebrew Bible.
+
+**Options:** (a) *Thus says the LORD*, as it was; (b) *A message from the LORD:*, which does not work in the middle of a sentence (*Therefore a message from the LORD*); (c) *This is what the LORD says:*, which works wherever it stands. Andrew: "Use c everywhere."
+
+**What was done:**
+- **The formula, everywhere:** *This is what the LORD says:* (*Therefore this is what…*, *for this is what…*). A title stays before *says* (*This is what the LORD of hosts, the God of Israel, says:*). Where *who…* clauses follow, *says* comes first, and *the One who* leads the clauses (*This is what the LORD says, / the One who created you, Jacob*, Isaiah 43:1).
+- ***koh amar YHWH elai***: *This is what the LORD said to me*.
+- **The king of Assyria, and Hezekiah in the same story** (2 Kings 18–19; Isaiah 36–37; 2 Chronicles 32:10), and **Judith 2:5** (Nebuchadnezzar): the same form, so the LORD's answer still echoes them.
+- **Every other *thus* of speech** (*koh*): *This is what… said*, *such and such*.
+- **The other *thus* words:** *So* (2 Kings 10:28), *Therefore* (Job 34:25) and *like this* (Jeremiah 14:10).
+- **Notes** that quote these verses were changed with them.
+- **The rule** is in `RENDERING_SPEC.md`, "Already ruled", and `check_chapters.py` now stops any *thus says*.
+
+**Left as it is:** Job 19:26, *After my skin has been thus torn away*. *Zot* there is part of a famous difficulty, and the word stays as the reader knows it. Numbers 20's note keeps *koh amar*, "thus says," as the literal gloss of the Hebrew.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 24:30 | sister, saying, "Thus the man spoke to me" — that | sister, saying, "This is what the man said to me" — that |
+| Joshua 7:13 | tomorrow, for thus says the LORD, the God of Israel: There is something | tomorrow, for this is what the LORD, the God of Israel, says: There is something |
+| Joshua 24:2 | the people, "Thus says the LORD, the God of Israel: 'Long ago your | the people, "This is what the LORD, the God of Israel, says: 'Long ago your |
+| Judges 6:8 | to them, "Thus says the LORD, the God of Israel: 'I brought | to them, "This is what the LORD, the God of Israel, says: 'I brought |
+| 1 Samuel 2:27 | said to him, "Thus says the LORD: 'Did I not | said to him, "This is what the LORD says: 'Did I not |
+| 1 Samuel 10:18 | of Israel, "Thus says the LORD, the God of Israel: 'I brought | of Israel, "This is what the LORD, the God of Israel, says: 'I brought |
+| 1 Samuel 15:2 | **2** Thus says the LORD of hosts: 'I have taken | **2** This is what the LORD of hosts says: 'I have taken |
+| 2 Samuel 7:5 | servant David, 'Thus says the LORD: Will you build | servant David, 'This is what the LORD says: Will you build |
+| 2 Samuel 7:8 | servant David: 'Thus says the LORD of hosts: I took you | servant David: 'This is what the LORD of hosts says: I took you |
+| 2 Samuel 12:7 | are the man! Thus says the LORD, the God of Israel: 'I anointed | are the man! This is what the LORD, the God of Israel, says: 'I anointed |
+| 2 Samuel 12:11 | **11** Thus says the LORD: 'I am about | **11** This is what the LORD says: 'I am about |
+| 2 Samuel 24:12 | to David, 'Thus says the LORD: I am laying | to David, 'This is what the LORD says: I am laying |
+| 1 Kings 2:30 | king, saying, "Thus Joab spoke, and thus he answered | king, saying, "This is what Joab said, and this is how he answered |
+| 1 Kings 11:31 | pieces, for thus says the LORD, the God of Israel: 'I am about | pieces, for this is what the LORD, the God of Israel, says: 'I am about |
+| 1 Kings 12:10 | said to him, "Thus shall you say to this people who said to you, 'Your father made our yoke heavy, but you lighten it for us' — thus shall you speak to them: 'My little | said to him, "This is what you shall say to this people who said to you, 'Your father made our yoke heavy, but you lighten it for us' — this is what you shall tell them: 'My little |
+| 1 Kings 12:24 | **24** 'Thus says the LORD: You shall not | **24** 'This is what the LORD says: You shall not |
+| 1 Kings 13:2 | "Altar, altar, thus says the LORD: 'A son shall | "Altar, altar, this is what the LORD says: 'A son shall |
+| 1 Kings 13:21 | from Judah, "Thus says the LORD: 'Because you | from Judah, "This is what the LORD says: 'Because you |
+| 1 Kings 14:5 | he is sick. Thus and thus you shall say to her." When | he is sick. You shall say such and such to her." When |
+| 1 Kings 14:7 | Jeroboam, 'Thus says the LORD, the God of Israel: Because I raised | Jeroboam, 'This is what the LORD, the God of Israel, says: Because I raised |
+| 1 Kings 17:14 | **14** For thus says the LORD, the God of Israel: 'The jar of | **14** For this is what the LORD, the God of Israel, says: 'The jar of |
+| 1 Kings 20:13 | and said, "Thus says the LORD: 'Have you seen | and said, "This is what the LORD says: 'Have you seen |
+| 1 Kings 20:14 | He said, "Thus says the LORD: 'By the young | He said, "This is what the LORD says: 'By the young |
+| 1 Kings 20:28 | of Israel, "Thus says the LORD: 'Because the | of Israel, "This is what the LORD says: 'Because the |
+| 1 Kings 20:42 | said to him, "Thus says the LORD: 'Because you | said to him, "This is what the LORD says: 'Because you |
+| 1 Kings 21:19 | him, saying, 'Thus says the LORD: Have you murdered and also taken possession?' Then you shall speak to him, saying, 'Thus says the LORD: In the place | him, saying, 'This is what the LORD says: Have you murdered and also taken possession?' Then you shall speak to him, saying, 'This is what the LORD says: In the place |
+| 1 Kings 22:11 | and said, "Thus says the LORD: 'With these | and said, "This is what the LORD says: 'With these |
+| 2 Kings 1:4 | therefore thus says the LORD: You shall not | therefore this is what the LORD says: You shall not |
+| 2 Kings 1:6 | say to him, "Thus says the LORD: Is it because | say to him, "This is what the LORD says: Is it because |
+| 2 Kings 1:16 | said to him, "Thus says the LORD: 'Because you | said to him, "This is what the LORD says: 'Because you |
+| 2 Kings 2:21 | and said, "Thus says the LORD: 'I have healed | and said, "This is what the LORD says: 'I have healed |
+| 2 Kings 3:16 | He said, "Thus says the LORD: 'Make this | He said, "This is what the LORD says: 'Make this |
+| 2 Kings 3:17 | **17** For thus says the LORD: 'You shall | **17** For this is what the LORD says: 'You shall |
+| 2 Kings 4:43 | may eat, for thus says the LORD: 'They shall | may eat, for this is what the LORD says: 'They shall |
+| 2 Kings 5:4 | his lord, "Thus and thus spoke the girl from the land of Israel." | his lord, "The girl from the land of Israel said such and such." |
+| 2 Kings 7:1 | the LORD. Thus says the LORD: 'About this | the LORD. This is what the LORD says: 'About this |
+| 2 Kings 9:3 | and say, 'Thus says the LORD: I anoint you | and say, 'This is what the LORD says: I anoint you |
+| 2 Kings 9:6 | said to him, "Thus says the LORD, the God of Israel: 'I anoint you | said to him, "This is what the LORD, the God of Israel, says: 'I anoint you |
+| 2 Kings 9:12 | now." He said, "Thus and thus he spoke to me, saying, 'Thus says the LORD: I anoint you | now." He said, "He told me such and such: 'This is what the LORD says: I anoint you |
+| 2 Kings 10:28 | **28** Thus Jehu wiped out | **28** So Jehu wiped out |
+| 2 Kings 18:19 | Hezekiah, 'Thus says the great king, the king of Assyria: What is this | Hezekiah, 'This is what the great king, the king of Assyria, says: What is this |
+| 2 Kings 18:29 | **29** Thus says the king: 'Do not let | **29** This is what the king says: 'Do not let |
+| 2 Kings 18:31 | Hezekiah, for thus says the king of Assyria: Make peace with me and come out to me, and each of you will eat from his own vine and his own fig tree, and each will drink the water of his own cistern, | Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me, and each of you will eat from his own vine and his own fig tree, and each will drink the water of his own cistern, |
+| 2 Kings 19:3 | said to him, "Thus says Hezekiah: 'This day is | said to him, "This is what Hezekiah says: 'This day is |
+| 2 Kings 19:6 | your master: 'Thus says the LORD: Do not be afraid | your master: 'This is what the LORD says: Do not be afraid |
+| 2 Kings 19:20 | Hezekiah, saying, "Thus says the LORD, the God of Israel: What you have | Hezekiah, saying, "This is what the LORD, the God of Israel, says: What you have |
+| 2 Kings 19:32 | "Therefore thus says the LORD concerning the | "Therefore this is what the LORD says concerning the |
+| 2 Kings 20:1 | said to him, "Thus says the LORD: 'Set your house | said to him, "This is what the LORD says: 'Set your house |
+| 2 Kings 20:5 | My people, 'Thus says the LORD, the God of David your father: I have heard | My people, 'This is what the LORD, the God of David your father, says: I have heard |
+| 2 Kings 21:12 | therefore thus says the LORD, the God of Israel: I am about | therefore this is what the LORD, the God of Israel, says: I am about |
+| 2 Kings 22:15 | to them, "Thus says the LORD, the God of Israel: 'Tell the man | to them, "This is what the LORD, the God of Israel, says: 'Tell the man |
+| 2 Kings 22:16 | **16** Thus says the LORD: I am about | **16** This is what the LORD says: I am about |
+| 2 Kings 22:18 | this to him: 'Thus says the LORD, the God of Israel: As for the | this to him: 'This is what the LORD, the God of Israel, says: As for the |
+| 1 Chronicles 17:4 | servant David, 'Thus says the LORD: You shall not | servant David, 'This is what the LORD says: You shall not |
+| 1 Chronicles 17:7 | servant David: 'Thus says the LORD of hosts: I took you | servant David: 'This is what the LORD of hosts says: I took you |
+| 1 Chronicles 21:10 | tell David, 'Thus says the LORD: I am laying | tell David, 'This is what the LORD says: I am laying |
+| 1 Chronicles 21:11 | said to him, "Thus says the LORD: 'Take your | said to him, "This is what the LORD says: 'Take your |
+| 2 Chronicles 10:10 | said to him, "Thus shall you say to the people who said to you, 'Your father made our yoke heavy, but you lighten it for us' — thus shall you say to them: | said to him, "This is what you shall say to the people who said to you, 'Your father made our yoke heavy, but you lighten it for us' — this is what you shall say to them: |
+| 2 Chronicles 11:4 | **4** 'Thus says the LORD: You shall not | **4** 'This is what the LORD says: You shall not |
+| 2 Chronicles 12:5 | to them, "Thus says the LORD: You have forsaken | to them, "This is what the LORD says: You have forsaken |
+| 2 Chronicles 18:10 | and said, "Thus says the LORD: 'With these | and said, "This is what the LORD says: 'With these |
+| 2 Chronicles 20:15 | Jehoshaphat. Thus says the LORD to you: Do not be | Jehoshaphat. This is what the LORD says to you: Do not be |
+| 2 Chronicles 21:12 | prophet, saying, "Thus says the LORD, the God of David your father: Because you | prophet, saying, "This is what the LORD, the God of David your father, says: Because you |
+| 2 Chronicles 24:20 | to them, "Thus says God: Why do you | to them, "This is what God says: Why do you |
+| 2 Chronicles 32:10 | **10** "Thus says Sennacherib king of Assyria: On what are | **10** "This is what Sennacherib king of Assyria says: On what are |
+| 2 Chronicles 34:23 | to them, "Thus says the LORD, the God of Israel: 'Tell the man | to them, "This is what the LORD, the God of Israel, says: 'Tell the man |
+| 2 Chronicles 34:24 | **24** Thus says the LORD: I am about | **24** This is what the LORD says: I am about |
+| 2 Chronicles 34:26 | this to him: 'Thus says the LORD, the God of Israel: As for the | this to him: 'This is what the LORD, the God of Israel, says: As for the |
+| Judith 2:5 | **5** "Thus says the great king, the lord of the whole earth: You shall go | **5** "This is what the great king, the lord of the whole earth, says: You shall go |
+| Judith 2, note | - **v5 "Thus says the great king, the lord of the whole earth"** — the words of the prophets, *Thus says the LORD*, in the mouth of a king who claims the earth. The Rabshakeh spoke so for Sennacherib: *Thus says the great king, the king of Assyria* (2 Kings 18:19). | - **v5 "This is what the great king, the lord of the whole earth, says"** — the words of the prophets, *This is what the LORD says*, in the mouth of a king who claims the earth. The Rabshakeh spoke so for Sennacherib: *This is what the great king, the king of Assyria, says* (2 Kings 18:19). |
+| Judith 6, note | his god: *Thus says… I have spoken* | his god: *This is what the great king… says* (2:5), *I have spoken* |
+| 2 Meqabyan 2:1 | **1** Thus the prophet | **1** This is what the prophet |
+| 2 Meqabyan 3:3 | **3** Thus God said to the prophet in the land of Judah: "Go back to the land of Ramath, to Meqabis the ruler of Moab, and say: Thus says God: It was not | **3** This is what God said to the prophet in the land of Judah: "Go back to the land of Ramath, to Meqabis the ruler of Moab, and say: This is what God says: It was not |
+| 2 Meqabyan 14:6 | are found." Thus the Pharisees | are found." This is what the Pharisees |
+| 2 Meqabyan 14:7 | **7** Thus the Sadducees | **7** This is what the Sadducees |
+| Job 34:25 | **25** Thus, knowing their | **25** Therefore, knowing their |
+| Isaiah 7:7 | **7** thus says the Lord GOD: | **7** this is what the Lord GOD says: |
+| Isaiah 8:11 | **11** For the LORD spoke thus to me, while His hand was strong upon me, and warned me not to walk in the way of this people, saying: | **11** For this is what the LORD said to me, with His hand strong upon me, when He warned me not to walk in the way of this people: |
+| Isaiah 10:24 | Therefore thus says the Lord GOD of hosts: "My people | Therefore this is what the Lord GOD of hosts says: "My people |
+| Isaiah 18:4 | **4** For thus the LORD said | **4** For this is what the LORD said |
+| Isaiah 21:6 | **6** For thus the Lord said | **6** For this is what the Lord said |
+| Isaiah 21:16 | **16** For thus the Lord said | **16** For this is what the Lord said |
+| Isaiah 22:15 | **15** Thus says the Lord GOD of hosts: "Go, come | **15** This is what the Lord GOD of hosts says: "Go, come |
+| Isaiah 28:16 | therefore thus says the Lord GOD: | therefore this is what the Lord GOD says: |
+| Isaiah 29:22 | Therefore thus says the LORD, who redeemed Abraham, concerning the | Therefore this is what the LORD, who redeemed Abraham, says concerning the |
+| Isaiah 30:12 | Therefore thus says the Holy One of Israel: | Therefore this is what the Holy One of Israel says: |
+| Isaiah 30:15 | **15** For thus said the Lord GOD, the Holy One of Israel: | **15** For this is what the Lord GOD, the Holy One of Israel, said: |
+| Isaiah 30, note | Therefore thus says the Holy One of Israel"** — they ask | Therefore this is what the Holy One of Israel says"** — they ask |
+| Isaiah 31:4 | **4** For thus the LORD said | **4** For this is what the LORD said |
+| Isaiah 36:4 | Hezekiah, 'Thus says the great king, the king of Assyria: What is this | Hezekiah, 'This is what the great king, the king of Assyria, says: What is this |
+| Isaiah 36:14 | **14** Thus says the king: 'Do not let | **14** This is what the king says: 'Do not let |
+| Isaiah 36:16 | Hezekiah, for thus says the king of Assyria: Make peace with me and come out to me, and each of you will eat from his own vine and his own fig tree, and each will drink the water of his own cistern, | Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me, and each of you will eat from his own vine and his own fig tree, and each will drink the water of his own cistern, |
+| Isaiah 37:3 | said to him, "Thus says Hezekiah: 'This day is | said to him, "This is what Hezekiah says: 'This day is |
+| Isaiah 37:6 | your master: 'Thus says the LORD: Do not be afraid | your master: 'This is what the LORD says: Do not be afraid |
+| Isaiah 37:21 | Hezekiah, saying, "Thus says the LORD, the God of Israel: Because you | Hezekiah, saying, "This is what the LORD, the God of Israel, says: Because you |
+| Isaiah 37:33 | "Therefore thus says the LORD concerning the | "Therefore this is what the LORD says concerning the |
+| Isaiah 38:1 | said to him, "Thus says the LORD: 'Set your house | said to him, "This is what the LORD says: 'Set your house |
+| Isaiah 38:5 | Hezekiah, 'Thus says the LORD, the God of David your father: I have heard | Hezekiah, 'This is what the LORD, the God of David your father, says: I have heard |
+| Isaiah 42:5 | **5** Thus says God, the LORD, | **5** This is what God, the LORD, says, |
+| Isaiah 42 | who created the | the One who created the |
+| Isaiah 43:1 | **1** But now, thus says the LORD, | **1** But now, this is what the LORD says, |
+| Isaiah 43:14 | **14** Thus says the LORD, | **14** This is what the LORD says, |
+| Isaiah 43:16 | **16** Thus says the LORD, | **16** This is what the LORD says, |
+| Isaiah 43 | who created you, | the One who created you, |
+| Isaiah 43 | who makes a way | the One who makes a way |
+| Isaiah 44:2 | **2** Thus says the LORD who made you, | **2** This is what the LORD says, the One who made you, |
+| Isaiah 44:6 | **6** Thus says the LORD, the King of | **6** This is what the LORD says, the King of |
+| Isaiah 44:24 | **24** Thus says the LORD, your Redeemer, | **24** This is what the LORD says, your Redeemer, |
+| Isaiah 45:1 | **1** Thus says the LORD to His anointed, | **1** This is what the LORD says to His anointed, |
+| Isaiah 45:11 | **11** Thus says the LORD, | **11** This is what the LORD says, |
+| Isaiah 45:14 | **14** Thus says the LORD: | **14** This is what the LORD says: |
+| Isaiah 45:18 | **18** For thus says the LORD, | **18** For this is what the LORD says, |
+| Isaiah 45 | who created the | the One who created the |
+| Isaiah 48:17 | **17** Thus says the LORD, | **17** This is what the LORD says, |
+| Isaiah 49:7 | **7** Thus says the LORD, | **7** This is what the LORD says, |
+| Isaiah 49:8 | **8** Thus says the LORD: | **8** This is what the LORD says: |
+| Isaiah 49:22 | **22** Thus says the Lord GOD: | **22** This is what the Lord GOD says: |
+| Isaiah 49:25 | **25** For thus says the LORD: | **25** For this is what the LORD says: |
+| Isaiah 50:1 | **1** Thus says the LORD: | **1** This is what the LORD says: |
+| Isaiah 51:22 | **22** Thus says your Lord, the LORD, | **22** This is what your Lord, the LORD, says, |
+| Isaiah 52:3 | **3** For thus says the LORD: "You were sold | **3** For this is what the LORD says: "You were sold |
+| Isaiah 52:4 | **4** For thus says the Lord GOD: "My people | **4** For this is what the Lord GOD says: "My people |
+| Isaiah 56:1 | **1** Thus says the LORD: | **1** This is what the LORD says: |
+| Isaiah 56:4 | **4** For thus says the LORD: | **4** For this is what the LORD says: |
+| Isaiah 57:15 | **15** For thus says the One who | **15** For this is what He says, the One who |
+| Isaiah 65:8 | **8** Thus says the LORD: | **8** This is what the LORD says: |
+| Isaiah 65:13 | Therefore thus says the Lord GOD: | Therefore this is what the Lord GOD says: |
+| Isaiah 66:1 | **1** Thus says the LORD: | **1** This is what the LORD says: |
+| Isaiah 66:12 | **12** For thus says the LORD: | **12** For this is what the LORD says: |
+| Jeremiah 2:2 | Jerusalem: Thus says the LORD: | Jerusalem: This is what the LORD says: |
+| Jeremiah 2:5 | **5** Thus says the LORD: | **5** This is what the LORD says: |
+| Jeremiah 4:3 | **3** For thus says the LORD to the men of | **3** For this is what the LORD says to the men of |
+| Jeremiah 4:27 | **27** For thus says the LORD: | **27** For this is what the LORD says: |
+| Jeremiah 5:14 | Therefore thus says the LORD, the God of hosts: | Therefore this is what the LORD, the God of hosts, says: |
+| Jeremiah 6:6 | **6** For thus says the LORD of hosts: | **6** For this is what the LORD of hosts says: |
+| Jeremiah 6:9 | **9** Thus says the LORD of hosts: | **9** This is what the LORD of hosts says: |
+| Jeremiah 6:16 | **16** Thus says the LORD: | **16** This is what the LORD says: |
+| Jeremiah 6:21 | Therefore thus says the LORD: | Therefore this is what the LORD says: |
+| Jeremiah 6:22 | **22** Thus says the LORD: | **22** This is what the LORD says: |
+| Jeremiah 7:3 | **3** Thus says the LORD of hosts, the God of Israel: Amend your | **3** This is what the LORD of hosts, the God of Israel, says: Amend your |
+| Jeremiah 7:20 | Therefore thus says the Lord GOD: My anger and | Therefore this is what the Lord GOD says: My anger and |
+| Jeremiah 7:21 | **21** Thus says the LORD of hosts, the God of Israel: Add your burnt | **21** This is what the LORD of hosts, the God of Israel, says: Add your burnt |
+| Jeremiah 8:4 | say to them, Thus says the LORD: | say to them, This is what the LORD says: |
+| Jeremiah 9:7 | Therefore thus says the LORD of hosts: | Therefore this is what the LORD of hosts says: |
+| Jeremiah 9:15 | therefore thus says the LORD of hosts, the God of Israel: I am about | therefore this is what the LORD of hosts, the God of Israel, says: I am about |
+| Jeremiah 9:17 | **17** Thus says the LORD of hosts: | **17** This is what the LORD of hosts says: |
+| Jeremiah 9:22 | **22** Speak: Thus declares the LORD: | **22** Speak: This is what the LORD declares: |
+| Jeremiah 9:23 | **23** Thus says the LORD: | **23** This is what the LORD says: |
+| Jeremiah 10:2 | **2** Thus says the LORD: | **2** This is what the LORD says: |
+| Jeremiah 10:11 | **11** Thus you shall say | **11** This is what you shall say |
+| Jeremiah 10:18 | **18** For thus says the LORD: | **18** For this is what the LORD says: |
+| Jeremiah 10, note | - **v11 "Thus you shall say | - **v11 "This is what you shall say |
+| Jeremiah 11:3 | say to them, Thus says the LORD, the God of Israel: Cursed is the | say to them, This is what the LORD, the God of Israel, says: Cursed is the |
+| Jeremiah 11:11 | Therefore thus says the LORD: I am about | Therefore this is what the LORD says: I am about |
+| Jeremiah 11:21 | Therefore thus says the LORD concerning the | Therefore this is what the LORD says concerning the |
+| Jeremiah 11:22 | therefore thus says the LORD of hosts: I am about | therefore this is what the LORD of hosts says: I am about |
+| Jeremiah 12:14 | **14** Thus says the LORD concerning all | **14** This is what the LORD says concerning all |
+| Jeremiah 13:1 | **1** Thus the LORD said | **1** This is what the LORD said |
+| Jeremiah 13:9 | **9** "Thus says the LORD: Just so will | **9** "This is what the LORD says: Just so will |
+| Jeremiah 13:12 | word to them: Thus says the LORD, the God of Israel: Every jar is | word to them: This is what the LORD, the God of Israel, says: Every jar is |
+| Jeremiah 13:13 | say to them, Thus says the LORD: I am about | say to them, This is what the LORD says: I am about |
+| Jeremiah 14:10 | **10** Thus says the LORD to this people: | **10** This is what the LORD says to this people: |
+| Jeremiah 14:15 | Therefore thus says the LORD concerning the | Therefore this is what the LORD says concerning the |
+| Jeremiah 14 | loved to wander thus; | loved to wander like this; |
+| Jeremiah 15:2 | to them, 'Thus says the LORD: | to them, 'This is what the LORD says: |
+| Jeremiah 15:19 | Therefore thus says the LORD: | Therefore this is what the LORD says: |
+| Jeremiah 16:3 | **3** For thus says the LORD concerning the | **3** For this is what the LORD says concerning the |
+| Jeremiah 16:5 | **5** For thus says the LORD: Do not enter | **5** For this is what the LORD says: Do not enter |
+| Jeremiah 16:9 | **9** For thus says the LORD of hosts, the God of Israel: I am about | **9** For this is what the LORD of hosts, the God of Israel, says: I am about |
+| Jeremiah 17:5 | **5** Thus says the LORD: | **5** This is what the LORD says: |
+| Jeremiah 17:19 | **19** Thus the LORD said | **19** This is what the LORD said |
+| Jeremiah 17:21 | **21** Thus says the LORD: Take care, | **21** This is what the LORD says: Take care, |
+| Jeremiah 18:11 | Jerusalem: Thus says the LORD: I am about | Jerusalem: This is what the LORD says: I am about |
+| Jeremiah 18:13 | Therefore thus says the LORD: | Therefore this is what the LORD says: |
+| Jeremiah 19:1 | **1** Thus says the LORD: Go and buy | **1** This is what the LORD says: Go and buy |
+| Jeremiah 19:3 | Jerusalem. Thus says the LORD of hosts, the God of Israel: I am about | Jerusalem. This is what the LORD of hosts, the God of Israel, says: I am about |
+| Jeremiah 19:11 | say to them: Thus says the LORD of hosts: So will I break | say to them: This is what the LORD of hosts says: So will I break |
+| Jeremiah 19:12 | **12** Thus will I do to this place, | **12** This is what I will do to this place, |
+| Jeremiah 19:15 | **15** "Thus says the LORD of hosts, the God of Israel: I am about | **15** "This is what the LORD of hosts, the God of Israel, says: I am about |
+| Jeremiah 20:4 | **4** For thus says the LORD: I am about | **4** For this is what the LORD says: I am about |
+| Jeremiah 21:4 | **4** Thus says the LORD, the God of Israel: I am about | **4** This is what the LORD, the God of Israel, says: I am about |
+| Jeremiah 21:8 | shall say: Thus says the LORD: I am setting | shall say: This is what the LORD says: I am setting |
+| Jeremiah 21:12 | of David! Thus says the LORD: | of David! This is what the LORD says: |
+| Jeremiah 22:1 | **1** Thus says the LORD: Go down to | **1** This is what the LORD says: Go down to |
+| Jeremiah 22:3 | **3** Thus says the LORD: Do justice | **3** This is what the LORD says: Do justice |
+| Jeremiah 22:6 | **6** For thus says the LORD concerning the | **6** For this is what the LORD says concerning the |
+| Jeremiah 22:11 | **11** For thus says the LORD concerning Shallum | **11** For this is what the LORD says concerning Shallum |
+| Jeremiah 22:18 | Therefore thus says the LORD concerning Jehoiakim | Therefore this is what the LORD says concerning Jehoiakim |
+| Jeremiah 22:30 | **30** Thus says the LORD: | **30** This is what the LORD says: |
+| Jeremiah 23:2 | Therefore thus says the LORD, the God of Israel, concerning the | Therefore this is what the LORD, the God of Israel, says concerning the |
+| Jeremiah 23:15 | Therefore thus says the LORD of hosts concerning | Therefore this is what the LORD of hosts says concerning |
+| Jeremiah 23:16 | **16** Thus says the LORD of hosts: | **16** This is what the LORD of hosts says: |
+| Jeremiah 23:38 | LORD," then thus says the LORD: Because you | LORD," then this is what the LORD says: Because you |
+| Jeremiah 24:5 | **5** "Thus says the LORD, the God of Israel: Like these | **5** "This is what the LORD, the God of Israel, says: Like these |
+| Jeremiah 24:8 | eaten — for thus says the LORD — so I will give | eaten — for this is what the LORD says — so I will give |
+| Jeremiah 25:8 | Therefore thus says the LORD of hosts: Because you | Therefore this is what the LORD of hosts says: Because you |
+| Jeremiah 25:15 | **15** For thus the LORD, the | **15** For this is what the LORD, the |
+| Jeremiah 25:27 | say to them: Thus says the LORD of hosts, the God of Israel: Drink, get | say to them: This is what the LORD of hosts, the God of Israel, says: Drink, get |
+| Jeremiah 25:28 | say to them: Thus says the LORD of hosts: You must drink! | say to them: This is what the LORD of hosts says: You must drink! |
+| Jeremiah 25:32 | **32** Thus says the LORD of hosts: | **32** This is what the LORD of hosts says: |
+| Jeremiah 26:2 | **2** Thus says the LORD: Stand in the | **2** This is what the LORD says: Stand in the |
+| Jeremiah 26:4 | Say to them: Thus says the LORD: If you will | Say to them: This is what the LORD says: If you will |
+| Jeremiah 26:18 | of Judah: Thus says the LORD of hosts: | of Judah: This is what the LORD of hosts says: |
+| Jeremiah 27:2 | **2** Thus the LORD said | **2** This is what the LORD said |
+| Jeremiah 27:4 | their masters: Thus says the LORD of hosts, the God of Israel: This is what | their masters: This is what the LORD of hosts, the God of Israel, says: This is what |
+| Jeremiah 27:16 | people, saying: Thus says the LORD: Do not listen | people, saying: This is what the LORD says: Do not listen |
+| Jeremiah 27:19 | **19** For thus says the LORD of hosts concerning | **19** For this is what the LORD of hosts says concerning |
+| Jeremiah 27:21 | **21** thus says the LORD of hosts, the God of Israel, concerning the | **21** this is what the LORD of hosts, the God of Israel, says concerning the |
+| Jeremiah 28:2 | **2** "Thus says the LORD of hosts, the God of Israel: I have broken | **2** "This is what the LORD of hosts, the God of Israel, says: I have broken |
+| Jeremiah 28:11 | people, saying, "Thus says the LORD: Even so will | people, saying, "This is what the LORD says: Even so will |
+| Jeremiah 28:13 | Hananiah: Thus says the LORD: You have broken | Hananiah: This is what the LORD says: You have broken |
+| Jeremiah 28:14 | **14** For thus says the LORD of hosts, the God of Israel: I have put | **14** For this is what the LORD of hosts, the God of Israel, says: I have put |
+| Jeremiah 28:16 | Therefore thus says the LORD: I am about | Therefore this is what the LORD says: I am about |
+| Jeremiah 29:4 | **4** "Thus says the LORD of hosts, the God of Israel, to all the exiles | **4** "This is what the LORD of hosts, the God of Israel, says to all the exiles |
+| Jeremiah 29:8 | **8** For thus says the LORD of hosts, the God of Israel: Do not let | **8** For this is what the LORD of hosts, the God of Israel, says: Do not let |
+| Jeremiah 29:10 | **10** For thus says the LORD: When seventy | **10** For this is what the LORD says: When seventy |
+| Jeremiah 29:16 | **16** for thus says the LORD concerning the | **16** for this is what the LORD says concerning the |
+| Jeremiah 29:17 | **17** thus says the LORD of hosts: I am about | **17** this is what the LORD of hosts says: I am about |
+| Jeremiah 29:21 | **21** Thus says the LORD of hosts, the God of Israel, concerning Ahab | **21** This is what the LORD of hosts, the God of Israel, says concerning Ahab |
+| Jeremiah 29:25 | **25** "Thus says the LORD of hosts, the God of Israel: Because you | **25** "This is what the LORD of hosts, the God of Israel, says: Because you |
+| Jeremiah 29:31 | exiles, saying: Thus says the LORD concerning Shemaiah | exiles, saying: This is what the LORD says concerning Shemaiah |
+| Jeremiah 29:32 | therefore thus says the LORD: I am about | therefore this is what the LORD says: I am about |
+| Jeremiah 30:2 | **2** Thus says the LORD, the God of Israel: Write in a | **2** This is what the LORD, the God of Israel, says: Write in a |
+| Jeremiah 30:5 | **5** Thus says the LORD: | **5** This is what the LORD says: |
+| Jeremiah 30:12 | **12** For thus says the LORD: | **12** For this is what the LORD says: |
+| Jeremiah 30:18 | **18** Thus says the LORD: | **18** This is what the LORD says: |
+| Jeremiah 31:2 | **2** Thus says the LORD: | **2** This is what the LORD says: |
+| Jeremiah 31:7 | **7** For thus says the LORD: | **7** For this is what the LORD says: |
+| Jeremiah 31:15 | **15** Thus says the LORD: | **15** This is what the LORD says: |
+| Jeremiah 31:16 | **16** Thus says the LORD: | **16** This is what the LORD says: |
+| Jeremiah 31:23 | **23** Thus says the LORD of hosts, the God of Israel: Once more they | **23** This is what the LORD of hosts, the God of Israel, says: Once more they |
+| Jeremiah 31:35 | **35** Thus says the LORD, | **35** This is what the LORD says, |
+| Jeremiah 31:37 | **37** Thus says the LORD: | **37** This is what the LORD says: |
+| Jeremiah 31 | who gives the | the One who gives the |
+| Jeremiah 32:3 | prophesy, saying, 'Thus says the LORD: I am about | prophesy, saying, 'This is what the LORD says: I am about |
+| Jeremiah 32:14 | **14** "Thus says the LORD of hosts, the God of Israel: Take these | **14** "This is what the LORD of hosts, the God of Israel, says: Take these |
+| Jeremiah 32:15 | **15** For thus says the LORD of hosts, the God of Israel: Houses and | **15** For this is what the LORD of hosts, the God of Israel, says: Houses and |
+| Jeremiah 32:28 | Therefore thus says the LORD: I am about | Therefore this is what the LORD says: I am about |
+| Jeremiah 32:36 | **36** But now thus says the LORD, the God of Israel, concerning this | **36** But now this is what the LORD, the God of Israel, says concerning this |
+| Jeremiah 32:42 | **42** For thus says the LORD: Just as I have | **42** For this is what the LORD says: Just as I have |
+| Matthew 14, note | the people, and let them eat, for thus says the LORD: They shall eat and have some left over… and they ate and had some left over, according to | the people, so that they may eat, for this is what the LORD says: 'They shall eat and have some left'… and they ate and had some left, according to |
+| Matthew 25, note | My flock, thus says the Lord GOD: I am judging | My flock, this is what the Lord GOD says: I am judging |
+
 ## *Thus says* + a person: *A message from* (Andrew, 2026-10-18)
 
 **Request:** after Numbers 20:14, Andrew: "Match it and all others that may start that way, even in other books." Every rendered verse where *koh amar* (Greek *tade legei*) opens a message from a person was read. *Thus says the LORD* is not touched. Not the formula, so left: 2 Samuel 16:7 and 17:6 (*This is what Shimei said*, *This is what Ahithophel has said*).
