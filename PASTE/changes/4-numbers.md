@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 21:5, *lechem… ba-lechem ha-qeloqel* (Andrew, 2026-10-18)
+
+**Request:** Andrew: the verse "says there's no bread and then says we're tired of this bread… what they're tired of is the manna." Both are *lechem*, "bread" or "food"; the second is the manna (Exodus 16:4, 15). Options: (a) *no bread… this miserable bread*; (b) *no food… this miserable bread*; (c) *no bread… this miserable manna*. Andrew: *no food… miserable manna*, "They're upset they don't have food, not just that they don't have bread. Then, the manna is what God has given them." No note.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 21:5 | There is no bread and no water, and we are sick of this miserable bread. | There is no food and no water, and we are sick of this miserable manna. |
+
 ## *Thus says the LORD* → *This is what the LORD says*, in every rendered book (Andrew, 2026-10-18)
 
 **Request:** after the people's messages became *A message from…*, Andrew asked why 2 Kings 18:19, 19:3 and 19:6 had to keep *Thus says*: "as long as they all echo the same, why does it matter… The word Thus more than anything is just not natural." He was right that the echo needs only the same words in all three. The third is the LORD's, so the question was the LORD's own formula, about 200 times so far and about 470 times in the Hebrew Bible.
