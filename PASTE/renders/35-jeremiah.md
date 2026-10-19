@@ -2,6 +2,155 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 46–49 — rendered 2026-10-19, 5:56 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with one departure: 49:1, 3 *Milcom* for the pointed *malkam*, "their king," following the Greek *Melchol*; the note names the witness and quotes the Hebrew. The Greek sets the oracles against the nations after 25:13 and in another order. In Swete, Hebrew 46 (Egypt) is Greek 26:2–28; 47 (Philistines) is 29:1–7; 48 (Moab) is 31:1–44; 49:1–5 (Ammon) is 30:1–5; 49:7–22 (Edom) is 29:8–23; 49:23–27 (Damascus) is 30:12–16; 49:28–33 (Kedar) is 30:6–11; 49:34–39 (Elam) is 25:14–19, with its date at 26:1. The Greek has nothing of 46:26, 48:45–47 or 49:6. It is quoted in notes where it reads differently: 46:9, 15, 17, 26–28; 47:1, 5; 48:9, 45–47; 49:1, 4, 16, 34–39. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- No *va-yehi* in these chapters. *Ve-hayah*: 49:39 *And it shall come to pass in the end of days that I will restore*, the formula with a time; 48:41 and 49:22 *ve-hayah lev gibborei…* is "will be" + a noun, plain (*The heart of… will be like*).
+- *hinneh*: cut at 47:2; 48:12 (*Therefore, days are coming*, as 16:14); 48:40; 49:2, 12, 15, 19, 22. God's *hineni* + participle: 46:25 *I am about to punish*; 46:27 *I am about to save you* (as 30:10); 49:5 *I am about to bring*; 49:35 *I am about to break*.
+- A stated *ani* with a finished verb from God: 48:30 *I Myself know his fury*; 49:10 *I Myself have stripped Esau bare*. 49:11 *ani achayyeh*, an unfinished verb, stays plain (*I will keep them alive*).
+- *This is what the LORD says*: 47:2; 48:1, 40; 49:1, 7, 12, 28, 35. 46:25 *amar YHWH* without *koh* is *The LORD of hosts, the God of Israel, says*.
+- Doubled verbs made plain: 46:5 *u-manos nasu* (*they flee headlong*); 48:9 *natso tetse*; 49:12 *shato yishtu… naqoh tinnaqeh… shatoh tishteh*.
+- *Keli* (Part 2): 46:19 *kelei golah*, *baggage for exile*; 48:11–12 *vessel*, since *nevel* in the same verse is *jar*, as at 13:12; 48:38 *a jar no one wants*, as the spec names it; 49:29 *all their goods*.
+- *Gur* is *live as a guest* (49:18, 33); *sarim* are *princes* (48:7; 49:3, 38).
+- Matched to this project's English: 30:10–11 (46:27–28); 20:3 and 6:25 *terror on every side* (46:5; 49:29); 8:22 *balm in Gilead* and 30:13 *no new flesh for you* (46:11); 25:38 *the oppressing sword* (46:16); 4:7 *desolation* (46:19); 8:12 *the time of their punishment* (46:21); 8:16 *the land and all that fills it, the city and those who live in it* (47:2); 6:24 *hands… limp* (47:3); Isaiah 15–16 and 24:17–18 throughout 48 where the Hebrew is the same; Deuteronomy 3:10 *plateau* (48:8, 21); 17:6 *shrub* (48:6); 22:10 *grieve for him* (48:17); 23:12 *the year of their punishment* (48:44); Numbers 21:28–29 and 24:17 *brow* (48:45–46); 23:20 *the end of days* (48:47; 49:39); 4:19 *the alarm of war* (49:2); Numbers 21:25 *villages* (49:2); 31:22 *faithless daughter* (49:4); Genesis 22:16 *By Myself I have sworn* (49:13); 25:29 *will you go unpunished?* (49:12); Song of Songs 2:14 *the clefts of the rock* (49:16); 19:8 *horrified… hiss because of all its wounds* (49:17); Deuteronomy 29:23 *the overthrow of Sodom and Gomorrah* (49:18); 12:5 *the thickets of the Jordan* (49:19); Exodus 15:4 *the Sea of Reeds* (49:21); Isaiah 57:20 *it cannot be still* (49:23); 17:27 *palaces* (49:27); 9:26 *clip the hair at the sides of their head* (49:32); 9:11 *a lair of jackals* (49:33); 1:17 *dismay* (49:37); 9:16 *send the sword after them until I have consumed them* (49:37).
+- *Baz* and *shalal* side by side (49:32): *booty* and *plunder*, *plunder* being *shalal* as at 21:9.
+- No sentence starts with *And* but 49:39's kept formula.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 46:11 *hirbeit* (written *hirbeiti*); 48:4 *tse'ireha* (written *tse'oreha*); 48:5 *ha-Luchit*; 48:7 *Kemosh*, *yachdav*; 48:18 *u-shevi*; 48:20 *heililu*, *u-za'aqu* (written as singular); 48:21 *Meifa'at* (written *Mofa'at*), Mephaath; 48:27 *nimtsa*; 48:44 *ha-nas*; 49:25 *tehillat*; 49:28 *Nevukhadretstsar*; 49:30 *aleikhem* (written *aleihem*); 49:36 *Eilam* (written *olam*); 49:39 *ashiv*, *shevut*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 10:6, 10:13; Exodus 28:36; Numbers 21:28–29, 23:9, 24:17; Deuteronomy 2:23, 28:49, 29:23; Joshua 11:22; Judges 18:7; 2 Samuel 12:30; 1 Kings 11:33, 12:29; 2 Kings 24:7; Job 2:11, 9:19; Psalm 22:12; Isaiah 15–16, 24:17–18, 34:6, 40:7, 57:20.
+- Jeremiah 1:14, 1:15, 6:24, 6:25, 8:16, 8:22, 12:12, 16:6, 17:27, 20:3, 25:1, 25:15–29, 25:27, 25:29, 25:30, 30:10–11, 30:13, 31:22, 36:1, 41:5, 43:10, 46:7–8, 47:5, 48:7, 48:47, 49:6; 49:18–21 and 50:40, 44–46.
+- Not yet rendered here, so cited from the Hebrew: Nahum 3:8; Obadiah 1–6; Amos 1:4; Lamentations 4:15.
+- Earlier notes that cite these chapters agree with the text: Jeremiah 30's (46:27–28), 36's (46:2), 25's (25:38 and 46:16, *the oppressing sword*).
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *va-yehi*, *ve-hayah* and *ve-attah* in chapters 46–49, and every written form that differs from its read form.
+  - 46:15 *abbirekha* and the singular verbs; 46:17 *sha'on he'evir ha-mo'ed*; 46:27–28 against 30:10–11; 48 against Isaiah 15:2–9, 16:6–11 and 24:17–18, line by line; 48:9 *tsits* (Exodus 28:36; Isaiah 40:7) and *natsa* (Lamentations 4:15); 48:45 against Numbers 21:28 and 24:17; 49:1, 3 *malkam* against 2 Samuel 12:30 and 1 Kings 11:5, 33; 49:9–16 against Obadiah 1–6; 49:23 against Isaiah 57:20; 49:27 against Amos 1:4.
+- Swete's Greek: Jeremiah 25:14–19 and 26:1 (Elam), 26:2–28 (Egypt), 29:1–23 (Philistines, Edom), 30:1–16 (Ammon, Kedar, Damascus), 31:1–44 (Moab).
+
+**The checker** found no errors in these chapters and nothing to look at; its two CHECKs are chapters 8 and 9, the known chapter-break offsets.
+
+**What these chapters are:**
+- **46:** Egypt routed at Carchemish, and Nebuchadnezzar coming into Egypt; Jacob told not to fear.
+- **47:** a flood from the north over the Philistines, and the sword of the LORD that cannot rest.
+- **48:** the long lament over Moab, much of it shared with Isaiah 15–16: its towns, its pride, its vineyards, its god Chemosh carried off; at the end, its fortunes restored.
+- **49:** short oracles on Ammon, Edom, Damascus, Kedar and Hazor, and Elam; Ammon and Elam are promised restoration.
+
+### Jeremiah 46: Egypt at Carchemish
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *maddua ra'iti hemmah chattim* "why have I seen them dismayed" | What do I see? They are dismayed |
+| 5 | *u-manos nasu* "and a flight they flee" | they flee headlong |
+| 6 | *al yanus ha-qal* "let not the swift flee" | The swift cannot flee |
+| 9 | *tofsei dorkhei qeshet* "who handle, who tread the bow" | who handle and bend the bow |
+| 10 | *zevach la-Adonai* | the Lord GOD… has a sacrifice (Isaiah 34:6; note) |
+| 11 | *te'alah ein lakh* | there is no new flesh for you (30:13; note) |
+| 15 | *abbirekha… lo amad… hadafo* "your mighty ones… he did not stand… thrust him" | your mighty ones… They did not stand… thrust them down (note; choice below) |
+| 16 | *hirbah koshel* "he multiplied the stumbler" | He made many stumble |
+| 16 | *cherev ha-yonah* | the oppressing sword (25:38) |
+| 17 | *qar'u sham* | There they cried (note) |
+| 19 | *kelei golah* | your baggage for exile |
+| 20 | *qerets* | a gadfly (found only here) |
+| 21 | *eglei marbeq* "calves of the stall" | fattened calves |
+| 22 | *qolah ka-nachash yelekh* "her sound goes like a snake" | ***KEPT AS IS*** She makes a sound like a snake slipping away |
+| 23 | *ki lo yechaqer* "for it cannot be searched" | though it cannot be searched out |
+| 25 | *Amon mi-No* | Amon of No (note) |
+| 28 | *attah al tira* "you, do not fear" | Do not fear |
+
+### Jeremiah 47: The Philistines
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *mi-rifyon yadayim* "from slackness of hands" | so limp are their hands (6:24) |
+| 4 | *kol sarid ozer* "every surviving helper" | every helper who survives |
+| 4 | *i Khaftor* | the coastland of Caphtor |
+| 5 | *nidmetah* | is silenced |
+| 5 | *she'erit imqam* | Remnant of their valley (note) |
+| 6 | *hoy* | Ah |
+| 6 | *he'asfi el ta'rekh* "gather yourself into your sheath" | Go back into your sheath |
+| 7 | *eikh tishqoti… tsivvah lah* "how can you be quiet… commanded it" | How can you be quiet, when the LORD has given it orders (note) |
+
+### Jeremiah 48: Moab
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-misgav* | the high fortress |
+| 5 | *tsarei tsa'aqat shever* "the distresses of the cry of ruin" | the anguished cry of ruin |
+| 6 | *ka-aro'er* | like a shrub (17:6) |
+| 9 | *tenu tsits… ki natso tetse* | ***KEPT AS IS*** Give wings to Moab, for she must fly away (note; choice below) |
+| 10 | *remiyyah* "slackly, deceitfully" | negligently |
+| 11 | *shoqet… el shemarav* "quiet on his lees" | settled on his dregs (note) |
+| 11 | *mi-keli el keli* | from vessel to vessel (spec Part 2; note) |
+| 12 | *tso'im ve-tse'uhu* "tippers, and they will tip him" | men who tip wine, and they will tip him over |
+| 12 | *kelav… nivleihem* | his vessels… their jars (13:12) |
+| 15 | *ve-areha alah* "and her cities he went up" | ***KEPT AS IS*** the enemy has gone up into her cities |
+| 17 | *nudu lo* | Grieve for him (22:10) |
+| 18 | *ba-tsama* "in thirst" | on the parched ground |
+| 26 | *ve-safaq… be-qi'o* "he will splash in his vomit" | will wallow in his vomit (25:27; note) |
+| 27 | *titnodad* | you shook your head |
+| 28 | *be-evrei fi fachat* "on the sides of the mouth of the pit" | on the walls of the pit's mouth (vv43–44) |
+| 30 | *evrato ve-lo khen baddav lo khen asu* "his fury and not so; his boasts, not so they did" | it is empty; his boasting has done nothing |
+| 31 | *yehgeh* "he moans" | there is moaning |
+| 32 | *mi-bekhi Ya'zer* "from the weeping of Jazer" | More than the weeping of Jazer |
+| 33 | *heidad lo heidad* | the shout is no shout (25:30; note) |
+| 36 | *ka-chalilim* | like flutes (Isaiah 16:11 *harp*; note) |
+| 39 | *li-mchittah* | a terror |
+| 41 | *ha-qeriyyot* | Kerioth (as v24) |
+| 45 | *mi-bein Sichon* | from the midst of Sihon |
+| 45 | *qodqod benei sha'on* | the crown of the sons of tumult (Numbers 24:17; note) |
+| 47 | *ad henah mishpat Mo'av* "until here the judgment of Moab" | Here ends the judgment on Moab |
+
+### Jeremiah 49: Ammon, Edom, Damascus, Kedar and Elam
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *malkam* "their king" | Milcom (the Greek; note; choice below) |
+| 1 | *yoresh… yarash* | heir… dispossessed (also v2) |
+| 2 | *tel shemamah* | a desolate mound |
+| 3 | *ba-gederot* | among the walls |
+| 4 | *zav imqekh* "your valley flows" | ***KEPT AS IS*** your valley flowing with plenty (note) |
+| 5 | *ish le-fanav* "each before him" | each straight ahead |
+| 8 | *he'emiqu la-shevet* "go deep to dwell" | Hide in the depths (also v30) |
+| 9 | *hishchitu dayyam* "they destroy their sufficiency" | they would ruin all they wanted |
+| 16 | *tiflatstekha* | The terror you cause (found only here; note) |
+| 19 | *neveh eitan* "an enduring pasture" | a pasture that never fails |
+| 19 | *argi'ah aritsennu* "in a moment I will make him run" | I will suddenly make them run |
+| 20 | *im lo yischavum tse'irei ha-tson* "if the little ones of the flock do not drag them" | ***KEPT AS IS*** Surely the smallest of the flock will drag them away |
+| 23 | *ba-yam de'agah* | there is anxiety on the sea (38:19 *anxious*) |
+| 25 | *eikh lo uzzevah* "how is it not forsaken" | ***KEPT AS IS*** How is the city of praise not forsaken |
+| 29 | *kol keleihem* | all their goods |
+| 31 | *badad yishkonu* | that lives alone (Numbers 23:9; note) |
+| 32 | *qetsutsei fe'ah* | those who clip the hair at the sides of their head (9:26) |
+| 35 | *reshit gevuratam* | the first of their might |
+| 37 | *ve-hachtatti* | I will dismay (1:17) |
+
+**Left standing on purpose:**
+- 46:22, *She makes a sound like a snake slipping away*: the Hebrew is *her sound goes like a snake*; the Greek has *like a hissing snake*.
+- 48:15, *the enemy has gone up into her cities*: the Hebrew has no subject for *has gone up*.
+- 49:4, *your valley flowing with plenty*: the Hebrew is only *your valley flows*.
+- 49:20, *the smallest of the flock will drag them away*: the grammar makes the little ones the subject.
+- 49:25, *How is the city of praise not forsaken*: the Hebrew as it stands; it may ask why the city was not left in time, or be an exclamation.
+
+**Choices for you:**
+- **46:15, *nischaf abbirekha***
+  - (a) **Why are your mighty ones swept away? They did not stand, for the LORD thrust them down** (now): *abbirekha* as written, a plural, with the singular verbs after it read as each one of them.
+  - (b) **Why has Apis fled? Your bull did not stand, for the LORD thrust him down**: the Greek, which reads *nischaf* as two words, *nas*, "has fled," and the name; *abbir* as "bull," as in *strong bulls of Bashan* (Psalm 22:12). The heifer (v20) and fattened calves (v21) go with it.
+  - Recommend (a): it keeps the Hebrew words and their pointing; the note gives the Greek, and (b) is a strong second.
+- **48:9, *tenu tsits le-Mo'av***
+  - (a) **Give wings to Moab, for she must fly away** (now): *tsits* as a wing, to fit *natso*, "fly."
+  - (b) **Set up a marker for Moab, for she will go away**: the Greek, *Give signs to Moab*, a grave or boundary marker for a land left empty.
+  - Recommend (a): the next words, *she must fly away*, ask for wings.
+- **49:1, 3, *malkam***
+  - (a) **Milcom** (now): the god of Ammon, *Milcom the god of the sons of Ammon* (1 Kings 11:33); he has *priests* and goes into exile like Chemosh (48:7). The Greek has *Melchol*.
+  - (b) **their king**: the Hebrew as pointed, as at 2 Samuel 12:30, *the crown of their king*.
+  - Recommend (a): v3 gives him priests, and 48:7 says the same words of Moab's god; the letters are the same.
+
 ## Jeremiah 41–45 — rendered 2026-10-19, 12:59 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 41, 42 and 43 are Greek 48, 49 and 50; Hebrew 44 is Greek 51:1–30 and Hebrew 45 is Greek 51:31–35. The Greek is quoted in notes where it reads differently: 41:1, 5, 6, 9; 42:1, 12, 20; 43:10, 12, 13; 44:25, 30; 45:4. Verse counts match the Hebrew in all five chapters. These five chapters finish the story of the fall and its aftermath; the oracles against the nations begin at 46.
