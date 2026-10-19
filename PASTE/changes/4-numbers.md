@@ -2,6 +2,54 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *Devote to destruction* (*charam*): the best English for each verse (Andrew, 2026-10-18)
+
+**Request:** Numbers 21:2, *If You will indeed give this people into my hand, I will devote their towns to destruction*: "I don't like the way this reads… It doesn't read naturally." Then: "devote their towns to destruction is also weird." Options for v2: (a) *devote to destruction*; (b) *destroy completely*; (c) *destroy and keep nothing for ourselves*. Andrew: "use c here and go through the rest", each verse on its own, not one word for all.
+
+**What was done:** v2 takes (c), v3 *completely*. In the conquest verses *destroy completely* (or *destroy* where *everything* already says it); Isaiah 34:2, 5 *doomed*. Left as they are: Leviticus 27:21, 28, 29 and Numbers 18:14 (*devoted*, the law of what is given to the LORD, already plain), Ezra 10:8 (*forfeit*). Held for Andrew: Achan and Jericho (Joshua 6:17, 18, 21; 7:1, 11, 12, 13, 15; 22:20; 1 Chronicles 2:7; Deuteronomy 7:26; 13:15, 17) and Saul and Ahab (1 Samuel 15:3, 8, 9, 15, 18, 20, 21; 1 Kings 20:42), where the story turns on the word.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 22:20 | alone, shall be devoted to destruction. | alone, shall be destroyed. |
+| Numbers 21:2 | vow to the LORD and said, "If You will indeed give this people into my hand, I will devote their towns to destruction." | vow to the LORD: "If You will hand these people over to us, we will destroy their towns and keep nothing for ourselves." |
+| Numbers 21:3 | listened to the voice of Israel and gave up the Canaanites, and they devoted them and their towns to destruction. So the name of the place was called Hormah. | listened to Israel and handed the Canaanites over, and they destroyed them and their towns completely. So the place was named Hormah. |
+| Numbers 21, note | from *charam*, **devote to destruction**, the verb of | from *charam*, the verb of |
+| Deuteronomy 2:34 | that time and devoted every town to destruction, men, women | that time and destroyed every town completely, men, women |
+| Deuteronomy 2, note | - **v34 "devoted every town to destruction"** — *va-nacharem*, from *cherem*, the vow of Numbers 21:2: *I will devote their towns to destruction*. What is devoted | - **v34 "destroyed every town completely"** — *va-nacharem*, from *cherem*, the vow of Numbers 21:2: *we will destroy their towns and keep nothing for ourselves*. What is devoted |
+| Deuteronomy 3:6 | **6** We devoted them to destruction, as we had done to Sihon king of Heshbon, devoting every town to destruction, men, women | **6** We destroyed them completely, as we had done to Sihon king of Heshbon, destroying every town completely, men, women |
+| Deuteronomy 7:2 | you shall devote them to destruction. You shall make | you shall destroy them completely. You shall make |
+| Deuteronomy 7, note | "you shall devote them to destruction"** — *hacharem | "you shall destroy them completely"** — *hacharem |
+| Deuteronomy 20:17 | You shall devote them to destruction — the Hittite | You shall destroy them completely — the Hittite |
+| Deuteronomy 20, note | nations are *devoted to destruction* (7:2), and | nations are to be *destroyed completely* (7:2), and |
+| Joshua 2:10 | Og, whom you devoted to destruction. | Og, whom you destroyed completely. |
+| Joshua 8:26 | until he had devoted all the inhabitants of Ai to destruction. | until he had destroyed all the inhabitants of Ai completely. |
+| Joshua 10:1 | taken Ai and devoted it to destruction, doing to Ai | taken Ai and destroyed it completely, doing to Ai |
+| Joshua 10:28 | sword. He devoted them and every person in it to destruction; he left no survivor. He did to the king of Makkedah as he had done to the king of Jericho. | sword. He destroyed them and every person in it completely; he left no survivor. He did to the king of Makkedah as he had done to the king of Jericho. |
+| Joshua 10:35 | person in it he devoted to destruction on that day, | person in it he destroyed completely on that day, |
+| Joshua 10:37 | Eglon. He devoted it and every person in it to destruction. | Eglon. He destroyed it and every person in it completely. |
+| Joshua 10:39 | sword and devoted every person in it to destruction; he left no | sword and destroyed every person in it completely; he left no |
+| Joshua 10:40 | survivor, but devoted everything that breathed to destruction, as the LORD, | survivor, but destroyed everything that breathed, as the LORD, |
+| Joshua 11:11 | the sword, devoting them to destruction. Nothing that | the sword, destroying them completely. Nothing that |
+| Joshua 11:12 | sword. He devoted them to destruction, as Moses the | sword. He destroyed them completely, as Moses the |
+| Joshua 11:20 | they might be devoted to destruction and might receive no favor, but be destroyed, as the LORD | they might be destroyed completely and receive no favor, but be wiped out, as the LORD |
+| Joshua 11:21 | Israel. Joshua devoted them to destruction with their cities. | Israel. Joshua destroyed them completely, with their cities. |
+| Judges 1:17 | Zephath and devoted it to destruction. So the name of the city was called Hormah. | Zephath and destroyed it completely. So the city was named Hormah. |
+| Judges 1, note | - **v17 "devoted it to destruction… Hormah"** — | - **v17 "destroyed it completely… Hormah"** — |
+| Judges 21:11 | you shall devote to destruction." | you shall destroy completely." |
+| 1 Kings 9:21 | not able to devote to destruction — these Solomon | not able to destroy completely — these Solomon |
+| 2 Kings 19:11 | the lands, devoting them to destruction. Will you be | the lands, destroying them completely. Will you be |
+| 1 Chronicles 4:41 | there, and devoted them to destruction to this day, and lived in their place, | there, and destroyed them completely, to this day, and lived in their place, |
+| 2 Chronicles 20:23 | Mount Seir to devote them to destruction and wipe them | Mount Seir to destroy them completely and wipe them |
+| 2 Chronicles 32:14 | my fathers devoted to destruction was able to | my fathers destroyed completely was able to |
+| Isaiah 11:15 | The LORD will devote to destruction | The LORD will completely destroy |
+| Isaiah 11, note | - **v15 "devote to destruction"** — *hecherim*, | - **v15 "completely destroy"** — *hecherim*, |
+| Isaiah 34, note | **vv2, 5 "He has devoted them to destruction… the people I have devoted to destruction"** — *hecherim*, | **vv2, 5 "He has doomed them… the people I have doomed"** — *hecherim*, |
+| Isaiah 34, note | He has devoted them to destruction, | He has doomed them, |
+| Isaiah 34, note | people I have devoted to destruction, for judgment. | people I have doomed, for judgment. |
+| Isaiah 37:11 | the lands, devoting them to destruction. Will you be | the lands, destroying them completely. Will you be |
+| Jeremiah 25:9 | it. I will devote them to destruction, and make them a horror and a thing to be hissed at, and everlasting ruins. | it. I will destroy them completely, and make them a horror and a thing to be hissed at, and everlasting ruins. |
+| Jeremiah 25, note | servant… I will devote them to destruction"** — *avdi*, | servant… I will destroy them completely"** — *avdi*, |
+
 ## Numbers 21:5, *lechem… ba-lechem ha-qeloqel* (Andrew, 2026-10-18)
 
 **Request:** Andrew: the verse "says there's no bread and then says we're tired of this bread… what they're tired of is the manna." Both are *lechem*, "bread" or "food"; the second is the manna (Exodus 16:4, 15). Options: (a) *no bread… this miserable bread*; (b) *no food… this miserable bread*; (c) *no bread… this miserable manna*. Andrew: *no food… miserable manna*, "They're upset they don't have food, not just that they don't have bread. Then, the manna is what God has given them." No note.
