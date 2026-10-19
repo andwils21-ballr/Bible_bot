@@ -207,6 +207,7 @@ to the LORD*, *the land had rest*).
 | *bring* for motion away from the speaker | *take* (*take me out of this house*); the formula *the LORD who brought you out of Egypt* stays |
 | *the thing that* | *what* (*this is what the LORD has commanded*) |
 | *come into* a place (*When you come into the land*) | *enter*, *go into* or *arrive in*, whichever reads most naturally (*When you enter the land*; *they went into the house*; *they arrived in the wilderness of Zin*). *Come* stays only where the speaker is at the place (*this man has come into my house*; *he shall not come into this city*) and for idioms that are not about a place (*came into being*, *came into his heart*) (Andrew, 2026-10-17) |
+| *Thus says* + a person, opening a message (*koh amar*) | *A message from* … (*A message from your brother Israel:*, Numbers 20:14; *A message from Balak son of Zippor:*, 22:16) (Andrew, 2026-10-18). *Thus says the LORD* stays |
 | a doubled verb (*boiled a boiling*) | the plain verb; the doubling may go in a note |
 | an idiom a reader must decode (*with a high hand*) | say what it does (*in open defiance*); the literal form in the note |
 

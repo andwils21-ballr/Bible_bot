@@ -2,6 +2,30 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## *Thus says* + a person: *A message from* (Andrew, 2026-10-18)
+
+**Request:** after Numbers 20:14, Andrew: "Match it and all others that may start that way, even in other books." Every rendered verse where *koh amar* (Greek *tade legei*) opens a message from a person was read. *Thus says the LORD* is not touched. Not the formula, so left: 2 Samuel 16:7 and 17:6 (*This is what Shimei said*, *This is what Ahithophel has said*).
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 32:4 | 'So says your servant Jacob: | 'A message from your servant Jacob: |
+| Genesis 45:9 | 'So says your son Joseph: | 'A message from your son Joseph: |
+| Exodus 5:10 | "This is what Pharaoh says: I am not giving you straw. | "A message from Pharaoh: I am not giving you straw. |
+| Numbers 22:16 | "Thus says Balak son of Zippor: | "A message from Balak son of Zippor: |
+| Numbers 20, note v14 | they began *So says your servant Jacob* (Genesis 32:3–4) | they began *A message from your servant Jacob* (Genesis 32:3–4) |
+| Joshua 22:16 | "Thus says the whole congregation of the LORD: | "A message from the whole congregation of the LORD: |
+| Judges 11:15 | "Thus says Jephthah: | "A message from Jephthah: |
+| 1 Kings 2:30 | "Thus says the king: 'Come out.'" | "A message from the king: 'Come out.'" |
+| 1 Kings 20:3, 5 | "Thus says Ben-hadad: | "A message from Ben-hadad: |
+| 1 Kings 22:27; 2 Chronicles 18:26 | 'Thus says the king: Put this man in prison | 'A message from the king: Put this man in prison |
+| 2 Kings 1:11 | "Man of God, thus says the king: 'Come down quickly!'" | "Man of God, a message from the king: 'Come down quickly!'" |
+| 2 Kings 9:18, 19 | "Thus says the king: 'Is it peace?'" | "A message from the king: 'Is it peace?'" |
+| 2 Chronicles 36:23; Ezra 1:2 | "Thus says Cyrus king of Persia: | "A message from Cyrus king of Persia: |
+| Isaiah 44, note v28 | *Thus says Cyrus king of Persia: The LORD, the God of heaven…* | *A message from Cyrus king of Persia: The LORD, the God of heaven…* |
+| `RENDERING_SPEC.md`, "Already ruled" | — | a row for *Thus says* + a person |
+
+Held for Andrew: the king of Assyria's messages and Hezekiah's in the same story (2 Kings 18:19, 29, 31; 19:3; Isaiah 36:4, 14, 16; 37:3; 2 Chronicles 32:10) and Judith 2:5, where the king of Assyria speaks with the prophets' *Thus says* and the LORD answers in the same words (2 Kings 19:6), and Judith 2:5's note is built on it.
+
 ## Numbers 20:14, *koh amar achikha Yisra'el* (Andrew, 2026-10-18)
 
 **Request:** Andrew: *Thus says your brother Israel* "doesn't read smoothly… who is talking? It just says Moses sent messengers, then a quote begins." The Hebrew goes from *to the king of Edom* straight into the message, opened by *koh amar*, the messenger's formula, in the sender's name.
