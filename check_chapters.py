@@ -78,7 +78,7 @@ PROCESS_SOFT = re.compile(r"\b(fixed term|this project|the project's|the spec|ch
 LEADS = [
     (re.compile(r"\bNow then\b"), "never for *ve-attah*: *So*, *So now*, *But now*, *Now*, "
      "or cut it (spec, \"No And\")"),
-    (re.compile(r"\b(come|comes|came|coming) into\b(?! being)(?! (his|her|their|your|my|our) "
+    (re.compile(r"\b(come|comes|came|coming) into\b(?! being)(?! (?i:his|her|their|your|my|our) "
                 r"(heart|mind)s?\b)"),
      "a place is *enter*, *go into* or *arrive in*; *come* stays only where the speaker "
      "is there, or for an idiom (spec, \"Already ruled\")"),

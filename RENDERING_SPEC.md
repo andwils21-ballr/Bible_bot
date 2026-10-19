@@ -495,6 +495,14 @@ canon"). Chapter and verse follow that edition, as `source_text.py` prints them.
 - Every chapter ends with the **Source text** note naming the edition and
   translator (all public domain), and *English translation by this project*.
 
+### Jeremiah (Andrew, 2026-10-18)
+
+- ***keli*** takes the English that fits each verse: *jars* carried for water
+  (14:3); the potter's *pot* (18:4) and a potter's *jar* (19:11); *a jar no
+  one wants* (22:28, and 48:38 in the same words) beside *a precious jar*
+  (25:34); *vessels* for the temple's treasures (27:16–21; 28:3, 6), as in
+  Kings, Chronicles, Ezra and Daniel; *weapons* (21:4; 22:7).
+
 ### Tier `witnesses`: 1 Enoch, Jubilees, Ezra Sutuel, 4 Baruch
 
 **Ezra Sutuel is on hold** (Andrew, 2026-10-07): skip it until a better source
