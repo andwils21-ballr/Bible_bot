@@ -2,6 +2,147 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 37–40 — rendered 2026-10-19, 8:02 AM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 37, 38, 39 and 40 are Greek 44, 45, 46 and 47; Greek 46 has nothing of Hebrew 39:4–13. The Greek is quoted in notes where it reads differently: 37:1, 12; 38:1, 9, 23, 27, 28; 39:1, 3, 4–13; 40:5, 7–9. Verse counts match the Hebrew in all four chapters.
+
+**Kept formulas:**
+- *va-yehi* / *ve-hayah*: 37:11 *And it came to pass, when the army of the Chaldeans had withdrawn… that Jeremiah went out* (a new time); 38:28 *And it came to pass, when Jerusalem was taken —* (the fall; the sentence finishes at 39:3). Both are *ve-hayah* told of the past, and the notes say so. Cut: 37:6 *Then the word of the LORD came*; 37:13 *When he was at the Benjamin Gate*; 39:4 *When Zedekiah… saw them*. 40:3 *ve-hayah lakhem ha-davar ha-zeh*, *so this thing has come upon you*, is not a time clause.
+- *ve-attah*: 37:20 *So now* (his plea follows from his innocence); 40:4 *But now* (the people's guilt, against the prophet's release).
+- *hinneh*: cut at 38:5, 22; 40:4. 37:7 *Pharaoh's army… is about to return*, a participle, as 32:7. God's *hineni* + participle: 39:16 *I am about to bring*. Gedaliah's *hineni yoshev* (40:10) is a man's: *I will stay*.
+- No stated *anokhi* / *ani* with a finished verb from God in these chapters. 38:19 *ani do'eg* and 38:20 *ani dover* are participles and stay plain.
+- *This is what the LORD says*: 37:7, 9; 38:2, 3, 17; 39:16.
+- *keli* (Part 2): 40:10 *put them in your jars*, for wine, summer fruit and oil.
+- *sarim*: *princes* throughout, for Judah's and for Babylon's (37:14–15; 38:4, 17–18, 22, 25, 27; 39:3). *Sarei ha-chayalim* is *the commanders of the forces* (40:7, 13), as in 2 Kings 25:23. *Sofer*: *the scribe* (37:15, 20).
+- Matched to this project's 2 Kings 25, which tells the same events: *the chief of the slaughterers* (*rav tabbachim*), *the city was breached*, *passed sentence on him*, *bronze fetters*, *the deserters who had gone over*, *some of the poorest of the land*, *the commanders of the forces*, *it will go well with you*, *allowance*.
+- No sentence starts with *And* but the two kept formulas.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 37:4 *ha-kelu* (written *ha-keli*); 37:19 *ve-ayyeh* (written *ve-ayyo*); 38:2 *ve-chayah* (written *yichyeh*); 38:11 *sechavot* (written *ha-sechavot*); 39:16 *mevi* (a spelling); 40:3 *ha-davar* (written *davar*); 40:8 *Ephai* (written *Ofai*); 40:16 *ta'aseh* (written *ta'as*).
+- Written and not read, so left out: 38:16 *et*; 39:12 *im*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 13:9, 20:15, 37:24, 37:36; 1 Samuel 31:4; 2 Kings 24:17, 25:1–4, 25:3, 25:4–7, 25:8, 25:9, 25:12, 25:22–25, 25:30.
+- Jeremiah 1:1, 1:15, 2:36, 3:25, 7:16, 11:14, 14:11, 17:7, 20:10, 21:1–2, 21:8–9, 22:24–25, 23:3, 23:17, 24:6, 26:24, 27:17, 28:11, 29:7, 29:11, 31:15, 32:2, 32:8, 32:15, 33:1, 34:3, 34:21.
+- Not yet rendered here: Jeremiah 42:7, cited without quoting.
+- Earlier notes that quote these chapters match the text as rendered: Jeremiah 1's (39:3), Ezra 4's (38:4). Jeremiah 13's, 26's, 31's and 34's, and Psalm 40's, cite them without quoting and agree with the text. Jeremiah 21's v1 note says *among the officials who later want him dead (38:1, 4)*; the text has *princes*, and that note waits on council item 97 with chapter 26.
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *va-yehi*, *ve-hayah* and *ve-attah* in chapters 37–40, and every written form that differs from its read form.
+  - 37:5, 11 *va-ye'alu me-al* against 21:2 *ve-ya'aleh me-aleinu*; 37:12 *la-chaloq*; 37:13–14, 38:19 and 39:9 *nafal* against 21:9 and 2 Kings 25:11; 38:6, 22 *tava*; 38:19 *ve-hit'allelu bi* against 1 Samuel 31:4; 38:22 against 20:10 *enosh shelomi… ve-nukhlah lo*; 38:23 *tisrof* (the letters can also be read *tissaref*); 39:3, 13 the names and titles; 39:10 against 2 Kings 25:12 and 52:16, the same letters; 39:18 *malat* against 38:18, 23; 40:5 *aruchah* against 2 Kings 25:30 and 52:34; chapter 41 has no word of the LORD, for the 40:1 note.
+- Swete's Greek: Jeremiah 44:1–21 (Hebrew 37), 45:1–28 (Hebrew 38), 46:1–3, 14–18 (Hebrew 39), 47:1–16 (Hebrew 40); 13:23 *Αἰθίοψ*.
+
+**The checker** found no errors in these chapters. The first draft had 38:15 *And if I give you advice* (now *If I give you advice*) and twelve notes in chapter 38 (now ten: the v2 note cut, the v23 note joined to v22's). Its two CHECKs are chapters 8 and 9, the known chapter-break offsets.
+
+**What these chapters are:**
+- **37:** Babylon lifts the siege when Pharaoh's army marches; Jeremiah, leaving for Benjamin, is seized as a deserter and locked in a scribe's house; Zedekiah asks him in secret for a word, and moves him to the court of the guard.
+- **38:** the princes have him let down into a muddy cistern; Ebed-melech the Cushite pulls him out; Zedekiah meets him in secret again: go out and live, or see the city burned.
+- **39:** the city breached; Zedekiah caught, his sons killed, his eyes put out; the city burned; Jeremiah handed to Gedaliah; Ebed-melech promised his life.
+- **40:** Jeremiah freed from his chains at Ramah and given his choice; Gedaliah governs the remnant at Mizpah; Johanan warns him of Ishmael, and he will not believe it.
+
+### Jeremiah 37: Is There a Word from the LORD?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yimlokh melekh Tsidqiyahu* "and king Zedekiah reigned" | Zedekiah… reigned as king |
+| 1 | *asher himlikh* "whom he made king" | whom Nebuchadnezzar king of Babylon made king (placed after Zedekiah's name, so it is clear which king) |
+| 4 | *ba ve-yotse* "coming and going out" | was still coming and going |
+| 5 | *va-ye'alu me-al* "went up from upon" | they withdrew from (21:2; 34:21; note) |
+| 7 | *hinneh… shav* | is about to return (32:7) |
+| 9 | *al tashi'u nafshoteikhem* "do not deceive your souls" | Do not deceive yourselves |
+| 9 | *halokh yelekhu* "going they will go" | will surely go away |
+| 10 | *anashim meduqqarim* "pierced men" | men who had been run through (1 Samuel 31:4) |
+| 11 | *ve-hayah* | And it came to pass (note) |
+| 12 | *la-chaloq misham* "to share from there" | ***KEPT AS IS*** to take his share there (note) |
+| 13 | *ba'al peqidut* "master of oversight" | an officer in charge |
+| 13 | *el ha-Kasdim attah nofel* "to the Chaldeans you are falling" | You are going over to the Chaldeans! (21:9; note) |
+| 14 | *sheqer* | That is a lie! (40:16) |
+| 15 | *beit ha-esur* "the house of the bound" | confinement |
+| 16 | *beit ha-bor… ha-chanuyot* | the cistern house… the vaults (38:6; note) |
+| 20 | *tippol na techinnati* "let my plea fall" | let my plea come before you (36:7) |
+| 21 | *kikkar lechem* "a round of bread" | a loaf of bread |
+| 21 | *va-yeshev* | So Jeremiah stayed (also 38:13, 28; 39:14; 40:6) |
+
+### Jeremiah 38: The Cistern of Malchiah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-hayetah lo nafsho le-shalal* | his life will be his as plunder (21:9) |
+| 4 | *merappe et yedei* "slackens the hands of" | weakening the hands of (Ezra 4:4's note) |
+| 4 | *doresh le-shalom… ki im le-ra'ah* | seeking peace… but harm (29:7, 11; note) |
+| 7 | *ish saris* "a man, a eunuch" | a eunuch |
+| 9 | *va-yamat tachtav* "and he died in his place" | he will die where he is (note) |
+| 11 | *el tachat ha-otsar* | to a place under the treasury |
+| 11 | *belo'ei sechavot u-velo'ei melachim* | worn-out rags and worn-out clothes |
+| 14 | *sho'el ani otkha davar… davar* "I ask you a thing… a thing" | I am going to ask you something; hide nothing from me |
+| 17 | *ve-chayetah nafshekha* "your soul will live" | your life will be spared (also v20) |
+| 19 | *do'eg* | anxious |
+| 19 | *ve-hit'allelu bi* | and they abuse me (1 Samuel 31:4; note) |
+| 22 | *anshei shelomekha* "the men of your peace" | Your friends (20:10; note) |
+| 22 | *hotbe'u va-bots* | are sunk in the mire (v6; note) |
+| 23 | *tisrof* "you will burn" | you will burn this city (note; choice below) |
+| 26 | *mappil ani techinnati* "I was making my plea fall" | I was bringing my plea (37:20) |
+| 27 | *va-yacharishu mimmenu* "they were silent from him" | they said no more to him |
+| 27 | *ki lo nishma ha-davar* "for the thing was not heard" | for the conversation had not been overheard (note) |
+| 28 | *ve-hayah ka'asher* | And it came to pass, when… — (note) |
+
+### Jeremiah 39: Jerusalem Taken
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hovqe'ah* | was breached (2 Kings 25:4) |
+| 3 | *Nergal sar-etser Samgar-nevu Sar-sekhim rav-saris Nergal sar-etser rav-mag* | ***KEPT AS IS*** Nergal-sharezer, Samgar-nebo, Sarsechim the Rab-saris, Nergal-sharezer the Rab-mag (the division is uncertain; note) |
+| 5 | *va-yedabber itto mishpatim* "he spoke judgments with him" | he passed sentence on him (2 Kings 25:6) |
+| 6 | *chorei Yehudah* | the nobles of Judah (27:20) |
+| 7 | *ba-nechushtayim* | in bronze fetters (2 Kings 25:7) |
+| 8 | *beit ha-am* "the house of the people" | the houses of the people (note) |
+| 9 | *rav tabbachim* | the chief of the slaughterers (2 Kings 25:8; note) |
+| 9 | *ha-noflim asher naflu alav* | the deserters who had gone over to him (2 Kings 25:11) |
+| 10 | *keramim vi-gevim* | vineyards and fields (2 Kings 25:12; note) |
+| 12 | *ve-eineikha sim alav* "and your eyes set on him" | set your eyes on him (24:6; note) |
+| 13 | *rabbei melekh Bavel* | the chief officers of the king of Babylon |
+| 14 | *le-hotsi'ehu el ha-bayit* "to bring him out to the house" | to take him home |
+| 15 | *be-heyoto atsur* | while he was shut up (33:1) |
+| 16 | *le-ra'ah ve-lo le-tovah* | for harm and not for good (21:10) |
+| 16 | *ve-hayu lefaneikha* "and they will be before you" | they will come to pass before you |
+| 17 | *asher attah yagor mippeneihem* | the men you dread (22:25; note) |
+| 18 | *mallet amallet'kha* "escaping I will make you escape" | I will surely let you escape (38:18, 23; note) |
+
+### Jeremiah 40: The Remnant under Gedaliah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ba-aziqqim* | in chains (also v4) |
+| 2 | *dibber et ha-ra'ah ha-zot* | pronounced this disaster (35:17) |
+| 3 | *va-yave va-ya'as* "He brought and did" | has brought it about and has done |
+| 4 | *ve-asim et eini alekha* | I will set my eyes on you (39:12) |
+| 4 | *im tov be-eineikha* "if good in your eyes" | If it seems good to you (26:14) |
+| 4 | *chadal* "leave off" | then stay |
+| 5 | *ve-odennu lo yashuv* "and he still not turning back" | ***KEPT AS IS*** While Jeremiah had not yet turned to go, he said (note; choice below) |
+| 5 | *aruchah u-mas'et* | an allowance and a gift (2 Kings 25:30; note) |
+| 7 | *sarei ha-chayalim asher ba-sadeh* | the commanders of the forces who were in the open country (2 Kings 25:23) |
+| 10 | *bi-khleikhem* | in your jars (spec Part 2) |
+| 11 | *natan… she'erit* "had given a remnant" | had left a remnant |
+| 14 | *hayadoa teda* "knowing do you know" | Do you know |
+| 14 | *le-hakkotkha nafesh* "to strike you, a life" | to take your life (also v15) |
+| 16 | *sheqer attah dover* | you are telling a lie (37:14; note) |
+
+**Left standing on purpose:**
+- 37:12, *to take his share there among the people*: the Hebrew does not say what share; the note gives the Greek *to buy*.
+- 38:28 ends in the middle of a sentence, *And it came to pass, when Jerusalem was taken —*, and the sentence finishes at 39:3, after the dates of 39:1–2. Chapter 39 begins with the dates and reads on its own; the note on 38:28 says where the sentence ends.
+- 39:3, the Babylonian names: the Hebrew runs names and titles together, and the division is uncertain.
+
+**Choices for you:**
+- **38:23, *ve-et ha-ir ha-zot tisrof ba-esh***
+  - (a) **and you will burn this city with fire** (now): the Hebrew as it is read. Jeremiah lays the city's burning on the king's refusal; v17 had said that if he went out, *this city will not be burned with fire*.
+  - (b) **and this city will be burned with fire**: the same letters read as *tissaref*, "will be burned," as the Greek has it.
+  - Recommend (a): it is the reading the Hebrew gives, the *et* before *this city* reads most naturally with a verb that has a subject acting on it, and the note gives the Greek.
+- **40:5, *ve-odennu lo yashuv***
+  - (a) **While Jeremiah had not yet turned to go, he said, "Go back to Gedaliah…"** (now): the words are the storyteller's, with *he said* supplied. The captain speaks again before Jeremiah leaves.
+  - (b) **"…But if not, go back to Gedaliah…"**: the Greek, which has *But if not, run off* in place of the Hebrew's phrase and keeps the captain speaking.
+  - Recommend (a): it keeps the Hebrew's words and adds only *he said*; the note gives the Greek.
+
 ## Jeremiah 33–36 — rendered 2026-10-18, 10:53 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 33, 34, 35 and 36 are Greek 40, 41, 42 and 43; Greek 40 has 13 verses and nothing of Hebrew 33:14–26. The Greek is quoted in notes where it reads differently: 33:2, 14–26; 34:14; 35:11; 36:9, 25, 26. Verse counts match the Hebrew in all four chapters. The first run under Andrew's ruling of 2026-10-18: *This is what the LORD says* throughout (33:2, *This is what the LORD says, the One who made it*).
