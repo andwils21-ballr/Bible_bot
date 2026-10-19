@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Numbers 20:14, *koh amar achikha Yisra'el* (Andrew, 2026-10-18)
+
+**Request:** Andrew: *Thus says your brother Israel* "doesn't read smoothly… who is talking? It just says Moses sent messengers, then a quote begins." The Hebrew goes from *to the king of Edom* straight into the message, opened by *koh amar*, the messenger's formula, in the sender's name.
+
+**Options:** (a) as it was; (b) *with this message:* before the quote, keeping *Thus says*. Andrew: "Use b, but can we start the opening of the quote as *A message from your brother Israel*?" With that opening, *with this message* would say *message* twice, so the quote's own opening carries it alone. *Brother* stays: it is the ground of the request (Deuteronomy 23:7), and the note gives the Genesis 32 echo.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 20:14 | Moses sent messengers from Kadesh to the king of Edom: "Thus says your brother Israel: You know all the hardship that has come on us — | Moses sent messengers from Kadesh to the king of Edom: "A message from your brother Israel: You know all the hardship that has come on us — |
+| Numbers 20, note v14 | **"your brother Israel"** — Edom is Esau, and Israel is Jacob (Genesis 36:1; 32:28). Moses' message opens on the brothers of Genesis, who parted in peace (Genesis 33). | **"A message from your brother Israel"** — *koh amar*, "thus says," the opening of a message spoken in the sender's name. Edom is Esau, and Israel is Jacob (Genesis 36:1; 32:28). Jacob once *sent messengers ahead of him to Esau his brother*, and they began *So says your servant Jacob* (Genesis 32:3–4). Now Jacob's people send messengers to Esau's, and call themselves *your brother*. Then Esau ran to meet him and embraced him (Genesis 33:4); here Edom comes out against them with the sword (vv18, 20). |
+
 ## *Come into* a place: *enter*, *go into*, *arrive in* (Andrew, 2026-10-17)
 
 **Request:** Andrew, 2026-10-17: Numbers 15:18, *When you come into the land*, "is not a natural way that we speak nowadays and it makes it hard to read naturally"; fix it systematically in the books rendered so far: *go to* or *arrive at*, whenever the text speaks of going to a place.
