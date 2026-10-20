@@ -48,7 +48,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 17 | *ouch hoi tethnēkotes en tō hadē* | it is not the dead in Hades |
 | 23 | *exōthen Ierousalēm* "outside Jerusalem" | from the streets of Jerusalem (Jeremiah 7:34) |
 | 25 | *en apostolē* "by a sending" | by pestilence (note; choice below) |
-| 29 | *ho bombēsis hē megalē* "the great buzzing" | this great swarming multitude |
+| 29 | *hē bombēsis hē megalē hē pollē* "the great, numerous buzzing" | this great swarming multitude |
 
 ### Baruch 3: Where Is Wisdom?
 
