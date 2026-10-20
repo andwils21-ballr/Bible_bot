@@ -414,7 +414,7 @@ async function route(){
       `<a class="up" href="#/${slug}">`+
       `<small>All</small><b>${d.book.title}</b></a></div>`;
     window.scrollTo(0,0); stop(); P.q=[]; bar.classList.remove('on');
-    say('last','/'+slug+'/'+ch);
+    keep('last','#/'+slug+'/'+ch);
     return;
   }
   const c=d.chapters.find(x=>x.n==ch);
@@ -566,8 +566,9 @@ function restoreScroll(){
 addEventListener('hashchange',route);
 (async()=>{
   BOOKS=(await (await fetch('data/manifest.json?v=__BUILD__')).json()).books;
-  const back=!location.hash && say('last');
-  if(back){ location.hash=back; }               // open where we left off
+  // a fresh open goes to the bookmarked chapter, unless the link names a chapter
+  const back=(location.hash||'').split('/').length<3 && say('last');
+  if(back && back!==location.hash){ history.replaceState(null,'',back); }
   await route();
   if(back) restoreScroll();
 })();
