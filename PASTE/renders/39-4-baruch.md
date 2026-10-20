@@ -78,4 +78,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **3:11, *heōs tēs syneleuseōs tou ēgapēmenou***
   - (a) **until the gathering of the beloved** (now): *the beloved* is the people, as in 4:7, *the beloved people*, and the gathering is their return to the city, promised twice in 3:14–15.
   - (b) **until the coming of the Beloved**: a person, and *syneleusis* his arrival.
-  - Recommend (a): the book itself pairs *beloved* with *people* four verses later, and 2 Maccabees 2:7 tells the hiding of the temple's things with the same end in view: the place is to stay hidden until God gathers His people together.
+  - Recommend (a): the book itself pairs *beloved* with *people* in the next chapter (4:7), and 2 Maccabees 2:7 tells the hiding of the temple's things with the same end in view: the place is to stay hidden until God gathers His people together.
