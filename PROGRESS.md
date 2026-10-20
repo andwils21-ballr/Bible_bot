@@ -1,6 +1,6 @@
 # Progress
 
-**1163 of 1989 chapters rendered (58.5%).**
+**1168 of 1989 chapters rendered (58.7%).**
 
 Next up: **Esther 11**
 
@@ -42,7 +42,7 @@ Next up: **Esther 11**
 | 34 | Isaiah | source | done |
 | 35 | Jeremiah | source | done |
 | 36 | Lamentations | source | done |
-| 37 | Baruch | source | 0/5 |
+| 37 | Baruch | source | done |
 | 38 | Letter of Jeremiah | source | 0/1 |
 | 39 | 4 Baruch | witnesses | 0/9 |
 | 40 | Ezekiel | source | 0/48 |
