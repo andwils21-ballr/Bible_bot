@@ -2,6 +2,123 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Jeremiah 50–52 — rendered 2026-10-19, 10:53 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. In Swete, Hebrew 50 and 51 are Greek 27 and 28, and Hebrew 52 is Greek 52. The Greek has nothing of 51:45–48, of 52:2–3, 15 and 28–30, or of the last words of 51:64. It is quoted in notes where it reads differently: 50:2; 51:1, 3, 59, 64; 52:20. Verse counts match the Hebrew in all three chapters. **This finishes Jeremiah.** These are three chapters, not four: they are the book's last, 144 verses, and the next book is Lamentations, a new writer's first run. Each new book's report starts its own file.
+
+**Kept formulas:**
+- *va-yehi*: 52:4 *And it came to pass in the ninth year of his reign… that Nebuchadnezzar… came* and 52:31 *And it came to pass in the thirty-seventh year… that Evil-merodach… lifted the head*, new dates, as 2 Kings 25:1, 27 have them. *Ve-hayah*: 51:63 *And it shall come to pass, when you have finished reading this book, that you shall tie a stone to it*.
+- *hinneh*: cut at 50:12, 41, 44; 51:47, 52. God's *hineni* + participle: 50:9 *I am about to stir up* (with *anokhi*, "I," and a participle, so no *Myself*); 50:18 *I am about to punish*; 51:1 *I am about to stir up*; 51:36 *I am about to plead your cause*. 50:31 and 51:25 *hineni elekha* are *I am against you*.
+- *This is what the LORD says*: 50:18, 33; 51:1, 33, 36, 58.
+- Doubled verbs made plain: 50:34 *riv yariv*; 51:56 *shallem yeshallem* (*He will repay in full*); 51:58 *ar'er tit'ar'ar* (*leveled to the ground*).
+- *Charem* is *destroy completely* (50:21, 26; 51:3), under Andrew's ruling of 2026-10-18.
+- *Keli*: 50:25 *the weapons of His fury*; 51:20 *My weapon of war*; 51:34 *an empty jar*; 52:18, 20 temple *vessels*.
+- *Gur* is *live as a guest* (50:40). *Sarim* are *princes* (50:35; 51:57; 52:10).
+- Matched to this project's English: 10:12–16 (51:15–19, word for word but for *Israel* in v19); 6:22–24 (50:41–43, with *Babylon* for *Zion*); 49:18–21 (50:40, 44–46); 2 Kings 24:18–25:30 throughout 52 where the Hebrew is the same; 19:8 (50:13); 25:26's *Sheshach* and its note (51:41); 25:38 *the oppressing sword* (50:16); 6:4 *consecrate… against her* (51:27–28); 9:11 *a heap of ruins* and *a lair of jackals*, 25:18 *a horror and a thing to be hissed at* (51:37); Isaiah 13:21 *wild beasts*, *ostriches*, 13:22 *hyenas* (50:39); Proverbs 23:11 (50:34); Leviticus 26:30 *idols* (50:2); 1 Kings 7:15–16 (52:21–22); Exodus 25:29 *bowls* (52:19); 2 Kings 23:13 *the Mount of Destruction* (51:25); 22:17 *gain* (51:13); 48:47 *Here ends…* (51:64).
+- No sentence starts with *And* but the three kept formulas.
+
+**Read forms followed:**
+- No note, because the meaning is the same: 50:6 *hayu*, *shovevum*; 50:8 *tse'u*; 50:11 *tismechu*, *ta'altsu*, *tafushu*, *titshalu* (written as feminine singular); 50:15 *ashyoteha*; 50:29 *peletah*; 50:44 *aritsem*; 51:3 *yidrokh* written twice, read once; 51:9 *rippinu*; 51:13 *shokhant*; 52:1 *Chamutal*; 52:11 *beit*; 52:21 *qomat*; 52:31 *ha-kelu*; 52:32 *ha-melakhim*.
+- 51:34 *akhalani, hamamani, hitsigani, bela'ani, hediachani*, "me," where the written forms say "us": in a note, since the speaker is then Zion alone.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:21, 11:4; Exodus 15:1; Leviticus 26:30; Deuteronomy 20:17; 1 Kings 7:15–16, 7:25, 7:29; 2 Kings 16:17, 23:13, 24:12, 24:14, 24:18–25:30; Psalm 137:8; Proverbs 8:30, 23:11; Isaiah 2:2, 13:19, 13:21–22, 46:1.
+- Jeremiah 1:10, 3:16, 6:22–24, 10:12–16, 13:4–7, 14:8, 17:13, 23:1, 25:15, 25:26, 31:23, 31:31–34, 32:12, 32:40, 35:19, 49:18–21, 50:21, 51:64.
+- Earlier notes that cite these chapters agree with the text: Jeremiah 25's (51:41, *How Sheshach is taken… How Babylon has become a horror among the nations!*; 50:16, *the oppressing sword*), 36's (the book made at Jeremiah's dictation), 49's (50:40, 44–46).
+
+**Checked against the sources:**
+- Hebrew:
+  - Every *hinneh*, *va-yehi*, *ve-hayah* and *ve-attah* in chapters 50–52, and every written form that differs from its read form.
+  - 50:21 *Merathaim*, *Pekod*; 50:35–38 *cherev* five times and *chorev*; 50:41–46 against 6:22–24 and 49:19–21; 51:1 *Lev qamai* against *Kasdim*; 51:15–19 against 10:12–16; 51:20–23 *nippatsti* nine times; 51:25 against 2 Kings 23:13; 51:58 against Habakkuk 2:13; 52 against 2 Kings 24:18–25:30 verse by verse.
+- Swete's Greek: Jeremiah 27:1–46 (Hebrew 50), 28:1–64 (Hebrew 51), 52:1–34.
+
+**The checker** found no errors in these chapters and nothing to look at; its two CHECKs are chapters 8 and 9, the known chapter-break offsets.
+
+**What these chapters are:**
+- **50:** Babylon taken, its gods shamed; Israel and Judah return together, weeping, to an everlasting covenant; the sword, and then the drought, on Babylon.
+- **51:** Babylon the golden cup broken; the LORD's war club; Zion swallowed and given back; Seraiah sinks the book of Babylon's doom in the Euphrates. *Here end the words of Jeremiah.*
+- **52:** the fall of Jerusalem retold as Kings tells it, with the count of the exiles, and Jehoiachin released to eat at the king of Babylon's table.
+
+### Jeremiah 50: Babylon Is Taken
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *gillulim* | idols (Leviticus 26:30) |
+| 3 | *nadu halakhu* "they wandered, they went" | have fled and gone |
+| 5 | *derekh hennah peneihem* "the way, hither their faces" | with their faces turned toward it |
+| 6 | *harim shovevum* "on mountains they turned them away" | turning them loose on the mountains |
+| 7 | *neveh tsedeq* | the abode of righteousness (31:23; note) |
+| 8 | *ka-attudim* | like the he-goats |
+| 11 | *ke-eglah dashah* "like a threshing heifer" | like a heifer at the threshing |
+| 12 | *acharit goyim* | the last of the nations |
+| 15 | *natenah yadah* "she has given her hand" | She has given her hand |
+| 17 | *itsemo* "has boned him" | has gnawed his bones |
+| 21 | *charov ve-hacharem* | Put them to the sword and destroy them completely (note) |
+| 23 | *pattish* | the hammer |
+| 24 | *hitgarit* "you have stirred yourself up" | you contended |
+| 25 | *kelei za'mo* | the weapons of His fury |
+| 26 | *mi-qets* "from the end" | from every quarter |
+| 26 | *ma'avuseha* | her granaries |
+| 31 | *zadon* "pride" | you Pride (also v32) |
+| 34 | *go'alam chazaq* | Their Redeemer is strong (Proverbs 23:11; note) |
+| 34 | *hirgia… hirgiz* | give rest… and unrest |
+| 36 | *ha-baddim* | the diviners |
+| 37 | *ha-erev* "the mixture" | the foreign troops |
+| 38 | *chorev* | A drought (note) |
+| 38 | *ba-eimim* "in terrors" | over their idols of terror |
+| 39 | *tsiyyim et iyyim* | wild beasts… with hyenas (Isaiah 13:21–22) |
+| 45 | *yischavum tse'irei ha-tson* | ***KEPT AS IS*** the smallest of the flock will drag them away (as 49:20) |
+
+### Jeremiah 51: The Cup in the LORD's Hand
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Lev qamai* "the heart of those who rise against Me" | Leb-kamai (note; choice below) |
+| 1 | *ruach mashchit* | a destroying spirit (v11; note) |
+| 2 | *zarim ve-zeruha* | strangers… and they will winnow her |
+| 3 | *al yidrokh ha-dorekh qashto* | ***KEPT AS IS*** Let not the archer bend his bow (note) |
+| 5 | *lo alman* | have not been widowed |
+| 6 | *al tiddammu* "do not be silenced" | Do not be cut off |
+| 11 | *mil'u ha-shelatim* "fill the shields" | ***KEPT AS IS*** Take up the shields! (the Greek has *quivers*) |
+| 13 | *ammat bitsekh* "the cubit of your gain" | the measure of your gain (22:17) |
+| 14 | *heidad* | the shout (25:30) |
+| 20 | *mappets* | war club (note) |
+| 25 | *har ha-mashchit* | Mount of Destruction (2 Kings 23:13; note) |
+| 27 | *tifsar* | a marshal |
+| 27 | *yeleq samar* "bristling locust" | bristling locusts |
+| 34 | *ka-tannin* | like a sea monster (Genesis 1:21; note) |
+| 34 | *hediachani* | he has cast me out |
+| 35 | *she'eri* | my flesh |
+| 39 | *ya'alozu* | they may revel |
+| 46 | *u-fen* "and lest" | Do not |
+| 50 | *ta'aleh al levavkhem* "let it go up on your heart" | let Jerusalem come into your mind (3:16; note) |
+| 53 | *tevatstser merom uzzah* | fortify her strong height |
+| 58 | *be-dei riq… be-dei esh* "for the sufficiency of emptiness… of fire" | for nothing… only for fire |
+| 59 | *sar menuchah* "officer of the resting place" | the quartermaster (note) |
+
+### Jeremiah 52: The Fall of Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 11 | *beit ha-pequddot* "the house of the charges" | the house of custody |
+| 12 | *amad lifnei* | who stood before (note) |
+| 15 | *yeter ha-amon* | the rest of the craftsmen (note) |
+| 20 | *ha-baqar* | oxen (1 Kings 7:25; note) |
+| 21 | *navuv* | hollow |
+| 23 | *ruchah* "windward" | on the sides |
+| 25 | *saris* | eunuch (as 38:7; Kings has *official*) |
+
+**Left standing on purpose:**
+- 50:45, *the smallest of the flock will drag them away*: as at 49:20, the grammar makes the little ones the subject.
+- 51:3, *Let not the archer bend his bow*: the Hebrew as read; whose archer is not said.
+- 51:11, *Take up the shields!*: *shelet* is a shield elsewhere; the Greek has *quivers*.
+
+**Choices for you:**
+- **51:1, *yoshvei Lev qamai***
+  - (a) **the inhabitants of Leb-kamai** (now): a coded name for the Chaldeans in the letter-swap of 25:26 and 51:41 (*Sheshach* for Babylon); the Greek has *Chaldeans*.
+  - (b) **those who live in the heart of those who rise against Me**: the words read as they stand.
+  - Recommend (a): it matches *Sheshach*, which the project already keeps as a name with its note (25:26), and the note gives the words' meaning.
+
 ## Jeremiah 46–49 — rendered 2026-10-19, 5:56 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with one departure: 49:1, 3 *Milcom* for the pointed *malkam*, "their king," following the Greek *Melchol*; the note names the witness and quotes the Hebrew. The Greek sets the oracles against the nations after 25:13 and in another order. In Swete, Hebrew 46 (Egypt) is Greek 26:2–28; 47 (Philistines) is 29:1–7; 48 (Moab) is 31:1–44; 49:1–5 (Ammon) is 30:1–5; 49:7–22 (Edom) is 29:8–23; 49:23–27 (Damascus) is 30:12–16; 49:28–33 (Kedar) is 30:6–11; 49:34–39 (Elam) is 25:14–19, with its date at 26:1. The Greek has nothing of 46:26, 48:45–47 or 49:6. It is quoted in notes where it reads differently: 46:9, 15, 17, 26–28; 47:1, 5; 48:9, 45–47; 49:1, 4, 16, 34–39. Verse counts match the Hebrew in all four chapters.
