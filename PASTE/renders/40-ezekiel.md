@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 5–8 — rendered 2026-10-21, 12:49 PM CDT
+
+**Source:** Hebrew (WLC), with one departure: **8:2**, *a man* for *fire*, from the Greek (*andros*; Hebrew *ish* for *esh*, the same letters), because the verse goes on to *His waist* and the figure is the one of 1:26–27; the note quotes the Hebrew (choice below). Swete's Greek checked and quoted where it differs: 5:7 (agrees, *not*); 6:9 (*I have sworn*); 6:14 (agrees, *Deblatha*); 7:2–9 (another order, no *doom*); 7:11; 8:14 (*Thammouz*); 8:17 (*like people sneering*). Verse counts match. Style follows Ezekiel 1–4.
+
+**Form kept:**
+- *And it came to pass* at 8:1 (a new date). *The word of the LORD came to me* (6:1; 7:1) plain.
+- Every *hinneh* cut (7:5, 6, 10; 8:2, 4, 5, 7, 8, 10, 14, 16, 17). *Hineni alayikh gam ani* (5:8) is *I Myself am against you*; *hineni ani mevi* (6:3) *I Myself am about to bring*; *gam ani* with an imperfect is *I in turn* (5:11) and *I, too* (8:18).
+- Chapter 7 set as verse lines: a poem of short cries (*An end! The end has come*).
+- Repeated words kept: *you will know that I am the LORD* (6:7, 10, 13, 14; 7:4, 9, 27); *My eye will not spare, and I will have no pity* (5:11; 7:4, 9; 8:18); *I, the LORD, have spoken* (5:13, 15, 17); *detestable* (*to'evah*), *loathsome* (*shiqquts*, *sheqets*, 5:11; 7:20; 8:10), as fixed.
+- *Zanah* of worship is *gave itself to others* / *gave themselves to* (6:9), as fixed. *Re'ach nichoach* (6:13) is *soothing aroma*.
+- Read forms followed, no note: 6:3 *ve-la-ge'ayot*; 7:2 *arba*; 7:21 *ve-chillelhu*; 8:6 *mah hem*.
+- No sentence starts with *And* except the formula.
+- Matched to this project's English: Leviticus 26:22, 25, 26, 29, 30 (5:10, 16–17; 6:3–5); Numbers 17:8 *sprouted… put out blossoms* (7:10); Leviticus 25:13 (7:13); Lamentations 1:17 *an unclean thing* (7:19–20); Exodus 33:4 *ornaments* (7:20); Jeremiah 18:18 *the law will perish from the priest* (7:26).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Exodus 24:9–10, 33:4; Leviticus 1:9, 21:5, 25:13, 26:22, 26:25, 26:26, 26:29, 26:30; Numbers 15:38, 17:8; Deuteronomy 4:16, 4:19, 28:53, 32:16; Isaiah 28:5; Jeremiah 18:18, 26:24; Lamentations 1:17.
+- Later in Ezekiel, named not quoted: 11:12.
+
+**Checked against the sources:**
+- Hebrew: *qets* in 7:2–6; *tsefirah* only here and Isaiah 28:5; *nishbarti* (6:9); *ish*/*esh* (8:2); Numbers 17:23 (Hebrew numbering) *parach… va-yatsets tsits*.
+- Swete's Greek: Ezekiel 5:1–8:18.
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **5:** Ezekiel shaves with a sword and divides his hair in thirds: Jerusalem burned, cut down, scattered, by the curses of Leviticus 26.
+- **6:** against the mountains of Israel and their high places; a remnant will remember how God was broken by their faithlessness.
+- **7:** a poem of the end: *An end! The end has come*; buying and selling stop, gold becomes unclean, the law perishes from the priest.
+- **8:** taken by a lock of his hair to Jerusalem, he is shown four detestable things in the temple: the image of jealousy, seventy elders before wall carvings, women weeping for Tammuz, and men bowing to the sun.
+
+### Ezekiel 5: A Third, a Third and a Third
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ta'ar ha-gallavim* | a barber's razor |
+| 3 | *bi-khnafekha* "in your wings" | in the hem of your garment |
+| 7 | *ya'an hamonkhem* "because of your raging" | Because you have been more unruly |
+| 11 | *gam ani egra* "I also will withdraw" | I in turn will withdraw |
+| 13 | *ve-hinnechamti* | and be eased (note) |
+| 16 | *chitstsei ha-ra'av ha-ra'im* "the evil arrows of famine" | the deadly arrows of famine |
+| 17 | *ve-shikkelukh* | they will rob you of your children (Leviticus 26:22) |
+
+### Ezekiel 6: To the Mountains of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *chammaneikhem* | your incense altars (Leviticus 26:30) |
+| 6 | *ve-ye'shemu* "and be guilty" | and bear their guilt |
+| 9 | *nishbarti* | I was broken (note) |
+| 9 | *ve-naqottu bi-feneihem* "they will loathe in their faces" | They will loathe themselves (note) |
+| 11 | *haken be-khappekha u-reqa be-raglekha* | Strike with your hand and stamp with your foot |
+| 14 | *mi-midbar Divlatah* | ***KEPT AS IS*** from the wilderness to Diblah (note) |
+
+### Ezekiel 7: The End Has Come
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ra'ah achat ra'ah* "a disaster, one disaster" | Disaster, one disaster! |
+| 6 | *ha-qets heqits* | the end… has awakened (note) |
+| 7, 10 | *ha-tsefirah* | ***KEPT AS IS*** Your doom (sense uncertain; note) |
+| 7 | *ve-lo hed harim* "and not the shout of mountains" | and not of shouting on the mountains |
+| 11 | *lo mehem ve-lo me-hamonam ve-lo me-hemehem ve-lo noah bahem* | ***KEPT AS IS*** None of them, none of their multitude, none of their wealth; no splendor among them (note) |
+| 13 | *ve-ish ba-avono chayyato lo yitchazzaqu* "and each in his iniquity his life they will not strengthen" | and no one, in his iniquity, will hold on to his life |
+| 17 | *telakhnah mayim* "will go water" | will turn to water |
+| 23 | *aseh ha-rattoq* | Make the chain |
+| 24 | *ra'ei goyim* "the evil of the nations" | the worst of the nations |
+| 26 | *torah* | the law (Jeremiah 18:18; note) |
+
+### Ezekiel 8: Detestable Things in the House of the LORD
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *demut ke-mar'eh esh* "a likeness like the appearance of fire" | a likeness like the appearance of a man (Greek; note; choice below) |
+| 3 | *be-tsitsit roshi* | by a lock of my head (note) |
+| 3 | *semel ha-qin'ah ha-maqneh* | the image of jealousy, which provokes jealousy |
+| 6 | *le-rachoqah me-al miqdashi* "to be far from My sanctuary" | to drive Me far from My sanctuary |
+| 12 | *be-chadrei maskito* | in his room of images |
+| 17 | *sholechim et ha-zemorah el appam* | ***KEPT AS IS*** putting the branch to their nose (note) |
+
+**Left standing on purpose:**
+- 6:14, *Diblah*: a place named only here; the Greek has the same name, and where it was is not known.
+- 7:7, 10, *Your doom*: the sense of *tsefirah* is not settled; the note gives the range.
+- 7:11: four short phrases with no verb; the English keeps them as short as the Hebrew.
+- 8:17, *putting the branch to their nose*: what the act was is not known.
+
+**Choices for you:**
+- **8:2, *demut ke-mar'eh esh***
+  - (a) **a likeness like the appearance of a man** (now): the Greek, *andros*; the same Hebrew letters read *ish*. The verse goes on to *His waist*, and the figure is the one of 1:26–27.
+  - (b) **a likeness like the appearance of fire**: the Hebrew as pointed; fire is then the whole figure, before the verse divides it at the waist.
+  - Recommend (a): the waist needs a body, and 1:26–27 describes this same sight as *a likeness like the appearance of a human*.
+
 ## Ezekiel 1–4 — rendered 2026-10-21, 7:50 AM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked verse by verse and quoted in notes where it differs: 1:4, 27 (*ēlektron*); 1:14 (lacking); 1:24 (shorter); 3:12 (agrees, *Blessed*); 4:5, 9 (*one hundred and ninety days*). Verse counts match the Hebrew, and Hebrew and English number them alike. A new writer's first run: style taken from the source, rules from the fixed models. No Part 2 section for Ezekiel.
