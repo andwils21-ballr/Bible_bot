@@ -2,6 +2,93 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 9–12 — rendered 2026-10-22, 12:48 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 9:2 (*a belt of sapphire* for the writing case); 9:4 (*a sign*); 10:13 (*Gelgel*); 10:14 (lacking); 11:3 (a question); 11:15 (*the men of your captivity*); 11:16 (agrees, *small*); 11:19 (*another heart*). Verse counts match. Style follows Ezekiel 1–8.
+
+**Form kept:**
+- *Va-yehi* cut inside running scenes: 9:8 *While they were striking*; 10:6 *When He commanded*; 11:13 *As I was prophesying*. *The word of the LORD came to me* plain (11:14; 12:1, 8, 17, 21, 26).
+- Every *hinneh* cut (9:2, 11; 10:1, 9; 11:1; 12:27).
+- *Ruach*: *the spirit* where no owner is named (10:17; 11:1, 24a), *the Spirit of the LORD* (11:5) and *the Spirit of God* (11:24b) where the text names Him, *a new spirit* (11:19) of a person. The open choice from Ezekiel 1–4 covers the first group.
+- *El Shaddai* (10:5) is *God Almighty*.
+- Ezekiel's words kept the same: *galgal* *the whirling wheels* (10:2, 6, 13) beside *ofan* *wheel*; *the man clothed in linen* (9:2, 3, 11; 10:2, 6, 7); *My eye will not spare, and I will have no pity* (9:5, 10); *I will bring their way on their own heads* (9:10; 11:21); *you will know that I am the LORD*; *a rebellious house*; *baggage for exile* (12:3, 4, 7).
+- Read forms followed, no note: 9:4 *elav*; 9:5 *eineikhem*; 9:11 *ke-khol*; 12:14 *ezro*.
+- No sentence starts with *And*.
+- Matched to this project's English: Exodus 28:20 *beryl* (10:9); Jeremiah 5:21 (12:2); Jeremiah 32:39 *one heart* and 24:7 (11:19–20).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Exodus 25:18–22 (named); Leviticus 16:4, 25:25; 2 Kings 25:7; Jeremiah 1:13, 5:21, 24:7, 29:5, 32:39.
+
+**Checked against the sources:**
+- Hebrew: *tav* (9:4, 6); *galgal* (10:2, 6, 13); *ge'ullatekha* (11:15); *miqdash me'at* (11:16); *lev echad* (11:19); *ha-nasi ha-massa* (12:10).
+- Swete's Greek: Ezekiel 9:1–12:28.
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **9:** six men with weapons and a scribe in linen go through Jerusalem; those who grieve over its sins are marked, and the rest are struck, beginning at the sanctuary.
+- **10:** the scribe takes fire from between the cherubim to scatter over the city; Ezekiel knows the creatures of the river Chebar as cherubim; the glory moves to the east gate.
+- **11:** the princes call the city a pot that keeps them safe; Pelatiah dies; God promises the exiles a small sanctuary, one heart and a heart of flesh; the glory leaves the city for the mountain east of it.
+- **12:** Ezekiel packs an exile's bag and digs through a wall, a sign of the prince's flight and capture; the people's sayings that visions fail are answered.
+
+### Ezekiel 9: The Mark on the Forehead
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *qarevu pequddot ha-ir* "draw near, the appointments of the city" | Come near, you who are appointed over the city (note) |
+| 2 | *qeset ha-sofer* "the scribe's inkhorn" | a writing case (note) |
+| 4 | *ve-hitvita tav* "and mark a tav" | put a mark (note) |
+| 6 | *tahargu le-mashchit* "kill for destruction" | kill them to the last |
+| 9 | *mutteh* | perversion |
+| 11 | *meshiv davar* "returning word" | brought back word |
+
+### Ezekiel 10: The Cherubim
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2, 6, 13 | *ha-galgal* | the whirling wheels (note) |
+| 3 | *mi-yemin la-bayit* "at the right of the house" | on the south side of the house |
+| 12 | *ve-gabbehem* "their backs" | their backs |
+| 13 | *la-ofannim lahem qora ha-galgal be-oznai* "to the wheels, to them it was called 'the whirl' in my ears" | they were called in my hearing "the whirling wheels" |
+| 22 | *mar'eihem ve-otam* "their appearance and themselves" | their appearance and themselves |
+
+### Ezekiel 11: A Heart of Flesh
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *lo ve-qarov benot battim* "not in near, building houses" | ***KEPT AS IS*** The time is not near to build houses (a statement; note) |
+| 5 | *ma'alot ruchakhem* "the goings-up of your spirit" | what comes up in your minds |
+| 7 | *hotsi* | you will be brought out |
+| 15 | *anshei ge'ullatekha* | your kinsmen who have the right to redeem (note; choice below) |
+| 15 | *rachaqu me-al YHWH* | Keep far from the LORD |
+| 16 | *le-miqdash me'at* | a small sanctuary (note; choice below) |
+| 19 | *lev echad* | one heart (Jeremiah 32:39; note) |
+
+### Ezekiel 12: Baggage for Exile
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *kelei golah* "vessels of exile" | baggage for exile |
+| 6 | *ba-alatah* | in the dark |
+| 10 | *ha-nasi ha-massa ha-zeh* "the prince, this burden" | This burden concerns the prince (note) |
+| 18 | *be-ra'ash… be-rogzah* | with trembling… with quaking |
+| 19 | *tesham artsah mi-melo'ah* "her land will be desolate from its fullness" | her land will be stripped of all it holds |
+| 22 | *ya'arkhu ha-yamim* "the days grow long" | The days go on and on |
+| 23 | *u-devar kol chazon* | and the word of every vision (note) |
+
+**Left standing on purpose:**
+- 11:3, *The time is not near to build houses*: the Hebrew has no mark of a question; the Greek reads one, and the note says so.
+
+**Choices for you:**
+- **11:15, *anshei ge'ullatekha***
+  - (a) **your kinsmen who have the right to redeem** (now): the Hebrew, *ge'ullah*, the next of kin's right to buy back a family's land (Leviticus 25:25). The exiles are named as the land's rightful kin against the Jerusalemites' claim, *this land has been given to us*.
+  - (b) **the men of your exile**: the Greek, *aichmalōsias*, which reads *golatekha*, one letter different; the exiles named simply as exiles.
+  - Recommend (a): the Hebrew makes sense as it stands, and the verse is a quarrel over who owns the land.
+- **11:16, *va-ehi lahem le-miqdash me'at***
+  - (a) **I have been to them a small sanctuary** (now): *me'at* as "small," with the Greek *hagiasma mikron*. God Himself is a sanctuary, small beside the temple, for the exiles.
+  - (b) **I have been to them a sanctuary for a little while**: *me'at* as "for a little while," a presence in exile until the gathering of v17.
+  - Recommend (a): the word follows *miqdash* directly, as a description, and the Greek reads it so; the note gives both.
+
 ## Ezekiel 5–8 — rendered 2026-10-21, 12:49 PM CDT
 
 **Source:** Hebrew (WLC), with one departure: **8:2**, *a man* for *fire*, from the Greek (*andros*; Hebrew *ish* for *esh*, the same letters), because the verse goes on to *His waist* and the figure is the one of 1:26–27; the note quotes the Hebrew (choice below). Swete's Greek checked and quoted where it differs: 5:7 (agrees, *not*); 6:9 (*I have sworn*); 6:14 (agrees, *Deblatha*); 7:2–9 (another order, no *doom*); 7:11; 8:14 (*Thammouz*); 8:17 (*like people sneering*). Verse counts match. Style follows Ezekiel 1–4.
