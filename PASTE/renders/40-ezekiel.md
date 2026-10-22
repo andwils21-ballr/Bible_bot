@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 13–16 — rendered 2026-10-22, 5:49 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 16:6 (*Live* once); 16:36 (agrees, *your copper*). Verse counts match. Four chapters, since chapter 16 runs to 63 verses. Style follows Ezekiel 1–12.
+
+**Form kept:**
+- *The word of the LORD came to me* plain (13:1; 14:2, 12; 15:1; 16:1). *Va-yehi* cut at 16:23 (*After all your wickedness*) and 16:34 (*So you were*).
+- Every *hinneh* cut (13:10, 12; 14:22; 16:8, 27, 37, 43, 44, 49). *Hineni* + participle at 16:37 is *I am about to gather*.
+- *Zanah* in the allegory of chapter 16 is *prostituted yourself*, *prostitution*, *prostitute*, as Jeremiah 3 has it for the same figure; the fixed term's *of a woman's act*.
+- *Ger*/*gur* (14:7) *the guests who live as guests*; *tachash* (16:10) *fine leather*, as Exodus 25:5; *nasa avon* (14:10) *carry their guilt*, as chapter 4; *re'ach nichoach* (16:19) *soothing aroma*.
+- Doubled verbs: 14:3 *ha-iddaresh iddaresh* (*Should I let Myself be consulted*); 14:13 and 15:8 *ma'al* (*breaking faith*, *broken faith*); 16:4 (*washed… to cleanse you*); 16:40 *ragmu… ba-even* (*stone you*).
+- Chapter 15 set as verse lines through v5 (a riddle in poetry), then prose, as the Hebrew turns.
+- *Ve-zakharti ani* (16:60) and *va-haqimoti ani* (16:62) are *I Myself will remember*, *I Myself will establish*.
+- Read forms followed, no note: 14:4 *va*; 16:13 *shesh*, *akhalt*; 16:18 *natatt*; 16:20, 25 *mi-taznutayikh*; 16:22, 43 *zakhart*; 16:31 *asit*, *hayit*; 16:47, 51 *asit*; 16:51 *achotayikh*; 16:53 *shevut*; 16:59 *ve-asiti*. 14:14, 20 *Daniel* for the written *Dan'el* is in a note.
+- No sentence starts with *And*.
+- Matched to this project's English: Jeremiah 6:14 *Peace… when there is no peace* (13:10, 16); 1 Kings 22:20 *entice* (14:9); Ruth 3:9 *Spread your wing over* (16:8); Jeremiah 3 *prostituted yourself*; Jeremiah 33:7 and 30:3 *restore the fortunes* (16:53).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 6:9, 19 (named); Exodus 25:4–5; Leviticus 2:1, 26:22–26, 26:40; Ruth 3:9; 2 Samuel 5:6–7; 1 Kings 22:20; 2 Kings 16:8; Job 1:1; Isaiah 5:7; Jeremiah 2:21, 3:1, 6:14, 23:16.
+
+**Checked against the sources:**
+- Hebrew: *chayits* and *tafel* (13:10–15); *kesatot*, *mispachot* (13:18–21); *ha-iddaresh iddaresh* (14:3); *Dan'el* written, *Daniel* read (14:14, 20); *meshi* (16:10, 13); *zanah* forms in chapter 16 (more than twenty); *tishchadi* (16:33).
+- Swete's Greek: Ezekiel 13:1–16:63.
+
+**The checker** found no errors and nothing to look at.
+
+**What these chapters are:**
+- **13:** against the prophets who cry peace and whitewash a flimsy wall, and the women who hunt souls with bands and veils.
+- **14:** idolaters who come to inquire get God's own answer; even Noah, Daniel and Job could save only themselves.
+- **15:** the wood of the vine is good for nothing but the fire, and Jerusalem is that wood.
+- **16:** Jerusalem as a foundling God raised and married, who gave His gifts to other lovers; her sisters Samaria and Sodom look righteous beside her; God remembers His covenant and makes an everlasting one.
+
+### Ezekiel 13: Peace When There Is No Peace
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ha-nevi'im ha-nevalim* | the foolish prophets (note) |
+| 5 | *lo alitem ba-peratsot* "you did not go up into the breaches" | You have not gone up into the breaches |
+| 6 | *ve-yichalu le-qayyem davar* "and they hope to establish a word" | yet they expect Him to fulfill their word |
+| 10 | *chayits… tafel* | a flimsy wall… whitewash (note) |
+| 18 | *kesatot… mispachot* | ***KEPT AS IS*** bands… veils (meaning not certain; note) |
+| 18 | *al kol atstsilei yadai* "on all the joints of my hands" | on every wrist |
+| 20 | *le-forchot* "for flying ones" | like birds |
+
+### Ezekiel 14: Noah, Daniel and Job
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *he'elu gilluleihem al libbam* "they have brought up their idols on their heart" | have taken their idols into their hearts |
+| 4, 7 | *na'aneti lo bi* "I will be made to answer him by Myself" | I the LORD will answer him Myself (note) |
+| 9 | *pittah* | enticed (1 Kings 22:20; note) |
+| 13 | *lim'ol ma'al* | by breaking faith |
+| 15 | *ve-shikkelattah* | they rob it of its children |
+| 22 | *ve-nichamtem* | you will be comforted |
+
+### Ezekiel 15: The Wood of the Vine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *mah yihyeh ets ha-gefen mi-kol ets* "what will the wood of the vine be from all wood" | how is the wood of the vine better than any other wood |
+| 4 | *ve-tokho nachar* | and its middle is charred |
+| 8 | *ma'alu ma'al* | they have broken faith (note) |
+
+### Ezekiel 16: The Foundling Bride
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *be-go'al nafshekh* "in the loathing of your soul" | so loathed were you |
+| 6 | *mitboseset* | kicking about |
+| 7 | *va-tavo'i ba-adi adayim* "you came into ornament of ornaments" | came to full beauty |
+| 8 | *et dodim* | the time for love |
+| 8 | *va-efros kenafi* | I spread My wing over you (Ruth 3:9; note) |
+| 15 | *lo yehi* "to him let it be" | ***KEPT AS IS*** it was his |
+| 16 | *lo va'ot ve-lo yihyeh* | ***KEPT AS IS*** such things have never been and never shall be |
+| 21 | *be-ha'avir otam lahem* | making them pass over to them |
+| 26 | *gidlei basar* | ***KEPT AS IS*** great of flesh (note) |
+| 27 | *va-egra chuqqekh* "I diminished your allotment" | cut down your portion |
+| 29 | *eretz kena'an* "the land of Canaan" | the land of traders |
+| 30 | *mah amulah libbatekh* "how weak is your heart" | How sick is your heart |
+| 30 | *ishah zonah shallatet* | a brazen prostitute |
+| 34 | *ve-acharayikh lo zunnah* "and after you none was solicited" | no one solicited you |
+| 36 | *nechushtekh* | ***KEPT AS IS*** your copper (sense uncertain; note) |
+| 47 | *kim'at qat* | as if that were too little |
+| 52 | *pillalt la-achotekh* | you have pleaded for your sisters |
+| 63 | *pitchon peh* "opening of mouth" | never open your mouth again |
+
+**Left standing on purpose:**
+- 13:18–21, *bands… veils*: both words are found only here; the note gives what the verses say of them.
+- 16:15, *it was his*, and 16:16, *such things have never been and never shall be*: two short Hebrew phrases whose exact sense is uncertain, kept as short as they stand.
+- 16:26, *great of flesh*: a coarse phrase, kept as blunt as the Hebrew.
+- 16:36, *your copper*: the Greek agrees; the word's sense here is not certain, and the note gives the range.
+
+**Choices for you:** none new.
+
 ## Ezekiel 9–12 — rendered 2026-10-22, 12:48 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 9:2 (*a belt of sapphire* for the writing case); 9:4 (*a sign*); 10:13 (*Gelgel*); 10:14 (lacking); 11:3 (a question); 11:15 (*the men of your captivity*); 11:16 (agrees, *small*); 11:19 (*another heart*). Verse counts match. Style follows Ezekiel 1–8.
