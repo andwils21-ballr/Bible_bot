@@ -2,6 +2,103 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 21–24 — rendered 2026-10-23, 7:50 AM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. **Ezekiel 21 is Hebrew 21:6–37**, numbered 1–32 as in English Bibles and Swete's Greek (first note; the offset is logged in `NOTES_FOR_ANDREW.md`). Swete's Greek checked and quoted where it differs: 21:3 (*the unjust and the lawless*); 22:25 (*leaders*); 23:20 (*the Chaldeans*). Style follows Ezekiel 1–20.
+
+**Form kept:**
+- *And it shall come to pass, when… that* at 21:7 (*ve-hayah ki*, the future formula). 24:1 dates the word itself (*In the ninth year… the word of the LORD came to me*), not the *va-yehi* formula.
+- Every *hinneh* cut (21:7; 22:6, 13; 23:39, 40). *Hineni* + participle is *I am about to* (22:19; 23:22, 28; 24:16, 21).
+- The sword song (21:9–17), the oracle on Ammon (21:28–32), the cup (23:32–34) and the pot (24:3–12) set as verse lines.
+- *Zanah* in chapter 23 is *prostituted*, *prostitution*, as in chapter 16 and Jeremiah 3. *Ger* (22:7, 29) *guest*. *Avon* *iniquity*. *Mitsnefet* (21:26) *turban*, as Exodus 28:4.
+- *Gam ani* is *I in turn* (21:17; 24:9).
+- Doubled verbs: 22:2 *ha-tishpot ha-tishpot* (*will you judge, will you judge*, a repetition kept); 22:29 *ashequ osheq ve-gazelu gazel* (*practiced extortion and committed robbery*); 24:3 *shefot… shefot* (*Set on the pot, set it on*, kept as the song's own doubling).
+- Read forms followed, no note: 21:23 *ke-qesam*; 22:18 *le-sig*; 23:14 *Kasdim*; 23:16 *va-ta'gevah*; 23:43 *attah*, *yiznu*; 24:2 *ketov*. 23:42 *sava'im* (*drunkards*) has a note.
+- No sentence starts with *And* except the formula.
+- Matched to this project's English: Leviticus 10:10 *separate the holy from the ordinary, and the unclean from the clean* (22:26); Psalm 106:23 *stood in the breach before Him* (22:30); Leviticus 13:45 *cover his upper lip* (24:17, 22); Leviticus 26:39 *rot away* (24:23); Genesis 49:10 *staff* (21:10, 13).
+
+**Checker CHECKs, standing:** 20 has 49 verses against the Hebrew's 44, and 21 has 32 against 37: the chapter-break offset. No errors.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 49:9–10; Exodus 28:4; Leviticus 10:10, 13:45, 17:13, 18:8, 25:36; 2 Kings 25:1; Psalm 106:23; Isaiah 1:22; Jeremiah 3:6–8, 16:5, 25:15–18 (named).
+- Within Ezekiel: 7:17; 8:10; 9:4; 11:3; 13:5; 20:4; 33:21–22 (named).
+
+**Checked against the sources:**
+- Hebrew: *ad bo asher lo ha-mishpat* (21:27); *qesher nevi'eha* (22:25); *pilagsheihem* (23:20); *lechem anashim* (24:17, 22).
+- Swete's Greek: Ezekiel 21:1–24:27; Genesis 49:10.
+
+**What these chapters are:**
+- **21:** God's sword drawn against Jerusalem; a song of the sword; the king of Babylon divining at a fork in the road and the lot falling on Jerusalem; the crown taken off until he comes whose right it is; Ammon's turn.
+- **22:** the charges against *the city of bloodshed*, the house of Israel melted as dross, and no one found to stand in the breach.
+- **23:** two sisters, Samaria and Jerusalem, faithless with Egypt, Assyria and Babylon; Jerusalem made to drink her sister's cup.
+- **24:** on the day the siege begins, the city as a rusted pot; Ezekiel's wife dies, and he is forbidden to mourn, a sign of the temple's fall.
+
+### Ezekiel 21: The Sword
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-hattef el miqdashim* "drip toward the sanctuaries" | preach against the sanctuaries |
+| 6 | *be-shivron motnayim* "with breaking of loins" | with your strength breaking |
+| 10, 13 | *o nasis shevet beni mo'eset kol ets* | ***KEPT AS IS*** Or shall we rejoice? The staff of my son despises every tree (obscure; note) |
+| 13 | *ki vochan u-mah im gam shevet mo'eset lo yihyeh* | ***KEPT AS IS*** For it is a testing; and what if the staff that despises is no more? |
+| 15 | *ivchat cherev* | the point of the sword |
+| 16 | *hit'achadi heimini hasimi hasmili* | Cut to the right; set yourself to the left |
+| 21 | *qilqal ba-chitsim* | He shakes the arrows |
+| 25 | *be-et avon qets* "in the time of the iniquity of the end" | the time of the final punishment |
+| 26 | *zot lo zot* "this not this" | Things will not stay as they are |
+| 27 | *avvah avvah avvah* | A ruin, a ruin, a ruin |
+| 31 | *charashei mashchit* | craftsmen of destruction |
+
+### Ezekiel 22: The City of Bloodshed
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *ish li-zro'o* "each to his arm" | each by his own power |
+| 10 | *teme'at ha-niddah innu* | they force women who are unclean in their impurity |
+| 15 | *va-hatimmoti tum'atekh mimmekh* | I will remove your uncleanness from you |
+| 16 | *ve-nichalt bakh* | You will be profaned through yourself |
+| 18 | *le-sig* | dross |
+| 25 | *qesher nevi'eha* | a conspiracy of her prophets (note; choice below) |
+| 26 | *bein qodesh le-chol* | the holy from the ordinary (Leviticus 10:10) |
+
+### Ezekiel 23: Oholah and Oholibah
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *mo'akhu shedeihen… issu daddei betuleihen* "their breasts were pressed… their virgin nipples handled" | their breasts were fondled… their virgin bosoms were caressed |
+| 5 | *qerovim* "near ones" | warriors |
+| 14 | *ba-shashar* | in vermilion |
+| 15 | *seruchei tevulim* | flowing turbans |
+| 20 | *pilagsheihem* | their lovers (note; choice below) |
+| 20 | *besar chamorim… zirmat susim* | the flesh of donkeys… the issue of horses |
+| 24 | *hotsen* | weapons |
+| 43 | *la-balah ni'ufim* "to the worn-out one, adulteries" | of her who was worn out by adulteries |
+
+### Ezekiel 24: The Pot and the Death of Ezekiel's Wife
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *samakh… el Yerushalayim* "leaned on Jerusalem" | has laid siege to Jerusalem |
+| 6 | *chel'atah* | its rust |
+| 6 | *lo nafal aleiha goral* | no lot has fallen on it (note) |
+| 7 | *al tsechiach sela* | on the bare rock |
+| 12 | *te'unim hel'at* | It has worn itself out with toil |
+| 16 | *machmad einekha* | the delight of your eyes (note) |
+| 17 | *lechem anashim* "the bread of men" | the bread of mourners (note) |
+
+**Left standing on purpose:**
+- 21:10, 13, 15: lines of the sword song that are hard to read in the Hebrew; the English keeps them as obscure as they stand, and the note says so.
+
+**Choices for you:**
+- **22:25, *qesher nevi'eha***
+  - (a) **There is a conspiracy of her prophets in her midst** (now): the Hebrew.
+  - (b) **Her princes in her midst are like a roaring lion**: the Greek, *aphēgoumenoi*, reading *nesi'eha*, "her princes," one letter different; the verse then speaks of rulers who *take treasure* and *make many widows*.
+  - Recommend (b): the prophets have their own verse (v28), and the chapter goes rank by rank: princes (*nesi'im*, v25), priests (v26), princes (*sarim*, v27), prophets (v28), people of the land (v29). If chosen, the English follows the Greek with a note quoting the Hebrew.
+- **23:20, *va-ta'gevah al pilagsheihem***
+  - (a) **She lusted after their lovers there** (now): *pilagsh*, the word the fixed terms render *secondary wife*, here used of men, the Egyptian lovers whose *flesh was like the flesh of donkeys*.
+  - (b) **She lusted after their secondary wives**: the fixed term as it stands, which would make the women the object.
+  - Recommend (a): the next words describe men, so the fixed term cannot apply here. The note says so.
+
 ## Ezekiel 17–20 — rendered 2026-10-22, 10:48 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. **Ezekiel 20 has 49 verses**, as in English Bibles and Swete's Greek: English 20:45–49 is Hebrew 21:1–5 (first note; logged in `NOTES_FOR_ANDREW.md` for HANDOFF.md, since English 21 now starts at Hebrew 21:6). Swete's Greek checked and quoted where it differs: 19:7 (*he fed on his boldness*); 20:37 (*by number*). Verse counts otherwise match. Style follows Ezekiel 1–16.
