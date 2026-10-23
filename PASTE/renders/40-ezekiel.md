@@ -2,6 +2,96 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 25–28 — rendered 2026-10-23, 12:48 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 26:1 (agrees, no month); 27:17 (*perfumes and cassia* for *pannag*); 28:3 (a question); 28:13 (all twelve stones); 28:14, 16 (*with the cherub*; *the cherub drove you out*). Verse counts match. Style follows Ezekiel 1–24; the oracles against the nations begin here.
+
+**Form kept:**
+- *And it came to pass… that the word of the LORD came to me* at 26:1, where the date stands between *va-yehi* and *hayah devar*. *The word of the LORD came to me* plain elsewhere.
+- Every *hinneh* cut (25:8; 28:3). *Hineni* + participle *I am about to* (25:4, 9, 16; 26:7; 28:7); *hineni natiti* (25:7) *I have stretched out*.
+- The laments set as verse lines: 26:17–18, chapter 27 from v3 (the trade list, vv12–24, as prose, as the Hebrew runs), and 28:12–19.
+- Refrains kept the same: *you will know that I am the LORD*; *you have become a terror and will be no more forever* (26:21; 27:36; 28:19); *in the heart of the seas* (27:4, 25, 26, 27; 28:2, 8); *perfect in beauty* (27:3; 28:12).
+- Stones of 28:13 and *turquoise* (27:16) in Exodus 28:17–20's names. *Ha-sokhekh* (28:14, 16) *the one who shelters*, as Exodus 25:20 *sheltering*.
+- Doubled verbs: 25:12 *va-ye'shemu ashom* (*incurred great guilt*); 25:15 *va-yinnaqmu naqam* (*took vengeance*); 28:9 *he-amor tomar* (*Will you still say*).
+- Read forms followed, no note: 25:7 *la-vaz*; 25:9 *Qiryatayemah*; 27:3 *ha-yoshevet*; 27:6 *Kittiyyim*; 27:15 *ve-hovnim*. 28:3 *Daniel* for the written *Dan'el* is in a note.
+- No sentence starts with *And* except the formula.
+- Matched to this project's English: Exodus 33:16 *marked out* (25:8 note); Psalm 137:7, Lamentations 4:21 (25:12 note); Genesis 10 names (Javan, Tubal, Meshech, Togarmah, Elishah, Kittim, Dedan, Sheba, Raamah, Uzal); Numbers 33:55 *thorns* (28:24); Jeremiah 29:5 *Build houses* (28:26).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:2 (named), 3:24, 10:2–4, 10:7, 10:27, 43:11; Exodus 15:11, 25:20, 28:17–20, 33:16; Numbers 33:55; Psalm 137:7; Isaiah 14:14; Jeremiah 29:5, 39:2; Lamentations 4:21.
+- Within Ezekiel: 14:14; 17:10; 19:12; 24:7–8; 29:17–18 (named).
+
+**Checked against the sources:**
+- Hebrew: *he'ach* (25:3; 26:2); *ve-hikhratti et keretim* (25:16); *tsechiach sela* (26:4, 14); *nefesh adam* (27:13); *pannag* only at 27:17; the nine stones of 28:13 against Exodus 28:17–20; *at keruv* (28:14).
+- Swete's Greek: Ezekiel 25:1–28:26; Exodus 28:17–20.
+
+**The checker** found one error, *wrought* (27:19), now *worked*; the two CHECKs are the 20/21 chapter-break offset already reported.
+
+**What these chapters are:**
+- **25:** the neighbors who gloated at Jerusalem's fall, Ammon, Moab, Edom and the Philistines, judged in turn.
+- **26:** Tyre, glad of Jerusalem's fall, will be scraped to a bare rock by Nebuchadnezzar, and the princes of the sea will mourn.
+- **27:** a lament for Tyre as a great merchant ship, built and crewed from the whole world, loaded with its trade, and sunk by the east wind.
+- **28:** the ruler of Tyre who says *I am a god*; a lament for the king of Tyre as one who was in Eden and walked among the stones of fire; Sidon judged, and Israel promised safety in its own land.
+
+### Ezekiel 25: Ammon, Moab, Edom and the Philistines
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *li-vnei qedem* "to the sons of the east" | to the people of the east |
+| 6 | *machakha yad ve-raq'akha be-ragel* | you clapped your hands and stamped your feet |
+| 6, 15 | *bi-she'at be-nefesh* "with contempt in soul" | with the contempt of your soul |
+| 9 | *poteach et ketef Mo'av* "opening the shoulder of Moab" | lay open the flank of Moab |
+| 15 | *eivat olam* "everlasting enmity" | in never-ending hostility |
+
+### Ezekiel 26: Tyre, a Bare Rock
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *nasebbah elai* "it has turned to me" | it has swung open to me |
+| 4 | *ve-sicheiti afarah* | I will scrape her soil |
+| 6, 8 | *benoteiha asher ba-sadeh* "her daughters in the field" | Her daughters on the mainland |
+| 9 | *mechi qobollo* | the blows of his battering rams |
+| 10 | *ki-mvo'ei ir mevuqqa'ah* | as men enter a city that has been breached |
+| 17 | *noshevet mi-yammim* "inhabited from the seas" | you who were inhabited from the seas |
+| 20 | *be-erets tachtiyyot* | in the lowest parts of the earth |
+
+### Ezekiel 27: The Ship Tyre
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *qarshekh asu shen bat ashurim* "your plank they made ivory, daughter of cypresses" | your deck they made of ivory set in cypress |
+| 9 | *machaziqei bidqekh* "strengtheners of your breach" | caulking your seams |
+| 11 | *gammadim* | ***KEPT AS IS*** the Gammadim (a people not otherwise known) |
+| 11 | *shiltehem* | their quivers |
+| 13 | *be-nefesh adam* "with souls of men" | human beings (note) |
+| 16 | *nofekh… ra'mot ve-khadkod* | turquoise… coral and rubies |
+| 17 | *pannag* | ***KEPT AS IS*** pannag (unknown; note) |
+| 19 | *Vedan ve-Yavan me'uzzal* | ***KEPT AS IS*** Vedan and Javan from Uzal (uncertain; note) |
+| 20 | *be-vigdei chofesh le-rikhbah* | in saddlecloths for riding |
+| 28 | *migreshot* "pasturelands" | the shores |
+| 32 | *ke-dumah* | ***KEPT AS IS*** like one silenced |
+
+### Ezekiel 28: The King of Tyre in Eden
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *li-ngid Tsor* | to the ruler of Tyre |
+| 12 | *chotem tokhnit* "a seal of proportion" | the seal of perfection |
+| 13 | *tuppekha u-neqavekha* | ***KEPT AS IS*** your settings and your sockets (uncertain; note) |
+| 14, 16 | *at keruv mimshach ha-sokhekh… keruv ha-sokhekh* | You were an anointed cherub, the one who shelters… sheltering cherub (note; choice below) |
+| 16 | *malu tokhkha chamas* "they filled your inside with violence" | your inside was filled with violence |
+| 17 | *le-ra'avah vakh* | for them to look at you |
+| 24 | *sillon mam'ir ve-qots makh'iv* | a pricking brier or a painful thorn |
+
+**Left standing on purpose:**
+- 27:11 *Gammadim*, 27:17 *pannag*, 27:19 *Vedan and Javan from Uzal*, 27:32 *like one silenced*, 28:13 *your settings and your sockets*: words whose sense or place is not known; kept as close as the Hebrew stands, with notes where there is something to say.
+
+**Choices for you:**
+- **28:14, 16, *at keruv mimshach ha-sokhekh… va-abedkha keruv ha-sokhekh***
+  - (a) **You were an anointed cherub, the one who shelters… I destroyed you, sheltering cherub** (now): the Hebrew as pointed. The king of Tyre is pictured as the cherub himself, the guardian on God's mountain, cast down.
+  - (b) **From the day you were created you were with the cherub… and the cherub drove you out from among the stones of fire**: the Greek, which reads the same letters *et keruv*, "with the cherub," and makes the cherub the subject in v16. The king is then pictured as the first man in Eden, and the cherub expels him as at Genesis 3:24.
+  - Recommend (a): the Hebrew reads the same way in both verses (*you… cherub*), and the lament's other words, *seal of perfection*, *on the holy mountain*, *among the stones of fire*, describe one who stood higher than a man. The note gives the Greek and its link to Genesis 3:24.
+
 ## Ezekiel 21–24 — rendered 2026-10-23, 7:50 AM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. **Ezekiel 21 is Hebrew 21:6–37**, numbered 1–32 as in English Bibles and Swete's Greek (first note; the offset is logged in `NOTES_FOR_ANDREW.md`). Swete's Greek checked and quoted where it differs: 21:3 (*the unjust and the lawless*); 22:25 (*leaders*); 23:20 (*the Chaldeans*). Style follows Ezekiel 1–20.
