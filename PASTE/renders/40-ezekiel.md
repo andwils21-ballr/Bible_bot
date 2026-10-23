@@ -78,7 +78,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2 | *li-ngid Tsor* | to the ruler of Tyre |
 | 12 | *chotem tokhnit* "a seal of proportion" | the seal of perfection |
 | 13 | *tuppekha u-neqavekha* | ***KEPT AS IS*** your settings and your sockets (uncertain; note) |
-| 14, 16 | *at keruv mimshach ha-sokhekh… keruv ha-sokhekh* | You were an anointed cherub, the one who shelters… sheltering cherub (note; choice below) |
+| 14, 16 | *at keruv mimshach ha-sokhekh… keruv ha-sokhekh* | You were an anointed cherub, the one who shelters… sheltering cherub (note; decided, see `PASTE/decided/40-ezekiel.md`) |
 | 16 | *malu tokhkha chamas* "they filled your inside with violence" | your inside was filled with violence |
 | 17 | *le-ra'avah vakh* | for them to look at you |
 | 24 | *sillon mam'ir ve-qots makh'iv* | a pricking brier or a painful thorn |
@@ -86,11 +86,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:**
 - 27:11 *Gammadim*, 27:17 *pannag*, 27:19 *Vedan and Javan from Uzal*, 27:32 *like one silenced*, 28:13 *your settings and your sockets*: words whose sense or place is not known; kept as close as the Hebrew stands, with notes where there is something to say.
 
-**Choices for you:**
-- **28:14, 16, *at keruv mimshach ha-sokhekh… va-abedkha keruv ha-sokhekh***
-  - (a) **You were an anointed cherub, the one who shelters… I destroyed you, sheltering cherub** (now): the Hebrew as pointed. The king of Tyre is pictured as the cherub himself, the guardian on God's mountain, cast down.
-  - (b) **From the day you were created you were with the cherub… and the cherub drove you out from among the stones of fire**: the Greek, which reads the same letters *et keruv*, "with the cherub," and makes the cherub the subject in v16. The king is then pictured as the first man in Eden, and the cherub expels him as at Genesis 3:24.
-  - Recommend (a): the Hebrew reads the same way in both verses (*you… cherub*), and the lament's other words, *seal of perfection*, *on the holy mountain*, *among the stones of fire*, describe one who stood higher than a man. The note gives the Greek and its link to Genesis 3:24.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 21–24 — rendered 2026-10-23, 7:50 AM CDT
 
