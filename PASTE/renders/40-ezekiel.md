@@ -2,6 +2,94 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 17–20 — rendered 2026-10-22, 10:48 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with no departures. **Ezekiel 20 has 49 verses**, as in English Bibles and Swete's Greek: English 20:45–49 is Hebrew 21:1–5 (first note; logged in `NOTES_FOR_ANDREW.md` for HANDOFF.md, since English 21 now starts at Hebrew 21:6). Swete's Greek checked and quoted where it differs: 19:7 (*he fed on his boldness*); 20:37 (*by number*). Verse counts otherwise match. Style follows Ezekiel 1–16.
+
+**Form kept:**
+- *And it came to pass* at 20:1 (a new date). *The word of the LORD came to me* plain throughout.
+- Every *hinneh* cut (17:7, 10, 12, 18; 18:14, 18). *Hineni matsit* (20:47) is *I am about to kindle*.
+- The riddle of 17:3–10 and its close (17:22–24), and the lament of chapter 19, set as verse lines; the rest prose.
+- *Nasa yad* is *raised My hand* each time in chapter 20 (vv5, 6, 15, 23, 28, 42), as Exodus 6:8 has it, since the note is built on the six oaths. *For the sake of My name* (20:9, 14, 22, 44) and *by which the person who does them shall live* (20:11, 13, 21) kept the same each time.
+- *Gam ani* + perfect is *I in turn* (20:15, 23, 25). *Ve-laqachti ani… ve-shatalti ani* (17:22) is *I Myself will take… I Myself will plant*.
+- Doubled verbs: 17:2 *chud chidah u-meshol mashal* (*put a riddle and speak a parable*); 17:10 *yavosh* (*wither completely*); 18:9, 17, 19, 21, 28 *chayoh yichyeh* (*he shall surely live*); 18:13 *mot yumat* (*he shall surely be put to death*); 18:18 *ashaq osheq… gazal gezel* (*practiced extortion… robbed*); 18:23 *ha-chafots echpots* (*Do I take any pleasure*).
+- *Shevet* in chapter 19 is *staff*, as Genesis 49:10 has it; *matteh* is *stem*.
+- *Zanah* (20:30) is *prostitute yourselves*, the figure of chapter 16.
+- Read forms followed, no note: 17:21 *mivrachav*; 18:20 *ha-rasha*; 18:21 *chattotav*; 18:24 *tsidqotav*; 18:28 *va-yashav*.
+- No sentence starts with *And* except the formula (20:31 *And shall I* was changed to *Shall I then*).
+- Matched to this project's English: Jeremiah 31:29 (18:2); Leviticus 18:5 (18:9; 20:11, 13, 21); Leviticus 25:36 *interest… increase* (18:8, 13, 17); Leviticus 18:19 (18:6); Exodus 31:13 *the LORD who sets them apart* (20:12); Exodus 13:12 *every opener of the womb* (20:26); Exodus 6:8 *raised My hand* (chapter 20); Deuteronomy 4:28 *wood and stone* (20:32); Genesis 49:10 *staff* (19:11, 14).
+
+**The checker:** no errors. One CHECK stands: 20 has 49 verses against the Hebrew's 44, the chapter-break offset above.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 49:9–10; Exodus 6:8, 13:12–13, 22:26, 31:13; Leviticus 17:11, 18:5, 18:19, 20:9, 25:36, 27:32; Deuteronomy 24:16; 1 Samuel 2:7–8 (named); 2 Kings 23:34, 24:15; 2 Chronicles 36:13; Jeremiah 31:29, 52:11.
+
+**Checked against the sources:**
+- Hebrew: *tsaftsafah* only at 17:5; *almenotav* (19:7); *be-damkha* (19:10); *mah ha-bamah… ha-ba'im* (20:29); Hebrew 21:1–5 for English 20:45–49.
+- Swete's Greek: Ezekiel 17:1–20:49 (Swete numbers 20:45–49 as the English does).
+
+**What these chapters are:**
+- **17:** a riddle of two eagles and a vine: Nebuchadnezzar takes Jehoiachin, sets Zedekiah under oath, and Zedekiah turns to Egypt and breaks it; then God plants a cedar shoot on the mountain of Israel.
+- **18:** against the proverb of sour grapes: each soul answers for itself, the wicked who turns will live, and God takes no pleasure in anyone's death. *So turn, and live.*
+- **19:** a lament over Judah's kings, a lioness's cubs caught and taken to Egypt and Babylon, and a vine burned until no staff is left to rule.
+- **20:** the elders come to inquire and are given Israel's history instead: rebellion in Egypt, in the wilderness and in the land, and God holding back each time for the sake of His name; then a second exodus, a judgment in the wilderness of the peoples, and fire in the forest of the south.
+
+### Ezekiel 17: Two Eagles and a Cedar
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *asher lo ha-riqmah* "which had the embroidery" | full of feathers of many colors |
+| 4 | *eretz kena'an… ir rokhlim* | a land of trade… a city of merchants (note) |
+| 5 | *tsaftsafah samo* | he set it like a willow (note) |
+| 9 | *tits'lach* | Will it thrive? |
+| 13 | *va-yave oto be-alah* "and brought him into an oath" | putting him under an oath |
+| 18 | *natan yado* "he gave his hand" | he gave his hand |
+| 20 | *ve-nishpatti itto* | enter into judgment with him |
+
+### Ezekiel 18: The Soul Who Sins Shall Die
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tiqhenah* | are set on edge (Jeremiah 31:29) |
+| 7 | *chavolato chov yashiv* "his pledge, a debt, he returns" | gives back the debtor his pledge |
+| 10 | *ben parits* | a son who is violent |
+| 10 | *ve-asah ach me-achad me-elleh* | and does any of these things |
+| 17 | *me-ani heshiv yado* "from the poor he turns back his hand" | keeps his hand from the poor |
+| 25, 29 | *lo yittakhen* "is not measured" | is not fair |
+
+### Ezekiel 19: A Lament for the Princes of Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ki nochalah* | that she had waited in vain |
+| 7 | *va-yeda almenotav* "and he knew his widows" | ***KEPT AS IS*** He knew their widows (sense uncertain; note) |
+| 10 | *be-damkha* | ***KEPT AS IS*** in your blood (note; choice below) |
+| 11 | *al bein avotim* | among the thick branches |
+| 14 | *mi-matteh baddeiha* "from the stem of her shoots" | from its stem… its shoots |
+
+### Ezekiel 20: For the Sake of My Name
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 etc. | *va-essa yadi* | I raised My hand (Exodus 6:8; note) |
+| 6 | *tsevi hi le-khol ha-aratsot* "a beauty it is to all the lands" | the most beautiful of all lands |
+| 7 | *shiqqutsei einav* | the loathsome things your eyes delight in |
+| 25 | *chuqqim lo tovim* | statutes that were not good (note) |
+| 29 | *mah ha-bamah… ha-ba'im* | What is this high place that you go to? (note) |
+| 32 | *ve-ha-olah al ruchakhem* "what goes up on your spirit" | What comes into your mind |
+| 37 | *be-masoret ha-berit* | into the bond of the covenant (note) |
+| 46 | *ve-hattef el darom* "and drip toward the south" | preach against the south |
+
+**Left standing on purpose:**
+- 19:7, *He knew their widows*: the Hebrew as it stands; its sense is uncertain, and the Greek reads differently.
+- 20:45–49 in chapter 20: the English and Greek chapter division, followed by the spec.
+
+**Choices for you:**
+- **19:10, *immekha ka-gefen be-damkha***
+  - (a) **Your mother was like a vine in your blood** (now): *be-damkha* as pointed, *dam*, "blood": the vine of the royal house, rooted in the king's own blood line.
+  - (b) **Your mother was like a vine, like you**: the same letters from *damah*, "be like": the mother is like her son, a vine as he was a lion.
+  - Recommend (a): it keeps the Hebrew as pointed; the sense is uncertain either way, and the note gives both.
+
 ## Ezekiel 13–16 — rendered 2026-10-22, 5:49 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 16:6 (*Live* once); 16:36 (agrees, *your copper*). Verse counts match. Four chapters, since chapter 16 runs to 63 verses. Style follows Ezekiel 1–12.

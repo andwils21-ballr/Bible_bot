@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-10-22, Ezekiel 20/21: a chapter-break offset (for HANDOFF.md).** The Hebrew ends Ezekiel 20 at verse 44 and begins chapter 21 with the fire in the forest of the Negev. English Bibles, and Swete's Greek, end chapter 20 with those five verses: English 20:45–49 = Hebrew 21:1–5, and English 21:1–32 = Hebrew 21:6–37. Ezekiel 20 is rendered to 49 verses (its first note says so). `source_text.py ezekiel 21` prints the Hebrew numbering, so the render of English 21 starts at Hebrew 21:6 and its verse numbers are the Hebrew's less five.
 - **2026-10-10, notes in other books that quote Isaiah 10–13 before it was rendered.** Two now differ from Isaiah's English in substance:
   - **Isaiah 11:1** reads *a branch from his roots will bear fruit* (*yifreh*, from *parah*, "be fruitful"). The notes on Matthew 2:23 and 1 Enoch 26:1 quote it as *a branch will grow from his roots*.
   - **Isaiah 11:6** reads *The wolf shall live as a guest with the lamb* (*gur*, the fixed term). The notes on Sirach 13:17 (*the wolf dwell with the lamb*) and Jubilees 37:20–23 (*The wolf shall live with the lamb*) leave out *as a guest*.
