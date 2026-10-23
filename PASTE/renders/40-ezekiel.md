@@ -38,9 +38,9 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | Verse | Word-for-word | In the text now |
 |---|---|---|
 | 3 | *ha-tannim ha-gadol ha-rovets be-tokh ye'orav* "the great monster crouching in the midst of his Niles" | the great monster lying among his streams |
-| 3 | *li ye'ori va-ani asitini* "mine is my Nile, and I made me" | My Nile is my own; I made it for myself (choice below) |
+| 3 | *li ye'ori va-ani asitini* "mine is my Nile, and I made me" | My Nile is my own; I made it for myself (decided, see `PASTE/decided/40-ezekiel.md`) |
 | 5 | *lo te'asef ve-lo tiqqavets* "you will not be gathered and not be collected" | no one will gather you up or collect you |
-| 7 | *ve-ha'amadta lahem kol motnayim* "and you made all their loins stand" | you broke and crushed all their loins (the Greek; choice below) |
+| 7 | *ve-ha'amadta lahem kol motnayim* "and you made all their loins stand" | you broke and crushed all their loins (the Greek; decided, see `PASTE/decided/40-ezekiel.md`) |
 | 10 | *le-chorvot chorev shemamah* "for ruins of waste, a desolation" | an utter ruin and a desolation |
 | 16 | *bi-fnotam achareihem* "in their turning after them" | when they turn to them for help |
 | 18 | *he'evid et cheilo avodah gedolah* "made his army serve a great service" | worked his army hard |
@@ -53,7 +53,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 |---|---|---|
 | 3 | *et goyim yihyeh* "a time of nations it will be" | it will be the time of the nations |
 | 5 | *Kuv* | ***KEPT AS IS*** Cub (a people not otherwise known; note) |
-| 5 | *benei erets ha-berit* "sons of the land of the covenant" | the people of the land of the covenant (choice below) |
+| 5 | *benei erets ha-berit* "sons of the land of the covenant" | the people of the land of the covenant (decided, see `PASTE/decided/40-ezekiel.md`) |
 | 6 | *somekhei Mitsrayim* "the supporters of Egypt" | Those who support Egypt |
 | 9 | *le-hachrid et Kush betach* "to terrify Cush, secure" | to terrify Cush in her security |
 | 16 | *ve-Nof tsarei yomam* "and Noph, foes of daytime" | ***KEPT AS IS*** and Memphis will face foes by day (obscure) |
@@ -78,14 +78,14 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 2 | *kefir goyim nidmeita* "a young lion of nations you were likened / you are ruined" | You thought yourself a young lion of the nations (choice below) |
+| 2 | *kefir goyim nidmeita* "a young lion of nations you were likened / you are ruined" | You thought yourself a young lion of the nations (decided, see `PASTE/decided/40-ezekiel.md`) |
 | 2 | *va-tirpos naharotam* "and you trampled their rivers" | and fouled their rivers |
 | 5 | *ramutekha* | ***KEPT AS IS*** your carcass (a word found only here; note) |
 | 6 | *erets tsafatekha mi-damkha* "the land of your outflow, from your blood" | the land with your flowing blood |
 | 7 | *bi-khabbotkha* "at your quenching" | When I snuff you out |
 | 20 | *cherev nittanah mashkhu otah* "a sword is given; drag her" | The sword has been given; drag her away |
 | 21 | *elei gibborim* "the rams of the mighty" | The mightiest of the mighty ones |
-| 27 | *nofelim me-arelim* "fallen of the uncircumcised" | the mighty ones who fell long ago (the Greek; choice below) |
+| 27 | *nofelim me-arelim* "fallen of the uncircumcised" | the mighty ones who fell long ago (the Greek; decided, see `PASTE/decided/40-ezekiel.md`) |
 | 27 | *va-tehi avonotam al atsmotam* "and their iniquities were on their bones" | ***KEPT AS IS*** whose iniquities lay on their bones (both the Hebrew and the Greek) |
 | 30 | *nesikhei tsafon* "the chieftains of the north" | The chiefs of the north |
 
@@ -94,28 +94,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 31:10 *you were so tall… and it set*: the Hebrew speaks to Pharaoh through the tree, and the English keeps the shift.
 - 32:27 *whose iniquities lay on their bones*: the Hebrew and the Greek agree.
 
-**Choices for you:**
-- **29:3, *asitini***
-  - (a) **I made it for myself** (now): the boast of v9, *The Nile is mine; I made it*, with *for myself*; the Greek has *I made them*, the rivers.
-  - (b) **I made myself**: the plain sense of the ending *-ni*, *me*. Pharaoh claims to be his own maker, as Tyre's ruler said *I am a god* (28:2).
-  - Recommend (a): the oracle repeats the boast in v9 as *I made it*, and the Greek reads it the same way.
-- **29:7, the leaning on the reed**
-  - (a) **you broke and crushed all their loins** (now): the Greek.
-  - (b) **you made all their loins stand**: the Hebrew as it stands, perhaps *brought them to a standstill*.
-  - Recommend (a): the line then names an injury, as the line before does (*tore open every shoulder*).
-- **30:5, *benei erets ha-berit***
-  - (a) **the people of the land of the covenant** (now): both readings left open, as in the Hebrew.
-  - (b) **the people of the allied land**: Egypt's treaty partners, like the rest of the list.
-  - (c) **the people of the covenant**: Judeans who had gone down to Egypt (Jeremiah 43:7); the Greek has *the sons of My covenant*.
-  - Recommend (a): the Hebrew can mean either, and the English can too.
-- **32:2, *nidmeita***
-  - (a) **You thought yourself a young lion of the nations** (now): *you were likened*, the verb of 31:2, 18, *Whom are you like?*; the Greek reads it so.
-  - (b) **Young lion of the nations, you are ruined**: the same letters as Isaiah 6:5, *I am ruined*; a lament's opening cry.
-  - Recommend (a): chapter 31 has just asked twice, with this verb, whom Pharaoh is like.
-- **32:27, the mighty ones**
-  - (a) **the mighty ones who fell long ago** (now): the Greek's *from of old*, the words of Genesis 6:4, *the mighty ones who were of old*; the Hebrew's *not* kept.
-  - (b) **the fallen mighty ones of the uncircumcised**: the Hebrew as it stands.
-  - Recommend (a): everywhere else in the chapter *the uncircumcised* are the dead without honor, while these lie with their swords under their heads; and Ezekiel's pit already holds *the people of old* (26:20).
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 **Not yet checked off in `PASTE/edits.md`:** the four questions under Deuteronomy 1–3 (the Anakim, the giants after the flood, the killing in war, God speaking then and now).
 
