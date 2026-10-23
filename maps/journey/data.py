@@ -137,6 +137,10 @@ place("dan", "Dan", 35.652, 33.249, pos="e", tier=2, note="Earlier Leshem {Joshu
 place("bezer", "Bezer", 35.88, 31.70, False, pos="e", tier=3, note="Not located.")
 place("ramoth", "Ramoth in Gilead", 36.03, 32.53, False, pos="e", tier=3, note="Probably Tell er-Rumeith.")
 place("golan", "Golan", 35.84, 32.80, False, pos="w", tier=3, note="Not located for certain.")
+place("zedad", "Zedad", 36.92, 34.31, False, pos="w", tier=3,
+      note="On the northern border of the promised land {Numbers 34:8}; probably Sadad.")
+place("hazarenan", "Hazar-enan", 36.80, 33.72, False, pos="w", tier=3,
+      note="Where the northern border ends and the eastern begins {Numbers 34:9} {Numbers 34:10}; not located.")
 place("witness", "the altar Witness", 35.53, 32.07, False, pos="ne", tier=3,
       note="Built “at the frontier of the land of Canaan, in the region of the Jordan” {Joshua 22:11}; the place is not known.")
 
@@ -180,8 +184,8 @@ STAGES = [
       act=["dibon", "jahaz", "heshbon", "jazer", "edrei", "ashtaroth", "rabbah", "nebo"],
       text="Sihon king of the Amorites would not let Israel pass and fought them at Jahaz; Israel took his land “from the Arnon to the Jabbok” {Numbers 21:23} {Numbers 21:24}. Then they went up by the road to Bashan, and Og came out to battle at Edrei {Numbers 21:33}. Og “was left of the remnant of the Rephaim”; his iron bed was kept in Rabbah of the Ammonites {Deuteronomy 3:11}. Bashan, with sixty walled towns, “is called a land of Rephaim” {Deuteronomy 3:4} {Deuteronomy 3:13}."),
  dict(key="moab", title="The plains of Moab", when="Year 40 · month 11 · day 1", cam="l",
-      act=["shittim", "bethjeshimoth"],
-      text="Israel camped in the plains of Moab, across the Jordan from Jericho {Numbers 22:1}, from Beth-jeshimoth to Abel-shittim {Numbers 33:49}. Balak brought Balaam to curse them, and he blessed them three times {Numbers 24:10}. Moses gave the kingdoms of Sihon and Og to Reuben, Gad and half the tribe of Manasseh {Numbers 32:33}. On the first day of the eleventh month of the fortieth year he began the words of Deuteronomy {Deuteronomy 1:3}."),
+      act=["shittim", "bethjeshimoth", "lebohamath", "zedad", "hazarenan"],
+      text="Israel camped in the plains of Moab, across the Jordan from Jericho {Numbers 22:1}, from Beth-jeshimoth to Abel-shittim {Numbers 33:49}. Balak brought Balaam to curse them, and he blessed them three times {Numbers 24:10}. Moses gave the kingdoms of Sihon and Og to Reuben, Gad and half the tribe of Manasseh {Numbers 32:33}. There the LORD set out the borders of the land they were to inherit, “the land of Canaan with its borders” {Numbers 34:2}: from the Brook of Egypt to Lebo-hamath, and from the Great Sea to the Jordan. On the first day of the eleventh month of the fortieth year he began the words of Deuteronomy {Deuteronomy 1:3}."),
  dict(key="nebo", title="Moses sees the land", when="Year 40", cam="l",
       act=["nebo", "bethpeor", "dan", "zoar", "jericho"],
       text="Moses went up Mount Nebo, the top of Pisgah, and the LORD showed him all the land: Gilead as far as Dan, Naphtali, Ephraim and Manasseh, all Judah as far as the western sea, the Negev, and the valley of Jericho as far as Zoar {Deuteronomy 34:1} {Deuteronomy 34:3}. “I have let you see it with your eyes, but you shall not cross over there” {Deuteronomy 34:4}. He died there in the land of Moab, and no one knows his burial place {Deuteronomy 34:5} {Deuteronomy 34:6}."),
@@ -207,7 +211,7 @@ STAGES = [
       act=["kedesh", "shechem", "hebron", "bezer", "ramoth", "golan", "witness", "shiloh"],
       text="Six cities of refuge were set apart: Kedesh, Shechem and Hebron west of the Jordan; Bezer, Ramoth in Gilead and Golan east of it {Joshua 20:7} {Joshua 20:8}. The Levites received forty-eight towns {Joshua 21:41}. “Not one word failed of all the good word that the LORD had spoken to the house of Israel. It all came to pass” {Joshua 21:45}. The eastern tribes went home and built an altar by the Jordan, which they called Witness {Joshua 22:9} {Joshua 22:34}."),
  dict(key="bones", title="The bones of Joseph", when="Joshua 24 · Joshua is 110", cam="j",
-      act=["shechem", "timnath", "gibeahph", "rameses"],
+      act=["shechem", "timnath", "gibeahph", "rameses", "lebohamath", "zedad", "hazarenan"],
       text="Joshua gathered all the tribes of Israel to Shechem, and there he made a covenant with the people {Joshua 24:1} {Joshua 24:25}. He died a hundred and ten years old and was buried at Timnath-serah {Joshua 24:29} {Joshua 24:30}. “The bones of Joseph, which the sons of Israel brought up from Egypt, they buried at Shechem” {Joshua 24:32}: Joseph's request {Genesis 50:25}, carried out of Egypt by Moses {Exodus 13:19}, kept at the end of the road."),
 ]
 
@@ -255,6 +259,14 @@ SEGS = [
  ("rest", "return", ["shiloh", (35.47, 32.06), (35.72, 32.12)]),
  ("bones", "camp", ["shiloh", "shechem"]),
 ]
+
+# The borders promised in Numbers 34:3-12, drawn from the south-west corner round.
+# Mount Hor of the north, Ziphron, Shepham and Riblah are not located and are not marked.
+PROMISED = [(33.80, 31.13), (33.85, 31.00), (33.95, 30.85), (34.25, 30.70), (34.33, 30.62), (34.43, 30.57),
+            (34.75, 30.67), (35.00, 30.79), (35.17, 30.91), (35.43, 31.02),
+            (35.47, 31.30), (35.52, 31.60), (35.56, 31.77), (35.58, 32.10), (35.58, 32.40), (35.60, 32.70),
+            (35.66, 32.82), (35.72, 33.00), (36.10, 33.30), (36.55, 33.55), (36.80, 33.72),
+            (36.92, 34.31), (36.37, 34.20), (36.05, 34.35), (35.82, 34.43)]
 
 # Moses' view from Nebo (Deuteronomy 34:1-3).
 SIGHT = [(35.652, 33.249), (35.45, 33.0), (35.22, 32.25), (34.95, 31.62), (34.45, 31.80),

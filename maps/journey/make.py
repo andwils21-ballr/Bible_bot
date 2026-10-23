@@ -257,6 +257,9 @@ svg.append('<g class="g-mt mt-l">' + "".join(f'<path d="{hill(a, b, s)}"/>' for 
 for name, f, t, pts in D.ROADS:
     svg.append(f'<path class="g-road" d="{smooth_d(pts)}"{attrs_ft(IDX[f], si(t))}/>')
 
+# the borders promised (Numbers 34), from the plains of Moab on
+svg.append(f'<path class="g-promise" d="{smooth_d(D.PROMISED)}"{attrs_ft(IDX["moab"], None)}/>')
+
 # Nebo sight lines
 nx, ny = xy(D.P["nebo"]["lon"], D.P["nebo"]["lat"])
 sight = "".join(f'M{fmt(nx)},{fmt(ny)}L{fmt(xy(*p)[0])},{fmt(xy(*p)[1])}' for p in D.SIGHT)
@@ -338,6 +341,10 @@ for name, f, t, pts in D.ROADS:
     if ang > 90: ang -= 180
     if ang < -90: ang += 180
     alab.append(label(name, (a1 + a2) / 2, (b1 + b2) / 2, "al road", IDX[f], si(t), round(ang)))
+(a1, b1), (a2, b2) = D.PROMISED[5], D.PROMISED[6]
+x1, y1 = xy(a1, b1); x2, y2 = xy(a2, b2)
+alab.append(label("the borders promised", (a1 + a2) / 2, (b1 + b2) / 2 - 0.05, "al promise", IDX["moab"], None,
+                  round(math.degrees(math.atan2(y2 - y1, x2 - x1)))))
 svg.append('<g class="g-al">' + "".join(alab) + '</g>')
 svg.append('<g class="g-pt">' + "".join(labels) + '</g>')
 

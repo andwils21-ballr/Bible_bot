@@ -31,10 +31,12 @@ Changes to chapters already rendered, filed under the book the request started i
 
 **Choices for you:**
 - **The borders promised in Numbers 34**
+  - ✅ Decided 2026-10-23: (b), add the promised line. Done the same day: a gold dashed line from stage 13 (the plains of Moab, where Numbers 34 is given) to the end, with Zedad and Hazar-enan marked, the stage 13 caption quoting *the land of Canaan with its borders* (Numbers 34:2), and a line in the key.
   - (a) **leave the map as it is** (now): it shows the land taken and the land that remained.
   - (b) **add the promised line**: Numbers 34:1–12 draws the land from the Brook of Egypt to Lebo-hamath, from the Great Sea to the Jordan; a gold line on the last stages would show the promise beside what was held. Several of its points (Zedad, Ziphron, Hazar-enan) are disputed.
   - Recommend (b): it answers the question the map raises, how much of the promise Joshua's generation held.
 - **A companion map for Genesis**
+  - ✅ Decided 2026-10-23: (b), make it.
   - (a) **none** (now).
   - (b) **Abraham, Isaac and Jacob**: Ur and Haran to Shechem, Bethel, Hebron and Egypt, ending where this map begins. Genesis is closed, so it waits on your word.
   - Recommend (a) for now: finish reading Joshua with this one first.
