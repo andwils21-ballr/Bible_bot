@@ -25,10 +25,12 @@ OUT = os.path.join(ROOT, "docx")
 
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 ITAL_RE = re.compile(r"(?<!\*)\*([^*]+?)\*(?!\*)")
+LINK_RE = re.compile(r"\[([^\]]+)\]\((#/[^)\s]+)\)")
 
 
 def add_rich(par, text):
     """Add text to a paragraph, honouring **bold** and *italic*."""
+    text = LINK_RE.sub(r"\1", text)   # a link into the website prints as its words
     for chunk in re.split(r"(\*\*.+?\*\*|(?<!\*)\*[^*]+?\*(?!\*))", text):
         if not chunk:
             continue

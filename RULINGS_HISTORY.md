@@ -4,6 +4,10 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-10-23, the map link.** Andrew asked for a map of the journey after
+  Joshua 24, with links to it from notes between the Exodus and the end of
+  Joshua. The link form in the spec's file format came from that; the site
+  shows it as a link, the Word file as plain words.
 - **2026-10-17, the instruction files.** The spec was split into Part 1 (every
   run) and Part 2 (one book), its history moved here, and the finished loop
   files moved to `archive/` (`CLAUDE.md` §8).

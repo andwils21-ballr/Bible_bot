@@ -40,6 +40,8 @@ def inline(s):
     s = html.escape(s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", s)
+    # [text](#/joshua/s1/4): a note pointing into the site, such as the map
+    s = re.sub(r"\[([^\]]+)\]\((#/[^)\s]+)\)", r'<a href="\2">\1</a>', s)
     return s.replace("  \n", "<br>\n")
 
 
@@ -413,6 +415,12 @@ async function route(){
           `${d.chapters[d.chapters.length-1].n}</b></a>` : '')+
       `<a class="up" href="#/${slug}">`+
       `<small>All</small><b>${d.book.title}</b></a></div>`;
+    // innerHTML leaves a script inert; a chart that moves (the Joshua map) needs it run
+    view.querySelectorAll('.supp script').forEach(o=>{
+      const n=document.createElement('script');
+      for(const a of o.attributes) n.setAttribute(a.name,a.value);
+      n.textContent=o.textContent; o.replaceWith(n);
+    });
     window.scrollTo(0,0); stop(); P.q=[]; bar.classList.remove('on');
     keep('last','#/'+slug+'/'+ch);
     return;

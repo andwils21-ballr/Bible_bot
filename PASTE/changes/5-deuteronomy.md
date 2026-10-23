@@ -2,6 +2,43 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## The map after Joshua 24, and links to it from the notes (2026-10-23, 5:35 PM Central)
+
+**Request:** Andrew: a map, at the end of Joshua, of the path the sons of Israel took out of Egypt and the land they took on the way, shown as a time-lapse; Israel's land coloured and the tribes named where they settled; the giant peoples' lands in another colour, with their names and towns; places not known are fine, but follow the directions the text gives; an old parchment look; and links from a few notes, from leaving Egypt to the end of the journey.
+
+**What was done:**
+- **The map**, *From Egypt to the Land*, after Joshua 24 on the site: 21 stages from Rameses (Numbers 33:3) to the burial of Joseph's bones at Shechem (Joshua 24:32), with Play, step buttons, a slider, and two views (the whole journey; the land). Each stage gives its date from the text and quotes this rendering; every reference opens the verse.
+- **Directions followed:** not by the way of the Philistines (Exodus 13:17); out to the edge of the wilderness and back to the sea (13:20, 14:2); south along the gulf after Elim (Numbers 33:10); eleven days from Horeb by the way of Mount Seir (Deuteronomy 1:2); Mount Hor *on the border of the land of Edom* (Numbers 20:23), so not the traditional site inside Edom; around Edom by the Sea of Reeds, past Elath, then north by the wilderness of Moab (Numbers 21:4; Deuteronomy 2:8); east of Moab and across the Arnon in the wilderness (Judges 11:18). A site not located is an open ring.
+- **The giants:** Anakim (Hebron, Debir, Anab; after Joshua 11, the remnant in Gaza, Gath and Ashdod), Rephaim in Bashan (Og at Ashtaroth and Edrei), Emim in Moab and Zamzummim in Ammon (both gone before the Exodus, Deuteronomy 2:10–11, 20–21), the Valley of Rephaim and the forest of Joshua 17:15.
+- **The land:** Sihon's and Og's land filled at Numbers 21, the south at Joshua 10, the north at Joshua 11; the tribal borders of Joshua 13–19, approximate; the land that remained (Joshua 13:2–6) hatched; the six cities of refuge.
+- **Word edition:** the map prints as two pages (the whole journey; the land at the end of Joshua), then the key and the 21 stages in words.
+- **Machinery:** `build_site.py` now runs a supplement's scripts and turns `[words](#/…)` in a note into a link; `build_docx.py` prints such a link as its words; the link form is in `RENDERING_SPEC.md` (file format). The map is built by `maps/journey/make.py`; `maps/journey/quotecheck.py` found all 34 quotations word for word in the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 13, note v17 | …the people may change their minds when they see war. | …the people may change their minds when they see war. See the map after Joshua 24, stage 1. |
+| Exodus 14, note vv21–22 | …in the vocabulary of the world's making and of its drowning. | …in the vocabulary of the world's making and of its drowning. See the map after Joshua 24, stage 3. |
+| Numbers 13, note v33 | …The Greek has only *we saw the giants*, and not that clause. | …The Greek has only *we saw the giants*, and not that clause. See the map after Joshua 24, stage 8. |
+| Numbers 21, note vv17–18 | …*I will give them water* (v16). | …*I will give them water* (v16). See the map after Joshua 24, stage 11. |
+| Numbers 33, note v2 | …the verb of every line that follows: *they set out*. | …the verb of every line that follows: *they set out*. See the map after Joshua 24, stage 1. |
+| Deuteronomy 2, note vv10–12, 20–23 | …Each people took its land from an older people, and the LORD gave it. | …Each people took its land from an older people, and the LORD gave it. See the map after Joshua 24, stage 11. |
+| Deuteronomy 3, note v11 | …the verse is an aside from the speech, set in parentheses. | …the verse is an aside from the speech, set in parentheses. See the map after Joshua 24, stage 12. |
+| Deuteronomy 34, note vv1–3 | …before any of it is taken. | …before any of it is taken. See the map after Joshua 24, stage 14. |
+| Joshua 3, note v16 | …the pile-up reached from Adam down. | …the pile-up reached from Adam down. See the map after Joshua 24, stage 15. |
+| Joshua 11, note vv21–22 | …Goliath of Gath will come from them (1 Samuel 17:4). | …Goliath of Gath will come from them (1 Samuel 17:4). See the map after Joshua 24, stage 18. |
+| Joshua 21, note vv43–45 | …what remains is Israel's part. | …what remains is Israel's part. See the map after Joshua 24, stage 20. |
+| Joshua 24, note vv29–33 | …the story Judges 3 tells. | …the story Judges 3 tells. See the map after Joshua 24, stage 21. |
+
+**Choices for you:**
+- **The borders promised in Numbers 34**
+  - (a) **leave the map as it is** (now): it shows the land taken and the land that remained.
+  - (b) **add the promised line**: Numbers 34:1–12 draws the land from the Brook of Egypt to Lebo-hamath, from the Great Sea to the Jordan; a gold line on the last stages would show the promise beside what was held. Several of its points (Zedad, Ziphron, Hazar-enan) are disputed.
+  - Recommend (b): it answers the question the map raises, how much of the promise Joshua's generation held.
+- **A companion map for Genesis**
+  - (a) **none** (now).
+  - (b) **Abraham, Isaac and Jacob**: Ur and Haran to Shechem, Bethel, Hebron and Egypt, ending where this map begins. Genesis is closed, so it waits on your word.
+  - Recommend (a) for now: finish reading Joshua with this one first.
+
 ## Deuteronomy 1–3: *there*, the speaker, *Rephaim*, *from before them*, 2:25, Og's bed (2026-10-23, 10:00 AM Central)
 
 **Request:** Andrew, `PASTE/edits.md`: 1:37, *Where is "there"?*; 1:46, *should there be an ending quotation mark?*; chapter 2, *is this still Moses talking?*; 2:11, *What is Rephaim?*; 2:12, *clunky sentence with 3 "thems"*; 2:25, *worded strangely*; 3:11, *confused by the question about where the iron bed is; why parentheses?*

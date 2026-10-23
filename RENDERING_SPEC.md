@@ -63,6 +63,8 @@ rendered: 2026-09-14
   marker and break lines with a trailing double space. The site and the Word
   build depend on this exact convention.
 - `## Notes` is mandatory: three to ten entries, each anchored to a verse.
+- A note's one permitted link:
+  `See [the map after Joshua 24, stage N](#/joshua/s1/N).`
 - No preamble and no sign-off.
 
 ## Word rules

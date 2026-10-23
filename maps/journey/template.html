@@ -1,0 +1,468 @@
+<div class="jm" id="jm" tabindex="-1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+<style>
+  #jm{--paper:#f1e5c6;--edge:#b99a62;--ink:#3a2a1a;--ink2:#6b5336;--sea:rgba(122,150,128,.42);
+      --sealine:#86998a;--river:#4a7084;--route:#962a1b;--march:#b0442c;--isr:#6d8d43;--isrline:#4d692b;
+      --giant:#9c1f3c;--rem:#7a5a33;--gold:#a8801f;--halo:#f4ead0;
+      --fell:'IM Fell English',Georgia,'Iowan Old Style',serif;--fellsc:'IM Fell English SC','IM Fell English',Georgia,serif;
+      font:15px/1.55 Georgia,'Iowan Old Style',serif;color:var(--ink);margin:0 0 6px;outline:none}
+  @media (prefers-color-scheme:dark){#jm{--paper:#d9c9a2;--edge:#9b7d48;--halo:#ddcfaa}}
+  #jm *{box-sizing:border-box}
+  #jm .jm-sheet{display:flex;align-items:flex-start;border:1px solid var(--edge);border-radius:3px;
+      background:var(--paper);box-shadow:0 1px 0 rgba(255,255,255,.4) inset,0 6px 24px rgba(60,40,10,.16);
+      background-image:radial-gradient(ellipse at 50% 40%,rgba(255,252,240,.55),rgba(255,252,240,0) 60%,rgba(120,80,30,.16)),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .36 0 0 0 0 .26 0 0 0 0 .12 0 0 0 .10 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  #jm .jm-map{position:relative;flex:0 0 auto;width:min(60%,calc((100vh - 110px)*.82));min-width:340px;margin:14px 0 14px 14px}
+  #jm .jm-map::after{content:"";position:absolute;inset:0;border:1px solid var(--ink2);
+      box-shadow:0 0 0 3px var(--paper),0 0 0 4px var(--ink2);pointer-events:none}
+  #jm .jm-svg{display:block;width:100%;height:auto;--u:1;user-select:none;-webkit-user-select:none}
+  #jm .jm-side{flex:1;min-width:0;padding:16px 20px 18px}
+  #jm button{font:inherit;color:inherit;cursor:pointer}
+  @media (max-width:880px){
+    #jm .jm-sheet{display:block}
+    #jm .jm-map{width:auto;min-width:0;margin:10px}
+    #jm .jm-side{padding:6px 14px 16px}
+  }
+  /* a supplement's column is padded 3vw a side (main.wide); on a phone the map takes the full width */
+  @media (max-width:600px){#jm{margin:0 -3vw}#jm .jm-sheet{border-left:0;border-right:0;border-radius:0}#jm .jm-map{margin:8px}}
+
+  /* --- the map --- */
+  /* the sea's edge is the coastline; its outer edge lies beyond both views */
+  #jm .sea{fill:var(--sea);stroke:var(--ink);stroke-width:calc(var(--u)*1.05px);stroke-linejoin:round}
+  #jm .g-wl path{fill:none;stroke:var(--sealine);stroke-width:calc(var(--u)*.7px);opacity:.75}
+  #jm .g-wl path+path{opacity:.4}
+  #jm .g-lake path{fill:rgba(122,150,128,.55);stroke:var(--ink);stroke-width:calc(var(--u)*.9px)}
+  #jm .g-river{fill:none;stroke:var(--river);stroke-width:calc(var(--u)*1.25px);stroke-linejoin:round;stroke-linecap:round}
+  #jm .g-wadi path{fill:none;stroke:var(--river);stroke-width:calc(var(--u)*1px);
+      stroke-dasharray:calc(var(--u)*4px) calc(var(--u)*2.5px);opacity:.85}
+  #jm .g-mt path{fill:none;stroke:var(--ink2);stroke-width:calc(var(--u)*.9px);stroke-linecap:round;opacity:.8}
+  #jm .mt-l{display:none} #jm .cam-l .mt-l{display:inline} #jm .cam-l .mt-j{display:none}
+  #jm .g-road{fill:none;stroke:#8a6a3c;stroke-width:calc(var(--u)*1.2px);
+      stroke-dasharray:calc(var(--u)*7px) calc(var(--u)*3px) calc(var(--u)*1.5px) calc(var(--u)*3px);opacity:.75}
+  #jm .g-sight{fill:none;stroke:var(--gold);stroke-width:calc(var(--u)*1.1px);
+      stroke-dasharray:calc(var(--u)*2px) calc(var(--u)*4px);stroke-linecap:round}
+  #jm .a-isr{fill:var(--isr);fill-opacity:.30;stroke:var(--isrline);stroke-width:calc(var(--u)*1px);stroke-opacity:.6}
+  #jm .a-king{fill:none;stroke:#7a5a33;stroke-width:calc(var(--u)*1.3px);stroke-dasharray:calc(var(--u)*6px) calc(var(--u)*4px)}
+  #jm .a-giant{fill:url(#jm-hg);stroke:var(--giant);stroke-width:calc(var(--u)*1px);stroke-opacity:.7}
+  #jm .a-giant.gone{opacity:.35}
+  #jm .a-giant.former{opacity:.45;stroke-dasharray:calc(var(--u)*3px) calc(var(--u)*3px)}
+  #jm .hg{stroke:var(--giant);stroke-width:1.1;opacity:.55}
+  #jm .a-rem{fill:url(#jm-hr);stroke:var(--rem);stroke-width:calc(var(--u)*.9px);stroke-opacity:.7}
+  #jm .hr{stroke:var(--rem);stroke-width:.9;opacity:.6}
+  #jm .a-wander{fill:url(#jm-hw);stroke:var(--route);stroke-width:calc(var(--u)*1px);
+      stroke-dasharray:calc(var(--u)*2px) calc(var(--u)*3px);stroke-opacity:.6}
+  #jm .hw{stroke:var(--route);stroke-width:1;opacity:.4}
+  #jm .g-tribe{fill:none;stroke:var(--isrline);stroke-width:calc(var(--u)*1.25px);
+      stroke-dasharray:calc(var(--u)*1px) calc(var(--u)*3px);stroke-linecap:round}
+
+  #jm .seg path{fill:none;stroke-linecap:round;stroke-linejoin:round}
+  #jm .k-camp path{stroke:var(--route);stroke-width:calc(var(--u)*3px)}
+  #jm .k-march path{stroke:var(--march);stroke-width:calc(var(--u)*1.8px);
+      stroke-dasharray:calc(var(--u)*6px) calc(var(--u)*3px)}
+  #jm .k-return path{stroke:var(--march);stroke-width:calc(var(--u)*1.4px);
+      stroke-dasharray:calc(var(--u)*1.5px) calc(var(--u)*4px);opacity:.75}
+  #jm .k-spies path{stroke:var(--ink2);stroke-width:calc(var(--u)*1.7px);
+      stroke-dasharray:calc(var(--u)*1.5px) calc(var(--u)*3.5px)}
+  #jm .k-wander path{stroke:var(--route);stroke-width:calc(var(--u)*1.6px);
+      stroke-dasharray:calc(var(--u)*1px) calc(var(--u)*4px);opacity:.8}
+  #jm .seg.past path{opacity:.62}
+  #jm .seg.past.k-camp path{opacity:.8}
+  #jm .ar{fill:var(--route)}
+  #jm .k-march .ar,#jm .k-return .ar{fill:var(--march)}
+  #jm .mk{fill:none;stroke:#fff;stroke-width:calc(var(--u)*18px);stroke-linecap:round}
+  #jm .bones .k-camp path{stroke:var(--gold)}
+  #jm .bones .ar{fill:var(--gold)}
+
+  #jm .pl path{fill:none;stroke-linecap:round}
+  #jm .pl .d{stroke:var(--ink);stroke-width:calc(var(--u)*4.6px)}
+  #jm .pl .di{stroke:none}
+  #jm .pl.u .d{stroke-width:calc(var(--u)*5.4px)}
+  #jm .pl.u .di{stroke:var(--halo);stroke-width:calc(var(--u)*2.8px)}
+  #jm .pl:not(.act) .d{opacity:.8}
+  #jm .pl.act .d{stroke:var(--route);stroke-width:calc(var(--u)*7px)}
+  #jm .pl.u.act .di{stroke-width:calc(var(--u)*3.6px)}
+  #jm .pl .gr{stroke-width:calc(var(--u)*11px);stroke:var(--giant);opacity:.85}
+  #jm .pl .gr.gone,#jm .pl .gr.former{opacity:.35}
+  #jm .pl .hit{stroke:transparent;stroke-width:calc(var(--u)*20px);pointer-events:stroke;cursor:pointer}
+  #jm .pl.ref .d{stroke:var(--gold)}
+
+  #jm text{font-family:var(--fell);fill:var(--ink);paint-order:stroke;stroke:var(--halo);
+      stroke-width:calc(var(--u)*2.6px);stroke-linejoin:round;stroke-opacity:.85}
+  #jm .al{text-anchor:middle;dominant-baseline:middle}
+  #jm .al.nation{font-family:var(--fellsc);font-size:calc(var(--u)*12.5px);letter-spacing:.18em;fill:var(--ink2)}
+  #jm .al.region{font-style:italic;font-size:calc(var(--u)*11.5px);fill:var(--ink2)}
+  #jm .al.people{font-style:italic;font-size:calc(var(--u)*11.5px);fill:#5c4528}
+  #jm .al.kingdom{font-style:italic;font-size:calc(var(--u)*12px);fill:#5c4528}
+  #jm .al.sea{font-style:italic;font-size:calc(var(--u)*15px);letter-spacing:.32em;fill:#4c6656;stroke:none}
+  #jm .al.water{font-style:italic;font-size:calc(var(--u)*12px);letter-spacing:.08em;fill:#4c6656;stroke:none}
+  #jm .al.water-s{font-style:italic;font-size:calc(var(--u)*9.5px);fill:#3f584a;stroke:none}
+  #jm .al.river{font-style:italic;font-size:calc(var(--u)*10.5px);fill:var(--river)}
+  #jm .al.river.w{font-size:calc(var(--u)*9.5px)}
+  #jm .al.road{font-style:italic;font-size:calc(var(--u)*9.5px);fill:#7a5a33}
+  #jm .al.tribe{font-family:var(--fellsc);font-size:calc(var(--u)*13px);letter-spacing:.14em;fill:#38521d;display:none}
+  #jm .cam-l .al.tribe{display:inline}
+  #jm .al.giant{font-family:var(--fellsc);font-style:italic;font-size:calc(var(--u)*12.5px);letter-spacing:.12em;fill:var(--giant)}
+  #jm .al.giant.gone,#jm .al.giant.former{font-family:var(--fell);letter-spacing:.02em;font-size:calc(var(--u)*11px);opacity:.8}
+  #jm .vl{display:none} #jm .cam-l .vl{display:inline} #jm .cam-l .vj{display:none}
+  #jm .bones .al.giant.former:not(.act){display:none}
+  #jm .al.giant.name{font-family:var(--fell);letter-spacing:0;font-size:calc(var(--u)*10px);display:none}
+  #jm .cam-l .al.giant.name{display:inline}
+  #jm .zout .al.region,#jm .zout .al.road,#jm .zout .al.river.w{display:none}
+  #jm .pt{font-size:calc(var(--u)*11px);display:none;cursor:pointer}
+  #jm .pt.t1,#jm .pt.act,#jm .zin .pt.t2{display:inline}
+  #jm .pt.act{font-size:calc(var(--u)*12.5px);fill:#6e1a10}
+  #jm .off{display:none!important}
+  #jm .new.a-isr{animation:jm-glow 1.8s ease-out}
+  #jm .new.al,#jm .new.pt{animation:jm-fade .9s ease-out}
+  @keyframes jm-glow{0%{fill-opacity:0;stroke-opacity:0}35%{fill-opacity:.5;stroke-opacity:1}100%{fill-opacity:.3}}
+  @keyframes jm-fade{from{opacity:0}to{opacity:1}}
+
+  /* --- overlays --- */
+  #jm .jm-cart{position:absolute;left:12px;top:12px;max-width:62%;padding:8px 12px 9px;
+      background:rgba(244,234,208,.88);border:1px solid var(--ink2);box-shadow:0 0 0 2px rgba(244,234,208,.88),0 0 0 3px var(--ink2);
+      font-family:var(--fell);line-height:1.2;pointer-events:none}
+  #jm .jm-cart-h{font-family:var(--fellsc);font-size:12px;letter-spacing:.16em;color:var(--ink2)}
+  #jm .jm-cart-t{font-size:19px;margin-top:2px}
+  #jm .jm-cart-w{font-style:italic;font-size:13.5px;color:var(--ink2);margin-top:2px}
+  #jm .jm-rose{position:absolute;right:12px;top:10px;width:52px;height:64px;pointer-events:none;opacity:.9}
+  #jm .jm-scale{position:absolute;right:14px;bottom:12px;text-align:right;font:italic 12px/1 var(--fell);color:var(--ink);pointer-events:none}
+  #jm .jm-scale i{display:block;height:6px;border:1px solid var(--ink);border-top:0;margin-bottom:4px;
+      background:linear-gradient(90deg,var(--ink) 0 25%,transparent 25% 50%,var(--ink) 50% 75%,transparent 75%) bottom/100% 2px no-repeat}
+  @media (max-width:600px){
+    #jm .jm-cart{display:none}
+    #jm .al.sea{font-size:calc(var(--u)*12px);letter-spacing:.2em}
+    #jm .jm-rose{width:38px;height:47px;right:8px;top:8px}
+  }
+
+  /* --- the side --- */
+  #jm .jm-ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 12px}
+  #jm .jm-ib{width:40px;height:38px;border:1px solid var(--edge);border-radius:4px;background:rgba(255,250,236,.6);
+      display:inline-flex;align-items:center;justify-content:center;padding:0}
+  #jm .jm-ib svg{width:16px;height:16px;fill:var(--ink)}
+  #jm .jm-play{height:38px;padding:0 16px 0 12px;border:1px solid var(--route);border-radius:4px;background:var(--route);
+      color:#fbf3e2;display:inline-flex;align-items:center;gap:7px;font-family:var(--fell);font-size:16px}
+  #jm .jm-play svg{width:15px;height:15px;fill:#fbf3e2}
+  #jm .jm-range{flex:1 1 160px;min-width:120px;accent-color:var(--route)}
+  #jm .jm-view{display:flex;border:1px solid var(--edge);border-radius:4px;overflow:hidden}
+  #jm .jm-view button{border:0;background:rgba(255,250,236,.6);padding:7px 11px;font-family:var(--fell);font-size:14.5px}
+  #jm .jm-view button+button{border-left:1px solid var(--edge)}
+  #jm .jm-view button.on{background:var(--ink2);color:#fbf3e2}
+  #jm .jm-cap-n{font:12px/1.2 var(--fellsc);letter-spacing:.14em;color:var(--ink2)}
+  #jm .jm-cap-t{font:24px/1.15 var(--fell);margin:3px 0 2px}
+  #jm .jm-cap-w{font:italic 15px/1.3 var(--fell);color:var(--ink2);margin:0 0 8px}
+  #jm .jm-cap-x{margin:0 0 14px;font-size:15.5px;line-height:1.6}
+  #jm .jm-ref{color:#7a2416;text-decoration:none;border-bottom:1px dotted rgba(122,36,22,.5);white-space:nowrap}
+  #jm .jm-ref:hover{border-bottom-style:solid}
+  #jm .jm-key{margin:6px 0 12px;font-size:13.5px;color:var(--ink2)}
+  #jm .jm-key summary{cursor:pointer;font:15px var(--fell);color:var(--ink)}
+  #jm .jm-key ul{list-style:none;margin:8px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(205px,1fr));gap:5px 14px}
+  #jm .jm-key li{display:flex;align-items:center;gap:8px;line-height:1.3}
+  #jm .jm-key svg{flex:none;width:30px;height:14px}
+  #jm .jm-list{margin:4px 0 12px;padding:0 0 0 0;list-style:none;counter-reset:s;columns:2 230px;column-gap:18px}
+  #jm .jm-list li{counter-increment:s;break-inside:avoid}
+  #jm .jm-list button{display:block;width:100%;text-align:left;border:0;background:none;padding:3px 4px;border-radius:3px;
+      font:14.5px/1.35 var(--fell);color:var(--ink)}
+  #jm .jm-list button::before{content:counter(s) ". ";color:var(--ink2)}
+  #jm .jm-list button:hover{background:rgba(150,42,27,.08)}
+  #jm .jm-list li.on button{background:rgba(150,42,27,.14);color:#6e1a10}
+  #jm .jm-list p{display:none}
+  #jm .jm-src{font-size:12.5px;color:var(--ink2);margin:10px 0 0;line-height:1.45}
+  #jm .jm-pop{position:fixed;z-index:30;left:50%;bottom:14px;transform:translateX(-50%);width:min(540px,calc(100vw - 20px));
+      max-height:45vh;overflow:auto;background:#f6ecd2;color:var(--ink);border:1px solid var(--ink2);border-radius:4px;
+      box-shadow:0 10px 30px rgba(40,25,5,.35);padding:12px 40px 12px 16px;font-size:15px;line-height:1.55}
+  #jm .jm-pop b{font:17px var(--fell)}
+  #jm .jm-pop p{margin:6px 0 8px}
+  #jm .jm-pop .x{position:absolute;right:6px;top:6px;width:30px;height:30px;border:0;background:none;font-size:20px;line-height:1;color:var(--ink2)}
+  #jm .jm-pop a{color:#7a2416}
+  #jm .jm-pop small{color:var(--ink2);font-style:italic}
+  #jm .jm-print2{display:none}
+
+  /* --- the Word edition draws this page once, with no address and no clicks --- */
+  #jm.print .jm-ctl,#jm.print .jm-key summary,#jm.print .jm-pop{display:none}
+  #jm.print .jm-list{columns:1}
+  #jm.print .jm-list button{font-size:15px;padding:6px 0 0;pointer-events:none}
+  #jm.print .jm-list p{display:block;margin:2px 0 6px;font-size:13.5px;line-height:1.5}
+  #jm.print .jm-list li.on button{background:none;color:inherit}
+  #jm.print .jm-print2{display:block;position:relative;margin:10px}
+  #jm.print .jm-print2::after{content:"";position:absolute;inset:0;border:1px solid var(--ink2);pointer-events:none}
+  #jm.print .jm-cap{display:none}
+  /* paper grain makes the printed pictures several times larger; keep the tone, drop the grain */
+  #jm.print .jm-sheet{background-image:radial-gradient(ellipse at 50% 40%,rgba(255,252,240,.5),rgba(255,252,240,0) 60%,rgba(120,80,30,.12))}
+</style>
+<div class="jm-sheet">
+  <div class="jm-map">
+    @@SVG@@
+    <div class="jm-cart"><div class="jm-cart-h">From Egypt to the Land · <span class="jm-cart-n"></span></div>
+      <div class="jm-cart-t"></div><div class="jm-cart-w"></div></div>
+    <svg class="jm-rose" viewBox="-26 -38 52 64" aria-hidden="true"><g fill="none" stroke="#3a2a1a" stroke-width="1">
+      <circle r="17" opacity=".5"/><circle r="13.5" opacity=".35"/></g>
+      <path d="M0,-24L4,0L0,22L-4,0Z" fill="#f1e5c6" stroke="#3a2a1a"/><path d="M0,-24L4,0L-4,0Z" fill="#962a1b"/>
+      <path d="M-20,0L0,-3L20,0L0,3Z" fill="#f1e5c6" stroke="#3a2a1a" stroke-width=".8"/>
+      <text y="-28" text-anchor="middle" style="font:13px var(--fellsc);fill:#3a2a1a;stroke:none">N</text></svg>
+    <div class="jm-scale"><i></i><span></span></div>
+  </div>
+  <div class="jm-side">
+    <div class="jm-ctl">
+      <button class="jm-ib" data-step="first" title="First stage" aria-label="First stage"><svg viewBox="0 0 16 16"><path d="M2,2h2v12H2zM14,2v12L5,8z"/></svg></button>
+      <button class="jm-ib" data-step="-1" title="Previous stage (left arrow)" aria-label="Previous stage"><svg viewBox="0 0 16 16"><path d="M12,2v12L3,8z"/></svg></button>
+      <button class="jm-play" aria-label="Play the journey"><svg viewBox="0 0 16 16"><path d="M3,1.5v13L14,8z"/></svg><span>Play</span></button>
+      <button class="jm-ib" data-step="1" title="Next stage (right arrow)" aria-label="Next stage"><svg viewBox="0 0 16 16"><path d="M4,2v12l9-6z"/></svg></button>
+      <button class="jm-ib" data-step="last" title="Last stage" aria-label="Last stage"><svg viewBox="0 0 16 16"><path d="M12,2h2v12h-2zM2,2v12l9-6z"/></svg></button>
+      <input class="jm-range" type="range" min="1" max="@@N@@" value="@@N@@" aria-label="Stage">
+      <div class="jm-view" role="group" aria-label="View"><button data-cam="j">Whole journey</button><button data-cam="l">The land</button></div>
+    </div>
+    <div class="jm-cap">
+      <div class="jm-cap-n"></div><div class="jm-cap-t"></div><div class="jm-cap-w"></div>
+      <p class="jm-cap-x"></p>
+    </div>
+    <details class="jm-key" open><summary>Key</summary><ul>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#962a1b" stroke-width="3" stroke-linecap="round"/></svg>The camps of Israel</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#b0442c" stroke-width="1.8" stroke-dasharray="6 3"/></svg>A campaign or march</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#6b5336" stroke-width="1.7" stroke-dasharray="1.5 3.5" stroke-linecap="round"/></svg>The spies</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="3" fill="#3a2a1a"/></svg>Site known</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="2.6" fill="#f4ead0" stroke="#3a2a1a" stroke-width="1.4"/></svg>Site not located; placed by the text</li>
+      <li><svg viewBox="0 0 30 14"><rect x="3" y="1" width="24" height="12" fill="#6d8d43" fill-opacity=".3" stroke="#4d692b"/></svg>Held by Israel</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#4d692b" stroke-width="1.6" stroke-dasharray="1 3" stroke-linecap="round"/></svg>Tribal border (approximate)</li>
+      <li><svg viewBox="0 0 30 14"><defs><pattern id="jm-k1" patternUnits="userSpaceOnUse" width="5" height="5" patternTransform="rotate(45)"><path d="M0,0V5" stroke="#9c1f3c" stroke-width="1.1" opacity=".6"/></pattern></defs><rect x="3" y="1" width="24" height="12" fill="url(#jm-k1)" stroke="#9c1f3c"/></svg>Land of the giants</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="5.5" fill="#9c1f3c" opacity=".85"/><circle cx="15" cy="7" r="2.3" fill="#3a2a1a"/></svg>A town of the giants</li>
+      <li><svg viewBox="0 0 30 14"><defs><pattern id="jm-k2" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(-45)"><path d="M0,0V6M3,0V6" stroke="#7a5a33" stroke-width=".9" opacity=".6"/></pattern></defs><rect x="3" y="1" width="24" height="12" fill="url(#jm-k2)" stroke="#7a5a33"/></svg>Land that remained (Joshua 13)</li>
+    </ul></details>
+    <ol class="jm-list"></ol>
+    <p class="jm-src">Coastlines, rivers and lakes: Natural Earth (public domain). Most camps of the wilderness have never been found; where a site is not known it is placed by the directions the text gives, and the tribal borders follow Joshua 13–19 only approximately. Quotations are from this rendering.</p>
+  </div>
+</div>
+<div class="jm-print2"></div>
+<div class="jm-pop" hidden></div>
+<script type="application/json" id="jm-data">@@DATA@@</script>
+<script>
+(function(){
+  var R = document.getElementById('jm');
+  if (!R || R.getAttribute('data-on')) return;
+  R.setAttribute('data-on', '1');
+  var D = JSON.parse(document.getElementById('jm-data').textContent);
+  var N = D.stages.length, svg = R.querySelector('.jm-svg');
+  var $ = function(s){ return R.querySelector(s); };
+  var $$ = function(s){ return Array.prototype.slice.call(R.querySelectorAll(s)); };
+  // The Word edition draws this page in a headless browser with no address.
+  var PRINT = !/^#\/[^\/]+\/s\d+/.test(location.hash);
+  var REDUCE = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var timed = $$('.jm-svg [data-f]');
+  var pats = ['jm-hg', 'jm-hr', 'jm-hw'].map(function(id){ return svg.querySelector('#' + id); });
+  var segs = $$('.seg');
+  var cur = 0, cam = null, vb = D.vb.j.slice(), raf = 0, playing = false, timer = 0, chosen = null, run = 0;
+
+  function unitsPerPx(){ var w = svg.getBoundingClientRect().width || 760; return vb[2] / w; }
+  function layout(){
+    var k = unitsPerPx();
+    svg.setAttribute('viewBox', vb.map(function(v){ return v.toFixed(2); }).join(' '));
+    svg.style.setProperty('--u', k.toFixed(5));
+    pats.forEach(function(p, i){ p.setAttribute('patternTransform', 'rotate(' + [45, -45, 30][i] + ') scale(' + k.toFixed(4) + ')'); });
+    svg.classList.toggle('zin', 1 / k > 1.6);
+    svg.classList.toggle('zout', 1 / k < 0.8);
+    var want = 120 * k / 1.4497, m = 10;
+    [10, 20, 25, 50, 100, 200].forEach(function(o){ if (o <= want) m = o; });
+    $('.jm-scale i').style.width = (m * 1.4497 / k).toFixed(1) + 'px';
+    $('.jm-scale span').textContent = m + ' miles';
+  }
+  function setCam(c, anim){
+    if (c === cam) return Promise.resolve();
+    cam = c;
+    svg.classList.toggle('cam-l', c === 'l');
+    $$('.jm-view button').forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-cam') === c); });
+    var from = vb.slice(), to = D.vb[c];
+    cancelAnimationFrame(raf);
+    if (!anim || REDUCE){ vb = to.slice(); layout(); return Promise.resolve(); }
+    var t0 = performance.now(), T = 1100;
+    return new Promise(function(res){
+      function step(now){
+        var p = Math.min(1, (now - t0) / T);
+        var e = p < .5 ? 2 * p * p : 1 - Math.pow(-2 * p + 2, 2) / 2;
+        vb = from.map(function(v, i){ return v + (to[i] - v) * e; });
+        layout();
+        if (p < 1) raf = requestAnimationFrame(step); else res();
+      }
+      raf = requestAnimationFrame(step);
+    });
+  }
+  function mask(g){ return svg.querySelector(g.getAttribute('mask').slice(4, -1) + ' .mk'); }
+  function reveal(list, token){
+    if (!list.length || REDUCE) return Promise.resolve();
+    var k = unitsPerPx(), t = 0;
+    var items = list.map(function(g){
+      var L = g.querySelector('path').getTotalLength() / k;
+      var it = {m: mask(g), d: t, dur: Math.min(2600, Math.max(650, L * 5))};
+      t += it.dur * .8;
+      it.m.style.strokeDasharray = '1 1'; it.m.style.strokeDashoffset = '1';
+      return it;
+    });
+    var t0 = performance.now();
+    return new Promise(function(res){
+      function step(now){
+        if (token !== run){ res(); return; }
+        var done = true;
+        items.forEach(function(it){
+          var p = (now - t0 - it.d) / it.dur;
+          if (p < 1) done = false;
+          p = Math.max(0, Math.min(1, p));
+          it.m.style.strokeDashoffset = String(1 - (1 - Math.pow(1 - p, 2)));
+        });
+        if (!done) requestAnimationFrame(step);
+        else { items.forEach(function(it){ it.m.style.strokeDasharray = ''; it.m.style.strokeDashoffset = ''; }); res(); }
+      }
+      requestAnimationFrame(step);
+    });
+  }
+  function apply(i, anim){
+    cur = i;
+    var s = D.stages[i];
+    timed.forEach(function(el){
+      var f = +el.getAttribute('data-f'), t = el.hasAttribute('data-t') ? +el.getAttribute('data-t') : 1e9;
+      var on = i >= f && i <= t;
+      el.classList.toggle('off', !on);
+      el.classList.toggle('new', !!anim && on && i === f);
+      var a = el.getAttribute('data-a');
+      if (a !== null) el.classList.toggle('act', (',' + a + ',').indexOf(',' + i + ',') >= 0);
+    });
+    segs.forEach(function(g){
+      var f = +g.getAttribute('data-f');
+      g.classList.toggle('cur', f === i); g.classList.toggle('past', f < i);
+      var m = mask(g); m.style.strokeDasharray = ''; m.style.strokeDashoffset = '';
+    });
+    svg.classList.toggle('bones', i === N - 1);
+    $('.jm-cart-n').textContent = (i + 1) + ' of ' + N;
+    $('.jm-cart-t').textContent = s.t; $('.jm-cart-w').textContent = s.w;
+    $('.jm-cap-n').textContent = 'Stage ' + (i + 1) + ' of ' + N;
+    $('.jm-cap-t').textContent = s.t; $('.jm-cap-w').textContent = s.w;
+    $('.jm-cap-x').innerHTML = s.x;
+    $('.jm-range').value = i + 1;
+    $$('.jm-list li').forEach(function(li, j){ li.classList.toggle('on', j === i); });
+    if (!PRINT && history.replaceState){
+      var base = location.hash.split('/').slice(0, 3).join('/');
+      try { history.replaceState(history.state, '', base + '/' + (i + 1)); } catch (e) {}
+    }
+  }
+  function go(i, anim){
+    i = Math.max(0, Math.min(N - 1, i));
+    var token = ++run;
+    closePop();
+    var s = D.stages[i];
+    return setCam(chosen || s.c, anim).then(function(){
+      if (token !== run) return;
+      apply(i, anim);
+      if (anim) return reveal(segs.filter(function(g){ return +g.getAttribute('data-f') === i; })
+                               .sort(function(a, b){ return a.getAttribute('data-o') - b.getAttribute('data-o'); }), token);
+    });
+  }
+  function setPlay(on){
+    playing = on;
+    $('.jm-play span').textContent = on ? 'Pause' : (cur === N - 1 ? 'Play from Egypt' : 'Play');
+    $('.jm-play path').setAttribute('d', on ? 'M3,2h3.5v12H3zM9.5,2H13v12H9.5z' : 'M3,1.5v13L14,8z');
+  }
+  function stop(){ clearTimeout(timer); setPlay(false); }
+  function hold(){
+    var words = D.stages[cur].x.replace(/<[^>]+>/g, '').split(/\s+/).length;
+    return Math.min(11000, 2600 + words * 85);
+  }
+  function tick(){
+    clearTimeout(timer);
+    if (!playing) return;
+    timer = setTimeout(function(){
+      if (!playing) return;
+      if (cur >= N - 1){ stop(); return; }
+      go(cur + 1, true).then(tick);
+    }, hold());
+  }
+  function play(){
+    if (playing){ stop(); return; }
+    chosen = null;
+    setPlay(true);
+    go(cur >= N - 1 ? 0 : cur + 1, true).then(tick);
+  }
+  function step(to){ stop(); go(to, true).then(function(){ setPlay(false); }); }
+
+  // --- popups ---
+  var pop = $('.jm-pop');
+  function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function openPop(h){ pop.innerHTML = '<button class="x" aria-label="Close">×</button>' + h; pop.hidden = false; }
+  function closePop(){ pop.hidden = true; }
+  function book(slug){
+    if (typeof load === 'function'){ try { return Promise.resolve(load(slug)); } catch (e) {} }
+    return fetch('data/' + slug + '.json').then(function(r){ return r.json(); });
+  }
+  function verse(a){
+    var r = a.getAttribute('data-r').split('|'), label = a.textContent;
+    openPop('<b>' + esc(label) + '</b><p><small>Loading…</small></p>');
+    book(r[0]).then(function(d){
+      var ch = (d.chapters || []).filter(function(c){ return String(c.n) === r[1]; })[0], txt = '';
+      if (ch){
+        var doc = new DOMParser().parseFromString(ch.html, 'text/html'), p = doc.getElementById('v' + r[2]);
+        if (p){ var n = p.querySelector('.vn'); if (n) n.remove(); txt = p.textContent.trim(); }
+      }
+      openPop('<b>' + esc(label) + '</b><p>' + (txt ? esc(txt) : '<small>Not rendered yet.</small>') + '</p>' +
+              '<a href="#/' + r[0] + '/' + r[1] + '">Read ' + esc(d.book.title) + ' ' + r[1] + ' →</a>');
+    }).catch(function(){ openPop('<b>' + esc(label) + '</b><p><small>Could not load the verse.</small></p>'); });
+  }
+  function placeInfo(id){
+    var p = D.places[id]; if (!p) return;
+    var stages = [];
+    $$('.pl[data-id="' + id + '"]').forEach(function(g){
+      (g.getAttribute('data-a') || '').split(',').forEach(function(a){ if (a !== '') stages.push(+a); });
+    });
+    openPop('<b>' + esc(p.n) + '</b><p>' + (p.s ? '' : '<small>Location not known; placed by the text.</small> ') + (p.x || '') + '</p>' +
+      (stages.length ? '<p>' + stages.map(function(j){ return '<a href="#" data-goto="' + j + '">' + (j + 1) + '. ' + esc(D.stages[j].t) + '</a>'; }).join('<br>') + '</p>' : ''));
+  }
+
+  // --- wiring ---
+  var list = $('.jm-list');
+  list.innerHTML = D.stages.map(function(s, j){
+    return '<li><button data-goto="' + j + '">' + esc(s.t) + '</button><p>' + esc(s.w) + '. ' + s.x.replace(/<[^>]+>/g, '') + '</p></li>';
+  }).join('');
+  R.addEventListener('click', function(e){
+    var t = e.target;
+    var a = t.closest('.jm-ref'); if (a){ e.preventDefault(); verse(a); return; }
+    var g = t.closest('[data-goto]'); if (g){ e.preventDefault(); chosen = null; step(+g.getAttribute('data-goto')); return; }
+    var x = t.closest('.x'); if (x){ closePop(); return; }
+    var p = t.closest('.pl,.pt'); if (p){ placeInfo(p.getAttribute('data-id')); return; }
+    var b = t.closest('[data-step]');
+    if (b){ var v = b.getAttribute('data-step'); step(v === 'first' ? 0 : v === 'last' ? N - 1 : cur + (+v)); return; }
+    var c = t.closest('[data-cam]'); if (c){ chosen = c.getAttribute('data-cam'); setCam(chosen, true); return; }
+    if (t.closest('.jm-play')){ play(); return; }
+  });
+  $('.jm-range').addEventListener('input', function(){ stop(); chosen = null; go(this.value - 1, false); });
+  R.addEventListener('keydown', function(e){
+    if (e.target.closest && e.target.closest('input')) return;
+    if (e.key === 'ArrowRight'){ step(cur + 1); e.preventDefault(); }
+    if (e.key === 'ArrowLeft'){ step(cur - 1); e.preventDefault(); }
+    if (e.key === 'Escape') closePop();
+  });
+  function onResize(){ if (!R.isConnected){ removeEventListener('resize', onResize); return; } layout(); }
+  addEventListener('resize', onResize);
+
+  var m = /^#\/[^\/]+\/s\d+\/(\d+)/.exec(location.hash);
+  var start = m ? Math.max(0, Math.min(N - 1, m[1] - 1)) : N - 1;
+  setCam(D.stages[start].c, false);
+  apply(start, false);
+  setPlay(false);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
+
+  if (PRINT){
+    R.classList.add('print');
+    var holder = $('.jm-print2'), copy = svg.cloneNode(true);
+    $('.jm-map').parentNode.insertBefore(holder, $('.jm-side'));
+    copy.setAttribute('viewBox', D.vb.l.join(' '));
+    copy.classList.add('cam-l');
+    holder.appendChild(copy);
+    var k = D.vb.l[2] / (copy.getBoundingClientRect().width || 740);
+    copy.style.setProperty('--u', k.toFixed(5));
+    copy.classList.toggle('zin', 1 / k > 1.6);
+    // build_docx.py cuts the printed page every innerWidth * 8.4 / 6.2 px (its
+    // portrait text area); give each map a page of its own.
+    var pageH = Math.floor(innerWidth * 8.4 / 6.2), map1 = $('.jm-map');
+    var bottom = function(e){ return e.getBoundingClientRect().bottom + scrollY; };
+    holder.style.marginTop = '0';
+    map1.style.marginBottom = Math.max(10, pageH - bottom(map1)) + 'px';
+    holder.style.marginBottom = Math.max(10, 2 * pageH - bottom(holder)) + 'px';
+  }
+})();
+</script>
+</div>
