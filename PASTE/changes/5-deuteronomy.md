@@ -2,6 +2,38 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Deuteronomy 1–3: *there*, the speaker, *Rephaim*, *from before them*, 2:25, Og's bed (2026-10-23, 10:00 AM Central)
+
+**Request:** Andrew, `PASTE/edits.md`: 1:37, *Where is "there"?*; 1:46, *should there be an ending quotation mark?*; chapter 2, *is this still Moses talking?*; 2:11, *What is Rephaim?*; 2:12, *clunky sentence with 3 "thems"*; 2:25, *worded strangely*; 3:11, *confused by the question about where the iron bed is; why parentheses?*
+
+**What was done, checked against the Hebrew:**
+- **1:37–39** *lo tavo sham*, "you shall not come there," three times: *there* is the good land of v35, two verses back. Now *enter the land* (v37), then *enter it* (vv38–39).
+- **1:46 and chapter 2:** no closing mark belongs at 1:46. Moses' speech runs from 1:6 to 4:40 without a break, so the quotation opens at 1:6 and closes at 4:40; each new section reopens with a quotation mark. The v5 note now says so.
+- **2:11:** *Rephaim* is the name for the old giant peoples, and the same Hebrew word names the dead, *the shades* (Psalm 88:10; Isaiah 26:14, 19). The vv10–12 note now says so.
+- **2:12, 21, 22:** *hishmid… mi-peneihem*, "destroyed… from before them," the idiom CLAUDE.md names (*from before the face of*). Said plainly in all three verses of the chapter.
+- **2:25:** the relative clause split off into its own sentence; *lay the dread of you and the fear of you* kept, as in 11:25, where the same Hebrew stands.
+- **3:11:** *halo hi be-Rabbat*, "is it not in Rabbah?", a question that means "you can go and see it": given as the statement it makes. The parentheses mark the verse as an aside from the speech, like 2:10–12 and 20–23; the v11 note now says so.
+
+| Where | Before | After |
+|---|---|---|
+| Deuteronomy 1:37 | 'You also shall not go in there. | 'You also shall not enter the land. |
+| Deuteronomy 1:38 | he shall go in there. | he shall enter it. |
+| Deuteronomy 1:39 | they shall go in there. | they shall enter it. |
+| Deuteronomy 1, note v5 | …not yet a name for five books. | …not yet a name for five books. That teaching is one long speech, from v6 to 4:40: its quotation marks open at v6 and close only at 4:40. |
+| Deuteronomy 2:12 | but the sons of Esau dispossessed them and destroyed them from before them and settled in their place, as Israel did to the land of its possession that the LORD gave them.) | but the sons of Esau dispossessed and destroyed them and settled in their place, as Israel did in the land the LORD gave it to possess.) |
+| Deuteronomy 2:21 | But the LORD destroyed them from before them, and they dispossessed them | But the LORD destroyed them for the Ammonites, who dispossessed them |
+| Deuteronomy 2:22 | when He destroyed the Horites from before them | when He destroyed the Horites for them |
+| Deuteronomy 2:25 | This day I will begin to put the dread and fear of you on the peoples under the whole heaven, who will hear the report of you and tremble and be in anguish because of you.' | This day I will begin to lay the dread of you and the fear of you on the peoples under the whole heaven. When they hear the report of you, they will tremble and be in anguish because of you.' |
+| Deuteronomy 2, note vv10–12, 20–23 | both counted among the *Rephaim*. | both counted among the *Rephaim*, the name the Hebrew gives the old giant peoples, and the same word it uses for the dead, the shades: *Do the shades rise up to praise You?* (Psalm 88:10). |
+| Deuteronomy 3:11 | His bed was a bed of iron; is it not in Rabbah of the sons of Ammon? Nine cubits was its length and four cubits its width, by the cubit of a man.) | His bed, a bed of iron, is still in Rabbah of the Ammonites: nine cubits long and four cubits wide, by the cubit of a man.) |
+| Deuteronomy 3, note v11 | *Is it not in Rabbah?* speaks to readers who could go and see it. | The Hebrew asks *Is it not in Rabbah of the sons of Ammon?*, a question that tells readers they could go and see it; the English gives it as the statement it makes, *is still in Rabbah*. Like 2:10–12 and 20–23, the verse is an aside from the speech, set in parentheses. |
+
+**Choices for you:**
+- **The same idiom elsewhere, *drive out… from before you* (*mi-penei*)**
+  - (a) **leave it** (now): *drive them out from before you* is still found in Exodus 23:28–31, 34:11; Numbers 32:21, 33:52, 55; Deuteronomy 6:19, 7:1, 7:22, 9:4–5, 11:23, 18:12, and with other verbs in a few other books. With *drive out* it reads as English, unlike *destroyed them from before them*.
+  - (b) **say it plainly everywhere**: *drive them out ahead of you*, or *drive them out for you*, in every one of those verses.
+  - Recommend (a): only the *destroy… from before them* form tripped the reader, and it is fixed; a sweep over finished books waits on your word.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
