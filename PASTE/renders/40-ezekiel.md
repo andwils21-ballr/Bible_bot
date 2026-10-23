@@ -2,6 +2,123 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 29–32 — rendered 2026-10-23, 6:05 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with three departures, each in a note: 29:7 *you broke and crushed all their loins* (the Greek, for *you made all their loins stand*); 30:18 *grow dark* (the Greek, and the other dot on the same letter, for Leningrad's *held back*); 32:27 *who fell long ago* (the Greek's *from of old*, for *of the uncircumcised*; the Hebrew's *not* kept). Swete's Greek checked and quoted where it differs: 29:1, 3, 10; 30:5, 13–18; 31:3, 17; 32:2, 5, 12, 17, 21, 27, 32. Verse counts match. Style follows Ezekiel 25–28; these are the oracles against Egypt.
+
+**Form kept:**
+- *And it came to pass… that the word of the LORD came to me* at 29:17, 30:20, 31:1, 32:1 and 32:17, where a date stands between *va-yehi* and the word. 29:1 dates the word itself (*In the tenth year… the word of the LORD came to me*); 30:1 is plain *The word of the LORD came to me*.
+- Every *hinneh* cut (29:3, 8, 10, 19; 30:9, 21, 22; 31:3). *Hineni* + participle *I am about to* (29:8, 19); *hineni alekha* *I am against you* (29:3, 10; 30:22).
+- The cedar (31:3–9) and the lament over Pharaoh (32:2–16) set as verse lines, as the allegory of chapter 17 and the laments of 19, 27 and 28.
+- *Hamon* is *multitude* every time (29:19; 30:4, 10, 15; 31:2, 18; 32:12, 16, 18, 20, 24–26, 31, 32). *Gibborim* *mighty ones* (32:12, 21, 27), as Genesis 6:4. *Tannim* *monster* (29:3; 32:2).
+- Refrains kept the same: *they will know that I am the LORD*; *I will scatter the Egyptians among the nations and disperse them through the countries* (29:12; 30:23, 26), as 20:23 and 22:15; *the most ruthless of nations* (30:11; 31:12; 32:12), as 28:7; *those who go down to the pit*, *the lowest parts of the earth* and *the land of the living*, as 26:20; *the uncircumcised*, as 28:10.
+- Doubled verbs: 29:18 *he'evid… avodah gedolah* (*worked his army hard*); 29:19 *ve-shalal shelalah u-vazaz bizzah* (*take its spoil and seize its plunder*); 30:16 *chul tachul* (*writhe in anguish*); 30:24 *ve-na'aq na'aqot* (*groan like a man mortally wounded*); 31:11 *asoh ya'aseh* (*dealt with it*); 32:10 *yis'aru… sa'ar* (*shudder with horror*, as 27:35).
+- Read forms followed, no note: 29:4 *chachim*; 29:7 *ba-kaf*; 30:16 *tachul*; 31:5 *po'rotav*; 32:31 *hamono*. 32:32 *chittiti*, *My terror*, has a note.
+- No sentence starts with *And* except the formula.
+- Matched to this project's English: *Cush*, *Pathros*, *Memphis*, *Tahpanhes* and *No* (Isaiah, Jeremiah); *Put* and *Lud* (27:10); *Meshech* and *Tubal* (27:13); *restore the fortunes* (16:53); *bringing their iniquity to remembrance* (21:23); *the pride of her strength* (24:21); *I, the LORD, have spoken*; *worthless gods* for *elilim* (Leviticus 19:4; 26:1); *the beasts of the earth and the birds of the heavens* (Jeremiah); *fir* (27:5) and *plane* (Genesis 30:37); *among the thick branches* (19:11); *Sheol* (Isaiah 14); *lamps* (Genesis 1:14); *all the mixed peoples* (Jeremiah 25:20); *sold… into the hand of* (Judges 2:14).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:2, 1:14, 1:21, 3:24, 6:4, 10:14, 41:45; Exodus 6:6, 7:9, 10:21, 14:2; Leviticus 26:13; 2 Kings 18:21; Psalm 132:17; Isaiah 6:5, 10:34, 11:11, 13:6, 13:10 (named), 14:8, 14:15, 18:2, 19:1, 31:1, 36:6; Jeremiah 25:9, 43:7, 46:25; Matthew 13:32, 24:29.
+- Within Ezekiel: 1:2; 7:7; 17:15, 17, 23; 19:11; 21:23; 24:26–27; 26:1, 7, 20; 27:10, 13; 28:2, 13.
+
+**Checked against the sources:**
+- Hebrew: *asitini* (29:3) beside *asiti* (29:9); *ve-ha'amadta* (29:7); *Kuv* (30:5) and *ramutekha* (32:5), each found nowhere else in the Hebrew Bible; *benei erets ha-berit* (30:5); Leningrad's *chasakh* (30:18); *nidmeita* (32:2); *me-arelim* (32:27); *chittito*, *chittiti* (32:32).
+- Swete's Greek: Ezekiel 29:1–32:32; Genesis 6:4.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **29:** Pharaoh as the great monster of the Nile, hauled out with hooks; Egypt, a reed staff that splintered in Israel's hand, laid waste for forty years and then a lowly kingdom; and, at the latest date in the book, Egypt given to Nebuchadnezzar as wages for his army's labor against Tyre.
+- **30:** the day of the LORD on Egypt and its allies, city by city, and Pharaoh's arm broken while the king of Babylon's is made strong.
+- **31:** Pharaoh asked whom he is like, and shown Assyria, the great cedar that the trees of Eden envied, cut down and sent to Sheol.
+- **32:** a lament for Pharaoh as a lion and a monster caught in the LORD's net, the sky darkened over Egypt; and Egypt's multitude sent down to the pit, where Assyria, Elam, Meshech and Tubal, Edom and the Sidonians already lie.
+
+### Ezekiel 29: The Monster in the Nile
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ha-tannim ha-gadol ha-rovets be-tokh ye'orav* "the great monster crouching in the midst of his Niles" | the great monster lying among his streams |
+| 3 | *li ye'ori va-ani asitini* "mine is my Nile, and I made me" | My Nile is my own; I made it for myself (choice below) |
+| 5 | *lo te'asef ve-lo tiqqavets* "you will not be gathered and not be collected" | no one will gather you up or collect you |
+| 7 | *ve-ha'amadta lahem kol motnayim* "and you made all their loins stand" | you broke and crushed all their loins (the Greek; choice below) |
+| 10 | *le-chorvot chorev shemamah* "for ruins of waste, a desolation" | an utter ruin and a desolation |
+| 16 | *bi-fnotam achareihem* "in their turning after them" | when they turn to them for help |
+| 18 | *he'evid et cheilo avodah gedolah* "made his army serve a great service" | worked his army hard |
+| 20 | *pe'ullato asher avad bah* "his wage for which he labored in it" | As the pay for his labor |
+| 21 | *u-lekha etten pitchon peh* "and to you I will give an opening of the mouth" | and I will open your mouth (note) |
+
+### Ezekiel 30: The Day of Egypt, and Pharaoh's Broken Arm
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *et goyim yihyeh* "a time of nations it will be" | it will be the time of the nations |
+| 5 | *Kuv* | ***KEPT AS IS*** Cub (a people not otherwise known; note) |
+| 5 | *benei erets ha-berit* "sons of the land of the covenant" | the people of the land of the covenant (choice below) |
+| 6 | *somekhei Mitsrayim* "the supporters of Egypt" | Those who support Egypt |
+| 9 | *le-hachrid et Kush betach* "to terrify Cush, secure" | to terrify Cush in her security |
+| 16 | *ve-Nof tsarei yomam* "and Noph, foes of daytime" | ***KEPT AS IS*** and Memphis will face foes by day (obscure) |
+| 17 | *ve-hennah ba-shevi telakhnah* "and they (feminine) will go into captivity" | and the cities themselves will go into captivity |
+| 18 | *chasakh ha-yom* "the day held back" | the day will grow dark (the Greek; note) |
+| 24 | *ve-na'aq na'aqot chalal* "he will groan the groans of a slain man" | he will groan… like a man mortally wounded |
+
+### Ezekiel 31: The Great Cedar
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *hinneh Ashur erez ba-Levanon* "behold, Assyria a cedar in Lebanon" | Assyria was a cedar in Lebanon |
+| 3 | *ve-choresh metsal* "and a thicket giving shade" | a thicket of shade |
+| 8 | *lo amamuhu* "did not dim it" | could not overshadow it |
+| 10 | *gavahta… va-yitten* "you were high… and it set" | ***KEPT AS IS*** you were so tall… and it set (the Hebrew's own shift; note) |
+| 11 | *el goyim* "the ram of the nations" | the mighty one of the nations |
+| 14 | *ve-lo ya'amdu eleihem be-gavham kol shotei mayim* "and do not stand to them in their height, all drinkers of water" | and no tree that drinks water may rise up to them in its height |
+| 15 | *he'evalti kissetti alav et tehom* "I caused mourning, I covered over it the deep" | I brought mourning; I covered the deep over it |
+| 17 | *u-zero'o* "and its arm" | and so did those who were its arm (note) |
+
+### Ezekiel 32: A Lament for Pharaoh, and the Nations in the Pit
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *kefir goyim nidmeita* "a young lion of nations you were likened / you are ruined" | You thought yourself a young lion of the nations (choice below) |
+| 2 | *va-tirpos naharotam* "and you trampled their rivers" | and fouled their rivers |
+| 5 | *ramutekha* | ***KEPT AS IS*** your carcass (a word found only here; note) |
+| 6 | *erets tsafatekha mi-damkha* "the land of your outflow, from your blood" | the land with your flowing blood |
+| 7 | *bi-khabbotkha* "at your quenching" | When I snuff you out |
+| 20 | *cherev nittanah mashkhu otah* "a sword is given; drag her" | The sword has been given; drag her away |
+| 21 | *elei gibborim* "the rams of the mighty" | The mightiest of the mighty ones |
+| 27 | *nofelim me-arelim* "fallen of the uncircumcised" | the mighty ones who fell long ago (the Greek; choice below) |
+| 27 | *va-tehi avonotam al atsmotam* "and their iniquities were on their bones" | ***KEPT AS IS*** whose iniquities lay on their bones (both the Hebrew and the Greek) |
+| 30 | *nesikhei tsafon* "the chieftains of the north" | The chiefs of the north |
+
+**Left standing on purpose:**
+- 30:5 *Cub*, 30:16 *Memphis will face foes by day*, 32:5 *your carcass*: words whose sense or place is not known, kept as close as the Hebrew stands.
+- 31:10 *you were so tall… and it set*: the Hebrew speaks to Pharaoh through the tree, and the English keeps the shift.
+- 32:27 *whose iniquities lay on their bones*: the Hebrew and the Greek agree.
+
+**Choices for you:**
+- **29:3, *asitini***
+  - (a) **I made it for myself** (now): the boast of v9, *The Nile is mine; I made it*, with *for myself*; the Greek has *I made them*, the rivers.
+  - (b) **I made myself**: the plain sense of the ending *-ni*, *me*. Pharaoh claims to be his own maker, as Tyre's ruler said *I am a god* (28:2).
+  - Recommend (a): the oracle repeats the boast in v9 as *I made it*, and the Greek reads it the same way.
+- **29:7, the leaning on the reed**
+  - (a) **you broke and crushed all their loins** (now): the Greek.
+  - (b) **you made all their loins stand**: the Hebrew as it stands, perhaps *brought them to a standstill*.
+  - Recommend (a): the line then names an injury, as the line before does (*tore open every shoulder*).
+- **30:5, *benei erets ha-berit***
+  - (a) **the people of the land of the covenant** (now): both readings left open, as in the Hebrew.
+  - (b) **the people of the allied land**: Egypt's treaty partners, like the rest of the list.
+  - (c) **the people of the covenant**: Judeans who had gone down to Egypt (Jeremiah 43:7); the Greek has *the sons of My covenant*.
+  - Recommend (a): the Hebrew can mean either, and the English can too.
+- **32:2, *nidmeita***
+  - (a) **You thought yourself a young lion of the nations** (now): *you were likened*, the verb of 31:2, 18, *Whom are you like?*; the Greek reads it so.
+  - (b) **Young lion of the nations, you are ruined**: the same letters as Isaiah 6:5, *I am ruined*; a lament's opening cry.
+  - Recommend (a): chapter 31 has just asked twice, with this verb, whom Pharaoh is like.
+- **32:27, the mighty ones**
+  - (a) **the mighty ones who fell long ago** (now): the Greek's *from of old*, the words of Genesis 6:4, *the mighty ones who were of old*; the Hebrew's *not* kept.
+  - (b) **the fallen mighty ones of the uncircumcised**: the Hebrew as it stands.
+  - Recommend (a): everywhere else in the chapter *the uncircumcised* are the dead without honor, while these lie with their swords under their heads; and Ezekiel's pit already holds *the people of old* (26:20).
+
+**Not yet checked off in `PASTE/edits.md`:** the four questions under Deuteronomy 1–3 (the Anakim, the giants after the flood, the killing in war, God speaking then and now).
+
 ## Ezekiel 25–28 — rendered 2026-10-23, 12:48 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with no departures. Swete's Greek checked and quoted where it differs: 26:1 (agrees, no month); 27:17 (*perfumes and cassia* for *pannag*); 28:3 (a question); 28:13 (all twelve stones); 28:14, 16 (*with the cherub*; *the cherub drove you out*). Verse counts match. Style follows Ezekiel 1–24; the oracles against the nations begin here.
