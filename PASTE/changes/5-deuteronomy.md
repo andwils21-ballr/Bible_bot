@@ -30,6 +30,7 @@ Changes to chapters already rendered, filed under the book the request started i
 
 **Choices for you:**
 - **The same idiom elsewhere, *drive out… from before you* (*mi-penei*)**
+  - ✅ Decided 2026-10-23: (a), leave *drive them out from before you* as it is.
   - (a) **leave it** (now): *drive them out from before you* is still found in Exodus 23:28–31, 34:11; Numbers 32:21, 33:52, 55; Deuteronomy 6:19, 7:1, 7:22, 9:4–5, 11:23, 18:12, and with other verbs in a few other books. With *drive out* it reads as English, unlike *destroyed them from before them*.
   - (b) **say it plainly everywhere**: *drive them out ahead of you*, or *drive them out for you*, in every one of those verses.
   - Recommend (a): only the *destroy… from before them* form tripped the reader, and it is fixed; a sweep over finished books waits on your word.
