@@ -116,10 +116,12 @@ with Andrew apart from render work where it can.
   cloud container, run
   `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`. The `docx/`
   folder is gitignored. Send Word files only when Andrew asks.
-- **The map after Joshua 24** (`books/6-joshua/S1.md`) is generated: edit
-  `maps/journey/data.py`, run `maps/journey/make.py` (it needs shapely and
-  Natural Earth, see its docstring), then `maps/journey/quotecheck.py`. Its
-  script runs because `build_site.py` re-creates a supplement's scripts; the
-  Word build draws it with no address, which the map takes as print mode.
+- **The two maps are generated:** the map after Joshua 24 (`books/6-joshua/S1.md`)
+  from `maps/journey/`, and the map after Genesis 50 (`books/1-genesis/S2.md`)
+  from `maps/fathers/`. Both use `maps/template.html`. Edit a folder's `data.py`,
+  run its `make.py` (it needs shapely and Natural Earth, see its docstring), then
+  its `quotecheck.py`. A change to the template means rebuilding both maps. The
+  scripts run because `build_site.py` re-creates a supplement's scripts; the
+  Word build draws a map with no address, which the map takes as print mode.
 - **The website caches by a content fingerprint**, so a normal refresh shows
   new chapters once GitHub Pages has deployed.

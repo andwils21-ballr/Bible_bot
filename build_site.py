@@ -405,16 +405,20 @@ async function route(){
     return;
   }
   if(/^s\d+$/.test(ch)){                              // a supplement, not a chapter
-    const s=(d.supplements||[]).find(x=>'s'+x.n===ch);
+    const sl=d.supplements||[], si=sl.findIndex(x=>'s'+x.n===ch), s=sl[si];
+    const sp=sl[si-1], sn=sl[si+1];                  // Genesis has two: a chart, then a map
     view.innerHTML=chips(d,ch)+
       (s?`<div class="supp">${s.html}</div>`:'<p class="stub">Not found.</p>')+
       `<div class="pager">`+
-      (d.chapters.length
+      (sp ? `<a class="pv" href="#/${slug}/s${sp.n}"><small>Previous</small><b>${sp.title}</b></a>`
+      : d.chapters.length
         ? `<a class="pv" href="#/${slug}/${d.chapters[d.chapters.length-1].n}">`+
           `<small>Previous</small><b>${d.book.title} `+
           `${d.chapters[d.chapters.length-1].n}</b></a>` : '')+
       `<a class="up" href="#/${slug}">`+
-      `<small>All</small><b>${d.book.title}</b></a></div>`;
+      `<small>All</small><b>${d.book.title}</b></a>`+
+      (s && sn ? `<a class="nx" href="#/${slug}/s${sn.n}"><small>Next</small><b>${sn.title}</b></a>` : '')+
+      `</div>`;
     // innerHTML leaves a script inert; a chart that moves (the Joshua map) needs it run
     view.querySelectorAll('.supp script').forEach(o=>{
       const n=document.createElement('script');

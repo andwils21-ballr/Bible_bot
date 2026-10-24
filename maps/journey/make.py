@@ -386,12 +386,14 @@ def caption(text):
 stages = [dict(t=s["title"], w=s["when"], c=s["cam"], x=caption(s["text"])) for s in D.STAGES]
 notes = {pid: dict(n=p["name"], s=p["sure"], x=caption(p["note"]) if p["note"] else "")
          for pid, p in D.P.items() if pid in first}
-blob = json.dumps(dict(stages=stages, places=notes, vb=dict(j=VB_J, l=VB_L)), ensure_ascii=False, separators=(",", ":"))
+blob = json.dumps(dict(stages=stages, places=notes, vb=dict(j=VB_J, l=VB_L), bones=True), ensure_ascii=False, separators=(",", ":"))
 blob = blob.replace("</", "<\\/")
 
-TEMPLATE = open(os.path.join(HERE, "template.html"), encoding="utf-8").read()
+TEMPLATE = open(os.path.join(HERE, "..", "template.html"), encoding="utf-8").read()
 out = (TEMPLATE.replace("@@SVG@@", svg_html).replace("@@DATA@@", blob)
-       .replace("@@N@@", str(len(stages))))
+       .replace("@@N@@", str(len(stages))).replace("@@KEY@@", D.KEY).replace("@@SRC@@", D.SRC)
+       .replace("@@CART@@", D.CART).replace("@@ASPECT@@", D.ASPECT).replace("@@ROOTCLASS@@", "")
+       .replace("@@FROM@@", "Egypt"))
 fm = ("---\nkind: supplement\norder: 1\ntitle: From Egypt to the Land\n---\n\n"
       "<!-- Made by maps/journey/make.py from maps/journey/data.py: edit those and rebuild. -->\n")
 open(OUT, "w", encoding="utf-8").write(fm + out + "\n")

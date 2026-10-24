@@ -124,6 +124,8 @@ def chart_slices(html):
                     continue
                 ideal = int(CHART_PX * PORTRAIT[1] / PORTRAIT[0])
                 cuts = page.evaluate(CUTS_JS, ["y", lo, hi, ideal, None])
+                if len(cuts) > 2 and cuts[-1] - cuts[-2] < 40 and cuts[-1] - cuts[-3] <= ideal * 1.04:
+                    del cuts[-2]    # a sliver at the end joins the page before it
                 for a, b in zip(cuts, cuts[1:]):
                     if b - a > 4:
                         out.append(("portrait", page.screenshot(full_page=True,

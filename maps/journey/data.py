@@ -466,3 +466,19 @@ GIANT_TOWNS = [
  ("kiriathaim", "former", "egypt", None),
  ("gaza", "on", "north", None), ("gath", "on", "north", None), ("ashdod", "on", "north", None),
 ]
+
+# ---------------------------------------------------------------- page text
+CART = "From Egypt to the Land"
+ASPECT = ".82"
+KEY = """      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#962a1b" stroke-width="3" stroke-linecap="round"/></svg>The camps of Israel</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#b0442c" stroke-width="1.8" stroke-dasharray="6 3"/></svg>A campaign or march</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#6b5336" stroke-width="1.7" stroke-dasharray="1.5 3.5" stroke-linecap="round"/></svg>The spies</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="3" fill="#3a2a1a"/></svg>Site known</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="2.6" fill="#f4ead0" stroke="#3a2a1a" stroke-width="1.4"/></svg>Site not located; placed by the text</li>
+      <li><svg viewBox="0 0 30 14"><rect x="3" y="1" width="24" height="12" fill="#6d8d43" fill-opacity=".3" stroke="#4d692b"/></svg>Held by Israel</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#4d692b" stroke-width="1.6" stroke-dasharray="1 3" stroke-linecap="round"/></svg>Tribal border (approximate)</li>
+      <li><svg viewBox="0 0 30 14"><path d="M2,7H28" stroke="#a8801f" stroke-width="2.4" stroke-dasharray="9 4" stroke-opacity=".75"/></svg>The borders promised (Numbers 34)</li>
+      <li><svg viewBox="0 0 30 14"><defs><pattern id="jm-k1" patternUnits="userSpaceOnUse" width="5" height="5" patternTransform="rotate(45)"><path d="M0,0V5" stroke="#9c1f3c" stroke-width="1.1" opacity=".6"/></pattern></defs><rect x="3" y="1" width="24" height="12" fill="url(#jm-k1)" stroke="#9c1f3c"/></svg>Land of the giants</li>
+      <li><svg viewBox="0 0 30 14"><circle cx="15" cy="7" r="5.5" fill="#9c1f3c" opacity=".85"/><circle cx="15" cy="7" r="2.3" fill="#3a2a1a"/></svg>A town of the giants</li>
+      <li><svg viewBox="0 0 30 14"><defs><pattern id="jm-k2" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(-45)"><path d="M0,0V6M3,0V6" stroke="#7a5a33" stroke-width=".9" opacity=".6"/></pattern></defs><rect x="3" y="1" width="24" height="12" fill="url(#jm-k2)" stroke="#7a5a33"/></svg>Land that remained (Joshua 13)</li>"""
+SRC = """Coastlines, rivers and lakes: Natural Earth (public domain). Most camps of the wilderness have never been found; where a site is not known it is placed by the directions the text gives, and the tribal borders follow Joshua 13–19 only approximately. Quotations are from this rendering."""

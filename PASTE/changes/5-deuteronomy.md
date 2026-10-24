@@ -36,7 +36,7 @@ Changes to chapters already rendered, filed under the book the request started i
   - (b) **add the promised line**: Numbers 34:1–12 draws the land from the Brook of Egypt to Lebo-hamath, from the Great Sea to the Jordan; a gold line on the last stages would show the promise beside what was held. Several of its points (Zedad, Ziphron, Hazar-enan) are disputed.
   - Recommend (b): it answers the question the map raises, how much of the promise Joshua's generation held.
 - **A companion map for Genesis**
-  - ✅ Decided 2026-10-23: (b), make it.
+  - ✅ Decided 2026-10-23: (b), make it. Done 2026-10-24: *The Journeys of the Fathers*, after the House of Terah chart at the end of Genesis. It has 19 stages, from Terah leaving Ur (Genesis 11) to Jacob carried up to Machpelah and Joseph's oath about his bones (Genesis 50), where the Joshua map takes over. It includes the four kings of Genesis 14 with the Rephaim, Zuzim and Emim, Abram's view from Bethel in four directions (13:14), and a gold line for the covenant's *from the river of Egypt to the great river* (15:18). Genesis says *nehar*, a river, so the line starts at the Nile, not at the Brook of Egypt of Numbers 34:5. The map is wide, so its text sits below it. On a phone it is small; turning the phone sideways helps.
   - (a) **none** (now).
   - (b) **Abraham, Isaac and Jacob**: Ur and Haran to Shechem, Bethel, Hebron and Egypt, ending where this map begins. Genesis is closed, so it waits on your word.
   - Recommend (a) for now: finish reading Joshua with this one first.
