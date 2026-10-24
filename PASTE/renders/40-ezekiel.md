@@ -2,6 +2,103 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 45–48 — rendered 2026-10-24, 5:52 PM CDT
+
+Ezekiel is now complete, all 48 chapters.
+
+**Source:** Hebrew (WLC) throughout, with one departure, in a note: 45:5 *towns to live in* (the Greek, for the Hebrew's *twenty chambers*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 45:1, 3, 5 *twenty thousand* wide; 45:12 *fifty shekels*; 45:15 *one from ten*; 45:20 *in the seventh month*; 45:21 seven days; 46:13 *he shall provide*; 46:22 *small*; 48:35 no name for the city.
+
+**Form kept:**
+- No *va-yehi* or date in these chapters. *ve-hayah* without a time clause rendered plain (47:22, 23; 48:35's *ve-shem* plain).
+- Every *hinneh* cut (46:19, 21; 47:1, 2, 7).
+- Kept the same as earlier chapters and books: *contribution* for *terumah* (45:1–16; 48:8–21), as Exodus 30:13; *without defect*; *sin offering*, *guilt offering*, *grain offering*, *peace offerings*, *burnt offering*, *drink offering*; *freewill offering* (46:12), as Leviticus 22:18; *honest* for *tsedeq* in measures (45:10), as Leviticus 19:36; *wrong* for *yanah* (45:8; 46:18), as Leviticus 25:14; *by mistake* (45:20), as Leviticus 4:2; *as much as he can afford* (46:7), as Leviticus 14:22; *the year of liberty* (46:17), as Leviticus 25:10; *towns to live in* (45:5), as Numbers 35:2; *guest*, *native* (47:22), as Leviticus 19:34; *of every kind* for *le-minah* (47:10); *a place for spreading nets* (47:10), as 26:5; *the sea of the Arabah, the Salt Sea* behind 47:8; *Lebo-hamath*, *Zedad*, *Hazar-enan*, *the Great Sea* (47–48), as Numbers 34; *the ordinary* (48:15), as 42:20; *I raised My hand* (47:14), as 20:5–6.
+- Doubled words: 46:13–15 *ba-boqer ba-boqer*, kept as *morning by morning*; the refrain *one portion* (48:1–27), kept every time.
+- Read forms followed, no note: 45:3 *chamishah*; 45:5 *ve-hayah*; 46:9 *yetse*; 46:19 *ba-yarkhatayim*; 47:8 *ve-nirpu*; 47:10 *amdu*; 47:11 *bitsotav*; 47:12 *ve-hayah*; 48:14 *ya'avir*; 48:15, 21 *be-tokho*; 48:16 (the doubled *chamesh* not read); 48:18 *tevu'ato*.
+- No sentence starts with *And* except the formulas.
+- The one permitted link: 47:15–20 note, *See the map after Joshua 24, stage 13*, where the borders promised in Numbers 34 are drawn.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:20–21, 2:10, 30:4–13, 48:5; Exodus 29:38–39, 30:13; Leviticus 4:2, 14:22, 19:34, 19:36, 23:5–6, 23:27, 23:34, 25:10, 25:14, 25:34; Numbers 26:54, 28:9, 28:11, 34:4–5, 34:8–9, 35:2; Joshua 3:16, 18:11; 1 Kings 21:3; 2 Kings 2:21; Psalm 1:3, 46:4.
+- Named, not quoted (not yet rendered): Revelation 21:12–13, 22:1–2 (Greek checked).
+- Within Ezekiel: 10:18; 11:23; 22:27; 26:5, 14; 35:10; 41:20; 42:20; 44:2, 19; 45:8; 47:14.
+
+**Checked against the sources:**
+- Hebrew: *arim la-shevet* (Numbers 35:2) beside *esrim leshakhot* (45:5); the dots over *mehuqtsa'ot* (46:22); *afsayim* (47:3) and *li-trufah* (47:12), each only here; *nachalayim* (47:9); the sum 4,500 + 250 + 250 = 5,000 (48:15–17); no *Jerusalem* anywhere in the Hebrew of chapters 40–48.
+- Swete's Greek: Ezekiel 45:1–48:35. SBLGNT: Revelation 21:12–13, 22:1–2.
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **45:** the holy portion of the land for the sanctuary, the priests and the Levites; the prince's own land, so that he will not take the people's; honest weights and measures; the people's contribution to the prince; the cleansing of the sanctuary, and the Passover and the feast of the seventh month.
+- **46:** the prince at worship on sabbaths and new moons, the people moving through the courts without turning back, the daily morning offering, the law that keeps the prince from taking the people's inheritance, and the kitchens for the priests and the people.
+- **47:** a river flows from under the threshold of the house, deeper with every thousand cubits, down into the Salt Sea, which it makes fresh; trees on its banks bear fruit every month, their leaves for healing. Then the borders of the land, divided equally, with the guests given an inheritance among the tribes.
+- **48:** the tribes in equal strips from north to south, the holy portion and the city in the middle, the city's twelve gates named for the tribes, and its name from that day on: *The LORD Is There*.
+
+### Ezekiel 45: The Holy Portion, Honest Measures, and the Feasts
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *u-ve-happilkhem et ha-arets be-nachalah* "and in your making the land fall as an inheritance" | When you allot the land as an inheritance |
+| 1 | *orekh chamishah ve-esrim elef* "length twenty-five thousand" | ***KEPT AS IS*** twenty-five thousand long (no unit in the Hebrew; note) |
+| 4 | *u-miqdash la-miqdash* "and a sanctuary for the sanctuary" | and a holy place for the sanctuary |
+| 5 | *esrim leshakhot* "twenty chambers" | towns to live in (the Greek; note; choice below) |
+| 7 | *le-ummot achad ha-chalaqim* "corresponding to one of the portions" | matching one of the tribal portions |
+| 9 | *harimu gerushoteikhem me'al ammi* "lift your evictions off My people" | Stop driving My people off their land (note) |
+| 11 | *el ha-chomer yihyeh matkunto* "to the homer shall be its measure" | the homer shall be the standard |
+| 15 | *mi-mashqeh Yisrael* "from the watering of Israel" | from the watered pastures of Israel |
+| 17 | *ve-al ha-nasi yihyeh* "and on the prince shall be" | It shall be the prince's duty |
+| 20 | *me-ish shogeh u-mi-peti* "from a man erring and from a simple one" | for anyone who sins by mistake or through ignorance |
+| 21 | *chag shevu'ot yamim* "a feast of weeks of days" | ***KEPT AS IS*** a feast of seven days (obscure; note) |
+
+### Ezekiel 46: The Prince at Worship, and the Kitchens of the House
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *sheshet yemei ha-ma'aseh* "the six days of the work" | the six working days |
+| 5 | *minchah mattat yado* "a grain offering, the gift of his hand" | as much as he chooses to give |
+| 7 | *ka'asher tassig yado* "as his hand reaches" | as much as he can afford |
+| 9 | *ki nikhcho yetse* "for opposite it he shall go out" | each shall go out straight ahead |
+| 13 | *ba-boqer ba-boqer* "in the morning, in the morning" | morning by morning |
+| 17 | *ad shenat ha-deror* "until the year of release" | until the year of liberty (note) |
+| 18 | *le-honotam me-achuzzatam* "to wrong them from their holding" | wronging them out of their possession |
+| 22 | *chatserot qeturot* "enclosed courts" | ***KEPT AS IS*** enclosed courts (uncertain; note) |
+| 23 | *ve-tur saviv* "and a row all around" | Around each of the four ran a row of stones |
+
+### Ezekiel 47: The River from the House, and the Borders of the Land
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *mayim mefakkim* "water trickling" | the water was trickling out |
+| 3 | *mei afsayim* "water of ankles" | water up to the ankles (note) |
+| 4 | *mei motnayim* "water of loins" | water up to the waist |
+| 5 | *mei sachu* "water of swimming" | water deep enough to swim in |
+| 8 | *el ha-yammah ha-mutsa'im* "to the sea, the ones brought out" | ***KEPT AS IS*** to the waters that flow out (obscure; note) |
+| 9 | *nachalayim* "two rivers" | the river (note) |
+| 10 | *mishto'ach la-charamim* "a spreading place for nets" | a place for spreading nets (note) |
+| 12 | *le-chodashav yevakker* "for its months it will bear firstfruits" | Every month they will bear new fruit |
+| 13 | *Yosef chavalim* "Joseph, cords" | Joseph shall have two portions (note) |
+| 14 | *ish ke-achiv* "a man as his brother" | equally, each as his brother |
+| 15 | *derekh Chetlon levo Tsedadah* "the way of Hethlon, to come to Zedad" | by the way of Hethlon, as one comes to Zedad |
+| 19 | *nachlah* "to the brook" | along the Brook |
+
+### Ezekiel 48: The Portions of the Tribes, and the City Named "The LORD Is There"
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Dan echad* "Dan, one" | Dan, one portion (and every tribe after) |
+| 12 | *terumiyyah* "a contribution-portion" | a special portion |
+| 14 | *ve-lo ya'avir reshit ha-arets* "and he shall not transfer the first of the land" | and this choicest part of the land shall not pass to others |
+| 15 | *chol hu la-ir* "it is ordinary for the city" | shall be for ordinary use by the city (note) |
+| 19 | *ve-ha'oved ha-ir ya'avduhu* "and the one serving the city, they shall serve it" | Those who work in the city… shall farm it |
+| 30 | *totse'ot ha-ir* "the goings-out of the city" | the exits of the city |
+| 35 | *YHWH shammah* "the LORD there" | The LORD Is There (note) |
+
+**Choices for you:**
+- **45:5, *esrim leshakhot*, towns to live in or twenty chambers**
+  - (a) **towns to live in** (now): the Greek, *poleis tou katoikein*, which in Hebrew is *arim la-shevet*, nearly the same letters. The Levites' strip of land is *their own possession*, towns to live in, the very words of the law for the Levites (Numbers 35:2).
+  - (b) **twenty chambers**: the Hebrew as written; the Levites' possession is twenty rooms, perhaps in the house.
+  - Recommend (a): the verse is about land owned, and Numbers 35:2 uses the same words for the same people.
+
 ## Ezekiel 41–44 — rendered 2026-10-24, 12:52 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with one departure, in a note: 42:16–19 *five hundred cubits* (the Greek, and the written Hebrew of v16, for the reading tradition's *five hundred reeds*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 41:1 without *the width of the tent*; 41:6 *thirty-three, twice*; 41:22 *horns*; 42:4 *a hundred cubits long*; 42:10 *toward the south*; 43:3 *to anoint the city*; 43:7 *the murders of the leaders*; 43:14, 17 *hilastērion*; 44:18 *gird themselves tightly*.

@@ -131,7 +131,7 @@ function drawRail(slug){
     `${b.order}. ${b.title}<span class="ct">${b.done||'—'}</span></a>`).join('');
 }
 async function load(slug){
-  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json?v=2cd5fb50f859`)).json();
+  if(!cache[slug]) cache[slug]=await (await fetch(`data/${slug}.json?v=0b78996de29a`)).json();
   return cache[slug];
 }
 function pager(d,cur){
@@ -371,7 +371,7 @@ function restoreScroll(){
 
 addEventListener('hashchange',route);
 (async()=>{
-  BOOKS=(await (await fetch('data/manifest.json?v=2cd5fb50f859')).json()).books;
+  BOOKS=(await (await fetch('data/manifest.json?v=0b78996de29a')).json()).books;
   // a fresh open goes to the bookmarked chapter, unless the link names a chapter
   const back=(location.hash||'').split('/').length<3 && say('last');
   if(back && back!==location.hash){ history.replaceState(null,'',back); }
