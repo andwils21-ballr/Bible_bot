@@ -2,6 +2,106 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 41–44 — rendered 2026-10-24, 12:52 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with one departure, in a note: 42:16–19 *five hundred cubits* (the Greek, and the written Hebrew of v16, for the reading tradition's *five hundred reeds*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 41:1 without *the width of the tent*; 41:6 *thirty-three, twice*; 41:22 *horns*; 42:4 *a hundred cubits long*; 42:10 *toward the south*; 43:3 *to anoint the city*; 43:7 *the murders of the leaders*; 43:14, 17 *hilastērion*; 44:18 *gird themselves tightly*.
+
+**Form kept:**
+- No *va-yehi* or date in these chapters. *And it shall come to pass, when… that* (44:17); *And it shall come to pass from the eighth day on, that* (43:27), the instruction form.
+- Every *hinneh* cut (42:8; 43:2, 5, 12; 44:4).
+- Kept the same as earlier chapters: *the measuring reed*; *each cubit a cubit and a handbreadth* (43:13), as 40:5; *side rooms*, *jambs*, *porch*, *recessed windows*, *palm trees*, as chapter 40; *the separate yard* (41–42); *the Most Holy Place* (41:4), as 1 Kings 6:16; *side chambers* (41), as 1 Kings 6:5; *the most holy offerings* and *sin offering*, *guilt offering*, *grain offering* (42:13; 44:29), as Leviticus; *the holy from the ordinary* (42:20; 44:23), as Leviticus 10:10 and 22:26; *the spirit lifted me up* (43:5), as 3:12 and 11:24; *like the sound of many waters* (43:2), as 1:24; *giving themselves to other gods* for *zenut* (43:7, 9), as 6:9; *carry their guilt* (44:10, 12), as 4:5 and 14:10; *I have raised My hand* (44:12), as 20:5; *the rebellious house* (44:6), as 2:5; *foreigner* (44:7, 9); *without defect* (43:22–25); *devoted* (44:29); *the first of your dough* (44:30), as Numbers 15:20; *died on its own or was torn by beasts* (44:31), as 4:14.
+- Readability: 43:4 *entered the house* (the checker's *came into*), which also matches 44:2, *has entered by it*; 43:26 *and so consecrate it* for *and fill its hands* (noted).
+- Read forms followed, no note: 41:8 *musdot*; 41:15 *attiqeha*; 42:9 *mi-tachat*, *ha-mevi*; 42:14 *ve-lavshu*; 43:11 *tsurotav*, *torotav*; 43:16 *ve-ha'ari'el*; 43:26 *yadav*; 44:5 *torotav*; 44:24 *le-mishpat*, *yishpetuhu*. With a note: 42:16 *me'ot* (the written text has *ammot me'ot*).
+- No sentence starts with *And* except the formulas.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 3:19, 33:4; Exodus 20:26, 25:17, 25:30, 26:33, 28:42, 30:1–2; Leviticus 1:4, 2:13, 3:11, 6:16–17, 6:26–27, 8:15, 8:33, 9:1, 10:6, 10:9–10, 16:2, 16:23, 21:1–3, 21:14, 22:8, 26:30; Numbers 18:20, 18:23; Deuteronomy 10:16; 1 Samuel 2:35; 1 Kings 2:35, 6:5, 6:16, 6:20, 6:34; 2 Kings 23:9; Isaiah 29:1–2, 60:13; Jeremiah 4:4.
+- Named, not quoted (not yet rendered): Romans 3:25 (Greek checked).
+- Within Ezekiel: 1:3, 10, 24; 2:5; 4:12, 14; 6:9; 9:1; 10:19; 11:23; 22:26; 34:24; 37:9; 40:5, 47; 43:4.
+
+**Checked against the sources:**
+- Hebrew: the dots over *ha-heikhal* (41:20) and over *va-yishshaqehu* (Genesis 33:4); the sum of 40:15, 19, 33, 47 and 41:13, five hundred cubits; the written *ammot* of 42:16; *bamotam* as pointed (43:7) and Leviticus 26:30; *u-mil'u yadav* (43:26); *be-yeza* (44:18), only here.
+- Swete's Greek: Ezekiel 41:1–44:31; *hilastērion* in Exodus 25 and Ezekiel 43:14, 17. SBLGNT: Romans 3:25.
+
+**The checker** found nothing after one fix: 43:4 *came into*.
+
+**What these chapters are:**
+- **41:** the house itself: the nave, the Most Holy Place (the man goes in; Ezekiel is told), the side chambers in three stories, the building behind it, the cherubim and palms carved on every wall, and the wooden altar that is *the table that is before the LORD*.
+- **42:** the priests' chambers, where the most holy offerings are eaten and the holy garments left; then the wall around the whole, five hundred on each side, *to separate the holy from the ordinary*.
+- **43:** the glory of God returns from the east by the gate it left by and fills the house: *the place of My throne and the place of the soles of My feet*. Then the altar, with its hearth and horns and steps, and the seven days that make it clean.
+- **44:** the east gate shut, because the LORD has entered by it; foreigners barred; the Levites who served idols set to keep the gates; and the sons of Zadok, who stayed faithful, given the altar, with the rules for their clothes, hair, marriages, mourning and food, and God Himself as their inheritance.
+
+### Ezekiel 41: The House and the Most Holy Place
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *rochav ha-ohel* "the width of the tent" | ***KEPT AS IS*** the width of the tent (obscure; note) |
+| 2 | *ve-khitpot ha-petach* "and the shoulders of the entrance" | the sides of the entrance |
+| 3 | *u-va lifnimah* "and he went inward" | Then he went inside (note) |
+| 6 | *shalosh u-sheloshim pe'amim* "three and thirty times" | ***KEPT AS IS*** thirty-three in all (obscure; note) |
+| 7 | *ve-rachavah ve-navsevah lema'lah lema'lah* "and it widened and went around upward upward" | grew wider as they went up, story by story |
+| 8 | *melo ha-qaneh shesh ammot atsilah* "the fullness of the reed, six cubits, to the joint" | ***KEPT AS IS*** a full reed, six cubits, to the joint (obscure) |
+| 12 | *ha-gizrah* "the cut-off place" | the separate yard (note) |
+| 15 | *attiqeha* (read) | its galleries |
+| 16 | *sechif ets* "a wooden covering" | paneled with wood |
+| 17 | *middot* "measures" | ***KEPT AS IS*** by measure (obscure) |
+| 21 | *ha-mar'eh ka-mar'eh* "the appearance like the appearance" | its appearance was like this |
+| 22 | *u-miqtso'otav lo* "and its corners to it" | its corners (note) |
+| 25 | *ve-av ets* "and a thickness of wood" | a wooden canopy |
+
+### Ezekiel 42: The Priests' Chambers, and the Wall Around the Holy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *el penei orekh ammot ha-me'ah petach ha-tsafon* "to the face of the length of the hundred cubits, the door of the north" | ***KEPT AS IS*** Along the length of a hundred cubits was the door on the north (obscure; note) |
+| 3 | *attiq el penei attiq ba-shelishim* "gallery to the face of gallery in the threes" | galleries facing galleries, in three stories |
+| 4 | *derekh ammah achat* "a way of one cubit" | ***KEPT AS IS*** a way of one cubit (the Greek differs; note) |
+| 5 | *ki yokhlu attiqim mehennah* "for galleries ate from them" | because the galleries took more space from them |
+| 6 | *ne'etsal* "it was set aside" | the upper ones were set back |
+| 12 | *ha-gederet hagginah* "the fitting wall" | ***KEPT AS IS*** the matching wall (obscure; note) |
+| 14 | *ve-qarvu el asher la-am* "and draw near to what is for the people" | before they go near the area that is for the people |
+| 16 | *chamesh me'ot qanim* (read) "five hundred reeds" | five hundred cubits (the Greek; note; choice below) |
+| 16 | *ruach ha-qadim* "the wind of the east" | the east side (note) |
+
+### Ezekiel 43: The Glory Returns, and the Altar
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *be-vo'i le-shachet et ha-ir* "in my coming to destroy the city" | when I came to destroy the city (note) |
+| 7 | *bi-znutam* "by their whoring" | by giving themselves to other gods |
+| 7 | *u-ve-figrei malkheihem bamotam* "and by the corpses of their kings, their high places" | and by the corpses of their kings at their high places (note; choice below) |
+| 8 | *va-akhal otam* "and I consumed them" | so I consumed them |
+| 10 | *haggeid et beit Yisrael et ha-bayit* "tell the house of Israel the house" | describe the house to the house of Israel |
+| 13 | *ve-zeh gav ha-mizbeach* "and this is the back of the altar" | This is the base of the altar |
+| 15 | *ha-har'el… ha-ari'el* | The altar hearth (note) |
+| 26 | *u-mil'u yadav* "and they will fill its hands" | and so consecrate it (note) |
+| 27 | *ve-ratsiti etkhem* "and I will be pleased with you" | and I will accept you (note) |
+
+### Ezekiel 44: The Shut Gate, the Levites, and the Sons of Zadok
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *et ha-nasi nasi hu* "the prince, prince he" | As for the prince, he alone, as prince |
+| 5 | *li-mevo ha-bayit be-khol motsa'ei ha-miqdash* "to the entrance of the house with all the exits of the sanctuary" | on who may enter the house and on all who must go out of the sanctuary |
+| 6 | *rav lakhem* "much to you" | Enough |
+| 7 | *lachmi* "My bread" | My food (note) |
+| 8 | *va-tesimun le-shomrei mishmarti… lakhem* "and you set them as keepers of My charge… for yourselves" | you set others to keep My charge in My sanctuary for you |
+| 12 | *le-mikhshol avon* "for a stumbling block of iniquity" | a stumbling block of iniquity |
+| 18 | *lo yachgeru ba-yeza* "they will not gird with sweat" | they shall not gird themselves with anything that makes them sweat (note) |
+| 20 | *kasom yikhsemu* "trimming they shall trim" | they shall keep the hair of their heads trimmed |
+| 26 | *shiv'at yamim yisperu lo* "seven days they shall count for him" | seven days shall be counted for him |
+| 30 | *le-haniach berakhah el beitekha* "to cause a blessing to rest on your house" | so that a blessing may rest on your house |
+
+**Choices for you:**
+- **42:16–19, five hundred reeds or five hundred cubits**
+  - (a) **five hundred cubits** (now): the Greek, and the written Hebrew of v16, which has *ammot*. The wall then encloses exactly what chapters 40–41 measured: 50 + 100 + 50 + 100 + 100 + 100 cubits from the east gate to the back wall.
+  - (b) **five hundred reeds**: the Hebrew as read, four times. Each reed is six long cubits, so each side is three thousand cubits, a holy area six times wider than the courts inside it.
+  - Recommend (a): the measurements of the two chapters before add up to five hundred cubits.
+- **43:7, *bamotam*, at their high places or at their death**
+  - (a) **at their high places** (now): the vowels as printed. The corpses of the kings lie where idols were worshipped, the picture of Leviticus 26:30.
+  - (b) **at their death**: the same letters as *be-motam*. Kings were buried beside the house, their palace threshold by God's threshold (v8).
+  - Recommend (a): it is the Hebrew as pointed, and Leviticus 26:30 joins the same three words: high places, corpses, idols.
+
 ## Ezekiel 37–40 — rendered 2026-10-24, 7:55 AM CDT
 
 **Source:** Hebrew (WLC) throughout, with one departure, in a note: 40:44 *two chambers* (the Greek, for the Hebrew's *chambers for singers*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 37:22, 24 *archōn*, **ruler**, for *king*; 37:23 *lawless deeds*; 38:2 *Rōs* as a people; 38:13 *villages*; 38:17 a statement, not a question; 38:21 *every fear*; 39:2 *I will lead you*; 39:11 *polyandrion*; 39:18, 20 *gigantes*; 39:29 *My wrath* for *My Spirit*; 40:1 *the first month*; 40:49 *ten steps*. The Greek has no 40:30.
