@@ -28,7 +28,7 @@ def fmt(v):
     s = f"{v:.1f}"
     return s[:-2] if s.endswith(".0") else s
 
-BB = box(29.8, 27.2, 37.4, 34.8)
+BB = box(29.8, 26.8, 38.8, 35.6)
 KEYS = [s["key"] for s in D.STAGES]
 IDX = {k: i for i, k in enumerate(KEYS)}
 
@@ -197,7 +197,7 @@ def attrs_ft(f, t):
 def esc(s): return html.escape(s, quote=True)
 
 svg = []
-W, H = xy(37.4, 27.2)   # the whole drawing, in map units; the views are windows on it
+W, H = xy(38.8, 26.8)   # the whole drawing, in map units; the views are windows on it
 svg.append(f'<path class="sea" d="{poly_d(sea, 0.0015, 0.0003)}"/>')
 svg.append('<g class="g-wl">' + "".join(f'<path d="{d}"/>' for d in waterlines) + '</g>')
 
@@ -249,7 +249,9 @@ ML = [(35.86, 33.42, 3.4), (35.80, 33.52, 2.4), (35.95, 33.36, 2.4), (35.52, 30.
       (35.33, 32.30, 1.8), (35.274, 32.236, 1.6), (35.273, 32.20, 1.6), (35.39, 32.687, 1.8),
       (35.42, 32.46, 1.8), (35.02, 32.71, 1.8), (35.09, 32.65, 1.6), (35.40, 33.00, 2), (35.45, 33.10, 2),
       (35.35, 32.92, 1.8), (35.70, 32.05, 2), (35.76, 32.30, 2), (35.80, 32.45, 1.8), (35.725, 31.765, 1.9),
-      (35.70, 31.62, 1.8), (35.66, 31.30, 1.8), (35.03, 30.88, 2), (34.93, 30.92, 1.8)]
+      (35.70, 31.62, 1.8), (35.66, 31.30, 1.8), (35.03, 30.88, 2), (34.93, 30.92, 1.8),
+      (33.975, 28.54, 2.8), (33.88, 28.64, 2.2), (34.07, 28.63, 2.2), (33.80, 28.45, 2), (34.10, 28.40, 2),
+      (33.92, 28.85, 2), (34.15, 28.75, 2), (33.70, 28.62, 1.8), (35.50, 29.90, 2.2), (35.45, 29.70, 2)]
 svg.append('<g class="g-mt mt-j">' + "".join(f'<path d="{hill(a, b, s)}"/>' for a, b, s in MJ) + '</g>')
 svg.append('<g class="g-mt mt-l">' + "".join(f'<path d="{hill(a, b, s)}"/>' for a, b, s in ML) + '</g>')
 
@@ -303,8 +305,8 @@ for pid, p in D.P.items():
     act = ",".join(map(str, acts.get(pid, [])))
     rings = "".join(f'<path class="gr {s}" d="M{fmt(x)},{fmt(y)}h0"{attrs_ft(f, t)}/>' for s, f, t in gt.get(pid, []))
     kind = "k" if p["sure"] else "u"
-    dots.append(f'<g class="pl {kind} t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}">{rings}'
-                f'<path class="d" d="M{fmt(x)},{fmt(y)}h0"/><path class="di" d="M{fmt(x)},{fmt(y)}h0"/>'
+    dots.append(f'<g class="pl {kind} t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}">'
+                f'<path class="d" d="M{fmt(x)},{fmt(y)}h0"/><path class="di" d="M{fmt(x)},{fmt(y)}h0"/>{rings}'
                 f'<path class="hit" d="M{fmt(x)},{fmt(y)}h0"/></g>')
     labels.append(f'<text class="pt t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}" x="{fmt(x)}" y="{fmt(y)}" '
                   f'text-anchor="{a}" dx="{dx}" dy="{dy}">{esc(p["name"])}</text>')
@@ -356,14 +358,28 @@ defs = f'''<defs>
 {"".join(masks)}
 </defs>'''
 
-VB_J = [xy(30.45, 34.45)[0], xy(30.45, 34.45)[1]]
-VB_J += [xy(36.95, 34.45)[0] - VB_J[0], None]
+VB_J = [xy(30.45, 35.25)[0], xy(30.45, 35.25)[1]]
+VB_J += [xy(38.3, 35.25)[0] - VB_J[0], None]
 VB_J[3] = VB_J[2] / 0.82
 VB_L = [xy(33.72, 33.76)[0], xy(33.72, 33.76)[1]]
 VB_L += [xy(36.92, 33.76)[0] - VB_L[0], None]
 VB_L[3] = VB_L[2] / 0.82
 VB_J = [round(v, 1) for v in VB_J]
 VB_L = [round(v, 1) for v in VB_L]
+
+# Each stage's own frame: its routes and the places it names, with a margin,
+# no closer than MIN_H map units tall, kept inside the whole-journey view.
+MIN_H = 200
+EXTRA = {"nebo": D.SIGHT, "moab": D.PROMISED}
+def frame(st):
+    pts = [pt(p) for k, kind, ps in D.SEGS if k == st["key"] for p in ps]
+    pts += [pt(a) for a in st["act"]] + EXTRA.get(st["key"], [])
+    xs, ys = zip(*[xy(*p) for p in pts])
+    w, h = (max(xs) - min(xs)) * 1.4, (max(ys) - min(ys)) * 1.4
+    h = min(VB_J[3], max(h, w / 0.82, MIN_H)); w = h * 0.82
+    x = min(max((max(xs) + min(xs) - w) / 2, VB_J[0]), VB_J[0] + VB_J[2] - w)
+    y = min(max((max(ys) + min(ys) - h) / 2, VB_J[1]), VB_J[1] + VB_J[3] - h)
+    return [round(v, 1) for v in (x, y, w, h)]
 
 svg_html = (f'<svg class="jm-svg" viewBox="{" ".join(map(str, VB_J))}" role="img" '
             f'aria-label="Map of the journey from Egypt to the land of Canaan">{defs}{"".join(svg)}</svg>')
@@ -383,7 +399,7 @@ def caption(text):
     t = re.sub(f"({A}(?:\\s+{A})*)", lambda m: "(" + "; ".join(re.findall(A, m.group(1))) + ")", t)
     return t
 
-stages = [dict(t=s["title"], w=s["when"], c=s["cam"], x=caption(s["text"])) for s in D.STAGES]
+stages = [dict(t=s["title"], w=s["when"], c=s["cam"], v=frame(s), x=caption(s["text"])) for s in D.STAGES]
 notes = {pid: dict(n=p["name"], s=p["sure"], x=caption(p["note"]) if p["note"] else "")
          for pid, p in D.P.items() if pid in first}
 blob = json.dumps(dict(stages=stages, places=notes, vb=dict(j=VB_J, l=VB_L), bones=True), ensure_ascii=False, separators=(",", ":"))
@@ -393,7 +409,7 @@ TEMPLATE = open(os.path.join(HERE, "..", "template.html"), encoding="utf-8").rea
 out = (TEMPLATE.replace("@@SVG@@", svg_html).replace("@@DATA@@", blob)
        .replace("@@N@@", str(len(stages))).replace("@@KEY@@", D.KEY).replace("@@SRC@@", D.SRC)
        .replace("@@CART@@", D.CART).replace("@@ASPECT@@", D.ASPECT).replace("@@ROOTCLASS@@", "")
-       .replace("@@FROM@@", "Egypt"))
+       .replace("@@FROM@@", "Egypt").replace("@@CLOSE@@", "Close up"))
 fm = ("---\nkind: supplement\norder: 1\ntitle: From Egypt to the Land\n---\n\n"
       "<!-- Made by maps/journey/make.py from maps/journey/data.py: edit those and rebuild. -->\n")
 open(OUT, "w", encoding="utf-8").write(fm + out + "\n")

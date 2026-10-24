@@ -53,8 +53,8 @@
       stroke-dasharray:calc(var(--u)*2px) calc(var(--u)*4px);stroke-linecap:round}
   #jm .a-isr{fill:var(--isr);fill-opacity:.30;stroke:var(--isrline);stroke-width:calc(var(--u)*1px);stroke-opacity:.6}
   #jm .a-king{fill:none;stroke:#7a5a33;stroke-width:calc(var(--u)*1.3px);stroke-dasharray:calc(var(--u)*6px) calc(var(--u)*4px)}
-  #jm .a-giant{fill:url(#jm-hg);stroke:var(--giant);stroke-width:calc(var(--u)*1px);stroke-opacity:.7}
-  #jm .a-giant.gone{opacity:.35}
+  #jm .a-giant{fill:var(--giant);fill-opacity:.4;stroke:var(--giant);stroke-width:calc(var(--u)*1px);stroke-opacity:.8}
+  #jm .a-giant.gone{fill-opacity:.1;stroke-opacity:.55;stroke-dasharray:calc(var(--u)*3px) calc(var(--u)*3px)}
   #jm .a-giant.former{opacity:.45;stroke-dasharray:calc(var(--u)*3px) calc(var(--u)*3px)}
   #jm .hg{stroke:var(--giant);stroke-width:1.1;opacity:.55}
   #jm .a-rem{fill:url(#jm-hr);stroke:var(--rem);stroke-width:calc(var(--u)*.9px);stroke-opacity:.7}
@@ -91,7 +91,7 @@
   #jm .pl:not(.act) .d{opacity:.8}
   #jm .pl.act .d{stroke:var(--route);stroke-width:calc(var(--u)*7px)}
   #jm .pl.u.act .di{stroke-width:calc(var(--u)*3.6px)}
-  #jm .pl .gr{stroke-width:calc(var(--u)*11px);stroke:var(--giant);opacity:.85}
+  #jm .pl .gr{stroke-width:calc(var(--u)*6px);stroke:var(--giant)}
   #jm .pl .gr.gone,#jm .pl .gr.former{opacity:.35}
   #jm .pl .hit{stroke:transparent;stroke-width:calc(var(--u)*20px);pointer-events:stroke;cursor:pointer}
   #jm .pl.ref .d{stroke:var(--gold)}
@@ -135,6 +135,11 @@
   #jm .jm-cart-t{font-size:19px;margin-top:2px}
   #jm .jm-cart-w{font-style:italic;font-size:13.5px;color:var(--ink2);margin-top:2px}
   #jm .jm-rose{position:absolute;left:12px;bottom:12px;width:52px;height:64px;pointer-events:none;opacity:.9}
+  #jm .jm-zoom{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:4px}
+  #jm .jm-zoom button{width:34px;height:34px;border:1px solid var(--ink2);border-radius:4px;background:rgba(244,234,208,.92);
+      font:20px/1 var(--fell);padding:0}
+  #jm .jm-svg{touch-action:pan-y pinch-zoom}
+  #jm .jm-svg.zoomed{touch-action:none;cursor:grab} #jm .jm-svg.drag{cursor:grabbing}
   #jm .jm-scale{position:absolute;right:14px;bottom:12px;text-align:right;font:italic 12px/1 var(--fell);color:var(--ink);pointer-events:none}
   #jm .jm-scale i{display:block;height:6px;border:1px solid var(--ink);border-top:0;margin-bottom:4px;
       background:linear-gradient(90deg,var(--ink) 0 25%,transparent 25% 50%,var(--ink) 50% 75%,transparent 75%) bottom/100% 2px no-repeat}
@@ -188,7 +193,7 @@
   #jm .jm-print2{display:none}
 
   /* --- the Word edition draws this page once, with no address and no clicks --- */
-  #jm.print .jm-ctl,#jm.print .jm-key summary,#jm.print .jm-pop{display:none}
+  #jm.print .jm-ctl,#jm.print .jm-key summary,#jm.print .jm-pop,#jm.print .jm-zoom{display:none}
   #jm.print .jm-list{columns:1}
   #jm.print .jm-list button{font-size:15px;padding:6px 0 0;pointer-events:none}
   #jm.print .jm-list p{display:block;margin:2px 0 6px;font-size:13.5px;line-height:1.5}
@@ -212,6 +217,7 @@
       <path d="M-20,0L0,-3L20,0L0,3Z" fill="#f1e5c6" stroke="#3a2a1a" stroke-width=".8"/>
       <text y="-28" text-anchor="middle" style="font:13px var(--fellsc);fill:#3a2a1a;stroke:none">N</text></svg>
     <div class="jm-scale"><i></i><span></span></div>
+    <div class="jm-zoom"><button data-zoom=".6" title="Zoom in" aria-label="Zoom in">+</button><button data-zoom="1.6" title="Zoom out" aria-label="Zoom out">−</button></div>
   </div>
   <div class="jm-side">
     <div class="jm-ctl">
@@ -221,7 +227,7 @@
       <button class="jm-ib" data-step="1" title="Next stage (right arrow)" aria-label="Next stage"><svg viewBox="0 0 16 16"><path d="M4,2v12l9-6z"/></svg></button>
       <button class="jm-ib" data-step="last" title="Last stage" aria-label="Last stage"><svg viewBox="0 0 16 16"><path d="M12,2h2v12h-2zM2,2v12l9-6z"/></svg></button>
       <input class="jm-range" type="range" min="1" max="@@N@@" value="@@N@@" aria-label="Stage">
-      <div class="jm-view" role="group" aria-label="View"><button data-cam="j">Whole journey</button><button data-cam="l">The land</button></div>
+      <div class="jm-view" role="group" aria-label="View"><button data-cam="j">Whole journey</button><button data-cam="l">@@CLOSE@@</button></div>
     </div>
     <div class="jm-cap">
       <div class="jm-cap-n"></div><div class="jm-cap-t"></div><div class="jm-cap-w"></div>
@@ -262,20 +268,30 @@
     pats.forEach(function(p, i){ p.setAttribute('patternTransform', 'rotate(' + [45, -45, 30][i] + ') scale(' + k.toFixed(4) + ')'); });
     svg.classList.toggle('zin', 1 / k > 1.6);
     svg.classList.toggle('zout', 1 / k < 0.8);
+    svg.classList.toggle('cam-l', vb[2] < D.vb.j[2] * .62);
     var want = 120 * k / 1.4497, m = 10;
     [10, 20, 25, 50, 100, 200].forEach(function(o){ if (o <= want) m = o; });
     $('.jm-scale i').style.width = (m * 1.4497 / k).toFixed(1) + 'px';
     $('.jm-scale span').textContent = m + ' miles';
   }
+  // the camera for stage i: the whole map if chosen, else the stage's own frame, else its view
+  function target(i){
+    var s = D.stages[i];
+    return chosen === 'j' ? 'j' : s.v ? 's' + i : (chosen || s.c);
+  }
   function setCam(c, anim){
     if (c === cam) return Promise.resolve();
     cam = c;
-    svg.classList.toggle('cam-l', c === 'l');
-    $$('.jm-view button').forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-cam') === c); });
-    var from = vb.slice(), to = D.vb[c];
+    svg.classList.remove('zoomed');
+    $$('.jm-view button').forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-cam') === (c === 'j' ? 'j' : 'l')); });
+    return fly(c.charAt(0) === 's' ? D.stages[+c.slice(1)].v : D.vb[c], anim);
+  }
+  function fly(to, anim, T){
+    var from = vb.slice();
     cancelAnimationFrame(raf);
     if (!anim || REDUCE){ vb = to.slice(); layout(); return Promise.resolve(); }
-    var t0 = performance.now(), T = 1100;
+    var t0 = performance.now();
+    T = T || 1100;
     return new Promise(function(res){
       function step(now){
         var p = Math.min(1, (now - t0) / T);
@@ -349,7 +365,7 @@
     var token = ++run;
     closePop();
     var s = D.stages[i];
-    return setCam(chosen || s.c, anim).then(function(){
+    return setCam(target(i), anim).then(function(){
       if (token !== run) return;
       apply(i, anim);
       if (anim) return reveal(segs.filter(function(g){ return +g.getAttribute('data-f') === i; })
@@ -415,6 +431,34 @@
       (stages.length ? '<p>' + stages.map(function(j){ return '<a href="#" data-goto="' + j + '">' + (j + 1) + '. ' + esc(D.stages[j].t) + '</a>'; }).join('<br>') + '</p>' : ''));
   }
 
+  // --- zooming in and out, and dragging the map ---
+  function zoom(f){
+    var J = D.vb.j, w = Math.max(J[2] / 16, Math.min(J[2], vb[2] * f)), h = w * vb[3] / vb[2];
+    cam = null;
+    svg.classList.toggle('zoomed', w < J[2]);
+    return fly([vb[0] + (vb[2] - w) / 2, vb[1] + (vb[3] - h) / 2, w, h], true, 450);
+  }
+  var drag = null, dragged = false;
+  svg.addEventListener('pointerdown', function(e){
+    if (e.button) return;
+    drag = {x: e.clientX, y: e.clientY, vb: vb.slice(), k: unitsPerPx(), id: e.pointerId};
+    dragged = false;
+  });
+  svg.addEventListener('pointermove', function(e){
+    if (!drag) return;
+    var dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+    if (!dragged){
+      if (Math.abs(dx) + Math.abs(dy) < 6) return;
+      dragged = true; cam = null; cancelAnimationFrame(raf);
+      svg.classList.add('drag'); svg.setPointerCapture(drag.id);
+    }
+    vb = [drag.vb[0] - dx * drag.k, drag.vb[1] - dy * drag.k, vb[2], vb[3]];
+    layout();
+  });
+  function endDrag(){ drag = null; svg.classList.remove('drag'); }
+  svg.addEventListener('pointerup', endDrag);
+  svg.addEventListener('pointercancel', function(){ endDrag(); dragged = false; });
+
   // --- wiring ---
   var list = $('.jm-list');
   list.innerHTML = D.stages.map(function(s, j){
@@ -422,13 +466,15 @@
   }).join('');
   R.addEventListener('click', function(e){
     var t = e.target;
+    if (dragged){ dragged = false; return; }
+    var z = t.closest('[data-zoom]'); if (z){ zoom(+z.getAttribute('data-zoom')); return; }
     var a = t.closest('.jm-ref'); if (a){ e.preventDefault(); verse(a); return; }
     var g = t.closest('[data-goto]'); if (g){ e.preventDefault(); chosen = null; step(+g.getAttribute('data-goto')); return; }
     var x = t.closest('.x'); if (x){ closePop(); return; }
     var p = t.closest('.pl,.pt'); if (p){ placeInfo(p.getAttribute('data-id')); return; }
     var b = t.closest('[data-step]');
     if (b){ var v = b.getAttribute('data-step'); step(v === 'first' ? 0 : v === 'last' ? N - 1 : cur + (+v)); return; }
-    var c = t.closest('[data-cam]'); if (c){ chosen = c.getAttribute('data-cam'); setCam(chosen, true); return; }
+    var c = t.closest('[data-cam]'); if (c){ chosen = c.getAttribute('data-cam'); cam = null; setCam(target(cur), true); return; }
     if (t.closest('.jm-play')){ play(); return; }
   });
   $('.jm-range').addEventListener('input', function(){ stop(); chosen = null; go(this.value - 1, false); });
@@ -443,7 +489,7 @@
 
   var m = /^#\/[^\/]+\/s\d+\/(\d+)/.exec(location.hash);
   var start = m ? Math.max(0, Math.min(N - 1, m[1] - 1)) : N - 1;
-  setCam(D.stages[start].c, false);
+  setCam(target(start), false);
   apply(start, false);
   setPlay(false);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);

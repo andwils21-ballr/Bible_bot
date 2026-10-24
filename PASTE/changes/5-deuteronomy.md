@@ -2,6 +2,27 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## The map after Joshua 24: closer stages, the giants' lands, a wider view (2026-10-23, 10:53 PM Central)
+
+**Request:** Andrew, in chat: zoom in more on each move; the three cities of the giants sit in an area too small to see; the giants' land solid crimson, not striped, with small crimson dots for the cities, since the big dots take over the territory; shade everything Israel took, over the whole territory of the peoples they took it from; and a wider whole map, so the action is not crowded into the upper right corner.
+
+**What was done:** every stage now has its own frame, drawn around that stage's routes and the places it names. There are + and − buttons on the map, and you can drag the map to move it; the next stage puts the frame back. The southern campaign (stage 17) now shows Hebron, Debir and Anab large. The Genesis map shares the new town dots and the zoom buttons. The shading of the taken land waits on the choice below.
+
+| Where | Before | After |
+|---|---|---|
+| The map, each stage | one of two fixed views (the whole journey; the land) | a frame around that stage's routes and places |
+| The map, zooming | none | + and − buttons; drag to move |
+| Giants' lands | crimson stripes | solid crimson (paler once the giants are gone) |
+| Giants' towns | a large crimson ring | a small crimson dot |
+| Whole journey view | Bashan and Lebo-hamath at the top right edge | about 80 miles more on the right and 55 at the top |
+
+**Choices for you:**
+- **Shading the land Israel took**
+  - (a) **as it is** (now): Israel's land turns green as it is taken (Sihon and Og at Numbers 21, the south at Joshua 10, the north at Joshua 11); Sihon's and Og's kingdoms are outlined for one stage.
+  - (b) **by kingdom**: each kingdom Israel took, shaded over its whole extent from the stage Israel meets it and named with its people, using the borders the text gives: Sihon king of the Amorites, from the Arnon to the Jabbok (Joshua 12:2); Og of Bashan, to Mount Hermon (12:4–5); the five Amorite kings of the south, from Kadesh-barnea to Gaza and to Gibeon (10:41); Jabin's kings of the north, as far as Baal-gad under Mount Hermon (11:17). Once taken, each stays shaded, with Israel's green over it.
+  - (c) **by people**: the land of each people named in Joshua 12:8 (Hittite, Amorite, Canaanite, Perizzite, Hivite, Jebusite), placed from Numbers 13:29 and Joshua 11:3. The Bible gives these as regions, not borders, and several share the hill country, so their edges would be guesses.
+  - Recommend (b): the text draws these borders itself, and Joshua 12 counts what was taken the same way, king by king.
+
 ## The map after Joshua 24, and links to it from the notes (2026-10-23, 5:35 PM Central)
 
 **Request:** Andrew: a map, at the end of Joshua, of the path the sons of Israel took out of Egypt and the land they took on the way, shown as a time-lapse; Israel's land coloured and the tribes named where they settled; the giant peoples' lands in another colour, with their names and towns; places not known are fine, but follow the directions the text gives; an old parchment look; and links from a few notes, from leaving Egypt to the end of the journey.

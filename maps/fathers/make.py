@@ -216,8 +216,8 @@ for pid, p in D.P.items():
     act = ",".join(map(str, acts.get(pid, [])))
     rings = "".join(f'<path class="gr {s}" d="M{fmt(x)},{fmt(y)}h0"{attrs_ft(f, t)}/>' for s, f, t in gt.get(pid, []))
     kind = "k" if p["sure"] else "u"
-    dots.append(f'<g class="pl {kind} t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}">{rings}'
-                f'<path class="d" d="M{fmt(x)},{fmt(y)}h0"/><path class="di" d="M{fmt(x)},{fmt(y)}h0"/>'
+    dots.append(f'<g class="pl {kind} t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}">'
+                f'<path class="d" d="M{fmt(x)},{fmt(y)}h0"/><path class="di" d="M{fmt(x)},{fmt(y)}h0"/>{rings}'
                 f'<path class="hit" d="M{fmt(x)},{fmt(y)}h0"/></g>')
     labels.append(f'<text class="pt t{p["tier"]}" data-id="{pid}" data-f="{first[pid]}" data-a="{act}" x="{fmt(x)}" y="{fmt(y)}" '
                   f'text-anchor="{a}" dx="{dx}" dy="{dy}">{esc(p["name"])}</text>')
@@ -287,7 +287,7 @@ TEMPLATE = open(os.path.join(HERE, "..", "template.html"), encoding="utf-8").rea
 out = (TEMPLATE.replace("@@SVG@@", svg_html).replace("@@DATA@@", blob)
        .replace("@@N@@", str(len(stages))).replace("@@KEY@@", D.KEY).replace("@@SRC@@", D.SRC)
        .replace("@@CART@@", D.CART).replace("@@ASPECT@@", str(D.ASPECT)).replace("@@ROOTCLASS@@", " wide faint")
-       .replace("@@FROM@@", D.FROM))
+       .replace("@@FROM@@", D.FROM).replace("@@CLOSE@@", "The land"))
 fm = (f"---\nkind: supplement\norder: {D.ORDER}\ntitle: {D.TITLE}\n---\n\n"
       "<!-- Made by maps/fathers/make.py from maps/fathers/data.py: edit those and rebuild. -->\n")
 open(OUT, "w", encoding="utf-8").write(fm + out + "\n")
