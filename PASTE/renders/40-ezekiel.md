@@ -2,6 +2,119 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 33–36 — rendered 2026-10-23, 11:03 PM CDT
+
+**Source:** Hebrew (WLC) throughout, with one departure, in a note: 34:3 *You drink the milk* (the Greek's *gala*, the other vowels on the same letters, for the reading tradition's *the fat*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 33:21 *the twelfth month*; 33:25b–26 missing; 33:31 *a lie in their mouth*; 34:16 *I will guard*; 34:31 without *adam attem*; 35:6 *surely you sinned unto blood*; 35:9 *inhabited*; 36:5 *to destroy in plunder*.
+
+**Form kept:**
+- *And it came to pass… that* at 33:21, where a date opens the fugitive's arrival. *The word of the LORD came to me* plain at 33:1, 23; 34:1; 35:1; 36:16.
+- Every *hinneh* cut (33:32, 33; 34:10, 11, 17, 20; 35:3; 36:6, 9). *Hineni el / alekha* *I am against* (34:10; 35:3); *hineni aleikhem* *I am for you* (36:9, note); *hineni ani* *I Myself* (34:11, 20); *hineni shofet* *I will judge* (34:17).
+- The watchman of 33:7–9 in the words of 3:17–19, and 33:10–20 in the words of chapter 18: *Why will you die, house of Israel?*; *The way of the Lord is not fair*; *each according to his ways*; *will be remembered*; *does what is just and right*; *he shall surely live; he shall not die*; *you shall surely die* (*mot tamut*, as 3:18).
+- Refrains kept the same: *they will know that I am the LORD*; *a desolation and a waste* (33:28–29; 35:3), as 6:14; *never-ending hostility* and *contempt of soul* (35:5; 36:5), as 25:15; *the time of the final punishment* (35:5), as 21:25, 29; *the pride of her strength will come to an end* (33:28), as 30:18; *scattered among the nations… dispersed through the countries* (36:19), as 20:23; *I have raised My hand* (36:7), as 20:5; *I, the LORD, have spoken, and I will do it* (36:36), as 17:24; *you will loathe yourselves* (36:31), as 20:43; *a woman in her impurity* (36:17), as 18:6; *to the mountains and to the hills, to the ravines and to the valleys* (36:4, 6), as 6:3; *wild beasts* for *chayyah ra'ah* (34:25), as 5:17 and 14:15; *die of pestilence* (33:27); *Aha!* (36:2), as 25:3; *ravines* for *afiqim* (34:13; 35:8).
+- Doubled words: *mot tamut* *you shall surely die* and *chayo yichyeh* *he shall surely live*, as chapters 3 and 18; *shuvu shuvu* *Turn back, turn back* (33:11) and *ya'an be-ya'an* *Because, yes, because* (36:3), repeated on purpose.
+- Readability: object after the verb at 34:4, 16 and 36:25.
+- Read forms followed, no note: 33:13 *tsidqotav*; 33:16 *chattotav*; 35:12 *shamemu*; 36:13 *at*. With a note: 35:9 *tashovnah*; 36:13–15 *goyayikh*; 36:14 *teshakkeli*.
+- No sentence starts with *And* except the formula.
+- Matched to this project's English: *ram's horn* for *shofar* (Jeremiah 4:5; 6:17); *watchman* (3:17); *crushing harshness* for *parekh* (Leviticus 25:43); *covenant of peace* (Numbers 25:12; Isaiah 54:10); *Mount Seir*; *Edom*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:28, 25:30, 27:41, 36:8; Exodus 1:13–14; Leviticus 1:5, 3:16, 18:5, 19:26, 25:23, 25:43, 26:4, 26:6, 26:9, 26:13, 26:39; Numbers 13:32, 19:13, 19:20, 27:17; Deuteronomy 16:16; 2 Samuel 5:2; Psalm 23:2, 137:7; Isaiah 51:2; Jeremiah 23:1, 30:9, 39:2; Lamentations 4:21; Ezra 7:9; Matthew 6:9, 9:36, 25:32.
+- Named, not quoted (not yet rendered): Proverbs 27:26–27 and Obadiah 12 (Hebrew checked); John 10:16 and 2 Corinthians 3:3 (Greek checked).
+- Within Ezekiel: 1:2; 2:5; 3:17–21, 26; 6:3; 11:19; 13:8; 18:6, 25, 29, 31; 20:3, 9, 11, 14; 21:25; 23:5; 24:27; 25:3, 15; 28:13; 31:9; 32:2; 37:24 and 40:1 (named); 48:35 (Hebrew).
+
+**Checked against the sources:**
+- Hebrew: *chuqqot ha-chayyim* (33:15), found nowhere else in the Hebrew Bible; *nemaqqim* (33:10) beside Leviticus 26:39; *agavim* (33:31–32) and *ve-ta'gav* (23:5); *hukkethah ha-ir* (40:1); 34:25 and Leviticus 26:6, the same words; *mei niddah… zoraq* (Numbers 19:13); *chalev izzim* (Proverbs 27:27); *tagdel pikha* (Obadiah 12); *YHWH shammah* (48:35); the written forms of 35:9 and 36:13–15.
+- Swete's Greek: Ezekiel 33:1–36:38; *hagiasō* (36:23) and *kardian sarkinēn* (36:26), with 2 Corinthians 3:3 and John 10:16 in the SBLGNT.
+
+**The checker** found nothing after one fix: chapter 34 had twelve notes; the v16 note was folded into vv11–16 and a minor one on v29 (the Greek's *a plant of peace*) cut.
+
+**What these chapters are:**
+- **33:** the prophet made watchman again, at the turn of the book; the exiles' despair answered with *Why will you die?*; the fugitive arrives with *The city has been struck down*, and Ezekiel's mouth is opened; those left in the ruins claim the land as Abraham's heirs; and the exiles who come to hear him as if to a love song.
+- **34:** woe to Israel's shepherds, who fed themselves and ruled the flock as Pharaoh did; the LORD will search for His sheep Himself, judge between the fat sheep and the lean, and set over them one shepherd, His servant David, with a covenant of peace.
+- **35:** Mount Seir, Edom, judged for its never-ending hostility and its joy at Judah's fall: given up to blood, made a desolation.
+- **36:** the mountains of Israel told they will bear fruit and be filled with people again; the exile explained as the profaning of God's name; and the promise of clean water, a new heart, a new spirit and God's own Spirit within them.
+
+### Ezekiel 33: The Watchman, and the City Struck Down
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ish echad mi-qtseihem* "one man from their ends" | one man from among them |
+| 5 | *ve-hu nizhar nafsho millet* "and he, warned, his life he saved" | Had he taken warning, he would have saved his life |
+| 10 | *u-vam anachnu nemaqqim* "and in them we are rotting" | we are rotting away in them (note) |
+| 12 | *lo yikkashel bah* "he will not stumble in it" | will not make him stumble |
+| 15 | *chavol yashiv rasha gezelah yeshallem* "a pledge the wicked restores, robbery he repays" | the wicked man gives back the pledge, repays what he took by robbery |
+| 15 | *be-chuqqot ha-chayyim halakh* "in the statutes of the life he walked" | walks in the statutes of life (note) |
+| 21 | *hukkethah ha-ir* "the city has been struck" | The city has been struck down (note) |
+| 22 | *ve-yad YHWH hayetah elai* "and the hand of the LORD was to me" | The hand of the LORD had been on me |
+| 25 | *al ha-dam tokhelu* "on the blood you eat" | You eat meat with the blood in it (note) |
+| 26 | *amadtem al charbekhem* "you stood on your sword" | You rely on your sword |
+| 30 | *ha-nidbarim bekha* "who are talking in you" | are talking about you |
+| 30 | *chad et achad* "one with one" | to one another |
+| 31 | *ki-mvo am* "as the coming of a people" | as people come |
+| 31 | *ki agavim be-fihem hemmah osim* "for loves in their mouth they are doing" | With their mouths they make a show of love (note) |
+| 32 | *ke-shir agavim yefeh qol u-metiv naggen* "like a song of loves, fair of voice and doing well at playing" | like a love song, sung with a beautiful voice and played well |
+| 33 | *u-ve-vo'ah hinneh va'ah* "and in its coming, here it comes" | When it comes — and it is coming — |
+
+### Ezekiel 34: The Shepherds of Israel, and the Shepherd to Come
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *asher hayu ro'im otam* "who were shepherding themselves" | who have been feeding themselves |
+| 3 | *et ha-chelev tokhelu* "the fat you eat" | You drink the milk (the Greek; choice below) |
+| 4 | *u-ve-chozqah reditem otam u-ve-farekh* "and with force you ruled them, and with harshness" | you have ruled them with force and with crushing harshness (note) |
+| 12 | *ke-vaqqarat ro'eh edro* "as a shepherd's seeking-out of his flock" | As a shepherd looks after his flock |
+| 13 | *ba-afiqim* "in the channels" | in the ravines |
+| 16 | *er'ennah ve-mishpat* "I will shepherd it with justice" | I will feed them with justice |
+| 18 | *ha-me'at mikkem* "is it a little from you" | Is it too little for you |
+| 18 | *mishqa mayim* "a settling of water" | the clear water |
+| 21 | *el ha-chutsah* "to the outside" | abroad |
+| 26 | *u-sevivot giv'ati berakhah* "and the surroundings of My hill a blessing" | and the places around My hill a blessing |
+| 29 | *matta le-shem* "a planting for a name" | a planting of renown |
+| 29 | *asufei ra'av* "gathered by famine" | swept away by famine |
+| 31 | *adam attem* "human you are" | You are human (note) |
+
+### Ezekiel 35: Against Mount Seir
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *va-taggar… al yedei cherev* "you poured out… onto the hands of the sword" | handed… over to the power of the sword |
+| 6 | *ki le-dam e'eskha* "for to blood I will make you" | I will give you up to blood (note) |
+| 6 | *im lo dam saneta* "if not blood you hated" | Since you did not hate blood (note) |
+| 7 | *le-shimmamah u-shemamah* "to desolation and desolation" | a waste and a desolation |
+| 7 | *over va-shav* "one passing and one returning" | all who come and go |
+| 9 | *lo tashovnah* "will not return" (read form) | will not be restored (note) |
+| 12 | *na'atsotekha* "your contempts" | all the contempt you spoke |
+| 13 | *va-tagdilu alai be-fikhem* "you made great against Me with your mouth" | You boasted against Me with your mouth (note) |
+| 13 | *ve-ha'tartem alai divreikhem* "you multiplied against Me your words" | heaped up your words against Me |
+
+### Ezekiel 36: The Mountains of Israel, and a New Heart
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *u-vamot olam* "and heights of forever" | The ancient heights (note) |
+| 3 | *ya'an be-ya'an* "because, in because" | Because, yes, because |
+| 3 | *shammot ve-sha'of etkhem* "making desolate and trampling you" | they made you desolate and trampled you |
+| 3 | *va-te'alu al sefat lashon ve-dibbat am* "you went up on the lip of tongue and the whisper of people" | you have become the talk of every tongue and the gossip of the people |
+| 5 | *le-ma'an migrashah la-vaz* "for the sake of its pastureland for plunder" | ***KEPT AS IS*** to take its pastureland as plunder (obscure; note) |
+| 8 | *ki qervu lavo* "for they have drawn near to come" | for they will soon come |
+| 9 | *ki hineni aleikhem* "for here I am to you" | For I am for you (note) |
+| 11 | *ve-hetivoti me-rishoteikhem* "I will do good more than your beginnings" | do more good to you than at your beginning |
+| 13 | *okhelet adam at* "a devourer of humans you are" | You devour people |
+| 14 | *teshakkeli* (read) / *tekhashli* (written) | bereave (note) |
+| 20 | *va-yavo* "and he came" | when they came |
+| 23 | *be-hiqqadshi vakhem* "in My being made holy in you" | when I show Myself holy through you |
+| 27 | *ve-asiti et asher be-chuqqai telekhu* "I will make that in My statutes you walk" | cause you to walk in My statutes |
+| 31 | *u-neqototem bi-fneikhem* "you will loathe in your faces" | you will loathe yourselves |
+| 37 | *od zot iddaresh* "yet this I will be sought" | This too I will let the house of Israel ask of Me (note) |
+| 37 | *ka-tson adam* "like a flock of humans" | their people like a flock |
+| 38 | *ke-tson qodashim* "like a flock of holy things" | Like the flock for holy offerings |
+
+**Choices for you:**
+- **34:3, *chlv*, milk or fat**
+  - (a) **the milk** (now): the Greek's reading of the letters. Milk, wool, then the slaughtered fat ones: the shepherds take everything a flock gives, alive and dead, and give it nothing.
+  - (b) **the fat**: the reading tradition's vowels. The shepherds eat the fat that Leviticus reserves for the LORD (*All fat belongs to the LORD*, Leviticus 3:16).
+  - Recommend (a): milk and wool are the flock's yield in Proverbs 27:26–27, and with *the fat* the verse names fat twice.
+
 ## Ezekiel 29–32 — rendered 2026-10-23, 6:05 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with three departures, each in a note: 29:7 *you broke and crushed all their loins* (the Greek, for *you made all their loins stand*); 30:18 *grow dark* (the Greek, and the other dot on the same letter, for Leningrad's *held back*); 32:27 *who fell long ago* (the Greek's *from of old*, for *of the uncircumcised*; the Hebrew's *not* kept). Swete's Greek checked and quoted where it differs: 29:1, 3, 10; 30:5, 13–18; 31:3, 17; 32:2, 5, 12, 17, 21, 27, 32. Verse counts match. Style follows Ezekiel 25–28; these are the oracles against Egypt.
