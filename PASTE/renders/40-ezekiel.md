@@ -2,6 +2,124 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezekiel 37–40 — rendered 2026-10-24, 7:55 AM CDT
+
+**Source:** Hebrew (WLC) throughout, with one departure, in a note: 40:44 *two chambers* (the Greek, for the Hebrew's *chambers for singers*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 37:22, 24 *archōn*, **ruler**, for *king*; 37:23 *lawless deeds*; 38:2 *Rōs* as a people; 38:13 *villages*; 38:17 a statement, not a question; 38:21 *every fear*; 39:2 *I will lead you*; 39:11 *polyandrion*; 39:18, 20 *gigantes*; 39:29 *My wrath* for *My Spirit*; 40:1 *the first month*; 40:49 *ten steps*. The Greek has no 40:30.
+
+**Form kept:**
+- *The word of the LORD came to me* plain at 37:15; 38:1. 40:1 dates the vision itself (*In the twenty-fifth year… the hand of the LORD was on me*), with no *va-yehi*.
+- *ve-hayah ba-yom ha-hu* as *And it shall come to pass in that day, that* (38:10, 18; 39:11), as Isaiah has it.
+- Every *hinneh* cut (37:2, 5, 7, 8, 11, 12, 19, 21; 38:3; 39:1, 8; 40:3, 5, 17, 24). *Hineni / hinneh ani* + participle *I am about to* (37:5, 12, 19, 21); *hineni elekha* *I am against you* (38:3; 39:1).
+- *Ruach* by its sense, each noted (37:1–14): *the Spirit of the LORD* (v1) and *My Spirit* (v14; 39:29) capital, by the fixed term; *breath* (vv5–10) and *the four winds* (v9) lowercase.
+- Refrains kept the same: *they will know that I am the LORD*; *I, the LORD, have spoken, and I will do it* (37:14), as 17:24 and 36:36; *covenant of peace* (37:26), as 34:25; *they will be My people, and I will be their God* (37:23, 27), as 11:20; *one shepherd* and *My servant David* (37:24), as 34:23; *the far reaches of the north* (38:6, 15; 39:2), as Isaiah 14:13; *put hooks in your jaws* (38:4), as 29:4; *in the end of days* (38:16), as Genesis 49:1; *take spoil and seize plunder* (38:12–13), as 29:19; *a great rumbling*'s *ra'ash* as *quaking* where the earth shakes (38:19–20); *a flooding rain… hailstones* (38:22), as 13:11; *the fire of My wrath* (38:19), as 22:21; *restore the fortunes* (39:25), as 16:53; *birds of every wing* (39:4, 17), as 17:23; *mighty ones* (39:18, 20), as 32:12; *on that very day* (40:1); *porch* for *ulam* and *palm trees* for *timorim* (40), as 1 Kings 6–7; *sin offering*, *guilt offering* (40:39).
+- Doubled words: 39:10 *ve-shalelu et sholeleihem u-vazezu et bozezeihem* (*plunder those who plundered them and despoil those who despoiled them*, kept for the turnabout); 39:17, 19 *zivchi asher ani zoveach* (*the sacrifice I am making*); 39:26 *ma'alam asher ma'alu vi* (*the unfaithfulness they committed against Me*).
+- Readability: 37:10 *the breath entered them* (the checker's *came into*).
+- Read forms followed, no note: 37:16, 19 *chaverav*; 37:22 *yihyu*; 39:25 *shevut*; 40:6 *be-ma'alotav*; 40:9–37 *eilav*, *ulammav*, *ta'av*, *challonav*, *timorav*, *olotav*, *ma'alav*; 40:15 *ha-iton*.
+- No sentence starts with *And* except the formulas.
+- Matched to this project's English: *Meshech*, *Tubal*, *Beth-togarmah* (27:13–14); *Put*, *Cush* (30:5); *Sheba*, *Dedan*, *Tarshish* (27); *Zadok* (1 Kings 2:35); *Jachin and Boaz* named in the note only (1 Kings 7:21).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:26, 2:7, 10:2–3, 19:24, 46:21, 49:1; Exodus 12:2–3, 25:8; Leviticus 3:17, 26:11–12; Numbers 17:2, 19:16, 33:47; Deuteronomy 4:30, 31:17; Judges 7:22, 9:37; 1 Kings 2:35, 6:3, 6:29, 7:21, 12:16; 2 Kings 23:17; Psalm 22:12; Isaiah 1:4, 2:2, 26:19, 34:6; Jeremiah 1:14, 3:22, 6:22; Lamentations 3:54; Matthew 27:52.
+- Named, not quoted (not yet rendered): Joel 2:28 (Hebrew checked); 2 Corinthians 6:16, Revelation 19:17–18, 20:8, 21:15 (Greek checked where cited).
+- Within Ezekiel: 1:7; 3:12–13, 22–23; 5:5; 6:6; 8:4; 10:19; 13:11; 17:23; 20:40; 27:13; 29:4; 32:2, 12, 21, 26, 27; 33:10, 21; 34:24; 36:18, 23; 38:16.
+
+**Checked against the sources:**
+- Hebrew: *ruach* ten times in 37:1–14; *nafach* (37:9, Genesis 2:7); *moshvoteihem* (37:23); the accent on *nesi* (38:2); *rosh* in Genesis 10 and 46:21; *tabbur ha-arets* (38:12), only here and Judges 9:37; *ve-shishe'tikha* (39:2), only here; *ha-ovrim* / *ha-avarim* (39:11, Numbers 33:47), and *ovrim* five times in 39:11–15; *tsiyyun* (39:15, 2 Kings 23:17); *shafakhti et ruchi* (39:29) and Joel's *eshpokh et ruchi*; *be-rosh ha-shanah* (40:1) and *lishkhot sharim* (40:44), each only here.
+- Swete's Greek: Ezekiel 37:1–40:49; Numbers 17:2 (*rhabdos*). SBLGNT: Matthew 27:52; 2 Corinthians 6:16.
+
+**The checker** found nothing after two fixes in chapter 37: *came into* at v10, and eleven notes (the v3 note was cut).
+
+**What these chapters are:**
+- **37:** the valley of dry bones, brought together and given breath, an army standing on its feet: the whole house of Israel brought up from its graves. Then two sticks, Judah and Joseph, joined in the prophet's hand: one nation, one king, My servant David, a covenant of peace, and God's sanctuary among them forever.
+- **38:** Gog, of the land of Magog, chief of Meshech and Tubal, brought with the armies of the north against a land at peace, and met by earthquake, sword, pestilence, hail, fire and sulfur.
+- **39:** Gog falls on the mountains of Israel; Israel burns his weapons for seven years and buries his dead for seven months to cleanse the land; the birds and beasts are called to the LORD's sacrifice; and God will no longer hide His face, when He has poured out His Spirit.
+- **40:** twenty-five years into the exile, the vision of the new house begins: a man of bronze with a measuring reed leads Ezekiel through the east gate, the outer court and the inner court, measuring every gate, and shows him the tables for the offerings and the chambers of the priests.
+
+### Ezekiel 37: The Valley of Dry Bones, and the Two Sticks
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *va-yotsi'eni ve-ruach YHWH* "and he brought me out in the spirit of the LORD" | He brought me out by the Spirit of the LORD |
+| 2 | *ve-he'eviranni aleihem saviv saviv* "he made me pass over them around around" | He led me around among them, all the way around |
+| 7 | *va-yehi qol… ve-hinneh ra'ash* "and there was a sound… and here, a rumbling" | there was a sound, then a rumbling (note) |
+| 7 | *etsem el atsmo* "a bone to its bone" | bone to its bone |
+| 9 | *u-fechi ba-harugim ha-elleh* "and blow into these killed ones" | blow into these slain (note) |
+| 10 | *chayil gadol me'od me'od* "an army great very very" | an exceedingly great army |
+| 11 | *nigzarnu lanu* "we are cut off for ourselves" | we are cut off (note) |
+| 16 | *ets echad* "one wood" | a stick (note) |
+| 16 | *chaverav* (read) "his companions" | associated with him |
+| 18 | *mah elleh lakh* "what these are to you" | what you mean by these |
+| 23 | *mi-kol moshvoteihem* "from all their dwelling places" | from all their dwelling places (note; choice below) |
+| 26 | *u-netattim* "and I will give them" | I will establish them |
+| 27 | *mishkani aleihem* "My dwelling over them" | My dwelling place will be over them (note) |
+
+### Ezekiel 38: Gog of the Land of Magog
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *nesi rosh Meshekh ve-Tuval* "prince of head of Meshech and Tubal" | the chief prince of Meshech and Tubal (note; choice below) |
+| 4 | *levushei mikhlol* "clothed in completeness" | clothed in full armor |
+| 4 | *tsinnah u-magen* "large shield and shield" | large shield and small shield |
+| 6 | *agappeha* "its wings" | its troops |
+| 7 | *ve-hayita lahem le-mishmar* "and you will be to them for a guard" | and take command of them |
+| 8 | *tippaqed* "you will be visited" | you will be summoned |
+| 9 | *ka-sho'ah* "like the ruin" | like a storm |
+| 10 | *ya'alu devarim al levavekha* "words will go up on your heart" | thoughts will come into your mind |
+| 11 | *eretz perazot* "a land of open places" | a land of unwalled villages |
+| 13 | *kefireha* "its young lions" | all its young lions (note) |
+| 18 | *ta'aleh chamati be-appi* "My heat will go up in My nose" | My wrath will flare up in My anger |
+| 20 | *ha-madregot* "the steps" | the cliffs |
+| 22 | *ve-nishpatti itto* "I will be judged with him" | I will enter into judgment with him |
+
+### Ezekiel 39: The Fall of Gog, and the Spirit Poured Out
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-shishe'tikha* (meaning uncertain) | drive you on (note) |
+| 4 | *le-eit tsippor kol kanaf* "to a bird of prey of every wing" | to birds of prey of every wing |
+| 8 | *hinneh va'ah ve-nihyatah* "here, it is coming, and it will happen" | It is coming, and it will be done |
+| 11 | *gei ha-ovrim* "the valley of those passing" | the Valley of the Travelers (note) |
+| 11 | *ve-chosemet hi et ha-ovrim* "and it muzzles the passers" | it will block the way of the travelers |
+| 13 | *ve-hayah lahem le-shem* "and it will be to them for a name" | it will bring them renown |
+| 14 | *anshei tamid yavdilu* "men of continuity they will set apart" | They will set apart men to go through the land continually |
+| 14 | *mi-qtseh shiv'ah chodashim yachqoru* "from the end of seven months they will search" | At the end of seven months they will make their search |
+| 18 | *merei'ei Vashan* "fatlings of Bashan" | fatlings of Bashan (note) |
+| 19 | *le-shiv'ah… le-shikkaron* "to fullness… to drunkenness" | until you are full… until you are drunk |
+| 29 | *asher shafakhti* "that I have poured out" | when I have poured out (note) |
+
+### Ezekiel 40: The Vision of the House, and Its Gates
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *be-rosh ha-shanah* "at the head of the year" | at the beginning of the year (note) |
+| 2 | *ke-mivneh ir mi-negev* "like the building of a city from the south" | to the south, was something like the structure of a city |
+| 5 | *shesh ammot ba-ammah va-tofach* "six cubits by the cubit and a handbreadth" | six cubits long, each cubit a cubit and a handbreadth (note) |
+| 6 | *ve-et saf echad qaneh echad rochav* "and one threshold, one reed wide" | ***KEPT AS IS*** the one threshold one reed deep (obscure; note) |
+| 7 | *ta* "chamber" | Each side room |
+| 9 | *eilav* "his rams/pillars" | its jambs |
+| 13 | *mi-gag ha-ta le-gaggo* "from the roof of the chamber to its roof" | from the roof of one side room to the roof of the other |
+| 14 | *va-ya'as et eilim shishim ammah* "and he made jambs sixty cubits" | ***KEPT AS IS*** He made the jambs sixty cubits (obscure; note) |
+| 16 | *chalonot atumot* "closed windows" | recessed windows |
+| 18 | *el ketef ha-she'arim* "to the shoulder of the gates" | beside the gates |
+| 43 | *ve-ha-shefattayim tofach echad* "and the double-hooks one handbreadth" | ***KEPT AS IS*** Hooks a handbreadth long (obscure; note) |
+| 44 | *lishkhot sharim* "chambers of singers" | two chambers (the Greek; note; choice below) |
+| 46 | *ha-qerevim mi-benei Levi* "the ones coming near from the sons of Levi" | those of the sons of Levi who come near |
+| 49 | *u-va-ma'alot asher ya'alu elav* "and by the steps that they go up to it" | It was reached by steps |
+
+**Choices for you:**
+- **37:23, *moshvoteihem*, dwelling places or faithlessness**
+  - (a) **their dwelling places** (now): *I will save them from all their dwelling places where they sinned*: God takes them out of the places where the idols stood, the word of 6:6.
+  - (b) **their faithlessness**: the same letters with one moved, *meshuvoteihem*: *I will save them from all their faithlessness by which they sinned*, as Jeremiah 3:22, *I will heal your faithlessness*. The Greek's *from all their lawless deeds* is nearer this sense.
+  - Recommend (a): the Hebrew reads sensibly as written, and (b) needs a letter moved that no witness in our sources shows.
+- **38:2, *nesi rosh*, the chief prince or the prince of Rosh**
+  - (a) **the chief prince of Meshech and Tubal** (now): *rosh*, **head**, as a title.
+  - (b) **the prince of Rosh, Meshech and Tubal**: *Rosh* as a third people, as the Greek reads it and as the Hebrew accents allow.
+  - Recommend (a): no people called Rosh appears in the table of nations (Genesis 10), which names Magog, Meshech, Tubal, Gomer and Togarmah, the rest of this chapter's peoples.
+- **40:44, *lishkhot sharim*, two chambers or chambers for singers**
+  - (a) **two chambers** (now): the Greek. The verse places *one… one*, and vv45–46 give both chambers to priests.
+  - (b) **chambers for singers**: the Hebrew as written.
+  - Recommend (a): the context counts two chambers and assigns them to priests, not singers.
+
 ## Ezekiel 33–36 — rendered 2026-10-23, 11:03 PM CDT
 
 **Source:** Hebrew (WLC) throughout, with one departure, in a note: 34:3 *You drink the milk* (the Greek's *gala*, the other vowels on the same letters, for the reading tradition's *the fat*; choice below). Swete's Greek checked throughout; its differences are in the notes where they matter: 33:21 *the twelfth month*; 33:25b–26 missing; 33:31 *a lie in their mouth*; 34:16 *I will guard*; 34:31 without *adam attem*; 35:6 *surely you sinned unto blood*; 35:9 *inhabited*; 36:5 *to destroy in plunder*.
