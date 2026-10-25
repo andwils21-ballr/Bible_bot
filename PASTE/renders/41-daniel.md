@@ -2,6 +2,66 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Daniel 13–14 — rendered 2026-10-25, 5:54 PM CDT
+
+Daniel is now complete, all 14 chapters.
+
+**Source:** Greek only; there is no Hebrew or Aramaic for these chapters. Rendered from Theodotion's Greek (Swete, `Sut` and `Bet` in `sources/swete-src/`), whose verse numbers the English follows and which is the Greek quoted in the notes on chapters 1–12. `source_text.py` prints the Old Greek (`Sus`, `Bel`), used here as the second witness; logged in `NOTES_FOR_ANDREW.md`.
+
+**Form kept:**
+- *And it came to pass* kept where it opens a new time (13:15 *while they were watching for a suitable day*; 13:28 *the next day*); cut inside a scene (13:7, 19; 14:14, 18, 28). *Idou* cut every time (13:20, 43; 14:11, 40).
+- *Messenger* for *angelos* (13:55, 59; 14:34, 36, 39), as Daniel 3:28 and 6:22; logged in `NOTES_FOR_ANDREW.md`, since Tobit 12:22 has *angel*.
+- *Do not kill the innocent and the righteous* (13:53), as Exodus 23:7.
+- Names: Joakim, Susanna, Hilkiah, Astyages, Habakkuk, as the English knows them.
+- No sentence starts with *And* except the formula.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:8 (Greek); Exodus 23:7; Leviticus 24:14; Deuteronomy 19:19 (and its Greek); 2 Samuel 24:14 (and its Greek); Psalm 115:4; Song of Songs 2:2; Isaiah 27:1 (and its Greek), 45:5, 46:1; Jeremiah 29:21–23, 51:34 (and its Greek), 51:44; Ezekiel 8:3; Matthew 27:24.
+
+**Checked against the sources:**
+- Swete's Greek: Theodotion, Susanna 1–64 and Bel 1–42; the Old Greek, Susanna 1–60 and Bel 1–2. Hebrew: *shoshannah* (Song of Songs 2:2).
+
+**The checker** found 3 errors, *angel of God* (13:55, 59; 14:39), fixed as *messenger* (above), and nothing else.
+
+**What these chapters are:**
+- **13:** Susanna, wife of the rich Joakim in Babylon, is cornered in her garden by two elders who are judges; she refuses them, and they accuse her of adultery with a young man. Condemned to death, she cries to God, and the young Daniel stops the execution, questions the two elders apart, and convicts them when one names a mastic tree and the other an oak. The false witnesses are put to death under the law of Moses.
+- **14:** at Cyrus's court Daniel proves with ashes on the temple floor that the priests of Bel, not the idol, eat its offerings; he kills the great dragon the Babylonians worship with cakes of pitch, fat and hair. The crowd forces the king to throw Daniel to seven lions for six days, where the prophet Habakkuk, carried from Judea by the hair, brings him a meal; on the seventh day the king finds him alive and praises the God of Daniel.
+
+### Daniel 13: Susanna
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *ho despotēs* "the master" | the Master |
+| 5 | *hoi edokoun kybernan ton laon* "who seemed to govern the people" | who were thought to govern the people |
+| 10 | *katanenygmenoi* "stung" | overwhelmed with desire |
+| 11, 20 | *syngenesthai autē*; *genou meth' hēmōn* "to be with her"; "be with us" | to lie with her; lie with us |
+| 15 | *kathōs echthes kai tritēs hēmeras* "as yesterday and the third day" | as she had on the days before |
+| 22 | *Stena moi pantothen* "narrow for me on every side" | I am hemmed in on every side (note) |
+| 31 | *tryphera sphodra* "very delicate" | a woman of great refinement |
+| 45 | *to pneuma to hagion paidariou* "the spirit, the holy one, of a boy" | the holy spirit of a young boy (note; choice below) |
+| 50 | *to presbeion* "the right of the eldest" | the standing of an elder |
+| 52 | *pepalaiōmene hēmerōn kakōn* "you made old of evil days" | You who have grown old in wicked days (note) |
+| 54, 58 | *homilountas allēlois* "keeping company with each other" | being intimate with each other |
+| 54–59 | *schinos… schisei; prinos… prisai* | a mastic tree… split you in two; an evergreen oak… saw you in two (the wordplay is in the note) |
+
+### Daniel 14: Bel and the Dragon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *prosetethē pros tous pateras autou* "was added to his fathers" | was gathered to his fathers |
+| 3 | *artabai… metrētai* "artabas… metretes" | measures… jars |
+| 12 | *ē Daniēl ho pseudomenos kath' hēmōn* "or Daniel, the one lying against us" | otherwise Daniel, who is telling lies about us |
+| 13 | *katephronoun* "they were scornful" | They were unconcerned |
+| 27 | *ta sebasmata hymōn* "your objects of worship" | what you have been worshipping |
+| 36 | *en tō rhoizō tou pneumatos autou* "in the rush of his spirit" | ***KEPT AS IS*** with the rushing of his spirit (spirit or wind) |
+| 40 | *kai idou Daniēl kathēmenos* "and look, Daniel sitting" | and Daniel was sitting there |
+
+**Choices for you:**
+- **13:45, *to pneuma to hagion paidariou neōterou***
+  - (a) **God stirred up the holy spirit of a young boy** (now): the boy's own spirit, which is holy; *of a young boy* belongs to *spirit*.
+  - (b) **God stirred up the Holy Spirit in a young boy**: *to pneuma to hagion* is the New Testament's phrase for the Holy Spirit, which God stirs up in the boy.
+  - Recommend (a): the Greek puts *of a young boy* straight after *the holy spirit* as its owner, and the story is about a boy's courage and judgment, which God wakes.
+
 ## Daniel 9–12 — rendered 2026-10-25, 12:54 PM CDT
 
 **Source:** Hebrew (WLC) throughout. Theodotion's Greek (Swete, *Dat*) checked throughout and quoted as *the Greek*; the Old Greek (*Dan*) looked at for 9:24–27. No departure from the Hebrew. With these chapters the Hebrew and Aramaic of Daniel is complete; chapters 13–14 (Susanna, Bel and the Dragon) are Greek only.
