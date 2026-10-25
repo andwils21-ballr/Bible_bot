@@ -73,7 +73,7 @@ FIXED_ALL = [
 # Notes are written for a reader who never sees the curtain. The first list is
 # always talk about the work; the second usually is, so it is a lead to read.
 PROCESS = re.compile(r"\b(fixed as|fixed rendering|Andrew|readability|for clarity"
-                     r"|we (chose|decided)|I (chose|decided))\b", re.I)
+                     r"|we (chose|decided)|I (chose|decided)|in the report|choices? (below|for you))\b", re.I)
 PROCESS_SOFT = re.compile(r"\b(fixed term|this project|the project's|the spec|chosen for|we (render|use|keep|follow|read)"
                           r"|I (render|kept))\b", re.I)
 # Leads in the text that a reader has to judge (spec, "No And" and "Already ruled").

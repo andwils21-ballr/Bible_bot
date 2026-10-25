@@ -149,6 +149,12 @@ entry.
 - **Jeremiah 27:11, *ve-avadah ve-yashvah bah***: Bible Main has *and it will till it and live in it*. *Avad* is the chapter's word, eleven times as a verb in vv6–17, and *serves him* comes earlier in the same verse; this project's Genesis 2:5, 2:15 and 3:23 render *avad* with the ground as *serve* (*to serve it and to keep it*). Proposed: *and it will serve the land and live on it*, with no note, since the English now carries it. *Till* is the plain sense and not a rule break, so either answer stands.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+### 98. Daniel 9:13 *u-le-haskil ba-amittekha* (from the spot check of 2026-10-25)
+*Asked by Bible 2, 3:31 PM CDT, 2026-10-25. Daniel is not closed. Report: `PASTE/spot-checks/2026-10-25.md`.*
+
+- Bible Main has *by turning from our iniquities and **paying heed to** Your truth*; the blind re-render has ***gaining insight from** Your truth*. *Sakal* runs through these chapters: Gabriel comes *to give you insight* (`להשכילך`, 9:22), and the *maskilim* give understanding (11:33, 35), shine (12:3) and understand (12:10). Proposed: *and gaining insight from Your truth*, so that Daniel confesses Israel did not seek the insight Gabriel then brings. *Paying heed* is in the word's range, so either answer stands.
+- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter

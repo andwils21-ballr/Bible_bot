@@ -62,9 +62,9 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 8 | *ve-hodi nehpakh alai le-mashchit* "and my splendor was turned on me to ruin" | my vigor turned to ruin |
 | 10 | *va-tenieni al birkai ve-khappot yadai* "and it shook me onto my knees and the palms of my hands" | set me trembling on my knees and the palms of my hands |
 | 11 | *amod al omdekha* "stand on your standing" | stand up where you are |
-| 13 | *va-ani notarti sham* "and I was left there" | I had been left there (the Greek: *I left him there*; note) |
+| 13 | *va-ani notarti sham* "and I was left there" | and I was left there (the Greek: *I left him there*; note) |
 | 16 | *nehefkhu tsirai alai* "my pangs turned upon me" | my pains have come upon me (note) |
-| 17 | *eved adoni zeh… adoni zeh* "this servant of my lord… this my lord" | my lord's servant here… my lord here |
+| 17 | *eved adoni zeh… adoni zeh* "this servant of my lord… this my lord" | How can I, my lord's servant, speak with you, my lord? |
 | 19 | *chazaq va-chazaq* "be strong and be strong" | be strong, be strong! |
 | 20 | *ve-hinneh sar Yavan ba* "and look, the prince of Greece coming" | the prince of Greece will come |
 
@@ -78,7 +78,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 10 | *u-va vo* "and coming he will come" | one of them will surely come |
 | 14 | *benei peritsei ammekha* "sons of the violent ones of your people" | the violent men of your own people |
 | 16 | *ve-khalah ve-yado* "and destruction (or all of it) in his hand" | ***KEPT AS IS*** with destruction in his hand |
-| 17 | *u-vat ha-nashim yitten lo le-hashchitah* "and the daughter of women he will give him, to destroy it" | ***KEPT AS IS*** he will give him a daughter of women to destroy it (obscure) |
+| 17 | *u-vat ha-nashim yitten lo le-hashchitah* "and the daughter of women he will give him, to destroy it" | he will give him a daughter in marriage, to destroy it |
 | 18 | *bilti cherpato yashiv lo* "except his insolence he will turn back to him" | ***KEPT AS IS*** more than that, he will turn his insolence back on him |
 | 20 | *ma'avir nogesh heder malkhut* "sending an exactor (through) the glory of the kingdom" | ***KEPT AS IS*** who sends an exactor through the glory of the kingdom |
 | 22 | *u-zero'ot ha-shetef yishatefu* "and the arms of the flood will be flooded" | Overwhelming forces will be swept away |
@@ -113,6 +113,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **until an anointed one, a prince, there will be seven sevens; and for sixty-two sevens it will be rebuilt** (now): the Hebrew accents, which divide the verse after *seven sevens*. The anointed one comes after seven sevens; the city stands for sixty-two; and *after the sixty-two sevens an anointed one will be cut off* (v26).
   - (b) **until the Anointed One, the Prince, there will be seven sevens and sixty-two sevens; it will be rebuilt**: the Greek, *until an anointed leader, seven sevens and sixty-two sevens*, which joins the two numbers, so that the anointed one comes after sixty-nine sevens and is the one cut off in v26. This is the reading of the older English Bibles (*Messiah the Prince*).
   - Recommend (a): it is the Hebrew text as it stands, and *mashiach* there has no article, *an anointed one*. The choice is between the Hebrew's division and the Greek's, and it changes whether one anointed figure or two stand in vv25–26.
+- **12:10, *yitbareru ve-yitlabbenu ve-yitsarefu rabbim*** (from the spot check of 2026-10-25)
+  - (a) **Many will be purified, made white and refined** (now): it is done to them, as in 11:35, where the wise stumble *to refine, purify and make them white*; the Greek has three passives.
+  - (b) **Many will purify themselves, make themselves white and be refined**: the first two verbs are reflexive in form (*hitpael*), the third passive; the many take part in their own cleansing, and the refining is done to them.
+  - Recommend (b): it keeps the Hebrew's change of form, which (a) smooths away, and it sets the many who act against *the wicked will act wickedly* in the same verse.
 
 ## Daniel 5–8 — rendered 2026-10-25, 7:55 AM CDT
 
