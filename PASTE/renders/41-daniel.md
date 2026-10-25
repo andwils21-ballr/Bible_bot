@@ -2,6 +2,118 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Daniel 9–12 — rendered 2026-10-25, 12:54 PM CDT
+
+**Source:** Hebrew (WLC) throughout. Theodotion's Greek (Swete, *Dat*) checked throughout and quoted as *the Greek*; the Old Greek (*Dan*) looked at for 9:24–27. No departure from the Hebrew. With these chapters the Hebrew and Aramaic of Daniel is complete; chapters 13–14 (Susanna, Bel and the Dragon) are Greek only.
+
+**Form kept:**
+- No *And it came to pass* in these chapters. *Hinneh* cut every time (10:5, 10, 13, 16, 20; 11:2; 12:5).
+- *And now* kept once, at 9:17, *ve-attah*, where Daniel turns from confession to his request (spec, "No And"); at 9:15 *ve-attah* is *Now*.
+- Kept the same as other books: Nehemiah's words in the prayer, *the great and awesome God, who keeps the covenant and loyal love with those who love Him and keep His commandments* (9:4), as Nehemiah 1:5; *We have sinned and have done wrong; we have acted wickedly* (9:5), as 1 Kings 8:47; *open shame, as it is this day* (9:7–8), as Ezra 9:7; *the evening offering* (9:21), as Ezra 9:5; *loathsome thing* for *shiqquts* (9:27; 11:31; 12:11), the fixed term; *destroy completely* for *charam* in war (11:44); *abhorrence* for *dir'on* (12:2), as Isaiah 66:24; *the expanse* for *raqia* (12:3), as Genesis 1:6–8; *Blessed is* for *ashrei* (12:12), as Psalm 1:1; *the righteous one… will make the many righteous* (12:3), as Isaiah 53:11.
+- Kept the same within Daniel: *the beautiful land* (11:16, 41), as 8:9; *the continual offering* (11:31; 12:11); *the end of days* (10:14), as 2:28; *prince* for *sar* (10:13, 20, 21; 12:1), as 8:11, 25; *man greatly loved* (10:11, 19), as 9:23; *fortress* for *ma'oz* (11:1, 7, 10, 19, 31, 38, 39); *smooth words* for *chalaqlaqqot* / *chalaqqot* (11:21, 32, 34); *while they are at ease* (11:21, 24), as 8:25; *charge* (11:40), as the ram in 8:4; *astonishing* for *nifla'ot* (11:36), as 8:24; *a time, times and half a time* (12:7), as 7:25; *Him who lives forever* (12:7), as 4:34.
+- Read forms followed, no note (spelling only): 9:5 *hirsha'nu*; 9:12 *devaro*; 9:18 *peqach*; 9:24 *chatta't*; 11:10 *u-vanav*, *ve-yitgareh*, *ma'uzzo*; 11:12 *ve-ram*; 11:18 *ve-yasem*; 11:39 *yakkir*. One with a note, as the meaning differs: 9:24 *le-hatem*, **to put an end to**, for the written *le-chtom*, **to seal up**.
+- No sentence starts with *And* except 9:17, above.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:6–8, 2:14, 41:1; Exodus 15:11, 29:37, 32:32–33; Numbers 6:25, 24:24; Deuteronomy 29:17, 32:8 (and its Greek), 32:40; Joshua 18:11; 1 Samuel 4:19, 24:6; 1 Kings 8:47; 2 Chronicles 36:21; Ezra 9:5, 9:7; Nehemiah 1:5; Psalm 1:1; Isaiah 6:7, 11:1, 26:19, 40:2, 52:13, 53:11, 66:24; Jeremiah 1:9, 25:11, 29:10; Ezekiel 1:7, 1:16, 9:2, 22:22; Matthew 24:15, 24:21.
+- Named, not quoted (not yet rendered): Amos 8:12 (Hebrew checked); Revelation 1:13–15, 10:5–6.
+
+**Checked against the sources:**
+- Hebrew: the name YHWH eight times, all in chapter 9; *natakh* in 9:11 and 9:27; *mu'af bi-y'af* (9:21); the accents of 9:25; *qodesh qodashim* with no article (9:24); *chamudot* in 9:23, 10:3, 11, 19 and 11:38, 43; *tsiyyim Kittim* (11:30) and *tsim mi-yad Kittim* (Numbers 24:24); *netser shorasheha* (11:7) and *netser mi-shorashav* (Isaiah 11:1); *le-chayyei olam* only in 12:2; *dir'on* only in 12:2 and Isaiah 66:24; *ye'or* in 12:5–7 and *nahar* in 10:4; *yeshotetu* in Amos 8:12.
+- Swete's Greek: Theodotion, Daniel 9:1–12:13; the Old Greek, 9:24–27; Deuteronomy 32:8.
+
+**The checker** found 0 errors and 4 CHECKs, all *come into* in chapter 11 (vv9, 24, 40, 41); each is now *enter*.
+
+**What these chapters are:**
+- **9:** reading Jeremiah's seventy years, Daniel fasts and prays a long confession for Israel and a plea for the ruined sanctuary; while he is still praying, Gabriel comes with the answer: seventy sevens decreed for the people and the city, an anointed one cut off, and the loathsome thing that desolates.
+- **10:** after three weeks of mourning, by the Tigris, Daniel sees a man clothed in linen, falls down and is raised and strengthened; the man tells of the princes of Persia and Greece, and of Michael, Israel's prince.
+- **11:** the man's account of what is written: kings of Persia, a mighty king of Greece whose kingdom is divided, and the long wars of the king of the south and the king of the north; a contemptible king who profanes the sanctuary, sets up the loathsome thing that desolates, and exalts himself above every god, until he comes to his end with no one to help him.
+- **12:** Michael arises in a time of distress; the people written in the book are delivered; many who sleep in the dust awake, some to everlasting life and some to shame; the wise shine like the stars. The words are sealed until the end, and Daniel is told he will rest and stand up for his lot at the end of the days.
+
+### Daniel 9: Daniel's Prayer, and the Seventy Sevens
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mi-zera Madai asher homlakh* "of the seed of Media, who was made king" | of the seed of the Medes, who was made king |
+| 2 | *binoti ba-sefarim* "I perceived in the books" | I… understood from the books |
+| 3 | *va-ettenah et panai* "I gave my face" | I turned my face |
+| 3 | *levaqqesh tefillah ve-tachanunim* "to seek prayer and pleas" | to seek Him in prayer and pleading |
+| 7 | *be-ma'alam asher ma'alu vakh* "in their unfaithfulness that they were unfaithful against You" | because of the unfaithfulness they have shown You |
+| 12 | *shofteinu asher shefatunu* "our judges who judged us" | the rulers who governed us |
+| 13 | *chillinu et penei YHWH* "we have softened the face of the LORD" | we have not sought the favor of the LORD |
+| 17 | *ve-ha'er panekha* "and make Your face shine" | make Your face shine (Numbers 6:25; note) |
+| 21 | *mu'af bi-y'af* "made to fly in flight" or "wearied in weariness" | in swift flight (note; choice below) |
+| 23 | *chamudot attah* "you are desirable things" | you are greatly loved (note in chapter 10) |
+| 24 | *shavu'im shiv'im* "sevens seventy" | Seventy sevens (note; choice below) |
+| 24 | *ve-li-mshoach qodesh qodashim* "and to anoint holy of holies" | ***KEPT AS IS*** to anoint what is most holy (no article; note) |
+| 25 | *ad mashiach nagid shavu'im shiv'ah ve-shavu'im shishim u-shnayim* | until an anointed one, a prince, there will be seven sevens; and for sixty-two sevens (note; choice below) |
+| 25 | *rechov ve-charuts* "square and moat" | with square and moat |
+| 26 | *ve-ein lo* "and there is not to him" | ***KEPT AS IS*** and will have nothing (note) |
+| 27 | *ve-al kenaf shiqqutsim meshomem* "and on a wing of loathsome things, one desolating" | ***KEPT AS IS*** on the wing of loathsome things will come one who desolates (note) |
+
+### Daniel 10: The Man Clothed in Linen
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-tsava gadol* "and a great host" | it concerned a great conflict (note) |
+| 2 | *shelosha shavu'im yamim* "three weeks, days" | three full weeks |
+| 3 | *lechem chamudot* "bread of desirable things" | choice food (note) |
+| 3 | *ve-sokh lo sakhti* "and anointing I did not anoint" | I did not anoint myself at all |
+| 8 | *ve-hodi nehpakh alai le-mashchit* "and my splendor was turned on me to ruin" | my vigor turned to ruin |
+| 10 | *va-tenieni al birkai ve-khappot yadai* "and it shook me onto my knees and the palms of my hands" | set me trembling on my knees and the palms of my hands |
+| 11 | *amod al omdekha* "stand on your standing" | stand up where you are |
+| 13 | *va-ani notarti sham* "and I was left there" | I had been left there (the Greek: *I left him there*; note) |
+| 16 | *nehefkhu tsirai alai* "my pangs turned upon me" | my pains have come upon me (note) |
+| 17 | *eved adoni zeh… adoni zeh* "this servant of my lord… this my lord" | my lord's servant here… my lord here |
+| 19 | *chazaq va-chazaq* "be strong and be strong" | be strong, be strong! |
+| 20 | *ve-hinneh sar Yavan ba* "and look, the prince of Greece coming" | the prince of Greece will come |
+
+### Daniel 11: The Kings of the South and the North
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *amdi le-machaziq u-le-ma'oz lo* "my standing as a strengthener and a fortress for him" | I stood up to strengthen him and be a fortress for him (note) |
+| 2 | *ya'ir ha-kol et malkhut Yavan* "he will stir up all, the kingdom of Greece" | he will stir up everyone against the kingdom of Greece |
+| 6 | *ve-ha-yoledah* "and the one who fathered her" | her father |
+| 10 | *u-va vo* "and coming he will come" | one of them will surely come |
+| 14 | *benei peritsei ammekha* "sons of the violent ones of your people" | the violent men of your own people |
+| 16 | *ve-khalah ve-yado* "and destruction (or all of it) in his hand" | ***KEPT AS IS*** with destruction in his hand |
+| 17 | *u-vat ha-nashim yitten lo le-hashchitah* "and the daughter of women he will give him, to destroy it" | ***KEPT AS IS*** he will give him a daughter of women to destroy it (obscure) |
+| 18 | *bilti cherpato yashiv lo* "except his insolence he will turn back to him" | ***KEPT AS IS*** more than that, he will turn his insolence back on him |
+| 20 | *ma'avir nogesh heder malkhut* "sending an exactor (through) the glory of the kingdom" | ***KEPT AS IS*** who sends an exactor through the glory of the kingdom |
+| 22 | *u-zero'ot ha-shetef yishatefu* "and the arms of the flood will be flooded" | Overwhelming forces will be swept away |
+| 26 | *okhlei fat-bago* "the eaters of his royal food" | Those who eat his royal food (note) |
+| 29 | *ve-lo tihyeh kha-rishonah ve-kha-acharonah* "it will not be as the first, so the last" | this time it will not be as it was before |
+| 37 | *chemdat nashim* "the desire of women" | ***KEPT AS IS*** the one desired by women (obscure; note) |
+| 43 | *be-mits'adav* "in his steps" | will follow in his steps |
+| 45 | *ohalei appadno* "the tents of his palace" | his royal tents |
+
+### Daniel 12: The Time of the End
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ha-omed al benei ammekha* "who stands over the sons of your people" | who stands over the sons of your people |
+| 2 | *mi-yeshenei admat afar* "of the sleepers of the ground of dust" | of those who sleep in the dust of the earth |
+| 3 | *u-matsdiqei ha-rabbim* "and those making the many righteous" | those who make the many righteous (Isaiah 53:11; note) |
+| 4 | *yeshotetu rabbim* "many will roam" | Many will run to and fro (note) |
+| 7 | *u-khe-khallot nappets yad am qodesh* "and when the shattering of the hand of the holy people is finished" | ***KEPT AS IS*** when the shattering of the power of the holy people comes to an end |
+| 8 | *mah acharit elleh* "what is the latter end of these" | what will be the outcome of these things |
+| 13 | *le-qets ha-yamin* "at the end of the days" | at the end of the days (note) |
+
+**Choices for you:**
+- **9:21, *mu'af bi-y'af***
+  - (a) **in swift flight** (now): from *uf*, fly; the words stand next to Gabriel, and the Greek has *flying*.
+  - (b) **in my weariness**: from *ya'af*, weary, the root the noun *bi-y'af* is spelled from; the tired one is Daniel, who was sick and worn out after the last vision (8:27).
+  - Recommend (a): the words describe *the man Gabriel* in the same clause, and the Greek, the oldest witness to how the verse was read, has him flying.
+- **9:24, *shavu'im shiv'im***
+  - (a) **Seventy sevens** (now): *shavua* is a unit of seven; Daniel was reading Jeremiah's *seventy years* (v2), and the answer comes in sevens without saying sevens of what.
+  - (b) **Seventy weeks**: the usual meaning of *shavua*, a week (Genesis 29:27), and the English most readers know.
+  - Recommend (a): when Daniel means weeks of days he adds *days* (10:2–3), and *weeks* would lead a reader to count 490 days, which the verse does not say.
+- **9:25, *ad mashiach nagid shavu'im shiv'ah ve-shavu'im shishim u-shnayim***
+  - (a) **until an anointed one, a prince, there will be seven sevens; and for sixty-two sevens it will be rebuilt** (now): the Hebrew accents, which divide the verse after *seven sevens*. The anointed one comes after seven sevens; the city stands for sixty-two; and *after the sixty-two sevens an anointed one will be cut off* (v26).
+  - (b) **until the Anointed One, the Prince, there will be seven sevens and sixty-two sevens; it will be rebuilt**: the Greek, *until an anointed leader, seven sevens and sixty-two sevens*, which joins the two numbers, so that the anointed one comes after sixty-nine sevens and is the one cut off in v26. This is the reading of the older English Bibles (*Messiah the Prince*).
+  - Recommend (a): it is the Hebrew text as it stands, and *mashiach* there has no article, *an anointed one*. The choice is between the Hebrew's division and the Greek's, and it changes whether one anointed figure or two stand in vv25–26.
+
 ## Daniel 5–8 — rendered 2026-10-25, 7:55 AM CDT
 
 **Source:** Aramaic (WLC) for chapters 5–7; Hebrew (WLC) from 8:1. Theodotion's Greek (Swete, *Dat*) checked throughout and quoted as *the Greek*; the Old Greek (*Dan*) once, at 7:13. No departure from the Aramaic or the Hebrew. English numbering followed: English 5:31 = Hebrew 6:1, and English 6:1–28 = Hebrew 6:2–29 (first note of chapter 6).
