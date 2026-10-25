@@ -2,6 +2,121 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Daniel 5–8 — rendered 2026-10-25, 7:55 AM CDT
+
+**Source:** Aramaic (WLC) for chapters 5–7; Hebrew (WLC) from 8:1. Theodotion's Greek (Swete, *Dat*) checked throughout and quoted as *the Greek*; the Old Greek (*Dan*) once, at 7:13. No departure from the Aramaic or the Hebrew. English numbering followed: English 5:31 = Hebrew 6:1, and English 6:1–28 = Hebrew 6:2–29 (first note of chapter 6).
+
+**Form kept:**
+- No *And it came to pass*: *va-yehi bi-r'oti*, **as I saw**, is inside the scene both times (8:2, 15) and is cut. The Aramaic *va-aru*, "look", and the Hebrew *hinneh* are cut every time (7:2–13; 8:3, 5, 15); 8:19 *hineni modi'akha* is *I am about to make known*.
+- Kept the same as chapters 1–4: *the visions of my head*; *untie knots* (5:12, 16); *pays no attention to you, O king* (6:13), as 3:12; *denounced* for *akhalu qartsei* (6:24), as 3:8; *May your peace be great!* (6:25), as 4:1; *serve* for *pelach* (6:16, 20; 7:14, 27); *brought low* for *shefal* (5:19, 22; 7:24); *the Most High God… gives it to whom He will* (5:21); *my color changed* (5:6, 9, 10; 7:28); *trustworthy* / *faithful* for *mehemin* (6:4), as 2:45.
+- Kept the same as other books: *secondary wives* for *lechenah* (5:2, 3, 23), Andrew's ruling for *pilegesh*; *the living God* (6:20, 26), as 1 Samuel 17:26; *which cannot pass away* (6:8, 12), as Esther 1:19; *Susa the citadel* (8:2), as Esther 1:2; *hard of face* (8:23), as Deuteronomy 28:50; *the continual offering* (8:11–13), as *continual burnt offering* in Exodus 29:42 and Ezekiel 46:15; *son of man* (8:17), as Ezekiel; *the beautiful land* (8:9), as Ezekiel 20:6.
+- *Made itself great* for *higdil* each time (8:4, 8, 11, 25), *grew great* for *gadal* (8:9, 10).
+- *One like a son of man* (7:13–14) takes lowercase pronouns, as the Old Testament does where the Gospels later apply the words to Jesus (Isaiah 53:4; Psalm 110:1); the Ancient of Days takes capitals.
+- MENE, MENE, TEKEL, PARSIN (5:25) left as the words written on the wall; the note gives their meaning.
+- Read forms followed, no note (spelling only): 5:5 *nefaqah*; 5:7, 16, 29 *ve-hamnikha*; 5:7, 30 *kasda'ei*, *kasda'ah*; 5:8 *allin*, *u-fishreh*; 5:10 *allat*; 5:13, 23 *ant*; 5:16 *tikkul*; 5:19 *zayin*; 5:21 *shavviyu*, *illa'ah*, *alah*; 5:23 *qodamakh*, *ve-ravrevanakh*; 6:13 *alakh*; 6:16, 20 *ant*; 6:26 *zayin*; 7:5, 19 *shinnah*; 7:7 *be-raglah*; 7:7, 23 *revi'a'ah*; 7:8, 20 *beineihen*, *et'aqarah*, *u-nefalah*, *qodamah*; 7:10 *alfin*, *ribbevan*; 7:19 *kollehen*; 7:25 *illa'ah*. In 8:11 the read form is *hurram*, **was taken away**, for the written *he took away*; the horn is the one who takes it either way.
+- No sentence starts with *And*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:5, 2:7, 10:2, 37:11 (and its Greek); Exodus 29:38–39; Deuteronomy 4:28, 28:50; Joshua 5:14; Ruth 4:1; 1 Samuel 17:26; 1 Kings 8:48; 2 Kings 19:4; Esther 1:2, 1:19, 8:8; Psalm 2:1, 55:17; Jeremiah 27:7; Ezekiel 1:15, 1:26–28, 2:1–2, 20:6, 45:12; Matthew 24:15, 26:64, 27:66; 1 Enoch 14:19, 14:22, 46:1.
+- Named, not quoted (not yet rendered): Luke 1:19, 26; 2:51 (Greek checked); Hebrews 11:33; Revelation 12:14; 20:12. Within Daniel: 9:1, 9:27, 10:13, 10:21, 11:1, 11:31, 12:1, 12:11.
+
+**Checked against the sources:**
+- Hebrew and Aramaic: *Nebuchadnezzar his father* six times and *his son* once (chapter 5); *qitrei… mishtarayin* (5:6) and *mesharei qitrin* (5:12, 16); *hargishu* three times (6:6, 11, 15), and the Hebrew verb *ragash* only in Psalm 2:1; *dachavan* only in 6:18; *chabal* in 3:25 and 6:22–23; *mehemin* / *heimin* (2:45; 6:4, 23); *pelach* in chapters 3, 6 and 7; *ada*, pass away, in 6:8 and 7:14; *zimnin* in 2:21 and 7:25; *peloni almoni* in Ruth 4:1; *Madai* and *Yavan* in Genesis 10:2; *tsevi* in Ezekiel 20:6; *az panim* in Deuteronomy 28:50.
+- Swete's Greek: Theodotion, Daniel 5:1–8:27 (its 5:31 and 6:1–28 follow the English); the Old Greek, 7:13. SBLGNT: Luke 2:19, 51.
+
+**The checker** found 0 errors and 3 CHECKs. Two stand: the verse counts of chapters 5 (31) and 6 (28) against the Hebrew's 30 and 29 are the offset above, English 5:31 = Hebrew 6:1, logged in `NOTES_FOR_ANDREW.md` on 2026-10-24. The third stands too: the note on 7:28, *I kept*, quotes Daniel's own words, not anything about the translating.
+
+**What these chapters are:**
+- **5:** Belshazzar's feast, where the vessels from the temple in Jerusalem are used for drinking; a hand writes on the wall; the queen sends for Daniel, who reminds the king how Nebuchadnezzar was humbled and reads MENE, MENE, TEKEL, PARSIN: numbered, weighed, divided. That night Belshazzar is killed, and Darius the Mede receives the kingdom.
+- **6:** the officials who cannot fault Daniel trap him through a thirty-day law against prayer to anyone but the king; Daniel prays three times a day at his window toward Jerusalem, is thrown to the lions, and comes out unharmed; Darius's decree praises the living God.
+- **7:** Daniel's dream: four beasts from the sea, the fourth with ten horns and a little horn speaking great things; thrones set, the Ancient of Days in judgment, and one like a son of man coming with the clouds to receive an everlasting kingdom; the angel's interpretation, the horn's war on the holy ones for a time, times and half a time, and the kingdom given to the people of the holy ones of the Most High.
+- **8:** back in Hebrew: a ram with two horns trampled by a goat from the west whose great horn breaks into four; a small horn grows great against the Prince of the host and stops the continual offering for 2,300 evenings and mornings; Gabriel names the ram Media and Persia and the goat Greece, and tells of a hard-faced king broken *not by any hand*.
+
+### Daniel 5: The Writing on the Wall
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-loqovel alfa chamra shateh* "and before the thousand he drank wine" | he drank wine in front of the thousand |
+| 2 | *bi-te'em chamra* "in the taste of the wine" | As he tasted the wine |
+| 2 | *shegelateh u-lechenateh* "his consorts and his concubines" | his wives and his secondary wives (note) |
+| 6 | *ziwohi shenohi* "his brightness changed" | the king's color changed |
+| 6 | *qitrei charseh mishtarayin* "the knots of his loins were untied" | the joints of his hips came loose (note) |
+| 7 | *ve-talti be-malkhuta yishlat* "and as third in the kingdom he will rule" | ***KEPT AS IS*** will rule as third in the kingdom |
+| 9 | *mishtabbeshin* "were thrown into confusion" | were bewildered |
+| 10 | *le-veit mishteya allat* "came into the house of drinking" | entered the banquet hall |
+| 12 | *mesharei qitrin* "loosing knots" | ***KEPT AS IS*** untie knots (note) |
+| 17 | *matnatakh lakh lehevyan* "let your gifts be yours" | Keep your gifts for yourself |
+| 19 | *di hava tse'e hava qatel* "whom he was wanting, he was killing" | Whom he wanted, he killed |
+| 20 | *ve-rucheh teqifat la-hazadah* "and his spirit grew strong to act proudly" | his spirit grew hard so that he acted proudly |
+| 23 | *ve-le-Elaha di nishmatakh bi-deh… la haddarta* "and the God in whose hand is your breath… you have not honored" | but you have not honored the God in whose hand is your breath |
+| 24 | *min qodamohi* "from before Him" | from Him |
+| 25 | *mene mene teqel u-farsin* | MENE, MENE, TEKEL, PARSIN (note) |
+| 31 | *ke-var shenin shittin ve-tartein* "as a son of sixty-two years" | at about sixty-two years of age |
+
+### Daniel 6: Daniel in the Den of Lions
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *u-malka la lehevei naziq* "and the king not be damaged" | the king would suffer no loss |
+| 4 | *illah* "an occasion" | a charge |
+| 6, 11, 15 | *hargishu* "came as a throng" | came thronging (note) |
+| 8, 12 | *di la te'de* "which does not pass away" | which cannot pass away (note) |
+| 10 | *bareikh al birkohi* "kneeling on his knees" | ***KEPT AS IS*** knelt on his knees |
+| 14 | *ve-al Daniyyel sam bal* "and on Daniel he set his mind" | he set his mind on Daniel |
+| 16 | *hu yesheizvinnakh* "He will rescue you" | He will rescue you! |
+| 18 | *ve-dachavan la han'el qodamohi* "and *dachavan* were not brought before him" | ***KEPT AS IS*** no diversions were brought before him (uncertain; note) |
+| 19 | *bi-shparpara yequm be-nogha* "in the dawn he rose, in the brightness" | At dawn, at first light, the king rose |
+| 20 | *be-qal atsiv* "with a pained voice" | in an anguished voice |
+| 24 | *di akhalu qartsohi di Daniyyel* "who ate the pieces of Daniel" | who had denounced Daniel |
+| 27 | *min yad aryavata* "from the hand of the lions" | from the power of the lions |
+
+### Daniel 7: The Four Beasts, and One Like a Son of Man
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *resh millin amar* "he told the head of the words" | told the sum of the matter |
+| 5 | *ve-khen amrin lah* "and so they were saying to it" | and it was told |
+| 9 | *attiq yomin* "one advanced in days" | the Ancient of Days (note) |
+| 10 | *dina yetiv* "the judgment sat" | The court sat |
+| 13 | *ke-var enash* "like a son of man" | ***KEPT AS IS*** one like a son of man (note) |
+| 15 | *be-go nidneh* "inside its sheath" | my spirit within me |
+| 22 | *ve-dina yehiv le-qaddishei elyonin* "and judgment was given to the holy ones of the Most High" | ***KEPT AS IS*** judgment was given to the holy ones (both meanings; note) |
+| 25 | *ad iddan ve-iddanin u-feleg iddan* | ***KEPT AS IS*** for a time, times and half a time (note) |
+| 27 | *malkhuteh… leh* "its kingdom… to it" | Their kingdom… them (note; choice below) |
+| 28 | *ad kah sofa di millta* "up to here is the end of the matter" | Here is the end of the matter |
+
+### Daniel 8: The Ram and the Goat
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *va-essa einai va-er'eh ve-hinneh ayil* "I lifted my eyes and saw, and look, a ram" | I lifted my eyes and saw a ram |
+| 4 | *ve-ein matsil mi-yado* "and none rescuing from its hand" | no one could rescue from its power |
+| 5 | *tsefir ha-izzim* "a buck of the goats" | a male goat |
+| 5 | *qeren chazut* "a horn of sight" | a conspicuous horn |
+| 9 | *mi-tse'irah* "from smallness" | starting small |
+| 11, 25 | *sar ha-tsava*, *sar sarim* | the Prince of the host, the Prince of princes (note; choice below) |
+| 12 | *ve-tsava tinnaten al ha-tamid be-fasha* | ***KEPT AS IS*** A host will be given over, together with the continual offering, because of transgression (obscure; note) |
+| 13 | *la-palmoni ha-medabber* "to so-and-so, the one speaking" | to the one who was speaking (note) |
+| 14 | *ad erev boqer alpayim u-shelosh me'ot* "until evening morning two thousand three hundred" | ***KEPT AS IS*** For two thousand three hundred evenings and mornings (note) |
+| 14 | *ve-nitsdaq qodesh* "and the holy place will be made right" | the sanctuary will be set right (note) |
+| 18 | *va-ya'amideni al omdi* "and he made me stand on my standing" | set me on my feet |
+| 23 | *az panim* "strong of face" | hard of face (note) |
+| 24 | *ve-nifla'ot yashchit* "and wonders he will destroy" | He will cause astonishing destruction |
+| 25 | *u-ve-shalvah* "and in ease" | while they are at ease |
+| 25 | *u-ve-efes yad* "and with no hand" | not by any hand (note) |
+| 27 | *nihyeiti ve-necheleiti yamim* "I was done for and was sick days" | I was overcome and lay sick for days |
+| 27 | *ve-ein mevin* "and none understanding" | and no one understood it |
+
+**Choices for you:**
+- **7:27, *malkhuteh… leh***
+  - (a) **Their kingdom… serve and obey them** (now): the people of the holy ones of the Most High, spoken of as one people; the chapter has already given them the kingdom, *the holy ones of the Most High will receive the kingdom* (v18) and *the holy ones possessed the kingdom* (v22).
+  - (b) **His kingdom… serve and obey Him**: the Most High's, as *His kingdom is an everlasting kingdom* in Nebuchadnezzar's letter (4:3).
+  - Recommend (a): the verse is about the kingdom being given to the people, and vv18 and 22 have said it twice.
+- **8:11, 25, *sar ha-tsava*, *sar sarim***
+  - (a) **the Prince of the host… His sanctuary… the Prince of princes** (now): God; the continual offering and the sanctuary are His, and *Prince of princes* is built like *God of gods* (2:47).
+  - (b) **the prince of the host… his sanctuary… the prince of princes**: a heavenly prince, like the *commander of the army of the LORD* who met Joshua (Joshua 5:14) and Michael, called a *sar* in 10:13, 21 and 12:1.
+  - Recommend (a): the horn's last act, to *stand up against the Prince of princes*, matches the little horn of 7:25, which *will speak words against the Most High*.
+
 ## Daniel 1–4 — rendered 2026-10-24, 11:06 PM CDT
 
 **Source:** Hebrew (WLC) for 1:1–2:4a; Aramaic (WLC) from 2:4b, *in Aramaic*, through 4:37. Theodotion's Greek (Swete, *Dat*) checked throughout and quoted in the notes as *the Greek*; the Old Greek (*Dan*) once, at 4:16 (*seven years*). No departure from the Hebrew or the Aramaic. English numbering followed: English 4:1–3 = Hebrew 3:31–33, and English 4:4–37 = Hebrew 4:1–34 (first note of chapter 4). The Greek's sixty-seven added verses after 3:23 (the prayer of Azariah and the song of the three) are not rendered; the 3:23 note says where they stand, as Esther 1–10 does for Esther's additions. Logged in `NOTES_FOR_ANDREW.md`.
