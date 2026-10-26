@@ -2,6 +2,128 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Hosea 12–14 — rendered 2026-10-26, 1:09 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (12:4, 7, 8, 10; 13:1, 2, 4, 5, 7, 14; 14:2, 7, 8). English numbering followed: English 12:1–14 = Hebrew 12:2–15 (note on 11:12); English 13:16 = Hebrew 14:1 (note on 13:16); English 14:1–9 = Hebrew 14:2–10 (note on 14:1). Swete's Greek follows the English in chapter 12 and the Hebrew in 13–14. Hosea is complete.
+
+**Form kept:**
+- No *va-yehi* formula and no *hinneh* in these chapters. No written and read forms.
+- *Loyal love* for *chesed* (12:6). *Messenger* for *mal'akh* (12:4). *The wind of the LORD* for *ruach YHWH* (13:15), lowercase, as the fixed-term table keeps *a wind* (choice below).
+- *His Lord* for *adonav* (12:14), capital, since it is God; the Greek has *Kyrios*.
+- Kept the same within Hosea: *a case* for *riv* (12:2), as 4:1; *the furrows of the field* (12:11), as 10:4; *like a morning cloud, like the dew that goes early away* (13:3), as 6:4; *I have been the LORD your God ever since the land of Egypt* (12:9; 13:4), the same both times; *dashed to pieces* (13:16), as 10:14; *must bear her guilt* (13:16), as 10:2; *stumbled in your iniquity* (14:1), as 5:5; *like a lion* for *shachal* (13:7), as 5:14.
+- Kept the same as other books: *feeds on* for *ro'eh* (12:1), as Isaiah 44:20; *struggled… prevailed* (12:3–4), as Genesis 32:28; *vigor* for *on* (12:3), as Genesis 49:3; *a trader* for *Kena'an* (12:7), as Ezekiel 17:4; *exploit* for *ashaq* (12:7), as Leviticus 19:13; *remembrance* for *zekher* (12:5), as Exodus 3:15; *the country of Aram* (12:12), as *the country of Moab* (Ruth 1:1); *besides Me there is no savior* (13:4), as Isaiah 43:11; *a bear robbed of her cubs* (13:8), as 2 Samuel 17:8; *the mouth of the womb* (13:13), as 2 Kings 19:3; *rip open* for *baqa* (13:8, 16), as 2 Kings 8:12; *faithlessness* for *meshuvah* (14:4), as Jeremiah 3:22; *Whoever is wise* (14:9), as Psalm 107:43; *the LORD, the God of hosts* (12:5), as elsewhere.
+- *Mi-yad she'ol*, **from the hand of Sheol**, is *from the power of Sheol* (13:14).
+- Chapters 12–14 set as poetry. No sentence starts with *And*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 25:23, 25:26, 27:36, 28:16, 29:20, 30:31, 31:48, 32:24, 32:28, 35:9, 49:3; Exodus 3:15, 20:3, 34:7, 35:29; Leviticus 19:13, 19:36, 23:43; Numbers 23:19; Deuteronomy 8:12, 14, 12:2, 17:16, 33:28, 33:29, 34:10; 1 Samuel 8:6–7, 25:29; 2 Samuel 17:8; 1 Kings 11:26, 19:18; 2 Kings 8:12, 17:17, 19:3; Psalm 91:6, 107:43; Proverbs 11:1; Song of Songs 4:11; Isaiah 40:7, 43:11, 44:20; Jeremiah 3:22, 11:16; Ezekiel 17:4.
+- Cited, not quoted: Genesis 32:26 (see `NOTES_FOR_ANDREW.md`, 2026-10-26).
+- Named, not quoted (not yet rendered): 1 Corinthians 15:55; Hebrews 13:15.
+
+**Checked against the sources:**
+- Hebrew: *on* and *aven*, one set of letters (Hebrew 12:4, 9, 12); *aqav* (Genesis 27:36); *sarah* and *yakhol* (Genesis 32:29 Hebrew); the speakers of Genesis 32:27 Hebrew (named in neither line); *shamar* and *nishmar* (Hebrew 12:13–14); *retet* only in 13:1; *tal'uvot* only in 13:5; *ehi* only in 13:10 and 13:14; *nocham* only in 13:14; *dever* and *qetev* together in Psalm 91:6; *ashur* (13:7) and *ashurennu* (Hebrew 14:9); *ra'anan* in Deuteronomy 12:2; *tsillah* in 4:13; *meshuvoteikhem* in Jeremiah 3:22; *yeruchham* (Hebrew 14:4) and *Lo-ruhamah* (1:6).
+- Swete's Greek: Hosea 12:1–14:10.
+
+**The checker** found 0 errors and 3 CHECKs: the verse counts of chapters 12 (14 against the Hebrew's 15), 13 (16 against 15) and 14 (9 against 10). They stand: they are the offsets above, logged in `NOTES_FOR_ANDREW.md` on 2026-10-25.
+
+**What these chapters are:**
+- **12:** Ephraim feeds on the wind and makes treaties both ways. The prophet tells Jacob's story against his sons: the heel in the womb, the struggle with God and the messenger, God at Bethel, the flight to Aram and the years served for a wife. Ephraim is a trader with false scales who says *I have become rich*; the LORD who brought them out of Egypt will put them back in tents.
+- **13:** Ephraim, once feared, died through Baal and now kisses calves. They will vanish like the morning cloud. The LORD who knew them in the wilderness will be a lion, a leopard and a bear to them; their king cannot save them. *Death, where are your plagues?* An east wind, the wind of the LORD, dries up the land, and Samaria falls by the sword.
+- **14:** the last call: *Return, Israel*, with words in place of bulls, and no more trust in Assyria, horses or idols. The LORD answers: *I will heal their faithlessness*. He will be like the dew, and Israel will blossom like the lily and the vine of Lebanon. The book closes: *Whoever is wise, let him understand these things*.
+
+### Hosea 12: He Struggled with God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ro'eh ruach* "grazing wind" | Ephraim feeds on the wind (note) |
+| 1 | *ve-shemen le-Mitsrayim yuval* "and oil to Egypt is carried" | and oil is carried to Egypt |
+| 2 | *ve-lifqod al Ya'aqov* "and to visit upon Jacob" | He will punish Jacob |
+| 3 | *ba-beten aqav et achiv* "in the belly he heeled his brother" | In the womb he took his brother by the heel (note) |
+| 4 | *bakhah va-yitchanen lo* "he wept and sought favor from him" | ***KEPT AS IS*** he wept and pleaded with him (the verse does not say which of the two wept; note) |
+| 4 | *Beit-El yimtsa'ennu* "Bethel he finds him" | At Bethel He found him (note; choice below) |
+| 4 | *ve-sham yedabber immanu* "and there he speaks with us" | and there He spoke with us (note) |
+| 5 | *YHWH zikhro* "the LORD his remembrance" | the LORD is His remembrance (note) |
+| 6 | *ve-attah be-Elohekha tashuv* "and you, in your God you will return" | As for you, return to your God |
+| 7 | *Kena'an be-yado moznei mirmah* "Canaan, in his hand scales of deceit" | A trader with false scales in his hand (note; choice below) |
+| 8 | *kol yegi'ai lo yimtse'u li avon asher chet* "all my labors, they will not find for me iniquity that is sin" | in all my labors they will find no iniquity in me, nothing that is sin (note) |
+| 9 | *me-erets Mitsrayim* "from the land of Egypt" | ever since the land of Egypt |
+| 9 | *ki-ymei mo'ed* "as days of appointed time" | as in the days of the appointed feast (note) |
+| 10 | *adammeh* "I liken / I destroy" | I gave parables (note; choice below) |
+| 11 | *im Gil'ad aven akh shav hayu* "if Gilead is wickedness, surely emptiness they have become" | If Gilead is wickedness, they have surely come to nothing |
+| 12 | *u-ve-ishah shamar* "and for a wife he kept" | and for a wife he kept watch (note) |
+| 14 | *hikh'is Efrayim tamrurim* "Ephraim provoked bitterness" | Ephraim has provoked bitter anger |
+| 14 | *ve-damav alav yittosh* "and his bloods on him He will leave" | so his Lord will leave his bloodguilt on him |
+| 14 | *ve-cherpato yashiv lo* "and his reproach He will return to him" | and repay him for his scorn (note) |
+
+### Hosea 13: Death, Where Are Your Plagues?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ke-dabber Efrayim retet* "as Ephraim spoke, trembling" | When Ephraim spoke, there was trembling (note) |
+| 1 | *nasa hu be-Yisra'el* "he lifted up in Israel" | he was exalted in Israel |
+| 2 | *ki-tvunam* "according to their understanding" | by their own skill |
+| 2 | *lahem hem omrim* "to them they are saying" | Of these it is said |
+| 2 | *zovchei adam agalim yishaqun* "sacrificers of man, calves they kiss" | Those who sacrifice people kiss calves! (note; choice below) |
+| 3 | *u-khe-ashan me-arubbah* "and like smoke from a lattice" | like smoke from a window |
+| 5 | *yeda'tikha* "I knew you" | It was I who knew you (the Greek: *I shepherded you*; note) |
+| 6 | *ke-mar'itam va-yisba'u* "according to their pasture, and they were satisfied" | When they had pasture, they were satisfied (note) |
+| 7 | *ashur* "I will watch, lurk" | I will lurk (note) |
+| 8 | *segor libbam* "the closure of their heart" | the enclosure of their heart (note) |
+| 9 | *shichetkha Yisra'el ki vi ve-ezrekha* "it ruined you, Israel, for in Me, in your help" | ***KEPT AS IS*** This is your ruin, Israel: you are against Me, against your help (obscure; note) |
+| 10 | *ehi malkekha efo* "where your king then" | Where now is your king |
+| 11 | *etten… ve-ekkach* "I give… and I take" | I gave you a king… and I took him away |
+| 13 | *ki et lo ya'amod be-mishbar banim* "for at the time he does not stand in the breaking-out of sons" | for when the time comes he does not take his place at the mouth of the womb (note) |
+| 14 | *mi-yad she'ol efdem mi-mavet eg'alem* "from the hand of Sheol I will ransom them, from death I will redeem them" | From the power of Sheol I will ransom them; from death I will redeem them (note; choice below) |
+| 14 | *ehi devarekha mavet ehi qotovkha she'ol* "where your plagues, death, where your destruction, Sheol" | Death, where are your plagues? Sheol, where is your destruction? (note) |
+| 14 | *nocham yissater me-einai* "relenting will be hidden from My eyes" | Relenting is hidden from My eyes (note) |
+| 15 | *ki hu ben achim yafri* "for he among brothers is fruitful" | Though he is fruitful among his brothers (note) |
+| 15 | *qadim ruach YHWH* "an east wind, the wind of the LORD" | an east wind will come, the wind of the LORD (note; choice below) |
+| 15 | *hu yishseh otsar kol keli chemdah* "he will plunder the treasury of every vessel of desire" | it will plunder the treasury of every precious thing |
+| 16 | *te'sham Shomron* "Samaria will be guilty" | Samaria must bear her guilt |
+
+### Hosea 14: I Will Be Like the Dew
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shuvah Yisra'el ad YHWH* "return, Israel, as far as the LORD" | Return, Israel, to the LORD your God |
+| 2 | *kol tissa avon ve-qach tov* "all, You lift iniquity, and take good" | Take away all iniquity, and take what is good (note) |
+| 2 | *u-neshallemah farim sefateinu* "and let us pay bulls, our lips" | ***KEPT AS IS*** and we will pay the bulls of our lips (note) |
+| 3 | *asher bekha yeruchham yatom* "that in You an orphan is shown compassion" | for in You the orphan is shown compassion (note) |
+| 4 | *ohavem nedavah* "I will love them, a freewill gift" | I will love them freely (note) |
+| 5 | *ve-yakh shorashav* "and he will strike his roots" | and strike his roots like Lebanon |
+| 6 | *yelekhu yonqotav* "his sucklings will go" | His shoots will spread out |
+| 7 | *yechayyu dagan* "they will make grain live" | they will grow grain (note) |
+| 7 | *zikhro* "his remembrance" | his renown |
+| 8 | *Efrayim mah li od la-atsabbim* "Ephraim, what to me any more with idols" | ***KEPT AS IS*** Ephraim, what more have I to do with idols? (the speaker is not named; note) |
+| 8 | *ani aniti va-ashurennu* "I have answered, and I will watch him" | It is I who answer and watch over him (note) |
+| 9 | *mi chakham ve-yaven elleh* "who is wise, and let him understand these" | Whoever is wise, let him understand these things |
+
+**Choices for you:**
+- **13:15, *ruach YHWH*: the wind of the LORD or the Spirit of the LORD (the fixed term)**
+  - (a) **an east wind will come, the wind of the LORD** (now): the verse names it *qadim*, an east wind, rising from the wilderness and drying up the springs; the fixed-term table keeps *a wind* lowercase.
+  - (b) **an east wind will come, the Spirit of the LORD**: the fixed term for *ruach* of the LORD, as Isaiah 40:7 (*when the Spirit of the LORD blows on it*) and 59:19 (*a rushing stream that the Spirit of the LORD drives on*) have the same words in a picture of wind.
+  - Recommend (a): here the words stand beside *east wind* and do a wind's work. If (a), Isaiah 40:7 and 59:19 are the two other places to look at again.
+- **12:4, *Beit-El yimtsa'ennu***
+  - (a) **At Bethel He found him** (now): God found Jacob, as *God appeared to Jacob again* (Genesis 35:9); the line then has one subject, God, for both its verbs, *and there He spoke with us*; and in 9:10 the LORD is the finder, *I found Israel*.
+  - (b) **At Bethel he found Him**: Jacob found God, *Surely the LORD is in this place* (Genesis 28:16); the Greek has *they found Me*.
+  - Recommend (a): one subject for the line, as in Hosea's own *I found Israel*.
+- **12:7, *Kena'an***
+  - (a) **A trader** (now): the word as Ezekiel uses it, *a land of trade* (Ezekiel 17:4), in a verse about scales, before Ephraim's *I have become rich* (v8).
+  - (b) **Canaan**: the name, as the Greek keeps it: Ephraim called by the name of the people who held the land before Israel.
+  - Recommend (a): the scales and the riches make it trade; the note gives the name.
+- **12:10, *adammeh***
+  - (a) **through the prophets I gave parables** (now): *damah*, **liken**; the Greek has *I was likened*, and the verse is about speaking: *I spoke… I multiplied visions*.
+  - (b) **through the prophets I will bring destruction**: *damah*, **destroy**, the verb of 4:6 and 10:15, as in 6:5, *I have hewn them by the prophets*.
+  - Recommend (a): its two companions in the verse are speaking and visions.
+- **13:2, *zovchei adam agalim yishaqun***
+  - (a) **Those who sacrifice people kiss calves!** (now): *zovchei adam* as those who sacrifice human beings; the Greek has *Sacrifice men*, and the north *made their sons and their daughters pass through the fire* (2 Kings 17:17).
+  - (b) **Let the men who sacrifice kiss the calves!**: *adam* as *among men*, the worshippers who come to sacrifice, bidden to kiss the calf.
+  - Recommend (a): the ordinary grammar, the Greek and 2 Kings 17:17 agree.
+- **13:14, *mi-yad she'ol efdem mi-mavet eg'alem***
+  - (a) **From the power of Sheol I will ransom them; from death I will redeem them** (now): a promise. The Hebrew has no word marking a question, the Greek reads it as a promise, and Paul takes up its questions to death (1 Corinthians 15:55).
+  - (b) **Shall I ransom them from the power of Sheol? Shall I redeem them from death?**: a question expecting *no*, calling death's plagues down on Ephraim, as vv13 and 15–16 do.
+  - Recommend (a): Hosea turns from judgment to promise without warning elsewhere (11:8, straight after 11:5–7), and *relenting is hidden from My eyes* can mean the promise will not be taken back. (b) fits the verses around it; the note gives both.
+
 ## Hosea 8–11 — rendered 2026-10-26, 7:55 AM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. One departure, in a note and a choice below: 10:1 *a spreading vine*, the Greek, for the Hebrew *boqeq*. English numbering followed: English 11:12 = Hebrew 12:1 (note on 11:12).
