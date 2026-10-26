@@ -2,6 +2,119 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Hosea 8–11 — rendered 2026-10-26, 7:55 AM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. One departure, in a note and a choice below: 10:1 *a spreading vine*, the Greek, for the Hebrew *boqeq*. English numbering followed: English 11:12 = Hebrew 12:1 (note on 11:12).
+
+**Form kept:**
+- No *va-yehi* formula in these chapters. *Hinneh* cut (9:6).
+- *Prostitution* for *zanah* and its nouns (9:1); *a prostitute's wages* for *etnan* (9:1), as Deuteronomy 23:18.
+- *Loyal love* for *chesed* (10:12); *compassion* (11:8).
+- Kept the same as other books: *standing stones* (10:1–2), as 3:4 and Deuteronomy 16:22; *a jar no one wants* (8:8), as Jeremiah 22:28; *idol priests* (10:5), as 2 Kings 23:5; *gone into exile* for the glory (10:5), as 1 Samuel 4:21; *thorn and thistle* (10:8), as Genesis 3:18; *break up your fallow ground* (10:12), as Jeremiah 4:3; *the mother on top of the children* (10:14), as Genesis 32:11; *overturned* for *haphakh* (11:8), as Genesis 19:25; *loathsome* for *shiqqutsim* (9:10); *the Shame* for *boshet* (9:10), as Jeremiah 11:13; *King Jareb* (10:6), as 5:13; *Beth-aven* (10:5), as 4:15.
+- Doubled words to plain English: *ra'at ra'atkhem*, **your great wickedness** (10:15); *nidmoh nidmah*, **utterly cut off** (10:15).
+- Read forms followed, no note (spelling only): 8:12 *ekhtov*, *rubbei*; 9:16 *bal*; 10:10 *avonotam*.
+- Chapters 8–11 set as poetry. No sentence starts with *And*.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 3:18, 4:12, 16:12, 19:25, 32:11, 41:52, 49:25; Exodus 4:22, 13:13; Leviticus 21:7; Numbers 23:19, 25:3; Deuteronomy 23:18, 25:4, 26:14, 28:49, 29:18, 29:23; Judges 19:30; 1 Samuel 4:21; 1 Kings 12:28; 2 Kings 9:11, 23:5; Psalm 80:8; Isaiah 1:23, 24:1, 65:20; Jeremiah 2:16, 4:3, 11:13, 22:28; Ezekiel 3:17, 4:13; Matthew 2:15.
+- Named, not quoted (not yet rendered): Amos 1:4–2:5; Luke 23:30; Revelation 6:16.
+
+**Checked against the sources:**
+- Hebrew: *zanach* in 8:3, 5; *tsemach* and *qemach* (8:7); *pere* (8:9) and *Efrayim*; *etnan* (9:1); *lechem onim* (9:4) and *be-oni* (Deuteronomy 26:14); *meshugga* (9:7; 2 Kings 9:11); *nazar* (9:10); *peri* (9:16; 10:1); *sarim sorerim* (9:15; Isaiah 1:23); *boqeq* (10:1; Isaiah 24:1); *rosh* (10:4; Deuteronomy 29:18); *kavod… galah* (10:5; 1 Samuel 4:21); *qots ve-dardar* (10:8; Genesis 3:18); *em al banim* (10:14; Genesis 32:11); *tirgalti* only in 11:3; *ol* and *ul* (11:4; Isaiah 65:20); *nehpakh* (11:8; Genesis 19:25); *nicham* (11:8; Numbers 23:19).
+- Swete's Greek: Hosea 8:1–11:12.
+
+**The checker** found 0 errors and 1 CHECK: the verse count of chapter 11 (12) against the Hebrew's 11. It stands: it is the offset above, logged in `NOTES_FOR_ANDREW.md` on 2026-10-25.
+
+**What these chapters are:**
+- **8:** the alarm sounded: Israel made kings and idols without the LORD, the calf of Samaria will be smashed; they sow the wind and reap the whirlwind, run to Assyria like a lone wild donkey, multiply altars that only multiply sin, and will go back to Egypt.
+- **9:** no rejoicing at the harvest: Israel will eat unclean bread in exile, the prophet is called a madman, and the people who were once like grapes found in the desert gave themselves to Baal-peor. Ephraim, named for fruitfulness, will bear no fruit.
+- **10:** a luxuriant vine that multiplied altars; the calf will be carried to Assyria and its glory go into exile; thorn and thistle on the altars. *Sow righteousness, reap loyal love, break up your fallow ground*: but they plowed wickedness, and war will come.
+- **11:** the LORD remembers Israel as a boy He called out of Egypt, taught to walk and fed; they turned away. Yet *How can I give you up, Ephraim?* His heart is overturned and His compassion kindled; He is God and not a man, and like a lion He will roar His sons home.
+
+### Hosea 8: They Sow the Wind
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *el chikkekha shofar* "to your palate a horn" | Set the horn to your lips! |
+| 1 | *ka-nesher al beit YHWH* "like an eagle over the house of the LORD" | One comes like an eagle over the house of the LORD |
+| 4 | *le-ma'an yikkaret* "so that he/it may be cut off" | to be cut off (note) |
+| 5 | *zanach eglekh Shomeron* "he has rejected your calf, Samaria" | Your calf is rejected, Samaria |
+| 5 | *ad matai lo yukhlu niqqayon* "how long will they not be able for innocence" | How long will they be incapable of innocence? |
+| 7 | *qamah ein lo* "standing grain, there is no (head) to it" | The standing grain has no head |
+| 9 | *pere boded lo* "a wild donkey alone by himself" | a wild donkey wandering alone |
+| 10 | *va-yachellu me'at mi-massa melekh sarim* | ***KEPT AS IS*** they will soon writhe under the burden of the king of princes (obscure; note) |
+| 12 | *ekhtov lo rubbei torati* "I write for him the myriads of My law" | Were I to write for him the many things of My law |
+| 13 | *zivchei havhavai* "the sacrifices of My gifts" | ***KEPT AS IS*** As for the sacrifices of My gifts (obscure) |
+
+### Hosea 9: No Birth, No Womb, No Conception
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *zanita me-al Elohekha* "you have prostituted yourself from upon your God" | you have prostituted yourself, leaving your God |
+| 2 | *ve-tirosh yekhachesh bah* "and new wine will lie to her" | the new wine will fail her |
+| 4 | *ke-lechem onim* "like bread of mourners" | like mourners' bread (note) |
+| 6 | *ki hinneh halekhu mi-shod* "for look, they have gone from destruction" | For they are going away from destruction |
+| 6 | *machmad le-khaspam* "the desirable thing of their silver" | their precious things of silver |
+| 7 | *ish ha-ruach* "the man of the spirit" | the man of the spirit (lowercase; a prophet; note) |
+| 8 | *tsofeh Efrayim im Elohai navi* "a watchman is Ephraim with my God, a prophet" | ***KEPT AS IS*** Ephraim is a watchman with my God; the prophet — (obscure; note) |
+| 9 | *he'emiqu shichetu* "they made deep, they corrupted" | They have gone deep in corruption |
+| 11 | *mi-ledah u-mi-beten u-me-herayon* "from birth and from womb and from conception" | no birth, no womb, no conception |
+| 12 | *be-suri mehem* "in My turning from them" | when I turn away from them |
+| 13 | *Efrayim ka'asher ra'iti le-Tsor shetulah ve-naveh* | ***KEPT AS IS*** Ephraim, as I saw him, was like Tyre, planted in a meadow (obscure) |
+| 16 | *machamaddei vitnam* "the desirable things of their womb" | the beloved fruit of their womb |
+
+### Hosea 10: Break Up Your Fallow Ground
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *gefen boqeq* "an emptying / spreading vine" | a spreading vine (the Greek; note; choice below) |
+| 1 | *peri yeshavveh lo* "fruit he makes equal to him" | that yields its fruit |
+| 2 | *chalaq libbam* "their heart is smooth" | Their heart is false (note) |
+| 5 | *yaguru* "they will dread" | will be in dread |
+| 5 | *alav yagilu* "over it they rejoice" | who rejoiced over it |
+| 6 | *bashnah Efrayim yiqqach* "shame Ephraim will take" | Ephraim will take shame |
+| 7 | *ke-qetsef al penei mayim* "like a twig on the face of waters" | like a twig on the face of the waters |
+| 9 | *al benei alvah* "against the sons of injustice" | ***KEPT AS IS*** against the sons of injustice (obscure; note) |
+| 10 | *be-osram li-shtei avonotam* "in their binding to their two iniquities" | when they are bound for their double iniquity (note) |
+| 11 | *ve-ani avarti al tuv tsavva'rah* "and I passed over the goodness of her neck" | and I spared her fair neck |
+| 11 | *arkiv Efrayim* "I will make Ephraim ride / harness Ephraim" | I will harness Ephraim |
+| 12 | *ve-yoreh tsedeq lakhem* "and rain / teach righteousness for you" | until He comes and rains righteousness on you (note; choice below) |
+| 14 | *ve-qam sha'on be-ammekha* "and a roar will rise in your people" | the roar of battle will rise among your people |
+| 15 | *ra'at ra'atkhem* "the evil of your evil" | your great wickedness |
+
+### Hosea 11: Out of Egypt I Called My Son
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *qar'u lahem ken halekhu mi-peneihem* "they called to them, so they went from their face" | The more they were called, the more they went away from them |
+| 3 | *qacham al zero'otav* "taking them on his arms" | taking them by their arms |
+| 4 | *be-chavlei adam* "with cords of a man" | with human cords (note) |
+| 4 | *ke-merimei ol al lecheihem* "like those lifting a yoke on their jaws" | like those who lift the yoke from their jaws (note; choice below) |
+| 4 | *ve-at elav okhil* "and I bent to him, I fed" | and I bent down to them and fed them |
+| 6 | *ve-khilletah baddav* "and it will finish his bars" | consume his gate bars |
+| 7 | *ve-el al yiqra'uhu yachad lo yeromem* "and to on-high they call him; together he does not lift up" | ***KEPT AS IS*** though they are called upward, none at all will lift himself up (obscure; note) |
+| 8 | *nehpakh alai libbi* "My heart is turned over upon Me" | My heart is overturned within Me (note) |
+| 9 | *ve-lo avo be-ir* "and I will not come in heat / into a city" | and I will not come in wrath (note) |
+| 12 | *ve-Yehudah od rad im El* "and Judah still roams with God" | but Judah still roams with God (note; choice below) |
+
+**Choices for you:**
+- **10:1, *gefen boqeq***
+  - (a) **a spreading vine** (now): the Greek, *a well-branched vine*; the verse goes on about increasing fruit and a land made better.
+  - (b) **a plundered vine**: *baqaq* as elsewhere, *empty*, *lay waste* (Isaiah 24:1); a vine stripped, which fits the judgment to come.
+  - Recommend (a): the rest of the verse is all plenty, *the more his fruit increased… the better his land*, and Israel's sin is what it did with the plenty.
+- **10:12, *ve-yoreh tsedeq lakhem***
+  - (a) **until He comes and rains righteousness on you** (now): *yoreh* as the early rain of 6:3, after *sow… reap… break up your fallow ground*.
+  - (b) **until He comes and teaches you righteousness**: the same letters as *teach*, the root of *torah*.
+  - Recommend (a): the whole verse is farming, and *rain* finishes the picture; the note gives *teach*.
+- **11:4, *ke-merimei ol al lecheihem***
+  - (a) **like those who lift the yoke from their jaws** (now): *ol*, **yoke**, as the vowels of the Hebrew text read it; a farmer easing the yoke so the animal can eat, as the line goes on, *I bent down to them and fed them*.
+  - (b) **like those who lift an infant to their cheeks**: the same letters read *ul*, **a nursing child** (Isaiah 65:20), continuing the father who taught his boy to walk (vv1–3).
+  - Recommend (a): it is the Hebrew as read, and the verse's own words, *cords*, *bands* and *fed*, belong to leading an animal; (b) is a fair reading of the letters, and the note shows it.
+- **11:12, *ve-Yehudah od rad im El ve-im qedoshim ne'eman***
+  - (a) **but Judah still roams with God and is faithful to the Holy One** (now): Judah set against Ephraim's lies, still walking with God.
+  - (b) **and Judah still roams free against God, against the faithful Holy One**: *rud* as restless, the sense of *We roam free; we will come to You no more* (Jeremiah 2:31), with Judah joined to Israel's deceit; the Greek also puts Judah with Israel, *the house of Israel and Judah*.
+  - Recommend (b): Jeremiah uses the same verb of Israel turning from God, and the Greek counts Judah among the deceivers.
+
 ## Hosea 3–7 — rendered 2026-10-25, 10:52 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. Two departures from the Hebrew, each in a note and a choice below: 6:5 *and My judgment goes out like light* and 7:14 *they gash themselves*, both the Greek. Hebrew and English numbering agree in these chapters.
