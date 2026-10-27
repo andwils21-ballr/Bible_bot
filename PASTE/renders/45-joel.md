@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Joel 3 — rendered 2026-10-27, 6:48 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (3:5, 11, 13, 14, 18, 21). English numbering followed: English 3:1–21 = Hebrew 4:1–21 (note on 3:1); Swete's Greek follows the English. This completes Joel.
+
+**Form kept:**
+- *Ve-hayah ba-yom ha-hu* is *And it shall come to pass on that day that* (3:18), as Micah 5:10. It is the only sentence starting with *And*.
+- God's *hinneh* + participle is *I am about to rouse them* (3:7); *ki hinneh* in 3:1 is *For*.
+- Read form followed, no note (the same meaning): 3:1 *ashiv*.
+- *Prostitute* for *zonah* (3:3), the fixed term for a woman's act.
+- Kept the same as other books: *restore the fortunes* (3:1), as Deuteronomy 30:3, Hosea 6:11 and Amos 9:14; *enter into judgment* (3:2), as Jeremiah 2:35 and Ezekiel 20:35–36; *the regions of Philistia* (3:4), as Joshua 13:2; *Sheba* (3:8), as Job 1:15; *for the LORD has spoken* (3:8), as Isaiah 25:8; *Consecrate war* (3:9), as Micah 3:5 and Jeremiah 6:4; *plowshares… pruning hooks… spears* (3:10), as Micah 4:3; *the vats overflow* (3:13), as Joel 2:24; *their evil is great* (3:13), as Genesis 6:5; *The LORD roars from Zion and utters His voice from Jerusalem* (3:16), word for word as Amos 1:2; *refuge* (3:16), as Psalm 46:1; *stronghold* (3:16), as Psalm 27:1; *will no longer* (3:17), as Isaiah 52:1; *the mountains will drip sweet wine* (3:18), as Amos 9:13; *streams* for *afiqim* (3:18), as Joel 1:20; *Shittim* (3:18), as Micah 6:5; *a desolate wilderness* (3:19), as Joel 2:3; *violence done to the sons of Judah* (3:19); *innocent blood* (3:19), as Deuteronomy 19:10; *held innocent* for *niqqah* (3:21), the verb of *I am innocent* (Jeremiah 2:35); *rouse* for *ur* (3:7, 9, 12); *warriors* for *gibborim* (3:9–11); *deed* for *gemul* (3:4, 7).
+- 3:15 is word for word 2:10b, and the English is the same.
+- Set as poetry.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 6:5, 10:2; Exodus 25:10; Numbers 25:7; Deuteronomy 19:10, 30:3; Joshua 13:2; 1 Kings 20:40; 2 Chronicles 20:26; Job 1:15; Psalms 27:1, 46:1; Isaiah 2:4, 25:8, 41:15, 52:1; Jeremiah 2:35, 6:4; Ezekiel 27:13, 47:1; Hosea 6:11; Amos 1:2, 9:13; Micah 4:3, 6:5.
+
+**Checked against the sources:**
+- Hebrew: *ushu* (3:11) found only here; *gemulkhem* twice (3:4, 7); *charuts* as *decided* and *threshing sledge* (1 Kings 20:40; Isaiah 28:27, 41:15); *niqqeiti* in Jeremiah 2:35 and Joel 3:21; *romach* (3:10) against *chanit* (Micah 4:3; Isaiah 2:4); *Shevayim* (3:8) found only here; 3:16 against Amos 1:2 and 3:18 against Amos 9:13, word by word; the written and read form above.
+- Swete's Greek: Joel 3:1–21.
+
+**The checker** found 0 errors and 1 CHECK: the verse count of chapter 3 (21 against the Hebrew file's 5), the offset above, logged in `NOTES_FOR_ANDREW.md`.
+
+**What this chapter is:**
+- **3:** when the LORD restores Judah, He will gather all the nations into the Valley of Jehoshaphat, whose name means *the LORD judges*, and judge them there for scattering His people, dividing His land, and selling Judah's children for a prostitute or a drink of wine. Tyre, Sidon and Philistia, who sold Judah's sons to the Greeks, will have their own children sold far away. Then a call to war: beat your plowshares into swords, come to the valley of decision, where the harvest is ripe and the winepress full. The LORD roars from Zion, but He is His people's refuge; the mountains will drip sweet wine, a spring will flow from His house, and the LORD will dwell in Zion.
+
+### Joel 3: The Valley of Decision
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ki hinneh ba-yamim ha-hemmah* "for look, in those days" | For in those days |
+| 1 | *ashiv et shevut* "I bring back the captivity" | I restore the fortunes (note) |
+| 2 | *ve-nishpatti immam* "and I will be judged with them" | and I will enter into judgment with them (note) |
+| 3 | *va-yittenu ha-yeled ba-zonah* "and they gave the boy for the prostitute" | and gave a boy for a prostitute (note) |
+| 4 | *ve-gam mah attem li* "and also, what are you to me" | What are you to Me |
+| 4 | *ha-gemul attem meshallemim alai* "is it a deed you repay on me" | Are you paying Me back for something? (note) |
+| 4 | *qal meherah* "light, quickly" | swiftly and speedily |
+| 6 | *li-vnei ha-Yevanim* "to the sons of the Ionians" | to the sons of the Greeks (note) |
+| 8 | *li-Shva'im* "to the Shebaites" | to the people of Sheba (note) |
+| 11 | *ushu va-vo'u* "hurry (?) and come" | ***KEPT AS IS*** Hurry and come (found only here; note) |
+| 11 | *hanchat YHWH gibborekha* "bring down, LORD, your warriors" | Bring down Your warriors, LORD! (the Greek: *let the meek one be a warrior*; note) |
+| 13 | *bo'u redu* "come, tread (or go down)" | Come, tread (note) |
+| 14 | *be-emeq he-charuts* "in the valley of the decided (or the sledge)" | in the valley of decision (note; choice below) |
+| 17 | *shokhen be-Tsiyyon* "dwelling in Zion" | who dwells in Zion |
+| 18 | *nachal ha-shittim* "the wadi of the acacias" | the valley of Shittim (the Greek: *of the reeds*; note) |
+| 19 | *asher shafekhu dam naqi be-artsam* "that they shed innocent blood in their land" | for they shed innocent blood in their land (note) |
+| 21 | *ve-niqqeiti damam lo niqqeiti* "and I will hold innocent their blood I have not held innocent" | ***KEPT AS IS*** I will hold their blood innocent, which I had not held innocent (note; choice below) |
+
+**Choices for you:**
+- **3:14, *emeq he-charuts***
+  - (a) **the valley of decision** (now): *charuts* as a thing decided, as in *you yourself have decided it* (1 Kings 20:40); the valley where the LORD sits to judge (vv2, 12), and the Greek has *the valley of judgment*.
+  - (b) **the valley of the threshing sledge**: *charuts* as in *a threshing sledge, new, sharp* (Isaiah 41:15), carrying on the harvest of v13.
+  - Recommend (a): the judging of vv2 and 12 and the Greek; the note gives the sledge.
+- **3:21, *ve-niqqeiti damam lo niqqeiti***
+  - (a) **I will hold their blood innocent, which I had not held innocent** (now): as the Hebrew stands; the LORD declares innocent the blood of Judah shed in v19, the same root as *innocent blood*.
+  - (b) **I will avenge their blood, which I had not avenged**: as the Greek has it, *I will seek out their blood*; this takes the verb as *naqam*, **avenge**, which is not the word the Hebrew has.
+  - Recommend (a): it is the Hebrew, and it answers *innocent blood* two verses before; the note gives the Greek.
+
 ## Joel 1–2 — rendered 2026-10-27, 1:09 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (1:1, 4, 8, 17, 18; 2:6, 23, 28–29, 32). English numbering followed: English 2:28–32 = Hebrew 3:1–5, and English 3:1–21 = Hebrew 4:1–21 (note on 2:28); Swete's Greek follows the English. A new writer: the style is taken from the Hebrew, not carried over from Micah.
