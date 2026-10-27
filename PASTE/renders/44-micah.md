@@ -24,7 +24,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **The checker** found 1 error, now fixed: v5 began with *And* (*u-mi*); it now reads *What are the high places of Judah?*
 
 **What this chapter is:**
-- **1:** Micah of Moresheth, prophesying under three kings of Judah, calls all peoples to hear: the LORD is coming down from His temple, and the mountains melt, for the sins of Samaria and Jerusalem. Samaria will become a heap of stones in a vineyard plot, her idols broken. The prophet mourns, stripped like a captive, because the wound has reached Jerusalem. Then a lament over the towns of Judah's lowland, each town's name turned into its sentence, ending with their children gone into exile.
+- **1:** Micah of Moresheth, prophesying under three kings of Judah, calls all peoples to hear: the LORD is coming down from His temple, and the mountains melt, for the sins of Samaria and Jerusalem. Samaria will become a heap of stones in a vineyard plot, her idols broken. The prophet mourns, stripped like a captive, because the wound has reached Jerusalem. Then a lament over the towns of Judah, each town's name turned into its sentence, ending with their children gone into exile.
 
 ### Micah 1: Tell It Not in Gath
 
