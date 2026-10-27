@@ -2,6 +2,94 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Micah 6–7 — rendered 2026-10-27, 1:09 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (6:8, 9, 10, 14, 16; 7:4, 11, 12, 18, 19). Hebrew, Greek and English numbering agree. This completes Micah.
+
+**Form kept:**
+- *Hear, please, what the LORD says* (6:1): *asher YHWH omer* is not the *koh amar* formula, so it is plain.
+- No *ve-hayah* formula; *ve-hayetah ha-arets* (7:13) is plain *will become*. No sentence starts with *And*.
+- *Loyal love* for *chesed* (6:8; 7:18, 20); *the faithful one* for *chasid* (7:2), as Psalm 12:1.
+- *Your name* (6:9) and *the One who appointed it* (6:9) are capitalized as the LORD's.
+- Kept the same as other books: *a case* for *riv* (6:1–2), as Hosea 4:1; *Answer against* (6:3), as Exodus 20:16; *the house of slaves* (6:4), as Exodus 20:2 and Deuteronomy 7:8; *the righteous acts of the LORD* (6:5), as 1 Samuel 12:7; *a year old* (6:6), as Leviticus 9:3; *loyal love* (6:8), as Hosea 6:6; *bag… weights* (6:11), as Deuteronomy 25:13; *false* for *mirmah* (6:11), as Hosea 12:7; *You will eat and not be satisfied* (6:14), as Leviticus 26:26; *not anoint yourself with oil* (6:15), as Deuteronomy 28:40; *a thing to be hissed at* (6:16), as Jeremiah 19:8; *Woe to me* (7:1), as Job 10:15; *a first-ripe fig* (7:1), as Isaiah 28:4; *a hedge of thorns* (7:4), as Proverbs 15:19; *close friend* (7:5), as Proverbs 16:28; *watch* (7:7), as Psalm 5:3; *the LORD is my light* (7:8), as Psalm 27:1; *plead my cause* (7:9), as Psalm 43:1; *trampled down like the mud of the streets* (7:10), as Isaiah 10:6; *Egypt* for *matsor* (7:12), as Isaiah 19:6; *from sea to sea* (7:12), as Psalm 72:8; *the fruit of their deeds* (7:13), as Jeremiah 17:10; *Your rod* (7:14), as Psalm 23:4; *lay their hand on their mouth* (7:16), as Job 40:4; *lick the dust* (7:17), as Psalm 72:9; *things that crawl* (7:17), as Deuteronomy 32:24; *out of their strongholds* (7:17), as Psalm 18:45; *come trembling to the LORD* (7:17), as Hosea 3:5; *carrying guilt* (7:18), as Exodus 34:7; *under foot* for *kavash* (7:19), as Genesis 1:28; *the depths* (7:19), as Exodus 15:5; *truth… loyal love* (7:20), as Exodus 34:6.
+- *Quaking* for *yirgezu* (7:17), to keep it apart from *trembling* for *yifchadu* in the same verse.
+- Chapters 6–7 set as poetry.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:28, 3:14, 22:16, 24:27; Exodus 15:5, 15:11, 15:20, 20:2, 20:16, 34:6–7, 34:10; Leviticus 9:3, 18:4, 26:26; Numbers 22:5–6, 23:9, 32:1; Deuteronomy 7:8, 10:12, 25:13–14, 28:40, 32:1, 32:24, 33:28; Joshua 3:1, 4:19; 1 Samuel 12:7; 2 Samuel 14:19; 1 Kings 16:25, 21:25, 22:8; 2 Kings 3:27, 16:3; Job 10:15, 40:4; Psalms 5:3, 12:1, 18:45, 23:4, 42:3, 43:1, 72:8–9; Proverbs 8:29, 11:2, 15:19, 16:28, 19:11; Isaiah 1:18, 10:6, 19:6, 22:5, 24:13, 28:4; Jeremiah 9:4, 17:10, 19:8, 26:18; Ezekiel 3:17, 26:5; Hosea 3:5, 4:1, 6:6, 9:7, 11:4, 12:7; Amos 5:2, 5:11, 5:24, 7:8, 8:1; Matthew 10:35–36.
+
+**Checked against the sources:**
+- Hebrew: *ve-yeshchakha* (6:14) and *va-ye'abbetuha* (7:3) are found only here; *ish* for *yesh* in 2 Samuel 14:19 and Micah 6:10; *Mikhayah* written in Jeremiah 26:18 (note on 7:18); *matsor* in 5:1, 7:12 and Isaiah 19:6; *mesukhah* (7:4), spelled *mesukhat* with *sin* in Proverbs 15:19; *oyavti* and *elohayikh* feminine (7:8, 10); *ye'adah* feminine (6:9). No written and read forms in Micah 6–7.
+- Swete's Greek: Micah 6:1–7:20.
+
+**The checker** found 0 errors and 0 CHECKs on Micah 6–7.
+
+**What these chapters are:**
+- **6:** the LORD takes His people to court, with the mountains as witnesses: what has He done to wear them out? He brought them out of Egypt and turned Balaam's curse into a blessing. The people ask what offering would satisfy Him: rams, rivers of oil, even a firstborn child. The answer: do justice, love loyal love, and walk humbly with your God. Then the charge against the city: false scales and lying tongues, so they will eat and not be satisfied, sow and not reap; they keep the statutes of Omri and walk in the ways of Ahab.
+- **7:** the prophet searches like a gleaner after the harvest for one good person and finds none; rulers and judges deal for pay, and no one can trust even his own household. But he will watch for the LORD. Fallen Zion will rise, and the enemy city that mocked *Where is the LORD your God?* will be trampled. Walls will be rebuilt, and the scattered will come home from Assyria to Egypt. The book ends in praise: who is a God like You, who carries guilt, passes over transgression, and throws all sins into the depths of the sea, keeping faith with Jacob and Abraham.
+
+### Micah 6: What the LORD Requires
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *shim'u-na et asher YHWH omer* "hear, please, what the LORD is saying" | Hear, please, what the LORD says |
+| 1 | *qum riv et he-harim* "rise, contend with the mountains" | Rise, plead your case before the mountains (note) |
+| 2 | *ve-ha-etanim mosdei arets* "and the enduring ones, foundations of earth" | you enduring foundations of the earth (note) |
+| 3 | *aneh vi* "answer against me" | Answer against Me! (note) |
+| 6 | *iqqaf le-elohei marom* "I bow myself to the God of the height" | and bow myself before God on high |
+| 7 | *peri vitni chattat nafshi* "the fruit of my belly, the sin of my soul" | the fruit of my body for the sin of my soul |
+| 8 | *ve-hatsnea lekhet* "and to be modest in walking" | and to walk humbly (note) |
+| 9 | *ve-tushiyyah yir'eh shemekha* "and wisdom sees your name" | ***KEPT AS IS*** and sound wisdom sees Your name (obscure; the Greek: *fear*; note) |
+| 9 | *shim'u matteh u-mi ye'adah* "hear the rod, and who appointed it" | ***KEPT AS IS*** Hear the rod, and the One who appointed it! (obscure; note; choice below) |
+| 10 | *od ha-ish beit rasha* "still is there, the house of the wicked" | Are there still, in the house of the wicked (note) |
+| 10 | *ve-eifat razon ze'umah* "and an ephah of leanness, cursed" | and the scant ephah that is cursed |
+| 11 | *ha-ezkeh* "shall I be pure" | Shall I count pure |
+| 13 | *ve-gam ani hecheleiti hakkotekha* "and I too have made sick your striking" | So I in turn have struck you with a sickening blow |
+| 14 | *ve-yeshchakha be-qirbekha* "and your yeshach in your inside" | ***KEPT AS IS*** and your hunger will be inside you (found only here; the Greek: *it will grow dark in you*; note) |
+| 14 | *ve-tasseg ve-lo taflit* "and you will remove and not bring to safety" | you will put away but not save |
+| 16 | *ve-yishtammer chuqqot Omri* "and the statutes of Omri keep themselves" | The statutes of Omri are kept (note) |
+| 16 | *ve-cherpat ammi tissa'u* "and the scorn of my people you will bear" | and you will bear the scorn of My people (the Greek: *peoples*; note) |
+
+### Micah 7: Who Is a God Like You?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ke-ospei qayits ke-olelot batsir* "like gatherings of summer fruit, like gleanings of the vintage" | like the gatherings of summer fruit, like the gleanings of the grape harvest (note) |
+| 1 | *bikkurah ivvetah nafshi* "a first-ripe fig my soul desired" | no first-ripe fig that my soul desires |
+| 2 | *ish et achihu yatsudu cherem* "each his brother they hunt, a net" | each hunts his brother with a net (note) |
+| 3 | *al ha-ra kappayim le-heitiv* "on the evil, palms, to do well" | ***KEPT AS IS*** Their hands are on evil, to do it well (obscure; note) |
+| 3 | *ve-ha-shofet ba-shillum* "and the judge, for the payment" | and the judge, for a payment (note) |
+| 3 | *va-ye'abbetuha* "and they twist it" | so they weave it together (found only here; note) |
+| 4 | *yashar mi-mesukhah* "an upright one, from a thorn hedge" | the most upright worse than a hedge of thorns |
+| 4 | *yom metsappekha pequddatekha ba'ah* "the day of your watchmen, your visitation, has come" | The day of your watchmen, your punishment, has come (note) |
+| 5 | *mi-shokhevet cheiqekha* "from her who lies in your bosom" | from her who lies in your arms |
+| 6 | *ki ven menabbel av* "for a son treats a father as a fool" | For son treats father with contempt |
+| 10 | *le-mirmas ke-tit chutsot* "for trampling, like the mud of the streets" | she will be trampled down like the mud of the streets |
+| 11 | *yom ha-hu yirchak choq* "that day the limit will be far" | ***KEPT AS IS*** On that day the boundary will be far off (obscure; note; choice below) |
+| 12 | *yom hu ve-adekha yavo* "a day, it, and to you he will come" | On that day they will come to you |
+| 12 | *u-le-minni matsor ve-ad nahar* "and from Matsor even to the River" | and from Egypt to the River (the Greek: *Tyre*; note) |
+| 12 | *ve-yam mi-yam ve-har ha-har* "and sea from sea, and mountain the mountain" | from sea to sea and from mountain to mountain |
+| 13 | *ve-hayetah ha-arets li-shmamah* "and the land/earth will become a desolation" | But the earth will become a desolation (note; choice below) |
+| 14 | *shokhni levadad ya'ar be-tokh karmel* "dwelling alone, a forest, in the middle of Carmel" | who dwell alone, a forest in the middle of Carmel (note) |
+| 15 | *ar'ennu nifla'ot* "I will show him wonders" | I will show him wonders |
+| 18 | *lo hecheziq la-ad appo* "he did not hold his anger forever" | He does not hold on to His anger forever (the Greek: *as a witness*; note) |
+| 19 | *kol chattotam* "all their sins" | all their sins (the Greek: *our*; note) |
+| 20 | *mi-mei qedem* "from days of old" | from ancient days (note) |
+
+**Choices for you:**
+- **6:9, *shim'u matteh***
+  - (a) **Hear the rod, and the One who appointed it!** (now): *matteh* as the rod of punishment, and the LORD who set it; the punishments follow in vv13–16.
+  - (b) **Hear, O tribe, and who has appointed it!**: *matteh* as a tribe, as the Greek (*hear, O tribe*).
+  - Recommend (a): the rod fits the strokes of v13; the note gives the tribe and the Greek, and that *it* is feminine in the Hebrew.
+- **7:11, *yirchak choq***
+  - (a) **On that day the boundary will be far off** (now): the borders move far out, ready for the people gathered in v12.
+  - (b) **On that day the decree will be far removed**: the sentence against Zion is taken away; the Greek has *that day will rub away your statutes*.
+  - Recommend (a): the verse is about building walls, and *choq* is a set limit in *when He assigned to the sea its limit* (Proverbs 8:29); the note gives both.
+- **7:13, *ha-arets***
+  - (a) **But the earth will become a desolation** (now): the lands of the nations, just named in v12, laid waste for their deeds, as the nations in 5:15.
+  - (b) **But the land will become a desolation**: Israel's own land, desolate first, before the gathering.
+  - Recommend (a): *its inhabitants… the fruit of their deeds* follows straight on from the lands of v12; the note says the word means both.
+
 ## Micah 2–5 — rendered 2026-10-27, 8:22 AM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (2:1, 6, 7, 12; 3:8; 4:8, 13; 5:1, 5, 6). English numbering followed: English 5:1 = Hebrew 4:14, and English 5:2–15 = Hebrew 5:1–14 (note on 5:1); Swete's Greek follows the English.
