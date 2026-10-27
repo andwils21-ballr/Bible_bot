@@ -1,6 +1,6 @@
 # Progress
 
-**1264 of 1989 chapters rendered (63.5%).**
+**1268 of 1989 chapters rendered (63.8%).**
 
 Next up: **Esther 11**
 
@@ -49,7 +49,7 @@ Next up: **Esther 11**
 | 41 | Daniel | source | done |
 | 42 | Hosea | source | done |
 | 43 | Amos | source | done |
-| 44 | Micah | source | 1/7 |
+| 44 | Micah | source | 5/7 |
 | 45 | Joel | source | 0/3 |
 | 46 | Obadiah | source | 0/1 |
 | 47 | Jonah | source | 0/4 |
