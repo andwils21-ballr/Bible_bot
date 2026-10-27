@@ -2,6 +2,115 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Amos 7–9 — rendered 2026-10-26, 10:57 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (7:1, 2, 7–8, 9, 14; 8:3, 10, 14; 9:1, 6, 7, 9, 11, 12). Hebrew, Greek and English numbering agree. Amos is complete.
+
+**Form kept:**
+- The four visions keep one opening, *This is what the Lord GOD showed me* (7:1, 4; 8:1; *This is what He showed me*, 7:7), and one question and answer, *What do you see, Amos?* (7:8; 8:2). *The LORD relented concerning this* and *said the LORD* are the same both times (7:3, 6). *I will never again pass them by* is word for word in 7:8 and 8:2.
+- *This is what Amos says* (7:11), *This is what the LORD says* (7:17), the ruling of 2026-10-18.
+- *Ve-hayah im* inside the running vision (7:2) is plain *When*; *ve-hayah ba-yom ha-hu* is *And it shall come to pass on that day… that* (8:9), as Hosea 2:21. *Hinneh* in the visions cut (7:1, 4, 7; 8:1; 9:8); God's *hinneh* + participle is *about to* (7:8; 9:9); *Days are coming* (8:11; 9:13).
+- Doubled verbs to plain English: *galoh yigleh*, **will surely go into exile** (7:11, 17); *hashmed ashmid*, **utterly destroy** (9:8; *destroy completely* is the term for *charam*); *lo yanus lahem nas*, **not one of them will get away** (9:1).
+- Read forms followed: 8:4 *aniyyei*; 8:8 *ve-nishqe'ah* (note); 9:6 *ma'alotav*.
+- *Prostitute* for *tizneh* (7:17), a woman's act, as the fixed term has it.
+- Kept the same as other books: *relented* (7:3, 6), as Exodus 32:14; *the great deep* (7:4), as Genesis 7:11; *from following the flock* (7:15), as 2 Samuel 7:8; *preach* for *hittif* (7:16), as Ezekiel 21:2; *An end… has come* (8:2), as Ezekiel 7:2; *false scales* (8:5), as Hosea 12:7; *as for an only son* (8:10), as Jeremiah 6:26; *roam* (8:12), as Jeremiah 5:1; *for harm and not for good* (9:4), as Jeremiah 21:10 and 44:27; *Cush, Cushites* (9:7), as Genesis 2:13 and Numbers 12:1; *Caphtor* (9:7), as Deuteronomy 2:23; *a pebble* (9:9), as 2 Samuel 17:13; *My name is called over* (9:12), as Deuteronomy 28:10; *restore the fortunes* (9:14), as Jeremiah 29:14; *plant… uproot* (9:15), as Jeremiah 24:6.
+- Kept the same within Amos: *trample* (8:4), as 2:7; *a pair of sandals* (8:6), as 2:6; *Silence!* (8:3), as 6:10; *stagger* (8:12), as 4:8; *the pride of Jacob* (8:7), as 6:8; the hymn's lines (9:5–6), as 8:8 and 5:8; *never rise again* (8:14), as 5:2.
+- 7:1–8, 7:10–16 and 8:1–2 are prose; 7:9, 7:17 and the rest of chapters 8–9 are set as poetry. No sentence starts with *And* except the kept formula (8:9).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:13, 7:11, 22:2, 22:16, 41:56; Exodus 12:22, 25:31, 32:14; Leviticus 23:42, 26:5; Numbers 12:1; Deuteronomy 2:23, 8:3, 14:1, 25:13, 28:10, 28:29; 1 Samuel 3:1, 15:29, 25:29; 2 Samuel 7:8, 17:13; 1 Kings 10:27, 12:29; 2 Kings 2:3, 14:29, 15:10, 17:30; Psalm 105:9, 139:8; Proverbs 19:11; Isaiah 1:8; Jeremiah 1:11–12, 5:1, 5:27, 6:26, 15:9, 24:6, 29:14, 33:26, 44:27; Ezekiel 7:2, 21:2; Hosea 4:1, 8:5, 9:3, 12:7.
+- Named, not quoted (not yet rendered): Joel 3:18; Acts 15:16–17.
+
+**Checked against the sources:**
+- Hebrew: *anakh* only in 7:7–8 (four times); *gizzei* in that sense only in 7:1; *boles* only in 7:14; *kevarah* only in 9:9; *Yischaq* with *sin* in 7:9, 16, Jeremiah 33:26 and Psalm 105:9; *kelub* in 8:1–2 and Jeremiah 5:27; *kaftor* (9:1) and *Kaftor* (9:7); *ka-or* (8:8) against *ka-ye'or* (9:5); *Edom* and *adam*, *yirshu* and *yidreshu* (9:12); *Elohekha* the book's last word (9:15).
+- Swete's Greek: Amos 7:1–9:15; Genesis 22:2 (*ton agapēton*).
+
+**The checker** found nothing.
+
+**What these chapters are:**
+- **7:** four visions begin. Locusts, then a fire that eats the deep; twice Amos pleads, *How can Jacob stand? He is so small*, and twice the LORD relents. Then the plumb line: no more passing by. Amaziah, priest of Bethel, reports Amos to King Jeroboam and orders him back to Judah. Amos answers: *I was no prophet… the LORD took me from following the flock*, and pronounces judgment on Amaziah's own house.
+- **8:** the basket of summer fruit, *qayits*: the end, *qets*, has come. The merchants who cannot wait for the sabbath to end, so that they can cheat with false scales and buy the poor for sandals. The LORD swears never to forget; the sun will set at noon; and a famine will come, not of bread, but of hearing the word of the LORD.
+- **9:** the last vision: the Lord beside the altar, and no escape, not in Sheol, nor heaven, nor the sea floor. Israel is no different from the Cushites to Him, yet He will not utterly destroy the house of Jacob. On that day He will raise up the fallen booth of David; the harvest will overtake the plowing; they will rebuild and plant and never be uprooted again.
+
+### Amos 7: I Was No Prophet
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *koh hir'ani… ve-hinneh yotser govai* "thus He showed me… and here, forming locusts" | This is what the Lord GOD showed me: He was forming locusts |
+| 1 | *leqesh achar gizzei ha-melekh* "late growth after the king's mowings" | ***KEPT AS IS*** the late crop after the king's mowing (the phrase only here; note) |
+| 2 | *ve-hayah im killah le'ekhol* "and it was, if it finished eating" | When they had finished eating |
+| 2 | *mi yaqum Ya'aqov* "who will Jacob stand" | How can Jacob stand? (note) |
+| 4 | *qore la-riv ba-esh* "calling to contend by fire" | ***KEPT AS IS*** was calling to contend by fire (note) |
+| 4 | *ve-akhlah et ha-cheleq* "and it was eating the portion" | and was devouring the portion (note) |
+| 7 | *nitsav al chomat anakh u-ve-yado anakh* "standing on a wall of *anakh*, and in His hand *anakh*" | standing beside a wall made by a plumb line, with a plumb line in His hand (note; choice below) |
+| 8 | *lo osif od avor lo* "I will not add again to pass by him" | I will never again pass them by (note) |
+| 8 | *be-qerev ammi* "in the inner part of My people" | among My people |
+| 10 | *qashar alekha Amos* "Amos has bound (a plot) against you" | Amos has conspired against you (note) |
+| 12 | *ve-ekhol sham lechem* "and eat bread there" | Earn your bread there (note) |
+| 13 | *lo tosif od le-hinnave* "you will not add again to prophesy" | never prophesy again |
+| 14 | *lo navi anokhi ve-lo ven navi anokhi* "not a prophet I, and not a prophet's son I" | I was no prophet, nor a prophet's son (note; choice below) |
+| 14 | *boqer… u-voles shiqmim* "a herdsman and a gasher of sycamores" | a herdsman and a tender of sycamore figs (note) |
+| 16 | *ve-lo tattif* "and do not drip" | and do not preach (note) |
+| 17 | *ishtekha ba-ir tizneh* "your wife in the city will prostitute herself" | Your wife will become a prostitute in the city |
+| 17 | *ba-chevel techullaq* "will be divided by the line" | will be divided up with a measuring line |
+
+### Amos 8: The End Has Come
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ba ha-qets el ammi* "the end has come to My people" | The end has come upon My people Israel (note) |
+| 3 | *ve-heililu shirot heikhal* "and the songs of the temple will howl" | The songs of the temple will turn to howling (note) |
+| 3 | *rav ha-peger be-khol maqom hishlikh has* "many the corpse, in every place he has flung, hush" | ***KEPT AS IS*** So many corpses! They are flung out everywhere. Silence! (abrupt in the Hebrew) |
+| 4 | *ve-lashbit aniyyei arets* "and to make cease the poor of the land" | and put an end to the poor of the land (note) |
+| 5 | *ve-nashbirah shever* "and we will sell grain-for-sale" | so that we may sell grain |
+| 5 | *ve-niftechah bar* "and we will open grain" | so that we may open up the grain (note) |
+| 5 | *u-le'avvet moznei mirmah* "and to bend scales of deceit" | and cheating with false scales |
+| 6 | *u-mappal bar* "and the fall of the grain" | and selling the chaff of the grain |
+| 7 | *bi-g'on Ya'aqov* "by the pride of Jacob" | by the pride of Jacob (note; choice below) |
+| 7 | *im eshkach* "if I forget" | I will never forget |
+| 8 | *ka-or* "like the Nile" (written short) | like the Nile (note) |
+| 9 | *be-yom or* "on a day of light" | in broad daylight |
+| 10 | *al kol motnayim* "on all loins" | on every waist |
+| 11 | *ve-hishlachti ra'av* "and I will send a famine" | when I will send a famine |
+| 14 | *ve-chei derekh Be'er-Sheva* "and as the way of Beersheba lives" | ***KEPT AS IS*** and, "As the way of Beersheba lives" (note) |
+
+### Amos 9: The Fallen Booth of David
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hakh ha-kaftor ve-yir'ashu ha-sippim* "strike the capital, and the thresholds will shake" | Strike the capitals so that the thresholds shake (note) |
+| 1 | *u-vtsa'am be-rosh kullam* "and cut them off on the head of all of them" | and shatter them on the heads of them all |
+| 1 | *lo yanus lahem nas ve-lo yimmalet lahem palit* "no fleer of them will flee, no escaper will escape" | Not one of them will get away; not one of them will escape |
+| 3 | *be-qarqa ha-yam* "on the floor of the sea" | on the floor of the sea |
+| 6 | *va-aguddato al erets yesadah* "and His bundle on the earth He founded" | ***KEPT AS IS*** and founds His vault upon the earth (uncertain; note) |
+| 7 | *ki-vnei Khushiyyim* "like the sons of Cushites" | like the Cushites (note) |
+| 8 | *efes ki lo hashmed ashmid* "except that destroying I will not destroy" | except that I will not utterly destroy (note) |
+| 9 | *ve-lo yippol tseror arets* "and not a pebble will fall to the ground" | ***KEPT AS IS*** and not a pebble will fall to the ground (two readings; note) |
+| 10 | *lo taggish ve-taqdim ba'adenu ha-ra'ah* "the disaster will not come near and meet us" | Disaster will not come near us or meet us (note) |
+| 11 | *sukkat David ha-nofelet* "the booth of David, the falling one" | the fallen booth of David (note) |
+| 12 | *lema'an yirshu et she'erit Edom* "so that they may possess the remnant of Edom" | so that they may possess the remnant of Edom (note; choice below) |
+| 13 | *ve-niggash choresh ba-qotser* "and the plowman will draw near to the reaper" | the plowman will overtake the reaper (note) |
+| 13 | *ve-dorekh anavim be-moshekh ha-zara* "and the treader of grapes with the one drawing the seed" | and the one who treads grapes the one who sows the seed |
+| 15 | *amar YHWH Elohekha* "said the LORD your God" | says the LORD your God (note) |
+
+**Choices for you:**
+- **7:7–8, *anakh***
+  - (a) **a wall made by a plumb line, with a plumb line in His hand** (now): a wall built true and the tool that tests it, set *among My people*: Israel measured, and the LORD will no longer pass them by.
+  - (b) **a wall of hard metal, with hard metal in His hand**: the Greek, *adamant*, a hard metal or a hard stone.
+  - Recommend (a): the word is found only in these verses, and the picture of a wall and a tool held up to it fits the plumb line; the note gives the Greek.
+- **7:14, *lo navi anokhi***
+  - (a) **I was no prophet, nor a prophet's son** (now): until the LORD took him from the flock (v15), as the Greek has it, *I was not a prophet*.
+  - (b) **I am no prophet, nor a prophet's son**: he refuses the name of one who *earns his bread* by prophecy (v12), though he does prophesy.
+  - Recommend (a): the Greek reads the past, and v15 tells what happened next, *But the LORD took me*.
+- **8:7, *bi-g'on Ya'aqov***
+  - (a) **The LORD has sworn by the pride of Jacob** (now): the same words as 6:8, *I abhor the pride of Jacob*: an oath by the pride He will not forget.
+  - (b) **The LORD has sworn by the Pride of Jacob**: a name for God Himself, as Samuel calls Him *the Enduring One of Israel* (1 Samuel 15:29), and as He swears by His holiness (4:2) and by Himself (6:8).
+  - Recommend (a): the words are 6:8's, and a capital would hide that they are the same; the note gives the name.
+- **9:12, *lema'an yirshu et she'erit Edom***
+  - (a) **so that they may possess the remnant of Edom and all the nations over whom My name is called** (now): the Hebrew; Edom is the brother of 1:11–12.
+  - (b) **so that the rest of mankind may seek the LORD, and all the nations over whom My name is called**: the Greek, reading *adam*, **mankind**, for *Edom*, and *yidreshu*, **seek**, for *yirshu*, **possess**; James quotes it in Jerusalem (Acts 15:16–17).
+  - Recommend (a): it is the Hebrew, and Edom is in the book's first oracles; the note gives the Greek and James.
+
 ## Amos 3–6 — rendered 2026-10-26, 6:00 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (3:3, 7, 9, 11, 12; 4:2, 3, 13; 5:9, 11, 26; 6:3, 12). Hebrew, Greek and English numbering agree.
