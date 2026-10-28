@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-10-27, Nahum: a chapter-break offset (for HANDOFF.md).** English 1:15 = Hebrew 2:1, and English 2:1–13 = Hebrew 2:2–14; Swete's Greek follows the English at 1:15 and divides Hebrew 2:1 between its 1:15 and 2:1. The checker's verse CHECKs on Nahum 1 and 2 are this offset; Nahum 3 agrees.
 - **2026-10-27, the Routine's schedule (for HANDOFF.md).** At your request the render Routine now runs three times a day, at 1:37 PM, 6:37 PM and 11:37 PM Central (`CRON_TZ=America/Chicago 37 13,18,23 * * *`), keeping 8:30 AM–1 PM free. `HANDOFF.md` lines 32–33 still give the old four times and cron; a render cycle may not edit that file. The Routine's prompt is unchanged, so `ROUTINE_PROMPT.md` still matches.
 - **2026-10-27, Jonah: a chapter-break offset (for HANDOFF.md).** English 1:17 = Hebrew 2:1, and English 2:1–10 = Hebrew 2:2–11; Swete's Greek follows the Hebrew here. The checker's verse CHECKs on Jonah 1 and 2 are this offset. Joel 3 = Hebrew Joel 4 (logged above) gives the CHECK on Joel 3.
 - **2026-10-27, Joel: a chapter-break offset (for HANDOFF.md).** English 2:28–32 = Hebrew 3:1–5, and English 3:1–21 = Hebrew 4:1–21; the checker's verse CHECK on Joel 2 (and, next cycle, Joel 3) is this offset. Swete's Greek follows the English.

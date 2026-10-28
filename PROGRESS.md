@@ -1,6 +1,6 @@
 # Progress
 
-**1276 of 1989 chapters rendered (64.2%).**
+**1280 of 1989 chapters rendered (64.4%).**
 
 Next up: **Esther 11**
 
@@ -52,8 +52,8 @@ Next up: **Esther 11**
 | 44 | Micah | source | done |
 | 45 | Joel | source | done |
 | 46 | Obadiah | source | done |
-| 47 | Jonah | source | 2/4 |
-| 48 | Nahum | source | 0/3 |
+| 47 | Jonah | source | done |
+| 48 | Nahum | source | 2/3 |
 | 49 | Habakkuk | source | 0/3 |
 | 50 | Zephaniah | source | 0/3 |
 | 51 | Haggai | source | 0/2 |
