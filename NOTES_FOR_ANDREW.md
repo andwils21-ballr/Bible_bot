@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-10-29, Zechariah: a chapter-break offset (for HANDOFF.md).** English 1:18–21 = Hebrew 2:1–4, and English 2:1–13 = Hebrew 2:5–17; Swete's Greek follows the English. The checker's verse CHECKs on Zechariah 1 and 2 are this offset; chapters 3 and 4 agree.
 - **2026-10-29, Greek numbering in Zephaniah and Haggai (for HANDOFF.md).** Hebrew and English agree in both books. Swete's Greek numbers Zephaniah's Hebrew 2:15 as its 3:1, so its Zephaniah 3 runs one verse ahead of the English; it joins Haggai 1:15 to its 2:1. The checker gives no CHECK, since it counts the Hebrew.
 - **2026-10-27, Nahum: a chapter-break offset (for HANDOFF.md).** English 1:15 = Hebrew 2:1, and English 2:1–13 = Hebrew 2:2–14; Swete's Greek follows the English at 1:15 and divides Hebrew 2:1 between its 1:15 and 2:1. The checker's verse CHECKs on Nahum 1 and 2 are this offset; Nahum 3 agrees.
 - **2026-10-27, the Routine's schedule (for HANDOFF.md).** At your request the render Routine now runs three times a day, at 1:37 PM, 6:37 PM and 11:37 PM Central (`CRON_TZ=America/Chicago 37 13,18,23 * * *`), keeping 8:30 AM–1 PM free. `HANDOFF.md` lines 32–33 still give the old four times and cron; a render cycle may not edit that file. The Routine's prompt is unchanged, so `ROUTINE_PROMPT.md` still matches.
