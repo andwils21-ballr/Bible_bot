@@ -2,6 +2,105 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Zechariah 9–12 — rendered 2026-10-30, 1:43 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (9:1, 6, 9, 12, 15; 10:6, 11; 11:7, 11, 13; 12:2, 10, 11). Hebrew, Greek and English numbering agree. The style is carried on from Zechariah 1–8; these chapters are poetry and oracle, set as prose like the rest of the book.
+
+**Form kept:**
+- *Massa*, **The oracle** (9:1; 12:1), as Nahum 1:1 and Habakkuk 1:1.
+- 12:3, 9 *ve-hayah ba-yom ha-hu*, **And it shall come to pass on that day that**, the formula. No other sentence starts with *And*.
+- *Hinneh* cut (9:4, 9); God's *hinneh* + participle is **I am about to** (11:6, 16; 12:2).
+- *Hoy* (11:17) is **Woe**, a cry against the shepherd.
+- Doubled words to plain English: 11:17 *yavosh tivash… kaho tikhheh*, **wither… go blind**; 12:3 *sarot yissaretu*, **will be badly gashed**.
+- Fixed terms: *loathsome* for *shiqquts* (9:7); *utterly destroy* for *hashmid* (12:9); *messenger* (12:8); *a spirit of grace* (12:10) lowercase, like *a spirit of jealousy*; *the spirit of man* (12:1) lowercase.
+- Kept the same as other books, and as this project's earlier notes already quote these chapters: 9:9 *Your king comes to you; righteous and saved is he, humble and riding on a donkey, on a colt, the foal of she-asses* (note on Matthew 21:5); 9:10 *from sea to sea, and from the River to the ends of the earth* (Psalm 72:8); 11:2 *the majestic ones are ruined* (note on Isaiah 10:34); 11:12–13 *they weighed out my wages, thirty pieces of silver… Throw it to the potter — the lordly price at which I was priced by them* (notes on Matthew 26:15 and 27:9–10); 12:3–4 *I will make Jerusalem a heavy stone for all the peoples… I will strike every horse with panic* (note on 1 Enoch 56:7); 12:10–12 *they will look to Me, whom they have pierced, and they will mourn for him… the land will mourn, family by family* (note on Matthew 24:30).
+- Also kept the same: *clan chief* for *alluf* (9:7; 12:5, 6), after Genesis 36:15; *Greece* (9:13), as Daniel 8:21; *the ram's horn* (9:14); *the Lord GOD* (9:14); *the household gods* (10:2), as Genesis 31:19; *whistle* (10:8), as Isaiah 5:26; *the thickets of the Jordan* (11:3), as Jeremiah 12:5; *cut* a covenant (11:10), as Exodus 24:8; *a cup of reeling* (12:2), after Isaiah 51:17; *madness… blindness* (12:4), as Deuteronomy 28:28; *a torch of fire* (12:6), as Genesis 15:17; *the plain of Megiddo* (12:11), as 2 Chronicles 35:22; *the Shimeites* (12:13), as Numbers 3:21.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:7, 15:17, 17:14, 31:19, 36:15, 37:24, 49:11; Exodus 14:19, 14:21, 21:32, 24:8, 29:6; Leviticus 17:10; Numbers 3:21; Deuteronomy 11:14, 23:2, 28:28; Joshua 15:63; 2 Samuel 5:14; 1 Kings 10:27, 22:17; 2 Kings 23:29; 2 Chronicles 35:25; Psalm 72:8; Isaiah 2:13, 5:26, 22:23, 28:16, 31:1, 40:2, 42:5, 51:17; Jeremiah 12:5, 14:22, 50:8; Ezekiel 34:2, 34:4, 37:16, 37:19; Daniel 7:13, 8:21; Hosea 2:23; Amos 1:6–8; Nahum 1:1; Habakkuk 3:3; Zephaniah 2:4; Matthew 21:5, 24:30, 26:15, 27:9–10; 1 Enoch 56:7.
+
+**Checked against the sources:**
+- Hebrew: *Hadrach* (9:1), *achavah* (11:14) and *Hadad-rimmon* (12:11) each found only here; *Tsor / matsor* (9:3); *nosha* passive (9:9); *efqod… paqad* (10:3); *noges* in 9:8 and 10:4; *ve-hoshevotim* (10:6); *lakhen aniyyei* (11:7, 11); *elai… alav*, Me and him, in 12:10; the written and read form at 11:2 (*ha-batsur*, *ha-batsir*), the same meaning, no note.
+- Swete's Greek: Zechariah 9:1–12:14, including *the Lord looks upon men* (9:1), *saving* and *gentle* (9:9), *prisoners of the gathering* (9:12), *a narrow sea* (10:11), *in Canaan* and *the Canaanites* (11:7, 11), *the smelting furnace* (11:13), *because they danced in mockery* (12:10).
+
+**The checker** found 0 errors and 0 CHECKs on chapters 9–12.
+
+**What these chapters are:**
+- **9:** the second part of the book opens with an oracle. The LORD's word comes down on Israel's neighbors, Damascus, Tyre and the Philistine cities, and a remnant of the Philistines will even become part of Judah. Then Zion's king comes, righteous and humble, riding on a donkey; war chariots are cut off and he speaks peace to the nations. The prisoners are freed by the blood of the covenant, and the LORD fights for His people like a warrior with Judah as His bow.
+- **10:** ask the LORD for rain, not the household gods and diviners, whose lies left the people like sheep without a shepherd. The LORD will punish the bad leaders and turn His flock into war horses; He will whistle for the scattered tribes of Judah and Joseph, bring them home from Egypt and Assyria, and pass through the sea before them as at the exodus.
+- **11:** a lament over fallen cedars, then a strange acted parable. The prophet is made shepherd of a flock doomed to slaughter, takes two staffs called Favor and Union, and breaks them both. When he asks for his wages, they weigh out thirty pieces of silver, and the LORD tells him to throw the *lordly price* to the potter in the LORD's house. Last, he plays a foolish shepherd, and a woe falls on the worthless shepherd who abandons the flock.
+- **12:** a second oracle: the nations gather against Jerusalem, but the city becomes a cup that makes them reel and a stone too heavy to lift. Then the LORD pours on David's house a spirit of grace and pleading; they look to the one they have pierced and mourn as for an only son, every family apart.
+
+### Zechariah 9: Your King Comes to You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-Dammeseq menuchato* "and Damascus its resting place" | and Damascus is where it comes to rest |
+| 1 | *ki la-YHWH ein adam* "for to the LORD is the eye of man" | for the eye of mankind… is on the LORD (note; choice below) |
+| 5 | *ki hovish mebbatah* "for her hope has been shamed" | for what she looked to is put to shame |
+| 6 | *mamzer* | A people of mixed birth (note) |
+| 8 | *mi-tsavah* "as a guard" | as a guard |
+| 9 | *tsaddiq ve-nosha hu* "righteous and saved is he" | righteous and saved is he (note; choice below) |
+| 15 | *ve-khavshu avnei qela* "and they will trample stones of a sling" | ***KEPT AS IS*** and trample the sling stones (obscure; note) |
+| 16 | *ke-tson ammo* "like the flock, His people" | as the flock of His people |
+| 17 | *mah tuvo u-mah yofyo* "how his goodness and how his beauty" | How great is His goodness, and how great His beauty! (*his* may be the people's; note) |
+| 17 | *dagan bachurim ve-tirosh yenovev betulot* "grain young men, and new wine will make virgins flourish" | Grain will make the young men flourish, and new wine the young women |
+
+### Zechariah 10: I Will Whistle for Them
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *nase'u khemo tson ya'anu* "they journeyed like sheep, they are afflicted" | So the people wander like sheep; they are afflicted |
+| 3 | *efqod… paqad* "I will visit… He has visited" | I will punish… has cared for (note) |
+| 3 | *ke-sus hodo* "like the horse of His majesty" | like His majestic horse |
+| 5 | *bosim be-tit chutsot* "trampling in the mud of the streets" | trampling the enemy in the mud of the streets |
+| 6 | *ve-hoshevotim* | I will bring them back (note) |
+| 8 | *ve-ravu kemo ravu* "and they will be many as they were many" | they will be as many as they were before |
+| 10 | *ve-lo yimmatse lahem* "and it will not be found for them" | until there is no room for them |
+
+### Zechariah 11: Thirty Pieces of Silver
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *tson ha-haregah* "the flock of the slaughter" | the flock doomed to slaughter (note) |
+| 7 | *lakhen aniyyei ha-tson* "therefore, the afflicted of the flock" | truly the afflicted of the flock (note; choice below) |
+| 8 | *va-tiqtsar nafshi bahem* "and my soul was short with them" | I lost patience with them (note) |
+| 8 | *bachalah vi* "loathed me" | they also detested me |
+| 13 | *eder ha-yeqar asher yaqarti me-aleihem* "the glory of the price at which I was priced from them" | the lordly price at which I was priced by them (note) |
+| 16 | *ha-na'ar* "the young" | ***KEPT AS IS*** the young (or *the scattered*; the Greek has *the scattered*) |
+| 17 | *ro'i ha-elil* "My shepherd of nothingness" | My worthless shepherd (note) |
+
+### Zechariah 12: Whom They Have Pierced
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ve-gam al Yehudah yihyeh va-matsor* "and also on Judah it will be in the siege" | ***KEPT AS IS*** and it will be against Judah also, in the siege (obscure; note) |
+| 3 | *sarot yissaretu* "gashing they will be gashed" | will be badly gashed (note) |
+| 5 | *amtsah li* "strength to me" | are my strength |
+| 6 | *ke-khiyyor esh* "like a basin of fire" | like a pot of fire |
+| 7 | *tif'eret* "glory" | the glory |
+| 10 | *ve-hibbitu elai et asher daqaru* "and they will look to Me, whom they pierced" | they will look to Me, whom they have pierced (note; choice below) |
+| 10 | *ve-hamer alav* "and make bitter over him" | and weep bitterly over him |
+| 12 | *mishpachot mishpachot levad* "families, families, alone" | family by family, each by itself |
+
+**Choices for you:**
+- **9:1, *ki la-YHWH ein adam***
+  - (a) **for the eye of mankind… is on the LORD** (now): all people, and Israel's tribes, look to the LORD as His word comes down on the nations.
+  - (b) **for the LORD has His eye on mankind**: the LORD watches all people, Israel's tribes too; the Greek's reading.
+  - Recommend (a): the Hebrew puts *the eye* with *mankind and all the tribes*, and it reads without supplying a verb.
+- **9:9, *tsaddiq ve-nosha hu***
+  - (a) **righteous and saved is he** (now): *nosha* is passive, the king rescued by the LORD; it matches the note on Matthew 21:5.
+  - (b) **righteous and victorious**, or **bringing salvation**: the king as the one who saves; the Greek has *saving*.
+  - Recommend (a): the form is passive, and the humble king who has been saved fits *humble and riding on a donkey*.
+- **11:7 and 11, *lakhen aniyyei ha-tson***
+  - (a) **truly the afflicted of the flock** (now): the poorest of the sheep, the ones who *were watching me* and understood (v11).
+  - (b) **the sheep merchants**: the same letters read as one word, *li-khna'aniyyei*, the traders who buy and sell the flock (v5) and pay the wages (v12); the Greek reads *Canaan* and *the Canaanites*.
+  - Recommend (b): it is the same letters, and the traders are the ones who weigh out the wages in v12; (a) is the Hebrew as pointed, so this is a real choice.
+- **12:10, *ve-hibbitu elai et asher daqaru***
+  - (a) **they will look to Me, whom they have pierced** (now): the pierced one is the LORD Himself, though the verse then says *mourn for him*; it matches the note on Matthew 24:30.
+  - (b) **they will look to Me concerning the one whom they have pierced**: the pierced one is someone else, and they turn to the LORD about him.
+  - Recommend (a): it is the plainest reading of the Hebrew, and the note gives the change from *Me* to *him*.
+
 ## Zechariah 5–8 — rendered 2026-10-29, 11:45 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (5:6, 7, 8; 6:3, 8, 11, 13, 14; 7:2; 8:12). Hebrew, Greek and English numbering agree in these chapters. The writer's style is carried on from Zechariah 1–4.
