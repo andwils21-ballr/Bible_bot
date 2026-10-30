@@ -2,6 +2,60 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Zechariah 13–14 — rendered 2026-10-30, 6:42 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (13:1, 6, 7; 14:5, 6, 18). Hebrew, Greek and English numbering agree. The style is carried on from Zechariah 9–12. This completes Zechariah.
+
+**Form kept:**
+- *Ve-hayah* + time or condition, **And it shall come to pass… that**, the formula (13:2, 3, 4, 8; 14:6, 8, 13, 16, 17). No other sentence starts with *And*.
+- *Hinneh* cut (14:1).
+- Fixed terms: *the spirit of uncleanness* (13:2) lowercase; *doomed to destruction* for *cherem* (14:11).
+- Read forms followed: 14:2 *tishshakhavnah* (the same meaning, no note); 14:6 *ve-qippa'on*, **and frost** (the meaning differs; note).
+- Kept the same as other books: 13:7 *Strike the shepherd, and the sheep will be scattered* (note on Matthew 26:31); 14:13 *each will seize the hand of his neighbor, and his hand will rise against the hand of his neighbor* (note on 1 Enoch 56:7); *a hairy cloak* (13:4), as the note on 2 Kings 1:8; *I am no prophet* (13:5), after Amos 7:14; *pierce* (13:3), as 12:10; *the earthquake in the days of Uzziah* (14:5), after Amos 1:1; *panic* (14:13), as Exodus 14:24; *the Festival of Booths* (14:16, 18, 19), as Leviticus 23:34; *Holy to the LORD* (14:20), as Exodus 28:36; *basins* (14:20), as 9:15; *Canaanite* (14:21), as 11:7.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:5; Exodus 14:24, 28:36; Leviticus 23:34; Numbers 19:9; Deuteronomy 6:4, 13:6, 18:20, 21:17; Joshua 6:17; 1 Kings 18:28; 2 Kings 2:8; Job 23:10, 31:26; Isaiah 2:2; Jeremiah 31:38; Ezekiel 47:1; Hosea 2:5, 2:17, 2:23; Joel 3:18; Amos 1:1, 7:14; Matthew 26:31; 1 Enoch 56:7.
+
+**Checked against the sources:**
+- Hebrew: *daqar* in 13:3 and 12:10; *pi shenayim* (13:8); *har ha-zeitim* (14:4) found only here; the written and read forms at 14:2 and 14:6.
+- Swete's Greek: Zechariah 13:1–14:21, including *every place will be opened* (13:1), *my beloved house* (13:6), *Strike the shepherds* (13:7), *will be stopped up* and *Iasod* (14:5), *cold and frost* (14:6), *on them will be the plague* (14:18).
+
+**The checker** found 0 errors and 0 CHECKs on chapters 13–14.
+
+**What these chapters are:**
+- **13:** on that day a fountain is opened to wash away Jerusalem's sin. Idols and false prophets are removed; a man caught prophesying will be pierced by his own parents, and the prophets will deny they ever were prophets. Then the LORD calls the sword against His own shepherd: the shepherd is struck, the sheep scatter, and a third of the people is brought through the fire and refined, to become His people.
+- **14:** the last battle. The nations take Jerusalem, then the LORD goes out to fight them; His feet stand on the Mount of Olives, which splits in two. A day comes with no night, living water flows from Jerusalem east and west, and the LORD is king over all the earth. The attackers rot where they stand; the survivors of the nations come up every year for the Festival of Booths, and even the horses' bells and the cooking pots are *Holy to the LORD*.
+
+### Zechariah 13: Strike the Shepherd
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *adam hiqnani mi-ne'urai* "a man acquired me from my youth" | a man has owned me since my youth (note) |
+| 6 | *bein yadekha* "between your hands" | ***KEPT AS IS*** between your hands (on the body; note) |
+| 6 | *beit me'ahavai* "the house of those who love me" | the house of those who love me (note) |
+| 7 | *gever amiti* "man of My fellowship" | the man who is My companion (note) |
+| 8 | *pi shenayim* "a mouth of two" | two parts (note) |
+
+### Zechariah 14: The LORD Will Be King
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ve-chullaq shelalekh be-qirbekh* "and your plunder will be divided in your midst" | when the plunder taken from you will be divided among you |
+| 3 | *ke-yom hillachamo be-yom qerav* "as the day of His fighting, on a day of battle" | as He fights on a day of battle |
+| 5 | *ve-nastem gei harai* "and you will flee the valley of My mountains" | You will flee by the valley of My mountains (note; choice below) |
+| 6 | *lo yihyeh or yeqarot ve-qippa'on* "there will not be light, splendors and frost" | ***KEPT AS IS*** there will be no light, no splendor and no frost (obscure; note) |
+| 10 | *ve-ra'amah* "and she will be high" | but Jerusalem will stand high |
+| 12 | *hamek besaro ve-hu omed al raglav* "rotting his flesh while he stands on his feet" | their flesh will rot while they stand on their feet |
+| 18 | *ve-lo aleihem* "and not on them" | ***KEPT AS IS*** then not on them (obscure; note) |
+| 19 | *chatta't* "sin" | the punishment (note) |
+
+**Choices for you:**
+- **14:5, *ve-nastem gei harai***
+  - (a) **You will flee by the valley of My mountains** (now): the split mountain opens a way out, and the people flee through it as they fled the earthquake.
+  - (b) **The valley of My mountains will be stopped up**: the same letters read *ve-nistam*; the new valley is blocked, as it was in the earthquake; the Greek's reading.
+  - Recommend (a): the Hebrew as pointed, and *as you fled from the earthquake* repeats the same verb.
+
 ## Zechariah 9–12 — rendered 2026-10-30, 1:43 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (9:1, 6, 9, 12, 15; 10:6, 11; 11:7, 11, 13; 12:2, 10, 11). Hebrew, Greek and English numbering agree. The style is carried on from Zechariah 1–8; these chapters are poetry and oracle, set as prose like the rest of the book.
