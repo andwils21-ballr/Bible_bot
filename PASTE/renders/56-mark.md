@@ -2,6 +2,90 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Mark 7–10 — rendered 2026-10-31, 6:42 PM CDT
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; 7:16 and 9:44, 46 are not in the edition, and the numbering skips them as Matthew 17:21 does (notes on 7:14–19 and 9:42–48). The style is carried on from Mark 3–6. Matthew's English is reused where the Greek is the same and departs where Mark's differs (7:26 *a Greek, a Syrophoenician*; 8:15 *the yeast of Herod*; 8:29 *You are the Messiah*; 9:7 *listen to Him* without *in whom I am well pleased*; 10:12; 10:19 *do not defraud*).
+
+**Form kept:**
+- *Euthys*, **at once**, kept every time (7:25; 8:10; 9:15, 20, 24; 10:52), pending the Mark-wide choice raised with Mark 1–2.
+- Mark's asides to the reader set in parentheses (7:3–4) or plain (7:11, 19, 34).
+- No sentence starts with *And*; *idou* cut (10:28, 33).
+- Aramaic words kept as Mark gives them: *Corban* (7:11), *Ephphatha* (7:34), *Rabbi* (9:5), *Bartimaeus*, *Rabbouni* (10:46, 51).
+- *Gehenna* (9:43–47), as Matthew 18:9; *the fire that cannot be put out* (9:43), as Matthew 3:12.
+- Kept the same as Matthew: *This people honors Me with their lips… the commandments of men* (7:6–7), as Matthew 15:8–9; *Honor your father… shall surely die* (7:10); *Whatever support you might have had from me* (7:11); *making the word of God void* (7:13); *expelled into the latrine* (7:19); *it is not right to take the children's bread* (7:27); *I have compassion on the crowd… three days… faint on the way* (8:2–3); *a sign from heaven* (8:11); *Get behind Me, Satan… the things of God, but the things of men* (8:33); *If anyone wants to come after Me…* (8:34–35); *forfeits his life… in exchange for his life* (8:36–37); *After six days… a high mountain… transfigured* (9:2); *three tents* (9:5); *the scribes say that Elijah must come first* (9:11); *How long shall I be with you? How long shall I put up with you?* (9:19); *Whoever receives one such child in My name receives Me* (9:37); *one of these little ones who believe in Me to stumble… a great millstone* (9:42); *a certificate of divorce* (10:4); *hardness of heart… male and female… cling to his wife… one flesh… What God has joined together, let no man separate* (10:5–9); *Let the children come to Me, and do not hinder them* (10:14); *treasure in heaven… follow Me* (10:21); *he went away grieving, for he had many possessions* (10:22); *a camel… the eye of a needle* (10:25); *who can be saved… With men… with God all things are possible* (10:26–27); *many who are first will be last* (10:31); *You do not know what you are asking. Can you drink the cup* (10:38); *lord it over them… exercise authority* (10:42); *servant… slave… a ransom for many* (10:43–45), as Matthew 20:26–28; *Son of David, have mercy* (10:47–48); *Take heart* (10:49).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:27, 2:24; Exodus 20:12, 21:17, 24:16, 40:35; Leviticus 1:2, 2:13; Deuteronomy 18:15, 24:1, 24:14; Joshua 15:8; Psalm 75:8, 95:11, 118:22; Isaiah 29:13, 35:5–6, 53:3, 53:12, 66:24; Jeremiah 5:21; Ezekiel 12:2; Malachi 4:5–6; Matthew 15:8–9, 15:17, 15:22, 15:39, 16:4, 16:6, 16:16, 16:17, 17:11, 17:14–18, 17:20, 19:9, 19:14, 20:28.
+
+**Checked against the sources:**
+- SBLGNT: Mark 7:1–10:52; *enankalisamenos* only in Mark 9:36 and 10:16; *Son of David* first at 10:47; the missing 7:16, 9:44, 9:46.
+- Swete's Greek: Isaiah 35:6 *mogilalōn*; Psalm 117:22 (English 118:22) *apedokimasan*; Exodus 40:29 (English 40:35) *epeskiazen*.
+
+**The checker** found 0 errors and 2 CHECKs, both the missing verses above, which the notes give.
+
+**What these chapters are:**
+- **7:** Pharisees from Jerusalem complain that the disciples eat with unwashed hands; Jesus answers with Isaiah and with the case of *Corban*, then teaches that nothing going into a person makes him unclean, only what comes out of the heart; Mark adds that this declared all foods clean. In Tyre a Greek woman wins healing for her daughter with her answer about the little dogs' crumbs, and near the Decapolis a deaf man is healed with *Ephphatha*.
+- **8:** He feeds four thousand with seven loaves, refuses the Pharisees a sign, and warns the disciples, who still do not understand, about the yeast of the Pharisees and Herod. A blind man at Bethsaida sees in two stages. At Caesarea Philippi Peter says *You are the Messiah*; Jesus begins to teach that the Son of Man must suffer, die and rise, calls Peter *Satan* for rebuking Him, and calls everyone to take up the cross.
+- **9:** on a high mountain He is transfigured before three disciples with Elijah and Moses, and the voice says *listen to Him*. Below, He frees a boy from a mute spirit after the father's *I believe; help my unbelief*. He foretells His death a second time; the disciples argue about who is greatest, and He sets a child among them and warns against causing little ones to stumble.
+- **10:** on the way to Jerusalem: marriage is from creation, *one flesh*; the children are welcomed; a rich man whom Jesus loved goes away grieving, and Jesus speaks of the camel and the needle. He foretells His death a third time; James and John ask for the best seats and are told of the cup and the baptism and of the Son of Man who came *to give His life as a ransom for many*. At Jericho, blind Bartimaeus calls Him *Son of David*, receives his sight and follows Him on the road.
+
+### Mark 7: What Makes a Person Unclean
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *koinais chersin* "with common hands" | with defiled hands (note) |
+| 3 | *pygmē nipsōntai* "wash with a fist" | ***KEPT AS IS*** wash their hands with the fist (obscure; note) |
+| 4 | *ean mē baptisōntai* "unless they baptize themselves" | unless they wash themselves (note) |
+| 5 | *peripatousin kata tēn paradosin* "walk according to the tradition" | walk according to the tradition |
+| 9 | *Kalōs* "Well" | How well (note) |
+| 19 | *katharizōn panta ta brōmata* "cleansing all the foods" | So He declared all foods clean (note; choice below) |
+| 22 | *ophthalmos ponēros* "an evil eye" | envy (note) |
+| 27 | *kynariois* "little dogs" | the little dogs (note) |
+| 35 | *ho desmos tēs glōssēs* "the bond of the tongue" | the bond of his tongue |
+
+### Mark 8: Who Do You Say That I Am?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 12 | *ei dothēsetai… sēmeion* "if a sign will be given" | no sign will be given (note) |
+| 15 | *Horate, blepete apo* "see, look from" | Watch out; beware of |
+| 24 | *hōs dendra horō peripatountas* "as trees I see walking" | they look like trees, walking |
+| 32 | *parrēsia* "with openness" | openly (note) |
+| 33 | *hypage opisō mou* "go behind Me" | Get behind Me (note) |
+| 35 | *psychē* "soul, life" | life (note) |
+
+### Mark 9: Listen to Him
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *stilbonta leuka lian* "glistening, white, very" | dazzling, intensely white |
+| 12 | *exoudenēthē* "be treated as nothing" | be treated with contempt (note) |
+| 18 | *xērainetai* "is dried up" | becomes rigid |
+| 23 | *To Ei dynē* "the 'if You can'" | "'If You can'!" (note) |
+| 29 | *en oudeni… ei mē en proseuchē* "by nothing except by prayer" | by nothing but prayer (note) |
+| 39 | *tachy kakologēsai* "quickly speak evil" | soon be able to speak evil |
+| 41 | *en onomati hoti Christou este* "in the name that you are Christ's" | because you belong to Christ (note) |
+| 42 | *mylos onikos* "a donkey's millstone" | a great millstone (note) |
+| 49 | *pas pyri halisthēsetai* "everyone with fire will be salted" | ***KEPT AS IS*** everyone will be salted with fire (obscure; note) |
+
+### Mark 10: A Ransom for Many
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 11 | *moichatai ep' autēn* "commits adultery upon her" | commits adultery against her (note) |
+| 22 | *stygnasas* "having become gloomy" | his face fell (note) |
+| 23 | *hoi ta chrēmata echontes* "those having the money" | those who have wealth |
+| 32 | *proagōn* "going before" | walking ahead of them (note) |
+| 42 | *hoi dokountes archein* "those who seem to rule" | those who are considered rulers |
+| 51 | *hina anablepsō* "that I may look up again" | let me see again |
+
+**Choices for you:**
+- **7:19, *katharizōn panta ta brōmata***
+  - (a) **"…expelled into the latrine?" So He declared all foods clean** (now): Mark's own comment on what Jesus' saying meant, outside the quotation.
+  - (b) **"…expelled into the latrine, which cleanses all the food"**: still Jesus' words, about the body's way of dealing with food.
+  - Recommend (a): *katharizōn* agrees with the one speaking, *He*, not with the latrine; Mark adds such comments elsewhere in this chapter (7:3–4, 11, 34).
+
 ## Mark 3–6 — rendered 2026-10-31, 1:42 PM CDT
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Mark 1–2. Matthew's English is reused where the Greek is the same (among others 3:27; 4:3–9, 17; 4:41; 5:34; 6:4, 11, 26, 34, 41–42, 48–50, 56) and departs where Mark's Greek differs (3:35 *the will of God*; 4:8 *thirtyfold, sixtyfold and a hundredfold*; 4:11 *mystery*; 4:15 *Satan*; 6:3 *the carpenter, the son of Mary*; 6:5 *He could do no*).
