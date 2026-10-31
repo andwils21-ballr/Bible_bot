@@ -2,6 +2,67 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Malachi 3–4 — rendered 2026-10-30, 11:43 PM CDT
+
+**Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (3:8; 4:2, 4, 5–6). English 4:1–6 = Hebrew 3:19–24 (logged in NOTES_FOR_ANDREW.md); the English numbering is followed (note on 4:1). The style is carried on from Malachi 1–2. This completes Malachi, and with it the prophets. Josippon (book 54) has no chapters (tier *none*), so the next book is Mark.
+
+**Form kept:**
+- The dispute form: *But you say, "How…?"* (3:7, 8, 13).
+- *Says the LORD of hosts*, the refrain, each time.
+- *Hinneh* + participle in God's mouth (3:1; 4:5) is **I am sending**, as in Exodus 23:20, *I am sending a messenger before you*, and as the notes on Matthew 11:10 and 17:11 already quote these verses. *Hinneh* cut in 4:1.
+- *Ve-attah* is **So now** (3:15).
+- No sentence starts with *And*.
+- Fixed terms: *messenger* (3:1); *guest* for *ger* (3:5); *My servant* (4:4); *doom it to destruction* for *cherem* (4:6).
+- Capital pronouns for *the Lord* who comes to *His temple* (3:1–3).
+- Kept the same as other books: *Return to Me, and I will return to you* (3:7), as Zechariah 1:3; *contribution* for *terumah* (3:8), as Exodus 25:2; *keeping His watch* (3:14), as Zechariah 3:7; *built up* (3:15), as Genesis 16:2; *My own treasure* (3:17), as Exodus 19:5; *stubble* (4:1), as Obadiah 1:18; *the instruction of Moses* (4:4), as Joshua 8:31; *statutes and rules* (4:4); *the great and fearful day of the LORD* (4:5), as Joel 2:31; *He will turn the heart of fathers to sons and the heart of sons to their fathers* (4:6), as the note on Matthew 17:11.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 7:11, 16:2, 27:36; Exodus 19:5, 22:18, 23:20, 25:2, 32:32; Numbers 18:21; Deuteronomy 4:10, 24:15; Joshua 8:31; 1 Kings 17:1; 2 Kings 2:11; Esther 6:1; Proverbs 22:23; Isaiah 40:3, 47:14; Jeremiah 6:29; Joel 2:31; Obadiah 1:18; Zechariah 1:3, 3:7, 7:10, 14:11; Matthew 11:10, 11:14, 17:11.
+
+**Checked against the sources:**
+- Hebrew: *mal'akhi* in 3:1 and 1:1; *qava* (3:8–9); *bachan* in 3:10 and 3:15; *qedorannit* (3:14) found only here; *segullah* (3:17); *its wings*, feminine, of the sun (4:2).
+- Swete's Greek: Malachi 3:1–4:6, including *Will a man trip up God?* (3:8), *Elijah the Tishbite* and *the heart of a man to his neighbor* (4:5–6 in English), and *Remember the law of Moses* placed last.
+
+**The checker** found 0 errors and 1 CHECK: the verse count of chapter 3 (18 against the Hebrew's 24), which is the offset above.
+
+**What these chapters are:**
+- **3:** the answer to *Where is the God of justice?*: the LORD will send His messenger to clear the way, and then the Lord will come suddenly to His temple, like a refiner's fire, to purify the priests and judge those who oppress the worker, the widow and the guest. The people are robbing God of the tithe; if they bring it, He will open the windows of heaven. Those who say serving God is useless are answered: a book of remembrance is written for those who fear Him, and He will spare them as His own treasure.
+- **4:** the day is coming that will burn the arrogant like stubble, but for those who fear His name the sun of righteousness will rise with healing. The book, and the prophets, close with two words: remember the instruction of Moses, and the promise of Elijah before the great and fearful day of the LORD, to turn the hearts of fathers and sons.
+
+### Malachi 3: I Am Sending My Messenger
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *u-finnah derekh lefanai* "and he will clear a way before Me" | and he will clear the way before Me (note) |
+| 1 | *hinneh va* "look, he is coming" | is coming |
+| 2 | *mi mekhalkel* "who sustains" | who can endure |
+| 2 | *ke-vorit mekhabbesim* "like the soap of launderers" | like launderers' soap (note) |
+| 4 | *ve-arevah* "and will be sweet" | will be pleasing |
+| 6 | *lo khlitem* "you are not finished" | have not come to an end |
+| 10 | *ad beli dai* "until without enough" | until there is no more need |
+| 11 | *ve-lo teshakkel* "and will not be bereaved" | will not fail to bear |
+| 13 | *chazqu alai divreikhem* "your words were strong against Me" | Your words have been hard against Me |
+| 14 | *mah betsa* "what gain" | What do we gain |
+| 14 | *qedorannit* "darkly" | as mourners (found only here; note) |
+| 17 | *la-yom asher ani oseh segullah* "for the day that I am making, a treasure" | My own treasure, on the day that I am preparing |
+
+### Malachi 4: The Sun of Righteousness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *lo ya'azov lahem shoresh ve-anaf* "it will not leave them root and branch" | it will leave them neither root nor branch |
+| 2 | *u-marpe bi-khnafeha* "and healing in her wings" | with healing in its wings (note) |
+| 2 | *u-fishtem ke-eglei marbeq* "and you will leap like calves of the stall" | and leap like calves from the stall |
+| 3 | *va-yom asher ani oseh* "on the day that I am making" | on the day that I am preparing |
+| 6 | *ve-hikkeiti et ha-arets cherem* "and strike the land, a thing doomed" | and strike the land and doom it to destruction |
+
+**Choices for you:**
+- **3:1–2, *ha-adon… u-mal'akh ha-berit***
+  - (a) **the Lord… will come to His temple, and the messenger of the covenant… is coming. But who can endure the day of His coming** (now): capital *His* in vv2–3, the Lord who comes is God; whether *the messenger of the covenant* is the same one is left open.
+  - (b) **…the day of his coming… when he appears**: lowercase, the one coming in v2 is *the messenger of the covenant*, a figure sent by the LORD, as the first messenger is.
+  - Recommend (a): *the Lord… His temple* is God, and the refining of the priests in v3 is God's work.
+
 ## Malachi 1–2 — rendered 2026-10-30, 6:42 PM CDT
 
 **Source:** Hebrew (WLC). Swete's Greek checked throughout. No departures from the Hebrew; the Greek is quoted in the notes where it differs (1:1, 3; 2:3, 16). Hebrew and English numbering agree in chapters 1–2; English chapter 4 is Hebrew 3:19–24 (next cycle). A new writer: the style is taken from the Hebrew, not carried over from Zechariah.

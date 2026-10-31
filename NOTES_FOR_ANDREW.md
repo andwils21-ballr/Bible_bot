@@ -1,5 +1,6 @@
 # Notes for Andrew
 
+- **2026-10-30, notes in Matthew that quote Malachi before it was rendered.** Wording only. Malachi 4:5 reads *before the great and fearful day of the LORD comes*, as Joel 2:31; the notes on Matthew 11:14 and 17:11 have *great and terrible*. Nothing was changed.
 - **2026-10-30, Malachi: a chapter-break offset (for HANDOFF.md).** The Hebrew has three chapters; English 4:1–6 = Hebrew 3:19–24, so `source_text.py malachi 4` prints no text and the render of English 4 comes from Hebrew 3:19–24. Swete's Greek has a chapter 4 of six verses, but puts *Remember the law of Moses* (English 4:4) last, as its 4:6. Malachi 1–2 agree.
 - **2026-10-29, Zechariah: a chapter-break offset (for HANDOFF.md).** English 1:18–21 = Hebrew 2:1–4, and English 2:1–13 = Hebrew 2:5–17; Swete's Greek follows the English. The checker's verse CHECKs on Zechariah 1 and 2 are this offset; chapters 3 and 4 agree.
 - **2026-10-29, Greek numbering in Zephaniah and Haggai (for HANDOFF.md).** Hebrew and English agree in both books. Swete's Greek numbers Zephaniah's Hebrew 2:15 as its 3:1, so its Zephaniah 3 runs one verse ahead of the English; it joins Haggai 1:15 to its 2:1. The checker gives no CHECK, since it counts the Hebrew.
