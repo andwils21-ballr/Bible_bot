@@ -1,6 +1,6 @@
 # Progress
 
-**1309 of 1989 chapters rendered (65.8%).**
+**1313 of 1989 chapters rendered (66.0%).**
 
 Next up: **Esther 11**
 
@@ -61,7 +61,7 @@ Next up: **Esther 11**
 | 53 | Malachi | source | done |
 | 54 | Josippon | none | — |
 | 55 | Matthew | source | done |
-| 56 | Mark | source | 2/16 |
+| 56 | Mark | source | 6/16 |
 | 57 | Luke | source | 0/24 |
 | 58 | John | source | 0/21 |
 | 59 | Acts | source | 0/28 |
