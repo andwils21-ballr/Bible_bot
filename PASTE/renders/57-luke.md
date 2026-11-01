@@ -38,7 +38,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 17 | *apeitheis en phronēsei dikaiōn* "the disobedient in the wisdom of the righteous" | the disobedient to the wisdom of the righteous |
 | 28 | *kecharitōmenē* "having been graced" | favored one (note) |
 | 34 | *andra ou ginōskō* "I do not know a man" | since I do not know a man (note) |
-| 35 | *dio kai to gennōmenon hagion klēthēsetai, huios theou* "therefore also the being-born holy will be called, Son of God" | therefore the child to be born will be called holy, the Son of God (choice below) |
+| 35 | *dio kai to gennōmenon hagion klēthēsetai, huios theou* "therefore also the being-born holy will be called, Son of God" | therefore the child to be born will be called holy, the Son of God (note; choice below) |
 | 37 | *ouk adynatēsei… pan rhēma* "every word will not be impossible" | no word from God will be impossible (note) |
 | 38 | *doulē* "female slave" | servant (note) |
 | 48 | *tapeinōsin* "lowliness" | humble state (note) |
@@ -68,7 +68,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **1:35, *to gennōmenon hagion klēthēsetai, huios theou***
   - (a) **the child to be born will be called holy, the Son of God** (now): *holy* is what He will be called, and *the Son of God* names Him.
   - (b) **the holy child to be born will be called the Son of God**: *holy* describes the child, and the name He is given is *Son of God*.
-  - Recommend (a): *hagion* stands after the verb's subject and before *klēthēsetai*, matching *he will be called the Son of the Most High* in v32, where the title follows *called*; the Greek allows both.
+  - Recommend (a): it keeps the Greek order, *holy* first and then *the Son of God*; the Greek allows both, and the note gives (b).
 - **2:49, *en tois tou patros mou dei einai me***
   - (a) **I must be in My Father's house** (now): the temple, where they found Him.
   - (b) **I must be about My Father's business**: *the things of My Father*, His affairs.
