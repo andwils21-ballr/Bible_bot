@@ -2,6 +2,88 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Mark 11–14 — rendered 2026-10-31, 11:41 PM CDT
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; 11:26 is not in it, and the numbering skips it (note on 11:22–25). At 14:70 the edition prints *and your speech is like theirs* and marks it as a place where manuscripts differ (note). The style is carried on from Mark 7–10. Matthew's English is reused where the Greek is the same, and departs where Mark's differs (11:10 *the coming kingdom of our father David*; 11:17 *for all the nations*; 12:29 the *Shema*; 13:6 *I am He*; 14:22 *Take; this is My body*; 14:30, 72 *twice*; 14:62 *I am*).
+
+**Form kept:**
+- *Euthys*, **at once**, kept every time (11:2, 3; 14:43, 45, 72), pending the Mark-wide choice raised with Mark 1–2.
+- Mark's present tense in narrative set in the past. No sentence starts with *And*; *idou* and *ide* cut (13:1, 21; 14:41, 42), except *Rabbi, look!* (11:21), where Peter points.
+- Aramaic and Hebrew words kept as Mark gives them: *Hosanna* (11:9–10), *Rabbi* (11:21; 14:45), *Abba* (14:36).
+- Capital pronouns for Jesus throughout, including in the mouths of His enemies (11:31; 12:13–14; 14:1, 55–65); *the Blessed One* (14:61) for God.
+- Kept the same as Matthew: *Bethphage… the Mount of Olives* (11:1); *Hosanna… Blessed is the one who comes in the name of the Lord… in the highest* (11:9–10); *the tables of the money changers and the seats of those who sold doves* (11:15); *a house of prayer… a den of robbers* (11:17); *Be lifted up and thrown into the sea* (11:23); *By what authority are You doing these things?… From heaven, or from men?… We do not know* (11:28–33); the vineyard, *put a fence around it… leased it to tenant farmers and went abroad… They will respect my son… This is the heir* (12:1–8); *The stone that the builders rejected… wonderful in our eyes* (12:10–11); *You do not court anyone's favor… the face of men… the way of God in truth… Whose image… Caesar's… Give back to Caesar* (12:14–17); *Sadducees, who say there is no resurrection… raise up seed… like angels in heaven… the God of Abraham… not the God of the dead, but of the living* (12:18–27); *You shall love the Lord your God… your neighbor as yourself* (12:30–31); *The Lord said to my Lord… under Your feet* (12:36); *greetings in the marketplaces… best seats… places of honor at dinners* (12:38–39); chapter 13 throughout, from Matthew 24 (*not one stone… on another… the beginning of birth pains… the abomination of desolation… let the reader understand… Woe to those who are pregnant… false messiahs… the sun will be darkened… the fig tree… this generation… Heaven and earth will pass away… no one knows… nor the Son*); *Not during the feast, or there may be an uproar among the people* (14:2); *Simon the leper… an alabaster jar… She has done a beautiful thing to Me… you always have the poor with you… in memory of her* (14:3–9); *The Son of Man goes as it is written of Him… if he had not been born* (14:21); *My blood of the covenant, which is poured out for many… the fruit of the vine… new… the kingdom* (14:24–25); *When they had sung a hymn* (14:26); *I will strike the shepherd, and the sheep… will be scattered* (14:27); *Gethsemane… Sit here… My soul is deeply grieved, to the point of death… Keep awake and pray, so that you do not enter into temptation. The spirit is willing, but the flesh is weak* (14:32–38); *swords and clubs… The one I kiss is the man… as if I were a robber… Day after day… in the temple teaching* (14:43–49); *Have You no answer? What is it that these men testify against You?… the right hand of the Power… tore his clothes… What further need do we have of witnesses?* (14:60–63); *to call down curses and to swear* (14:71).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:27; Exodus 3:6, 24:8; Numbers 19:2; Deuteronomy 6:4–5, 25:5, 30:4; 1 Samuel 10:1, 15:22; 2 Kings 9:13; Psalm 41:9, 42:5, 110:1, 118:22–26; Isaiah 5:2, 5:7, 13:10, 34:4, 56:7; Jeremiah 7:11, 8:13; Daniel 7:13, 11:31, 12:1; Hosea 6:6; Micah 7:1; Zechariah 9:9, 13:7, 14:4; Matthew 20:2, 21:42, 24:5, 24:13, 24:15, 24:36, 26:28, 26:64.
+
+**Checked against the sources:**
+- SBLGNT: Mark 11:1–14:72; the missing 11:26; the marked words at 14:70; *lēstēs* at 11:17 and 15:27; *sindōn* at 14:51–52 and 15:46; *prōi* at 15:1; *hestēkota*, masculine, at 13:14; *pasin tois ethnesin* not in the parallels of 11:17.
+
+**The checker** found 0 errors and 1 CHECK on these chapters: the missing 11:26, which the note gives.
+
+**What these chapters are:**
+- **11:** Jesus rides into Jerusalem on a colt to shouts of *Hosanna*. The next day He curses a fig tree with leaves but no fruit, drives the traders out of the temple, *a house of prayer for all the nations*, and the next morning the fig tree is withered from the roots. The chief priests ask by what authority He acts; He answers with a question about John's baptism, and they cannot reply.
+- **12:** the parable of the tenants who kill the owner's beloved son. Then three tests: the tax to Caesar, the Sadducees' riddle about the resurrection, and a scribe's question about the first commandment, whom Jesus tells he is *not far from the kingdom of God*. He asks how the Messiah can be David's son when David calls Him Lord, warns against the scribes, and praises the poor widow who gives all she has.
+- **13:** leaving the temple, He foretells that not one stone will be left on another. On the Mount of Olives He tells four disciples of wars and birth pains, of persecution and the good news preached to all nations, of the abomination of desolation and the flight from Judea, and of the Son of Man coming in clouds to gather His chosen. No one knows the day, not even the Son: *keep awake*.
+- **14:** a woman anoints Him at Bethany for His burial, and Judas goes to the chief priests. At the Passover meal He names His betrayer and gives the bread and cup, *My blood of the covenant*. In Gethsemane He prays *Abba, Father… take this cup*, while the disciples sleep. Judas comes with a crowd and a kiss; all flee, even a young man who leaves his linen cloth behind. Before the council He answers *I am*; in the courtyard Peter denies Him three times, and the rooster crows a second time.
+
+### Mark 11: A House of Prayer
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *epi tou amphodou* "on the street around" | outside in the street |
+| 8 | *stibadas* "leafy things" | leafy branches |
+| 13 | *ho gar kairos ouk ēn sykōn* "for the season was not of figs" | for it was not the season for figs (note) |
+| 22 | *echete pistin theou* "have faith of God" | Have faith in God (note) |
+| 23 | *mē diakrithē* "does not divide" | does not doubt |
+| 32 | *eichon ton Iōannēn ontōs hoti* "held John really that" | everyone held that John really was a prophet |
+
+### Mark 12: The Great Commandment
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ōryxen hypolēnion* "dug an under-winepress" | dug a pit for the winepress |
+| 4 | *ekephaliōsan* "they headed" | they struck on the head (note) |
+| 13 | *agreusōsin logō* "catch by a word" | trap Him in what He said |
+| 24 | *planasthe* "you wander" | you are going astray |
+| 26 | *epi tou batou* "at the bush" | at the passage about the bush (note) |
+| 34 | *nounechōs* "having a mind" | wisely |
+| 40 | *prophasei* "for a pretext" | for show |
+| 44 | *holon ton bion autēs* "her whole life" | all she had to live on (note) |
+
+### Mark 13: Keep Awake
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *potapoi lithoi* "what sort of stones" | these great stones |
+| 6 | *Egō eimi* "I am" | I am He (note) |
+| 7 | *mē throeisthe* "do not be stirred up" | do not be alarmed |
+| 14 | *hestēkota hopou ou dei* "standing (he) where it must not" | standing where it ought not to be (note; choice below) |
+| 20 | *ekolobōsen* "cut off short" | cut short (note) |
+| 33 | *agrypneite* "be sleepless" | stay alert |
+| 34 | *anthrōpos apodēmos* "a man away from home" | a man going on a journey |
+
+### Mark 14: This Is My Body
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *nardou pistikēs* "of nard, pistic" | pure nard (obscure; note) |
+| 5 | *enebrimōnto autē* "they snorted at her" | They scolded her |
+| 8 | *ho eschen epoiēsen* "what she had she did" | She did what she could |
+| 33 | *ekthambeisthai kai adēmonein* "to be amazed and distressed" | to be greatly distressed and troubled (note) |
+| 40 | *katabarynomenoi* "weighed down" | very heavy |
+| 41 | *apechei* "it holds off" | ***KEPT AS IS*** It is enough (obscure; note) |
+| 44 | *asphalōs* "securely" | under guard |
+| 61 | *tou eulogētou* "of the Blessed" | of the Blessed One (note) |
+| 72 | *epibalōn eklaien* "having thrown on, he wept" | ***KEPT AS IS*** He broke down and wept (obscure; note) |
+
+**Choices for you:**
+- **13:14, *to bdelygma tēs erēmōseōs hestēkota hopou ou dei***
+  - (a) **the abomination of desolation standing where it ought not to be** (now): *it*, as Matthew has *standing in the holy place* (Matthew 24:15); the note says Mark's word for *standing* is masculine.
+  - (b) **the abomination of desolation standing where he ought not to be**: Mark's masculine taken at its word, a person, not a thing.
+  - Recommend (a): *bdelygma* is a thing, and (a) matches Daniel and Matthew; the note keeps Mark's *he* in view, and *let the reader understand* follows at once.
+
 ## Mark 7–10 — rendered 2026-10-31, 6:42 PM CDT
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; 7:16 and 9:44, 46 are not in the edition, and the numbering skips them as Matthew 17:21 does (notes on 7:14–19 and 9:42–48). The style is carried on from Mark 3–6. Matthew's English is reused where the Greek is the same and departs where Mark's differs (7:26 *a Greek, a Syrophoenician*; 8:15 *the yeast of Herod*; 8:29 *You are the Messiah*; 9:7 *listen to Him* without *in whom I am well pleased*; 10:12; 10:19 *do not defraud*).
