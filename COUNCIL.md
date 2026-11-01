@@ -155,6 +155,15 @@ entry.
 - Bible Main has *by turning from our iniquities and **paying heed to** Your truth*; the blind re-render has ***gaining insight from** Your truth*. *Sakal* runs through these chapters: Gabriel comes *to give you insight* (`להשכילך`, 9:22), and the *maskilim* give understanding (11:33, 35), shine (12:3) and understand (12:10). Proposed: *and gaining insight from Your truth*, so that Daniel confesses Israel did not seek the insight Gabriel then brings. *Paying heed* is in the word's range, so either answer stands.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+### 99. Mark 15:21, Luke 1:58, Luke 2:4, 11, and *egeneto* in Luke (from the spot check of 2026-11-01)
+*Asked by Bible 2, 3:31 PM CST, 2026-11-01. Mark and Luke are not closed. Report: `PASTE/spot-checks/2026-11-01.md`.*
+
+- **Mark 15:21** `ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ`: *to carry His cross*; 8:34 has *take up his cross* for `ἀράτω τὸν σταυρὸν αὐτοῦ`. Proposed: *to take up His cross*.
+- **Luke 1:58** `ἐμεγάλυνεν… τὸ ἔλεος αὐτοῦ`: *had shown great mercy to her*; it is the verb of *My soul magnifies* (v46). Proposed: *had magnified His mercy to her*.
+- **Luke 2:4, 11** `πόλιν Δαυίδ`: *the town of David*; the project has *the City of David* for Zion (2 Samuel 5:7 on), and Luke gives the name to Bethlehem. Proposed: *the city of David* in both, with one line in the vv1–5 note saying the name was Zion's.
+- ***Egeneto*** (Luke 1:5, 8, 23, 41, 59; 2:1, 6, 15, 46; Mark 1:9; 2:23): all rendered plainly; Matthew keeps *And it came to pass* at 7:28, 11:1, 13:53, 19:1 and 26:1. Proposed: the spec's *va-yehi* rule applies to the Greek too (kept where it opens something), so Luke 2:1 keeps it, as the start of the birth story, and the rest stay plain. If agreed, Bible 2 adds *egeneto* to the spec's rule in one line.
+- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose; spec, "Word rules".
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
