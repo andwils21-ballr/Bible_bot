@@ -2,6 +2,70 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Mark 15–16 — rendered 2026-11-01, 1:43 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; 15:28 is not in it, and the numbering skips it (note on 15:21–27). After 16:8 the edition prints a short paragraph with no verse number (the shorter ending), and then 16:9–20 (the longer ending), both set apart in double brackets. Both are rendered, each under its own heading, with a note saying how the edition prints them; see the widespread choice below. The style is carried on from Mark 11–14. Matthew's English is reused where the Greek is the same, and departs where Mark's differs (15:17 *purple*; 15:23 *wine mixed with myrrh*; 15:25 *the third hour*; 15:34 *Eloi*; 16:5 *a young man*; 16:8). This completes Mark.
+
+**Form kept:**
+- *Euthys*, **at once**, kept (15:1), pending the Mark-wide choice raised with Mark 1–2.
+- Mark's present tense in narrative set in the past. No sentence starts with *And*; *ide* is **See** (15:4; 16:6) and **Listen** (15:35), where someone points.
+- Mark's Aramaic and his explanations kept: *Golgotha, which means Place of a Skull* (15:22); *Eloi, Eloi, lema sabachthani?… which means* (15:34); *the day of Preparation, that is, the day before the sabbath* (15:42).
+- Capital pronouns for Jesus throughout, including in the mouths of Pilate, the soldiers and the mockers.
+- Kept the same as Matthew: *Are You the King of the Jews?… You say so* (15:2); *Have You no answer?* (15:4); *out of envy… handed Him over* (15:10); *Crucify Him!… what evil has He done?… all the more* (15:13–14); *flogged… handed Him over to be crucified* (15:15); *the governor's headquarters… the whole cohort… a crown of thorns… Hail, King of the Jews!* (15:16–18); *When they had mocked Him… put His own clothes on Him… to crucify Him* (15:20); *Simon of Cyrene* (15:21); *Golgotha… Place of a Skull* (15:22); *divided His clothes… casting lots* (15:24); *two robbers, one on His right and one on His left* (15:27); *Those who passed by blasphemed Him, shaking their heads… destroy the sanctuary and build it in three days… save Yourself… come down from the cross* (15:29–30); *He saved others; He cannot save Himself* (15:31); *the King of Israel… come down now from the cross* (15:32); *darkness over all the land until the ninth hour… with a loud voice… My God, My God, why have You forsaken Me?* (15:33–34); *a sponge… sour wine… a reed… Wait, let us see whether Elijah comes* (15:36); *The curtain of the sanctuary was torn in two, from top to bottom* (15:38); *Truly this… was the Son of God!* (15:39); *watching from a distance… Mary Magdalene, and Mary the mother of James… and Joses* (15:40); *Joseph of Arimathea… asked for the body of Jesus… cut out of the rock… a stone against the door of the tomb* (15:43–46); *looking for Jesus… who was crucified… He has been raised; He is not here… the place where they laid Him… He is going ahead of you into Galilee; there you will see Him* (16:6–7).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Exodus 26:33; Deuteronomy 21:22–23; 2 Kings 2:11; Psalm 22:1, 22:7, 22:18, 69:21, 110:1; Isaiah 53:7; Amos 8:9; Malachi 1:11; Matthew 27:28, 27:34, 27:46, 28:2, 28:8.
+
+**Checked against the sources:**
+- SBLGNT: Mark 15:1–16:20, with the missing 15:28 and the double brackets around the shorter ending and 16:9–20; *oua* (15:29) found only here; *eschisthē* (15:38) and *schizomenous* (1:10); *sindōn* (14:51–52; 15:46); *ptōma* (6:29; 15:45); *neaniskos* (14:51; 16:5); *ephobounto gar* closing 16:8.
+- Swete's Greek: 2 Kings 2:11, *anelēmphthē* of Elijah.
+
+**The checker** found 0 errors and 1 CHECK on these chapters: the missing 15:28, which the note gives.
+
+**What these chapters are:**
+- **15:** at dawn the council hands Jesus over to Pilate, who asks if He is the King of the Jews; He says little more. Pilate offers to release Him, but the crowd asks for Barabbas and shouts *Crucify Him!* The soldiers dress Him in purple and crown Him with thorns. Simon of Cyrene carries His cross to Golgotha; He is crucified between two robbers under the charge *The King of the Jews*, and mocked. Darkness falls at noon; at three He cries *My God, My God, why have You forsaken Me?* and dies; the temple curtain tears, and the centurion says *Truly this man was the Son of God!* Joseph of Arimathea buries Him in a rock tomb, as the women watch.
+- **16:** after the sabbath the women come with spices and find the stone rolled back and a young man in white: *He has been raised; He is not here.* They flee in fear and say nothing to anyone. The edition then gives the shorter ending, in which they report to Peter's company and Jesus sends out the proclamation from east to west, and the longer ending, in which Jesus appears to Mary Magdalene, to two disciples and to the eleven, sends them to preach to all creation, and is taken up into heaven.
+
+### Mark 15: The King of the Jews
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *symboulion poiēsantes* "having made a counsel" | held a consultation |
+| 6 | *hon parētounto* "whom they were asking for" | whomever they asked for |
+| 15 | *to hikanon poiēsai* "to do the sufficient" | to satisfy |
+| 19 | *tithentes ta gonata prosekynoun* "placing the knees, they worshiped" | kneeling down they paid homage (note) |
+| 21 | *angareuousin* "they press into service" | They forced |
+| 24 | *tis ti arē* "who what should take" | to decide what each should take |
+| 29 | *Oua* "Ha!" | Aha! (note) |
+| 37 | *exepneusen* "breathed out" | breathed His last (note) |
+| 39 | *huios theou* "son of God" (no article) | the Son of God (note; choice below) |
+| 43 | *euschēmōn bouleutēs* "a well-formed councillor" | a respected member of the council (note) |
+
+### Mark 16: He Has Been Raised
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tē mia tōn sabbatōn* "on the one of the sabbaths" | on the first day of the week (note) |
+| 5 | *en tois dexiois* "in the right things" | on the right side |
+| 8 | *eichen gar autas tromos kai ekstasis* "for trembling and ecstasy held them" | for trembling and amazement had seized them |
+| 8 | *ephobounto gar* "they were afraid, for" | for they were afraid (note) |
+| after 8 | the shorter ending, in double brackets | rendered under its own heading (note; choice below) |
+| 9–20 | the longer ending, in double brackets | rendered under its own heading (note; choice below) |
+| 12 | *en hetera morphē* "in another form" | in another form |
+| 18 | *ophis arousin* "snakes they will lift" | they will pick up snakes |
+
+**Choices for you:**
+- **Passages the Greek edition sets apart in double brackets** (widespread: Mark 16 now, and John 7:53–8:11 when John is reached)
+  - (a) **Render them in place, under their own headings, with a note saying the edition sets them apart** (now): the reader has the whole text as printed and is told what the edition does.
+  - (b) **Render them in place with no heading or mark**: the text reads straight through, as most church Bibles print it.
+  - (c) **Set them in a smaller section after the chapter**, outside the numbered text.
+  - Recommend (a): nothing printed in the source is dropped, and nothing is claimed beyond what the edition itself shows.
+- **15:39, *alēthōs houtos ho anthrōpos huios theou ēn***
+  - (a) **Truly this man was the Son of God!** (now): the title the spirits used (3:11; 5:7), which Mark's story has been leading to; Matthew 27:54 is rendered so.
+  - (b) **Truly this man was a son of God!**: *huios* has no article, and a Roman soldier might mean a godlike man.
+  - Recommend (a): the voice at the baptism and on the mountain (1:11; 9:7) has prepared the reader for this word; the note gives (b).
+
 ## Mark 11–14 — rendered 2026-10-31, 11:41 PM CDT
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; 11:26 is not in it, and the numbering skips it (note on 11:22–25). At 14:70 the edition prints *and your speech is like theirs* and marks it as a place where manuscripts differ (note). The style is carried on from Mark 7–10. Matthew's English is reused where the Greek is the same, and departs where Mark's differs (11:10 *the coming kingdom of our father David*; 11:17 *for all the nations*; 12:29 the *Shema*; 13:6 *I am He*; 14:22 *Take; this is My body*; 14:30, 72 *twice*; 14:62 *I am*).
