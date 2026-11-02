@@ -93,7 +93,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **9:31, *elegon tēn exodon autou***
   - (a) **spoke of His departure** (now): His going, His death and what follows, as the word means in ordinary Greek.
   - (b) **spoke of His exodus**: the word kept, so the reader hears Israel's going out of Egypt, with Moses standing there.
-  - Recommend (b): Moses is in the scene, and *exodos* is the Greek title of his book; the note gives the plain sense.
+  - Recommend (b): Moses is in the scene, and the word is the one used of Israel going out of Egypt; the note gives the plain sense.
 
 ## Luke 3–6 — rendered 2026-11-01, 6:42 PM CST
 
