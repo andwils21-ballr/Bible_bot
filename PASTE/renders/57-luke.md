@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Luke 7–10 — rendered 2026-11-01, 11:42 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; it marks *seventy-two* (10:1, 17) and *few things are needed, or only one* (10:42) as places where manuscripts differ, and the notes say so. The style is carried on from Luke 3–6. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (7:3–7, the elders and friends; 8:6 *on the rock*; 9:20 *the Messiah of God*; 9:23 *daily*; 9:35 *the Chosen One*; 10:3 *lambs*).
+
+**Form kept:**
+- *Egeneto* at the head of scenes (7:11; 8:1, 22; 9:18, 28, 37, 51) plain, as council item 99.
+- No sentence starts with *And*; *idou* cut (7:12, 25, 27, 34, 37; 8:41; 9:30, 38–39; 10:3, 19, 25), except *Look, a glutton* (7:34), the mockers pointing.
+- Luke's *ho kyrios*, **the Lord**, for Jesus in the telling (7:13, 19; 10:1, 39, 41), with capital pronouns throughout.
+- Fixed terms: *angels* (9:26); *messengers* for John's and Jesus' men, *angeloi* (7:24, 27; 9:52), where they are plainly men; *the Holy Spirit* (10:21); *unclean spirit* and *evil spirits* lowercase (7:21; 8:2, 29; 9:42); *lepers* (7:22).
+- 7:29–30, Luke's comment, set in parentheses, as the edition has it.
+- Kept the same as other books: the centurion's words, *I am not worthy to have You come under my roof… a man… under authority, with soldiers under me. I say to this one, 'Go'…* (7:6–8), as Matthew 8:8–9; *Are You the one who is to come, or should we look for another?… the blind see again… Blessed is the one who does not stumble because of Me… A reed shaken by the wind?… more than a prophet… among those born of women* (7:19–28), as Matthew 11:3–11; *We played the flute for you… a glutton and a drunkard, a friend of tax collectors and sinners… wisdom is proved right* (7:32–35), as Matthew 11:17–19; the sower (8:5–15), from Mark 4; *Whoever has ears to hear* (8:8); *Who then is this… obey Him* (8:25), as Mark 4:41; *What have You to do with me, Jesus, Son of the Most High God?… Legion… the steep bank… clothed and in his right mind* (8:28–35), as Mark 5; *your faith has made you well; go in peace… not dead but asleep… They laughed at Him* (8:48–53); *shake the dust off your feet as a testimony* (9:5); *You give them something to eat… looked up to heaven, blessed… They all ate and were satisfied… twelve baskets* (9:13–17); *Who do… say that I am?… But you — who do you say that I am?* (9:18–20), as Mark 8:27–29; *must suffer many things and be rejected… If anyone wants to come after Me… deny himself… take up his cross… follow Me… whoever wants to save his life will lose it… ashamed of Me and My words… taste death* (9:22–27); *it is good for us to be here… three tents… listen to Him* (9:33–35), as Mark 9:5–7; *You unbelieving and perverse generation, how long shall I be with you… put up with you?* (9:41), as Matthew 17:17; *Whoever receives this child in My name receives Me* (9:48), as Mark 9:37; *Foxes have dens and the birds of the sky have nests, but the Son of Man has nowhere to lay His head… Leave the dead to bury their own dead* (9:58–60), as Matthew 8:20–22; *The harvest is plentiful, but the workers are few; so ask the Lord of the harvest* (10:2), as Matthew 9:37–38; *the worker deserves* (10:7); *more bearable… Woe to you, Chorazin!… sackcloth and ashes… lifted up to heaven… Hades* (10:12–15), as Matthew 11:21–23; *I praise You, Father, Lord of heaven and earth… the wise and the understanding… little children… All things have been handed over to Me by My Father* (10:21–22), as Matthew 11:25–27; *many prophets… wanted to see what you see* (10:24), after Matthew 13:17; *You shall love the Lord your God… your neighbor as yourself* (10:27).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 19:24; Exodus 23:20, 32:32; Leviticus 18:5, 19:18; Numbers 11:16; Deuteronomy 6:5; 1 Kings 17:21, 17:23, 19:20; 2 Kings 1:10, 2:1; 2 Chronicles 28:15; Psalm 91:13; Isaiah 6:9–10, 14:12, 14:15, 35:5, 42:1, 61:1; Malachi 3:1; Matthew 8:5, 8:19–22, 9:20, 10:10, 10:16, 11:7–11, 11:16–19, 11:21–27, 13:17; Mark 3:33, 4:3–20, 4:24, 5:1–20, 5:34, 6:7–16, 6:32–44, 8:31–36, 9:7, 12:29–31, 16:9.
+- Named, not quoted (not yet rendered): Acts 1:2.
+
+**Checked against the sources:**
+- SBLGNT: Luke 7:1–10:42; the marked places at 10:1, 17 and 42; *exodos* (9:31); *analēmpsis* (9:51); *monogenēs* at 7:12, 8:42 and 9:38; Acts 1:2 *anelēmphthē*.
+- Swete's Greek: 1 Kings 17:23, *kai edōken auton tē mētri autou*.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **7:** a centurion's faith, sent by messengers, heals his slave from a distance; at Nain Jesus raises a widow's only son. John sends to ask, *Are You the one who is to come?*, and Jesus answers with the signs of Isaiah and praises John to the crowds. At a Pharisee's dinner, a woman known as a sinner washes His feet with her tears; He tells the parable of the two debtors and forgives her: *Your faith has saved you*.
+- **8:** women who had been healed travel with Him and provide for the group. The sower, and its meaning: *the seed is the word of God*; the lamp; His true family. He calms a storm on the lake, frees the Gerasene man from a Legion of demons, heals a woman who touches His cloak, and raises the twelve-year-old daughter of Jairus.
+- **9:** the twelve are sent out; Herod wonders who He is. Five thousand are fed. Peter confesses *the Messiah of God*, and Jesus foretells His death and calls all to take up the cross daily. On the mountain He is transfigured, and Moses and Elijah speak of His *departure* in Jerusalem. He heals a boy, foretells His death again, and settles who is greatest. Then *He set His face to go to Jerusalem*, and the long journey begins.
+- **10:** seventy-two are sent ahead, and return with joy; Jesus rejoices in the Holy Spirit that the Father has revealed these things to little children. A lawyer asks *Who is my neighbor?*, and Jesus tells of the Samaritan who showed mercy. Martha serves while Mary sits at His feet: *Mary has chosen the good portion*.
+
+### Luke 7: Your Faith Has Saved You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hos ēn autō entimos* "who was honored to him" | who was dear to him |
+| 3 | *diasōsē* "save through" | save the life of |
+| 12 | *exekomizeto tethnēkōs* "a dead man was being carried out" | a dead man was being carried out |
+| 14 | *tēs sorou* "the bier" | the bier (note) |
+| 25 | *en himatismō endoxō kai tryphē hyparchontes* "being in glorious clothing and luxury" | splendidly dressed and live in luxury |
+| 29 | *edikaiōsan ton theon* "they justified God" | acknowledged God's justice (note) |
+| 30 | *tēn boulēn tou theou ēthetēsan eis heautous* "set aside God's counsel for themselves" | rejected God's purpose for themselves |
+| 47 | *hoti ēgapēsen poly* "because she loved much" | for she loved much (note; choice below) |
+
+### Luke 8: The Seed Is the Word of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ek tōn hyparchontōn autais* "out of the things belonging to them" | out of their own means |
+| 6 | *dia to mē echein ikmada* "because of not having moisture" | because it had no moisture |
+| 14 | *ou telesphorousin* "do not bring to completion" | their fruit does not mature |
+| 15 | *en kardia kalē kai agathē* "in a fine and good heart" | with a fine and good heart (note) |
+| 24 | *tō klydōni tou hydatos* "the surf of the water" | the raging water (note) |
+| 29 | *synērpakei auton* "it had seized him together" | it had seized him |
+| 31 | *eis tēn abysson* "into the abyss" | into the abyss (note) |
+| 55 | *epestrepsen to pneuma autēs* "her spirit turned back" | Her spirit returned (note) |
+
+### Luke 9: He Set His Face to Go to Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 7 | *diēporei* "was thoroughly at a loss" | was perplexed |
+| 12 | *hē hēmera ērxato klinein* "the day began to bend" | The day began to draw to a close |
+| 29 | *exastraptōn* "flashing like lightning" | dazzling |
+| 31 | *tēn exodon autou* "His exodus" | His departure (note; choice below) |
+| 32 | *bebarēmenoi hypnō* "weighed down with sleep" | heavy with sleep |
+| 44 | *Thesthe hymeis eis ta ōta hymōn* "put into your ears" | Let these words sink into your ears |
+| 45 | *parakekalymmenon* "veiled" | hidden (note) |
+| 51 | *tēs analēmpseōs autou* "of His taking up" | for Him to be taken up (note) |
+| 51 | *to prosōpon estērisen* "He set firm the face" | He set His face (note) |
+| 62 | *eythetos* "well placed" | fit |
+
+### Luke 10: Who Is My Neighbor?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hebdomēkonta dyo* "seventy-two" | seventy-two (marked by the edition; note) |
+| 6 | *huios eirēnēs* "a son of peace" | someone who loves peace (note) |
+| 11 | *apomassometha hymin* "we wipe off to you" | we wipe off against you |
+| 30 | *hēmithanē* "half dead" | half dead |
+| 31 | *kata synkyrian* "by coincidence" | By chance |
+| 31 | *antiparēlthen* "passed by opposite" | passed by on the other side |
+| 40 | *periespato* "was pulled around" | was distracted (note) |
+| 42 | *oligōn de estin chreia ē henos* "of few there is need, or of one" | few things are needed, or only one (marked by the edition; note) |
+
+**Choices for you:**
+- **7:47, *hoti ēgapēsen poly***
+  - (a) **her sins, which are many, are forgiven, for she loved much** (now): *hoti*, **for**, gives the sign, her love shows she has been forgiven, as the parable of vv41–43 says, *the one forgiven more loves more*.
+  - (b) **her sins… are forgiven, because she loved much**: her love is the reason she is forgiven.
+  - Recommend (a): the parable and the last line of the verse, *the one who is forgiven little loves little*, put the forgiving first and the love after.
+- **9:31, *elegon tēn exodon autou***
+  - (a) **spoke of His departure** (now): His going, His death and what follows, as the word means in ordinary Greek.
+  - (b) **spoke of His exodus**: the word kept, so the reader hears Israel's going out of Egypt, with Moses standing there.
+  - Recommend (b): Moses is in the scene, and *exodos* is the Greek title of his book; the note gives the plain sense.
+
 ## Luke 3–6 — rendered 2026-11-01, 6:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Luke 1–2. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (3:5–6, the longer Isaiah; 4:1–13, the order of the tests; 5:19 *through the tiles*; 5:36 *a patch from a new garment*; 6:20–26, *Blessed are you who are poor* and the woes; 6:36 *merciful*).
