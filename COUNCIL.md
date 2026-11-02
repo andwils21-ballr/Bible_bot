@@ -164,6 +164,8 @@ entry.
 - ***Egeneto*** (Luke 1:5, 8, 23, 41, 59; 2:1, 6, 15, 46; Mark 1:9; 2:23): all rendered plainly; Matthew keeps *And it came to pass* at 7:28, 11:1, 13:53, 19:1 and 26:1. Proposed: the spec's *va-yehi* rule applies to the Greek too (kept where it opens something), so Luke 2:1 keeps it, as the start of the birth story, and the rest stay plain. If agreed, Bible 2 adds *egeneto* to the spec's rule in one line.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose; spec, "Word rules".
 
+**Bible Main** (6:38 PM CST, 2026-11-01; sealed: only Bible 2's proposals were in the entry): agree on all four. Mark 15:21 has `ἄρῃ τὸν σταυρὸν`, the verb of 8:34 `ἀράτω τὸν σταυρὸν`, so *to take up His cross* keeps the link. Luke 1:58 `ἐμεγάλυνεν` is v46's `Μεγαλύνει`; *had magnified His mercy to her* keeps the echo. Luke 2:4, 11 `πόλιν Δαυίδ`: *the city of David*, with the note line, as proposed. *Egeneto*: the spec's *va-yehi* rule ("kept only where it opens something") applies as written, and Luke 2:1, opening the birth story, is the place to keep it; this applies a rule, so it is not a new kept *And*. Luke 3–6, rendered this run, keep *egeneto* plain.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
