@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Luke 11–14 — rendered 2026-11-02, 1:43 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Luke 7–10. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (11:2–4, the shorter prayer; 11:13 *the Holy Spirit*; 11:20 *the finger of God*; 11:44 *unmarked graves*; 12:6 *five sparrows*; 12:24 *ravens*; 12:51 *division*; 13:24 *the narrow door*; 14:26 *hate*).
+
+**Form kept:**
+- *Egeneto* at the head of scenes (11:1, 14, 27; 14:1) plain, as council item 99.
+- No sentence starts with *And*; *idou* cut (11:31–32, 41; 13:7, 11, 30, 32, 35; 14:2), except where it gives weight (13:16, *eighteen long years*).
+- The prayer (11:2–4) set as lines, as Matthew 6:9–13.
+- *The Lord* for Jesus in the telling (11:39; 12:42; 13:15).
+- Fixed terms: *angels* (12:8–9); *the Holy Spirit* (11:13; 12:10, 12); *Gehenna* (12:5); *unclean spirit* lowercase (11:24).
+- Kept the same as Matthew where the Greek is the same: *hallowed be Your name. Your kingdom come… daily bread… lead us not into temptation* (11:2–4); *ask, and it will be given to you; seek, and you will find; knock… For everyone who asks receives…* (11:9–10); *If you, then, evil as you are, know how to give good gifts to your children, how much more…* (11:13); *Beelzebul, the ruler of the demons… Every kingdom divided against itself is laid waste… by whom do your sons drive them out? So they will be your judges… Whoever is not with Me is against Me…* (11:15–23); the unclean spirit's return (11:24–26); *the sign of Jonah… The queen of the South… The men of Nineveh… something greater than* (11:29–32); *The lamp of your body is your eye… sound… evil* (11:34); *clean the outside of the cup and the dish… plunder* (11:39); *tithe mint… These you ought to have done, without neglecting the others* (11:42); *the best seat… greetings in the marketplaces* (11:43); *the blood of Abel to the blood of Zechariah* (11:51); *Nothing is covered that will not be uncovered… proclaimed on the housetops* (12:2–3); *do not be afraid of those who kill the body… the hairs of your head are all counted… worth more than many sparrows* (12:4–7); *acknowledges Me before people* (12:8); *do not worry about your life, what you will eat… life is more than food… a single cubit to the span of his life… the lilies… not even Solomon in all his glory… the grass… thrown into the oven… you of little faith… seek His kingdom, and these things will be given to you as well* (12:22–31); *where your treasure is, there your heart will be also* (12:34); *if the master of the house had known… be ready… at an hour you do not expect* (12:39–40); *the faithful and wise… Blessed is that slave… in charge of all his possessions… My master is delayed… on a day he does not expect and at an hour he does not know… cut him in two* (12:42–46); *Hypocrites! You know how to judge the appearance of the… sky* (12:56); *opponent… judge… officer… prison* (12:58); *a mustard seed… the birds of the sky… yeast… three measures of flour* (13:19–21); *weeping and grinding of teeth… recline at table… Abraham and Isaac and Jacob* (13:28–29); *Jerusalem, Jerusalem, who kills the prophets… as a hen… Blessed is the one who comes in the name of the Lord* (13:34–35); *Salt is good… Whoever has ears to hear* (14:34–35).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 4:10, 18:6, 29:30–31; Exodus 2:14, 8:19, 12:11, 23:5; Leviticus 11:15; Numbers 19:16; Deuteronomy 5:13, 20:7, 24:5, 32:11; 1 Kings 10:1; 2 Chronicles 24:21; Psalm 6:8, 107:3, 118:26, 147:9; Ecclesiastes 8:15; Isaiah 25:6; Jeremiah 8:13, 22:5; Jonah 3:5; Micah 7:6; Matthew 5:13, 5:26, 6:9–13, 7:11, 7:13, 10:20, 10:28–29, 10:34, 10:37, 12:28, 12:40, 13:31–33, 22:2–10, 23:23, 23:27, 23:34–39, 24:45, 24:51; Mark 7:4, 8:15, 10:38, 11:13–14, 12:42.
+- Named, not quoted (not yet rendered): Proverbs 25:6–7.
+
+**Checked against the sources:**
+- SBLGNT: Luke 11:1–14:35, and Luke 19:38; *epiousion* only in Luke 11:3 and Matthew 6:11.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **11:** Jesus teaches His disciples to pray, *Father, hallowed be Your name*, and tells of the friend at midnight: ask, seek, knock. Accused of driving out demons by Beelzebul, He answers that He does it *by the finger of God*. He gives this generation only the sign of Jonah. At a Pharisee's table He pronounces woes on the Pharisees and the lawyers, and they begin to lie in wait for Him.
+- **12:** to thousands, He warns against the yeast of hypocrisy and tells them not to fear those who kill the body. The rich fool builds bigger barns and dies that night. *Do not worry*: consider the ravens and the lilies, seek the kingdom, *little flock*. Be ready like servants waiting for their master; He has come to cast fire on the earth and bring division, and the crowds should read the times as they read the weather.
+- **13:** two disasters, and the call to repent; the barren fig tree given one more year. On a sabbath He sets free a woman bent over for eighteen years. The kingdom is like a mustard seed and yeast. On the road to Jerusalem: strive to enter the narrow door. Warned that Herod wants to kill Him, He answers *that fox* and laments over Jerusalem.
+- **14:** at a Pharisee's sabbath meal He heals a man with dropsy, tells guests to take the lowest place and hosts to invite the poor, and tells of the great dinner whose invited guests make excuses, so the poor and the lame are brought in. To the crowds: whoever does not hate his own family and carry his cross cannot be His disciple; count the cost.
+
+### Luke 11: Lord, Teach Us to Pray
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ton epiousion* "the for-the-coming / needful" | daily (note) |
+| 4 | *panti opheilonti hēmin* "everyone owing to us" | everyone who is indebted to us (note) |
+| 8 | *dia ge tēn anaideian autou* "because of his shamelessness" | because of his shamelessness (note; choice below) |
+| 17 | *oikos epi oikon piptei* "house on house falls" | house falls on house |
+| 20 | *ephthasen eph' hymas* "it has arrived upon you" | has come upon you |
+| 22 | *tēn panoplian autou* "his full armor" | the armor |
+| 28 | *Menoun* "rather, indeed" | Rather (note) |
+| 41 | *ta enonta dote eleēmosynēn* "give the things inside as alms" | give as alms what is inside |
+| 53 | *apostomatizein auton* "to make him speak off the cuff" | to question Him closely |
+
+### Luke 12: Where Your Treasure Is
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tōn myriadōn tou ochlou* "the tens of thousands of the crowd" | by thousands |
+| 3 | *en tois tameiois* "in the storerooms" | in inner rooms |
+| 15 | *pleonexias* "having more" | greed |
+| 19 | *anapauou, phage, pie, euphrainou* "rest, eat, drink, be glad" | take your ease, eat, drink, be merry (note) |
+| 20 | *tēn psychēn sou apaitousin* "they demand back your soul" | your soul is required of you (note) |
+| 29 | *mē meteōrizesthe* "do not be suspended in air" | do not be anxious (note) |
+| 37 | *perizōsetai* "he will gird himself" | he will fasten his belt |
+| 50 | *pōs synechomai* "how I am held fast" | how distressed I am (note) |
+| 58 | *dos ergasian apēllachthai* "give work to be released" | make an effort… to settle with him |
+
+### Luke 13: The Narrow Door
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *opheiletai* "debtors" | offenders (note) |
+| 7 | *tēn gēn katargei* "makes the ground idle" | use up the ground |
+| 9 | *kan men poiēsē karpon eis to mellon—* "and if it makes fruit for the coming—" | If it bears fruit next year, well (unfinished in the Greek; note) |
+| 11 | *pneuma echousa astheneias* "having a spirit of weakness" | had had a spirit that crippled her (note) |
+| 25 | *apo hou an egerthē* "from when he rises" | Once the master… has got up |
+| 32 | *teleioumai* "I am completed" | I reach My goal (note) |
+
+### Luke 14: The Great Banquet
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hydrōpikos* "dropsical" | who had dropsy (note) |
+| 7 | *tas prōtoklisias* "the first couches" | the places of honor (note) |
+| 18 | *apo mias* "from one" | all alike |
+| 23 | *anankason eiselthein* "compel to come in" | compel people to come in (note) |
+| 26 | *ou misei* "does not hate" | does not hate (note; choice below) |
+| 28 | *psēphizei tēn dapanēn* "count with pebbles the expense" | count the cost |
+| 33 | *apotassetai* "says farewell to" | renounce (note) |
+
+**Choices for you:**
+- **11:8, *dia ge tēn anaideian autou***
+  - (a) **because of his shamelessness** (now): the friend outside, who keeps knocking without shame, gets what he asks.
+  - (b) **because of his sense of shame**: the man inside, who would be shamed before the village if he refused a guest's need, gets up.
+  - Recommend (a): *anaideia* is the word for *shamelessness*, and the sayings that follow, *ask… seek… knock*, are about the one who asks.
+- **14:26, *ou misei ton patera heautou***
+  - (a) **does not hate his own father and mother** (now): the word kept, with the note on its sense, *to put second*, as Leah *was hated* beside Rachel.
+  - (b) **does not love… less than Me**: the sense given in the text, as Matthew's *loves… more than Me* (Matthew 10:37).
+  - Recommend (a): *misei* is *hate*, and the hard word is Luke's on purpose; the note explains it.
+
 ## Luke 7–10 — rendered 2026-11-01, 11:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; it marks *seventy-two* (10:1, 17) and *few things are needed, or only one* (10:42) as places where manuscripts differ, and the notes say so. The style is carried on from Luke 3–6. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (7:3–7, the elders and friends; 8:6 *on the rock*; 9:20 *the Messiah of God*; 9:23 *daily*; 9:35 *the Chosen One*; 10:3 *lambs*).
