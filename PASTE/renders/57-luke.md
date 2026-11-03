@@ -2,6 +2,100 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Luke 19–22 — rendered 2026-11-02, 11:43 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It sets 22:19b–20 in brackets and marks them, and 22:43–44, as places where manuscripts differ; the notes say so, and the words stand in the text. The style is carried on from Luke 15–18. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (19:38 *the King*, *Peace in heaven*; 20:18 the falling stone, as Matthew; 20:36 *equal to angels*; 21:20 *Jerusalem surrounded by armies*; 21:27 *in a cloud*; 22:42 *if You are willing*; 22:69 *the power of God*).
+
+**Form kept:**
+- *Egeneto* plain (19:15, 29; 20:1; 22:14, 24, 44, 66), as council item 99.
+- No sentence starts with *And*; *idou* cut (19:2, 8, 20; 22:10, 21, 31, 38, 47).
+- *The Lord* for Jesus in the telling (19:8; 22:61).
+- Doubled verb plain: *I have longed* (22:15).
+- Fixed terms: *angels* (20:36; 22:43); *Satan* (22:3, 31).
+- Psalm 110:1 in 20:42–43 has *my Lord* capitalized, as Mark 12:36.
+- Kept the same as Matthew or Mark where the Greek is the same: *Well done, good… slave… faithful in a very little* (19:17); *to everyone who has, more will be given; but from the one who does not have, even what he has will be taken away* (19:26); *Go into the village ahead of you… a colt tied there, on which no one has ever sat. Untie it and bring it… The Lord needs it* (19:30–34); *a den of robbers* (19:46); *by what authority… The baptism of John: was it from heaven, or from men?… Why did you not believe him?… Neither will I tell you* (20:2–8); *A man planted a vineyard… leased it to tenant farmers and went abroad… At the season he sent a slave… sent him away empty… treated shamefully… beloved son… This is the heir… the inheritance will be ours… threw him out of the vineyard… destroy… give the vineyard to others… The stone that the builders rejected has become the head of the corner* (20:9–17); *Whoever falls on this stone will be broken to pieces; and on whomever it falls, it will crush him* (20:18, as Matthew 21:44); *the way of God in truth… a denarius… image… inscription… Caesar's… give back to Caesar the things that are Caesar's, and to God the things that are God's* (20:21–25); *Sadducees, who say… no resurrection… raise up seed for his brother… seven brothers… Last of all the woman also died… whose wife… the seven had her as wife… neither marry nor are given in marriage… at the passage about the bush… the God of Abraham… He is not the God of the dead, but of the living* (20:27–38); *How can… the Messiah is the son of David… The Lord said to my Lord, Sit at My right hand… David… calls Him Lord; so how is He his son?* (20:41–44); *Beware of the scribes, who like to walk around in long robes… greetings in the marketplaces… best seats in the synagogues… places of honor at dinners… devour widows' houses and for show make long prayers. They will receive the greater condemnation* (20:46–47); *a poor widow… two small copper coins… Truly I tell you, this poor widow has put in more… out of their abundance; but she, out of her poverty… all she had to live on* (21:2–4); *not one stone will be left on another that will not be thrown down… when will these things be, and what will be the sign… I am He… must happen… Nation will rise against nation… earthquakes… famines… You will be hated by all because of My name… Woe to those who are pregnant and to those who are nursing in those days… the powers of the heavens will be shaken… they will see the Son of Man coming… with power and great glory… the fig tree… summer is… near. So also you, when you see these things happening, know… Truly I tell you, this generation will not pass away until all… take place. Heaven and earth will pass away, but My words will never pass away* (21:6–33); *a man carrying a jar of water will meet you… the master of the house, 'The Teacher says… Where is the guest room, where I may eat the Passover with My disciples?' He will show you a large upper room, furnished… found it as He had told them, and they prepared the Passover* (22:10–13); *the fruit of the vine* (22:18); *woe to that man by whom* (22:22); *take this cup away from Me* (22:42); *so that you do not enter into temptation* (22:46); *the slave of the high priest* (22:50); *Have you come out with swords and clubs… as if against a robber* (22:52); *day after day… in the temple* (22:53); *followed at a distance* (22:54); *I do not know what you are talking about* (22:60); *He went outside and wept bitterly* (22:62, as Matthew 26:75); *Prophesy!… Who is it that struck You?* (22:64, as Matthew 26:68); *What further need do we have of* (22:71).
+- *He was counted with the transgressors* (22:37), as Isaiah 53:12 in this project.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:27 (and the Greek); Exodus 3:6, 4:12, 12:6, 12:14, 22:1, 22:22, 24:8; Numbers 19:2; Deuteronomy 13:10, 25:5; 2 Samuel 12:6; 1 Kings 1:33; 2 Kings 9:13; Job 1:12; Psalm 46:3, 110:1 (and the Greek, 109:1), 118:22 (and the Greek, 117:22), 118:26, 137:9 (and the Greek, 136:9); Isaiah 5:1–2, 8:14 (and the Greek), 53:12 (and the Greek), 56:7, 63:18; Jeremiah 7:11, 31:31; Ezekiel 4:2, 34:16; Daniel 2:34, 7:13; Hosea 9:7 (and the Greek); Amos 9:9; Habakkuk 2:11; Zechariah 9:9; Matthew 19:28, 21:44, 25:15, 25:29, 26:68, 26:75; Mark 1:15, 11:1–33, 12:1–44, 13:1–37, 14:12–72.
+
+**Checked against the sources:**
+- SBLGNT: Luke 19:1–22:71, and Luke 3:14.
+- Swete: Genesis 1:27; Exodus 3:6; Deuteronomy 25:5; Psalm 109:1, 117:22, 117:26, 136:9; Isaiah 8:14, 53:12, 56:7; Daniel 2:35, 44 (it does not have Luke's *likmēsei*, so the note does not claim it); Hosea 9:7, 10:14; Habakkuk 2:11.
+
+**The checker** found 1 error (a note that spoke of the report, fixed) and 1 CHECK (11 notes in Luke 22, two joined).
+
+**What these chapters are:**
+- **19:** in Jericho Jesus calls the tax collector Zacchaeus down from a tree and stays at his house; *the Son of Man came to seek and to save the lost*. The parable of the ten minas, with a nobleman who goes away to receive a kingdom. He rides into Jerusalem on a colt as the disciples praise *the King*, weeps over the city that did not know *the time of your visitation*, and drives the sellers out of the temple.
+- **20:** the chief priests ask by what authority He acts, and He asks them about John's baptism. The parable of the tenants who kill the owner's son; *the stone that the builders rejected*. Tribute to Caesar; the Sadducees' question about seven brothers and the resurrection; whose son is the Messiah; and a warning against the scribes.
+- **21:** a poor widow gives two small coins, more than all the rich. Jesus foretells the fall of the temple, persecution, Jerusalem surrounded by armies and trampled, and signs in the heavens before the Son of Man comes: *lift up your heads*. Stay awake and pray.
+- **22:** Satan enters Judas. Jesus eats the Passover with the apostles and gives them the bread and the cup of the new covenant; they argue over who is greatest. He foretells Peter's denial, prays on the Mount of Olives in anguish, and is arrested with a kiss. Peter denies Him three times and weeps; at daybreak the council asks, *Are You the Son of God?*
+
+### Luke 19: Zacchaeus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *anēr onomati kaloumenos Zakchaios* "a man by name called Zacchaeus" | a man named Zacchaeus |
+| 3 | *tē hēlikia mikros* "small in stature / in age" | small in stature |
+| 7 | *katalysai* "to unharness, lodge" | to be the guest |
+| 8 | *didōmi… apodidōmi* "I give… I give back" (present) | I give… I pay back (note; choice below) |
+| 12 | *labein heautō basileian* "to take for himself a kingdom" | to receive a kingdom for himself |
+| 13 | *Pragmateusasthe en hō erchomai* "do business while I come" | Do business with this until I come |
+| 23 | *epi trapezan* "on a table" | in the bank (note) |
+| 42 | *ta pros eirēnēn* "the things toward peace" | the things that make for peace |
+| 48 | *exekremato autou akouōn* "was hanging from Him, listening" | were hanging on His words (note) |
+
+### Luke 20: The Stone the Builders Rejected
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Kai egeneto en mia tōn hēmerōn* "and it happened on one of the days" | One day |
+| 9 | *chronous hikanous* "sufficient times" | for a long time |
+| 18 | *likmēsei auton* "it will winnow him" | it will crush him (note) |
+| 21 | *ou lambaneis prosōpon* "you do not receive a face" | do not show partiality (note) |
+| 23 | *tēn panourgian* "the all-working" | their craftiness |
+| 36 | *isangeloi* "angel-equal" | equal to angels (note) |
+| 38 | *pantes gar autō zōsin* "for all live to Him" | for all live to Him |
+
+### Luke 21: Lift Up Your Heads
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *panta ton bion* "the whole life" | all she had to live on (note) |
+| 13 | *apobēsetai hymin eis martyrion* "it will go off for you into testimony" | it will turn out for you as a time to bear witness |
+| 14 | *thete en tais kardiais* "put in your hearts" | settle it in your hearts |
+| 19 | *ktēsasthe tas psychas hymōn* "acquire your souls" | you will gain your lives (note) |
+| 24 | *stomati machairēs* "by the mouth of the sword" | by the edge of the sword |
+| 26 | *apopsychontōn* "breathing out" | fainting |
+| 28 | *anakypsate* "straighten up" | stand up straight |
+| 34 | *kraipalē* "hangover" | carousing (note) |
+
+### Luke 22: The Last Supper
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *exōmologēsen* "he agreed out loud" | he consented |
+| 15 | *epithymia epethymēsa* "with longing I longed" | I have longed (note) |
+| 25 | *kyrieuousin autōn* "lord over them" | lord it over them |
+| 29 | *diatithemai* "I covenant / bequeath" | I confer (note) |
+| 31 | *exētēsato hymas* "asked for you (plural)" | demanded to have you all (note) |
+| 37 | *to peri emou telos echei* "the thing about Me has an end" | what is written about Me is reaching its end |
+| 44 | *thromboi haimatos* "clots of blood" | great drops of blood (note) |
+| 51 | *Eate heōs toutou* "let it go as far as this" | No more of this! (note) |
+| 56 | *pros to phōs* "toward the light" | in the light of the fire |
+| 70 | *Hymeis legete hoti egō eimi* "you say that I am" | You say that I am (note) |
+
+**Choices for you:**
+- **19:8, *didōmi… apodidōmi***
+  - (a) **I give… I pay back** (now): the Greek present tense, which can be a promise Zacchaeus makes on the spot (answered in v9, *Today salvation has come to this house*), or what he says he already does, defending himself against the crowd's *a man who is a sinner* (v7).
+  - (b) **I will give… I will pay back**: the promise only; this is how most English Bibles take it.
+  - Recommend (a): it keeps the Greek's tense and leaves both readings open, and the note gives both.
+- **22:19b–20, *to hyper hymōn didomenon… ekchynnomenon***
+  - (a) **in the text, with a note** (now): the edition prints the words, in brackets, and most English Bibles keep them in the text.
+  - (b) **set apart under their own heading**, as Mark 16:9–20: they would read as words some manuscripts lack.
+  - Recommend (a): the edition keeps them in its text, unlike the double-bracketed Mark 16, and the note says where it marks them.
+
 ## Luke 15–18 — rendered 2026-11-02, 6:44 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It has no 17:36, and the note there says so. It marks the end of 15:21 as a place where manuscripts differ, and the note says so. The style is carried on from Luke 11–14. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (15:4 *in the wilderness*, *lost*; 17:2 *a millstone*; 17:6 *this mulberry tree*; 18:15 *babies*; 18:18 *a ruler*; 18:20, the order of the commandments; 18:29 *wife*; 18:35 *drew near to Jericho*, unnamed).
