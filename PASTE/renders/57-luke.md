@@ -2,6 +2,67 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Luke 23–24 — rendered 2026-11-03, 1:43 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 23:17, and the note says so. It marks 23:34a (*Father, forgive them*), 24:3 (*of the Lord Jesus*), 24:6a and 24:12 as places where manuscripts differ, and sets 24:40, 24:51b (*and was carried up into heaven*) and 24:52a (*They worshiped Him*) in brackets as well; the notes say so, and the words stand in the text, as 22:19b–20 last run. The style is carried on from Luke 19–22. Where Luke's Greek is the same as Mark's, Mark's English is reused; where it differs, the English differs (23:3 as Mark; 23:33 *The Skull*; 23:46 *Father, into Your hands*; 23:47 *righteous*; 24:4 *two men*).
+
+**Form kept:**
+- *Egeneto* plain (23:44; 24:4, 15, 30, 51), as council item 99.
+- No sentence starts with *And*; *idou* cut (23:14, 15, 29, 50; 24:4, 13, 49).
+- *The Lord* for Jesus in the telling (24:3, 34).
+- Fixed terms: *angels* (24:23); *Messiah* for *christos* (23:2, 35, 39; 24:26, 46).
+- *Crucify, crucify Him!* (23:21) kept doubled: it is the crowd's cry, not a doubled verb.
+- Kept the same as Mark where the Greek is the same: *Are You the King of the Jews?… You say so* (23:3); *Simon of Cyrene, who was coming in from the country* (23:26); *one on the right and one on the left* (23:33); *He saved others* (23:35); *the King of the Jews* (23:38); *the sixth hour… darkness over all the land until the ninth hour* (23:44); *the curtain of the sanctuary was torn in two* (23:45); *with a loud voice… breathed His last* (23:46); *at a distance* (23:49); *asked for the body of Jesus* (23:52); *wrapped… in a linen cloth* (23:53); *On the first day of the week* (24:1); *the stone rolled away* (24:2).
+- *Into Your hands I commit My spirit* (23:46) follows Psalm 31:5 in this project, with *hands* plural as the Greek has it.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:8 (and the Greek), 3:7 (and the Greek); Exodus 26:33; Leviticus 9:22; Deuteronomy 18:15; Psalm 22:18, 31:5 (and the Greek, 30:6), 69:21; Isaiah 53:7, 53:12; Hosea 10:8 (and the Greek); Joel 2:28; Amos 8:9; Sirach 50:20 (and the Greek); Mark 15:22, 15:39, 16:5.
+
+**Checked against the sources:**
+- SBLGNT: Luke 23:1–24:53.
+- Swete: Genesis 2:8, 3:7; Psalm 30:6; Hosea 10:8; Sirach 50:20.
+
+**The checker** found 0 errors and 2 CHECKs. One was fixed (23:42 *come into Your kingdom* is now *come in Your kingdom*, as the Greek *en*). One stands: 23:17 is not in the edition, as the note says.
+
+**Luke is complete** (24 chapters).
+
+**What these chapters are:**
+- **23:** the council takes Jesus to Pilate, who finds no guilt in Him and sends Him to Herod, who mocks Him and sends Him back. The crowd asks for Barabbas and cries *Crucify!* Simon of Cyrene carries the cross; Jesus tells the weeping women to weep for themselves. Crucified between two criminals, He prays *Father, forgive them*, promises one criminal *paradise*, and commits His spirit to the Father. Joseph of Arimathea buries Him, and the women rest on the sabbath.
+- **24:** at dawn the women find the tomb empty, and two men in dazzling clothing say *He is not here, but has been raised*. On the road to Emmaus the risen Jesus walks unrecognized with two disciples, opens the scriptures to them, and is known in the breaking of the bread. He appears to the eleven, eats before them, sends them as witnesses to all nations, and is carried up into heaven from Bethany.
+
+### Luke 23: Father, Forgive Them
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *anastan hapan to plēthos autōn* "having risen, the whole multitude of them" | the whole company of them rose |
+| 2 | *diastrephonta to ethnos* "twisting the nation" | misleading our nation |
+| 4 | *ouden heuriskō aition* "I find nothing causing" | I find no guilt (note) |
+| 11 | *exouthenēsas* "having made Him nothing" | treated Him with contempt |
+| 16 | *paideusas* "having disciplined" | I will have Him whipped (note) |
+| 18 | *Aire touton* "take this one" | Away with this man! |
+| 31 | *en tō hygrō xylō* "in the moist wood" | when the wood is green (note) |
+| 41 | *ouden atopon* "nothing out of place" | nothing wrong |
+| 45 | *tou hēliou eklipontos* "the sun failing" | while the sun's light failed |
+| 54 | *sabbaton epephōsken* "a sabbath was dawning" | the sabbath was beginning (note) |
+
+### Luke 24: He Has Risen
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *orthrou batheōs* "at deep dawn" | at early dawn |
+| 4 | *en esthēti astraptousē* "in lightning-flashing clothing" | in dazzling clothing (note) |
+| 11 | *hōsei lēros* "as idle talk" | like nonsense (note) |
+| 13 | *stadious hexēkonta* "sixty stadia" | about sixty stadia (note) |
+| 16 | *ekratounto* "were being held" | were kept (note) |
+| 17 | *antiballete* "you throw back and forth" | you are exchanging |
+| 18 | *Sy monos paroikeis* "are you alone sojourning" | Are You the only visitor |
+| 29 | *kekliken ēdē hē hēmera* "the day has already bent down" | the day is now far spent |
+| 41 | *apistountōn… apo tēs charas* "disbelieving from the joy" | they still could not believe it for joy |
+| 49 | *endysēsthe* "you put on" | you are clothed (note) |
+
+**Choices for you:** none new.
+
 ## Luke 19–22 — rendered 2026-11-02, 11:43 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It sets 22:19b–20 in brackets and marks them, and 22:43–44, as places where manuscripts differ; the notes say so, and the words stand in the text. The style is carried on from Luke 15–18. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (19:38 *the King*, *Peace in heaven*; 20:18 the falling stone, as Matthew; 20:36 *equal to angels*; 21:20 *Jerusalem surrounded by armies*; 21:27 *in a cloud*; 22:42 *if You are willing*; 22:69 *the power of God*).
