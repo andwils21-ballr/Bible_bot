@@ -89,10 +89,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Choices for you:**
 - **19:8, *didōmi… apodidōmi***
   - (a) **I give… I pay back** (now): the Greek present tense, which can be a promise Zacchaeus makes on the spot (answered in v9, *Today salvation has come to this house*), or what he says he already does, defending himself against the crowd's *a man who is a sinner* (v7).
-  - (b) **I will give… I will pay back**: the promise only; this is how most English Bibles take it.
+  - (b) **I will give… I will pay back**: the promise only, made plain in English.
   - Recommend (a): it keeps the Greek's tense and leaves both readings open, and the note gives both.
 - **22:19b–20, *to hyper hymōn didomenon… ekchynnomenon***
-  - (a) **in the text, with a note** (now): the edition prints the words, in brackets, and most English Bibles keep them in the text.
+  - (a) **in the text, with a note** (now): the edition prints the words in its text, in brackets.
   - (b) **set apart under their own heading**, as Mark 16:9–20: they would read as words some manuscripts lack.
   - Recommend (a): the edition keeps them in its text, unlike the double-bracketed Mark 16, and the note says where it marks them.
 
