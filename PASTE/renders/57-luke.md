@@ -2,6 +2,92 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Luke 15–18 — rendered 2026-11-02, 6:44 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 17:36, and the note there says so. It marks the end of 15:21 as a place where manuscripts differ, and the note says so. The style is carried on from Luke 11–14. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (15:4 *in the wilderness*, *lost*; 17:2 *a millstone*; 17:6 *this mulberry tree*; 18:15 *babies*; 18:18 *a ruler*; 18:20, the order of the commandments; 18:29 *wife*; 18:35 *drew near to Jericho*, unnamed).
+
+**Form kept:**
+- *Egeneto* plain (16:22; 17:11, 14; 18:35), as council item 99.
+- No sentence starts with *And*; *idou* cut (15:29; 17:21, 23; 18:28, 31).
+- *The Lord* for Jesus in the telling (17:5–6; 18:6).
+- Fixed terms: *angels* (15:10; 16:22); *Hades* (16:23); *wealth* for *mamōnas*, as Matthew 6:24 (16:9, 11, 13).
+- *Fasten your belt* (17:8), as 12:37.
+- Kept the same as Matthew or Mark where the Greek is the same: *the ninety-nine* (15:4, 7); *No servant can serve two masters: either he will hate the one and love the other, or he will hold to the one and despise the other. You cannot serve God and wealth* (16:13); *one stroke of a letter* (16:17); *commits adultery* (16:18); *woe to the one through whom they come… hung around his neck… one of these little ones to stumble* (17:1–2); *faith like a mustard seed* (17:6); *the days of Noah… eating… marrying and giving in marriage, until the day Noah entered the ark* (17:26–27); *let the one on the housetop… not go down… let the one in the field not turn back* (17:31); *one will be taken and the other left… grinding* (17:34–35); *there the vultures will gather* (17:37); *Let the children come to Me, and do not hinder them; for the kingdom of God belongs to such as these. Truly I tell you, whoever does not receive the kingdom of God like a child will never enter it* (18:16–17); *Good Teacher, what must I do to inherit eternal life? Why do you call Me good? No one is good but God alone. You know the commandments… All these I have kept from my youth… treasure in heaven; then come, follow Me* (18:18–22); *How hard… those who have wealth to enter the kingdom of God… easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God… Then who can be saved?* (18:24–26); *Truly I tell you, there is no one who has left house… in the age to come eternal life* (18:29–30); *mock… spit… flog Him and kill Him* (18:32–33); *Son of David, have mercy on me!… rebuked him, telling him to be quiet… all the more… What do you want Me to do for you?… your faith has made you well* (18:38–42).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 19:24, 19:26, 41:42; Exodus 16:2 (Greek), 22:22; Leviticus 11:7, 13:46, 14:2, 16:29, 19:17; Deuteronomy 5:17–19 (Greek), 10:18, 14:22, 15:11, 21:17, 24:1; 1 Samuel 16:7; 2 Samuel 7:12; Job 39:30; Psalm 79:9 (and the Greek, 78:9); Isaiah 50:6; Ezekiel 34:16; Matthew 5:18, 5:32, 6:24, 8:11, 11:12–13, 17:20, 18:6–7, 18:12–15, 18:21, 19:20, 24:17–18, 24:27–28, 24:37–41; Mark 9:42, 10:11, 10:13–52, 13:15–16.
+- Named, not quoted (not yet rendered): Proverbs 11:1 (its Greek quoted).
+
+**Checked against the sources:**
+- SBLGNT: Luke 15:1–18:43, and Mark 10:13, 25.
+- Swete: Exodus 16:2, 20:13–15; Deuteronomy 5:17–20; Psalm 78:9; Proverbs 11:1.
+
+**The checker** found 0 errors and 2 CHECKs. Both were left as they are: 16:28 *come into this place of torment* is said by the rich man, who is in that place; and 17:36 is not in the edition, as the note says.
+
+**What these chapters are:**
+- **15:** the Pharisees grumble that Jesus eats with sinners, and He tells three parables of the lost: the sheep, the coin, and the son. The younger son wastes his share, comes home to a father who runs to meet him, and the older brother will not go in to the feast.
+- **16:** a dishonest manager, about to be fired, cuts his master's debts to make friends, and is praised for his shrewdness: *You cannot serve God and wealth*. Sayings on the Law and divorce. The rich man and Lazarus: after death the poor man is at Abraham's side and the rich man in torment, and his brothers *have Moses and the Prophets*.
+- **17:** stumbling, forgiveness, and faith like a mustard seed; *We are unworthy slaves*. Ten men with leprosy are made clean, and only the Samaritan turns back to give thanks. The kingdom does not come with signs to watch for; the day of the Son of Man will come like lightning, like the flood and the fire on Sodom: *Remember Lot's wife*.
+- **18:** the widow who wears down the unjust judge; the Pharisee and the tax collector at prayer, and the tax collector goes home justified. Jesus blesses the babies, and a rich ruler goes away sad; *a camel through the eye of a needle*. He tells the twelve a third time of His death and rising, and near Jericho gives sight to a blind man who calls Him *Son of David*.
+
+### Luke 15: The Lost Son
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 12 | *to epiballon meros tēs ousias* "the falling-upon share of the substance" | the share of the property that falls to me |
+| 13 | *zōn asōtōs* "living unsavingly" | in reckless living (note) |
+| 16 | *tōn keratiōn* "the little horns" | the pods (note) |
+| 17 | *eis heauton de elthōn* "coming to himself" | when he came to himself |
+| 20 | *epepesen epi ton trachēlon autou* "fell upon his neck" | threw his arms around his neck |
+| 22 | *stolēn tēn prōtēn* "the first robe" | the best robe |
+| 27 | *hygiainonta auton apelaben* "received him healthy" | received him back safe and sound |
+
+### Luke 16: The Rich Man and Lazarus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *dieblēthē autō* "was slandered to him" | charges were brought to him |
+| 8 | *ton oikonomon tēs adikias* "the manager of unrighteousness" | the dishonest manager (note) |
+| 9 | *tou mamōna tēs adikias* "the mammon of unrighteousness" | unrighteous wealth (note) |
+| 16 | *pas eis autēn biazetai* "everyone uses force into it" | everyone forces his way into it (note) |
+| 22 | *eis ton kolpon Abraam* "into Abraham's bosom" | to Abraham's side (note) |
+| 26 | *chasma mega estēriktai* "a great chasm has been made firm" | a great chasm has been fixed |
+
+### Luke 17: The Ten Lepers
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *Anendekton estin tou ta skandala mē elthein* "it is inadmissible for the stumbling-blocks not to come" | causes of stumbling are sure to come |
+| 2 | *lysitelei autō* "it pays him" | it would be better for him |
+| 10 | *douloi achreioi* "slaves without profit" | unworthy slaves (note) |
+| 20 | *meta paratērēseōs* "with close watching" | in a way that can be watched for (note) |
+| 21 | *entos hymōn* "within / among you" | in your midst (note; choice below) |
+| 33 | *zōogonēsei autēn* "will keep it alive" | will preserve it alive |
+| 37 | *hoi aetoi* "the eagles" | the vultures (note; choice below) |
+
+### Luke 18: The Pharisee and the Tax Collector
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mē enkakein* "not to give in to evil" | not lose heart |
+| 5 | *hypōpiazē me* "she give me a black eye" | she will not wear me out (note) |
+| 7 | *makrothymei ep' autois* "is He long-tempered over them" | will He delay long over them |
+| 11 | *pros heauton* "toward himself" | to himself (note) |
+| 12 | *dis tou sabbatou* "twice of the sabbath" | twice a week |
+| 13 | *hilasthēti moi tō hamartōlō* "be propitiated to me the sinner" | be merciful to me, the sinner (note) |
+| 30 | *pollaplasiona* "many-fold" | many times as much |
+
+**Choices for you:**
+- **17:21, *hē basileia tou theou entos hymōn estin***
+  - (a) **the kingdom of God is in your midst** (now): it is already among them, in Jesus and His works; He is speaking to the Pharisees, and the next verses speak of a coming that is outward and sudden.
+  - (b) **the kingdom of God is within you**: it is an inward thing, in the heart; *entos* usually means *inside*.
+  - Recommend (a): the hearers are the Pharisees, and the point of v20–21 is that the kingdom is there without signs to watch for; the note gives both.
+- **17:37, *hoi aetoi***
+  - (a) **the vultures** (now): as Matthew 24:28 in this project; birds that gather at a body.
+  - (b) **the eagles**: the word's usual sense.
+  - Recommend (a): it keeps Luke the same as Matthew, and the picture is of birds at a body; the note gives *eagles*.
+
 ## Luke 11–14 — rendered 2026-11-02, 1:43 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Luke 7–10. Where Luke's Greek is the same as Matthew's or Mark's, their English is reused; where it differs, the English differs (11:2–4, the shorter prayer; 11:13 *the Holy Spirit*; 11:20 *the finger of God*; 11:44 *unmarked graves*; 12:6 *five sparrows*; 12:24 *ravens*; 12:51 *division*; 13:24 *the narrow door*; 14:26 *hate*).
