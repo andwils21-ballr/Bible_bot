@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 3–6 — rendered 2026-11-03, 6:42 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 5:4, and the note says so; it prints *ēdē*, **already**, at the end of 4:35, and the English begins 4:36 with it, as the edition's punctuation does; the note says so. The style is carried on from John 1–2. Where John's Greek is the same as Mark's, Mark's English is reused (5:8 *Get up, pick up your mat, and walk*, as Mark 2:9; 6:7 *two hundred denarii worth of bread*; 6:20 *I am the One. Do not be afraid*, as Mark 6:50 and Matthew 14:27).
+
+**Form kept:**
+- *Amēn amēn* as *Truly, truly* (3:3, 5, 11; 5:19, 24, 25; 6:26, 32, 47, 53).
+- *Egō eimi* said by Jesus of Himself is *I am the One* (4:26; 6:20), as Mark 6:50 and Matthew 14:27, where the note there gives the word for word; *I am* with a name stays *I am* (6:35, 41, 48, 51).
+- *Pneuma* is *wind* in 3:8a and *Spirit* in 3:5, 6, 8b, both noted, since the verse plays on them.
+- No sentence starts with *And*; *idou* and *ide* cut (3:26; 4:35; 5:14).
+- *Kyrie* to Jesus from those who do not yet know Him is *Sir* (4:11, 15, 19, 49; 5:7; 6:34); from Peter, *Lord* (6:68).
+- *The Lord* for Jesus in the telling (6:23).
+- *Spirit* capital where it is God's (3:5–8, 34; 6:63); *spirit* lowercase for what God is (4:24) and what is born (3:6b).
+- Jesus' words in chapter 3 are closed at v21, and John's at v30; the notes say the Greek has no marks.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:2, 2:7, 24:11, 29:10, 33:19; Exodus 2:15, 16:2 (and the Greek), 16:4; Leviticus 17:10; Numbers 11:13, 21:9; Deuteronomy 11:29, 18:15, 18:18, 19:15, 31:26; Joshua 24:32; 2 Kings 4:42–44, 17:24, 17:33; Nehemiah 3:1; Job 9:8; Psalm 77:19, 78:24 (and the Greek, 77:24), 126:5; Isaiah 54:5, 54:13 (and the Greek); Jeremiah 2:13, 17:21; Ezekiel 36:25–26; Daniel 7:13–14, 12:2; Micah 6:15; Zechariah 14:8; Matthew 8:5–13, 9:15, 14:27; Mark 1:24, 2:9, 3:19, 5:41, 6:4, 6:35–51; Luke 7:1–10, 9:20.
+
+**Checked against the sources:**
+- SBLGNT: John 3:1–6:71; John 8:28, 9:3, 12:32–33, 19:39; 1 John 4:14.
+- Swete: Exodus 3:14, 16:2; Psalm 77:24; Isaiah 54:13.
+
+**The checker** found 0 errors and 4 CHECKs. All stand: 3:19 *has come into the world* and 6:14 *coming into the world* are the book's set phrase (as 1:9); 5:24 *come into judgment* is an idiom; and 5:4 is not in the edition, as the note says.
+
+**What these chapters are:**
+- **3:** Nicodemus comes by night, and Jesus tells him he must be *born from above*, of water and the Spirit; as Moses lifted up the serpent, so the Son of Man must be lifted up; *God so loved the world*. John the Baptist says he is the bridegroom's friend: *He must increase, but I must decrease*.
+- **4:** at Jacob's well a Samaritan woman gives Jesus a drink, and He offers her living water, tells her of her five husbands, and says the hour is coming for worship *in spirit and truth*; *I am the One*. Her town comes out and believes. Back in Cana, He heals a royal official's son at Capernaum by a word.
+- **5:** at the pool of Bethesda He heals a man ill thirty-eight years, on a sabbath. Accused, He says *My Father is working until now, and I am working*: the Son gives life and judges, and John, His works, the Father and the scriptures bear witness to Him.
+- **6:** He feeds five thousand with five barley loaves and walks on the sea. In Capernaum He says *I am the bread of life*: whoever eats His flesh and drinks His blood has eternal life. Many disciples leave; Peter says, *You have the words of eternal life*.
+
+### John 3: Born from Above
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *gennēthē anōthen* "be born from above / again" | born from above (note; choice below) |
+| 8 | *to pneuma… pnei* "the wind/spirit breathes" | The wind blows (note) |
+| 14 | *hypsōthēnai* "be lifted up / exalted" | be lifted up (note) |
+| 16 | *houtōs gar ēgapēsen* "for in this way / so much He loved" | For God so loved (note; choice below) |
+| 21 | *ho poiōn tēn alētheian* "the one doing the truth" | whoever does the truth (note) |
+| 29 | *chara chairei* "rejoices with joy" | rejoices greatly (note) |
+| 33 | *esphragisen* "sealed" | has set his seal to this (note) |
+| 34 | *ouk ek metrou* "not out of a measure" | without measure |
+
+### John 4: The Woman at the Well
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *ekathezeto houtōs* "was sitting thus" | sat down just as He was |
+| 9 | *ou synchrōntai* "do not use together" | have no dealings with (note) |
+| 14 | *hallomenou* "leaping" | welling up (note) |
+| 26 | *Egō eimi* "I am" | I am the One (note) |
+| 29 | *mēti houtos estin* "this is not…, is it?" | Could this be (note) |
+| 35 | *leukai eisin pros therismon* "they are white toward harvest" | white for harvest |
+| 52 | *kompsoteron eschen* "he had it more finely" | he began to get better |
+
+### John 5: The Pool of Bethesda
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *epi tē probatikē* "at the sheep (place)" | by the Sheep Gate (note) |
+| 2 | *Hebraisti* "in Hebrew" | in Hebrew (note) |
+| 3 | *xērōn* "dry" | withered |
+| 13 | *exeneusen* "turned aside" | had slipped away (note) |
+| 18 | *elye* "was loosing" | was breaking (note) |
+| 27 | *hoti huios anthrōpou estin* "because He is a son of man" | because He is the Son of Man (note) |
+| 39 | *Eraunate* "you search / search!" | You search (note; choice below) |
+
+### John 6: The Bread of Life
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 10 | *Poiēsate… anapesein* "make… recline" | Have the people sit down |
+| 15 | *harpazein* "to snatch" | seize (note) |
+| 18 | *diegeireto* "was being roused" | was rising |
+| 19 | *elēlakotes* "having driven" | when they had rowed |
+| 54 | *ho trōgōn* "the one chewing" | Whoever feeds on (note) |
+| 60 | *Sklēros* "dry, hard" | hard (note) |
+| 66 | *apēlthon eis ta opisō* "went away to the things behind" | turned back |
+
+**Choices for you:**
+- **3:3, 7, *gennēthē anōthen***
+  - (a) **born from above** (now): *anōthen* as in 3:31, *The one who comes from above*; Nicodemus mishears it as *again*, *a second time* (v4).
+  - (b) **born again**: *anōthen* as *anew*, from the start, the King James reading; Nicodemus then takes the word rightly but too literally.
+  - Recommend (a): this book uses *anōthen* only as *from above* elsewhere (3:31; 19:11, 23), and the misunderstanding is how the talk moves; the note gives both.
+- **3:16, *houtōs gar ēgapēsen ho theos ton kosmon***
+  - (a) **For God so loved the world that He gave** (now): *so* in English carries both *this much* and *in this way*, as the Greek can.
+  - (b) **For this is how God loved the world: He gave**: *houtōs* as *in this way*, its usual sense, pointing to the giving and back to the serpent of v14.
+  - Recommend (a): the English *so* keeps both senses open, as *houtōs* with *hōste* does; the note gives (b).
+- **5:39, *Eraunate tas graphas***
+  - (a) **You search the Scriptures** (now): what they do, *because you think that in them you have eternal life*.
+  - (b) **Search the Scriptures**: a command, as the King James has it.
+  - Recommend (a): the next words, *because you think*, give a reason for what they already do; the note gives (b).
+
 ## John 1–2 — rendered 2026-11-03, 1:43 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed: its punctuation of 1:3–4, *monogenēs theos* (1:18) and *ho eklektos* (1:34), both marked as places where manuscripts differ, and the notes say so. This is the first chapter of John, so its style is set here, from Luke and the spec: John's Greek is plain and repeats its words on purpose (*was… came into being*, *witness*, *light*, *remain*, *believe*), and the English keeps them the same.
