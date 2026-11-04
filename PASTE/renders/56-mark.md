@@ -56,7 +56,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 18 | *ophis arousin* "snakes they will lift" | they will pick up snakes |
 
 **Choices for you:**
-- **Passages the Greek edition sets apart in double brackets** (widespread: Mark 16 now, and John 7:53–8:11 when John is reached)
+- **Passages the Greek edition sets apart in double brackets** (widespread: Mark 16 now; the edition does not print John 7:53–8:11 at all, see the John 7–11 report)
   - (a) **Render them in place, under their own headings, with a note saying the edition sets them apart** (now): the reader has the whole text as printed and is told what the edition does.
   - (b) **Render them in place with no heading or mark**: the text reads straight through, as most church Bibles print it.
   - (c) **Set them in a smaller section after the chapter**, outside the numbered text.

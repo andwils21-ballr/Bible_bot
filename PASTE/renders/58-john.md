@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 7, 9–11 — rendered 2026-11-03, 11:44 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. **John 8 is held back**: the edition goes from 7:52 straight to 8:12, with no 7:53–8:11 (the woman caught in adultery), not even in brackets, and no other Greek or Ethiopic text of John is in `sources/`. The checker will not pass a chapter whose verses begin at 12, so John 8:12–59, rendered, waits on the first choice below; it is logged in `NOTES_FOR_ANDREW.md`. The Mark 15–16 report said this passage was double-bracketed in the edition; that was wrong, and its line now says so. The style is carried on from John 3–6.
+
+**Form kept:**
+- *Amēn amēn* as *Truly, truly* (10:1, 7).
+- *Egō eimi* with a name stays *I am* (9:5; 10:7, 9, 11, 14; 11:25). On the healed man's lips *Egō eimi* is *I am the man* (9:9).
+- No sentence starts with *And*; *ide* and *idou* cut (7:26; 11:3, 36). One *And* start caught by the checker in 9:34 is now *Then*.
+- *Kyrie* from the healed man before he knows who Jesus is: *sir* (9:36); after, *Lord* (9:38). From Martha and Mary: *Lord* (11:3, 21, 27, 32, 34, 39).
+- *The Lord* for Jesus in the telling (11:2).
+- *Siloam (which is translated Sent)*, John's own gloss kept, as 1:38, 41–42.
+- Fixed terms: *Messiah* for *christos* (7:26–27, 31, 41–42; 9:22; 10:24; 11:27); *Spirit* capital (7:39).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:7, 17:10; Exodus 13:21, 20:5, 33:11; Leviticus 12:3, 23:34, 23:36, 24:16; Numbers 27:17; Deuteronomy 1:16, 6:4, 13:10; Joshua 7:19, 19:13; 2 Samuel 7:12; 2 Kings 5:10, 14:25; 2 Chronicles 30:17; Psalm 23:1, 30 (title, and the Greek, 29), 51:5, 82:6 (and the Greek, 81:6), 146:8; Proverbs 4:19; Isaiah 8:6 (and the Greek), 9:1, 12:3, 26:19, 35:5, 40:11, 56:8, 58:11; Jeremiah 23:1; Ezekiel 34:2, 34:23, 37:12, 37:22, 47:1; Daniel 12:2; Micah 5:2; Zechariah 14:8; Mark 1:43; Luke 3:2, 10:38–39, 16:20.
+
+**Checked against the sources:**
+- SBLGNT: John 7:1–52, 9:1–11:57; John 8:12–59 (held); John 12:42, 16:2, 20:7, 20:31; Mark 1:43.
+- Swete: Psalm 29:1, 81:6; Isaiah 8:6.
+
+**The checker** found 1 error (9:34 *And*, fixed) and 4 CHECKs. One was fixed (11:30 *come into the village* is now *entered*). Two stand: 9:39 *came into this world* and 11:27 *coming into the world*, the book's set phrase, as 1:9.
+
+**What these chapters are:**
+- **7:** at the Festival of Booths Jesus goes up to Jerusalem in secret, then teaches openly in the temple; the crowd argues whether He is the Messiah, since they know where He is from. On the last day of the feast He cries out, *If anyone is thirsty, let him come to Me and drink*. The officers sent to arrest Him come back: *No man ever spoke like this!*
+- **9:** Jesus makes mud, puts it on the eyes of a man born blind, and sends him to wash in Siloam; he comes back seeing. The Pharisees question him and his parents, and throw him out; Jesus finds him, and he believes and worships. *Those who see may become blind*.
+- **10:** *I am the door… I am the good shepherd*, who lays down His life for the sheep and has other sheep to bring in, *one flock, one shepherd*. At the Feast of Dedication: *I and the Father are one*; they pick up stones, and He goes back across the Jordan.
+- **11:** Lazarus of Bethany dies; Jesus waits two days, then comes. To Martha: *I am the resurrection and the life*. He weeps at the tomb and calls, *Lazarus, come out!* The council resolves to kill Him; Caiaphas says one man should die for the people.
+
+### John 7: Rivers of Living Water
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hē skēnopēgia* "the tent-pitching" | the Festival of Booths (note) |
+| 6 | *ho kairos ho emos* "My time / season" | My time (note) |
+| 15 | *grammata oiden* "knows letters" | know letters (note) |
+| 23 | *holon anthrōpon* "a whole man" | a whole man (note) |
+| 24 | *kat' opsin* "by sight" | by appearances |
+| 35 | *tēn diasporan tōn Hellēnōn* "the scattering of the Greeks" | the Dispersion among the Greeks (note) |
+| 38 | *ek tēs koilias autou* "out of his belly" | Out of his belly (note; choice below) |
+| 39 | *oupō gar ēn pneuma* "for the Spirit was not yet" | the Spirit was not yet given (note) |
+
+### John 9: The Man Born Blind
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ek genetēs* "from birth" | from birth |
+| 9 | *Egō eimi* "I am" | I am the man (note) |
+| 21 | *hēlikian echei* "he has age" | he is of age (note) |
+| 22 | *aposynagōgos genētai* "become out-of-synagogue" | be put out of the synagogue (note) |
+| 24 | *Dos doxan tō theō* "give glory to God" | Give glory to God (note) |
+| 31 | *theosebēs* "God-revering" | devout |
+| 34 | *exebalon auton exō* "they threw him outside" | they threw him out |
+
+### John 10: The Good Shepherd
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *paroimian* "proverb" | figure of speech (note) |
+| 10 | *perisson echōsin* "have more than enough" | have it in abundance |
+| 11 | *ho poimēn ho kalos* "the shepherd, the fine one" | the good shepherd (note) |
+| 11 | *tēn psychēn autou tithēsin* "places His soul" | lays down His life (note) |
+| 24 | *tēn psychēn hēmōn aireis* "you lift our soul" | will You keep us in suspense (note) |
+| 29 | *ho dedōken moi* "what He has given Me" | who has given them to Me (note) |
+| 30 | *hen esmen* "we are one thing" | are one (note) |
+
+### John 11: I Am the Resurrection
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ouk estin pros thanaton* "is not toward death" | does not lead to death |
+| 11 | *kekoimētai* "has fallen asleep" | has fallen asleep (note) |
+| 13 | *peri tēs koimēseōs tou hypnou* "about the resting of sleep" | of the rest of sleep |
+| 33 | *enebrimēsato tō pneumati kai etaraxen heauton* "snorted in spirit and troubled Himself" | was deeply moved in spirit and greatly troubled (note) |
+| 39 | *tetartaios gar estin* "for he is a fourth-day one" | for he has been dead four days |
+| 43 | *deuro exō* "here, outside" | come out (note) |
+| 48 | *ton topon* "the place" | our place (note) |
+
+**Choices for you:**
+- **John 7:53–8:11, the woman caught in adultery** (John only, but it decides whether John 8 can be rendered)
+  - (a) **Add a Greek text of the passage to `sources/` and render it under its own heading, as Mark 16** (not now): the reader has the passage most church Bibles print, and a note says the SBL edition leaves it out. A session outside the render cycle would add the source (for example the Byzantine Greek text, which prints it) and note it in `SOURCES.md`.
+  - (b) **Leave it out, and let the checker accept a chapter that begins at 12** (not now): only the edition's text is rendered; John 8 begins at v12 with a note. This is a change to `check_chapters.py`, also outside a render cycle.
+  - (c) **Hold John 8** (now): it waits, rendered, until (a) or (b) is settled.
+  - Recommend (a): the passage is in the received text most readers know, it would be rendered from a printed Greek source and marked as such, and nothing would be invented.
+- **7:37–38, where the sentence breaks**
+  - (a) **"If anyone is thirsty, let him come to Me and drink. Whoever believes in Me, as the Scripture has said, 'Out of his belly will flow rivers of living water'"** (now): the rivers flow from the believer.
+  - (b) **"If anyone is thirsty, let him come to Me; and let him drink who believes in Me. As the Scripture has said, 'Out of His belly will flow rivers of living water'"**: the rivers flow from Christ, as water flowed from His side (19:34).
+  - Recommend (a): it is how the edition punctuates the verse; the note gives (b).
+
 ## John 3–6 — rendered 2026-11-03, 6:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It has no 5:4, and the note says so; it prints *ēdē*, **already**, at the end of 4:35, and the English begins 4:36 with it, as the edition's punctuation does; the note says so. The style is carried on from John 1–2. Where John's Greek is the same as Mark's, Mark's English is reused (5:8 *Get up, pick up your mat, and walk*, as Mark 2:9; 6:7 *two hundred denarii worth of bread*; 6:20 *I am the One. Do not be afraid*, as Mark 6:50 and Matthew 14:27).
