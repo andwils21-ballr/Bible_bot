@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 12–15 — rendered 2026-11-04, 1:42 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; it marks 13:10 *needs only to wash his feet* as a place where manuscripts differ, and the note says so. John 8 is still held (see the John 7, 9–11 report). The style is carried on from John 9–11. Where John's Greek is the same as Mark's, Mark's English is reused (12:3 *pure nard, very costly*; 12:5 *three hundred denarii*; 12:8 *you always have the poor with you, but you do not always have Me*; 12:13 *Hosanna! Blessed is the one who comes in the name of the Lord*).
+
+**Form kept:**
+- *Amēn amēn* as *Truly, truly* (12:24; 13:16, 20, 21, 38; 14:12).
+- *Hoti egō eimi* as *that I am He* (13:19), as Isaiah 43:10; *I am* with a name stays *I am* (14:6; 15:1, 5).
+- *Paraklētos* as *Advocate* (14:16, 26; 15:26): choice below.
+- *Pneuma*, neuter in Greek, takes *whom* and *Him* (14:17), as John's own *ekeinos*, **He** (14:26; 15:26); the note says so.
+- No sentence starts with *And*; *idou* and *ide* cut (12:15, 19). 12:32 *kagō*, **and I**, is folded into the sentence.
+- Quotations: 12:38 follows the Greek of Isaiah 53:1 word for word, *Lord* included; 12:40 is John's own wording of Isaiah 6:10; 13:18 is Psalm 41:9 in this project's English, without *in whom I trusted*; 15:25 is Psalm 35:19 and 69:4, *without cause*.
+- Fixed terms: *angel* (12:29); *Satan* (13:27); *the devil* (13:2); *the Holy Spirit* (14:26).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 18:4; Exodus 12:3, 29:45, 33:11, 33:18, 33:20; Leviticus 19:18; Numbers 6:26; Deuteronomy 7:6; 1 Samuel 25:41; 2 Chronicles 20:7; Psalm 6:3, 35:19, 41:9 (and the Greek, 40:10), 69:4, 80:8, 89:36, 118:25–26; Isaiah 5:7, 6:1, 6:10 (and the Greek), 41:8, 43:10, 52:13 (and the Greek), 53:1 (and the Greek); Jeremiah 2:21; Ezekiel 15:4, 36:27, 37:27; Zephaniah 3:16; Zechariah 9:9; Matthew 10:24, 10:40; Mark 14:3, 14:8, 14:18–21, 14:30, 14:34; Luke 6:16, 12:37, 14:26, 22:34.
+
+**Checked against the sources:**
+- SBLGNT: John 12:1–15:27; John 19:30; 1 John 2:1.
+- Swete: Psalm 40:10; Isaiah 6:10, 52:13, 53:1.
+
+**The checker** found 1 error (a note heading that quoted *I chose you* read as process talk, rephrased) and 0 CHECKs.
+
+**What these chapters are:**
+- **12:** at Bethany Mary anoints Jesus' feet with nard, and Judas objects. Crowds with palm branches greet Him as *the King of Israel*, and He rides a donkey's colt. Greeks ask to see Him: *the hour has come*; a grain of wheat must die to bear fruit; a voice from heaven answers Him. Isaiah's words are fulfilled in those who will not believe.
+- **13:** at supper Jesus washes the disciples' feet and tells them to do the same. He foretells that one of them will hand Him over, gives Judas the piece of bread, and Judas goes out into the night. *A new commandment: love one another*. Peter will deny Him three times.
+- **14:** *In My Father's house are many dwelling places*. *I am the way, and the truth, and the life*; whoever has seen Him has seen the Father. He promises *another Advocate*, the Spirit of truth, and leaves them His peace.
+- **15:** *I am the true vine*; remain in Me and bear fruit. *Greater love has no one than this*; *I have called you friends*. The world will hate them as it hated Him, and the Advocate will bear witness.
+
+### John 12: The Hour Has Come
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *litran myrou nardou pistikēs polytimou* "a litra of ointment of genuine nard, very precious" | a pound of perfume, pure nard, very costly (note) |
+| 6 | *ebastazen* "was carrying" | used to take (note) |
+| 7 | *hina… tērēsē auto* "so that she may keep it" | she was to keep it (note) |
+| 13 | *ta baia tōn phoinikōn* "the fronds of the date palms" | branches of palm trees (note) |
+| 19 | *ho kosmos opisō autou apēlthen* "the world has gone away after Him" | the world has gone after Him |
+| 27 | *Sōson me ek tēs hōras tautēs* "save Me out of this hour" | 'Father, save Me from this hour'? (note) |
+| 31 | *ekblēthēsetai exō* "will be thrown outside" | will be driven out |
+| 43 | *tēn doxan tōn anthrōpōn* "the glory of men" | the glory that comes from men (note) |
+
+### John 13: He Washes Their Feet
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *eis telos ēgapēsen* "loved to the end / utmost" | loved them to the end (note) |
+| 2 | *beblēkotos eis tēn kardian* "having thrown into the heart" | had already put it into the heart |
+| 4 | *tithēsin ta himatia* "places His garments" | laid aside His outer garments (note) |
+| 8 | *ouk echeis meros met' emou* "you have no part with Me" | you have no share with Me (note) |
+| 18 | *epēren… tēn pternan* "lifted the heel" | has lifted up his heel |
+| 23 | *en tō kolpō* "in the bosom" | at Jesus' side (note) |
+| 27 | *poiēson tachion* "do more quickly" | do quickly |
+
+### John 14: The Way, the Truth and the Life
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pisteuete* "you believe / believe!" | Believe (note) |
+| 2 | *monai pollai* "many abodes" | many dwelling places (note) |
+| 2 | *ei de mē, eipon an hymin hoti* "if not, I would have told you that / for" | If it were not so, I would have told you; for (note; choice below) |
+| 16 | *allon paraklēton* "another one called alongside" | another Advocate (note; choice below) |
+| 18 | *orphanous* "orphans" | orphans (note) |
+| 22 | *ti gegonen hoti* "what has happened that" | how is it that |
+| 30 | *en emoi ouk echei ouden* "in Me he has nothing" | He has no claim on Me (note) |
+
+### John 15: The True Vine
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ho geōrgos* "the earth-worker" | the vinedresser |
+| 2 | *airei… kathairei* "takes away… cleans" | takes away… prunes (note) |
+| 8 | *genēsthe emoi mathētai* "become disciples to Me" | prove to be My disciples (note) |
+| 16 | *ethēka hymas* "I placed you" | appointed you (note) |
+| 22 | *prophasin ouk echousin* "they have no pretext" | they have no excuse (note) |
+| 25 | *dōrean* "as a gift" | without cause (note) |
+
+**Choices for you:**
+- **John 14:16, 26; 15:26; 16:7, and 1 John 2:1, *paraklētos*** (widespread: John, 1 John, and the Didascalia, whose 1:1 already has *the Paraclete*)
+  - (a) **Advocate** (now): *one called to stand beside*, in court a pleader; it fits 1 John 2:1, where Jesus is the *paraklētos* before the Father, and *another* Advocate here.
+  - (b) **Helper**: the Spirit's work of teaching and reminding (14:26), a plainer word.
+  - (c) **Comforter**: the King James word; it carries *strengthener* in old English, but today reads as *consoler*.
+  - (d) **Paraclete**: the Greek word kept, as the Didascalia has it, with the meaning in a note.
+  - Recommend (a): it is the word's own sense, it serves John and 1 John alike, and it keeps the link the Greek makes between Jesus and *another* who stands beside them; the Didascalia's *Paraclete* would then be made the same in a later pass, if Andrew agrees.
+- **14:2, *ei de mē, eipon an hymin hoti poreuomai hetoimasai topon hymin***
+  - (a) **If it were not so, I would have told you; for I am going to prepare a place for you** (now): *hoti* as *for*, giving the reason.
+  - (b) **If it were not so, would I have told you that I am going to prepare a place for you?**: a question, reminding them of what He has said.
+  - Recommend (a): the edition prints no question mark, and v3 goes on, *If I go and prepare a place*; the note gives (b).
+
 ## John 7, 9–11 — rendered 2026-11-03, 11:44 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. **John 8 is held back**: the edition goes from 7:52 straight to 8:12, with no 7:53–8:11 (the woman caught in adultery), not even in brackets, and no other Greek or Ethiopic text of John is in `sources/`. The checker will not pass a chapter whose verses begin at 12, so John 8:12–59, rendered, waits on the first choice below; it is logged in `NOTES_FOR_ANDREW.md`. The Mark 15–16 report said this passage was double-bracketed in the edition; that was wrong, and its line now says so. The style is carried on from John 3–6.
