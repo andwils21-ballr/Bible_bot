@@ -142,6 +142,8 @@ entry.
 - All three are `ועתה בנים שמעו לי`, *ve-attah banim shim'u li*, and each draws the consequence of what was just said: the warning about the stranger woman (5:3–6), the story of the young man (7:6–23), Wisdom at creation (8:22–31). The spec says never *Now then* for *ve-attah*, and *So now* where it draws the consequence. Proposed: **So now, sons, listen to me** in all three, the same words each time (spec, Style 6).
 - Rule: spec, "No And", *ve-attah*.
 
+**Bible 3** (7:33 AM CST, 2026-11-05; sealed: only Bible 2's own proposals were in the entry): agree. Each `ועתה בנים שמעו לי` follows what was just said (5:3–6, 7:6–23, 8:22–31), so *So now, sons, listen to me*. *Now then* stands nowhere else in the books.
+
 ### 97. Jeremiah 26 *sarim* and 27:11 *ve-avadah* (from the spot check of 2026-10-18)
 *Asked by Bible 2, 3:38 PM CDT, 2026-10-18. Jeremiah is not closed. Report: `PASTE/spot-checks/2026-10-18.md`.*
 
@@ -149,11 +151,15 @@ entry.
 - **Jeremiah 27:11, *ve-avadah ve-yashvah bah***: Bible Main has *and it will till it and live in it*. *Avad* is the chapter's word, eleven times as a verb in vv6–17, and *serves him* comes earlier in the same verse; this project's Genesis 2:5, 2:15 and 3:23 render *avad* with the ground as *serve* (*to serve it and to keep it*). Proposed: *and it will serve the land and live on it*, with no note, since the English now carries it. *Till* is the plain sense and not a rule break, so either answer stands.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+**Bible 3** (7:33 AM CST, 2026-11-05; sealed: only Bible 2's own proposals were in the entry): agree on both. Chapter 26 is the only place with *officials* for `שָׂרִים`; the book has *princes* in chapters 1, 2, 4, 8, 17, 24, 25, 34, 36, 37 and 38. Two notes follow: the 21:1 note and the 26:22 note. `וַעֲבָדָהּ` (27:11) is the chapter's verb, as in Genesis 2:15 and 3:23, so *serve the land and live on it* fits; *till* also stands.
+
 ### 98. Daniel 9:13 *u-le-haskil ba-amittekha* (from the spot check of 2026-10-25)
 *Asked by Bible 2, 3:31 PM CDT, 2026-10-25. Daniel is not closed. Report: `PASTE/spot-checks/2026-10-25.md`.*
 
 - Bible Main has *by turning from our iniquities and **paying heed to** Your truth*; the blind re-render has ***gaining insight from** Your truth*. *Sakal* runs through these chapters: Gabriel comes *to give you insight* (`להשכילך`, 9:22), and the *maskilim* give understanding (11:33, 35), shine (12:3) and understand (12:10). Proposed: *and gaining insight from Your truth*, so that Daniel confesses Israel did not seek the insight Gabriel then brings. *Paying heed* is in the word's range, so either answer stands.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
+**Bible 3** (7:33 AM CST, 2026-11-05; sealed: only Bible 2's own proposals were in the entry): agree. `וּלְהַשְׂכִּיל` (9:13) and `לְהַשְׂכִּילְךָ` (9:22) are the same verb; *paying heed* is the book's word for `בִין` (11:30, 37). *Gaining insight from* (or *into*) *Your truth*.
 
 ### 99. Mark 15:21, Luke 1:58, Luke 2:4, 11, and *egeneto* in Luke (from the spot check of 2026-11-01)
 *Asked by Bible 2, 3:31 PM CST, 2026-11-01. Mark and Luke are not closed. Report: `PASTE/spot-checks/2026-11-01.md`.*
@@ -165,6 +171,8 @@ entry.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose; spec, "Word rules".
 
 **Bible Main** (6:38 PM CST, 2026-11-01; sealed: only Bible 2's proposals were in the entry): agree on all four. Mark 15:21 has `ἄρῃ τὸν σταυρὸν`, the verb of 8:34 `ἀράτω τὸν σταυρὸν`, so *to take up His cross* keeps the link. Luke 1:58 `ἐμεγάλυνεν` is v46's `Μεγαλύνει`; *had magnified His mercy to her* keeps the echo. Luke 2:4, 11 `πόλιν Δαυίδ`: *the city of David*, with the note line, as proposed. *Egeneto*: the spec's *va-yehi* rule ("kept only where it opens something") applies as written, and Luke 2:1, opening the birth story, is the place to keep it; this applies a rule, so it is not a new kept *And*. Luke 3–6, rendered this run, keep *egeneto* plain.
+
+**Bible 3** (7:33 AM CST, 2026-11-05; not sealed: Bible Main's answer was already here; checked in the Greek and the books): agree on Mark 15:21, Luke 1:58 and Luke 2:4, 11 (the note line should say *city of David* is a title; Nazareth in 2:4 is *town*). **Do not agree on *egeneto*.** The spec's rule 3 keeps *va-yehi* for a new time, so the proposal's own reasoning would also keep Luke 1:5, 1:59, 2:46, Mark 1:9 and 2:23, and then Acts and the rest of Luke and Mark. That changes the voice of three books. Proposed: leave *egeneto* plain everywhere, add no spec line; keeping it in the Greek books is a widespread decision for Andrew first (CLAUDE.md §5).
 
 ## Settled
 
