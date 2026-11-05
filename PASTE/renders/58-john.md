@@ -2,6 +2,86 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 16–19 — rendered 2026-11-04, 6:42 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. John 8 is still held (see the John 7, 9–11 report). The style is carried on from John 12–15. Where John's Greek is the same as Mark's, Mark's English is reused (19:2–3 *twisted together a crown of thorns… Hail, King of the Jews!*; 19:17 *the Place of a Skull… Golgotha*; 18:10 *struck the high priest's slave*; 18:28 *the governor's headquarters*; 18:37 *You say*).
+
+**Form kept:**
+- *Amēn amēn* as *Truly, truly* (16:20, 23).
+- *Paraklētos* as *Advocate* (16:7), as raised in the John 12–15 report.
+- *Egō eimi* in the garden is *I am He* (18:5, 6, 8), as 8:24, 28 and 13:19; Peter's *Ouk eimi* is *I am not* (18:17, 25).
+- *Idou* and *ide* kept as *Here is* where Pilate and Jesus present someone (19:5, 14, 26, 27): *Here is the man!*, *Here is your King!*, *Woman, here is your son*. Cutting them loses the act of showing. Cut elsewhere (16:29, 32; 18:21; 19:4 *See*, kept as Pilate's word to the crowd).
+- 19:24 is the Greek of Psalm 22:18 word for word, past tense, *They divided*; 19:37 is Zechariah 12:10 with *Him* for *Me*, as John has it.
+- The edition's 19:16 holds two sentences, *he handed Him over… So they took Jesus*; both are kept in v16, and the heading follows.
+- *The Spirit of truth* (16:13), as 14:17 and 15:26.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 22:6; Exodus 3:15, 12:6, 12:22, 12:46, 28:32; Leviticus 24:16; Numbers 9:12; Deuteronomy 6:4, 19:15, 21:23; 1 Samuel 8:7; 2 Samuel 15:23; 2 Chronicles 16:14; Psalm 22:18 (and the Greek, 21:19), 34:20 (and the Greek, 33:21), 69:21; Isaiah 26:17, 66:7, 66:14 (and the Greek); Daniel 7:14; Zechariah 12:10, 13:7; Matthew 6:13, 25:34; Mark 11:17, 14:27, 14:32, 14:36, 14:47, 15:2, 15:15–25, 15:43; Luke 3:2, 11:9, 22:50, 23:4.
+
+**Checked against the sources:**
+- SBLGNT: John 16:1–19:42; John 21:9.
+- Swete: Exodus 12:46; Psalm 21:19, 33:21; Isaiah 66:14.
+
+**The checker** found 1 error (19:37 *And again*, now *Again*) and 3 CHECKs. One was fixed (a note's *this project's Psalm* now names the Hebrew). Two stand: 16:28 *have come into the world* and 18:37 *have come into the world*, the book's set phrase, as 1:9.
+
+**What these chapters are:**
+- **16:** they will be put out of the synagogues; it is better that Jesus goes, for then the Advocate will come and convict the world and guide them into all truth. *A little while, and you will see Me no longer*: their sorrow will turn into joy, as a woman's in childbirth. *Take heart, I have overcome the world*.
+- **17:** Jesus prays: *Father, the hour has come; glorify Your Son*. He prays for the disciples, that the Father keep them and make them holy in the truth, and for all who will believe through them, *that they may all be one*.
+- **18:** in a garden across the Kidron, soldiers come for Jesus; *I am He*, and they fall back. Peter cuts off Malchus's ear. Before Annas, Jesus is struck; Peter denies Him three times by the fire. Before Pilate: *My kingdom is not of this world*. *What is truth?* The crowd asks for Barabbas.
+- **19:** Jesus is flogged and crowned with thorns; *Here is the man!* Pilate hands Him over. He carries His own cross to Golgotha, is crucified as *the King of the Jews* in three languages, gives His mother to the beloved disciple, says *It is finished*, and gives up His spirit. His side is pierced; Joseph and Nicodemus bury Him in a new tomb in a garden.
+
+### John 16: Your Grief Will Turn to Joy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *latreian prospherein* "to offer worship-service" | is offering service to God (note) |
+| 7 | *sympherei hymin* "it bears together for you" | it is to your advantage (note) |
+| 8 | *elenxei* "will expose / convict" | will convict (note) |
+| 13 | *hodēgēsei hymas en tē alētheia pasē* "will lead you on the way in all the truth" | will guide you into all the truth (note) |
+| 21 | *tēs thlipseōs* "the pressing" | the anguish |
+| 33 | *nenikēka* "I have conquered" | I have overcome (note) |
+
+### John 17: That They May Be One
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *exousian pasēs sarkos* "authority of all flesh" | authority over all flesh (note) |
+| 2 | *pan ho dedōkas auto* "all that You have given Him" | all whom You have given Him (note) |
+| 12 | *ho huios tēs apōleias* "the son of the destruction" | the son of destruction (note) |
+| 15 | *ek tou ponērou* "out of the evil (one)" | from the evil one (note; choice below) |
+| 17 | *hagiason* "make holy" | Sanctify (note) |
+| 23 | *teteleiōmenoi eis hen* "having been completed into one" | perfected into one (note) |
+
+### John 18: What Is Truth?
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *peran tou cheimarrou tou Kedrōn* "across the winter-torrent of the Kidron" | across the Kidron Valley (note) |
+| 3 | *tēn speiran* "the cohort" | the cohort (note) |
+| 6 | *apēlthon eis ta opisō* "went away to the back" | drew back |
+| 18 | *anthrakian* "a heap of coals" | a charcoal fire (note) |
+| 22 | *edōken rhapisma* "gave a slap" | struck… with his hand (note) |
+| 36 | *ouk estin ek tou kosmou toutou* "is not out of this world" | is not of this world (note) |
+
+### John 19: It Is Finished
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *Idou ho anthrōpos* "behold the man" | Here is the man! (note) |
+| 13 | *epi bēmatos* "on a platform" | on the judgment seat |
+| 17 | *bastazōn heautō* "carrying for Himself" | carrying… by Himself (note) |
+| 23 | *ek tōn anōthen hyphantos di' holou* "woven from the top throughout" | woven in one piece from the top all the way down |
+| 27 | *eis ta idia* "into his own things" | into his own home (note) |
+| 30 | *paredōken to pneuma* "handed over the spirit" | gave up His spirit (note) |
+| 39 | *hōs litras hekaton* "about a hundred litrai" | about a hundred pounds |
+
+**Choices for you:**
+- **17:15, *hina tērēsēs autous ek tou ponērou***
+  - (a) **that You keep them from the evil one** (now): *ponērou* as masculine, the devil, *the ruler of this world* of 12:31, 14:30 and 16:11.
+  - (b) **that You keep them from evil**: *ponērou* as neuter, evil itself, as the Lord's Prayer in Matthew 6:13 has it in this project, *deliver us from evil*.
+  - Recommend (a): John speaks of *the ruler of this world* three times in these chapters; the note gives (b), and Matthew 6:13 stays as it is, since that line keeps the prayer's received form.
+
 ## John 12–15 — rendered 2026-11-04, 1:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; it marks 13:10 *needs only to wash his feet* as a place where manuscripts differ, and the note says so. John 8 is still held (see the John 7, 9–11 report). The style is carried on from John 9–11. Where John's Greek is the same as Mark's, Mark's English is reused (12:3 *pure nard, very costly*; 12:5 *three hundred denarii*; 12:8 *you always have the poor with you, but you do not always have Me*; 12:13 *Hosanna! Blessed is the one who comes in the name of the Lord*).
