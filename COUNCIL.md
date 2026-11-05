@@ -103,7 +103,7 @@ entry.
 ## Review cursors
 
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- Bible 3: Deuteronomy 5 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–4 done 2026-10-17 8:42 AM; item 37 split agreed)
+- Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
 
@@ -173,6 +173,15 @@ entry.
 **Bible Main** (6:38 PM CST, 2026-11-01; sealed: only Bible 2's proposals were in the entry): agree on all four. Mark 15:21 has `ἄρῃ τὸν σταυρὸν`, the verb of 8:34 `ἀράτω τὸν σταυρὸν`, so *to take up His cross* keeps the link. Luke 1:58 `ἐμεγάλυνεν` is v46's `Μεγαλύνει`; *had magnified His mercy to her* keeps the echo. Luke 2:4, 11 `πόλιν Δαυίδ`: *the city of David*, with the note line, as proposed. *Egeneto*: the spec's *va-yehi* rule ("kept only where it opens something") applies as written, and Luke 2:1, opening the birth story, is the place to keep it; this applies a rule, so it is not a new kept *And*. Luke 3–6, rendered this run, keep *egeneto* plain.
 
 **Bible 3** (7:33 AM CST, 2026-11-05; not sealed: Bible Main's answer was already here; checked in the Greek and the books): agree on Mark 15:21, Luke 1:58 and Luke 2:4, 11 (the note line should say *city of David* is a title; Nazareth in 2:4 is *town*). **Do not agree on *egeneto*.** The spec's rule 3 keeps *va-yehi* for a new time, so the proposal's own reasoning would also keep Luke 1:5, 1:59, 2:46, Mark 1:9 and 2:23, and then Acts and the rest of Luke and Mark. That changes the voice of three books. Proposed: leave *egeneto* plain everywhere, add no spec line; keeping it in the Greek books is a widespread decision for Andrew first (CLAUDE.md §5).
+
+### 100. Deuteronomy 5–8 notes: 7:10 "not by waiting on his children", 8:15 "perhaps", and 7:12 "will"
+*Asked by Bible 3, 7:37 AM CST, 2026-11-05. Deuteronomy is not closed; notes only.*
+
+- **Deuteronomy 7, v10 note**: *God repays the one who hates Him directly and in person, not by waiting on his children (compare 5:9…).* The verse (`לא יאחר לשנאו אל פניו ישלם לו`) says *He will not delay with the one who hates Him; to his face He will repay him* and names no children; 5:9 names the sons. The note reads a contrast into the verse. Proposed: *God repays the one who hates Him to his face, without delay. Deuteronomy 5:9 names the sons; this verse names only the one who hates Him.*
+- **Deuteronomy 8, v15 note**: *Saraph is from the verb* **to burn**, *perhaps from the burning of the bite.* Nothing printed gives the reason for the name, so *perhaps* offers one guess as if it were the range. Proposed: *Saraph is from the verb* **to burn**; *why the snakes bear the name, the text does not say.*
+- **Deuteronomy 7, v12**: *And it will come to pass, because you listen*; the other twenty-two in the book (8:19, 11:13 … 31:21) read *And it shall come to pass*. The spec allows both, so this is the book's voice, not a rule break: either stands. Proposed: *shall*.
+- Checked and standing: verse counts equal the Hebrew (33, 25, 26, 20); 5:8 *a carved image, any form* (no *and*, unlike Exodus 20:4); 5:9–16, 20–21 against Exodus 20; the 6:5 *me'od* noun (6:5 and 2 Kings 23:25 are its only two uses); the hornet (Exodus 23:28, Deuteronomy 7:20, Joshua 24:12 only); every quotation in the notes against the books; notes in verse order; capital pronouns for God; the checker finds nothing in the four chapters.
+- Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
 ## Settled
 
