@@ -85,7 +85,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **3:13, 26; 4:25, 27, 30, *pais* (Jesus, David)**
   - (a) **servant** (now): the Greek of Isaiah's servant songs, *ho pais mou*, *My servant* (Isaiah 52:13), whom Acts 3:13 echoes; David is *Your servant* (4:25) in the same prayer that calls Jesus *Your holy servant* (4:27).
   - (b) **child**, **son**: *pais* is also a child, and the King James has *thy holy child Jesus*.
-  - Recommend (a): Peter's words follow Isaiah 52:13 in Greek, and the same word for David in 4:25 can only be *servant*; the note gives the link.
+  - Recommend (a): Peter's words follow Isaiah 52:13 in Greek, and the same word is used for David in the same prayer (4:25); the note gives the link.
 ## Acts 1–2 — rendered 2026-11-04, 11:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. Acts is Luke's second book (1:1), so its style is carried on from Luke 23–24: plain narrative, *Egeneto* plain, and Luke's English reused where the Greek is the same (1:5 *baptized with the Holy Spirit*, as Luke 3:16; 1:4 *the promise of the Father*, as Luke 24:49; 2:34–35, Psalm 110:1 as Luke 20:42–43).
