@@ -2,6 +2,67 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 20–21 — rendered 2026-11-04, 11:42 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; it marks 20:31 *you may believe* as a place where manuscripts differ, and the note says so. **John is complete except chapter 8**, which is held (see the John 7, 9–11 report). The style is carried on from John 16–19.
+
+**Form kept:**
+- *Amēn amēn* as *Truly, truly* (21:18).
+- *Rabbouni* (20:16), spelled as Mark 10:51, with John's gloss *(which means Teacher)*.
+- *Kyrie* from Mary, who takes Jesus for the gardener, is *Sir* (20:15); elsewhere *Lord*.
+- *Eirēnē hymin* as *Peace be with you* (20:19, 21, 26).
+- *Agapaō* and *phileō* in 21:15–17 are both *love*: choice below.
+- No sentence starts with *And*; *idou* not in these chapters.
+- Fixed terms: *angels* (20:12); *the Holy Spirit* (20:22); *Messiah* for *christos* (20:31).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:7 (and the Greek); Ruth 1:16; Psalm 35:23 (and the Greek, 34:23); Song of Songs 3:1, 3:4; Ezekiel 37:9, 47:10; Matthew 16:19, 18:18; Mark 10:51, 16:2; Luke 5:5, 5:6, 24:12.
+
+**Checked against the sources:**
+- SBLGNT: John 20:1–21:25.
+- Swete: Genesis 2:7; Psalm 34:23.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **20:** on the first day of the week Mary Magdalene finds the tomb empty; Peter and the beloved disciple run there, and the beloved disciple sees and believes. Jesus meets Mary in the garden and calls her by name. That evening He comes to the disciples behind locked doors, breathes on them, *Receive the Holy Spirit*. Eight days later Thomas sees Him and says, *My Lord and my God!* The book is written *so that you may believe*.
+- **21:** at the Sea of Tiberias the disciples fish all night for nothing; at dawn a man on the shore tells them where to cast, and the net fills with a hundred and fifty-three fish. Jesus gives them breakfast at a charcoal fire. Three times He asks Peter, *Do you love Me?*, and tells him to feed His sheep, and foretells his death. The beloved disciple is the one who wrote these things.
+
+### John 20: My Lord and My God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *skotias eti ousēs* "darkness still being" | while it was still dark (note) |
+| 7 | *entetyligmenon eis hena topon* "rolled up into one place" | rolled up in a place by itself |
+| 17 | *Mē mou haptou* "do not be touching Me" | Do not hold on to Me (note; choice below) |
+| 22 | *enephysēsen* "He breathed in" | He breathed on them (note) |
+| 23 | *kratēte… kekratēntai* "you hold fast… they have been held fast" | you hold them fast, they are held fast (note) |
+| 25 | *ton typon tōn hēlōn* "the print of the nails" | the mark of the nails (note) |
+| 27 | *mē ginou apistos alla pistos* "do not become unfaithful but faithful" | Do not be unbelieving, but believing |
+
+### John 21: Feed My Sheep
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *mē ti prosphagion echete* "you have no relish, have you?" | you have no fish, have you? |
+| 7 | *ēn gar gymnos* "for he was naked" | for he was stripped for work (note) |
+| 8 | *hōs apo pēchōn diakosiōn* "about two hundred cubits off" | only about two hundred cubits off |
+| 15 | *agapas me… philō se* "do you love Me… I love You" | do you love Me… I love You (note; choice below) |
+| 16 | *Poimaine* "shepherd" | Shepherd (note) |
+| 18 | *ezōnnyes seauton* "you girded yourself" | you used to fasten your belt |
+| 25 | *oimai* "I think" | I suppose |
+
+**Choices for you:**
+- **20:17, *Mē mou haptou***
+  - (a) **Do not hold on to Me** (now): the present tense of a thing already being done, *stop clinging*; she is holding Him, and He sends her to the brothers.
+  - (b) **Do not touch Me**: the King James *Touch me not*; then Jesus forbids even a touch, though He tells Thomas to touch Him (v27).
+  - Recommend (a): the tense, and v27, point to *stop holding*; the note says so.
+- **21:15–17, *agapaō* and *phileō***
+  - (a) **both as *love*** (now): Jesus asks with *agapaō* twice and *phileō* once, Peter answers *phileō* each time; the notes say which is which, and the English reads plainly. This book uses the two verbs for the same love elsewhere (the Father *agapa* the Son in 3:35 and *philei* Him in 5:20).
+  - (b) **two English words, *love* and *be fond of* / *love as a friend***: the reader sees the change in the English; but it puts a difference in the text that John's own usage does not keep.
+  - Recommend (a): John's use of the two verbs elsewhere does not show a difference, and the note gives the Greek words.
+
 ## John 16–19 — rendered 2026-11-04, 6:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. John 8 is still held (see the John 7, 9–11 report). The style is carried on from John 12–15. Where John's Greek is the same as Mark's, Mark's English is reused (19:2–3 *twisted together a crown of thorns… Hail, King of the Jews!*; 19:17 *the Place of a Skull… Golgotha*; 18:10 *struck the high priest's slave*; 18:28 *the governor's headquarters*; 18:37 *You say*).
