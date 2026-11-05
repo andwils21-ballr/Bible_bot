@@ -236,7 +236,7 @@ async function route(){
 }
 
 /* ---- read aloud -------------------------------------------------------- */
-const P={q:[],i:0,on:false,lock:null,tick:null,voices:[],tok:0};
+const P={q:[],i:0,on:false,lock:null,tick:null,voices:[],tok:0,retry:0,u:null};
 const el=id=>document.getElementById(id);
 const bar=el('player'), bPlay=el('pplay'), bStop=el('pstop'),
       bPrev=el('pprev'), bFwd=el('pfwd'),
@@ -282,18 +282,33 @@ function speakAt(n){
   if(v){ u.voice=v; u.lang=v.lang; }
   u.rate=parseFloat(selRate.value);
   const tok=++P.tok;                       // this utterance's ticket
-  u.onend  =()=>{ if(tok===P.tok) speakAt(n+1); };
-  u.onerror=()=>{ if(tok===P.tok) speakAt(n+1); };
+  let started=false;
+  u.onstart=()=>{ started=true; P.retry=0; };
+  // Safari and Chrome sometimes end or interrupt a new utterance at once when
+  // it follows a cancel(); that is not the verse finishing, so say it again
+  // instead of moving on (this was the skip to the verse after the one tapped)
+  const done=e=>{
+    if(tok!==P.tok) return;
+    const cut=e && (e.error==='interrupted' || e.error==='canceled');
+    if((!started || cut) && P.retry<2){
+      P.retry++; setTimeout(()=>{ if(tok===P.tok) speakAt(n); },250); return;
+    }
+    P.retry=0; speakAt(n+1);
+  };
+  u.onend=()=>done(); u.onerror=done;
+  P.u=u;                                   // keep it alive, or its events can be lost
   speechSynthesis.speak(u);
 }
 
 function play(){
   if(!P.q.length) return;
   P.on=true; bPlay.textContent='Pause'; wake(true);
-  // some browsers suspend long speech; nudging it keeps it alive
+  // desktop Chrome stops long speech after a while; nudging it keeps it alive.
+  // Not on iPhone or iPad, where the nudge itself can end the verse early
   clearInterval(P.tick);
-  P.tick=setInterval(()=>{ if(P.on && speechSynthesis.speaking && !speechSynthesis.paused)
-                             { speechSynthesis.pause(); speechSynthesis.resume(); } },9000);
+  if(!/iPhone|iPad|iPod|Macintosh/.test(navigator.userAgent) || /Chrome/.test(navigator.userAgent) && !/CriOS/.test(navigator.userAgent))
+    P.tick=setInterval(()=>{ if(P.on && speechSynthesis.speaking && !speechSynthesis.paused)
+                               { speechSynthesis.pause(); speechSynthesis.resume(); } },9000);
   speakAt(P.i);
 }
 
@@ -306,10 +321,12 @@ bStop.onclick=()=>{ P.i=0; stop(); };
 function jump(n){
   if(!P.q.length) return;
   n=Math.max(0,Math.min(n,P.q.length-1));
-  P.tok++;                                 // void the utterance we are killing
+  const tok=++P.tok;                       // void the utterance we are killing
   speechSynthesis.cancel();
-  P.i=n;
-  if(P.on) speakAt(n); else play();
+  P.i=n; P.retry=0;
+  // give the browser a moment to finish cancelling before the next verse,
+  // or it may swallow the new one too
+  setTimeout(()=>{ if(tok!==P.tok) return; if(P.on) speakAt(n); else play(); },150);
 }
 bPrev.onclick=()=>jump(P.i-1);
 bFwd .onclick=()=>jump(P.i+1);
