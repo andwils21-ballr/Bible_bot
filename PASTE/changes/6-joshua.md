@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Joshua 2:9, "terror of you has fallen on us" (2026-11-05)
+
+**Request:** Andrew: the wording in Joshua 2:9 is weird; fix it. Cause: *eimatkhem* is "your terror" in the Hebrew, a terror the Israelites cause, and *terror of you*, with no article, is a stiff English noun phrase. The fix says who causes it with a plain clause, and keeps *terror* (*eimah*, as Exodus 23:27) and *fallen* (the verb of Exodus 15:16, which the note points to).
+
+**Choices for you:** none; a wording fix with no change of meaning.
+
+| Where | Before | After |
+|---|---|---|
+| Joshua 2:9 | and that terror of you has fallen on us | and that terror has fallen on us because of you |
+| Joshua 2:9 (note) | **v9 "terror of you has fallen on us… | **v9 "terror has fallen on us because of you… |
+| Exodus 15, note vv14–16 (quotes Joshua 2:9) | *terror of you has **fallen** on us, and | *terror has **fallen** on us because of you, and |
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.

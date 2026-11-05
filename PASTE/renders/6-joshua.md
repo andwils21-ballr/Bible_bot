@@ -460,7 +460,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2, 3 | *lachpor* | to search out |
 | 6 | *pishtei ha-ets* | stalks of flax (noted) |
 | 9, 24 | *namogu* | melt (as Exodus 15:15, noted) |
-| 9 | *eimatkhem* | terror of you (as Exodus 15:16) |
+| 9 | *eimatkhem* | terror has fallen on us because of you (the fall of Exodus 15:16) |
 | 10 | *hecheramtem* | you devoted to destruction (fixed rendering) |
 | 12, 14 | *chesed*, *chesed ve-emet* | loyal love, loyal love and truth (as Exodus 34:6, noted) |
 | 14 | *nafshenu tachteikhem la-mut* | Our life for yours, to die |
