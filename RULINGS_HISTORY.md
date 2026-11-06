@@ -8,7 +8,7 @@ worded as it is, or when an older chapter predates a rule. Newest at the top.
   Joshua 2:14 and then asked for it to go from every book but Genesis wherever
   it does not carry a stretch of time of weight. The spec had kept every
   future *ve-hayah* in an instruction (rule of 2026-09-26 and 2026-10-07).
-  94 verses were cut the same day, 46 *in that day*-type openings kept; the
+  93 verses were cut the same day, 47 openings kept (46 *in that day*-type, and Exodus 4:16); the
   list is in `PASTE/changes/6-joshua.md`.
 - **2026-10-23, the map link.** Andrew asked for a map of the journey after
   Joshua 24, with links to it from notes between the Exodus and the end of
