@@ -2,6 +2,83 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 11–14 — rendered 2026-11-05, 11:40 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; it marks 11:20 *Hellenists* as a place where manuscripts differ, and the note says so. The style is carried on from Acts 7–10. This run follows Andrew's ruling of 2026-11-06 on the future *And it shall come to pass* (spec, "Its future forms"); no such formula falls in these chapters.
+
+**Form kept:**
+- No sentence starts with *And*.
+- *Idou* cut (11:11; 12:7; 13:11, 25, 46); *Look, you scoffers* (13:41) keeps *Ide*, since it is the verb of Habakkuk's command.
+- Peter's retelling (11:5–17) keeps the words of chapter 10 where the Greek is the same (*a great sheet… let down… by its four corners*; *Get up, Peter; kill and eat*; *By no means, Lord*; *What God has made clean, do not call common*).
+- Quotations: 13:22 joins Psalm 89:20 and 1 Samuel 13:14; 13:33 Psalm 2:7, with *Son* capitalized, as the Psalm is applied to Jesus; 13:34 Isaiah 55:3 in the words of its Greek; 13:35 Psalm 16:10 as 2:27; 13:41 Habakkuk 1:5 in the words of its Greek; 13:47 Isaiah 49:6 as Acts gives it.
+- *Saul, who is also called Paul* (13:9); *Paul* from there on.
+- Fixed terms: *angel of the Lord* (12:7, 23), *his angel* (12:15); *the Holy Spirit*; *the devil* (13:10).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 41:57; Exodus 6:6, 12:11, 20:11; Deuteronomy 1:31 (and the Greek), 7:1; 1 Samuel 13:14; 1 Kings 2:10; 2 Kings 19:35; Psalm 2:7, 34:7, 89:20 (and the Greek, 88:21), 107:14, 145:15; Isaiah 35:6, 49:6, 55:3 (and the Greek); Jeremiah 5:24, 10:10; Ezekiel 28:2; Daniel 6:22; Habakkuk 1:5 (and the Greek); Matthew 18:10; Mark 3:17; Luke 1:3, 2:32, 3:1, 3:4, 3:16, 9:5; John 1:20, 7:43.
+
+**Checked against the sources:**
+- SBLGNT: Acts 11:1–14:28; Acts 15:38, 26:24.
+- Swete: Deuteronomy 1:31; Psalm 88:21; Isaiah 55:3; Habakkuk 1:5.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **11:** in Jerusalem Peter answers those who object that he ate with the uncircumcised, telling of the sheet, the angel and the Spirit: *who was I to stand in God's way?* At Antioch the word is preached to Greeks, Barnabas brings Saul, and the disciples are first called *Christians*. Agabus foretells a famine, and they send relief to Judea.
+- **12:** Herod kills James and jails Peter; an angel wakes Peter, the chains fall, and the iron gate opens by itself. Rhoda leaves him knocking at the gate for joy. Herod, hailed as *a god*, is struck down by an angel and eaten by worms; *the word of God kept growing*.
+- **13:** the Spirit sets apart Barnabas and Saul. On Cyprus Paul blinds Elymas the magician, and the proconsul believes. At Antioch in Pisidia Paul preaches from Israel's history to David and Jesus, raised from the dead; when the Jews reject the word, *we are turning to the Gentiles*, *a light for the nations*.
+- **14:** at Iconium the city is divided. At Lystra Paul heals a man lame from birth, and the crowd hails Barnabas as Zeus and Paul as Hermes; Paul is stoned and left for dead, and gets up. They return through the cities, appoint elders, and report at Antioch that God *opened a door of faith to the Gentiles*.
+
+### Acts 11: Christians at Antioch
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *diekrinonto pros auton* "were judging against him" | took issue with him (note) |
+| 3 | *akrobystian echontas* "having foreskin" | uncircumcised men (note) |
+| 4 | *exetitheto… kathexēs* "set out… in order" | explained it to them in order (note) |
+| 17 | *tis ēmēn dynatos kōlysai ton theon* "who was I, able to hinder God?" | who was I to be able to stand in God's way? (note) |
+| 23 | *tē prothesei tēs kardias* "with the purpose of the heart" | with steadfast purpose of heart |
+| 26 | *chrēmatisai* "to be named" | were… called (note) |
+| 29 | *kathōs euporeito tis* "as anyone prospered" | each according to his means |
+
+### Acts 12: Peter Set Free
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *epebalen… tas cheiras kakōsai* "laid hands to harm" | laid violent hands on |
+| 4 | *tessarsin tetradiois* "four fours" | four squads of four soldiers each (note) |
+| 7 | *pataxas tēn pleuran* "having struck the side" | He struck Peter on the side (note) |
+| 10 | *automatē* "self-moving" | by itself (note) |
+| 11 | *en heautō genomenos* "having come to be in himself" | When Peter came to himself |
+| 20 | *thymomachōn* "fighting in anger" | was furious with |
+| 23 | *skōlēkobrōtos* "worm-eaten" | eaten by worms (note) |
+
+### Acts 13: A Light for the Nations
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *syntrophos* "nursed together" | brought up with (note) |
+| 2 | *leitourgountōn* "serving (as priests)" | worshiping (note) |
+| 10 | *rhaidiourgias* "easy-working, knavery" | villainy |
+| 11 | *achlys kai skotos* "mist and darkness" | mist and darkness |
+| 18 | *etropophorēsen* "bore their ways" | He put up with them (note) |
+| 34 | *ta hosia Dauid ta pista* "the holy things of David, the sure ones" | the holy and sure blessings of David (note) |
+| 48 | *tetagmenoi* "having been set in order" | appointed (note) |
+
+### Acts 14: Lystra and Derbe
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ekakōsan tas psychas* "made the souls evil" | poisoned their minds (note) |
+| 9 | *pistin tou sōthēnai* "faith to be saved" | faith to be made well (note) |
+| 15 | *homoiopatheis* "of like passions" | of like nature with you (note) |
+| 17 | *ouk amartyron* "not without witness" | without witness |
+| 22 | *epistērizontes* "propping up" | strengthening |
+| 23 | *cheirotonēsantes* "having stretched out the hand" | appointed (note) |
+
+**Choices for you:** none new.
+
 ## Acts 7–10 — rendered 2026-11-05, 6:43 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It has no 8:37 (the eunuch's confession), and the note says so. The style is carried on from Acts 3–6.
