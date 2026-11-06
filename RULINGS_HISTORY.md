@@ -4,6 +4,12 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-06, *shall* and *come near*.** After the Joshua 7 fix Andrew said
+  *shall come near* bothered him more than the *by*. The spec had no rule for
+  *shall*, and *come near* carried the Hebrew *qarav* word for word. He chose
+  both for readability item 10, kept *shall* in prophecy, and left Genesis and
+  Exodus out of the sweep. The same day *This and this* and *the name… is
+  called* moved from item 9 to item 4.
 - **2026-11-06, Joshua 7 and drift.** Andrew found Joshua 7 carrying Hebrew
   idioms word for word (*chased them from before the gate*, *turned its back
   before its enemies*, *come near by clans*) that earlier books had cleaned up.

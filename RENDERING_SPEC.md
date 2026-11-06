@@ -252,6 +252,29 @@ had to flag by hand; the reader should never meet one.
    vessel* → *clay pot*; *go in to a dead body* → *go near*.
 9. **Lists with *by*.** *come near by tribes… by clans* → *come forward tribe
    by tribe… clan by clan*.
+10. ***Shall* and *come near*** (Andrew, 2026-11-06).
+   - *Shall* stays in laws and commandments meant to stand (*You shall not
+     murder*; *He shall be put to death*), in the Law as the Gospels quote it,
+     and in questions (*What shall we do?*).
+   - Prophecy, what God says is coming, spoken by Him or by a prophet, keeps
+     its *shall* (*the glory of the LORD shall be revealed*); *will* in
+     prophecy also stands.
+   - An order for a task in the scene is a plain command: *you shall say to
+     them* → *tell them*; *In the morning you shall come forward* → *In the
+     morning, come forward*; *The tribe that the LORD takes shall come forward*
+     → *will come forward*.
+   - A person's prediction, promise, threat or oath takes *will*: *not one hair
+     of his head shall fall* → *will fall*; *no punishment shall come upon you*
+     → *will come upon you*; *that I shall go up* → *that I will go up*.
+   - *Come near* to a person is what English says: *came near to Elisha* →
+     *came up to Elisha*; *Zedekiah came near and struck Micaiah* → *went up to
+     Micaiah and struck him*. Before the LORD for a lot or a judgment it is
+     *come forward* (item 9). For sex it is *approach* (*approach a woman in
+     her impurity*).
+   - *Come near* stays for a place said the English way (*As He came near the
+     gate*), for time, and for priests approaching God, the altar or the holy
+     things (*shall come near to Me to serve Me*). *Draw near* and *bring near*
+     stay.
 
 A hard-to-read phrase that loses nothing when made natural is made natural
 (Andrew, 2026-11-06). Keep a literal phrase only when a note is built on
