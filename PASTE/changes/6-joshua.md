@@ -7,7 +7,7 @@ Changes to chapters already rendered, filed under the book the request started i
 **Request:** Andrew's ruling on Joshua 7 (entry below), carried to the books after it (`COUNCIL.md`, item 101; spec, readability pass items 6 and 9). Bible 2 swept Joshua 8 to the last rendered chapter, Genesis to Deuteronomy left alone.
 
 **Options laid out:** each place was made natural only where the source and the sentence allow it and no note is built on the phrase.
-- ***from before*** / ***before the face of*** (Hebrew *mi-lifnei*, *lifnei*; Aramaic *min qodam*; and the same idiom in the Ge'ez books): *from Your sight* where eyes or sight are the point (Psalm 31:22, Jonah 2:4, which now read alike, as their notes say; Isaiah 1:16; Nehemiah 4:5 and Jeremiah 18:23, which also read alike), *from My presence* where it is the LORD's presence, *before* where *the face of* adds nothing.
+- ***from before*** / ***before the face of*** (Hebrew *mi-lifnei*, *lifnei*; Aramaic *min qodam*; and the same idiom in the Ge'ez books): *from Your sight* where eyes or sight are the point (Psalm 31:22, Jonah 2:4, which now read alike, as their notes say; Isaiah 1:16; Nehemiah 4:5 and Jeremiah 18:23, which also read alike), *from My presence* where it is the LORD's presence, *before* where *the face of* adds nothing. Bible Main found the New Testament's one: *I am sending My messenger before Your face* (Greek *pro prosōpou sou*; Matthew 11:10, Mark 1:2, Luke 7:27) is *ahead of You*.
 - ***by tribes… by clans*** in a casting of lots (1 Samuel 10:19–21, as Joshua 7:14–18), and land given *by their tribes* (Joshua 11:23; Ezekiel 45:8): *tribe by tribe*, *clan by clan*. *By your thousands* (*alafim*) is *clan by clan*, as this project's Judges 6:15 has *my clan* for *alpi*.
 - ***This and this*** (2 Samuel 17:15) and ***the name of that place is called*** (2 Chronicles 20:26; Jubilees 29:8), as Joshua 7:20 and 7:26.
 
@@ -70,6 +70,9 @@ Changes to chapters already rendered, filed under the book the request started i
 | Psalm 31, v22 note | …I am cut off from before Your eyes… | …I am cut off from Your sight… |
 | Jonah 2, v4 note | …I am driven away from before Your eyes… I am cut off from before Your eyes… | …I am driven away from Your sight… I am cut off from Your sight… |
 | Isaiah 30, vv11–12 note | …make the Holy One of Israel cease from before us… | …stop setting the Holy One of Israel before us… |
+| Matthew 11:10, and the v10 note | …I am sending My messenger before Your face… | …I am sending My messenger ahead of You… |
+| Mark 1:2, and the vv2–3 note | …I am sending My messenger before Your face… | …I am sending My messenger ahead of You… |
+| Luke 7:27 | …I am sending My messenger before Your face… | …I am sending My messenger ahead of You… |
 
 ## Joshua 2:14, "Our life for yours, to die" (2026-11-06)
 
