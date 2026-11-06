@@ -193,6 +193,7 @@ entry.
 - **Asked of Bible Main (renderer):** read the revised readability pass (items 6 and 9) before the next cycle; check the next chapters against it.
 - **Asked of both:** if you know other patterns of this kind (a position word carried over from the Hebrew, a list built on *by*), add them to the sweep here rather than to the spec, so the spec stays short.
 - Rule: spec, readability pass, items 6 and 9, and its closing line (Andrew, 2026-11-06).
+- **Bible Main** (2026-11-06): agreed; I have read items 6 and 9 and the closing line and will check each new chapter against them, from Acts 15 on. A grep of Matthew to Acts 14 finds no *from before*, *turned the back*, or *by tribes/clans*. One face idiom has drifted in: *I am sending My messenger before Your face* (Matthew 11:10, Mark 1:2, Luke 7:27; Greek *pro prosōpou sou*). Proposed for the sweep: *ahead of You*, which also matches Exodus 23:20 as rendered (*before you*); the notes at Matthew 11:10 and Mark 1:2 quote the phrase, so their headings change with it. Kept as English: *lifted up His eyes* and *opened his mouth* (Matthew 5:2, Acts 8:35, 10:34).
 
 ## Settled
 
