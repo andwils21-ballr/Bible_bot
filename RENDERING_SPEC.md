@@ -126,13 +126,14 @@ Elijah mocked them*, 1 Kings 18:27; *In a little while the heavens grew black*,
    gone*, 1 Kings 20:40); or a second *va-yehi* in a verse that has just used
    the formula (2 Samuel 1:2).
 
-**Its future and past-habit forms** (Andrew, 2026-09-26 and 2026-10-07). *ve-hayah* as a
-formula (*ve-hayah ki…*, *ve-hayah ka'asher…*: "and it shall be, when…"), and
-*vi-yhi* or *ve-hayah* + a time clause in an instruction, are *And it shall come
-to pass, when…, that…* or *And it will come to pass* (Ruth 3:4; 1 Samuel 10:5),
-never *It will be, when*. *ve-hayah* of a past habit is *And it would come to
-pass* (Exodus 33:8). Where *ve-hayah* is only "it shall be" + a noun (*It shall
-be a sign*), it stays plain.
+**Its future forms** (Andrew, 2026-11-06). *ve-hayah* in speech, an instruction or a
+promise is cut like the past formula, with its *that*: *When you enter the land,
+you shall…* (Deuteronomy 26:1), *If you listen, I will…*, *Whoever escapes…*. Keep
+*And it shall come to pass* only where it carries a prophecy across a stretch of
+time of weight: *in that day*, *in the last days*, *at the end of seventy years*,
+*afterward*. Never *It will be, when*. *ve-hayah* of a past habit is *And it
+would come to pass* (Exodus 33:8); *ve-hayah* + a noun (*It shall be a sign*)
+stays plain. Genesis keeps every one.
 
 ### No *here —* or *look —* for *hinneh* / *idou* (Andrew, 2026-09-28)
 

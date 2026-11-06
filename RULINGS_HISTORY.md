@@ -4,6 +4,12 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-06, the future *And it shall come to pass*.** Andrew cut it in
+  Joshua 2:14 and then asked for it to go from every book but Genesis wherever
+  it does not carry a stretch of time of weight. The spec had kept every
+  future *ve-hayah* in an instruction (rule of 2026-09-26 and 2026-10-07).
+  94 verses were cut the same day, 46 *in that day*-type openings kept; the
+  list is in `PASTE/changes/6-joshua.md`.
 - **2026-10-23, the map link.** Andrew asked for a map of the journey after
   Joshua 24, with links to it from notes between the Exodus and the end of
   Joshua. The link form in the spec's file format came from that; the site
