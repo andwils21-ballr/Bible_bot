@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 15–18 — rendered 2026-11-06, 1:50 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 15:34, so the numbering skips from 33 to 35, and the note says so; it marks 16:12 *a leading city of the district* and the opening of 18:21 as places where manuscripts differ, and the notes say so. The style is carried on from Acts 11–14. This is the first run under readability items 6, 9 and 10 (Andrew, 2026-11-06): no *from before*, no *by tribes*, no *come near*; the futures are *will* in promises (16:31; 17:32; 18:10, 21), and the Amos quotation keeps the prophecy's *I will* (15:16).
+
+**Form kept:**
+- No sentence starts with *And*.
+- *Idou* cut (16:1). *Egeneto* plain (16:16), as Council item 99.
+- *Kyrioi* from the jailer, who does not yet believe: *Sirs* (16:30).
+- Quotations: 15:16–18 Amos 9:11–12 in the words of its Greek, with *over whom My name is called* as Amos 9:12 has it; 17:28 the poets' line as Paul gives it.
+- *Come and stay at my house* (16:15), not *come into*.
+- 18:18 *he had his hair cut off*: ***KEPT AS IS***, the Greek does not say whether *he* is Paul or Aquila, and the note says so.
+- Set as prose, the Amos quotation in lines.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Numbers 6:18; Deuteronomy 18:10, 28:10, 28:29, 32:8; Leviticus 17:8–14, 18:26; Psalm 96:13; Isaiah 42:5; Jeremiah 1:8; Ezekiel 33:4; Daniel 1:8; Amos 9:11–12; Matthew 27:25 (checked, not quoted); Luke 2:1, 3:4, 4:38, 4:41, 8:28, 12:50, 23:2, 24:7, 24:26, 24:32, 24:39, 24:45; Acts 1:1, 1:24, 2:37, 2:46, 4:9, 6:14, 7:48, 10:42, 11:14, 11:21, 13:13, 13:51.
+
+**Checked against the sources:**
+- SBLGNT: Acts 15:1–18:28; Acts 19:1, 20:26, 20:34, 22:25, 25:19; Romans 12:11; 1 Corinthians 1:1, 1:14; 2 Peter 1:1; Hebrews 10:24; *kardiognōstēs* only in Acts, *Barnabas* not after Acts 15.
+- Swete: Numbers 6:2, 6:18; Deuteronomy 18:10, 28:29, 32:8; Psalm 95:13 (English 96:13); Isaiah 42:5, 45:21; Ezekiel 33:4; Daniel 1:8; Amos 9:11–12; Jeremiah 12:15; Leviticus 17:10, 18:6; *kateidōlos* nowhere.
+
+**The checker** found 0 errors and 1 CHECK: 15:34 is missing, which is the edition (above).
+
+**What these chapters are:**
+- **15:** men from Judea say the Gentile believers must be circumcised. At Jerusalem Peter tells of Cornelius, and James quotes Amos: the fallen tent of David rebuilt *so that the rest of mankind may seek the Lord*. The apostles and elders write to the Gentiles that they ask nothing but four things. Paul and Barnabas part over Mark.
+- **16:** Paul takes Timothy; the Spirit closes Asia and Bithynia, and a man of Macedonia calls in a dream. At Philippi Lydia believes; Paul drives the spirit out of a slave girl, and he and Silas are beaten and jailed. An earthquake opens the prison, the jailer asks *what must I do to be saved?*, and the magistrates learn they have beaten Romans.
+- **17:** at Thessalonica the charge is *another king, Jesus*; the Bereans search the Scriptures daily. In Athens, among the idols, Paul speaks on the Areopagus of *an unknown god*, the Maker who *is not far from each one of us*, and of the day of judgment by a man raised from the dead.
+- **18:** at Corinth Paul works with Aquila and Priscilla, tentmakers, and is told in a vision *I have many people in this city*. Gallio throws the case out. Paul sails for Syria; at Ephesus Priscilla and Aquila teach Apollos *the way of God more accurately*.
+
+### Acts 15: The Council at Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *etaxan anabainein* "they appointed to go up" | were appointed to go up |
+| 3 | *ekdiēgoumenoi tēn epistrophēn* "telling out the turning" | telling in full of the turning (note) |
+| 7 | *aph' hēmerōn archaiōn* "from ancient days" | in the early days |
+| 10 | *ti peirazete ton theon* "why do you test God" | why are you putting God to the test |
+| 14 | *epeskepsato labein* "visited to take" | came to take |
+| 16 | *skēnēn* "tent, tabernacle" | tent (note) |
+| 17–18 | *poiōn tauta gnōsta ap' aiōnos* "doing these things known from eternity" | who makes these things known from of old (note) |
+| 20 | *tou apechesthai tōn alisgēmatōn* "to hold off from the pollutions" | to keep away from the pollutions (note) |
+| 23 | *dia cheiros autōn* "through their hand" | By their hand |
+| 26 | *paradedōkosi tas psychas* "having handed over their lives" | who have risked their lives (note) |
+| 39 | *paroxysmos* "a sharpening" | the disagreement became so sharp (note) |
+
+### Acts 16: The Call to Macedonia
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *paredidosan… phylassein ta dogmata* "handed over… to keep the decrees" | handed on to them the decisions… for them to keep (note) |
+| 13 | *proseuchēn* "a prayer" | a place of prayer (note) |
+| 15 | *parebiasato hēmas* "she forced us" | She prevailed on us |
+| 16 | *pneuma pythōna* "a spirit, a python" | a spirit of divination (note) |
+| 18 | *diaponētheis* "worn out, troubled" | greatly troubled |
+| 21 | *ouk exestin hēmin… Rhōmaiois ousin* "it is not lawful for us, being Romans" | we as Romans may not |
+| 35 | *rhabdouchous* "rod-holders" | the officers (note) |
+
+### Acts 17: Thessalonica, Berea and Athens
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *anastatōsantes* "unsettled, overturned" | turned… upside down |
+| 11 | *eugenesteroi* "better-born" | more noble-minded (note) |
+| 18 | *spermologos* "seed-picker" | babbler (note) |
+| 22 | *deisidaimonesterous* "more fearing of divinities" | very religious (choice below) |
+| 27 | *psēlaphēseian* "might grope for" | might feel their way toward (note) |
+| 28 | *genos* "kind, race, offspring" | offspring (note) |
+| 30 | *hyperidōn* "having overlooked" | overlooked |
+| 31 | *pistin paraschōn* "having offered faith" | He has given proof of this |
+
+### Acts 18: Corinth and Ephesus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *syneicheto tō logō* "was held by the word" | gave himself wholly to the word (note) |
+| 6 | *katharos egō* "clean, I" | I am innocent (note) |
+| 10 | *laos… polys* "a great people" | many people (note) |
+| 14 | *kata logon an aneschomēn* "according to reason I would have borne with" | I would have reason to bear with you |
+| 18 | *keiramenos* "having had (his) hair cut" | he had his hair cut off — ***KEPT AS IS***, *he* may be Paul or Aquila (note) |
+| 24 | *logios* "a man of words" | an eloquent man (choice below) |
+| 25 | *zeōn tō pneumati* "boiling in the spirit" | fervent in spirit (note) |
+
+**Choices for you:**
+- **17:22, *deisidaimonesterous***
+  - (a) **very religious** (now): devout, fearing the divine powers; Paul opens by crediting their worship, then builds on it (*what you worship without knowing*, v23).
+  - (b) **very superstitious**: the same word as a jab, fearful of every god; the old English reading.
+  - Recommend (a): the speech never mocks their worship, and Festus uses the noun of the Jews' *religion* without scorn (25:19).
+- **18:24, *anēr logios***
+  - (a) **an eloquent man** (now): skilled in speech; it fits *he powerfully refuted the Jews in public* (v28).
+  - (b) **a learned man**: a man of learning; it fits *powerful in the Scriptures* in the same verse.
+  - Recommend (a): the chapter's picture of him is of public speaking (vv25–28), and *powerful in the Scriptures* already says the learning.
+
 ## Acts 11–14 — rendered 2026-11-05, 11:40 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; it marks 11:20 *Hellenists* as a place where manuscripts differ, and the note says so. The style is carried on from Acts 7–10. This run follows Andrew's ruling of 2026-11-06 on the future *And it shall come to pass* (spec, "Its future forms"); no such formula falls in these chapters.
