@@ -105,15 +105,13 @@ Nisan… that I took up the wine* (Nehemiah 2:1).
 heard these words, I sat down and wept* (Nehemiah 1:4), not *And it came to
 pass, when I heard these words, that I sat down*. This holds for *when*, *as*,
 *while*, *after* + an event, and for a moment inside the same scene (*At noon
-Elijah mocked them*, 1 Kings 18:27; *In a little while the heavens grew black*,
-18:45).
+Elijah mocked them*, 1 Kings 18:27).
 
 **Cut it, and write plain English, where *va-yehi* is not the formula:**
 
-1. **was, were, became, had, there was**: *All the days of Adam were…*; *He had
-   seven hundred wives*; *There was a great famine*; *This thing became a sin*;
-   every list and genealogy (*The sons of Ram were…*); plural *va-yihyu*, **they
-   were** (Numbers 15:32). The same holds where the participle is itself the
+1. **was, were, became, had, there was**: *He had seven hundred wives*; *There
+   was a great famine*; every list and genealogy (*The sons of Ram were…*);
+   plural *va-yihyu*, **they were** (Numbers 15:32). The same holds where the participle is itself the
    main verb and no event follows (*So David and the elders… went*, 1 Chronicles
    15:25).
 2. **the word of the LORD came to**.
@@ -121,19 +119,17 @@ Elijah mocked them*, 1 Kings 18:27; *In a little while the heavens grew black*,
    because*, 2 Kings 17:7; *Because she pressed him*, Judges 16:16).
 4. **a habit**: *whenever*, *as often as* (Numbers 10:35; 1 Kings 14:28).
 5. **a clause inside a sentence already running**, where the formula would
-   break it: a parenthesis (1 Kings 18:4), or a quick *while…* in speech that
-   runs into the point (*While your servant was busy here and there, he was
-   gone*, 1 Kings 20:40); or a second *va-yehi* in a verse that has just used
-   the formula (2 Samuel 1:2).
+   break it: a parenthesis (1 Kings 18:4), a quick *while…* in speech (1 Kings
+   20:40), or a second *va-yehi* in a verse that has just used the formula
+   (2 Samuel 1:2).
 
 **Its future forms** (Andrew, 2026-11-06). *ve-hayah* in speech, an instruction or a
 promise is cut like the past formula, with its *that*: *When you enter the land,
-you shall…* (Deuteronomy 26:1), *If you listen, I will…*, *Whoever escapes…*. Keep
-*And it shall come to pass* only where it carries a prophecy across a stretch of
-time of weight: *in that day*, *in the last days*, *at the end of seventy years*,
-*afterward*. Never *It will be, when*. *ve-hayah* of a past habit is *And it
-would come to pass* (Exodus 33:8); *ve-hayah* + a noun (*It shall be a sign*)
-stays plain. Genesis keeps every one.
+you shall…* (Deuteronomy 26:1), *If you listen, I will…*. Keep *And it shall come
+to pass* only where it carries a prophecy across a stretch of time of weight:
+*in that day*, *in the last days*, *at the end of seventy years*. Never *It will
+be, when*. *ve-hayah* of a past habit is *And it would
+come to pass* (Exodus 33:8); *ve-hayah* + a noun (*It shall be a sign*) stays plain.
 
 ### No *here —* or *look —* for *hinneh* / *idou* (Andrew, 2026-09-28)
 
@@ -182,8 +178,7 @@ kept cases:
 - **"And now"** for *ve-attah* inside speech, where the speaker turns from what
   has been said to what they ask or declare, and the turn itself carries weight
   (*And now, say this to My servant David*, 2 Samuel 7:8) (Andrew, 2026-09-26).
-  Kept, for example: *And now, let your servant stay instead of the boy*
-  (Genesis 44:33); *And now, Israel, listen* (Deuteronomy 4:1); *Moses My
+  Kept, for example: *And now, Israel, listen* (Deuteronomy 4:1); *Moses My
   servant is dead. And now get up* (Joshua 1:2). Otherwise render *ve-attah* by
   what it does in the sentence (Andrew, 2026-10-03):
   - **So** or **So now** where it draws the consequence of what was just said
@@ -196,7 +191,7 @@ kept cases:
 
 Not kept (Andrew, 2026-09-26): *The LORD spoke to Moses, saying*; *These are
 the generations of*; *He lifted up his eyes and saw* (the *And here —* that
-follows is the marker); *the word of the LORD came to*; the Judges refrain, *The
+follows is the marker); the Judges refrain, *The
 sons of Israel did evil in the eyes of the LORD*, and its companions (*cried out
 to the LORD*, *the land had rest*).
 
@@ -243,18 +238,24 @@ had to flag by hand; the reader should never meet one.
    owner and buyer) and *he* could be either, name the one who acts. A people
    called by its ancestor's name is the people: *Amalek came* → *the Amalekites
    came*.
-6. **Hand and face idioms.** *his hand cannot reach* → *he cannot afford*;
+6. **Hand, face and back idioms.** *his hand cannot reach* → *he cannot afford*;
    *favor the face of the poor* → *show favor to the poor*; *by the mouth of the
-   sword* → *with the sword*. The literal form goes in a note when the note has
-   something to say about it.
+   sword* → *with the sword*; *from before the gate* → *from the gate*;
+   *turned its back before its enemies* → *turned and ran from its enemies*.
+   *Flee before* and *stand before* an enemy are English and stay. The literal
+   form goes in a note when the note has something to say.
 7. **Read the English for what it says.** *The land will not vomit you out when
    you make it unclean* said the opposite of the Hebrew; it is now *Otherwise,
    when you make the land unclean, it will vomit you out* (Leviticus 18:28).
 8. **Old words with a plain equal.** *talebearer* → *slanderer*; *earthen
    vessel* → *clay pot*; *go in to a dead body* → *go near*.
+9. **Lists with *by*.** *come near by tribes… by clans* → *come forward tribe
+   by tribe… clan by clan*; *This and this is what I did* → *This is what I
+   did*; *the name of that place is called* → *that place is called*.
 
-Keep a literal phrase only when a note is built on it, and say so in the render
-report (`***KEPT AS IS***`).
+A hard-to-read phrase that loses nothing when made natural is made natural
+(Andrew, 2026-11-06). Keep a literal phrase only when a note is built on
+it, and say so in the render report (`***KEPT AS IS***`).
 
 ### Fixed terms
 
@@ -416,9 +417,7 @@ examples have two jobs, kept apart:
 - **Parallel passages** (Chronicles and Samuel–Kings, the Gospels, psalms quoted
   elsewhere): render the source of *this* verse. Reuse the earlier book's
   English only where the source words are the same; where they differ, the
-  difference shows in the English. (Copied from Samuel where the Hebrew of
-  Chronicles differs: *See now* for *hinneh*, *Now then* for *ve-attah*, and a
-  dropped *And it came to pass*.)
+  difference shows in the English.
 - **A book may keep a mark of its own** (Andrew, 2026-10-07). Where a book
   has a feature of style that sets it apart, keep it there even where the
   general rule would smooth it out. The mark must come from the book's own

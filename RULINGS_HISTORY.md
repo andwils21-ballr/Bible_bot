@@ -4,6 +4,13 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-06, Joshua 7 and drift.** Andrew found Joshua 7 carrying Hebrew
+  idioms word for word (*chased them from before the gate*, *turned its back
+  before its enemies*, *come near by clans*) that earlier books had cleaned up.
+  The readability pass gained the back idiom and item 9, and the sweep of the
+  books after Joshua went to the council (`COUNCIL.md`). The spec's old
+  parallel-passages example, Chronicles copying Samuel's *Now then*, *See now*
+  and a dropped *And it came to pass*, was moved here from the spec.
 - **2026-11-06, the future *And it shall come to pass*.** Andrew cut it in
   Joshua 2:14 and then asked for it to go from every book but Genesis wherever
   it does not carry a stretch of time of weight. The spec had kept every

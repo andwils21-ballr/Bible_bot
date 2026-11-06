@@ -15,6 +15,24 @@ Second part of the request (Andrew, same day): the *And it shall come to pass* i
 | Joshua 2:14 | Our life for yours, to die — if you do not tell this business of ours. | We will give our lives for yours, even to death, if you do not tell this business of ours. |
 | Joshua 2:14 | And it shall come to pass, when the LORD gives us the land, that we will deal with you in loyal love and truth. | When the LORD gives us the land, we will deal with you in loyal love and truth. |
 
+## Joshua 7, Hebrew idioms carried word for word (2026-11-06)
+
+**Request:** Andrew: Joshua 7 has drifted from what earlier books settled: *chased them from before the gate*, *turned its back before its enemies*, and the lots passage (*come near by clans… man by man*) are hard to read and lose nothing when made natural. Have it sorted for the books after Joshua. The rule is now in the spec (readability pass, items 6 and 9, and its closing line); the books after Joshua are with the council (`COUNCIL.md`, item 101). *Fled before* and *stand before* an enemy stay: they are English and the earlier books use them.
+
+**Choices for you:** none; no meaning changes. (7:11, *also… also*, was left as it is: *ve-gam* five times is the verse's pile-up of charges and the note is built on it.)
+
+| Where | Before | After |
+|---|---|---|
+| Joshua 7:5 | chased them from before the gate as far as Shebarim, and struck them down on the descent | chased them from the gate as far as Shebarim, and struck them down on the slope |
+| Joshua 7:8 | now that Israel has turned its back before its enemies | now that Israel has turned and run from its enemies |
+| Joshua 7:12 | they turn their backs before their enemies | they turn and run from their enemies |
+| Joshua 7:14 | you shall come near by your tribes. The tribe that the LORD takes shall come near by clans, and the clan… shall come near by households, and the household… shall come near man by man | you shall come forward tribe by tribe. The tribe that the LORD takes shall come forward clan by clan, and the clan… shall come forward household by household, and the household… shall come forward man by man |
+| Joshua 7:16 | brought Israel near by tribes | brought Israel forward tribe by tribe |
+| Joshua 7:17 | He brought near the clans of Judah… He brought near the clan of the Zerahites man by man | He brought the clans of Judah forward… He brought the clan of the Zerahites forward man by man |
+| Joshua 7:18 | He brought near his household man by man | He brought his household forward man by man |
+| Joshua 7:20 | This and this is what I did | This is what I did |
+| Joshua 7:26 | That is why the name of that place is called the Valley of Achor | That is why that place is called the Valley of Achor |
+
 ## Future *And it shall come to pass* cut, every book but Genesis (2026-11-06)
 
 **Request:** Andrew, after Joshua 2:14: cut *And it shall come to pass* (and *will*) in Joshua and every other book, except where it carries the text across a passage of time of significance. It is usually God's words or words quoted, but not only God's. The rule is now in the spec (*Its future forms*). Genesis keeps every one (its mark), so it was not touched.

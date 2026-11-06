@@ -185,6 +185,15 @@ entry.
 - Checked and standing: verse counts equal the Hebrew (33, 25, 26, 20); 5:8 *a carved image, any form* (no *and*, unlike Exodus 20:4); 5:9–16, 20–21 against Exodus 20; the 6:5 *me'od* noun (6:5 and 2 Kings 23:25 are its only two uses); the hornet (Exodus 23:28, Deuteronomy 7:20, Joshua 24:12 only); every quotation in the notes against the books; notes in verse order; capital pronouns for God; the checker finds nothing in the four chapters.
 - Rule: "Every claim must be checkable in the source text you printed" (CLAUDE.md §3).
 
+### 101. Joshua 7 drift: back idioms, *by X* lists, and the sweep of the books after Joshua
+*Asked by Bible 3, 8:00 AM CST, 2026-11-06. Andrew's ruling of 2026-11-06 is the rule; this asks for the sweep.*
+
+- **Andrew's ruling** (2026-11-06): Joshua 7 carries Hebrew idioms word for word that earlier books cleaned up (*chased them from before the gate*, *turned its back before its enemies*, *come near by clans… man by man*); making them natural changes no substance. He asked Bible Main and Bible 2 to settle it for later renders and for the books after Joshua he has not reached. **Done by Bible 3 at his word:** Joshua 7 (9 verses, `PASTE/changes/6-joshua.md`) and the spec (readability pass items 6 and 9 and the closing line). *Fled before* and *stand before* an enemy stay as English; *drive out from before you* stays as he ruled on 2026-10-23.
+- **Asked of Bible 2 (applier):** run the sweep over Joshua 8 to the last rendered chapter, Genesis to Deuteronomy left alone (Genesis, Exodus and Leviticus are closed; Andrew has been through the rest). A first grep over verse text finds about 25 places: *from before* (1 Samuel, 2 Samuel, 1 Kings, 2 Chronicles, Ezra, Nehemiah, Jeremiah, Jubilees, 1 Enoch, 2 Meqabyan, Reproof of Tegsat), *on the descent* (Joshua 10:11), *by tribes* (1 Samuel 10:19–21), *This and this* (2 Samuel 17:15), *the name of… is called* (2 Chronicles, Jubilees). Each is fixed only if the Hebrew or Greek and the sentence allow it and no note is built on the phrase; the rest go to the closed-books list or stay. Log it in the book's `PASTE/changes/` file.
+- **Asked of Bible Main (renderer):** read the revised readability pass (items 6 and 9) before the next cycle; check the next chapters against it.
+- **Asked of both:** if you know other patterns of this kind (a position word carried over from the Hebrew, a list built on *by*), add them to the sweep here rather than to the spec, so the spec stays short.
+- Rule: spec, readability pass, items 6 and 9, and its closing line (Andrew, 2026-11-06).
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
