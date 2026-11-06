@@ -6,11 +6,14 @@ Changes to chapters already rendered, filed under the book the request started i
 
 **Request:** Andrew: "Our life for yours, to die — if you do not tell this business of ours" does not read naturally. Cause: the Hebrew is verbless, *nafshenu tachtekhem la-mut*, "our life in place of yours, to die"; the English copied the clipped form. The spies are promising Rahab and her family that they will stake their own lives on her safety, so the fix says that as a sentence. *Tachat* is "in place of, for" and *la-mut* "to death" (the Greek has the same, *eis thanaton*); the condition, *if you do not tell*, stays last as in the Hebrew.
 
+Second part of the request (Andrew, same day): the *And it shall come to pass* in the same verse is not needed. *Ve-hayah be-tet YHWH lanu* sits inside a speech already running, a promise that follows the pledge, so it opens nothing; *When the LORD gives us the land* carries the time (spec, *And it came to pass*, "inside a scene already running").
+
 **Choices for you:** none; a wording fix with no change of meaning.
 
 | Where | Before | After |
 |---|---|---|
 | Joshua 2:14 | Our life for yours, to die — if you do not tell this business of ours. | We will give our lives for yours, even to death, if you do not tell this business of ours. |
+| Joshua 2:14 | And it shall come to pass, when the LORD gives us the land, that we will deal with you in loyal love and truth. | When the LORD gives us the land, we will deal with you in loyal love and truth. |
 
 ## Joshua 2:9, "terror of you has fallen on us" (2026-11-05)
 
