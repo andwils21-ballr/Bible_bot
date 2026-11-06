@@ -463,7 +463,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 9 | *eimatkhem* | terror has fallen on us because of you (the fall of Exodus 15:16) |
 | 10 | *hecheramtem* | you devoted to destruction (fixed rendering) |
 | 12, 14 | *chesed*, *chesed ve-emet* | loyal love, loyal love and truth (as Exodus 34:6, noted) |
-| 14 | *nafshenu tachteikhem la-mut* | Our life for yours, to die |
+| 14 | *nafshenu tachteikhem la-mut* | We will give our lives for yours, even to death |
 | 18, 21 | *tiqvat chut ha-shani* | this cord of scarlet thread (noted) |
 | 19 | *damo ve-rosho* | his blood will be on his own head |
 
