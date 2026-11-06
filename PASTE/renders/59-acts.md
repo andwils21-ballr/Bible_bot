@@ -2,6 +2,89 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 7–10 — rendered 2026-11-05, 6:43 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 8:37 (the eunuch's confession), and the note says so. The style is carried on from Acts 3–6.
+
+**Form kept:**
+- No sentence starts with *And*: two caught by the checker were reworded (8:31 *Then he urged Philip*; 9:21 *Has he not come here*).
+- *Idou* cut (7:56; 8:27, 36 kept as *Here is water!*, the eunuch pointing; 9:10 kept as *Here I am*, Samuel's answer; 9:11; 10:17, 19, 21, 30).
+- Stephen's quotations follow Acts' Greek, which follows the Greek of the Old Testament, and the notes say where the Hebrew differs: *seventy-five* (7:14); *beautiful* (7:20); Amos 5:25–27 with *Moloch* and *Rephan* and *beyond Babylon* (7:42–43); Isaiah 66:1–2 (7:49–50). In 8:32–33 Isaiah 53:7–8 is given in the words of its Greek.
+- *Angelos* at the bush is *angel* (7:30, 35, 38), with a note that the Hebrew *mal'akh* of Exodus 3:2 is *messenger* in this project's Old Testament, by the fixed term.
+- *Aithiops* is *Ethiopian* (8:27), the word the Greek of the Old Testament uses for Cush; the note gives the verses.
+- *Hē hodos* is *the Way* (9:2), capitalized as a name.
+- Kept the same as Mark and Luke where the Greek is the same: *Talitha koum*'s *He put them all out* (9:40, as Mark 5:40); *get up* (9:34, 40).
+- Fixed terms: *angel of the Lord* (8:26), *angel of God* (10:3), *holy angel* (10:22); *the Holy Spirit*; *the devil* (10:38); *Messiah* (8:5; 9:22).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:24, 11:32, 12:1, 15:14, 33:19, 37:11, 46:27 (and the Greek), 50:13; Exodus 1:5 (the Greek), 1:8, 2:2 (and the Greek), 2:14, 2:22, 3:2, 3:4, 3:7, 3:12, 4:10, 25:40, 32:1, 33:3; Leviticus 2:2 (and the Greek), 11:47; Numbers 18:20; Deuteronomy 10:17, 23:1, 29:18, 33:2 (the Greek); Joshua 2:15, 24:32; 1 Samuel 3:4; 1 Kings 18:12; 2 Kings 4:33; Psalm 68:31 (and the Greek, 67:32), 112:10, 132:5; Isaiah 49:1, 49:6, 52:7, 53:7–8 (and the Greek), 56:4–5, 66:1–2; Jeremiah 1:5, 9:26, 38:7 (and the Greek, 45:7); Ezekiel 4:14; Daniel 9:21; Amos 5:25–27 (and the Greek); Jonah 1:3; Zephaniah 3:10 (and the Greek); Mark 5:40–41, 8:8; Luke 3:4, 4:18, 5:24, 9:52–54, 11:47, 22:69, 23:34, 23:46, 24:4, 24:19; John 4:9, 11:11, 14:6, 16:13.
+
+**Checked against the sources:**
+- SBLGNT: Acts 7:1–10:48; Mark 8:8.
+- Swete: Genesis 46:27; Exodus 1:5, 2:2; Leviticus 2:2; Deuteronomy 29:18, 33:2; Psalm 67:32; Isaiah 53:7–8; Jeremiah 45:7; Amos 5:26; Zephaniah 3:10.
+
+**The checker** found 2 errors (the *And* starts above, fixed) and 2 CHECKs, which stand: 7:3 *come into the land that I will show you* is God's own call, spoken from where He leads; 8:37 is not in the edition, as the note says.
+
+**Left standing on purpose:** 7:16 says Abraham bought the tomb at Shechem *from the sons of Hamor*; Genesis has Abraham buy Machpelah from Ephron, and Jacob buy the Shechem field from Hamor's sons. The text keeps Stephen's words, and the note sets out both.
+
+**What these chapters are:**
+- **7:** Stephen answers the council with Israel's story: Abraham called out of Mesopotamia, Joseph sold by his brothers, Moses rejected by those he came to save, the calf in the wilderness, the tent and the temple, *the Most High does not live in houses made by hands*. *You always resist the Holy Spirit*. He sees Jesus standing at God's right hand, and they stone him; Saul guards the coats; *Lord, do not hold this sin against them*.
+- **8:** persecution scatters the church. Philip preaches in Samaria, where Simon the magician believes and then tries to buy the Spirit. An angel sends Philip to the Gaza road, where an Ethiopian eunuch, treasurer of Queen Candace, is reading Isaiah 53; Philip tells him of Jesus, and he is baptized and goes on his way rejoicing.
+- **9:** on the Damascus road a light from heaven blinds Saul: *Saul, Saul, why are you persecuting Me?* Ananias lays hands on him, and he sees and is baptized, preaches in Damascus, escapes in a basket, and is brought to the apostles by Barnabas. Peter heals Aeneas at Lydda and raises Tabitha at Joppa.
+- **10:** an angel tells Cornelius, a centurion at Caesarea, to send for Peter. Peter sees a sheet of animals, *What God has made clean, do not call common*. He goes to Cornelius's house: *God shows no partiality*. While he speaks the Holy Spirit falls on the Gentiles, and they are baptized.
+
+### Acts 7: Stephen's Speech
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *oude bēma podos* "not even a step of a foot" | not even a foot's length (note) |
+| 19 | *katasophisamenos* "having outwitted" | He dealt craftily with |
+| 20 | *asteios tō theō* "fine to God" | beautiful in God's sight (note) |
+| 34 | *Idōn eidon* "seeing I saw" | I have surely seen (note) |
+| 38 | *logia zōnta* "living oracles" | living words (note) |
+| 42 | *tē stratia tou ouranou* "the army of heaven" | the host of heaven |
+| 51 | *Sklērotrachēloi* "hard-necked" | You stiff-necked people (note) |
+| 54 | *dieprionto* "they were sawn through" | they were furious |
+| 60 | *ekoimēthē* "he fell asleep" | he fell asleep (note) |
+
+### Acts 8: Philip and the Ethiopian
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *diesparēsan* "were sown about" | were scattered (note) |
+| 3 | *elymaineto* "was outraging" | was ravaging (note) |
+| 23 | *cholēn pikrias* "gall of bitterness" | the gall of bitterness (note) |
+| 26 | *kata mesēmbrian* "toward midday / the south" | toward the south (note) |
+| 27 | *dynastēs* "a man of power" | an official |
+| 30 | *Ara ge ginōskeis ha anaginōskeis* "do you know what you know-again" | Do you understand what you are reading? (note) |
+| 39 | *hērpasen* "snatched" | carried… away (note) |
+
+### Acts 9: Saul on the Damascus Road
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *empneōn apeilēs* "breathing in threat" | breathing threats (note) |
+| 7 | *eneoi* "dumb" | speechless |
+| 15 | *skeuos eklogēs* "a vessel of choosing" | a chosen instrument (note) |
+| 18 | *hōs lepides* "as scales" | something like scales (note) |
+| 22 | *symbibazōn* "bringing together" | by proving (note) |
+| 34 | *strōson seautō* "spread for yourself" | make your bed (note) |
+
+### Acts 10: Peter and Cornelius
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *eis mnēmosynon* "into a memorial" | as a memorial (note) |
+| 10 | *ekstasis* "a standing out" | a trance (note) |
+| 14 | *koinon* "common" | common (note) |
+| 20 | *mēden diakrinomenos* "judging nothing apart" | without hesitating (note) |
+| 28 | *allophylō* "one of another tribe" | anyone of another nation |
+| 34 | *prosōpolēmptēs* "a face-receiver" | God shows no partiality (note) |
+| 38 | *katadynasteuomenous* "overpowered" | oppressed |
+
+**Choices for you:** none new.
+
 ## Acts 3–6 — rendered 2026-11-05, 1:43 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Acts 1–2.
