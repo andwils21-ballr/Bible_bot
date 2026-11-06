@@ -578,7 +578,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew, by your witnesses rule:**
 - **10:1**, *You shall reign over the people of the LORD and save them from the hand of their enemies all around. This shall be the sign to you that the LORD has anointed you leader over His inheritance.* In the Greek, not the Hebrew. The Hebrew never introduces the *signs* that vv2–9 give, and the missing words sit between two copies of *anointed you… leader*, the kind of gap an eye skipping from one to the other leaves. Noted.
-- **10:21**, *Then he brought the clan of the Matrites near man by man.* In the Greek; the Hebrew goes from the clan straight to Saul. The same tribe-clan-man order is followed in Joshua 7:16–18. Noted.
+- **10:21**, *Then he brought the clan of the Matrites forward man by man.* In the Greek; the Hebrew goes from the clan straight to Saul. The same tribe-clan-man order is followed in Joshua 7:16–18. Noted.
 
 ### 1 Samuel 8: Israel Asks for a King
 
@@ -641,7 +641,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *haged higgid* | He told us plainly (doubled verb) |
 | 19 | *le-alfeikhem* | by your thousands |
 | 21 | written *lmshpchtw*, read *le-mishpechotav* | by its clans (the reading followed) |
-| 21 | Greek addition | Then he brought the clan of the Matrites near man by man (Greek followed; noted) |
+| 21 | Greek addition | Then he brought the clan of the Matrites forward man by man (Greek followed; noted) |
 | 22 | *el ha-kelim* | among the baggage |
 | 24 | *yechi ha-melekh* | Long live the king! |
 | 25 | *mishpat ha-melukhah* | the rule of the kingship (noted) |

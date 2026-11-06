@@ -2,6 +2,75 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## The sweep after Joshua 7: position words and *by* lists (2026-11-06)
+
+**Request:** Andrew's ruling on Joshua 7 (entry below), carried to the books after it (`COUNCIL.md`, item 101; spec, readability pass items 6 and 9). Bible 2 swept Joshua 8 to the last rendered chapter, Genesis to Deuteronomy left alone.
+
+**Options laid out:** each place was made natural only where the source and the sentence allow it and no note is built on the phrase.
+- ***from before*** / ***before the face of*** (Hebrew *mi-lifnei*, *lifnei*; Aramaic *min qodam*; and the same idiom in the Ge'ez books): *from Your sight* where eyes or sight are the point (Psalm 31:22, Jonah 2:4, which now read alike, as their notes say; Isaiah 1:16; Nehemiah 4:5 and Jeremiah 18:23, which also read alike), *from My presence* where it is the LORD's presence, *before* where *the face of* adds nothing.
+- ***by tribes… by clans*** in a casting of lots (1 Samuel 10:19–21, as Joshua 7:14–18), and land given *by their tribes* (Joshua 11:23; Ezekiel 45:8): *tribe by tribe*, *clan by clan*. *By your thousands* (*alafim*) is *clan by clan*, as this project's Judges 6:15 has *my clan* for *alpi*.
+- ***This and this*** (2 Samuel 17:15) and ***the name of that place is called*** (2 Chronicles 20:26; Jubilees 29:8), as Joshua 7:20 and 7:26.
+
+**Left as they are:**
+- **Joshua 10:10–11** *the ascent… the descent of Beth-horon*: a named road, and the Sirach 46 note is built on Sirach's *at the descent*.
+- **Jeremiah 48:5** *the ascent of Luhith… the descent of Horonaim*: named roads, as in Isaiah 15:5.
+- ***from the face of the earth*** (every place): English.
+- ***such and such*** (1 Samuel 21:2; 1 Kings 14:5; 2 Kings 5:4, 6:8, 9:12): English.
+- ***by their clans*** in lists and genealogies (1 Chronicles 5:7, 6:62–63; Nehemiah 4:13 *by families*; 1 Meqabyan 16:2): English.
+- **Jubilees 12:4** *all life is from before His face* and **17:2** *was before the face of Abraham his father*, and **1 Enoch 39:8, 39:10, 41:4** *from before* (*from of old*, *before the world*): what the Ge'ez means is not certain enough to change it.
+- **1 Meqabyan 24:12** *before the face of a man… the face of the gray-haired*: the repeated *face* is the verse's point.
+
+**Choices for you:** none; no meaning changes.
+
+| Where | Before | After |
+|---|---|---|
+| Joshua 11:23 | …according to their divisions by their tribes… | …according to their divisions, tribe by tribe… |
+| 1 Samuel 10:19 | …present yourselves before the LORD by your tribes and by your thousands… | …present yourselves before the LORD tribe by tribe and clan by clan… |
+| 1 Samuel 10:20 | …Samuel brought all the tribes of Israel near… | …Samuel brought all the tribes of Israel forward… |
+| 1 Samuel 10:21 | …He brought the tribe of Benjamin near by its clans… | …He brought the tribe of Benjamin forward clan by clan… |
+| 1 Samuel 10:21 | …brought the clan of the Matrites near man by man… | …brought the clan of the Matrites forward man by man… |
+| 1 Samuel 21:6 | …which had been taken away from before the LORD… | …which had been taken from the LORD's presence… |
+| 2 Samuel 7:15 | …whom I put away from before you… | …whom I removed to make way for you… |
+| 2 Samuel 17:15 | …"This and this is what Ahithophel counseled Absalom and the elders of Israel, and this and this is what I have counseled.… | …"This is what Ahithophel counseled Absalom and the elders of Israel, and this is what I have counseled.… |
+| 1 Kings 8:54 | …he rose from before the altar of the LORD, where he had knelt with his hands spread out toward the heavens… | …he rose from where he had knelt before the altar of the LORD, with his hands spread out toward the heavens… |
+| 2 Chronicles 1:13 | …from the high place at Gibeon, from before the tent of meeting, to Jerusalem… | …from the high place at Gibeon, from the tent of meeting, to Jerusalem… |
+| 2 Chronicles 20:26 | …That is why the name of that place is called the Valley of Beracah… | …That is why that place is called the Valley of Beracah… |
+| Ezra 10:6 | …Ezra rose from before the house of God… | …Ezra rose from in front of the house of God… |
+| Nehemiah 4:5 | …do not let their sin be blotted out from before You… | …do not let their sin be blotted out from Your sight… |
+| Psalms 31:22 | …I am cut off from before Your eyes… | …I am cut off from Your sight… |
+| Proverbs 17:24 | …Wisdom is before the face of the one who understands… | …Wisdom is right in front of the one who understands… |
+| Reproof (Tegsat) 1:5 | …take away the wicked from before the king… | …take away the wicked from the king's presence… |
+| Isaiah 1:16 | …remove the evil of your deeds from before My eyes… | …remove the evil of your deeds from My sight… |
+| Isaiah 30:11 | …make the Holy One of Israel cease from before us… | …stop setting the Holy One of Israel before us… |
+| Isaiah 48:19 | …cut off or destroyed from before Me… | …cut off or destroyed from My presence… |
+| Jeremiah 18:23 | …do not blot out their sin from before You… | …do not blot out their sin from Your sight… |
+| Jeremiah 31:36 | …If this fixed order departs from before Me… | …If this fixed order departs from My presence… |
+| Jeremiah 32:31 | …so that I must remove it from before My face… | …so that I must remove it from My sight… |
+| Lamentations 2:3 | …He has drawn back His right hand from before the enemy… | …He has drawn back His right hand in the face of the enemy… |
+| Ezekiel 45:8 | …they shall give the land to the house of Israel by their tribes… | …they shall give the land to the house of Israel tribe by tribe… |
+| Daniel 7:10 | …A river of fire was flowing and coming out from before Him… | …A river of fire was flowing and coming out from His presence… |
+| Jonah 2:4 | …I am driven away from before Your eyes… | …I am driven away from Your sight… |
+| Judith 11:13 | …the priests who stand before the face of our God in Jerusalem… | …the priests who stand before our God in Jerusalem… |
+| Jubilees 1:20 | …so that they perish from before Your face… | …so that they perish from Your presence… |
+| Jubilees 5:7 | …a word went out from before His face… | …a word went out from His presence… |
+| Jubilees 29:8 | …for this reason the name of that place is called the Heap of Witness… | …for this reason that place is called the Heap of Witness… |
+| Jubilees 35:10 | …carried off all your possessions from before your face… | …carried off all your possessions before your eyes… |
+| 1 Enoch 37:4 | …has not been given from before the Lord of Spirits… | …has not been given by the Lord of Spirits… |
+| 1 Enoch 48:9 | …they will burn before the face of the righteous, and like lead in water they will sink before the face of the holy… | …they will burn before the righteous, and like lead in water they will sink before the holy… |
+| 1 Enoch 52:9 | …when the Chosen One appears before the face of the Lord of Spirits… | …when the Chosen One appears before the Lord of Spirits… |
+| 1 Enoch 63:6 | …The light has passed from before us… | …The light has passed away from us… |
+| 1 Enoch 69:29 | …depart from before his face… | …depart from his presence… |
+| 1 Enoch 71:4 | …from where they go out before the face of the holy ones… | …from where they go out before the holy ones… |
+| 1 Enoch 90:34 | …it was sealed before the face of the Lord… | …it was sealed before the Lord… |
+| 1 Enoch 103:4 | …their memory will be before the face of the Great One… | …their memory will be before the Great One… |
+| 2 Meqabyan 12:3 | …So I will destroy from before My face all who do evil… | …So I will destroy from My sight all who do evil… |
+| 1 Samuel 10, v21 note | …brought the clan of the Matrites near man by man… | …brought the clan of the Matrites forward man by man… |
+| Nehemiah 4, vv4–5 note | …blotted out from before You… blot out their sin from before You… | …blotted out from Your sight… blot out their sin from Your sight… |
+| Jeremiah 18, v23 note | …blot out their sin from before You… blotted out from before You… | …blot out their sin from Your sight… blotted out from Your sight… |
+| Psalm 31, v22 note | …I am cut off from before Your eyes… | …I am cut off from Your sight… |
+| Jonah 2, v4 note | …I am driven away from before Your eyes… I am cut off from before Your eyes… | …I am driven away from Your sight… I am cut off from Your sight… |
+| Isaiah 30, vv11–12 note | …make the Holy One of Israel cease from before us… | …stop setting the Holy One of Israel before us… |
+
 ## Joshua 2:14, "Our life for yours, to die" (2026-11-06)
 
 **Request:** Andrew: "Our life for yours, to die — if you do not tell this business of ours" does not read naturally. Cause: the Hebrew is verbless, *nafshenu tachtekhem la-mut*, "our life in place of yours, to die"; the English copied the clipped form. The spies are promising Rahab and her family that they will stake their own lives on her safety, so the fix says that as a sentence. *Tachat* is "in place of, for" and *la-mut* "to death" (the Greek has the same, *eis thanaton*); the condition, *if you do not tell*, stays last as in the Hebrew.

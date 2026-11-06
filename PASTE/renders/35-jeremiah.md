@@ -1179,7 +1179,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Echoes in the notes, checked against this project's English where quoted:**
 - Genesis 19:25, 22:2, 22:12; Exodus 1:16, 23:11, 31:18, 33:23; Deuteronomy 5:12, 15:2, 28:53; 1 Samuel 3:11, 26:20; 1 Kings 22:20; 2 Kings 21:12, 23:12; 1 Chronicles 24:14; 2 Chronicles 36:21; Nehemiah 4:5, 13:18; Job 3:3; Psalms 1:3, 31:13, 106:23; Isaiah 24:1, 29:16, 45:9, 64:8.
 - Not yet rendered here, so quoted from the source: Jeremiah 29:26, 31:33; Ezekiel 7:26; Amos 2:5; Jonah 3:10; Zephaniah 1:5 (Hebrew); Romans 9:21 (SBLGNT).
-- Earlier notes that quote these chapters: 2 Chronicles 32's (17:5), Job 3's (20:14) and Matthew 27's (18:2) match. Nehemiah 4's quotes 18:23 as *Do not atone for their iniquity, and do not blot out their sin from before You*, and Nehemiah 13's and Jubilees 2's quote 17:21–22 with *load* and *by the gates*; the text now reads so in each. Psalm 1's quotes 17:8 as *He is like a tree*; logged in `NOTES_FOR_ANDREW.md` and not changed.
+- Earlier notes that quote these chapters: 2 Chronicles 32's (17:5), Job 3's (20:14) and Matthew 27's (18:2) match. Nehemiah 4's quotes 18:23 as *Do not atone for their iniquity, and do not blot out their sin from Your sight*, and Nehemiah 13's and Jubilees 2's quote 17:21–22 with *load* and *by the gates*; the text now reads so in each. Psalm 1's quotes 17:8 as *He is like a tree*; logged in `NOTES_FOR_ANDREW.md` and not changed.
 
 **Checked against the sources:**
 - Hebrew:
