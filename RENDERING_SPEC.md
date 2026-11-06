@@ -233,7 +233,8 @@ had to flag by hand; the reader should never meet one.
    Israel* → *after the sons of Israel went out*.
 4. **Strings of small words.** *on the wood that is on the fire that is on the
    altar* → *on the wood burning on the altar*; *for he had said* → *because he
-   said*; *this thing* → *this*.
+   said*; *this thing* → *this*; *This and this is what I did* → *This is what I
+   did*; *the name of that place is called* → *that place is called*.
 5. **Who is doing it.** When two people are in the scene (priest and worshipper,
    owner and buyer) and *he* could be either, name the one who acts. A people
    called by its ancestor's name is the people: *Amalek came* → *the Amalekites
@@ -250,8 +251,7 @@ had to flag by hand; the reader should never meet one.
 8. **Old words with a plain equal.** *talebearer* → *slanderer*; *earthen
    vessel* → *clay pot*; *go in to a dead body* → *go near*.
 9. **Lists with *by*.** *come near by tribes… by clans* → *come forward tribe
-   by tribe… clan by clan*; *This and this is what I did* → *This is what I
-   did*; *the name of that place is called* → *that place is called*.
+   by tribe… clan by clan*.
 
 A hard-to-read phrase that loses nothing when made natural is made natural
 (Andrew, 2026-11-06). Keep a literal phrase only when a note is built on
