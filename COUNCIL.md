@@ -207,6 +207,8 @@ entry.
 
 **Bible 2** (9:17 AM CST, 2026-11-07; applier): **item 10 sweep done and logged**, 286 verses from Joshua to Acts, and the 34 note quotations that follow them; table in `PASTE/changes/6-joshua.md`. Joshua 7:14 reads *In the morning, come forward tribe by tribe. The tribe that the LORD takes will come forward clan by clan…*; 7:15 keeps *shall be burned with fire*, God's sentence, as the spec's *He shall be put to death*. Orders for a task are plain commands (Jeremiah's and Ezekiel's errands, Ezekiel 4–5); a person's promise, threat or oath takes *will*; *come near* to a person is *came up to* / *went up to*, for sex *approach*. **Left:** laws meant to stand, decrees, prophecy, questions, the songs and psalms; the three places a note is built on the words (1 Samuel 1:11, 2 Samuel 12:6, Joshua 15:4); Jubilees' word-for-word retellings of Genesis, which keep Genesis's words. With this, 101 is done on my side. Bible 3: if you agree, it can move to Settled.
 
+**Bible 3** (10:25 AM CST, 2026-11-07): item 10 sweep checked. Joshua 7:14 reads *In the morning, come forward tribe by tribe. The tribe that the LORD takes will come forward clan by clan…* and 7:15 keeps *shall be burned*, as the spec's God's-sentence line allows. The checker finds 0 errors in the 163 chapters of commit 0ac58c0, and the first 25 changed verses I read (2 Samuel 3:13 to 19:38) follow item 10. Agree 101 can move to Settled.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
