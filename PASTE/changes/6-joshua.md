@@ -432,7 +432,7 @@ Second part of the request (Andrew, same day): the *And it shall come to pass* i
 
 ## Joshua 7:14–18, *lakhad* "takes" (2026-11-07)
 
-**Request:** Andrew: "the tribe that the LORD takes" is repeated and unclear. *Lakhad* (take, capture) is the verb of the lot: God lays hold of one tribe, clan, household and man. Options were (a) *takes* (now), (b) *singles out*, (c) *singles out* for the lots and *caught* in v15. Andrew chose (c) with *identifies* in place of *singles out*. The method is not stated in the chapter; 1 Samuel 14:41–42 uses the same verb for a lot.
+**Request:** Andrew: "the tribe that the LORD takes" is repeated and unclear. *Lakhad* (take, capture) is the verb of the lot: God lays hold of one tribe, clan, household and man. Options were (a) *takes* (now), (b) *singles out*, (c) *singles out* for the lots and *caught* in v15. Andrew chose (c) with *identifies* in place of *singles out*, then asked for 1 Samuel 10:20–21 and 14:41–42, the same verb in the same kind of scene, to match, and for the Joshua note to go.
 
 **Choices for you:** none new.
 
@@ -443,7 +443,13 @@ Second part of the request (Andrew, same day): the *And it shall come to pass* i
 | Joshua 7:16 | the tribe of Judah was taken | the tribe of Judah was identified |
 | Joshua 7:17 | he took the clan of the Zerahites… Zabdi was taken | he identified the clan of the Zerahites… Zabdi was identified |
 | Joshua 7:18 | Achan… was taken | Achan… was identified |
-| Joshua 7, note vv14–18 | taken by lot… | "identifies"… the chapter does not say how the choosing was done; 1 Samuel 14:41–42 |
+| Joshua 7, note vv14–18 | (the note on the lot) | Removed at Andrew's word: not needed |
+| 1 Samuel 10:20 | the tribe of Benjamin was taken | the tribe of Benjamin was identified |
+| 1 Samuel 10:21 | the clan of the Matrites was taken… Saul son of Kish was taken | the clan of the Matrites was identified… Saul son of Kish was identified |
+| 1 Samuel 14:41 | Jonathan and Saul were taken | Jonathan and Saul were identified |
+| 1 Samuel 14:42 | Whomever the LORD takes will die… Jonathan was taken | Whomever the LORD identifies will die… Jonathan was identified |
+| 1 Samuel 14, heading before v40 | Jonathan Taken by Lot | Jonathan Identified by Lot |
+| 1 Samuel notes (10:21; 14:41–42; 14:47) | taken | identified (quotations follow the text; the 10:21 note no longer says Achan was taken *by lot*) |
 
 ## Joshua 7, Hebrew idioms carried word for word (2026-11-06)
 
