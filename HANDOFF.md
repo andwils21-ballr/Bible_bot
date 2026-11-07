@@ -17,6 +17,9 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 | Andrew's requests (checkmarks only; cleared when all are done) | `PASTE/edits.md` |
 | Render reports (new chapters), one file per book | `PASTE/renders/` |
 | Before/after of every change to finished chapters, one file per book | `PASTE/changes/` |
+| Choices Andrew has ruled on, one file per book | `PASTE/decided/` |
+| Questions the sessions settle among themselves | `COUNCIL.md` (read its Open section) |
+| The Routine's prompt, word for word | `ROUTINE_PROMPT.md` |
 | Known problems, findings for Andrew | `NOTES_FOR_ANDREW.md` |
 
 ## Taking over
@@ -25,19 +28,30 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
    access `push`. Clone where the tool says, then `register_repo_root`.
 2. Read `CLAUDE.md`, then `RENDERING_SPEC.md`, in full.
 3. Read the last three rendered chapters, and the Genesis 25 notes, for voice.
-4. Recreate the Routine (below), and do one render cycle by hand first.
+4. **Turn off the old Routine first**, or two sessions will render the same
+   chapters: `list_triggers`, find "Bible_bot — render next chapters", and
+   `update_trigger` it with `enabled: false` (or ask a session that can, such
+   as Bible 2). Keep the old session; it can still be asked questions.
+5. Do one render cycle by hand, then create the new Routine (below) from the
+   new session, so it fires there.
 
 ## The Routine
 
-- **Timing:** four runs a day, at 7:45 AM, 12:45 PM, 5:45 PM and 10:45 PM
-  Central, from one trigger: `CRON_TZ=America/Chicago 45 7,12,17,22 * * *`.
-  The cron is written in Central time, so the runs do not move when daylight
-  time ends. The prompt is in `ROUTINE_PROMPT.md`.
+- **Timing:** three runs a day, at 1:37 PM, 6:37 PM and 11:37 PM Central,
+  from one trigger named "Bible_bot — render next chapters":
+  `CRON_TZ=America/Chicago 37 13,18,23 * * *`. The cron is written in Central
+  time, so the runs do not move when daylight time ends. The prompt is in
+  `ROUTINE_PROMPT.md`, word for word. Whoever changes the live Routine changes
+  this line in the same sitting.
 - **Binding:** it is self-bound, meaning it fires into the session that created
   it, which gives it that session's repo access and model.
-- **To recreate it:** `create_trigger` with neither `create_new_session_on_fire`
-  nor `persistent_session_id`, from an Opus session, with the prompt in
-  `ROUTINE_PROMPT.md`.
+- **To recreate it:** from the new Opus session, `create_trigger` with the
+  name and cron above, the prompt in `ROUTINE_PROMPT.md`, and neither
+  `create_new_session_on_fire` nor `persistent_session_id`. Only after the old
+  one is turned off (step 4 above).
+- **Other Routines:** the weekly spot check ("Bible_bot — weekly spot check
+  (in Bible 2)", Sundays 3:10 PM Central) fires into Bible 2, not into Main;
+  a new Main leaves it alone.
 - **Do not test with `fire_trigger`.** It spawns a separate session and gives a
   misleading failure. Wait for a real scheduled firing.
 
