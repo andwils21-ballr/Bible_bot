@@ -2,6 +2,86 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 23–26 — rendered 2026-11-06, 11:45 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 24:7, so the numbering skips from 6 to 8, and the note says so. The style is carried on from Acts 19–22. Readability items 6, 9 and 10 checked: no *from before* or *by tribes*; *before he comes near* (23:15) is *before he arrives*; promises and predictions take *will* (23:3, 35; 24:15, 22, 25; 25:12, 22); the Law Paul quotes keeps *shall* (23:5).
+
+**Form kept:**
+- No sentence starts with *And*, except *And now* at the turn of Paul's defense to the king (26:6).
+- *Tharsei*: *Take heart* (23:11), as Matthew 9:2 and 14:27.
+- 26:14–15 reuses the English of 9:4–5 and 22:7–8 where the Greek is the same.
+- 23:14 *anathemati anethematisamen*, a doubled noun and verb: *We have bound ourselves by an oath*, the plain verb; the note gives the doubling.
+- 23:9 the scribes' sentence breaks off with a dash, as the Greek does.
+- *Kyriō* of the emperor: *my lord* (25:26), lowercase.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Exodus 22:28 (and the Greek); Ezekiel 2:1, 13:10–11; Isaiah 42:7, 16 (and the Greek); Jeremiah 1:8 (and the Greek); Daniel 12:2; Matthew 9:2, 14:27, 23:27; Luke 1:3, 2:32, 3:8, 14:14, 20:27, 23:4, 24:23; Acts 2:21, 5:17, 9:3–6, 11:26, 13:47, 14:4, 15:5, 17:6, 17:22, 19:10, 19:21, 20:32, 21:27, 21:28, 22:3, 22:8, 22:16, 22:22, 22:24–29.
+
+**Checked against the sources:**
+- SBLGNT: Acts 23:1–26:32; Romans 15:25–26; Philippians 1:27; 1 Peter 4:16; Revelation 2:17; *dexiolabos* only in Acts; *Christianos* in Acts 11:26, 26:28 and 1 Peter 4:16 only.
+- Swete: Exodus 22:28; Isaiah 42:7, 16; Jeremiah 1:8; *dexiolabos* nowhere.
+
+**The checker** found 0 errors and 1 CHECK: 24:7 is missing, which is the edition (above). One *And* start at 23:35 was fixed.
+
+**What these chapters are:**
+- **23:** before the council Paul calls the high priest a *whitewashed wall*, then divides Pharisees from Sadducees over the resurrection. The Lord tells him *you must testify also in Rome*. Forty men swear not to eat until they kill him; his nephew warns the commander, who sends him to Felix at Caesarea by night with 470 soldiers and a letter.
+- **24:** Tertullus accuses Paul before Felix as *a plague* and ringleader of *the Nazarenes*; Paul answers that he worships the God of his fathers and hopes for the resurrection. Felix, afraid at talk of *the coming judgment*, keeps him two years hoping for a bribe.
+- **25:** Festus, the new governor, would send him to Jerusalem; Paul says *I appeal to Caesar*. King Agrippa and Bernice come, and Festus lays out the case: *a certain Jesus, who had died, whom Paul asserted to be alive*.
+- **26:** Paul tells Agrippa the road to Damascus a third time, with *it is hard for you to kick against the goads* and his commission *to open their eyes*. Festus shouts that he is out of his mind; Agrippa asks, *In a short time you would persuade me to become a Christian?* They agree he could have gone free if he had not appealed.
+
+### Acts 23: Before the Council
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pepoliteumai* "I have lived as a citizen" | I have lived my life (note) |
+| 3 | *tiche kekoniamene* "wall that has been whitewashed" | you whitewashed wall (note) |
+| 3 | *paranomōn* "acting against the law" | against the Law |
+| 14 | *anathemati anethematisamen* "with a curse we have cursed ourselves" | We have bound ourselves by an oath (note) |
+| 15 | *pro tou engisai auton* "before his coming near" | before he arrives |
+| 23 | *dexiolabous* "right-hand-takers" | spearmen — ***KEPT AS IS***, the meaning of the word is not certain (note) |
+| 25 | *echousan ton typon touton* "having this pattern" | to this effect |
+
+### Acts 24: Paul Before Felix
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *rhētoros* "a speaker" | an advocate |
+| 5 | *loimon* "a pestilence" | a plague (note) |
+| 14 | *tō patrōō theō* "the ancestral God" | the God of our fathers (note) |
+| 16 | *aproskopon* "without stumbling" | clear (note) |
+| 23 | *echein te anesin* "and to have a loosening" | to let him have some freedom |
+| 25 | *to nyn echon* "as for the present" | for now |
+| 27 | *dedemenon* "bound" | in prison (note) |
+
+### Acts 25: I Appeal to Caesar
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *hoi… en hymin dynatoi* "the powerful among you" | the men of authority among you |
+| 11 | *Kaisara epikaloumai* "I call upon Caesar" | I appeal to Caesar (note) |
+| 19 | *deisidaimonias* "fear of the divinities" | religion (note) |
+| 21 | *tou Sebastou* "of the revered one" | of the Emperor (note) |
+| 23 | *meta pollēs phantasias* "with much show" | with great pomp (note) |
+| 26 | *asphales ti* "anything sure" | nothing definite |
+
+### Acts 26: Paul Before Agrippa
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 7 | *to dōdekaphylon* "the twelve-tribe" | our twelve tribes (note) |
+| 10 | *katēnenka psēphon* "I brought down a pebble" | I cast my vote (note) |
+| 14 | *pros kentra laktizein* "to kick toward goads" | to kick against the goads (note) |
+| 23 | *ei pathētos ho christos* "whether the Messiah is subject to suffering" | that the Messiah would suffer (note) |
+| 24 | *ta polla… grammata* "the many letters" | your great learning (note) |
+| 28 | *en oligō… Christianon poiēsai* "in little… to make a Christian" | In a short time you would persuade me to become a Christian? (choice below) |
+
+**Choices for you:**
+- **26:28, *en oligō***
+  - (a) **in a short time** (now): *In a short time you would persuade me to become a Christian?*, a king turning aside a quick appeal.
+  - (b) **almost**: *Almost you persuade me to become a Christian*, a king half won.
+  - Recommend (a): Paul's answer, *whether short or long*, takes *oligō* with *megalō* as a measure of time or effort, not of how near Agrippa came.
+
 ## Acts 19–22 — rendered 2026-11-06, 6:45 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; it marks *of God* and *His own blood* in 20:28 as places where manuscripts differ, and the note says so. It joins 19:41 to 19:40; the English numbering keeps v41, and the note says so. The style is carried on from Acts 15–18. Readability items 6, 9 and 10 checked: no *from before*, *by tribes* or *come near*; promises and predictions take *will* (19:21; 20:25, 29–30; 21:22, 24; 22:15, 18); Agabus' prophecy keeps *will* (21:11).

@@ -1,6 +1,6 @@
 # Progress
 
-**1389 of 1989 chapters rendered (69.8%).**
+**1393 of 1989 chapters rendered (70.0%).**
 
 Next up: **Esther 11**
 
@@ -64,7 +64,7 @@ Next up: **Esther 11**
 | 56 | Mark | source | done |
 | 57 | Luke | source | done |
 | 58 | John | source | 20/21 |
-| 59 | Acts | source | 22/28 |
+| 59 | Acts | source | 26/28 |
 | 60 | Romans | source | 0/16 |
 | 61 | 1 Corinthians | source | 0/16 |
 | 62 | 2 Corinthians | source | 0/13 |
