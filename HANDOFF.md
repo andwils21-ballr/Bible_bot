@@ -37,9 +37,9 @@ then HANDOFF.md, and take over."** That is the whole recovery procedure.
 
 ## The Routine
 
-- **Timing:** three runs a day, at 1:37 PM, 6:37 PM and 11:37 PM Central,
+- **Timing:** three runs a day, at 2:00 PM, 7:00 PM and 1:00 AM Central (Andrew, 2026-11-07),
   from one trigger named "Bible_bot — render next chapters":
-  `CRON_TZ=America/Chicago 37 13,18,23 * * *`. The cron is written in Central
+  `CRON_TZ=America/Chicago 0 1,14,19 * * *` (`trig_01QqWNtXbKURJrtiNTK4wCWe`, created 11:00 AM CST 2026-11-07 by the new Main). The cron is written in Central
   time, so the runs do not move when daylight time ends. The prompt is in
   `ROUTINE_PROMPT.md`, word for word. Whoever changes the live Routine changes
   this line in the same sitting.
