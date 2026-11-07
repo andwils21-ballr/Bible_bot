@@ -2,6 +2,92 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 19–22 — rendered 2026-11-06, 6:45 PM CST
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; it marks *of God* and *His own blood* in 20:28 as places where manuscripts differ, and the note says so. It joins 19:41 to 19:40; the English numbering keeps v41, and the note says so. The style is carried on from Acts 15–18. Readability items 6, 9 and 10 checked: no *from before*, *by tribes* or *come near*; promises and predictions take *will* (19:21; 20:25, 29–30; 21:22, 24; 22:15, 18); Agabus' prophecy keeps *will* (21:11).
+
+**Form kept:**
+- No sentence starts with *And*, except *And now* at the turns of Paul's farewell (20:22, 25, 32), where *kai nyn* turns from what he has done to what is coming.
+- *Egeneto* plain (19:1, 23; 21:1, 5, 35; 22:6, 17), as Council item 99. *Idou* cut (20:22, 25).
+- *Tade legei to pneuma to hagion*: *This is what the Holy Spirit says* (21:11), the spec's form for *Thus says*.
+- 22:6–16 reuses the English of 9:3–18 where the Greek is the same (*Saul, Saul, why are you persecuting Me?*; *Who are You, Lord?*; *whom you are persecuting*; *Brother Saul*; *regain your sight*).
+- *Arrived in Damascus* (22:11), not *came into*.
+- *Hebrew language* (21:40; 22:2) kept for *Hebraidi dialektō*; the note says it may be Aramaic.
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Exodus 7:22 (and the Greek); Numbers 6:18; 1 Samuel 12:3; 1 Kings 17:21; 2 Kings 4:34; Jeremiah 13:1; Luke 3:16, 8:44, 10:3, 12:37, 15:20, 18:32, 22:41, 22:42, 23:18, 24:1, 24:35; Acts 1:8, 1:16, 2:4, 2:17, 2:21, 2:39, 2:46, 3:21, 4:6, 5:15, 5:34, 6:5, 6:7, 6:13, 6:14, 7:2, 7:52, 8:1, 8:40, 9:2, 9:3–18, 10:10, 10:15, 10:46, 11:28, 12:6, 12:24, 13:25, 14:22, 15:29, 16:17, 16:37, 17:24, 18:6, 18:18, 18:25, 21:20, 21:36.
+
+**Checked against the sources:**
+- SBLGNT: Acts 19:1–22:30; Acts 9:7, 26:18; Luke 15:20, 22:41, 23:18, 24:1; Romans 2:22; Hebrews 9:12, 10:38; *more blessed to give* in none of the four Gospels.
+- Swete: Exodus 7:22.
+
+**The checker** found 0 errors and 0 CHECKs (one *came into* at 22:11 was fixed).
+
+**What these chapters are:**
+- **19:** at Ephesus twelve disciples who knew only John's baptism receive the Spirit. Paul teaches two years in the hall of Tyrannus; the sons of Sceva are beaten by the spirit they tried to command, and the magic books are burned. Demetrius the silversmith fills the theater with *Great is Artemis of the Ephesians!* until the town clerk sends the crowd home.
+- **20:** through Macedonia and Greece; at Troas Eutychus falls from the window during Paul's long talk and is taken up alive. At Miletus Paul tells the elders of Ephesus they will not see his face again: *keep watch over… the flock*, wolves will come, *it is more blessed to give than to receive*.
+- **21:** the voyage to Tyre and Caesarea; Agabus binds himself with Paul's belt. In Jerusalem James asks Paul to pay for four men's vows; Jews from Asia see him in the temple, the crowd drags him out, and the Roman commander takes him in two chains.
+- **22:** from the steps Paul tells the crowd of the road to Damascus and the word *I will send you far away to the Gentiles*, at which they cry *Away with such a man!* About to be flogged, he says he is a Roman, born a citizen.
+
+### Acts 19: Ephesus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *all' oud' ei pneuma hagion estin ēkousamen* "but not even if there is a Holy Spirit did we hear" | we have not even heard that there is a Holy Spirit |
+| 11 | *ou tas tychousas* "not the ones happening by chance" | extraordinary (note) |
+| 12 | *apo tou chrōtos autou* "from his skin" | that had touched his skin |
+| 13 | *horkizō hymas* "I put you on oath" | I command you |
+| 19 | *argyriou myriadas pente* "five ten-thousands of silver" | fifty thousand pieces of silver (note) |
+| 21 | *etheto… en tō pneumati* "set in the spirit" | resolved in the Spirit (choice below) |
+| 31 | *mē dounai heauton* "not to give himself" | not to venture |
+| 35 | *diopetous* "fallen from Zeus" | the image that fell from the sky (note) |
+
+### Acts 20: Farewell at Miletus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *egeneto gnōmēs* "he became of a mind" | he decided |
+| 7 | *tē mia tōn sabbatōn* "on one of the sabbaths" | On the first day of the week (note) |
+| 9 | *ērthē nekros* "was taken up dead" | was picked up dead (note) |
+| 20, 27 | *hypesteilamēn* "I drew back" | I did not shrink (note) |
+| 22 | *dedemenos… tō pneumati* "bound in the spirit" | bound in the Spirit (same choice as 19:21) |
+| 24 | *oudenos logou poioumai tēn psychēn timian* "of no account I make my life precious" | I do not count my life of any value to myself |
+| 28 | *dia tou haimatos tou idiou* "through the blood, the own" | with His own blood (choice below) |
+
+### Acts 21: Arrested in the Temple
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *apospasthentas* "having been torn away" | torn ourselves away (note) |
+| 9 | *parthenoi* "virgins" | unmarried (note) |
+| 13 | *synthryptontes mou tēn kardian* "crushing my heart" | breaking my heart |
+| 16 | *archaiō mathētē* "an ancient disciple" | a disciple from the early days |
+| 20 | *myriades* "tens of thousands" | thousands (note) |
+| 21 | *apostasian… apo Mōuseōs* "standing away from Moses" | to forsake Moses (note) |
+| 24 | *stoicheis… phylassōn ton nomon* "you walk in line, keeping the Law" | you yourself also live in keeping with the Law |
+| 39 | *ouk asēmou poleōs* "of a not unmarked city" | of no ordinary city (note) |
+
+### Acts 22: Paul's Defense on the Steps
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *kata akribeian tou patrōou nomou* "according to the exactness of the ancestral law" | trained strictly in the law of our fathers |
+| 9 | *tēn de phōnēn ouk ēkousan* "but the voice they did not hear" | did not hear the voice (note) |
+| 14 | *proecheirisato se* "has taken you in hand beforehand" | has appointed you |
+| 22 | *ou gar kathēken auton zēn* "for it was not fitting for him to live" | He should not be allowed to live! |
+| 28 | *pollou kephalaiou* "for a great sum" | for a large sum |
+
+**Choices for you:**
+- **19:21 and 20:22, *en tō pneumati***
+  - (a) **in the Spirit** (now): the Holy Spirit sets his course and binds him to it; 20:23 goes on, *the Holy Spirit testifies to me*.
+  - (b) **in his spirit**: his own resolve, *he made up his mind*; *bound in my spirit*, held by his own purpose.
+  - Recommend (a): the next verse in chapter 20 names the Holy Spirit, and 21:4 again ties the journey to *the Spirit*.
+- **20:28, *dia tou haimatos tou idiou***
+  - (a) **with His own blood** (now): God's own blood, as Hebrews says of Christ, *through His own blood* (9:12).
+  - (b) **with the blood of His own**: *His own* as a name for the Son, the blood of His own Son.
+  - Recommend (a): *tou idiou* after its noun is the ordinary way to say *his own* with a noun, and the plain reading takes it so; (b) needs a word the verse does not have.
+
 ## Acts 15–18 — rendered 2026-11-06, 1:50 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It has no 15:34, so the numbering skips from 33 to 35, and the note says so; it marks 16:12 *a leading city of the district* and the opening of 18:21 as places where manuscripts differ, and the notes say so. The style is carried on from Acts 11–14. This is the first run under readability items 6, 9 and 10 (Andrew, 2026-11-06): no *from before*, no *by tribes*, no *come near*; the futures are *will* in promises (16:31; 17:32; 18:10, 21), and the Amos quotation keeps the prophecy's *I will* (15:16).
