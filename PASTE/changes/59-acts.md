@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Acts 27–28 notes cut to what matters (Andrew, 2026-11-07, 11:40 AM CST)
+
+**Request:** Andrew: the reader does not need the decision-making, nor notes written to fill ten; keep a note only if it matters to the Bible as a whole or to how a main idea can be read (the model: John 1:1, *logos*). Now the rule in `CLAUDE.md` §3; the spec's three-note minimum is gone.
+
+| Where | Before | After |
+|---|---|---|
+| Acts 27, notes | ten: v1 (the *we*), v9 (the Fast), vv10, 21–22 (loss of lives), v14 (the Northeaster), v17 (the sail), vv18–19, 38 (Jonah), vv20–44 (*saved*), vv23–24 (*stand by*, *must*), v29 (*prayed*), vv34–35 (Luke 21:18, the Last Supper) | three: Jonah; *saved*; Luke 21:18 and the Last Supper |
+| Acts 28, notes | ten: vv1, 4, 6 (Justice), v2 (*barbaroi*, kindness), vv3–6 (the viper), v11 (the Twin Brothers), vv14–16 (Rome reached), vv17–22 (handed over), vv25–27 (Isaiah 6), v28 (*salvation*), v29, vv30–31 (*unhindered*) | five: handed over, as Jesus was; Isaiah 6, with the Hebrew's difference; *this salvation of God*; v29; *unhindered* |
+| Acts 28, note vv25–27 | *Acts ends where Jesus' parables began* | the Hebrew's *Make the heart… fat* against the Greek's *has grown fat*; Luke 8:10 |
+
 ## Acts 27:17, *chalasantes to skeuos*: the gear is the sail (Andrew, 2026-11-07, 11:15 AM CST)
 
 **Request:** Andrew: *gear* seems odd for an anchor but natural for a ship's sailing parts, and *anchor* is named outright soon after (27:29); use *sails*.

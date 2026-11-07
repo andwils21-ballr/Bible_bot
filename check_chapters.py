@@ -200,10 +200,11 @@ def check(path):
             if m:
                 add("ERROR", where, f"*{m.group(0)}*: {rule}")
 
-    # Notes: three to ten, each anchored, none about the work itself.
+    # Notes: no minimum, ten at most (Andrew, 2026-11-07), each anchored, none
+    # about the work itself.
     entries = re.findall(r"^- \*\*(.*?)$((?:\n(?!- \*\*).*)*)", notes, re.M)
-    if _ and not 3 <= len(entries) <= 10:
-        add("CHECK", "notes", f"{len(entries)} notes (the spec says three to ten)")
+    if _ and len(entries) > 10:
+        add("CHECK", "notes", f"{len(entries)} notes (the spec says ten at most; less is more)")
     for head, rest in entries:
         anchor = head.split("**")[0]
         full = head + rest

@@ -70,19 +70,24 @@ If it changes meaning or feeling, it gets a note.
 
 ## 3. Notes
 
-Write a note for:
+**Less is more** (Andrew, 2026-11-07). A note earns its place only if it
+matters to the Bible as a whole or to how a main idea can be read. There is no
+set number; a plain chapter may have one note, or none. Two kinds pass:
 
-1. **Anything of substance that differs from the generally accepted rendering.**
+1. **A rendering of substance that differs from the generally accepted one.**
    Give the literal options and say which one the text uses.
-2. **A genuinely interesting connection**: what a word actually does, a
-   deliberate echo of another passage, wordplay the English drops.
+2. **A word or echo that opens up a main idea**: John 1:1's *logos*, which also
+   means the reason or ordering principle of a thing; a deliberate echo of
+   another book; wordplay that carries the point.
 
-Never write a note for a mundane choice or for behind-the-curtain reasoning:
-*chose this for readability*, *we decided*, *Andrew asked*. A change that only
-makes the wording clearer gets no note.
+Never write a note to fill space: no trivia (where a wind's name comes from),
+no mundane choice, no behind-the-curtain reasoning (*chose this for
+readability*, *the context fits*, *we decided*, *Andrew asked*). A change that
+only makes the wording clearer gets no note.
 
-**The model is the Genesis 25 notes on vv21, 22 and 23** (`books/1-genesis/25.md`).
-Read them before writing notes.
+**The models are the Genesis 25 notes on vv21–23 and the John 1 note on
+vv1–2** (`books/1-genesis/25.md`, `books/58-john/01.md`). Read them before
+writing notes.
 
 - Every claim must be checkable in the source text you printed.
 - Never invent a manuscript reading, a variant, a scholar, or a hidden meaning.

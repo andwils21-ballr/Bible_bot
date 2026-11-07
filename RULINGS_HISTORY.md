@@ -4,6 +4,15 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-07, less is more in the notes.** After Acts 27–28 Andrew said the
+  notes, under the old Main and the new, showed the decision-making and were
+  written to fill the count. The spec had required three to ten notes a
+  chapter, and CLAUDE.md §3 allowed any *genuinely interesting connection*.
+  The floor went (the checker now flags only more than ten), the test became
+  *matters to the Bible as a whole or to how a main idea can be read*, and John
+  1:1's *logos* joined Genesis 25 as a model. Acts 27–28 were cut from ten
+  notes each to three and five. No sweep of earlier books.
+
 - **2026-11-06, *shall* and *come near*.** After the Joshua 7 fix Andrew said
   *shall come near* bothered him more than the *by*. The spec had no rule for
   *shall*, and *come near* carried the Hebrew *qarav* word for word. He chose

@@ -17,7 +17,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - Set as prose.
 
 **Echoes in the notes, checked against this project's English where quoted:**
-- Leviticus 16:29; Jonah 1:5 (and the Greek), 1:12; Isaiah 6:2, 6:10; Matthew 13:14–15; Luke 2:30, 2:34, 3:6, 3:7, 8:10, 10:19, 19:10, 21:18, 22:19, 24:7; Acts 1:3, 4:29, 8:36, 13:28, 14:11, 14:19, 19:21, 21:11, 21:18, 23:11, 26:29, 27:3, 27:44. 1 Corinthians 14:11 and Titus 3:4 are not yet rendered; the notes give only what their Greek says.
+- Jonah 1:5 (and the Greek), 1:12; Isaiah 6:10; Matthew 13:14–15; Luke 2:30, 3:6, 8:10, 19:10, 21:18, 22:19, 24:7; Acts 1:3, 13:28, 21:11. (The notes were cut to these on 2026-11-07, at Andrew's word: `PASTE/changes/59-acts.md`.)
 
 **Checked against the sources:**
 - SBLGNT: Acts 27:1–28:31; Matthew 13:14–15; Luke 2:30, 2:34, 3:6, 8:10, 19:10, 21:18, 22:19, 23:22, 24:7; Acts 1:3, 4:29, 13:28, 14:11, 21:11, 26:29; 1 Corinthians 14:11; Colossians 3:11; Titus 3:4. Searched across the New Testament: *Eurakylōn*, *antophthalmeō*, *dithalassos*, *ekbolē* and *akōlytōs* only here; *thrix* in Luke and Acts only at Luke 21:18 and Acts 27:34; *philanthrōpia* only Acts 28:2 and Titus 3:4; *to sōtērion* only Luke 2:30, 3:6, Acts 28:28 (and Ephesians 6:17).
@@ -38,10 +38,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 3 | *epimeleias tychein* "to obtain care" | be cared for |
 | 12 | *blepon kata liba kai kata chōron* "looking toward Lips and toward Chorus" (two winds) | facing southwest and northwest |
 | 13 | *doxantes tēs protheseōs kekratēkenai* "thinking they had taken hold of their purpose" | they thought they had what they wanted |
-| 14 | *anemos typhōnikos ho kaloumenos Eurakylōn* "a whirlwind-like wind called Euraquilo" | a wind of hurricane force, called the Northeaster (note) |
-| 15 | *antophthalmein* "to look in the eye" | face (note) |
+| 14 | *anemos typhōnikos ho kaloumenos Eurakylōn* "a whirlwind-like wind called Euraquilo" | a wind of hurricane force, called the Northeaster |
+| 15 | *antophthalmein* "to look in the eye" | face |
 | 17 | *boētheiais echrōnto hypozōnnyntes* "they used helps, girding underneath" | used supports to hold the ship together, binding it round underneath |
-| 17 | *chalasantes to skeuos* "having let down the gear" | they lowered the sail (note; changed 2026-11-07, see `PASTE/changes/59-acts.md`) |
+| 17 | *chalasantes to skeuos* "having let down the gear" | they lowered the sail (changed 2026-11-07, see `PASTE/changes/59-acts.md`) |
 | 18 | *ekbolēn epoiounto* "they made a throwing-out" | they began to throw the cargo overboard (note) |
 | 20 | *loipon periēreito elpis pasa* "for the rest, all hope was being stripped off" | at last all hope… was being taken from us |
 | 21 | *kerdēsai te tēn hybrin tautēn* "and to gain this damage" | and so been spared this damage |
@@ -49,7 +49,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 27 | *prosagein tina autois chōran* "some land was approaching them" | they were nearing land |
 | 29 | *ēuchonto* "they prayed / wished" | prayed (decided; see `PASTE/decided/59-acts.md`) |
 | 34 | *pros tēs hymeteras sōtērias* "toward your salvation" | for your safety (note) |
-| 37 | *hai pasai psychai* "all the souls" | souls (note) |
+| 37 | *hai pasai psychai* "all the souls" | souls |
 | 41 | *topon dithalasson* "a two-sea place" | a place where two seas met |
 | 41 | *hypo tēs bias* "by the force" | by the pounding |
 
@@ -57,15 +57,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 2 | *hoi barbaroi* "the non-Greek speakers" | the islanders (note) |
-| 2 | *ou tēn tychousan philanthrōpian* "not the chance love of mankind" | no ordinary kindness (note) |
+| 2 | *hoi barbaroi* "the non-Greek speakers" | the islanders |
+| 2 | *ou tēn tychousan philanthrōpian* "not the chance love of mankind" | no ordinary kindness |
 | 4 | *hē dikē* "justice" | Justice (decided; see `PASTE/decided/59-acts.md`) |
 | 7 | *tō prōtō tēs nēsou* "the first of the island" | the leading man of the island |
 | 10 | *pollais timais etimēsan* "honored with many honors" | honored us in many ways |
-| 11 | *parasēmō Dioskourois* "marked with the Dioskouroi" | with the Twin Brothers as its figurehead (note) |
+| 11 | *parasēmō Dioskourois* "marked with the Dioskouroi" | with the Twin Brothers as its figurehead |
 | 13 | *perielontes* "having taken away" (the anchors, as 27:40) | we cast off |
 | 13 | *deuteraioi* "second-day men" | on the second day |
-| 14 | *kai houtōs* "and thus" | In this way (note) |
+| 14 | *kai houtōs* "and thus" | In this way |
 | 25 | *rhēma hen* "one word" | one statement |
 | 26 | *akoē akousete* "with hearing you will hear" | You will keep on hearing (Matthew 13:14's English) |
 

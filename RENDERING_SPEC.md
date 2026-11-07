@@ -62,7 +62,8 @@ rendered: 2026-09-14
 - Every verse starts its own paragraph with `**N** `. For poetry, keep the
   marker and break lines with a trailing double space. The site and the Word
   build depend on this exact convention.
-- `## Notes` is mandatory: three to ten entries, each anchored to a verse.
+- `## Notes` is mandatory; it holds only notes that pass `CLAUDE.md` §3, each
+  anchored to a verse, ten at most.
 - A note's one permitted link:
   `See [the map after Joshua 24, stage N](#/joshua/s1/N).`
 - No preamble and no sign-off.
@@ -431,8 +432,8 @@ examples have two jobs, kept apart:
   - **Leviticus 17**: law.
 
   Where a recent chapter and a fixed model differ on a rule, the fixed model
-  and this spec win; the recent chapter is the one that slipped. For the number
-  of notes, *three to ten* above governs.
+  and this spec win; the recent chapter is the one that slipped. For which notes to
+  write, `CLAUDE.md` §3 governs.
 - **A new writer.** In the first one or two runs of a book by a new author,
   there are no recent chapters of that writer: take the style from the source
   text itself and the rules from the fixed models. Do not carry the previous
