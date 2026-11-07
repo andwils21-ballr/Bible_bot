@@ -41,13 +41,13 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 14 | *anemos typhōnikos ho kaloumenos Eurakylōn* "a whirlwind-like wind called Euraquilo" | a wind of hurricane force, called the Northeaster (note) |
 | 15 | *antophthalmein* "to look in the eye" | face (note) |
 | 17 | *boētheiais echrōnto hypozōnnyntes* "they used helps, girding underneath" | used supports to hold the ship together, binding it round underneath |
-| 17 | *chalasantes to skeuos* "having let down the gear" | they lowered the gear — ***KEPT AS IS***, the verse does not say which gear (note) |
+| 17 | *chalasantes to skeuos* "having let down the gear" | they lowered the sail (note; changed 2026-11-07, see `PASTE/changes/59-acts.md`) |
 | 18 | *ekbolēn epoiounto* "they made a throwing-out" | they began to throw the cargo overboard (note) |
 | 20 | *loipon periēreito elpis pasa* "for the rest, all hope was being stripped off" | at last all hope… was being taken from us |
 | 21 | *kerdēsai te tēn hybrin tautēn* "and to gain this damage" | and so been spared this damage |
 | 22 | *kai ta nyn* "and the now" | But now |
 | 27 | *prosagein tina autois chōran* "some land was approaching them" | they were nearing land |
-| 29 | *ēuchonto* "they prayed / wished" | prayed (choice below) |
+| 29 | *ēuchonto* "they prayed / wished" | prayed (decided; see `PASTE/decided/59-acts.md`) |
 | 34 | *pros tēs hymeteras sōtērias* "toward your salvation" | for your safety (note) |
 | 37 | *hai pasai psychai* "all the souls" | souls (note) |
 | 41 | *topon dithalasson* "a two-sea place" | a place where two seas met |
@@ -59,7 +59,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 |---|---|---|
 | 2 | *hoi barbaroi* "the non-Greek speakers" | the islanders (note) |
 | 2 | *ou tēn tychousan philanthrōpian* "not the chance love of mankind" | no ordinary kindness (note) |
-| 4 | *hē dikē* "justice" | Justice (choice below) |
+| 4 | *hē dikē* "justice" | Justice (decided; see `PASTE/decided/59-acts.md`) |
 | 7 | *tō prōtō tēs nēsou* "the first of the island" | the leading man of the island |
 | 10 | *pollais timais etimēsan* "honored with many honors" | honored us in many ways |
 | 11 | *parasēmō Dioskourois* "marked with the Dioskouroi" | with the Twin Brothers as its figurehead (note) |
@@ -69,15 +69,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 25 | *rhēma hen* "one word" | one statement |
 | 26 | *akoē akousete* "with hearing you will hear" | You will keep on hearing (Matthew 13:14's English) |
 
-**Choices for you:**
-- **27:29, *ēuchonto***
-  - (a) **prayed for day to come** (now): the sailors pray, as the sailors of the Greek Jonah, the chapter's echo, cry each to his god (Jonah 1:5).
-  - (b) **longed for day to come**: a wish, with no one addressed.
-  - Recommend (a): *euchomai* is *pray* in Paul's *I would pray to God* (26:29), and the chapter is built on Jonah's storm.
-- **28:4, *hē dikē***
-  - (a) **Justice** (now): the goddess who repays, a power the islanders name.
-  - (b) **justice**: retribution in general, with no god named.
-  - Recommend (a): she acts (*has not let him live*), and two verses later the same islanders call Paul *a god* (v6).
+**Choices for you:** all decided; moved to `PASTE/decided/59-acts.md`.
 
 ## Acts 23–26 — rendered 2026-11-06, 11:45 PM CST
 
