@@ -2,6 +2,349 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## *Shall* and *come near*: the sweep from Joshua on (2026-11-07)
+
+**Request:** Andrew's ruling of 2026-11-06, readability pass item 10 (*shall* and *come near*), after *shall come near* in Joshua 7 bothered him more than the *by*. Asked of Bible 2 in `COUNCIL.md`, item 101: sweep Joshua to the last rendered chapter, Genesis to Deuteronomy left alone, Joshua 7:14 first.
+
+**Options laid out:** each *shall* and *come near* was read in its sentence and sorted by the spec's item 10.
+- **An order for a task in the scene** became a plain command: *you shall say to them* → *say to them* (God's errands for Jeremiah and Ezekiel, Ezekiel's sign-acts in chapters 4–5), *You shall not go up* → *Do not go up*; a third person in an order takes *will* or *are to* (*The tribe that the LORD takes will come forward*; *a third of you will keep watch*, 2 Kings 11 and 2 Chronicles 23).
+- **A person's prediction, promise, threat or oath** took *will*: *not one hair… will fall* (1 Samuel 14:45; 2 Samuel 14:11; 1 Kings 1:52), *Solomon your son will reign after me* (1 Kings 1, all four times), *Your people will be my people* (Ruth 1:16), Esther's king, *It will be granted you* (all four times).
+- ***Come near* to a person** became *came up to* / *went up to* (2 Kings 2:5; 1 Kings 22:24 and 2 Chronicles 18:23, as the spec's example); in battle, *advanced against* (Judges 20:24); for sex, *approach* (Ezekiel 18:6; Tobit 6:15; Jubilees 33:9, 41:20).
+- Parallel passages were kept alike (Samuel–Kings and Chronicles; 1 Kings 13:9 and 13:17; Jeremiah's errands).
+
+**Left as they are:**
+- **Laws and commandments meant to stand**: the refuge towns (Joshua 20), the law of the king's share (1 Samuel 30:24), every law in Jubilees, Ezekiel 40–48, the royal decrees of Ezra and Daniel, the community's covenant (Nehemiah 10), the Law as the Gospels quote it, Jesus' *It shall not be so among you*, and the church canons.
+- **Prophecy**: every word of God or a prophet about what is coming, the songs and psalms, Isaiah, Jeremiah's and Ezekiel's oracles, the angel's *you shall call His name* (Matthew 1:21; Luke 1:13, 31), and *yet shall he live* (John 11:25).
+- **Questions** (*What shall we do?*).
+- **Where a note is built on the words**: 1 Samuel 1:11 *no razor shall go up on his head* (the note ties it to Judges 13:5); 2 Samuel 12:6 *He shall repay the ewe lamb fourfold* (the law of Exodus 22:1); Joshua 15:4 *This shall be your south border* (the formula of Numbers 34).
+- **Jubilees' retellings of Genesis**, which keep Genesis's words (3:6, 13:29, 17:4, 22:10–11, 24:13, 26:17, 26:21, 26:28).
+- ***Come near*** for a place (*came near the entrance of the tower*), for time (*the kingdom of heaven has come near*), and for priests or anyone approaching God or the altar (1 Kings 18:36; Ezekiel 44).
+
+**Choices for you:** none; no meaning changes.
+
+| Where | Before | After |
+|---|---|---|
+| Joshua 1:14 | …livestock shall stay in the land… | …livestock will stay in the land… |
+| Joshua 1:14 | …but you shall cross over in ranks… | …but you are to cross over in ranks… |
+| Joshua 1:15 | …Then you shall return to the land… | …Then you may return to the land… |
+| Joshua 3:3 | …then you shall set out from your place and go after it… | …then set out from your place and follow it… |
+| Joshua 3:4 | …But there shall be a distance between you and it… | …But keep a distance between you and it… |
+| Joshua 4:7 | …you shall say to them,… | …tell them,… |
+| Joshua 4:7 | …These stones shall be a memorial… | …These stones will be a memorial… |
+| Joshua 4:22 | …you shall let your sons know… | …let your sons know… |
+| Joshua 6:3 | …You shall march around the city, all the men of war, going around the city once. So you shall do for six days.… | …March around the city, all the men of war, going around the city once. Do this for six days.… |
+| Joshua 6:4 | …Seven priests shall carry seven rams' horns before the ark. On the seventh day you shall march around the city seven times, and the priests shall blow the horns.… | …Seven priests will carry seven rams' horns before the ark. On the seventh day march around the city seven times, and the priests will blow the horns.… |
+| Joshua 6:5 | …all the people shall give a great shout… | …all the people are to give a great shout… |
+| Joshua 6:5 | …and the people shall go up, each man straight ahead… | …and the people will go up, each man straight ahead… |
+| Joshua 6:10 | …"You shall not shout or let your voice be heard, and no word shall go out of your mouth until the day I say to you, 'Shout!' Then you shall shout."… | …"Do not shout or let your voice be heard, and let no word go out of your mouth until the day I say to you, 'Shout!' Then shout."… |
+| Joshua 6:17 | …The city and all that is in it shall be devoted to the LORD. Only Rahab the prostitute shall live,… | …The city and all that is in it will be devoted to the LORD. Only Rahab the prostitute will live,… |
+| Joshua 6:19 | …they shall go into the treasury of the LORD… | …they will go into the treasury of the LORD… |
+| Joshua 6:26 | …At the cost of his firstborn he shall lay its foundation, and at the cost of his youngest he shall set up its gates.… | …At the cost of his firstborn he will lay its foundation, and at the cost of his youngest he will set up its gates.… |
+| Joshua 7:14 | …In the morning you shall come forward tribe by tribe. The tribe that the LORD takes shall come forward clan by clan, and the clan that the LORD takes shall come forward household by household, and the household that the LORD takes shall come forward man by man.… | …In the morning, come forward tribe by tribe. The tribe that the LORD takes will come forward clan by clan, and the clan that the LORD takes will come forward household by household, and the household that the LORD takes will come forward man by man.… |
+| Joshua 8:2 | …You shall do to Ai and its king as you did… | …Do to Ai and its king as you did… |
+| Joshua 8:7 | …and you shall rise up from the ambush and seize the city… | …then rise up from the ambush and seize the city… |
+| Joshua 8:8 | …you shall set the city on fire. You shall do according to the word of the LORD.… | …set the city on fire. Do according to the word of the LORD.… |
+| Joshua 9:23 | …There shall never cease to be from among you slaves, cutters of wood… | …Some of you will always be slaves, cutters of wood… |
+| Joshua 10:24 | …"Come near and put your feet on the necks of these kings." They came near and put their feet… | …"Come up and put your feet on the necks of these kings." They came up and put their feet… |
+| Joshua 11:6 | …You shall hamstring their horses and burn their chariots with fire.… | …Hamstring their horses and burn their chariots with fire.… |
+| Joshua 14:9 | …shall be an inheritance for you and for your sons forever… | …will be an inheritance for you and for your sons forever… |
+| Joshua 17:17 | …You shall not have only one lot.… | …You will not have only one lot.… |
+| Joshua 17:18 | …The hill country shall be yours. Though it is a forest, you shall clear it, and its farthest reaches shall be yours. For you shall drive out… | …The hill country will be yours. Though it is a forest, you will clear it, and its farthest reaches will be yours. For you will drive out… |
+| Joshua 18:4 | …They shall get up and walk through the land… | …They will get up and walk through the land… |
+| Joshua 18:5 | …They shall divide it into seven portions. Judah shall stay in its territory on the south, and the house of Joseph shall stay… | …They will divide it into seven portions. Judah will stay in its territory on the south, and the house of Joseph will stay… |
+| Joshua 18:6 | …You shall write a description of the land… | …Write a description of the land… |
+| Joshua 21:1 | …came near to Eleazar the priest… | …came up to Eleazar the priest… |
+| Joshua 23:5 | …and you shall possess their land… | …and you will possess their land… |
+| Joshua 24:27 | …"This stone shall be a witness against us,… | …"This stone will be a witness against us,… |
+| Joshua 24:27 | …It shall be a witness against you,… | …It will be a witness against you,… |
+| Judges 1:2 | …"Judah shall go up.… | …"Judah will go up.… |
+| Judges 4:20 | …you shall say, 'No.'… | …say, 'No.'… |
+| Judges 6:30 | …"Bring out your son, and he shall die,… | …"Bring out your son, so that he may die,… |
+| Judges 6:31 | …Whoever contends for him shall be put to death by morning.… | …Whoever contends for him will be put to death by morning.… |
+| Judges 7:4 | …'This one shall go with you,' shall go with you; and anyone of whom I say to you, 'This one shall not go with you,' shall not go.… | …'This one will go with you,' will go with you; and anyone of whom I say to you, 'This one will not go with you,' will not go.… |
+| Judges 7:17 | …and as I do, so you shall do.… | …and as I do, so do you.… |
+| Judges 9:33 | …you shall rise early and rush upon the city… | …rise early and rush upon the city… |
+| Judges 10:18 | …He shall be head over all… | …He will be head over all… |
+| Judges 11:2 | …"You shall not inherit in our father's house,… | …"You will not inherit in our father's house,… |
+| Judges 11:8 | …and you shall be our head,… | …and you will be our head,… |
+| Judges 11:31 | …shall be the LORD's, and I will offer him up… | …will be the LORD's, and I will offer him up… |
+| Judges 13:22 | …"We shall surely die,… | …"We will surely die,… |
+| Judges 14:13 | …you shall give me thirty linen garments… | …you will give me thirty linen garments… |
+| Judges 20:24 | …came near against the sons of Benjamin… | …advanced against the sons of Benjamin… |
+| Judges 21:1 | …"None of us shall give his daughter… | …"None of us will give his daughter… |
+| Judges 21:5 | …"He shall surely be put to death."… | …"He will surely be put to death."… |
+| Judges 21:11 | …This is what you shall do: every male, and every woman who has lain with a male, you shall destroy completely.… | …This is what you are to do: every male, and every woman who has lain with a male, destroy completely.… |
+| Ruth 1:16 | …Your people shall be my people,… | …Your people will be my people,… |
+| Ruth 3:4 | …you shall note the place where he lies… | …note the place where he lies… |
+| Ruth 4:15 | …He shall be to you a restorer of life… | …He will be to you a restorer of life… |
+| 1 Samuel 3:9 | …you shall say, 'Speak, LORD,… | …say, 'Speak, LORD,… |
+| 1 Samuel 6:5 | …So you shall make images of your tumors… | …So make images of your tumors… |
+| 1 Samuel 8:9 | …Only you shall solemnly warn them and tell them… | …Only warn them solemnly and tell them… |
+| 1 Samuel 8:19 | …"No! There shall be a king over us,… | …"No! We will have a king over us,… |
+| 1 Samuel 9:19 | …for you shall eat with me today… | …for you will eat with me today… |
+| 1 Samuel 10:4 | …which you shall accept from their hand… | …which you are to accept from their hand… |
+| 1 Samuel 10:7 | …you shall do whatever you find to do… | …do whatever you find to do… |
+| 1 Samuel 10:8 | …Seven days you shall wait, until I come to you… | …Wait seven days, until I come to you… |
+| 1 Samuel 11:7 | …so shall it be done to his oxen!… | …this is what will be done to his oxen!… |
+| 1 Samuel 11:9 | …you shall have deliverance… | …you will have deliverance… |
+| 1 Samuel 11:13 | …"No one shall be put to death this day,… | …"No one will be put to death this day,… |
+| 1 Samuel 12:12 | …'No, a king shall reign over us,'… | …'No, a king will reign over us,'… |
+| 1 Samuel 14:39 | …even if it is in Jonathan my son, he shall die.… | …even if it is in Jonathan my son, he will die.… |
+| 1 Samuel 14:42 | …Whomever the LORD takes shall die." The people said to Saul, "This shall not be."… | …Whomever the LORD takes will die." The people said to Saul, "This will not be."… |
+| 1 Samuel 14:44 | …you shall die, Jonathan… | …you will die, Jonathan… |
+| 1 Samuel 14:45 | …not one hair of his head shall fall to the ground… | …not one hair of his head will fall to the ground… |
+| 1 Samuel 15:33 | …so shall your mother be childless among women… | …so will your mother be childless among women… |
+| 1 Samuel 16:3 | …I will let you know what you shall do. You shall anoint for Me the one I name to you.… | …I will let you know what you are to do. Anoint for Me the one I name to you.… |
+| 1 Samuel 17:9 | …you shall be our slaves and serve us… | …you will be our slaves and serve us… |
+| 1 Samuel 17:27 | …"So shall it be done for the man who kills him."… | …"This is what will be done for the man who kills him."… |
+| 1 Samuel 17:36 | …shall be like one of them… | …will be like one of them… |
+| 1 Samuel 18:21 | …you shall become my son-in-law today… | …you will become my son-in-law today… |
+| 1 Samuel 19:6 | …he shall not be put to death… | …he will not be put to death… |
+| 1 Samuel 20:2 | …You shall not die.… | …You will not die.… |
+| 1 Samuel 20:42 | …'The LORD shall be between me and you,… | …'The LORD will be between me and you,… |
+| 1 Samuel 22:16 | …"You shall die, Ahimelech,… | …"You will die, Ahimelech,… |
+| 1 Samuel 24:4 | …and you shall do to him as seems good in your eyes… | …and you may do to him as seems good in your eyes… |
+| 1 Samuel 24:12 | …but my hand shall not be against you… | …but my hand will not be against you… |
+| 1 Samuel 24:13 | …But my hand shall not be against you… | …But my hand will not be against you… |
+| 1 Samuel 25:28 | …and evil shall not be found in you all your days… | …and evil will not be found in you all your days… |
+| 1 Samuel 25:29 | …the life of my lord shall be bound in the bundle of the living with the LORD your God, and the lives of your enemies He shall sling out… | …the life of my lord will be bound in the bundle of the living with the LORD your God, and the lives of your enemies He will sling out… |
+| 1 Samuel 27:1 | …"Now I shall perish one day… | …"Now I will perish one day… |
+| 1 Samuel 27:1 | …and I shall escape from his hand… | …and I will escape from his hand… |
+| 1 Samuel 28:1 | …you and your men shall go out with me… | …you and your men will go out with me… |
+| 1 Samuel 28:2 | …you shall know what your servant will do… | …you will know what your servant will do… |
+| 1 Samuel 28:10 | …no punishment shall come upon you… | …no punishment will come upon you… |
+| 1 Samuel 29:4 | …He shall not go down with us into battle… | …He will not go down with us into battle… |
+| 1 Samuel 29:9 | …'He shall not go up with us into the battle.'… | …'He will not go up with us into the battle.'… |
+| 1 Samuel 30:21 | …David came near to the people and greeted them… | …David went up to the people and greeted them… |
+| 1 Samuel 30:23 | …"You shall not do so, my brothers,… | …"Do not do so, my brothers,… |
+| 2 Samuel 3:13 | …you shall not see my face unless… | …you will not see my face unless… |
+| 2 Samuel 5:23 | …"You shall not go up.… | …"Do not go up.… |
+| 2 Samuel 5:24 | …you shall act quickly… | …act quickly… |
+| 2 Samuel 6:22 | …by them I shall be held in honor… | …by them I will be held in honor… |
+| 2 Samuel 9:7 | …and you shall eat bread at my table always… | …and you will eat bread at my table always… |
+| 2 Samuel 9:10 | …You and your sons and your servants shall work the land for him… | …You and your sons and your servants are to work the land for him… |
+| 2 Samuel 9:10 | …shall always eat bread at my table… | …will always eat bread at my table… |
+| 2 Samuel 10:11 | …then you shall help me… | …then come and help me… |
+| 2 Samuel 11:21 | …then you shall say, 'Your servant… | …then say, 'Your servant… |
+| 2 Samuel 14:10 | …and he shall never touch you again… | …and he will never touch you again… |
+| 2 Samuel 14:11 | …not one hair of your son shall fall to the ground… | …not one hair of your son will fall to the ground… |
+| 2 Samuel 14:24 | …he shall not see my face… | …he will not see my face… |
+| 2 Samuel 15:5 | …when a man came near to pay homage to him… | …when a man came up to pay homage to him… |
+| 2 Samuel 15:36 | …By them you shall send me everything you hear.… | …By them send me everything you hear.… |
+| 2 Samuel 18:3 | …"You shall not go out.… | …"Do not go out.… |
+| 2 Samuel 18:20 | …but today you shall not bring news… | …but today do not bring news… |
+| 2 Samuel 19:23 | …"You shall not die."… | …"You will not die."… |
+| 2 Samuel 19:29 | …you and Ziba shall divide the land… | …you and Ziba will divide the land… |
+| 2 Samuel 19:38 | …"Chimham shall go over with me,… | …"Chimham will go over with me,… |
+| 2 Samuel 20:17 | …He came near to her,… | …He went up to her,… |
+| 2 Samuel 21:17 | …"You shall not go out with us to battle any more,… | …"You will not go out with us to battle any more,… |
+| 1 Kings 1:13 | …Solomon your son shall reign after me, and he shall sit on my throne… | …Solomon your son will reign after me, and he will sit on my throne… |
+| 1 Kings 1:17 | …Solomon your son shall reign after me, and he shall sit on my throne… | …Solomon your son will reign after me, and he will sit on my throne… |
+| 1 Kings 1:24 | …'Adonijah shall reign after me, and he shall sit on my throne'… | …'Adonijah will reign after me, and he will sit on my throne'… |
+| 1 Kings 1:30 | …Solomon your son shall reign after me, and he shall sit on my throne… | …Solomon your son will reign after me, and he will sit on my throne… |
+| 1 Kings 1:35 | …and he shall come and sit on my throne, and he shall be king in my place… | …and he will come and sit on my throne, and he will be king in my place… |
+| 1 Kings 1:52 | …not one of his hairs shall fall to the ground; but if wickedness is found in him, he shall die… | …not one of his hairs will fall to the ground; but if wickedness is found in him, he will die… |
+| 1 Kings 2:7 | …for so they came near to me when I fled… | …for that is how they stood by me when I fled… |
+| 1 Kings 2:9 | …and you shall bring his gray head down… | …and bring his gray head down… |
+| 1 Kings 2:24 | …Adonijah shall be put to death today… | …Adonijah will be put to death today… |
+| 1 Kings 2:33 | …So their blood shall come back on the head of Joab… | …So their blood will come back on the head of Joab… |
+| 1 Kings 2:33 | …there shall be peace from the LORD forever… | …there will be peace from the LORD forever… |
+| 1 Kings 2:37 | …know for certain that you shall surely die. Your blood shall be on your own head.… | …know for certain that you will surely die. Your blood will be on your own head.… |
+| 1 Kings 2:42 | …know for certain that you shall surely die… | …know for certain that you will surely die… |
+| 1 Kings 2:45 | …But King Solomon shall be blessed, and the throne of David shall be established… | …But King Solomon will be blessed, and the throne of David will be established… |
+| 1 Kings 3:26 | …"He shall be neither mine nor yours;… | …"He will be neither mine nor yours;… |
+| 1 Kings 5:9 | …and you shall take it away. You in turn shall meet my desire… | …and you will take it away. You in turn will meet my desire… |
+| 1 Kings 8:42 | …for they shall hear of Your great name… | …for they will hear of Your great name… |
+| 1 Kings 12:10 | …"This is what you shall say to this people who said to you,… | …"Say this to this people who said to you,… |
+| 1 Kings 12:10 | …this is what you shall tell them:… | …tell them this:… |
+| 1 Kings 12:24 | …You shall not go up or fight against your brothers… | …Do not go up or fight against your brothers… |
+| 1 Kings 13:9 | …'You shall not eat bread nor drink water, nor return by the way that you came.'… | …'Do not eat bread or drink water, or return by the way that you came.'… |
+| 1 Kings 13:17 | …'You shall not eat bread nor drink water there, nor return by the way that you came.'… | …'Do not eat bread or drink water there, or return by the way that you came.'… |
+| 1 Kings 13:32 | …shall surely come to pass… | …will surely come to pass… |
+| 1 Kings 14:5 | …You shall say such and such to her.… | …Say such and such to her.… |
+| 1 Kings 17:4 | …You shall drink from the brook,… | …Drink from the brook,… |
+| 1 Kings 18:21 | …Elijah came near to all the people… | …Elijah went up to all the people… |
+| 1 Kings 18:30 | …"Come near to me." All the people came near to him,… | …"Come up to me." All the people came up to him,… |
+| 1 Kings 19:15 | …you shall anoint Hazael to be king over Aram… | …anoint Hazael to be king over Aram… |
+| 1 Kings 19:16 | …Jehu son of Nimshi you shall anoint to be king over Israel, and Elisha son of Shaphat of Abel-meholah you shall anoint to be prophet in your place.… | …Anoint Jehu son of Nimshi to be king over Israel, and anoint Elisha son of Shaphat of Abel-meholah to be prophet in your place.… |
+| 1 Kings 20:5 | …"You shall give me your silver and your gold, your wives and your children."… | …"Give me your silver and your gold, your wives and your children."… |
+| 1 Kings 20:6 | …and they shall search your house and the houses of your servants, and whatever is pleasing in your eyes they shall lay their hands on… | …and they will search your house and the houses of your servants, and whatever is pleasing in your eyes they will lay their hands on… |
+| 1 Kings 20:13 | …a prophet came near to Ahab king of Israel… | …a prophet came up to Ahab king of Israel… |
+| 1 Kings 20:22 | …the prophet came near to the king of Israel… | …the prophet came up to the king of Israel… |
+| 1 Kings 20:23 | …surely we shall be stronger than they… | …surely we will be stronger than they… |
+| 1 Kings 20:25 | …surely we shall be stronger than they… | …surely we will be stronger than they… |
+| 1 Kings 20:28 | …A man of God came near and said to the king of Israel… | …A man of God came up to the king of Israel and said… |
+| 1 Kings 20:39 | …your life shall be for his life, or else you shall pay a talent of silver… | …your life will be for his life, or else you will pay a talent of silver… |
+| 1 Kings 20:40 | …"So shall your judgment be; you yourself have decided it."… | …"That will be your sentence; you yourself have decided it."… |
+| 1 Kings 21:19 | …You shall speak to him, saying, 'This is what the LORD says: Have you murdered and also taken possession?' Then you shall speak to him, saying,… | …Speak to him and say, 'This is what the LORD says: Have you murdered and also taken possession?' Then speak to him and say,… |
+| 1 Kings 22:24 | …Then Zedekiah son of Chenaanah came near and struck Micaiah on the cheek… | …Then Zedekiah son of Chenaanah went up to Micaiah and struck him on the cheek… |
+| 2 Kings 2:5 | …came near to Elisha and said to him… | …came up to Elisha and said to him… |
+| 2 Kings 2:10 | …it shall be so for you; but if not, it shall not be so… | …it will be so for you; but if not, it will not be so… |
+| 2 Kings 2:16 | …"You shall not send them."… | …"Do not send them."… |
+| 2 Kings 4:27 | …Gehazi came near to push her away… | …Gehazi came up to push her away… |
+| 2 Kings 5:8 | …and he shall know that there is a prophet in Israel… | …and he will know that there is a prophet in Israel… |
+| 2 Kings 5:13 | …But his servants came near and spoke to him… | …But his servants came up and spoke to him… |
+| 2 Kings 6:8 | …"At such and such a place shall be my camp."… | …"At such and such a place will be my camp."… |
+| 2 Kings 6:22 | …"You shall not strike them.… | …"Do not strike them.… |
+| 2 Kings 7:4 | …and we shall die there; if we sit here, we die. So now come, let us go over to the camp of the Arameans. If they spare our lives, we shall live, and if they kill us, we shall only die.… | …and we will die there; if we sit here, we die. So now come, let us go over to the camp of the Arameans. If they spare our lives, we will live, and if they kill us, we will only die.… |
+| 2 Kings 10:10 | …not a word of the LORD shall fall to the ground… | …not a word of the LORD will fall to the ground… |
+| 2 Kings 10:19 | …Whoever is missing shall not live.… | …Whoever is missing will not live.… |
+| 2 Kings 10:24 | …shall give his life for his life… | …will give his life for his life… |
+| 2 Kings 11:5 | …"This is what you shall do: a third of you, those who come on duty on the Sabbath, shall keep watch over the king's house;… | …"This is what you are to do: a third of you, those who come on duty on the Sabbath, will keep watch over the king's house;… |
+| 2 Kings 11:6 | …a third shall be at the gate Sur, and a third at the gate behind the guard. You shall keep watch over the house as a barrier.… | …a third will be at the gate Sur, and a third at the gate behind the guard. Keep watch over the house as a barrier.… |
+| 2 Kings 11:7 | …on the Sabbath shall keep watch over the house of the LORD… | …on the Sabbath will keep watch over the house of the LORD… |
+| 2 Kings 11:8 | …You shall surround the king on every side, each man with his weapons in his hand, and whoever comes within the ranks shall be put to death.… | …Surround the king on every side, each man with his weapons in his hand, and whoever comes within the ranks is to be put to death.… |
+| 2 Kings 16:15 | …The bronze altar shall be for me to inquire by.… | …The bronze altar will be for me to inquire by.… |
+| 2 Kings 22:7 | …But no accounting shall be asked from them… | …But no accounting is to be asked from them… |
+| 1 Chronicles 11:6 | …first shall be chief and commander… | …first will be chief and commander… |
+| 1 Chronicles 14:14 | …"You shall not go up after them.… | …"Do not go up after them.… |
+| 1 Chronicles 14:15 | …you shall go out to battle… | …go out to battle… |
+| 1 Chronicles 19:12 | …then you shall help me… | …then come and help me… |
+| 2 Chronicles 8:11 | …"No wife of mine shall live in the house of David… | …"No wife of mine will live in the house of David… |
+| 2 Chronicles 10:10 | …"This is what you shall say to the people who said to you,… | …"Say this to the people who said to you,… |
+| 2 Chronicles 10:10 | …this is what you shall say to them:… | …say this to them:… |
+| 2 Chronicles 11:4 | …You shall not go up or fight against your brothers… | …Do not go up or fight against your brothers… |
+| 2 Chronicles 18:23 | …Then Zedekiah son of Chenaanah came near and struck Micaiah on the cheek… | …Then Zedekiah son of Chenaanah went up to Micaiah and struck him on the cheek… |
+| 2 Chronicles 23:3 | …"The king's son shall reign,… | …"The king's son will reign,… |
+| 2 Chronicles 23:4 | …This is what you shall do: a third of you, priests and Levites who come on duty on the Sabbath, shall be gatekeepers… | …This is what you are to do: a third of you, priests and Levites who come on duty on the Sabbath, will be gatekeepers… |
+| 2 Chronicles 23:5 | …a third shall be at the king's house, and a third at the Gate of the Foundation; and all the people shall be in the courts… | …a third will be at the king's house, and a third at the Gate of the Foundation; and all the people will be in the courts… |
+| 2 Chronicles 23:6 | …but all the people shall keep the charge of the LORD… | …but all the people are to keep the charge of the LORD… |
+| 2 Chronicles 23:7 | …The Levites shall surround the king on every side, each man with his weapons in his hand, and whoever enters the house shall be put to death.… | …The Levites are to surround the king on every side, each man with his weapons in his hand, and whoever enters the house is to be put to death.… |
+| 2 Chronicles 28:13 | …"You shall not bring the captives in here,… | …"Do not bring the captives in here,… |
+| Jubilees 8:11 | …and they came near to him, they and their children… | …and they came up to him, they and their children… |
+| Jubilees 31:11 | …They came near to him, and he turned and kissed them… | …They came up to him, and he turned and kissed them… |
+| Jubilees 33:9 | …Jacob did not come near her again… | …Jacob did not approach her again… |
+| Jubilees 41:20 | …and he did not come near her again… | …and he did not approach her again… |
+| Jubilees 42:19 | …Judah came near and said,… | …Judah came up to him and said,… |
+| Tobit 6:15 | …except those who come near her… | …except those who approach her… |
+| Tobit 11:17 | …When Tobit came near Sarah his daughter-in-law… | …When Tobit came up to Sarah his daughter-in-law… |
+| Judith 2:5 | …You shall go out from my presence and take with you… | …Go out from my presence and take with you… |
+| Judith 2:6 | …You shall go out against all the land to the west… | …Go out against all the land to the west… |
+| Judith 2:10 | …You shall go ahead of me and seize all their territory for me. They will surrender themselves to you, and you shall hold them for me… | …Go ahead of me and seize all their territory for me. They will surrender themselves to you, and you are to hold them for me… |
+| Judith 2:11 | …your eye shall have no pity… | …let your eye have no pity… |
+| Judith 5:5 | …No lie shall come from the mouth of your servant.… | …No lie will come from the mouth of your servant.… |
+| Judith 11:18 | …and you shall go out with all your army… | …and you will go out with all your army… |
+| Judith 14:2 | …each of you shall take up his weapons, and every able man shall go out of the city… | …each of you is to take up his weapons, and every able man is to go out of the city… |
+| Judith 14:4 | …shall pursue them and cut them down as they go… | …are to pursue them and cut them down as they go… |
+| Esther 5:2 | …Esther came near and touched the tip of the scepter… | …Esther came up and touched the tip of the scepter… |
+| Esther 5:3 | …it shall be given you… | …it will be given you… |
+| Esther 5:6 | …It shall be granted you. What is your request? Even to half of the kingdom, it shall be done.… | …It will be granted you. What is your request? Even to half of the kingdom, it will be done.… |
+| Esther 7:2 | …It shall be granted you. What is your request? Even to half of the kingdom, it shall be done.… | …It will be granted you. What is your request? Even to half of the kingdom, it will be done.… |
+| Esther 9:12 | …It shall be granted you. What further request do you have? It shall be done.… | …It will be granted you. What further request do you have? It will be done.… |
+| 1 Meqabyan 3:35 | …When the holy men came near,… | …When the holy men came up,… |
+| Psalms 27:2 | …When evildoers came near me to eat up my flesh… | …When evildoers closed in on me to eat up my flesh… |
+| Psalms 118:17 | …I shall not die, but live… | …I will not die, but live… |
+| Proverbs 22:13 | …I shall be killed in the streets!… | …I will be killed in the streets!… |
+| Ecclesiastes 5:15 | …naked he shall go again as he came, and he shall take nothing for his toil… | …naked he will go again as he came, and he will take nothing for his toil… |
+| Ecclesiastes 5:16 | …so shall he go,… | …so will he go,… |
+| Wisdom of Solomon 2:2 | …and afterward we shall be as though we had never been… | …and afterward we will be as though we had never been… |
+| Wisdom of Solomon 8:10 | …Because of her I shall have glory… | …Because of her I will have glory… |
+| Wisdom of Solomon 8:11 | …I shall be found keen in judgment, and in the sight of rulers I shall be admired.… | …I will be found keen in judgment, and in the sight of rulers I will be admired.… |
+| Wisdom of Solomon 8:13 | …Because of her I shall have immortality… | …Because of her I will have immortality… |
+| Wisdom of Solomon 8:14 | …I shall govern peoples… | …I will govern peoples… |
+| Wisdom of Solomon 8:15 | …among the people I shall show myself good… | …among the people I will show myself good… |
+| Wisdom of Solomon 8:16 | …I shall find rest with her… | …I will find rest with her… |
+| Sirach 48:11 | …for we too shall surely live… | …for we too will surely live… |
+| Jeremiah 5:19 | …you shall say to them,… | …say to them,… |
+| Jeremiah 7:28 | …You shall say to them:… | …Say to them:… |
+| Jeremiah 8:4 | …You shall say to them,… | …Say to them,… |
+| Jeremiah 10:11 | …This is what you shall say to them:… | …Say this to them:… |
+| Jeremiah 11:3 | …You shall say to them,… | …Say to them,… |
+| Jeremiah 13:12 | …You shall speak this word to them:… | …Speak this word to them:… |
+| Jeremiah 13:13 | …Then you shall say to them,… | …Then say to them,… |
+| Jeremiah 14:17 | …You shall say this word to them:… | …Say this word to them:… |
+| Jeremiah 15:2 | …you shall say to them,… | …say to them,… |
+| Jeremiah 16:2 | …"You shall not take a wife, and you shall not have sons or daughters in this place.… | …"Do not take a wife, and do not have sons or daughters in this place.… |
+| Jeremiah 16:8 | …You shall not go into the house of feasting… | …Do not go into the house of feasting… |
+| Jeremiah 16:11 | …that you shall say to them:… | …then say to them:… |
+| Jeremiah 17:14 | …and I shall be healed; save me, and I shall be saved… | …and I will be healed; save me, and I will be saved… |
+| Jeremiah 19:10 | …Then you shall break the flask… | …Then break the flask… |
+| Jeremiah 21:3 | …"This is what you shall say to Zedekiah:… | …"Say this to Zedekiah:… |
+| Jeremiah 21:8 | …To this people you shall say:… | …To this people say:… |
+| Jeremiah 23:33 | …you shall say to them,… | …say to them,… |
+| Jeremiah 23:35 | …This is what you shall say,… | …This is what you are to say,… |
+| Jeremiah 23:36 | …But you shall no longer mention… | …But you are no longer to mention… |
+| Jeremiah 23:37 | …This is what you shall say to the prophet:… | …This is what you are to say to the prophet:… |
+| Jeremiah 23:38 | …"You shall not say, 'The burden of the LORD,'"… | …"Do not say, 'The burden of the LORD,'"… |
+| Jeremiah 25:27 | …Then you shall say to them:… | …Then say to them:… |
+| Jeremiah 25:28 | …you shall say to them:… | …say to them:… |
+| Jeremiah 27:4 | …This is what you shall say to your masters:… | …Say this to your masters:… |
+| Jeremiah 29:24 | …To Shemaiah the Nehelamite you shall say:… | …Say to Shemaiah the Nehelamite:… |
+| Jeremiah 36:29 | …Concerning Jehoiakim king of Judah you shall say:… | …Concerning Jehoiakim king of Judah, say:… |
+| Jeremiah 37:7 | …This is what you shall say to the king of Judah,… | …Say this to the king of Judah,… |
+| Jeremiah 38:26 | …then you shall say to them,… | …then say to them,… |
+| Jeremiah 42:1 | …came near… | …came up… |
+| Jeremiah 45:4 | …This is what you shall say to him:… | …Say this to him:… |
+| Jeremiah 51:63 | …you shall tie a stone to it… | …tie a stone to it… |
+| Lamentations 4:15 | …"They shall stay here as guests no longer."… | …"They will stay here as guests no longer."… |
+| Lamentations 4:20 | …"Under his shadow we shall live among the nations."… | …"Under his shadow we will live among the nations."… |
+| Baruch 1:14 | …You shall read this book that we are sending you,… | …Read this book that we are sending you,… |
+| Baruch 1:15 | …You shall say:… | …Say:… |
+| 4 Baruch 8:7 | …shall enter this city… | …will enter this city… |
+| 4 Baruch 8:9 | …"You shall not enter our city,… | …"You will not enter our city,… |
+| Ezekiel 2:4 | …I am sending you to them, and you shall say to them,… | …I am sending you to them; say to them,… |
+| Ezekiel 2:7 | …You shall speak My words to them,… | …Speak My words to them,… |
+| Ezekiel 3:27 | …and you shall say to them,… | …and you are to say to them,… |
+| Ezekiel 4:3 | …and you shall besiege it… | …and besiege it… |
+| Ezekiel 4:4 | …you shall carry their guilt… | …you will carry their guilt… |
+| Ezekiel 4:5 | …so you shall carry the guilt… | …so you will carry the guilt… |
+| Ezekiel 4:6 | …you shall lie a second time… | …lie a second time… |
+| Ezekiel 4:7 | …You shall set your face toward the siege of Jerusalem with your arm bared, and you shall prophesy against it.… | …Set your face toward the siege of Jerusalem with your arm bared, and prophesy against it.… |
+| Ezekiel 4:9 | …three hundred and ninety days, you shall eat it.… | …three hundred and ninety days, eat it.… |
+| Ezekiel 4:10 | …The food you eat shall be by weight, twenty shekels a day; you shall eat it at set times.… | …The food you eat is to be by weight, twenty shekels a day; eat it at set times.… |
+| Ezekiel 4:11 | …You shall drink water by measure, a sixth of a hin; you shall drink it at set times.… | …Drink water by measure, a sixth of a hin; drink it at set times.… |
+| Ezekiel 4:12 | …You shall eat it as a barley cake,… | …Eat it as a barley cake,… |
+| Ezekiel 4:15 | …and you shall prepare your bread on it… | …and you may prepare your bread on it… |
+| Ezekiel 5:2 | …A third you shall burn in the fire inside the city when the days of the siege are completed. A third you shall take and strike with the sword all around it. A third you shall scatter to the wind,… | …Burn a third in the fire inside the city when the days of the siege are completed. Take a third and strike it with the sword all around the city. Scatter a third to the wind,… |
+| Ezekiel 5:4 | …Of these again you shall take some,… | …Take some of these again,… |
+| Ezekiel 18:6 | …or come near a woman in her impurity… | …or approach a woman in her impurity… |
+| Ezekiel 21:7 | …you shall say, 'Because of the news… | …say, 'Because of the news… |
+| Ezekiel 24:16 | …yet you shall not mourn or weep, nor shall your tears come… | …yet do not mourn or weep, or let your tears come… |
+| Daniel 6:12 | …Then they came near and spoke before the king… | …Then they came forward and spoke before the king… |
+| Amos 2:12 | …"You shall not prophesy."… | …"Do not prophesy."… |
+| Matthew 16:22 | …This shall never happen to You.… | …This will never happen to You.… |
+| Luke 1:60 | …he shall be called John… | …he will be called John… |
+| Luke 15:1 | …were coming near to listen to Him… | …were coming to Him to listen… |
+| Luke 18:40 | …When he came near, He asked him… | …When he came up, He asked him… |
+| Luke 19:17 | …you shall have authority over ten cities… | …you will have authority over ten cities… |
+| Luke 22:47 | …He came near to Jesus to kiss Him… | …He went up to Jesus to kiss Him… |
+| Luke 24:15 | …Jesus Himself came near and went with them… | …Jesus Himself came up and went with them… |
+| John 13:8 | …"You shall never wash my feet."… | …"You will never wash my feet."… |
+| Joshua 6, v17 note | …the land. *Rahab the prostitute shall live* — the… | …the land. *Rahab the prostitute will live* — the… |
+| Judges 13, vv22–23 note | …- **vv22–23 "We shall surely die… If… | …- **vv22–23 "We will surely die… If… |
+| Ruth 1, vv16–17 note | …- **vv16–17 "Your people shall be my people,… | …- **vv16–17 "Your people will be my people,… |
+| 1 Samuel 11, vv12–13 note | …- **vv12–13 "No one shall be put to… | …- **vv12–13 "No one will be put to… |
+| 1 Samuel 13, v8 note | …Samuel gave at the anointing: *Seven days you shall wait, until I come… | …Samuel gave at the anointing: *Wait seven days, until I come… |
+| 1 Samuel 14, vv41–42 note | …Thummim… Whomever the LORD takes shall die"** — these… | …Thummim… Whomever the LORD takes will die"** — these… |
+| 1 Samuel 27, v1 note | …- **v1 "Now I shall perish one day… | …- **v1 "Now I will perish one day… |
+| 1 Samuel 28, vv1–2 note | …- **vv1–2 "you shall know what your… | …- **vv1–2 "you will know what your… |
+| 2 Samuel 3, vv13–16 note | …- **vv13–16 "you shall not see my… | …- **vv13–16 "you will not see my… |
+| 2 Samuel 8, v4 note | …as the LORD told Joshua, *You shall hamstring their horses and… | …as the LORD told Joshua, *Hamstring their horses and… |
+| 2 Samuel 14, v11 note | …one hair of your son shall fall to the… | …one hair of your son will fall to the… |
+| 2 Samuel 19, vv24–26 note | …between them: *you and Ziba shall divide the land*… | …between them: *you and Ziba will divide the land*… |
+| 1 Kings 1, vv13, note | …17, 30 "Solomon your son shall reign after me"**… | …17, 30 "Solomon your son will reign after me"**… |
+| 1 Kings 1, vv50–53 note | …not one of his hairs shall fall*: *ben chayil*,… | …not one of his hairs will fall*: *ben chayil*,… |
+| 1 Kings 1, vv50–53 note | …one hair of your son shall fall to the… | …one hair of your son will fall to the… |
+| 1 Kings 2, v37 note | …- **v37 "Your blood shall be on your… | …- **v37 "Your blood will be on your… |
+| 1 Kings 16, v34 note | …cost of his firstborn he shall lay its foundation,… | …cost of his firstborn he will lay its foundation,… |
+| 1 Kings 16, v34 note | …cost of his youngest he shall set up its… | …cost of his youngest he will set up its… |
+| 1 Kings 20, vv39–40 note | …- **vv39–40 "your life shall be for his… | …- **vv39–40 "your life will be for his… |
+| 2 Kings 10, vv9–10 note | …a word of the LORD shall fall to the… | …a word of the LORD will fall to the… |
+| 2 Kings 10, vv9–10 note | …of Samaria. *Not a word… shall fall to the… | …of Samaria. *Not a word… will fall to the… |
+| 2 Kings 16, v15 note | …- **v15 "The bronze altar shall be for me… | …- **v15 "The bronze altar will be for me… |
+| 2 Meqabyan 4, v15 note | …the Moabite said, *Your people shall be my people,… | …the Moabite said, *Your people will be my people,… |
+| Ecclesiastes 5, v15 note | …- **v15 "naked he shall go again as… | …- **v15 "naked he will go again as… |
+| Jeremiah 10, v11 note | …- **v11 "This is what you shall say to them: The… | …- **v11 "Say this to them: The… |
+| Jeremiah 16, v2 note | …- **v2 "You shall not take a… | …- **v2 "Do not take a… |
+| Lamentations 4, v20 note | …52:8). *Under his shadow we shall live among the… | …52:8). *Under his shadow we will live among the… |
+| Baruch 1, vv11–12 note | …king, *Under his shadow we shall live among the… | …king, *Under his shadow we will live among the… |
+| 4 Baruch 8, vv6–8 note | …has joined with the Babylonians shall enter this city"**… | …has joined with the Babylonians will enter this city"**… |
+| 4 Baruch 8, vv9–10 note | …- **vv9–10 "You shall not enter our… | …- **vv9–10 "You will not enter our… |
+| Ezekiel 4, v4 note | …of Israel on it… you shall carry their guilt"**… | …of Israel on it… you will carry their guilt"**… |
+| Amos 2, vv11–12 note | …made the Nazirites drink wine… You shall not prophesy"** —… | …made the Nazirites drink wine… Do not prophesy"** —… |
+| Mark 6, vv21–29 note | …half of the kingdom, it shall be given you*… | …half of the kingdom, it will be given you*… |
+| John 13, vv6–11 note | …- **vv6–11 "You shall never wash my… | …- **vv6–11 "You will never wash my… |
+
 ## The sweep after Joshua 7: position words and *by* lists (2026-11-06)
 
 **Request:** Andrew's ruling on Joshua 7 (entry below), carried to the books after it (`COUNCIL.md`, item 101; spec, readability pass items 6 and 9). Bible 2 swept Joshua 8 to the last rendered chapter, Genesis to Deuteronomy left alone.

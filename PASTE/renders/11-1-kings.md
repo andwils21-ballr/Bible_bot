@@ -179,7 +179,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 21, 26 | *marita pi YHWH* | rebelled against the mouth of the LORD |
 | 24 | *nivlato mushlekhet* | His body lay thrown (noted) |
 | 30 | *hoy achi* | Alas, my brother! (noted) |
-| 32 | *hayoh yihyeh* | shall surely come to pass (doubled verb) |
+| 32 | *hayoh yihyeh* | will surely come to pass (doubled verb) |
 | 32 | *arei Shomeron* | the cities of Samaria (***KEPT AS IS***: the city is founded in 16:24; noted) |
 | 33 | *yemalle et yado* | he ordained (as Exodus 28:41; noted) |
 

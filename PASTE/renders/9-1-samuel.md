@@ -20,7 +20,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 7 | *eshet ba'alat ov* | a woman who has a ghost (as Leviticus 20:27; noted) |
 | 8 | written *qswmy*, read *qosomi* | Practice soothsaying (the reading followed; fixed term; noted) |
 | 9 | *mitnaqqesh be-nafshi* | laying a snare for my life |
-| 10 | *im yiqrekh avon* | no punishment shall come upon you |
+| 10 | *im yiqrekh avon* | no punishment will come upon you |
 | 13 | *elohim… olim* | a god coming up (***KEPT AS IS***: plural verb; noted) |
 | 15 | *hirgaztani* | disturbed me |
 | 16 | *arekha* | your adversary (noted) |
