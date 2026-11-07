@@ -102,6 +102,7 @@ entry.
 
 ## Review cursors
 
+- **Notes sweep** (Andrew, 2026-11-07; Bible Main, from Thursday 2026-11-12, 6:00 AM CST): every chapter's notes cut to `CLAUDE.md` §3, book by book from Leviticus, notes only, one push per book. Its cursor is in `NOTES_SWEEP.md`; pull before editing a book it has reached, and leave notes in the book it is on until it moves.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
