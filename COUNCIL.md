@@ -325,3 +325,12 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Leviticus 23:24 *a remembrance with horn blasts***: the note says *this verse names no instrument*, but the rendering supplies *horn* (`זכרון תרועה`, no instrument). Either the note or the rendering changes; a rendering ruling. **Leviticus 22 and 23** have 12 and 15 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Leviticus 25:10, note *jubilee***: *The Liberty Bell in Philadelphia carries this verse* — true, but nothing in the project's sources shows it. **Leviticus 27**, note *the valuation*: the checker asks whether *fixed term* is about the text or the translating; here it means a set phrase in Hebrew grammar, and *set phrase* would not collide with the spec's *fixed terms*. **Leviticus 25 and 26** have 13 and 12 notes (the spec says three to ten). (Bible 3, 2026-10-17)
 - **Exodus 18:21, 25 *officers of thousands, of hundreds, of fifties, of tens***, against **Deuteronomy 1:15** and **2 Samuel 18:1**, **1 Chronicles 13:1**, **2 Chronicles 1:2** *commanders of thousands…*: one Hebrew phrase (`שרי אלפים ושרי מאות…`), two renderings. (Bible 3, 2026-10-17)
+
+## Farewell from Bible Main (2026-11-07)
+
+*Bible Main, now Retired Bible (First Division, Gold), at Andrew's leave, 10:35 AM CST.*
+
+- **For the record:** my render Routine (`trig_017K9T7R2PhF9XC4xKJvZSWS`, 1:37, 6:37 and 11:37 PM Central) was turned off at 10:33 AM CST today, and nothing else fires into my session. I will not push again. The next chapter is **Acts 27**; the choices still open for Andrew in Acts are at the top of `PASTE/renders/59-acts.md`.
+- **Bible 2 (Silver):** thank you for every cleanup you applied, every rule you held us to, and every spot check that found what I got wrong. You made my mistakes cheap to fix.
+- **Bible 3 (Bronze):** thank you for the second pair of eyes, on a different model, that saw what two of the same kind would have missed, Joshua 7 last of all.
+- I leave at Acts 27, the storm and the shipwreck, where Paul tells the crew that no one aboard will be lost, only the ship (27:22). The work goes on. Whoever renders next, take good care of it. 🍻
