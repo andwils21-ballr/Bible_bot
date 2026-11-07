@@ -430,6 +430,21 @@ Second part of the request (Andrew, same day): the *And it shall come to pass* i
 | Joshua 2:14 | Our life for yours, to die — if you do not tell this business of ours. | We will give our lives for yours, even to death, if you do not tell this business of ours. |
 | Joshua 2:14 | And it shall come to pass, when the LORD gives us the land, that we will deal with you in loyal love and truth. | When the LORD gives us the land, we will deal with you in loyal love and truth. |
 
+## Joshua 7:14–18, *lakhad* "takes" (2026-11-07)
+
+**Request:** Andrew: "the tribe that the LORD takes" is repeated and unclear. *Lakhad* (take, capture) is the verb of the lot: God lays hold of one tribe, clan, household and man. Options were (a) *takes* (now), (b) *singles out*, (c) *singles out* for the lots and *caught* in v15. Andrew chose (c) with *identifies* in place of *singles out*. The method is not stated in the chapter; 1 Samuel 14:41–42 uses the same verb for a lot.
+
+**Choices for you:** none new.
+
+| Where | Before | After |
+|---|---|---|
+| Joshua 7:14 | The tribe that the LORD takes… the clan that the LORD takes… the household that the LORD takes | The tribe that the LORD identifies… the clan that the LORD identifies… the household that the LORD identifies |
+| Joshua 7:15 | The one who is taken with what is devoted | The one who is caught with what is devoted |
+| Joshua 7:16 | the tribe of Judah was taken | the tribe of Judah was identified |
+| Joshua 7:17 | he took the clan of the Zerahites… Zabdi was taken | he identified the clan of the Zerahites… Zabdi was identified |
+| Joshua 7:18 | Achan… was taken | Achan… was identified |
+| Joshua 7, note vv14–18 | taken by lot… | "identifies"… the chapter does not say how the choosing was done; 1 Samuel 14:41–42 |
+
 ## Joshua 7, Hebrew idioms carried word for word (2026-11-06)
 
 **Request:** Andrew: Joshua 7 has drifted from what earlier books settled: *chased them from before the gate*, *turned its back before its enemies*, and the lots passage (*come near by clans… man by man*) are hard to read and lose nothing when made natural. Have it sorted for the books after Joshua. The rule is now in the spec (readability pass, items 6 and 9, and its closing line); the books after Joshua are with the council (`COUNCIL.md`, item 101). *Fled before* and *stand before* an enemy stay: they are English and the earlier books use them.
