@@ -2,6 +2,83 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Acts 27–28 — rendered 2026-11-07, 11:05 AM CST
+
+**Landed:** Acts 27, 28. **Acts is finished** (28 of 28). Progress 1,393 → **1,395 of 1,989 (70.1%)**. John 8 is still held (see the John report); next is Romans 1, a new writer.
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It has no 28:29, so the numbering skips from 28 to 30, and the note says so; in 27:41 it has *by the force* with no *of the waves*. The style is carried on from Acts 23–26. Readability items 1, 5 and 10 checked: *pollais timais etimēsan* (28:10) is *honored us in many ways*; *Paul stayed* (28:30) names him, since the Greek's *he* comes straight after Paul's speech; predictions and promises take *will* (27:10, 22, 26, 34; 28:28).
+
+**Form kept:**
+- No sentence starts with *And*. *Kai ta nyn* (27:22) is *But now*, the spec's form where the present is set against what came before (v21, *you should have listened to me*).
+- *Egeneto* plain (27:44; 28:8, 17), as Council item 99. *Idou* cut (27:24). *Angelos*: *an angel* (27:23).
+- 28:26–27 reuses the English of Matthew 13:14–15, where the Greek is word for word the same.
+- *Kai houtōs* is *In this way* both times (27:44; 28:14), so the rescue and the arrival in Rome read alike.
+- One word family kept: *saved* / *safety* / *safely* for *sōzō*, *sōtēria* and *diasōzō* (27:20, 31, 34, 43, 44; 28:1, 4); *courage* for *euthymeō* (27:22, 25, 36); *damage and loss* in 27:10 and 21; *souls* for *psychai* (27:37), against *lives* and *life* (27:10, 22).
+- Set as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Leviticus 16:29; Jonah 1:5 (and the Greek), 1:12; Isaiah 6:2, 6:10; Matthew 13:14–15; Luke 2:30, 2:34, 3:6, 3:7, 8:10, 10:19, 19:10, 21:18, 22:19, 24:7; Acts 1:3, 4:29, 8:36, 13:28, 14:11, 14:19, 19:21, 21:11, 21:18, 23:11, 26:29, 27:3, 27:44. 1 Corinthians 14:11 and Titus 3:4 are not yet rendered; the notes give only what their Greek says.
+
+**Checked against the sources:**
+- SBLGNT: Acts 27:1–28:31; Matthew 13:14–15; Luke 2:30, 2:34, 3:6, 8:10, 19:10, 21:18, 22:19, 23:22, 24:7; Acts 1:3, 4:29, 13:28, 14:11, 21:11, 26:29; 1 Corinthians 14:11; Colossians 3:11; Titus 3:4. Searched across the New Testament: *Eurakylōn*, *antophthalmeō*, *dithalassos*, *ekbolē* and *akōlytōs* only here; *thrix* in Luke and Acts only at Luke 21:18 and Acts 27:34; *philanthrōpia* only Acts 28:2 and Titus 3:4; *to sōtērion* only Luke 2:30, 3:6, Acts 28:28 (and Ephesians 6:17).
+- Swete: Jonah 1:4, 1:5, 1:16; Leviticus 16:29, 23:27.
+- Hebrew: Isaiah 6:10.
+
+**The checker** found 0 errors and 1 CHECK: 28:29 is missing, which is the edition (above).
+
+**What these chapters are:**
+- **27:** the narrator's *we* comes back as Paul sails for Italy under the centurion Julius. Paul warns that the voyage will cost the ship and their lives; the pilot is believed instead. The Northeaster drives them for fourteen days; they throw out the cargo and the tackle, and hope is gone. Paul tells them an angel has promised that no life will be lost, only the ship. He takes bread, gives thanks and eats, and the 276 eat too. The ship runs aground and breaks up, and all come safely to land.
+- **28:** on Malta a viper fastens on Paul's hand; the islanders call him a murderer, then a god. He heals the father of Publius and the sick of the island. After three months they sail on, and the brothers come out to meet them on the road to Rome. Paul tells the Jews of Rome he is in chains *because of the hope of Israel*; some believe and some do not, and he quotes Isaiah 6. For two years he proclaims the kingdom of God *with all boldness, unhindered*.
+
+### Acts 27: The Storm and the Shipwreck
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ekrithē tou apoplein hēmas* "it was judged that we sail away" | it was decided that we should sail |
+| 3 | *epimeleias tychein* "to obtain care" | be cared for |
+| 12 | *blepon kata liba kai kata chōron* "looking toward Lips and toward Chorus" (two winds) | facing southwest and northwest |
+| 13 | *doxantes tēs protheseōs kekratēkenai* "thinking they had taken hold of their purpose" | they thought they had what they wanted |
+| 14 | *anemos typhōnikos ho kaloumenos Eurakylōn* "a whirlwind-like wind called Euraquilo" | a wind of hurricane force, called the Northeaster (note) |
+| 15 | *antophthalmein* "to look in the eye" | face (note) |
+| 17 | *boētheiais echrōnto hypozōnnyntes* "they used helps, girding underneath" | used supports to hold the ship together, binding it round underneath |
+| 17 | *chalasantes to skeuos* "having let down the gear" | they lowered the gear — ***KEPT AS IS***, the verse does not say which gear (note) |
+| 18 | *ekbolēn epoiounto* "they made a throwing-out" | they began to throw the cargo overboard (note) |
+| 20 | *loipon periēreito elpis pasa* "for the rest, all hope was being stripped off" | at last all hope… was being taken from us |
+| 21 | *kerdēsai te tēn hybrin tautēn* "and to gain this damage" | and so been spared this damage |
+| 22 | *kai ta nyn* "and the now" | But now |
+| 27 | *prosagein tina autois chōran* "some land was approaching them" | they were nearing land |
+| 29 | *ēuchonto* "they prayed / wished" | prayed (choice below) |
+| 34 | *pros tēs hymeteras sōtērias* "toward your salvation" | for your safety (note) |
+| 37 | *hai pasai psychai* "all the souls" | souls (note) |
+| 41 | *topon dithalasson* "a two-sea place" | a place where two seas met |
+| 41 | *hypo tēs bias* "by the force" | by the pounding |
+
+### Acts 28: Rome
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *hoi barbaroi* "the non-Greek speakers" | the islanders (note) |
+| 2 | *ou tēn tychousan philanthrōpian* "not the chance love of mankind" | no ordinary kindness (note) |
+| 4 | *hē dikē* "justice" | Justice (choice below) |
+| 7 | *tō prōtō tēs nēsou* "the first of the island" | the leading man of the island |
+| 10 | *pollais timais etimēsan* "honored with many honors" | honored us in many ways |
+| 11 | *parasēmō Dioskourois* "marked with the Dioskouroi" | with the Twin Brothers as its figurehead (note) |
+| 13 | *perielontes* "having taken away" (the anchors, as 27:40) | we cast off |
+| 13 | *deuteraioi* "second-day men" | on the second day |
+| 14 | *kai houtōs* "and thus" | In this way (note) |
+| 25 | *rhēma hen* "one word" | one statement |
+| 26 | *akoē akousete* "with hearing you will hear" | You will keep on hearing (Matthew 13:14's English) |
+
+**Choices for you:**
+- **27:29, *ēuchonto***
+  - (a) **prayed for day to come** (now): the sailors pray, as the sailors of the Greek Jonah, the chapter's echo, cry each to his god (Jonah 1:5).
+  - (b) **longed for day to come**: a wish, with no one addressed.
+  - Recommend (a): *euchomai* is *pray* in Paul's *I would pray to God* (26:29), and the chapter is built on Jonah's storm.
+- **28:4, *hē dikē***
+  - (a) **Justice** (now): the goddess who repays, a power the islanders name.
+  - (b) **justice**: retribution in general, with no god named.
+  - Recommend (a): she acts (*has not let him live*), and two verses later the same islanders call Paul *a god* (v6).
+
 ## Acts 23–26 — rendered 2026-11-06, 11:45 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed. It has no 24:7, so the numbering skips from 6 to 8, and the note says so. The style is carried on from Acts 19–22. Readability items 6, 9 and 10 checked: no *from before* or *by tribes*; *before he comes near* (23:15) is *before he arrives*; promises and predictions take *will* (23:3, 35; 24:15, 22, 25; 25:12, 22); the Law Paul quotes keeps *shall* (23:5).
