@@ -56,7 +56,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 5 | *krinei hēmeran par' hēmeran* "judges a day beside a day" | values one day above another |
 | 13 | *touto krinate mallon* "judge this rather" | judge this instead |
 | 14 | *koinon* "common" | unclean (note) |
-| 20 | *tō dia proskommatos esthionti* "to the one eating through stumbling" | to make another stumble by what he eats |
+| 20 | *tō dia proskommatos esthionti* "to the one eating through stumbling" | to make another stumble by what he eats (choice below) |
 | 22 | *kata seauton* "by yourself" | between yourself and God |
 
 ### Romans 15: The Hope of the Gentiles
@@ -99,6 +99,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **End Romans at 16:24, as the edition does** (now): the v24 note says English Bibles add a closing blessing as 16:25–27.
   - (b) **Add 16:25–27 from another witness**: this needs the passage in `sources/` (another Greek edition, or the Ethiopic), outside a render cycle.
   - Recommend (a) for now, and (b) when a witness is added: the Ethiopian Bible's reading is the one this project serves, and it should decide.
+- **14:20, *tō dia proskommatos esthionti*** (from the spot check of 2026-11-08)
+  - (a) **it is wrong for anyone to make another stumble by what he eats** (now): the harm is to the brother who watches, as *stumbling block* in v13 and *makes your brother stumble* in v21.
+  - (b) **it is wrong for anyone to eat with a stumbling conscience**: the harm is to the eater himself, who eats while doubting it is right, as *whoever has doubts is condemned if he eats* in v23.
+  - Recommend (a): the verse goes on to *do not tear down the work of God*, and the chapter's stumbling is always a brother's (vv13, 15, 21).
 
 ## Romans 9–12 — rendered 2026-11-08, 1:15 AM CST
 
