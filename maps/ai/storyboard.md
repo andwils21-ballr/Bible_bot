@@ -1,8 +1,8 @@
 # The Taking of Ai: picture book storyboard
 
 A flip-through book of Joshua 7–8, one picture per page with a one-line caption.
-For each page, copy the whole **Prompt** paragraph into the image generator; each one
-describes only the scene, with the same setting at the end so the pictures match; how to paint it is left to you.
+For each page, copy the whole **Prompt** paragraph into the image generator. Each
+prompt describes only what is in that one scene; how to paint it is left to you.
 When a picture is done, send it back and say which page it is.
 
 ---
@@ -11,58 +11,58 @@ When a picture is done, send it back and say which page it is.
 
 **Caption:** Three thousand went up against Ai, and fled before its men. *(7:4–5)*
 
-**Prompt:** A small Israelite force of a few thousand men running in panic down a rocky slope away from a walled hilltop city, shields dropped, looking back over their shoulders. Men of the city pour out of the open gate chasing them, spears raised. Dust in the air, late afternoon light. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is not in this picture; no older grey-bearded leader. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** On a rocky hillside in the hill country of Canaan, about 1400 BC, a band of Israelite fighters in plain brown and undyed wool tunics runs in panic down the slope, away from a small walled town of rough stone on the hilltop above. Their round leather shields and bronze spears lie dropped among the rocks behind them. Through the town's open gate the men of Ai, in red-dyed tunics, pour out and chase them down the slope with spears raised. A few Israelites have fallen on the slope. Dust kicked up in the air. Wide (landscape), no text or lettering.
 
 ## Page 2 — Joshua before the ark
 
 **Caption:** Joshua tore his clothes and fell on his face before the ark until evening. *(7:6)*
 
-**Prompt:** Inside an army camp of tents at dusk, Joshua lies face down on the ground in torn clothes in front of a gold-covered wooden chest carried on poles, the ark of the covenant, set on the ground. Elders with dust on their heads kneel around him. Torches, long shadows, quiet grief. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Evening in a camp of goat-hair tents. Joshua, a lean, weathered commander with a grey-streaked beard, lies face down on the bare ground, his brown wool cloak torn. In front of him stands the ark of the covenant: a chest covered in gold, with two gold winged figures facing each other on its lid and carrying poles through rings at its sides. Around Joshua the elders of Israel, older bearded men in plain robes, kneel and bow low, dust thrown on their heads. Low evening light, long shadows, a hush of grief. Wide (landscape), no text or lettering.
 
 ## Page 3 — Thirty thousand sent by night
 
 **Caption:** Joshua chose thirty thousand mighty men and sent them out by night. *(8:3)*
 
-**Prompt:** Night. A long column of armed Israelite men moving silently along a dry ravine under moonlight, crouched low, spears held flat, behind a dark ridge. In the distance on a hilltop, the walls of a city with a few lit windows. Joshua stands on a rock in the foreground, pointing the way with his javelin. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Night, by moonlight. A long column of armed men in dark wool tunics, carrying bronze spears and round leather shields, files out of a camp and climbs a narrow rocky ravine into the hills, moving quietly, bent low. At the side of the path Joshua, a lean commander with a grey-streaked beard and a brown wool cloak, stands on a boulder and points the way up into the dark hills with a bronze-tipped javelin. Wide (landscape), no text or lettering.
 
 ## Page 4 — Hidden behind the city
 
 **Caption:** The ambush lay hidden between Bethel and Ai, west of the city. *(8:9, 12)*
 
-**Prompt:** Before dawn, hundreds of Israelite fighters lying hidden among boulders, olive trees and tall dry grass on a hillside behind a walled city, shown from behind them so the city wall rises close ahead. Faces tense, hands on spears, waiting. The sky just turning grey. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is not in this picture; no older grey-bearded leader. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Grey light just before dawn. Hundreds of fighters in brown wool tunics lie flat and crouch, hidden among boulders, olive trees and tall dry grass on a hillside. The scene is shown from behind them: just ahead, close by, rises the back wall of a small hilltop town of rough stone, quiet and unaware. The men grip their bronze spears and watch the wall, tense, waiting for a signal. Wide (landscape), no text or lettering.
 
 ## Page 5 — The bait at dawn
 
 **Caption:** Joshua's army camped north of Ai, in plain sight across the valley. *(8:11, 14)*
 
-**Prompt:** Early morning. On a hillside, a large Israelite army drawn up in the open, facing a walled city across a shallow valley. On the city wall, the king of Ai in a red cloak and gold circlet points at them, and his warriors crowd the gate, eager to attack. Joshua stands at the front of his army. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Early morning. A large Israelite army in brown and undyed wool stands in the open on a hillside, facing a small walled hilltop town across a shallow valley. Joshua, a lean commander with a grey-streaked beard and a brown cloak, stands at the front with the elders. Out of the town's gate the king of Ai, in a red robe, hurries out at the head of his men in red-dyed tunics, eager for battle. Wide (landscape), no text or lettering.
 
 ## Page 6 — The pretended flight
 
 **Caption:** Israel fled toward the wilderness, and all Ai poured out after them, leaving the city open. *(8:15–17)*
 
-**Prompt:** A wide scene: the Israelite army turning and running away down into a dry valley toward the desert, while the whole fighting force of the city streams out of its wide-open gate after them, shouting in triumph. The city behind them is left empty, the gate standing open. Joshua, among the fleeing men, glances back. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** A wide valley falling away toward barren desert. The Israelite army, in brown wool, turns and runs down toward the wilderness as if beaten. Behind them, the whole fighting force of a small hilltop town, men in red-dyed tunics, streams out after them, shouting in triumph. Far back on the hill, the town's gate stands wide open and its walls are empty. Among the running Israelites, Joshua, grey-bearded in a brown cloak, glances back over his shoulder. Wide (landscape), no text or lettering.
 
 ## Page 7 — The javelin
 
 **Caption:** "Stretch out the javelin in your hand toward Ai." *(8:18)*
 
-**Prompt:** Joshua alone on a rocky rise, seen from a low angle against a bright sky, his arm stretched out full length holding a bronze-tipped javelin pointed toward a distant walled city. His cloak blows in the wind. Behind him, his men stop running and turn to look at him. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Joshua, a lean, weathered commander with a grey-streaked beard, stands alone on a rocky rise, seen from below against a bright sky. His arm is stretched out full length, holding a bronze-tipped javelin pointed toward a small walled town on a distant hill. His brown wool cloak blows in the wind. Wide (landscape), no text or lettering.
 
 ## Page 8 — The ambush takes the city
 
 **Caption:** The ambush rose, ran into the city, and set it on fire. *(8:19)*
 
-**Prompt:** Israelite fighters surging out of hiding and running through the open gate of an empty walled city, some carrying torches, the first buildings catching fire, flames and black smoke rising above the walls. Mid-morning light. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is not in this picture; no older grey-bearded leader. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Fighters in brown wool tunics burst from hiding among rocks and olive trees and race through the open gate of an empty hilltop town of rough stone. Some carry burning torches; inside the walls the first flat-roofed houses are catching fire, flames and black smoke beginning to rise above the wall. No defenders are left in the town. Wide (landscape), no text or lettering.
 
 ## Page 9 — Caught between
 
 **Caption:** The men of Ai looked back: the smoke of their city was going up to the heavens. *(8:20–22)*
 
-**Prompt:** On a valley floor, the warriors of Ai stopped in their tracks, turning to look back in shock at their hilltop city burning, a huge column of smoke rising into the sky. The Israelite army they were chasing has turned around and charges at them from the front, and more Israelites pour down from the burning city behind them. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** A valley floor below a hilltop town. The warriors of Ai, in red-dyed tunics, have stopped in their tracks and turned to look back in shock: their town is burning, and a huge column of black smoke rises into the sky. In front of them, the Israelite army in brown wool, which had been running away, has turned and charges at them. Behind them, more Israelite fighters pour down from the burning town. Trapped between the two. In the distance, on a rise, Joshua still holds his javelin stretched out toward the town. Wide (landscape), no text or lettering.
 
 ## Page 10 — The heap
 
 **Caption:** Joshua burned Ai and made it a heap forever; a great heap of stones lay at its gate. *(8:28–29)*
 
-**Prompt:** Sunset. The blackened ruins of a hilltop city, walls tumbled, smoke still drifting. In front of the broken gate, a tall cairn of piled stones. Joshua stands quietly beside it with his javelin lowered, his men behind him, all looking at the ruin. Calm after the battle. No text or lettering in the picture. Setting: the rocky hill country of Canaan about 1400 BC: terraced limestone ridges, olive trees, dry grass, a walled stone city on a hilltop. Israelite fighters wear plain undyed, brown or olive wool tunics, never red, leather belts and sandals, and carry bronze spears, javelins, slings and round leather-covered shields; no horned helmets, no metal plate armor. Joshua is a lean, weathered commander with a grey-streaked beard, a dark brown wool cloak and a bronze-tipped javelin. The men of Ai wear similar Canaanite dress dyed red, so the two sides can be told apart. Make the picture wide (landscape).
+**Prompt:** Sunset over the blackened ruins of a small hilltop town, its stone walls tumbled down, thin smoke still drifting from the rubble. In front of the broken gateway stands a tall cairn of piled stones. Joshua, grey-bearded in a brown cloak, stands quietly beside it with his javelin lowered, a few of his men behind him, all looking at the ruin. Wide (landscape), no text or lettering.
