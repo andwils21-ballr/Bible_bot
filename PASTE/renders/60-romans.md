@@ -2,6 +2,116 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Romans 5–8 — rendered 2026-11-07, 7:40 PM CST
+
+**Landed:** Romans 5, 6, 7, 8. Progress 1,399 → **1,403 of 1,989 (70.5%)**. John 8 is still held (see the John report).
+
+**Source:** Greek (SBLGNT). The edition's readings are followed; at 5:1 it reads *we have peace* and marks the place as one where manuscripts differ. The style is carried on from Romans 1–4.
+
+**Form kept:**
+- No sentence starts with *And*; 7:10 begins *and I died*, finishing the sentence of v9.
+- *By no means!* each time (6:2, 15; 7:7, 13). *Reckon* for *logizomai* (6:11; 8:18, 36), as chapters 2–4; Psalm 44:22 in 8:36 keeps it (*we are reckoned as sheep*), where this project's Psalm has *counted*.
+- *Doulos* and *douleuō* in chapter 6 are **slaves** throughout, *slaves of God* (6:22) included: Paul says he is *speaking in human terms* (6:19), and the whole argument is the choice of a master.
+- *Kauchaomai*: **boast** (5:2, 3, 11), as 2:17, 23 and 3:27. *Katargeō*: **released** in 7:2 and 7:6, the same word both times.
+- *Pneuma*: **the Spirit** where it is God's Spirit (all of chapter 8, and 7:6, *the newness of the Spirit*, as 2:29); lowercase *our spirit* (8:16) and *a spirit of slavery* (8:15).
+- *Nomos*: **the Law** for Moses' Law; lowercase *bound by law*, *the law concerning her husband* (7:2–3), and Paul's figurative laws: *I find this law*, *another law*, *the law of my mind*, *the law of sin* (7:21–25), *the law of the Spirit of life* (8:2).
+- Readability item 10: *will* for what God will do and for Paul's promises (5:9–10, 17, 19; 6:5, 8, 14; 8:11, 13, 21); *shall* kept in questions (*What shall we say?*) and in the Law (*You shall not covet*, 7:7).
+- 8:36 (Psalm 44:22) set as poetry; the rest as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:26; 2:17; 3:13, 17; 22:12, 16; Exodus 20:17; Leviticus 5:7; Ecclesiastes 1:2; Isaiah 50:8; 53:10–12; Mark 14:36; Luke 3:14; John 20:25; Acts 4:28; Romans 1:4, 1:21, 1:23–28, 2:17, 23, 3:23, 3:24, 3:27, 4:4, 5:14. 1 Corinthians 9:7, 2 Corinthians 5:4 and 11:3, and Philippians 3:12 and 4:10 are not yet rendered; the notes give only what their Greek says.
+
+**Checked against the sources:**
+- SBLGNT: Romans 5:1–8:39; 1 Corinthians 9:7; 2 Corinthians 5:4, 11:3, 11:8; Philippians 3:12, 4:10; Luke 3:14; John 20:25; Acts 4:28; *opsōnion* only in Luke 3:14, Romans 6:23, 1 Corinthians 9:7 and 2 Corinthians 11:8.
+- Swete: Genesis 3:13, 22:12, 22:16; Exodus 20:17; Leviticus 5:7 (and *peri hamartias* in 64 verses, 17 of them in Leviticus); Psalm 43:23 (Greek numbering); Isaiah 50:8, 53:10–12; Ecclesiastes 1:2.
+- Hebrew: Isaiah 53:11–12.
+
+**The checker** found 0 errors and 0 CHECKs (one *came into* at 5:12 was fixed to *entered*).
+
+**What these chapters are:**
+- **5:** justified by faith, we have *peace with God* and boast in hope, even in suffering, because *while we were still sinners, Christ died for us*. Then Adam and Christ: sin and death came through one man to all; grace and life come through one man to *the many*; *where sin increased, grace overflowed all the more*.
+- **6:** shall we go on sinning? *By no means!* Baptized into Christ's death, buried and raised *with Him*, believers are to *reckon* themselves dead to sin. Everyone serves a master; *the wages of sin is death, but the free gift of God is eternal life*.
+- **7:** death releases a wife from her husband's law, and believers have died to the Law. The Law is holy, but sin seized its chance through the commandment and killed; the *I* does what it hates, and cries *Wretched man that I am!*
+- **8:** *no condemnation* for those in Christ. The Spirit gives life, makes us children who cry *Abba! Father!*, groans with the groaning creation, and intercedes. Those God foreknew He appointed to the image of His Son, called, justified, glorified, and nothing *in all creation* can separate them *from the love of God in Christ Jesus our Lord*.
+
+### Romans 5: Peace with God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tēn prosagōgēn eschēkamen* "we have had the access" | we have also obtained access |
+| 4 | *dokimēn* "testedness" | tested character |
+| 5 | *ou kataischynei* "does not shame" | does not put us to shame |
+| 12 | *eph' hō pantes hēmarton* "on which all sinned" | because all sinned (choice below) |
+| 13 | *ouk ellogeitai* "is not entered in the account" | is not charged to anyone's account |
+| 14 | *typos tou mellontos* "a type of the one about to be" | a pattern of the one who was to come (note) |
+| 18 | *di' henos dikaiōmatos* "through one righteous act" | one righteous act |
+| 18 | *eis dikaiōsin zōēs* "to justification of life" | to justification and life |
+| 19 | *katastathēsontai* "will be set down" | will be made (note) |
+
+### Romans 6: Dead to Sin, Alive to God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *symphytoi* "grown together" | grown together (note) |
+| 6 | *ho palaios hēmōn anthrōpos* "our old man" | our old self |
+| 6 | *katargēthē* "be made idle" | be done away with |
+| 7 | *dedikaiōtai apo tēs hamartias* "has been justified from sin" | has been set free from sin (note) |
+| 13 | *ta melē* "the members" | the parts of your body |
+| 13 | *hopla* "tools, weapons" | weapons (note) |
+| 17 | *typon didachēs* "a pattern of teaching" | the pattern of teaching (note) |
+| 23 | *ta opsōnia* "the soldier's pay" | the wages (note) |
+
+### Romans 7: The Law and Sin
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ginōskousin gar nomon lalō* "for I speak to ones knowing law" | for I am speaking to those who know the Law |
+| 2 | *katērgētai apo tou nomou tou andros* "she is made idle from the law of the husband" | she is released from the law concerning her husband |
+| 3 | *genētai andri heterō* "becomes another man's" | lives with / marries another man |
+| 8 | *aphormēn labousa* "taking a starting point" | seizing its chance |
+| 18 | *to gar thelein parakeitai moi* "for the willing lies beside me" | I can want what is right |
+| 21 | *emoi to kakon parakeitai* "evil lies beside me" | evil is right there with me |
+| 22 | *kata ton esō anthrōpon* "according to the inner man" | in my inner self |
+
+### Romans 8: Life in the Spirit
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *to adynaton tou nomou* "the impossible of the Law" | What the Law could not do |
+| 3 | *peri hamartias* "concerning sin" | as an offering for sin (choice below) |
+| 5 | *ta tēs sarkos phronousin* "think the things of the flesh" | set their minds on the things of the flesh |
+| 10 | *to de pneuma zōē* "but the spirit (is) life" | the Spirit is life, as vv2, 6 |
+| 15 | *pneuma huiothesias* "spirit of son-placing" | the Spirit of adoption as sons |
+| 19 | *hē apokaradokia* "the watching with head stretched out" | waits with eager longing |
+| 20 | *dia ton hypotaxanta* "because of the one who subjected" | because of Him who subjected it (choice below) |
+| 26 | *stenagmois alalētois* "with unspeakable groanings" | with groanings too deep for words |
+| 27 | *kata theon* "according to God" | according to the will of God |
+| 28 | *panta synergei* "all things work together / He works all things together" | all things work together (choice below) |
+| 29 | *proōrisen* "marked out beforehand" | appointed beforehand (choice below) |
+| 37 | *hypernikōmen* "we over-conquer" | we are more than conquerors |
+
+**Choices for you:**
+- **5:12, *eph' hō pantes hēmarton***
+  - (a) **because all sinned** (now): each person sins, and so each dies.
+  - (b) **in whom all sinned**: all sinned in Adam, *the one man*.
+  - Recommend (a): Paul's other uses of *eph' hō* are *because* or *for which* (2 Corinthians 5:4; Philippians 3:12; 4:10). The note gives both.
+- **8:3, *peri hamartias***
+  - (a) **as an offering for sin** (now): the Greek Law's term for the sin offering.
+  - (b) **for sin** / **to deal with sin**: sin as what the sending dealt with, with no sacrifice named.
+  - Recommend (a): it is the sin offering's name in Leviticus (5:7) and the servant's in the Greek of Isaiah 53:10, and *condemned sin in the flesh* is what an offering does.
+- **8:20, *dia ton hypotaxanta***
+  - (a) **because of Him who subjected it** (now): God, who cursed the ground *in hope* (Genesis 3:17).
+  - (b) **because of him who subjected it**: Adam, *on your account*.
+  - Recommend (a): *in hope* belongs to the one who did the subjecting, and only God subjects in hope.
+- **8:28, *panta synergei eis agathon***
+  - (a) **all things work together for good** (now): *all things* is the subject.
+  - (b) **He works in all things for good**: the Spirit of vv26–27 (or God) is the subject.
+  - Recommend (a): with no subject named, *panta* is the natural subject of *synergei*; (b) is good Greek and fits the Spirit of v27.
+- **8:29–30, *proōrisen***
+  - (a) **appointed beforehand** (now): *horizō* of 1:4 with *pro*, *before*, so the Son *appointed* and the many *appointed beforehand* to His image share one word.
+  - (b) **predestined**: the word most English Bibles have.
+  - Recommend (a): it keeps the link to 1:4, and Acts 4:28 in this project already has *decided beforehand* for the same verb, not *predestined*.
+
 ## Romans 1–4 — rendered 2026-11-07, 2:20 PM CST
 
 **Landed:** Romans 1, 2, 3, 4. Progress 1,395 → **1,399 of 1,989 (70.3%)**. John 8 is still held (see the John report).
