@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Romans 5–8 — rendered 2026-11-07, 7:40 PM CST
+## Romans 5–8 — rendered 2026-11-07, 7:13 PM CST
 
 **Landed:** Romans 5, 6, 7, 8. Progress 1,399 → **1,403 of 1,989 (70.5%)**. John 8 is still held (see the John report).
 
