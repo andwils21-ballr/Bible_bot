@@ -2,6 +2,104 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Romans 13–16 — rendered 2026-11-08, 2:15 PM CST
+
+**Landed:** Romans 13, 14, 15, 16. **Romans is finished** (16 of 16). Progress 1,407 → **1,411 of 1,989 (70.9%)**. John 8 is still held (see the John report); next is 1 Corinthians.
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. It ends the letter at 16:24, printed in brackets, with no doxology; English Bibles number Romans 16 to v27. The edition's own published file ends the same way, so the copy in `sources/` is faithful. Logged in `NOTES_FOR_ANDREW.md`; the choice is below. The style is carried on from Romans 9–12.
+
+**Form kept:**
+- No sentence starts with *And*; *kai palin* (15:11) is *Once more*.
+- *Ekdikos… orgēn*, **an avenger who brings wrath** (13:4), keeps the words of 12:19 (*take revenge*, *the wrath*, *Vengeance*). *Hopla*, **weapons** (13:12), as 6:13. *Reckons* for *logizomai* (14:14).
+- *Diakonos*: **servant** (13:4; 15:8; 16:1). *Leitourgos*: **minister** (13:6; 15:16).
+- *Syngeneis*: **fellow Jews** (16:7, 11, 21), the word of 9:3.
+- *Kyrios*: **master** for the household servant's master, **Lord** for Christ (14:4–9).
+- Where Paul quotes a verse this project has already rendered and his Greek has the same sense, its English is reused: 13:9 the commandments and *You shall love your neighbor as yourself* (Leviticus 19:18); 15:3 *The reproaches of those who reproach You have fallen on Me* (Psalm 69:9); 15:21 (Isaiah 52:15). Where his Greek differs from the Hebrew, it is rendered as he has it (14:11 *confess*; 15:10 *with His people*; 15:12 *in Him the Gentiles will hope*).
+- Capital pronouns for Christ in Old Testament words Paul applies to Him (15:3 *on Me*; 15:12 *the One who rises… in Him*).
+- The quotations in 14:11 and 15:9–12, 21 set as poetry; the rest as prose.
+- Readability item 10: *will* for Paul's expectations and God's promises (13:2; 14:4, 10–12; 15:12, 28–29; 16:20); *shall* kept in the Law as quoted (13:9).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 3:15; Leviticus 19:18; Deuteronomy 32:43; Psalms 18:49; 69:9, 22–23; 117:1; Isaiah 11:10; 45:23; 52:15; 66:20; Matthew 10:16; Mark 7:19; 12:17, 31; 15:21; John 2:17; Acts 10:14–15; 18:2; 21:33; 28:16. Philippians 1:1, 2:10–11, 1 Timothy 3:8 and 2 Corinthians 11:3 are not yet rendered; the notes give only what their Greek says.
+
+**Checked against the sources:**
+- SBLGNT: Romans 13:1–16:24; Mark 7:19, 12:17; Philippians 1:1, 2:10–11; 1 Timothy 3:8; Matthew 10:16; and the edition's published text of Romans, which also ends at 16:24.
+- Swete: Deuteronomy 32:43; Isaiah 11:10, 45:23, 52:15, 66:20.
+
+**The checker** found 0 errors and 0 CHECKs (one *And* opening 15:11 was fixed).
+
+**What these chapters are:**
+- **13:** be subject to the governing authorities, God's servants who bear the sword; pay what you owe. *Owe no one anything, except to love one another*: love fulfills the Law. The night is far gone; *put on the Lord Jesus Christ*.
+- **14:** the weak eat only vegetables and keep days; the strong eat anything. Do not judge another's servant: *whether we live or die, we are the Lord's*. Nothing is unclean in itself, but do not destroy by your food the one for whom Christ died.
+- **15:** the strong bear with the weak, as Christ did not please Himself. Law, Prophets and Psalms say the Gentiles will praise God. Paul's work is a priest's, offering the Gentiles to God; he will visit Rome on the way to Spain, once he has taken the collection to Jerusalem.
+- **16:** Phoebe commended; greetings to Prisca and Aquila, Andronicus and Junia and two dozen more; a warning against those who divide. *The God of peace will soon crush Satan under your feet*. Greetings from Timothy, from Tertius who wrote the letter down, and from Gaius and Erastus.
+
+### Romans 13: Love Fulfills the Law
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *pasa psychē* "every soul" | every person |
+| 1 | *exousiais hyperechousais* "to authorities that are over" | to the governing authorities |
+| 4 | *ou eikē* "not in vain" | not for nothing |
+| 7 | *apodote pasi tas opheilas* "give back to all the debts" | Pay everyone what you owe them (note) |
+| 9 | *anakephalaioutai* "it is headed up" | are summed up (note) |
+| 11 | *kai touto* "and this" | Do this |
+| 12 | *proekopsen* "has advanced" | is far gone |
+| 14 | *pronoian mē poieisthe* "make no forethought" | make no provision |
+
+### Romans 14: The Weak and the Strong
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *mē eis diakriseis dialogismōn* "not for judgments of reasonings" | not to argue over opinions |
+| 4 | *allotrion oiketēn* "another's household servant" | someone else's servant |
+| 5 | *krinei hēmeran par' hēmeran* "judges a day beside a day" | values one day above another |
+| 13 | *touto krinate mallon* "judge this rather" | judge this instead |
+| 14 | *koinon* "common" | unclean (note) |
+| 20 | *tō dia proskommatos esthionti* "to the one eating through stumbling" | to make another stumble by what he eats |
+| 22 | *kata seauton* "by yourself" | between yourself and God |
+
+### Romans 15: The Hope of the Gentiles
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *to auto phronein* "to think the same" | to live in harmony |
+| 6 | *homothymadon en heni stomati* "with one passion, in one mouth" | together, with one voice |
+| 16 | *hierourgounta* "doing priestly work" | serving… as a priest (note) |
+| 17 | *ta pros ton theon* "the things toward God" | in my work for God |
+| 19 | *peplērōkenai to euangelion* "to have filled the gospel" | I have fully proclaimed the gospel |
+| 20 | *philotimoumenon* "loving honor" | I have made it my ambition |
+| 24 | *apo merous emplēsthō* "be filled in part" | have enjoyed your company for a while |
+| 28 | *sphragisamenos autois ton karpon* "having sealed to them the fruit" | have made sure they receive this fruit |
+
+### Romans 16: Greetings
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *diakonon* "servant, deacon" | a servant (choice below) |
+| 2 | *prostatis* "one who stands before, patron" | a patron |
+| 3 | *Priskan* | Prisca (Acts 18:2 has *Priscilla*, the same woman) |
+| 4 | *ton heautōn trachēlon hypethēkan* "laid down their own neck" | risked their necks |
+| 7 | *episēmoi en tois apostolois* "notable in/among the apostles" | outstanding among the apostles (choice below) |
+| 7 | *syngeneis* "kin" | fellow Jews |
+| 18 | *tē heautōn koilia* "their own belly" | their own appetites |
+| 22 | *ho grapsas tēn epistolēn* "the one who wrote the letter" | who wrote this letter down |
+| 23 | *ho oikonomos tēs poleōs* "the steward of the city" | the city treasurer |
+
+**Choices for you:**
+- **16:1, *diakonos***
+  - (a) **a servant of the church at Cenchreae** (now): the word Romans uses of the ruler (13:4) and of Christ (15:8).
+  - (b) **a deacon of the church at Cenchreae**: a named office, as in Philippians 1:1 and 1 Timothy 3:8.
+  - Recommend (a): it keeps the one word Romans uses three times; the note says it can name the office.
+- **16:7, *episēmoi en tois apostolois***
+  - (a) **outstanding among the apostles** (now): Andronicus and Junia are counted as apostles.
+  - (b) **well known to the apostles**: they are held in honor by the apostles.
+  - Recommend (a): *en* with a group of people is most naturally *among* them; (b) is possible Greek but asks more of the word.
+- **16:25–27, the doxology**
+  - (a) **End Romans at 16:24, as the edition does** (now): the v24 note says English Bibles add a closing blessing as 16:25–27.
+  - (b) **Add 16:25–27 from another witness**: this needs the passage in `sources/` (another Greek edition, or the Ethiopic), outside a render cycle.
+  - Recommend (a) for now, and (b) when a witness is added: the Ethiopian Bible's reading is the one this project serves, and it should decide.
+
 ## Romans 9–12 — rendered 2026-11-08, 1:15 AM CST
 
 **Landed:** Romans 9, 10, 11, 12. Progress 1,403 → **1,407 of 1,989 (70.7%)**. John 8 is still held (see the John report).
