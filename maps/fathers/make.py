@@ -5,7 +5,7 @@
 Needs shapely, and three Natural Earth 10m layers as GeoJSON in one folder
 (public domain; https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/):
 ne_10m_land, ne_10m_lakes, ne_10m_rivers_lake_centerlines.
-The drawing helpers are copied from maps/journey/make.py (the map after Joshua 24)."""
+The drawing helpers are copied from archive/journey-map/make.py (the old map after Joshua 24, retired 2026-11-08)."""
 import html, json, math, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)

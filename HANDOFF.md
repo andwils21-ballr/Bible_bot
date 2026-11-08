@@ -130,12 +130,18 @@ with Andrew apart from render work where it can.
   cloud container, run
   `CHROMIUM_PATH=/opt/pw-browsers/chromium python3 build_docx.py`. The `docx/`
   folder is gitignored. Send Word files only when Andrew asks.
-- **The two maps are generated:** the map after Joshua 24 (`books/6-joshua/S1.md`)
-  from `maps/journey/`, and the map after Genesis 50 (`books/1-genesis/S2.md`)
-  from `maps/fathers/`. Both use `maps/template.html`. Edit a folder's `data.py`,
-  run its `make.py` (it needs shapely and Natural Earth, see its docstring), then
-  its `quotecheck.py`. A change to the template means rebuilding both maps. The
-  scripts run because `build_site.py` re-creates a supplement's scripts; the
-  Word build draws a map with no address, which the map takes as print mode.
+- **The map after Genesis 50 is generated** (`books/1-genesis/S2.md`) from
+  `maps/fathers/` with `maps/template.html`. Edit its `data.py`, run its
+  `make.py` (it needs shapely and Natural Earth, see its docstring), then its
+  `quotecheck.py`. The old map after Joshua 24 is retired to
+  `archive/journey-map/` (Andrew, 2026-11-08).
+- **The picture book after Joshua 24** (`books/6-joshua/S1.md`, *The Taking of
+  Ai*) is written by hand. Its captions and picture prompts are in
+  `maps/ai/storyboard.md`; Andrew makes the pictures, and they go in
+  `docs/img/ai/01.jpg` to `10.jpg`. A page with no picture shows a frame.
+- Supplement scripts run because `build_site.py` re-creates them. The Word build
+  draws a supplement with no web address, which the map and the book take as
+  print mode (the book shows every page), and it puts the book's pictures into
+  the page itself.
 - **The website caches by a content fingerprint**, so a normal refresh shows
   new chapters once GitHub Pages has deployed.

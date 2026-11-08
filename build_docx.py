@@ -106,6 +106,17 @@ def chart_slices(html):
         browser = pw.chromium.launch(executable_path=os.environ.get("CHROMIUM_PATH"))
         page = browser.new_page(viewport={"width": CHART_PX, "height": 1000},
                                 device_scale_factor=2, color_scheme="light")
+        # A picture the site serves from docs/img is put into the page itself,
+        # since a page drawn with no web address cannot fetch it.
+        def inline(m):
+            p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", m.group(1))
+            if not os.path.isfile(p):
+                return m.group(0)
+            import base64
+            kind = "png" if p.lower().endswith(".png") else "jpeg"
+            with open(p, "rb") as f:
+                return 'src="data:image/%s;base64,%s"' % (kind, base64.b64encode(f.read()).decode())
+        html = re.sub(r'src="(img/[^"]+)"', inline, html)
         page.set_content(f'<body style="margin:0"><div class="supp">{html}</div></body>',
                          wait_until="load")
         wide = page.evaluate(WIDE_JS)

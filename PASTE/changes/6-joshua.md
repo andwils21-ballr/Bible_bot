@@ -2,6 +2,32 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+
+## The map after Joshua 24 replaced by a picture book of Ai (Andrew, 2026-11-08, 2:40 PM CST)
+
+**Request:** Andrew did not like how the map *From Egypt to the Land* turned out, and asked for a flip-through picture book of the battle of Ai instead, with the briefest captions and pictures in the style of an oil painting from life. He chose to replace the map, and to do Ai only for now.
+
+**What changed:** the supplement after Joshua 24 is now *The Taking of Ai*, ten pages (Joshua 7:4–8:29), captions in this project's own words. Andrew makes the pictures from the prompts in `maps/ai/storyboard.md`; they go in `docs/img/ai/`. The map's generator moved to `archive/journey-map/`. The notes that pointed to the map keep their content and lose only the pointer.
+
+| Where | Before | After |
+|---|---|---|
+| Joshua, after chapter 24 | map, *From Egypt to the Land* | picture book, *The Taking of Ai* |
+| Exodus 13, note v17 | … *See the map after Joshua 24, stage 1.* | (sentence removed) |
+| Exodus 14, note vv21–22 | … *stage 3* | (removed) |
+| Numbers 13, note v33 | … *stage 8* | (removed) |
+| Numbers 21, note vv17–18 | … *stage 11* | (removed) |
+| Numbers 33, note v2 | … *stage 1* | (removed) |
+| Deuteronomy 2, note vv10–12, 20–23 | … *stage 11* | (removed) |
+| Deuteronomy 3, note v11 | … *stage 12* | (removed) |
+| Deuteronomy 34, note vv1–3 | … *stage 14* | (removed) |
+| Joshua 3, note v16 | … *stage 15* | (removed) |
+| Joshua 11, note vv21–22 | … *stage 18* | (removed) |
+| Joshua 21, note vv43–45 | … *stage 20* | (removed) |
+| Joshua 24, note vv29–33 | … *stage 21* | (removed) |
+| Ezekiel 47, note vv15–20 | … *stage 13* | (removed) |
+| Map after Genesis 50, last stage | … *The map after Joshua 24 follows them out.* | (sentence removed; also in `maps/fathers/data.py`) |
+| `RENDERING_SPEC.md`, File format | *A note's one permitted link: See the map after Joshua 24, stage N* | (line removed) |
+
 ## *Shall* and *come near*: the sweep from Joshua on (2026-11-07)
 
 **Request:** Andrew's ruling of 2026-11-06, readability pass item 10 (*shall* and *come near*), after *shall come near* in Joshua 7 bothered him more than the *by*. Asked of Bible 2 in `COUNCIL.md`, item 101: sweep Joshua to the last rendered chapter, Genesis to Deuteronomy left alone, Joshua 7:14 first.

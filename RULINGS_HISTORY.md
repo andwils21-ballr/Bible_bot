@@ -4,6 +4,11 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-08, the map after Joshua 24.** Andrew replaced the journey map
+  with a picture book of the taking of Ai, so the spec's one permitted link in
+  a note (*See the map after Joshua 24, stage N*) went with it, and the
+  fourteen pointers were taken out of the notes.
+
 - **2026-11-07, less is more in the notes.** After Acts 27–28 Andrew said the
   notes, under the old Main and the new, showed the decision-making and were
   written to fill the count. The spec had required three to ten notes a

@@ -64,8 +64,6 @@ rendered: 2026-09-14
   build depend on this exact convention.
 - `## Notes` is mandatory; it holds only notes that pass `CLAUDE.md` §3, each
   anchored to a verse, ten at most.
-- A note's one permitted link:
-  `See [the map after Joshua 24, stage N](#/joshua/s1/N).`
 - No preamble and no sign-off.
 
 ## Word rules

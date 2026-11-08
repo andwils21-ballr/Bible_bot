@@ -99,7 +99,7 @@ STAGES = [
  dict(key="down", title="Seventy souls go down to Egypt", when="Genesis 46–47", cam="j", act=["beersheba", "rameses"],
       text="Israel set out with all that was his and offered sacrifices at Beersheba {Genesis 46:1}. “All the souls of the house of Jacob coming to Egypt: seventy” {Genesis 46:27}. Joseph met his father in Goshen {Genesis 46:29}, and settled them “in the land of Rameses” {Genesis 47:11}."),
  dict(key="burial", title="Carried up to Machpelah", when="Genesis 50", cam="j", act=["atad", "hebron", "rameses"],
-      text="“Do not bury me, please, in Egypt” {Genesis 47:29}. Jacob's sons carried him up, mourned seven days at the threshing floor of the Bramble across the Jordan {Genesis 50:10}, and buried him in the cave of Machpelah {Genesis 50:13}. Joseph made the sons of Israel swear: “you shall carry my bones up from here” {Genesis 50:25}. The map after Joshua 24 follows them out."),
+      text="“Do not bury me, please, in Egypt” {Genesis 47:29}. Jacob's sons carried him up, mourned seven days at the threshing floor of the Bramble across the Jordan {Genesis 50:10}, and buried him in the cave of Machpelah {Genesis 50:13}. Joseph made the sons of Israel swear: “you shall carry my bones up from here” {Genesis 50:25}."),
 ]
 
 # ---------------------------------------------------------------- route segments
