@@ -2,6 +2,109 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Romans 9–12 — rendered 2026-11-08, 1:15 AM CST
+
+**Landed:** Romans 9, 10, 11, 12. Progress 1,403 → **1,407 of 1,989 (70.7%)**. John 8 is still held (see the John report).
+
+**Source:** Greek (SBLGNT). The edition's readings are followed. The style is carried on from Romans 5–8.
+
+**Form kept:**
+- No sentence starts with *And*; Paul's chains of questions (10:14–15) and the quotations that open with *kai* (9:26; 11:27) begin plainly.
+- *By no means!* each time (9:14; 11:1, 11). *Reckon* for *logizomai* (9:8).
+- Where Paul quotes a verse this project has already rendered and his Greek has the same sense, its English is reused: 9:7 *Through Isaac shall seed be called for you* (Genesis 21:12); 9:12 *The greater shall serve the lesser*, as the model note on Genesis 25:23 quotes it; 9:13 *I loved Jacob, but Esau I hated* (Malachi 1:2–3); 10:13 *everyone who calls on the name of the Lord will be saved* (Acts 2:21); 10:16–17 *what we have heard* (Isaiah 53:1); 10:19 *I will make you jealous with what is no nation* (Deuteronomy 32:21); 11:25 and 12:16 *wise in your own eyes* (Proverbs 3:7); 11:35 *Who has first given…* (Job 41:11); 12:11 *fervent in spirit* (Acts 18:25). Where his Greek differs from the Hebrew, it is rendered as he has it (9:15 *mercy*; 9:29 *a seed*; 10:11 *put to shame*; 11:34 *the mind of the Lord*), and the notes say where it matters.
+- *Eleeō* and *eleos*: **mercy** throughout 9–11 (9:15–18, 23; 11:30–32); *oiktirmoi* in 12:1, **compassion**, the other verb of 9:15.
+- Capital pronouns for Christ in Old Testament words Paul applies to Him: *whoever believes in Him* (9:33; 10:11), *He will turn away ungodliness* (11:26).
+- The quotations that are poetry in their own books are set as poetry (9:25–26; 10:18–20; 11:9–10, 26–27, 34–35); the rest as prose.
+- Readability item 10: *will* for what God will do and what Paul expects (9:27; 10:9, 13; 11:22–26; 12:20); *shall* kept in the Law and in prophecy as quoted (9:7, 12; 10:5).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 25:23; Exodus 4:21; 9:16; 32:32; 33:19; Leviticus 18:5; 27:28; Deuteronomy 9:4; 30:12–14; 32:21, 35; Psalm 19:1, 3, 4; Job 41:11; Isaiah 28:16; 29:16; 40:13; 59:20; Jeremiah 11:16; 18:6; Hosea 1:6, 9, 10; 2:23; Joel 2:32; Malachi 1:2–4; Reproof 1:21–22 (Proverbs 25:21–22); Mark 9:2; Luke 6:27–28; Acts 2:21. 2 Corinthians 1:3 and 1 Peter 2:2 are not yet rendered; the notes give only what their Greek says.
+
+**Checked against the sources:**
+- SBLGNT: Romans 9:1–12:21; Mark 9:2; Acts 18:25; 2 Corinthians 1:3; Ephesians 1:3; 1 Peter 2:2.
+- Swete: Exodus 4:21, 9:16, 33:19; Leviticus 27:28; Deuteronomy 9:4, 30:12–14; Joshua 6:17; Joel 2:32; Psalm 18:5 (Greek numbering); Proverbs 3:7; Job 9:10, 41:3, 41:11; Isaiah 1:9, 8:14, 10:22–23, 27:9, 28:16, 29:16, 40:13, 45:9, 59:20; Hosea 2:1 (Greek numbering).
+
+**The checker** found 0 errors and 0 CHECKs (sentences opening *And* at 10:14–15 were fixed).
+
+**What these chapters are:**
+- **9:** Paul's grief for Israel, to whom belong the covenants and the promises, and from whom comes *the Messiah, who is God over all*. God's word has not failed: not all Israel is Israel; the promise chose Isaac, and Jacob before he was born. God has mercy on whom He has mercy; the potter has a right over the clay; He calls *not My people* His people, from the Gentiles too. Israel stumbled over the stone.
+- **10:** *Christ is the end of the Law* for righteousness. The word of faith is near, *in your mouth and in your heart*: confess *Jesus is Lord*, believe God raised Him, and be saved; *everyone who calls on the name of the Lord*. But how will they hear unless someone is sent? Israel has heard, and has been *a disobedient and contrary people*.
+- **11:** God has not rejected His people: there is a remnant, as in Elijah's day. Israel's stumbling has brought salvation to the Gentiles, to make Israel jealous. The Gentiles, a wild olive grafted in, must not boast over the branches; God can graft the natural branches back. A hardening has come on part of Israel *until the fullness of the Gentiles has come in*, and so *all Israel will be saved*. God has shut up all in disobedience to have mercy on all: *Oh, the depth of the riches*.
+- **12:** so present your bodies as *a living sacrifice*, be transformed by a renewed mind. Many parts, one body, gifts that differ. Love without pretense; bless those who persecute you; feed your enemy; *overcome evil with good*.
+
+### Romans 9: God's Choice and Israel
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *ēuchomēn* "I was praying / wishing" | I could wish |
+| 3 | *anathema… apo tou Christou* "a devoted thing from Christ" | accursed and cut off from Christ (note) |
+| 5 | *ho ōn epi pantōn theos eulogētos* "the one being over all, God blessed" | who is God over all, blessed forever (choice below) |
+| 6 | *ouch hoion de hoti ekpeptōken* "not such as that has fallen out" | it is not as though… has failed |
+| 10 | *ex henos koitēn echousa* "having a bed from one" | had children by one man |
+| 11 | *hē kat' eklogēn prothesis* "the purpose according to choosing" | God's purpose of choosing |
+| 12 | *ho meizōn… tō elassoni* "the greater… the lesser" | The greater shall serve the lesser |
+| 22 | *katērtismena* "fitted, made ready" | prepared (note) |
+| 28 | *logon syntelōn kai syntemnōn* "finishing and cutting short a word" | will carry out His word… fully and swiftly |
+
+### Romans 10: The Word Is Near You
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *ou kat' epignōsin* "not according to knowledge" | not according to knowledge |
+| 4 | *telos* "end, goal" | the end (choice below) |
+| 10 | *pisteuetai eis dikaiosynēn* "it is believed to righteousness" | one believes, and it leads to righteousness |
+| 16 | *tē akoē hēmōn* "our report / what we heard" | what we have heard |
+| 17 | *ex akoēs* "from hearing" | from what is heard |
+| 18 | *menounge* "rather, indeed" | Indeed they have |
+| 20 | *apotolma* "he is quite bold" | is bold enough |
+
+### Romans 11: The Olive Tree
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *ho chrēmatismos* "the oracle" | God's answer |
+| 8 | *pneuma katanyxeōs* "a spirit of stupor" | a spirit of stupor |
+| 12 | *to hēttēma autōn* "their defeat, shortfall" | their failure |
+| 13 | *tēn diakonian mou doxazō* "I glorify my ministry" | I make much of my ministry |
+| 14 | *mou tēn sarka* "my flesh" | my own people |
+| 17 | *tēs rhizēs tēs piotētos* "of the root of the fatness" | in the root and the richness |
+| 20 | *mē hypsēla phronei* "do not think high things" | do not be proud |
+| 26 | *kai houtōs* "and thus" | In this way (choice below) |
+| 29 | *ametamelēta* "without regret" | cannot be taken back |
+| 33 | *anexichniastoi* "untrackable" | beyond tracing out |
+
+### Romans 12: A Living Sacrifice
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *dia tōn oiktirmōn* "through the compassions" | by the compassion of God |
+| 1 | *tēn logikēn latreian* "the worship of reason / of the word" | your reasonable worship (choice below) |
+| 2 | *tō aiōni toutō* "to this age" | to this age |
+| 3 | *mē hyperphronein… eis to sōphronein* "not to over-think… to think soberly" | not to think of himself more highly… with sober judgment |
+| 6 | *kata tēn analogian tēs pisteōs* "according to the proportion of the faith" | in proportion to our faith |
+| 8 | *en haplotēti* "in singleness" | with generosity |
+| 16 | *tois tapeinois synapagomenoi* "carried along with the lowly" | go along with the lowly |
+| 19 | *dote topon tē orgē* "give place to the wrath" | leave room for the wrath |
+
+**Choices for you:**
+- **9:5, *ho ōn epi pantōn theos eulogētos***
+  - (a) **the Messiah, who is God over all, blessed forever** (now): Paul calls the Messiah God.
+  - (b) **the Messiah, who is over all. God be blessed forever**: the Messiah is over all, and a blessing of God follows.
+  - (c) **the Messiah. God who is over all be blessed forever**: a separate blessing of God.
+  - Recommend (a): *who is* most naturally refers to the Messiah just named, the same shape as *the Creator, who is blessed forever* (1:25); a separate blessing of God puts *blessed* first (2 Corinthians 1:3).
+- **10:4, *telos***
+  - (a) **the end** (now): English *end*, like Greek *telos*, holds both stopping point and goal.
+  - (b) **the goal**: the Law was always heading toward Christ.
+  - Recommend (a): it keeps both meanings open, as the Greek does; the note gives the range.
+- **11:26, *kai houtōs***
+  - (a) **In this way** (now): Israel is saved by way of the Gentiles' coming in and the jealousy it stirs.
+  - (b) **And then**: after the Gentiles have come in, Israel is saved.
+  - Recommend (a): *houtōs* is a word of manner throughout Romans (5:12, 18–19; 6:11), and the chapter has just described the way (vv11–24).
+- **12:1, *logikē latreia***
+  - (a) **reasonable worship** (now): worship that belongs to reason and the word, *logos*, matched by *the renewing of your mind* (v2).
+  - (b) **spiritual worship**: worship of the inner person.
+  - Recommend (a): Paul's word for *spiritual* is *pneumatikos* (1:11; 7:14), and he did not use it here.
+
 ## Romans 5–8 — rendered 2026-11-07, 7:13 PM CST
 
 **Landed:** Romans 5, 6, 7, 8. Progress 1,399 → **1,403 of 1,989 (70.5%)**. John 8 is still held (see the John report).
