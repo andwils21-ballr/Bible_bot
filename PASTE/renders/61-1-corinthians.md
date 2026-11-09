@@ -2,6 +2,97 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Corinthians 9–12 — rendered 2026-11-09, 2:15 PM CST
+
+**Landed:** 1 Corinthians 9, 10, 11, 12. Progress 1,419 → **1,423 of 1,989 (71.5%)**. John 8 is still held (see the John report).
+
+**Source:** Greek (SBLGNT). The edition's readings are followed, bracketed words included. The style is carried on from 1 Corinthians 5–8.
+
+**Form kept:**
+- No sentence starts with *And*.
+- *Exousia*: **right** throughout chapter 9 (vv4–6, 12, 18), as 8:9. *Misthos*: **wages** (9:17–18), as 3:8, 14.
+- *Typos*, *typikōs*: **pattern(s)** (10:6, 11), as Romans 5:14. *Koinōnia*, *koinōnos*: **sharing**, **sharers** (10:16–20).
+- *Paradidōmi*: **handed on** for the tradition and **handed over** for the night of the betrayal (11:2, 23).
+- *Melē*: **parts** all through 12:12–27, as 6:15 and Romans 12:4–5.
+- Where Paul quotes or retells a passage this project has already rendered, its English is reused: 9:9 *You shall not muzzle an ox while it is threshing* (Deuteronomy 25:4); 10:7 *The people sat down to eat and drink, and rose up to play* (Exodus 32:6); 10:20 *sacrifice to demons and not to God* (Deuteronomy 32:17); 10:26 *the earth is the Lord's, and all that fills it* (Psalm 24:1); 11:23–25 *He took bread… when He had given thanks, He broke it… In the same way He took the cup after supper… This cup is the new covenant in My blood* (Luke 22:19–20).
+- Readability item 10: *will* for what God will do (10:13; 11:32); *shall* only in questions (11:22).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 1:27; 2:22; 6:2; Exodus 12:23; 17:6; 24:8; 32:6; Numbers 20:11; 21:6; 25:9; Deuteronomy 25:4; 32:4, 15, 17, 21; Jeremiah 31:31; 1 Enoch 6:2; Luke 10:7; 18:5; 22:19–20; Romans 1:28; 4:23–24; 5:14; 8:32; 10:9; 12:4–5.
+
+**Checked against the sources:**
+- SBLGNT: 1 Corinthians 9:1–12:31, 14:1; Luke 18:5, 22:20.
+- Swete: Exodus 12:23, 32:6; Numbers 25:9; Deuteronomy 25:4, 32:17; Psalm 23:1 (Greek numbering).
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **9:** Paul has every right an apostle has, to food, to a wife, to be paid, as the Law and the Lord's own command say, and he gives up every one of them so as to preach for nothing. *I have become all things to all people*. Run to win the prize; he disciplines his body so as not to be disqualified.
+- **10:** Israel was baptized in the cloud and the sea and drank from the rock, *and the rock was Christ*, yet fell in the wilderness: these are patterns for us. Flee idolatry: the cup and the bread are a sharing in Christ's body and blood, and you cannot sit at the table of the Lord and the table of demons. Do all to the glory of God.
+- **11:** on men and women praying with heads covered or uncovered. Then the Lord's Supper: the rich eat first and the poor go hungry. Paul hands on what he received, *the Lord Jesus, on the night when He was handed over, took bread*; whoever eats without discerning the body eats judgment.
+- **12:** many gifts, one Spirit; many parts, one body, *and so it is with Christ*. Foot and hand, eye and ear need each other, and the weaker parts most. *You are the body of Christ*. Desire the greater gifts, and yet there is a more excellent way.
+
+### 1 Corinthians 9: All Things to All People
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *hē emē apologia* "my defense" | my defense |
+| 5 | *adelphēn gynaika periagein* "to lead around a sister, a wife" | to take a believing wife along with us |
+| 6 | *mē ergazesthai* "not to work" | to stop working for a living |
+| 11 | *ta sarkika* "the fleshly things" | material things |
+| 12 | *enkopēn* "a cutting in, a hindrance" | an obstacle |
+| 15 | *kalon gar moi mallon apothanein ē—* "better for me to die than —" | I would rather die than — (the sentence breaks off, as in the Greek) |
+| 17 | *oikonomian pepisteumai* "I have been entrusted with a stewardship" | I am still entrusted with a stewardship |
+| 21 | *ennomos Christou* "in-law of Christ" | within the law of Christ (note) |
+| 27 | *hypōpiazō* "I strike under the eye" | I discipline (note) |
+
+### 1 Corinthians 10: The Rock Was Christ
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *eis ton Mōysēn ebaptisanto* "were baptized into Moses" | were baptized into Moses |
+| 5 | *katestrōthēsan* "were strewn down" | were struck down |
+| 11 | *ta telē tōn aiōnōn* "the ends of the ages" | the ends of the ages |
+| 13 | *tēn ekbasin* "the way out" | the way out |
+| 16 | *to potērion tēs eulogias* "the cup of the blessing" | The cup of blessing |
+| 22 | *parazēloumen* "do we make jealous" | are we provoking the Lord to jealousy (note) |
+| 25 | *en makellō* "in the meat market" | in the meat market |
+
+### 1 Corinthians 11: The Lord's Supper
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *kata kephalēs echōn* "having down from the head" | with his head covered (note) |
+| 10 | *exousian echein epi tēs kephalēs* "to have authority on the head" | to have authority over her head (choice below) |
+| 16 | *toiautēn synētheian* "such a custom" | no such custom |
+| 19 | *haireseis* "choices, sects" | factions |
+| 20 | *kyriakon deipnon* "the lordly supper" | the Lord's supper |
+| 27 | *enochos estai tou sōmatos* "will be liable of the body" | will be guilty of sinning against the body |
+| 29 | *mē diakrinōn to sōma* "not discerning the body" | without discerning the body (note) |
+| 30 | *koimōntai* "are sleeping" | have fallen asleep |
+
+### 1 Corinthians 12: One Body, Many Parts
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tōn pneumatikōn* "the spiritual (things or people)" | spiritual gifts |
+| 7 | *hē phanerōsis tou pneumatos* "the making visible of the Spirit" | the showing of the Spirit |
+| 10 | *diakriseis pneumatōn* "distinguishings of spirits" | the ability to tell spirits apart |
+| 13 | *hen pneuma epotisthēmen* "we were watered with one Spirit" | were given one Spirit to drink |
+| 24 | *synekerasen* "mixed together" | has put the body together |
+| 28 | *kybernēseis* "pilotings, steerings" | guiding |
+| 31 | *zēloute* "you are zealous / be zealous" | earnestly desire (choice below) |
+
+**Choices for you:**
+- **11:10, *exousian echein epi tēs kephalēs dia tous angelous***
+  - (a) **a woman ought to have authority over her head** (now): her own authority, her right to pray and prophesy (v5), as *exousia* is one's own *right* all through chapters 8–9.
+  - (b) **a woman ought to have a sign of authority on her head**: a covering that shows she is under authority; *sign of* is added in English.
+  - Recommend (a): it is what the Greek says without addition, and the letter's other uses of *exousia* (8:9; 9:4–6, 12, 18) are a person's own right; the note gives both, and the range for *because of the angels*.
+- **12:31, *zēloute de ta charismata ta meizona***
+  - (a) **But earnestly desire the greater gifts** (now): a command, as the same verb is in 14:1, *earnestly desire the spiritual gifts*.
+  - (b) **You are eager for the greater gifts**: Paul describing the Corinthians, before he shows them *a still more excellent way*.
+  - Recommend (a): 14:1 picks the thought up with the same verb as a plain command, after *Pursue love*.
+
 ## 1 Corinthians 5–8 — rendered 2026-11-09, 1:15 AM CST
 
 **Landed:** 1 Corinthians 5, 6, 7, 8. Progress 1,415 → **1,419 of 1,989 (71.3%)**. John 8 is still held (see the John report).
