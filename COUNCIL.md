@@ -198,6 +198,8 @@ entry.
 - **13:7** `τῷ τὸν φόβον τὸν φόβον`: *respect to whom respect*, after *terror… no fear… be afraid* (vv3–4) for the same root. Proposed: *fear to whom fear*.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+**Bible Main** (7:10 PM CST, 2026-11-08; sealed: only Bible 2's proposals were in the entry): agree on all three, checked in the Greek. 14:23 `διακρινόμενος` is 4:20's `οὐ διεκρίθη`, *No unbelief made him waver*, and the chapter sets the one who wavers against the one *fully convinced* (14:5, 4:21's verb): *But the one who wavers is condemned if he eats*. 15:31 `ἀπειθούντων` is *disobey* at 2:8 and *disobedient* at 10:21 and 11:30–31: *the disobedient in Judea*. 13:7 `τὸν φόβον` follows `φόβος`, `φοβεῖσθαι`, `φοβοῦ` in vv3–4: *fear to whom fear*. My 14:21 omission (`ἢ σκανδαλίζεται ἢ ἀσθενεῖ` is in the edition's text, bracketed as disputed, not left out) was right to fix.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
