@@ -2,6 +2,95 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Corinthians 13–16 — rendered 2026-11-09, 7:15 PM CST
+
+**Landed:** 1 Corinthians 13, 14, 15, 16. **1 Corinthians is finished** (16 of 16). Progress 1,423 → **1,427 of 1,989 (71.7%)**. John 8 is still held (see the John report); next is 2 Corinthians.
+
+**Source:** Greek (SBLGNT). The edition's readings are followed, bracketed words included. At 13:3 it reads *kauthēsomai*, **to be burned**, and marks the word; the edition's published text was checked and reads the same (7:10 PM CST). At 14:33 its punctuation ends the verse with *as in all the churches of the saints*, closing the rules for prophets; the text follows it, and the note says many English Bibles join the words to v34. The style is carried on from 1 Corinthians 9–12.
+
+**Form kept:**
+- No sentence starts with *And* (one at 15:30 was fixed).
+- *Physioō*: **puffed up** (13:4). *Logizomai*: **reckon** (13:5), as Romans. *Katargeō*: **done away with** (13:8, 10, 11; 15:24, 26). *Aparchē*: **firstfruits** (15:20, 23; 16:15), as Romans 8:23, 11:16, 16:5.
+- *Psychikos* and *pneumatikos*: **natural** and **spiritual** (15:44, 46), as 2:14–15; *psychē zōsa*, **a living soul** (15:45), as this project's Genesis 2:7.
+- *Koimaomai*: **fall asleep** (15:6, 18, 20, 51), as 7:39 and 11:30.
+- Where Paul quotes a verse this project has already rendered and his Greek has the same sense, its English is reused: 15:32 *Let us eat and drink, for tomorrow we die* (Isaiah 22:13); 15:45 *became a living soul* (Genesis 2:7). Where his Greek differs, it is rendered as he has it (14:21 Isaiah 28:11–12; 15:54–55 Isaiah 25:8 and Hosea 13:14).
+- *Marana tha* (16:22) kept in its Aramaic, as *Abba* (Romans 8:15); the note gives its meaning.
+- Readability item 10: *will* for what is to come (13:8–12; 15:22–28, 49, 51–52); *shall* only in questions (none needed).
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:7; 5:3; Exodus 33:11; Leviticus 23:10–11; Numbers 12:8; Joshua 1:6; Psalms 8:4, 6; 31:24; 32:2; 110:1; Isaiah 22:13; 25:8; 28:11–12; 45:14; 53:5; Hosea 6:2; 13:14; Mark 16:2; Acts 20:7; Romans 4:8; 8:15. Revelation 22:20 is not yet rendered; the note gives only what its Greek says.
+
+**Checked against the sources:**
+- SBLGNT: 1 Corinthians 13:1–16:24; Revelation 22:20; and the edition's published text of 1 Corinthians 13:3.
+- Swete: Genesis 2:7; Numbers 12:8; Joshua 1:6, 9; Deuteronomy 31:6; Psalms 8:7, 30:25, 109:1 (Greek numbering); Isaiah 22:13, 25:8, 28:11–12, 45:14; Hosea 6:2, 13:14; Zechariah 8:23.
+
+**The checker** found 0 errors and 0 CHECKs (one *And* at 15:30 was fixed).
+
+**What these chapters are:**
+- **13:** without love, tongues are noise, knowledge and faith nothing. Love is patient and kind, does not envy, is not puffed up, keeps no account of wrongs, bears and hopes all things. Prophecy, tongues and knowledge will pass; now we see *in a mirror, in a riddle, but then face to face*. Faith, hope and love remain, *but the greatest of these is love*.
+- **14:** prophecy builds up the church; tongues build up only the speaker unless someone interprets. Pray and sing with the spirit and the mind. Let tongues and prophecies come two or three at a time, in turn: *God is not a God of disorder but of peace*. The women are to keep silent in the churches; *all things should be done decently and in order*.
+- **15:** the gospel Paul received: Christ died for our sins, was buried, was raised on the third day, and appeared to Cephas, the Twelve, five hundred, James and last of all to Paul. If Christ is not raised, faith is futile; but He is *the firstfruits*. The seed dies and is raised a new body; *we will all be changed… Death has been swallowed up in victory*.
+- **16:** the collection for Jerusalem, set aside on the first day of each week; plans to come after Macedonia; Timothy and Apollos; greetings from Aquila and Prisca. Paul signs with his own hand: *Marana tha!*
+
+### 1 Corinthians 13: The Greatest Is Love
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *chalkos ēchōn* "sounding bronze" | a noisy gong |
+| 3 | *psōmisō* "I feed in morsels" | I give away… to feed others |
+| 3 | *hina kauthēsomai* "that I may be burned" | to be burned (note) |
+| 4 | *ou perpereuetai* "does not brag" | does not brag |
+| 5 | *ou logizetai to kakon* "does not reckon the evil" | does not reckon up wrongs (note) |
+| 8 | *oudepote piptei* "never falls" | never fails |
+| 10 | *to teleion* "the complete" | what is complete |
+| 12 | *di' esoptrou en ainigmati* "through a mirror in a riddle" | in a mirror, in a riddle (note) |
+
+### 1 Corinthians 14: Tongues and Prophecy
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *pneumati* "in spirit / by the Spirit" | in the Spirit |
+| 7 | *ta apsycha* "the soulless things" | lifeless instruments |
+| 9 | *eusēmon logon* "a well-marked word" | words that are easy to understand |
+| 11 | *barbaros* "non-Greek speaker" | a foreigner |
+| 12 | *zēlōtai pneumatōn* "zealots of spirits" | eager for gifts of the Spirit |
+| 16 | *ho anaplērōn ton topon tou idiōtou* "the one filling the place of the private person" | the one in the place of an outsider |
+| 23 | *mainesthe* "you are mad" | you are out of your minds |
+| 38 | *agnoeitai* "he is not known" | he is not acknowledged |
+
+### 1 Corinthians 15: The Resurrection of the Dead
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *en prōtois* "among the first things" | as of first importance |
+| 8 | *tō ektrōmati* "to the miscarried one" | to one born out of time |
+| 23 | *en tō idiō tagmati* "in his own rank" | in his own order |
+| 29 | *hoi baptizomenoi hyper tōn nekrōn* "those being baptized over the dead" | those who are baptized for the dead (note) |
+| 31 | *nē tēn hymeteran kauchēsin* "by your boasting" | That is as sure… as my boasting about you |
+| 33 | *phtheirousin ēthē chrēsta homiliai kakai* "bad company ruins good habits" | "Bad company ruins good character." |
+| 34 | *eknēpsate dikaiōs* "sober up rightly" | Come back to your senses as you ought |
+| 45 | *eis pneuma zōopoioun* "into a life-making spirit" | a life-giving spirit (choice below) |
+| 47 | *choïkos* "of dust" | a man of dust (note) |
+| 52 | *en atomō, en rhipē ophthalmou* "in an uncut moment, in the flick of an eye" | in a moment, in the twinkling of an eye |
+
+### 1 Corinthians 16: Marana Tha
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tēs logeias* "the collection" | the collection |
+| 2 | *kata mian sabbatou* "according to one of the week" | On the first day of every week (note) |
+| 3 | *tēn charin hymōn* "your grace" | your gift |
+| 9 | *thyra… megalē kai energēs* "a great and working door" | a wide door for effective work |
+| 12 | *ouk ēn thelēma* "it was not will" | it was not at all his will (the Greek does not say whose; it may be God's) |
+| 13 | *andrizesthe* "act like men" | be courageous (note) |
+| 22 | *Marana tha* (Aramaic) | Marana tha! (note) |
+
+**Choices for you:**
+- **15:45, *ho eschatos Adam eis pneuma zōopoioun***
+  - (a) **the last Adam became a life-giving spirit** (now): set against *a living soul*, the two kinds of life Adam and Christ give.
+  - (b) **the last Adam became a life-giving Spirit**: the risen Christ named with the Holy Spirit who gives life (as 2 Corinthians 3:17, *the Lord is the Spirit*).
+  - Recommend (a): the line is built against Genesis 2:7's *living soul*, and the chapter's pair is *natural* and *spiritual* bodies (v44), not the Spirit by name; the capital would settle what the Greek leaves open.
+
 ## 1 Corinthians 9–12 — rendered 2026-11-09, 2:15 PM CST
 
 **Landed:** 1 Corinthians 9, 10, 11, 12. Progress 1,419 → **1,423 of 1,989 (71.5%)**. John 8 is still held (see the John report).
