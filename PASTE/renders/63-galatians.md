@@ -2,6 +2,63 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Galatians 5–6 — rendered 2026-11-11, 2:20 PM CST
+
+**Landed:** Galatians 5, 6. **Galatians is finished.** This run also began Ephesians (see the Ephesians report); together, progress 1,444 → **1,448 of 1,989 (72.8%)**. John 8 is still held (see the John report).
+
+**Source:** Greek (SBLGNT). The edition's readings are followed, bracketed words included (5:1, 17, 20; 6:3, 15). The style is carried on from Galatians 1–4.
+
+**Form kept:**
+- No sentence starts with *And*. *Ide* cut (5:2).
+- *Douleia*, *douleuō*: **slavery**, **be slaves** (5:1, 13), so freedom's *slavery* to one another answers the *yoke of slavery*.
+- *Bastazō*: **carry**, all three times (6:2, 5, 17); *bear his judgment* in 5:10.
+- *Stoicheō*: **walk in line with** (5:25; 6:16).
+- *Katartizō*: **restore** (6:1), as 2 Corinthians 13:9, 11. *Praÿtēs*: **gentleness** (5:23; 6:1), and *a spirit of gentleness*, as 1 Corinthians 4:21.
+- *Skandalon*: **stumbling block** (5:11), as 1 Corinthians 1:23. *Paraptōma*: **trespass** (6:1).
+- *Porneia*: **sexual immorality**; *aselgeia*: **sensuality** (5:19), as 2 Corinthians 12:21.
+- English reused: 5:9 as 1 Corinthians 5:6; 5:14 Leviticus 19:18 as Romans 13:9.
+- *Mē genoito* with an infinitive is **may I never boast** (6:14); alone it stays *By no means!*
+
+**Echoes in the notes, checked against this project's English where quoted:** Deuteronomy 23:1; Psalm 125:5; 128:6; Romans 7:2, 4, 6; 9:6; 11:26.
+
+**Checked against the sources:** SBLGNT: Galatians 5:1–6:18. Swete: Deuteronomy 23:1; Psalm 124:5; 127:6 (Greek numbering).
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **5:** *For freedom Christ has set us free.* To be circumcised for righteousness is to be cut off from Christ; *in Christ Jesus neither circumcision nor uncircumcision counts for anything, but faith working through love.* Walk by the Spirit: the works of the flesh, and *the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.*
+- **6:** carry one another's burdens; a person reaps what he sows. In his own large letters Paul ends: *may I never boast except in the cross of our Lord Jesus Christ*; what counts is *a new creation*; *I carry on my body the marks of Jesus.*
+
+### Galatians 5: Freedom in Christ
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tē eleutheria* "for freedom, by freedom" | For freedom |
+| 4 | *katērgēthēte apo Christou* "you were released from Christ" | you have been cut off from Christ (note) |
+| 4 | *hoitines en nomō dikaiousthe* "you who are being justified by the Law" | You who would be justified by the Law |
+| 7 | *enekopsen* "cut in" | cut in on you |
+| 12 | *apokopsontai* "will cut themselves off" | emasculate themselves (note) |
+| 13 | *douleuete allēlois* "be slaves to one another" | be slaves to one another |
+| 22 | *pistis* "faith, faithfulness" | faithfulness: one fruit in a list of character |
+| 25 | *stoichōmen* "let us walk in line" | let us also walk in line with |
+
+### Galatians 6: A New Creation
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *prolēmphthē* "is overtaken" | is caught |
+| 7 | *myktērizetai* "is sneered at" | is mocked |
+| 12 | *euprosōpēsai* "to put on a good face" | to make a good showing |
+| 14 | *mē genoito kauchasthai* "may it not be, to boast" | may I never boast |
+| 16 | *kai epi ton Israēl tou theou* | and upon the Israel of God (choice below) |
+| 17 | *ta stigmata* "the brand-marks" | the marks |
+
+**Choices for you:**
+- **6:16, *kai epi ton Israēl tou theou***
+  - (a) **peace be upon them, and mercy, and upon the Israel of God** (now): *and*, Paul's plain *kai*, so the Israel of God may be a second people beside the believers, as the psalms' *Peace be on Israel!*
+  - (b) **peace be upon them, and mercy, that is, upon the Israel of God**: the believers who walk by this rule are themselves the Israel of God, as *you are Abraham's seed* (3:29).
+  - Recommend (a): it keeps the Greek's own word, which can be read either way, and the note gives both, with Romans 9:6 and 11:26. Paul writes *the Israel of God* only here.
+
 ## Galatians 1–4 — rendered 2026-11-11, 1:20 AM CST
 
 **Landed:** Galatians 1, 2, 3, 4. Progress 1,440 → **1,444 of 1,989 (72.6%)**. John 8 is still held (see the John report).
