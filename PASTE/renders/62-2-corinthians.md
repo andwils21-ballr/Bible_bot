@@ -2,6 +2,126 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Corinthians 9–13 — rendered 2026-11-10, 7:20 PM CST
+
+**Landed:** 2 Corinthians 9, 10, 11, 12, 13. **2 Corinthians is finished.** Progress 1,435 → **1,440 of 1,989 (72.4%)**. Galatians is next. John 8 is still held (see the John report).
+
+**Source:** Greek (SBLGNT). The edition's readings are followed, bracketed words included (11:3, 23; 12:7). The style is carried on from 2 Corinthians 5–8.
+
+**Form kept:**
+- No sentence starts with *And*. *Idou* cut (12:14).
+- Paul's "fool's speech" holds to its own words: *kauchaomai* and its nouns are **boast** every time (9:2–3; 10:8, 13–17; 11:10–18, 30; 12:1–9); *aphrōn*, *aphrosynē* are **fool**, **foolishness** (11:1, 16–21; 12:6, 11); *anechomai* is **put up with** (11:1, 4, 19–20); *astheneia*, *astheneō* are **weakness**, **weak** (11:21–13:9); *katanarkaō* is **burden** (11:9; 12:13–14).
+- *Dokimē*, *dokimazō*, *dokimos*, *adokimos*: **proof**, **test**, **approved**, **fail the test** (9:13; 10:18; 13:3–7), so the play in 13:5–7 can be seen.
+- *Oikodomē* and *kathairesis*: **building up** and **tearing down** (10:4, 8; 12:19; 13:10).
+- *Logizomai*: **reckon** (10:2, 7, 11; 11:5; 12:6). *Kata sarka*: **according to the flesh** (10:2–3; 11:18), as Romans 8:4.
+- *Panourgia*, *panourgos*: **cunning** (11:3; 12:16), as 4:2. *Diakonos*: **minister** (11:15, 23), as 3:6.
+- *Charis*: **grace** (9:8, 14), **thanks** (9:15), as 8:16. *Haplotēs*: **generosity** (9:11, 13), as 8:2; in 11:3, **sincere** devotion. *Koinōnia*: **sharing** (9:13), as 8:4; **fellowship** in the blessing (13:14), as 1 Corinthians 1:9.
+- English reused where Paul's Greek has the same sense: 9:9 Psalm 112:9; 10:17 1 Corinthians 1:31; 13:1 Deuteronomy 19:15 (*On the word of… shall stand*); 10:4 *in God's sight*, as Acts 7:20; 11:27 *nakedness*, as Romans 8:35; 12:9 *pitch its tent*, as John 1:14; 10:1 *gentleness*, *humble*, as Matthew 11:29.
+- 9:9 set as poetry; the rest as prose. *Shall* only in the Law as quoted (13:1).
+- **Verse numbers:** the edition has 13 verses in chapter 13; the English numbering has 14 (its 13:12 is English 12–13). The text follows the English, and the v14 note says so.
+
+**Echoes in the notes, checked against this project's English where quoted:**
+- Genesis 2:8; 3:13; 33:11; Exodus 34:14; Numbers 33:55; Deuteronomy 19:15; 25:3; Psalm 112:1, 9; Proverbs 21:22; 22:8; Isaiah 55:10; Jeremiah 24:6; Ezekiel 28:24; Hosea 10:12; Matthew 6:1–2; 11:29; 18:16; 26:67; Luke 23:43; John 1:14. Galatians 4:13 and Revelation 2:7 are not yet rendered; the notes give only what their Greek says.
+
+**Checked against the sources:**
+- SBLGNT: 2 Corinthians 9:1–13:13; Matthew 6:1; 26:67; John 1:14; 1 Corinthians 12:9; Galatians 4:13; 5:16; Revelation 2:7; and the closing verses of all fourteen letters of Paul, Hebrews included, for the v14 note (2 Corinthians 13 is the only one that names the Holy Spirit; Galatians, Philippians, 2 Timothy and Philemon close with *your spirit*).
+- Swete: Genesis 2:8; 3:13; 33:11; Exodus 34:14; Numbers 12:3; 33:55; Deuteronomy 19:15; 25:3; Joshua 2:15; 1 Samuel 19:12; 25:27; 2 Kings 5:15; Psalm 111:9 (Greek numbering); Proverbs 21:22; 22:8–9; Isaiah 55:10; Jeremiah 1:10; 9:23–24; 24:6; Ezekiel 28:24; Hosea 2:6; 10:12.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **9:** the brothers go ahead so the gift is ready when Paul comes. *Whoever sows sparingly will also reap sparingly… God loves a cheerful giver.* God gives seed to the sower, and the gift ends in thanksgiving: *Thanks be to God for His indescribable gift!*
+- **10:** Paul answers those who say *his letters are weighty… but his bodily presence is weak*: our weapons are not of the flesh; they tear down strongholds, and we take every thought captive to obey Christ. He will boast only within the field God measured out to him: *let him who boasts boast in the Lord.*
+- **11:** *I betrothed you to one husband*; Paul fears they will be led astray as Eve was. He preached to them free of charge; the *super-apostles* are false apostles, as Satan disguises himself as an angel of light. Then, as a fool, he boasts: Hebrew, Israelite, seed of Abraham, and his sufferings, beatings, shipwrecks, dangers, the daily care of the churches, and the escape from Damascus in a basket.
+- **12:** a man caught up to the third heaven, into paradise. *A thorn in the flesh*, and three prayers: *My grace is sufficient for you, for power is made perfect in weakness… when I am weak, then I am strong.* Paul is coming a third time and seeks not what is theirs but them.
+- **13:** examine yourselves; test yourselves. Paul writes so he will not have to be severe when he comes. The closing blessing: *The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.*
+
+### 2 Corinthians 9: The Cheerful Giver
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *perisson moi estin to graphein* "it is more than enough for me to write" | There is no need for me to write |
+| 4 | *en tē hypostasei tautē* "in this confidence" | for being so confident |
+| 5 | *hōs eulogian kai mē hōs pleonexian* "as a blessing and not as greed" | as a generous gift and not as a grudging one (note) |
+| 6 | *ep' eulogiais* "on blessings" | generously (note) |
+| 8 | *pasan autarkeian* "all self-sufficiency" | enough of everything |
+| 11 | *eis pasan haplotēta* "for all singleness" | for every kind of generosity |
+| 12 | *hē diakonia tēs leitourgias tautēs* "the ministering of this public service" | carrying out this service |
+| 13 | *epi tē hypotagē tēs homologias hymōn* "for the submission of your confession" | for the submission that goes with your confession |
+| 15 | *anekdiēgētō* "that cannot be told through" | indescribable |
+
+### 2 Corinthians 10: The Weapons of Our Warfare
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kata prosōpon* "according to face" | face to face |
+| 4 | *dynata tō theō* "powerful to God" | mighty in God's sight |
+| 4 | *logismous* "reasonings" | arguments |
+| 5 | *hypsōma* "height" | high thing |
+| 7 | *ta kata prosōpon blepete* "the things according to face you look at" | You look at outward appearances (choice below) |
+| 10 | *phēsin* "he says" | someone says |
+| 10 | *ho logos exouthenēmenos* "the speech despised" | his speech is of no account |
+| 13 | *kanonos* "measuring rod, rule" | field |
+| 15 | *en hymin megalynthēnai* "to be made great among you" | our work among you will be greatly enlarged |
+
+### 2 Corinthians 11: Paul and the False Apostles
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *alla kai anechesthe mou* "but indeed you bear with me", or "but do bear with me" | Do put up with me! |
+| 4 | *kalōs anechesthe* "you bear it well" | you put up with it readily enough |
+| 5 | *tōn hyperlian apostolōn* "the beyond-exceedingly apostles" | these super-apostles (also 12:11) |
+| 6 | *idiōtēs tō logō* "a layman in speech" | untrained in speaking |
+| 10 | *ou phragēsetai* "will not be fenced in" | will not be silenced |
+| 17 | *ou kata kyrion* "not according to the Lord" | not as the Lord would |
+| 21 | *kata atimian legō* "I speak according to dishonor" | To my shame I must say |
+| 23 | *paraphronōn lalō* "being out of my mind I speak" | I am talking like a madman |
+| 23 | *en thanatois pollakis* "in deaths often" | often been near death |
+| 25 | *en tō bythō* "in the deep" | in the open sea |
+| 29 | *pyroumai* "I am set on fire" | I burn |
+
+### 2 Corinthians 12: Power Made Perfect in Weakness
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ou sympheron* "not profitable" | It does no good |
+| 4 | *arrēta rhēmata* "unspoken words" | words that cannot be spoken |
+| 7 | *kai tē hyperbolē tōn apokalypseōn* "and by the excess of the revelations" | or because the revelations were so extraordinary: the edition ends the sentence of v6 here |
+| 7 | *hina mē hyperairōmai* "so that I may not be lifted up beyond", twice | to keep me from being too elated, twice, as the edition has it |
+| 7 | *angelos Satana* "angel/messenger of Satan" | an angel of Satan (choice below) |
+| 9 | *episkēnōsē* "may pitch a tent over" | may pitch its tent over me (note) |
+| 13 | *hēssōthēte* "were you made less" | were you treated worse |
+| 16 | *hyparchōn panourgos dolō hymas elabon* "being cunning, I took you by deceit" | cunning as I am, I caught you by deceit (note) |
+| 18 | *tō autō pneumati* "in the same S/spirit" | by the same Spirit (choice below) |
+| 18 | *tois autois ichnesin* "in the same footprints" | take the same steps |
+
+### 2 Corinthians 13: Examine Yourselves
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *epi stomatos* "on the mouth" | On the word, as Deuteronomy 19:15 |
+| 4 | *ex astheneias* "out of weakness" | in weakness |
+| 5 | *adokimoi* "unapproved" | fail the test (vv5–7, with *proof* in v3) |
+| 9 | *katartisin* "mending" | fully restored (v11 *Be restored*) |
+| 10 | *apotomōs* "cuttingly" | severe |
+| 11 | *chairete* "rejoice", also the Greek letter's *farewell* | rejoice |
+| 11 | *parakaleisthe* "be comforted", or "be exhorted" | take comfort |
+| 12–14 | the edition's 12–13 | 12, 13, 14, as the English numbering has it (note on v14) |
+
+**Choices for you:**
+- **10:7, *ta kata prosōpon blepete***
+  - (a) **You look at outward appearances** (now): a rebuke, you judge by what you see.
+  - (b) **Look at what is before your eyes**: a command, face the plain facts.
+  - Recommend (a): *kata prosōpon* is the phrase of v1, *humble when I am face to face with you*, and v10 gives the judgment Paul is answering, *his bodily presence is weak*; the Greek verb can be either.
+- **12:7, *angelos Satana***
+  - (a) **an angel of Satan** (now): a spirit sent by Satan, as *the devil and his angels* (Matthew 25:41).
+  - (b) **a messenger of Satan**: anything Satan sends, an illness or a human enemy; *angelos* is also a man sent with a message (Matthew 11:10; Luke 7:24).
+  - Recommend (a): Paul has just used the word for Satan's own disguise, *an angel of light* (11:14), nothing in the verse makes it a human messenger, and the note gives the range of what the thorn was.
+- **12:18, *tō autō pneumati periepatēsamen***
+  - (a) **Did we not walk by the same Spirit?** (now): the Holy Spirit leading Paul and Titus alike.
+  - (b) **Did we not walk in the same spirit?**: the same attitude, matched by *the same steps*.
+  - Recommend (a): *walk by the Spirit* is Paul's own phrase with the same verb and case (Galatians 5:16), and *the same Spirit* is the Holy Spirit in 1 Corinthians 12:9 and 2 Corinthians 4:13.
+
 ## 2 Corinthians 5–8 — rendered 2026-11-10, 2:15 PM CST
 
 **Landed:** 2 Corinthians 5, 6, 7, 8. Progress 1,431 → **1,435 of 1,989 (72.1%)**. John 8 is still held (see the John report).
