@@ -16,7 +16,7 @@ cursor line.
 - **Bible 2** (`trig_011UWcyhrwAiuuBgZnvFx3xf`): 1 Enoch to Wisdom of Solomon.
   Done.
 - **Bible 3** (`trig_01SUixp7UxNVNqmtdXa98RnN`): Sirach to Acts 26, then the opening
-  chapters of books 82–89. Next: **Sirach**.
+  chapters of books 82–89. Next: **Isaiah**.
 
 **Left out:** Genesis and Exodus (closed), the fixed model Leviticus 17, the
 model John 1, and Acts 27–28 (done).
