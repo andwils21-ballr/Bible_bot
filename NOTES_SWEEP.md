@@ -12,7 +12,7 @@ Each session works only its own part, in book order, and moves only its own
 cursor line.
 
 - **Bible Main** (`trig_01EGtPCNGG8RR8LGXjZFkBEK`): Leviticus to Jubilees.
-  Next: **Deuteronomy**.
+  Next: **Joshua**.
 - **Bible 2** (`trig_011UWcyhrwAiuuBgZnvFx3xf`): 1 Enoch to Wisdom of Solomon.
   Done.
 - **Bible 3** (`trig_01SUixp7UxNVNqmtdXa98RnN`): Sirach to Acts 26, then the opening
