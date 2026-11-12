@@ -2,6 +2,102 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ephesians 3–6 — rendered 2026-11-11, 7:25 PM CST
+
+**Landed:** Ephesians 3, 4, 5, 6. **Ephesians is finished.** Progress 1,448 → **1,452 of 1,989 (73.0%)**. Philippians is next. John 8 is still held (see the John report).
+
+The open Romans choice on *pistis Iēsou Christou* meets 3:12, *through our faith in Him*, rendered as Romans has it. The widespread choice on *amōmos* (in the 1–2 report below) meets 5:27, *holy and without defect*.
+
+**Source:** Greek (SBLGNT). The edition's readings are followed, bracketed words included (3:6–8, 16, 18; 4:28; 5:3–4, 15, 31; 6:5, 8–10, 21). The style is carried on from Ephesians 1–2.
+
+**Form kept:**
+- No sentence starts with *And*.
+- *En tois epouraniois*: **in the heavenly places** (3:10; 6:12), as chapters 1–2.
+- *Oikonomia*: **stewardship** for Paul's charge (3:2), **plan** for God's (3:9), as 1:10.
+- *Anthrōpos* in the pair *old* and *new*: **old self**, **new self** (4:22, 24), as Romans 6:6; *the inner self* (3:16), as 2 Corinthians 4:16. The note on 4:22–24 ties *the new self* to *one new man* (2:15).
+- *Melē*: **parts** (4:25; 5:30), as Romans 12:5. *Mataiotēs*: **emptiness** (4:17), as Romans 8:20. *Pōrōsis*: **hardening** (4:18), as Romans 11:25. *Panourgia*: **cunning** (4:14), as 2 Corinthians 4:2; *methodeia*: **schemes** both times (4:14; 6:11).
+- *Doulos*: **slave** with a human master (6:5, 8); **servants of Christ** where Christ is the master (6:6). *Kyrioi*, **masters**, and *ho kyrios*, **Master** with a capital, of Christ (6:9).
+- *Presbeuō*: **ambassador** (6:20), as 2 Corinthians 5:20. *Parakaleō*: **comfort** (6:22).
+- English reused where Paul's Greek has the same sense: 4:8 Psalm 68:18 *led captives away*; 4:25 Zechariah 8:16 *speak the truth each… with his neighbor*; 5:31 Genesis 2:24 as Matthew 19:5; 6:2 *Honor your father and mother*; 3:8 *beyond tracing out*, as Romans 11:33; 4:29 *rotten*, as Matthew 7:17; 5:18 *reckless living*, as Luke 15:13; 5:2 *a soothing aroma*, the fixed term for the offering formula. Where Paul's Greek differs from the Hebrew, it is rendered as he has it (4:8 *gave*; 4:26 *Be angry*).
+- 4:8 and 5:14 set as poetry; the rest as prose.
+
+**Echoes in the notes, checked against this project's English where quoted:** Genesis 1:27; 2:24; 8:21; Exodus 20:12; Leviticus 1:9; Deuteronomy 5:16; Psalm 4:4; 51:11; 63:9; 68:16, 18; 139:15; Proverbs 23:31; Isaiah 11:1, 5; 26:19; 52:7; 59:17; 60:1; 63:10–11; Matthew 19:5.
+
+**Checked against the sources:**
+- SBLGNT: Ephesians 3:1–6:24.
+- Swete: Genesis 2:24; 8:21; Exodus 20:12; Deuteronomy 5:16; Psalm 4:5; 62:10; 67:19; 138:15 (Greek numbering); Proverbs 23:31; Isaiah 11:5; 59:17; 63:10; Zechariah 8:16.
+- Hebrew: Psalm 68:19 (English 68:18); every use of *ruach qodsh-* in the Hebrew Bible, for the 4:30 note (Psalm 51:13 in the Hebrew numbering; Isaiah 63:10, 11).
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **3:** Paul, *less than the least of all the saints*, was given the mystery hidden for ages: *the Gentiles are fellow heirs, fellow members of the body*. He bows his knees before the Father, praying that they may know *the love of Christ that surpasses knowledge*, and ends in praise: *to Him who is able to do far more abundantly than all that we ask or think*.
+- **4:** *one body and one Spirit… one Lord, one faith, one baptism; one God and Father of all.* Christ went up on high and gave gifts, apostles, prophets, evangelists, shepherds and teachers, to build up His body to full growth. Put off the old self, put on the new; speak the truth, be angry and do not sin, do not grieve the Holy Spirit; *be kind to one another… as God in Christ forgave you.*
+- **5:** *be imitators of God, as beloved children, and walk in love*; once darkness, now light; *be filled with the Spirit*. Wives and husbands, as the church and Christ: *This mystery is great, but I am speaking about Christ and the church.*
+- **6:** children and parents, slaves and masters. *Put on the whole armor of God*: truth, righteousness, the gospel of peace, the shield of faith, the helmet of salvation, the sword of the Spirit, *which is the word of God*. Tychicus will bring the news; peace and grace.
+
+### Ephesians 3: The Mystery Made Known
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *tēn oikonomian tēs charitos* "the household management of the grace" | the stewardship of God's grace |
+| 5 | *tois huiois tōn anthrōpōn* "to the sons of men" | to people |
+| 6 | *synklēronoma kai syssōma kai symmetocha* "co-heirs, co-bodied, co-sharers" | fellow heirs, fellow members of the body, and fellow sharers |
+| 8 | *tō elachistoterō* "the leaster", a *less* made on a *least* | less than the least |
+| 10 | *polypoikilos* "many-colored" | many-sided |
+| 11 | *kata prothesin tōn aiōnōn* "according to the purpose of the ages" | according to the eternal purpose |
+| 12 | *dia tēs pisteōs autou* "through the faith of Him" | through our faith in Him |
+| 21 | *eis pasas tas geneas tou aiōnos tōn aiōnōn* "to all the generations of the age of the ages" | throughout all generations, forever and ever |
+
+### Ephesians 4: One Body and the New Self
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 8 | *ēchmalōteusen aichmalōsian* "He made captive a captivity" | He led captives away, as Psalm 68:18 |
+| 9 | *ta katōtera merē tēs gēs* "the lower parts of the earth" | the lower parts of the earth (choice below) |
+| 11 | *poimenas* "shepherds" | shepherds |
+| 12 | *pros ton katartismon* "for the fitting out" | to equip |
+| 13 | *eis andra teleion* "into a complete man" | a full-grown man |
+| 14 | *en tē kybeia* "in the dice-playing" | by human trickery |
+| 16 | *dia pasēs haphēs tēs epichorēgias* "through every joint of the supply" | by every joint that supplies it |
+| 19 | *apēlgēkotes* "having ceased to feel pain" | Having lost all feeling |
+| 24 | *en dikaiosynē kai hosiotēti tēs alētheias* "in righteousness and holiness of the truth" | in true righteousness and holiness |
+| 27 | *topon* "place" | a foothold |
+
+### Ephesians 5: Christ and the Church
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | *eis osmēn euōdias* "into a smell of fragrance" | as a soothing aroma (note) |
+| 4 | *eutrapelia* "ready wit, turning easily" | crude joking |
+| 10 | *dokimazontes* "testing" | testing, as Romans 12:2 |
+| 16 | *exagorazomenoi ton kairon* "buying out the time" | making the most of the time |
+| 22 | no verb in the Greek | submit, carried from v21 (note) |
+| 33 | *phobētai* "fears" | respects (choice below) |
+
+### Ephesians 6: The Armor of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *tois kata sarka kyriois* "the masters according to the flesh" | your earthly masters |
+| 5 | *en haplotēti tēs kardias* "in singleness of heart" | with a sincere heart |
+| 6 | *kat' ophthalmodoulian* "by eye-slavery" | not only while being watched |
+| 12 | *pros haima kai sarka* "against blood and flesh" | against flesh and blood |
+| 14 | *perizōsamenoi tēn osphyn hymōn en alētheia* "having girded your loins in truth" | with truth fastened around your waist |
+| 16 | *en pasin* "in all" | with all these |
+| 24 | *en aphtharsia* "in incorruption" | with a love that does not die |
+
+**Choices for you:**
+- **4:9, *katebē eis ta katōtera merē tēs gēs***
+  - (a) **He had also gone down into the lower parts of the earth** (now): keeps the Greek's range.
+  - (b) **into the lower parts, that is, the earth**: He came down from heaven to earth.
+  - (c) **into the parts beneath the earth**: He went down to the dead before He went up.
+  - Recommend (a): the Greek Psalms use the same phrase for the grave (Psalm 63:9) and for the womb (Psalm 139:15), and v10 sets only *went down* against *went up far above all the heavens*; the note gives both readings.
+- **5:33, *hē de gynē hina phobētai ton andra***
+  - (a) **the wife must see that she respects her husband** (now).
+  - (b) **the wife must see that she fears her husband**: the same word as *the fear of Christ* in v21, so the passage opens and closes on it.
+  - Recommend (a): in English *fear her husband* says *be afraid of him*, which the Greek word, used in v21 of reverence for Christ, does not say; the note shows the link to v21.
+
 ## Ephesians 1–2 — rendered 2026-11-11, 2:25 PM CST
 
 **Landed:** Ephesians 1, 2, in the same run as Galatians 5–6 (see the Galatians report). Together, progress 1,444 → **1,448 of 1,989 (72.8%)**. John 8 is still held (see the John report).
