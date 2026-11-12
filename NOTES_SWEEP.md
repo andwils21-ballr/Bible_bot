@@ -1,5 +1,7 @@
 # Notes sweep (Andrew, 2026-11-07)
 
+**Handed over 2026-11-12 (Andrew):** a separate Fable 5.2 session now does the whole sweep in one pass; the three Thursday Routines below are off. The cursors show what was done before the handover.
+
 A one-off loop: bring the notes of every chapter rendered before 2026-11-07 to
 the rule in `CLAUDE.md` §3, *less is more*. Acts 27–28 are the worked example.
 It runs **every Thursday at 6:00 AM Central until finished**, split three ways

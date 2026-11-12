@@ -102,7 +102,7 @@ entry.
 
 ## Review cursors
 
-- **Notes sweep** (Andrew, 2026-11-07): every Thursday, 6:00 AM CST, from 2026-11-12, until done. Split three ways by Andrew's word: Bible Main, Leviticus to Jubilees; Bible 2, 1 Enoch to Wisdom of Solomon; Bible 3, Sirach to Acts 26 and books 82–89 (for this sweep Bible 3 edits notes in its own part). Notes only, one push per book; plan and cursors in `NOTES_SWEEP.md`. Pull before editing a book in another session's part.
+- **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
