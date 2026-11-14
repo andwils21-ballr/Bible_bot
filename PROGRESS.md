@@ -1,6 +1,6 @@
 # Progress
 
-**1465 of 1989 chapters rendered (73.7%).**
+**1468 of 1989 chapters rendered (73.8%).**
 
 Next up: **Esther 11**
 
@@ -73,7 +73,7 @@ Next up: **Esther 11**
 | 65 | Philippians | source | done |
 | 66 | Colossians | source | done |
 | 67 | 1 Thessalonians | source | done |
-| 68 | 2 Thessalonians | source | 0/3 |
+| 68 | 2 Thessalonians | source | done |
 | 69 | 1 Timothy | source | 0/6 |
 | 70 | 2 Timothy | source | 0/4 |
 | 71 | Titus | source | 0/3 |
