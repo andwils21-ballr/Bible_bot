@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Deuteronomy 4, note on v19 | no note | note added: *chalaq*: the sun, moon and stars given to all as lights, or assigned to the nations as what they serve |
+| Deuteronomy 5, note on v22 | no note | note added: *ve-lo yasaf*: He *added no more*, or a voice that *did not cease* |
+| Deuteronomy 33, note on v12 | no note | note added: Benjamin between the LORD's shoulders, or the LORD dwelling between Benjamin's |
+
+**Choices for you:**
+- **33:12, *u-vein ketefav shakhen***
+  - (a) **and he dwells between His shoulders** (now): Benjamin rests between the LORD's shoulders, carried. The verse opens with Benjamin dwelling (*yishkon*) and would close on the same verb with the same subject.
+  - (b) **and He dwells between his shoulders**: the LORD dwells among Benjamin's hills. *Katef* is also a hillside, Benjamin's border runs along *the slope of the Jebusite* (Joshua 18:16), and Jerusalem is among his cities (18:28).
+  - Recommend (b): the clause just before has the LORD as its subject, *He shields him all the day*, and Joshua uses this word for the slope where Jerusalem stands. Only the capitals change.
+- The choice on *ve-lo yasaf* (5:22) is raised with Numbers 11:25, in `PASTE/changes/4-numbers.md`.
+
 ## The map after Joshua 24: closer stages, the giants' lands, a wider view (2026-10-23, 10:53 PM Central)
 
 **Request:** Andrew, in chat: zoom in more on each move; the three cities of the giants sit in an area too small to see; the giants' land solid crimson, not striped, with small crimson dots for the cities, since the big dots take over the territory; shade everything Israel took, over the whole territory of the peoples they took it from; and a wider whole map, so the action is not crowded into the upper right corner.

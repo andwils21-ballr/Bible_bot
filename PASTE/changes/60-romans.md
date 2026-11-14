@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Romans 16, note on v1 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## Spot-check fixes, Romans 14 (2026-11-08)
 
 **Request:** the weekly spot check of Romans 13–16 (`PASTE/spot-checks/2026-11-08.md`). Bible 2 fixes the rule breaks and the departures from the Greek it found (`SPOT_CHECK.md`).

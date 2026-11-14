@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Acts 17, note on v22 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## Acts 27–28 notes cut to what matters (Andrew, 2026-11-07, 11:40 AM CST)
 
 **Request:** Andrew: the reader does not need the decision-making, nor notes written to fill ten; keep a note only if it matters to the Bible as a whole or to how a main idea can be read (the model: John 1:1, *logos*). Now the rule in `CLAUDE.md` §3; the spec's three-note minimum is gone.

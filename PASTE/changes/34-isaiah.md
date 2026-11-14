@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 1, note on v18 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Isaiah 32, note on v2 | no note | note added: *ish*: *each* prince a shelter, or *a man*, the king |
+
+**Choices for you:** none new. The choice on 32:2 is already open in the Isaiah 31–34 entry of `PASTE/renders/34-isaiah.md`; the chapter now has a note on it.
+
 ## Isaiah 63:9, *lo tsar… u-mal'akh panav* (2026-10-16)
 
 **Request:** Andrew asked why (b) said *No envoy, no messenger*; the answer was the written form and the Greek, set against Exodus 33:2–3, 14–15, where the LORD offered a messenger and Moses would not go without His face. He chose (b) in the smoother wording.

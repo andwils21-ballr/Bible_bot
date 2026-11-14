@@ -2,6 +2,25 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 11, note on v25 | no note | note added: *ve-lo yasafu*: they *did not do so again*, or *did not stop* |
+| Numbers 23, note on v21 | no note | note added: God sees no wrong in Israel, or no harm is coming to Israel |
+
+**Choices for you:**
+- **11:25 (with Deuteronomy 5:22), *ve-lo yasafu* / *ve-lo yasaf***
+  - (a) **but they did not do so again** (11:25) and **and He added no more** (Deuteronomy 5:22) (now): the vowels of the Hebrew text, from *yasaf*, "to add"; the Greek agrees in both verses.
+  - (b) **and they did not stop** and **a loud voice that did not cease**: the same letters with other vowels, from *suf*, "to come to an end" (Esther 9:28, *lo yasuf*).
+  - Recommend (a): both witnesses have it, and Deuteronomy 5:25 uses the same verb, *If we hear the voice of the LORD our God any more*.
+- **23:21, *lo hibbit aven be-Ya'aqov***
+  - (a) **He has not looked on wrongdoing in Jacob, or seen trouble in Israel** (now): God is the subject, and He finds no fault in Israel to punish. Habakkuk 1:3 and 1:13 use the same verbs and nouns of God.
+  - (b) **No harm is seen in Jacob, and no trouble in Israel**: no subject, and *aven* and *amal* as the hardship that falls on people (Psalm 90:10). The Greek reads it so.
+  - Recommend (a): the next line names Him, *The LORD his God is with him*, and Habakkuk shows the phrase used of what God looks on.
+
 ## *Cherem* in the Achan and Saul stories (Andrew, 2026-10-18)
 
 **Request:** the two groups held from the entry below. Achan (Joshua 6–7): Andrew, "*devoted* makes more sense… You devote something to someone, like you give it to them in honor. Saying devote with a direct reference to destroying is just a weird way to use that word… This should be *devote* then *doomed*." Saul and Ahab (1 Samuel 15; 1 Kings 20:42): (b), *destroy completely* and *doomed*. The ruling is in `RENDERING_SPEC.md`, "Already ruled", and `check_chapters.py` now stops *devote… to destruction*.
@@ -581,4 +600,3 @@ Held for Andrew: the king of Assyria's messages and Hezekiah's in the same story
 |---|---|---|
 | Numbers 11:25 | When the Spirit rested on them, they prophesied; | And it came to pass, when the Spirit rested on them, that they prophesied; |
 | Numbers 17:8 | The next day Moses went into the tent of the Testimony… | And it came to pass the next day that Moses went into the tent of the Testimony… |
-

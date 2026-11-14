@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Kings 2, note on v23 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## 2 Kings 4:40: But, not And (council, settled 2026-10-08)
 
 **Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: the *ve-* is a contrast; no opening *And* (CLAUDE.md §6).

@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 18, note on v6 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Judges 19, note on v28 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
@@ -130,4 +141,3 @@ Genesis was signed off on 2026-09-21. These verses in it changed only because of
 - **Noun forms of the same root:** Leviticus 19:29 and 21:14 (*prostitution*), Numbers 14:33 (note), Numbers 15:39 (*like a prostitute*), Deuteronomy 23:18, Joshua 2:1 and 6, Judges 11:1.
 - **Genesis 1:2** still reads *the breath of God*, although the Exodus 15:8 note speaks of *the Spirit hovered*. That is a translation choice in a closed book; see `NOTES_FOR_ANDREW.md`.
 - **Greek *angelos* (Matthew) and the Ge'ez books keep *angel*.** Decided in the same session, with the reasons: the Greek word also names a whole class of heavenly beings (Hebrews 1:6, the note on Deuteronomy 32:8), where *messenger* would blur the point, and the spec forbids building an argument on what a Ge'ez word means, so *angel* stays in Jubilees, 1 Enoch and the Meqabyan. *Harlot* in Jubilees became *prostitute* (`PASTE/changes/15-jubilees.md`), because that is a rule about English.
-

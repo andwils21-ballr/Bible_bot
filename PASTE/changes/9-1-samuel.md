@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 15, note on vv32–33 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## 1 Samuel 4:6: no opening And (council, settled 2026-10-08)
 
 **Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: an *And* that does no work (CLAUDE.md §6).
@@ -50,4 +60,3 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 1 Samuel 9:26 | They rose early, and at the break of dawn Samuel called… | They rose early. And it came to pass at the break of dawn that Samuel called… |
 | 1 Samuel 10:11 | When all who had known him before saw him… the people said… | And it came to pass, when all who had known him before saw him… that the people said… |
 | 1 Samuel 11:11 | The next day Saul put the people… | And it came to pass the next day that Saul put the people… |
-

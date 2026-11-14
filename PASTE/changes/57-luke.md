@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Luke 2, note on v49 | no note | note added: *in My Father's house*, or *about My Father's business* |
+
+**Choices for you:** none new.
+
 ## Spot-check fixes, Luke 1 notes (2026-11-01)
 
 **Request:** the weekly spot check of Mark 15–16 and Luke 1–2 (`PASTE/spot-checks/2026-11-01.md`). Bible 2 fixes the rule breaks it found (`SPOT_CHECK.md`).

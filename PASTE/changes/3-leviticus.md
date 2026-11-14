@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 1, note on v3 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Leviticus 19, note on v18 | no note | note added: *kamokha*: love your neighbor *as yourself*, or your neighbor *who is like you* |
+
+**Choices for you:**
+- **19:18, *kamokha***
+  - (a) **you shall love your neighbor as yourself** (now): *kamokha* gives the measure of the love. The Greek has it so, and it is the form quoted in Matthew 22:39.
+  - (b) **you shall love your neighbor, who is like you**: *kamokha* describes the neighbor and gives the reason. The twin in v34 gives a reason of this kind, *because you were guests in the land of Egypt*.
+  - Recommend (a): it is the reading of the Greek and of every quotation of the verse in the New Testament, and the note now gives (b).
+
 ## Notes corrected in Leviticus 26 (council 93, settled 2026-10-17)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking the Hebrew (`ואם` opens vv14, 18, 21, 23, 27; the sevenfold threat is in vv18, 21, 24, 28). Leviticus is closed; the note miscounted. Leviticus is now reviewed through.

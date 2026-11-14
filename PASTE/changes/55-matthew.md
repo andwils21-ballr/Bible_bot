@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 6, note on v10 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Matthew 26, note on v50 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## 7:23 *homologēsō*: acknowledge (Andrew, 2026-10-06)
 
 **Request:** Andrew asked whether *acknowledge* fits 7:23, the word of 10:32. Options: (a) *Then I will acknowledge to them*, the Greek order; (b) *Then I will declare to them*, as it was; (c) *Then I will tell them openly*; and Andrew's *Then, to them, I will acknowledge*, which puts a stress on *to them* that the Greek (*homologēsō autois*) does not have. Andrew chose (a). No note (Andrew).

@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Jeremiah 6, note on v2 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Jeremiah 9, note on vv25–26 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+| Jeremiah 31, note on vv8–9 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## *Keli*: the best word in each verse (Andrew, 2026-10-18)
 
 **Request:** Andrew, on the 25:34 choice: "Does vessel have to be the word?" Then: a word that fits 22:28 and 25:34 both, and "the best choice for each one. Not a blanket coverage."

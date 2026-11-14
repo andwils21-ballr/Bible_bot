@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Daniel 1, note on vv3–4 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood |
+
+**Choices for you:** none new.
+
 ## Spot-check fixes, Daniel 9–12 (2026-10-25)
 
 **Request:** the weekly spot check of Daniel 9–12 (`PASTE/spot-checks/2026-10-25.md`). Bible 2 fixes the rule breaks and the departures from the Hebrew it found (`SPOT_CHECK.md`).

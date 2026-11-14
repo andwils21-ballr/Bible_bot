@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
+
+**Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Ruth 1, note on v13 | no note | note added: *mikkem*: more bitter *than for you*, or bitter *for your sakes* |
+
+**Choices for you:**
+- **1:13, *ki mar li me'od mikkem***
+  - (a) **it is far more bitter for me than for you** (now): *mi-* as a comparison. Naomi's lot is the harder one; the daughters-in-law can still marry.
+  - (b) **it is very bitter for me for your sakes**: *mi-* as the cause. She grieves that the LORD's hand against her has struck them too.
+  - Recommend (a): her whole speech (vv11–13) argues that they have a future and she has none, and the Greek, *beyond you*, reads it as a comparison.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
@@ -18,4 +32,3 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Where | Before | After |
 |---|---|---|
 | Ruth 3:4 | When he lies down, note the place where he lies. | And it shall come to pass, when he lies down, that you shall note the place where he lies. |
-
