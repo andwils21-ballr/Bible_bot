@@ -2,6 +2,40 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1 Timothy 5–6 — rendered 2026-11-14, 2:20 PM CST
+
+**Landed:** 1 Timothy 5, 6. **1 Timothy is finished.** This run also began 2 Timothy (see the 2 Timothy report); together, progress 1,472 → **1,476 of 1,989 (74.2%)**.
+
+**Source:** Greek (SBLGNT), bracketed words included (5:21, 25; 6:21). Style carried on from 1 Timothy 1–4.
+
+**Form kept:** no sentence starts with *And*; *doulos* with a human master is **slave** (6:1); *parathēkē*, **the deposit entrusted to you** (6:20), as 2 Timothy 1:14; 5:18 quotes Deuteronomy 25:4 and Luke 10:7 in this project's words; 5:19 *on the word of two or three witnesses*, as Deuteronomy 19:15.
+
+**Echoes in the notes, checked against this project's English:** Deuteronomy 25:4; Luke 10:7. **Checked against the sources:** SBLGNT: 1 Timothy 5:1–6:21; Luke 10:7.
+
+**The checker** found 0 errors and 0 CHECKs. Chapter 6 has no notes.
+
+**What these chapters are:**
+- **5:** how to treat older and younger men and women; care for widows who are truly alone; double honor for elders who lead well, *for the Scripture says*; *use a little wine for the sake of your stomach*.
+- **6:** slaves and masters; *godliness with contentment is great gain… the love of money is a root of all kinds of evil*. *Fight the good fight of the faith*, before the *King of kings and Lord of lords, who alone has immortality*.
+
+### 1 Timothy 5: Widows and Elders
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 11 | *katastrēniasōsin tou Christou* "grow wanton against Christ" | their desires draw them away from Christ |
+| 12 | *tēn prōtēn pistin* "the first faith" | their first pledge |
+| 17 | *diplēs timēs* "double honor" | double honor |
+
+### 1 Timothy 6: Godliness with Contentment
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *diaparatribai* "rubbings through" | constant friction |
+| 10 | *rhiza… pantōn tōn kakōn* "a root of all the evils" | a root of all kinds of evil |
+| 20 | *tēn parathēkēn* "the deposit" | the deposit entrusted to you |
+
+**Choices for you:** none new.
+
 ## 1 Timothy 1–4 — rendered 2026-11-14, 1:25 AM CST
 
 **Landed:** 1 Timothy 1, 2, 3, 4. Progress 1,468 → **1,472 of 1,989 (74.0%)**. John 8 is still held (see the John report).
