@@ -12,10 +12,15 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 1 Meqabyan 3:28 | Then there came *[words lost]* | Then two brothers of Abya, Sila and Fentos came and released them from the bonds they had been bound with, and said to them, "Come, let us flee together, so that these rebels and unbelievers do not find us." |
 | 1 Meqabyan 4:26 | for their swords were drawn *[words lost]* | for the swords of the five martyrs were drawn. Because of this he bowed down to them. |
 | 1 Meqabyan 18:7 | the days of man were *[number lost]*; they came down to a hundred and twenty years | the days of man were nine hundred years; they came down to a hundred and twenty years |
+| 1 Meqabyan 10:3 (decided 2026-11-15) | laid in one grave by the *[number lost]* | laid in one grave by the ten thousand |
+| 1 Meqabyan 24:1 (decided 2026-11-15) | he defeated *[number lost]*, and myriads of soldiers | he defeated ten thousand, and myriads of soldiers |
+| 2 Meqabyan 3:9 (decided 2026-11-15) | mercy to the *[number lost]* generation | mercy to the ten-thousandth generation |
+| 2 Meqabyan 8:23 (decided 2026-11-15) | killed at one time about *[number lost]* | killed at one time about twenty thousand |
+| Notes on those four verses | said the number was lost (2 Meqabyan: no note) | say the number is read from the marks |
 | Notes on 2:2, 3:28, 4:26, 18:7; the Source text notes of chapters 2, 3, 4, 18 | said the words were lost | name Horovitz as the source of the words |
 
 **Choices for you:**
-- **The mark *))* where a number stood** (1 Meqabyan 10:3; 24:1; 2 Meqabyan 3:9; 8:23)
+- ✅ Decided 2026-11-15: (b), **ten thousand**. **The mark *))* where a number stood** (1 Meqabyan 10:3; 24:1; 2 Meqabyan 3:9; 8:23)
   - (a) ***[number lost]*** (now) in all four.
   - (b) **ten thousand**: in 18:7 the Ge'ez has *)* where Horovitz's manuscript and Genesis 6:3 have *hundred*, so *))* is *hundred hundreds*, the Ge'ez way of writing ten thousand. The four would read: the dead *laid in one grave by the ten thousand* (10:3); Gideon *defeated ten thousand, and myriads of soldiers* (24:1); mercy *to the ten-thousandth generation* (2 Meqabyan 3:9); Joshua *killed at one time about twenty thousand* (8:23, *2))*).
   - Recommend (b), with a note at each place saying the number is read from the mark: the mark is tested in one verse only, but the reading fits all four.
