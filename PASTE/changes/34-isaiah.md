@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 9, note on v1 | no note on the two verbs | note added: *heqal… hikhbid*, shame then glory, or a lighter then a heavier affliction |
+| Isaiah 33, note on vv17, 22 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood: the king of v17 is not named |
+
+**Choices for you:**
+- **9:1, *heqal… hikhbid***
+  - (a) **In the former time He brought contempt on the land of Zebulun… but in the latter time He has made glorious the way of the sea** (now): shame, then honor. Matthew 4:15–16 reads the verse as a promise.
+  - (b) **At first He dealt lightly with the land of Zebulun… and afterward more heavily**: two stages of one affliction, the verbs as in 1 Kings 12:10, *made our yoke heavy… lighten it*.
+  - Recommend (a): the verse opens *there will be no gloom for her who was in anguish*, which a second and heavier blow would contradict.
+- The choice on 33:17 (*the King* or *the king*) is already open in the Isaiah 31–34 entry of `PASTE/renders/34-isaiah.md`.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

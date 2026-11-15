@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Romans 8, note on v28 | no note | note added: *all things work together*, or *He works all things together* |
+
+**Choices for you:** none new. The choice on 8:28 is already open in `PASTE/renders/60-romans.md`.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

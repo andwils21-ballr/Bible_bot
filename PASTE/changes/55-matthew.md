@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 5, note on v39 | no note | note added: *tō ponērō*, the evil person, evil itself, or the evil one |
+| Matthew 28, note on v17 | no note | note added: *hoi de*, *but some doubted*, or *but they doubted* |
+
+**Choices for you:**
+- **28:17, *hoi de edistasan***
+  - (a) **but some doubted** (now): a part of the eleven.
+  - (b) **but they doubted**: all of them worshiped and wavered at once.
+  - Recommend (a): Matthew uses *hoi de* this way at 26:67, *and some slapped Him*.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

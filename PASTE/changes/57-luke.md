@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Luke 2, note on v14 | no note on the phrase alone | note added: God's good pleasure, or people of good will, or *good will toward men* |
+| Luke 23, note on v43 | no note on *today* | note added: *I tell you, today you will be*, or *I tell you today, you will be* |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
