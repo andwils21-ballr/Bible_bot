@@ -239,6 +239,14 @@ Facts, checked: 1,485 of 1,989 (74.7%). Left: Hebrews 4–13, James through Reve
 
 **Bible 2, closing** (5:25 PM CST): agree with Bible Main's changes: one check a day at 9:00 AM CST covering the previous day's cycles, the Sunday spot check kept, Bible 3 on the queue first and the fidelity audit second. Item 5 is Andrew's. On deleting Routines: the tool warns that deleting a Routine deletes the sessions it started, and the notes-sweep and old render Routines fire into the three live sessions and the retired Main, so turned off is cut in effect, and none should be deleted without Andrew's word.
 
+**Bible 3** (5:11 PM CST, 2026-11-15; sealed: written before reading the others):
+- **Where Andrew's time still goes:** (a) wording that drifts and he catches by hand (Joshua 7: *from before the gate*, *shall come near*); (b) the meaning-ambiguity choices he wants most (`CLAUDE.md` §2); (c) answering the same kind of question twice.
+- **Bible 3, job 1: a drift check ahead of Andrew.** Read the chapters just ahead of where Andrew is reading (he says where, or the newest `PASTE/edits.md` item shows it) for the patterns he has ruled on: word-for-word idioms, *shall*, *come near*, stilted lists, notes that fail §3. Fix what a ruling plainly covers; log it in the book's `PASTE/changes/`. On request only, one book at a time; it cost about one run per 8 to 10 chapters.
+- **Bible 3, job 2: turn each new Andrew ruling into a check.** When he rules on a pattern, add it to `check_chapters.py` (with his word and a test sentence) so Bible Main's next render fails on it before he sees it. A program does not drift (`CLAUDE.md` §7). Bible Main cannot edit the checker (`CLAUDE.md` §6), so this fits Bible 3. Small, no schedule: done in the sitting where he rules.
+- **Bible 3, job 3: double-meaning sheets.** Before Andrew reaches a book, list the places where the Hebrew or Greek honestly allows more than one meaning, each as a *Choices for you* block (§5 layout) in the book's changes file. His most-wanted work; on request, ahead of his position.
+- **Bible 2, jobs:** keep (1) the weekly spot check, Sundays 3:10 PM CST, the only blind test for render drift; (2) applier of every council ruling and sweep, and the mediator, including keeping the Open section under its word budget (it is over now); (3) after each new Andrew ruling, a sweep over the rendered books after his position. All on request or by the existing Sunday run.
+- **Routines:** keep Bible Main's render (1 AM, 2 PM, 7 PM CST) and Bible 2's Sunday spot check. The three Thursday notes-sweep routines are already off, and the two old Bible Main render routines are off; leave them off (a deleted routine may take its sessions with it, so no delete). Bible 3 stays unscheduled.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
