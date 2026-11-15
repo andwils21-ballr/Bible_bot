@@ -2,6 +2,44 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2 Timothy 3–4 — rendered 2026-11-14, 7:25 PM CST
+
+**Landed:** 2 Timothy 3, 4. **2 Timothy is finished.** This run also rendered all of Titus (see the Titus report); together, progress 1,476 → **1,481 of 1,989 (74.5%)**.
+
+**Source:** Greek (SBLGNT), bracketed words included (3:12; 4:1, 3, 6–7). Style carried on from 2 Timothy 1–2.
+
+**Form kept:** no sentence starts with *And*; *typhoō*, **puffed up with conceit** (3:4), as 1 Timothy 3:6; 4:6 *poured out as a drink offering*, as Philippians 2:17.
+
+**Echoes in the notes, checked against this project's English:** Genesis 2:7; Exodus 7:11; Psalm 22:1, 21. **Checked against the sources:** SBLGNT: 2 Timothy 3:1–4:22. Swete: Genesis 2:7; Psalm 21:22 (Greek numbering).
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **3:** hard times in the last days; Timothy has followed Paul's way and known the sacred writings from childhood: *All Scripture is breathed out by God and useful for teaching*.
+- **4:** *preach the word; be ready in season and out of season*. *I have fought the good fight, I have finished the race, I have kept the faith.* Paul's last requests: Mark, the cloak, the books; *the Lord stood by me*.
+
+### 2 Timothy 3: All Scripture
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 5 | *morphōsin eusebeias* "a shaping of godliness" | the appearance of godliness |
+| 6 | *gynaikaria* "little women" | weak women |
+| 16 | *pasa graphē theopneustos kai ōphelimos* | All Scripture is breathed out by God and useful (choice below) |
+
+### 2 Timothy 4: I Have Kept the Faith
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *knēthomenoi tēn akoēn* "being tickled in the hearing" | having itching ears |
+| 6 | *tēs analyseōs mou* "of my loosing" | of my departure |
+| 13 | *tas membranas* "the parchments" | the parchments |
+
+**Choices for you:**
+- **3:16, *pasa graphē theopneustos kai ōphelimos***
+  - (a) **All Scripture is breathed out by God and useful** (now): a statement about the whole of Scripture.
+  - (b) **Every Scripture breathed out by God is also useful**: *God-breathed* describes the Scripture, and the sentence says it is useful.
+  - Recommend (a): the two adjectives are joined by *kai*, *and*, as a pair, and v15 has just named *the sacred writings* as a whole; the note gives (b).
+
 ## 2 Timothy 1–2 — rendered 2026-11-14, 2:25 PM CST
 
 **Landed:** 2 Timothy 1, 2, in the same run as 1 Timothy 5–6. Together, progress 1,472 → **1,476 of 1,989 (74.2%)**.
