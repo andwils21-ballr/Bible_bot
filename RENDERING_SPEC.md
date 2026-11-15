@@ -585,8 +585,8 @@ Latin or Hebrew witness and no public-domain English.
 - **A claim about what a Ge'ez word means** is stated as a rendering, with the
   Ge'ez quoted; build no argument on its supposed root.
 - **Verses that stop where a number was due** (all three books; `SOURCES.md`
-  lists them). In 1 Meqabyan 2:27, 3:31, 4:5 and 4:8 Horovitz's Ge'ez excerpts
-  (`ethiopic-ocr`, 1905) have the rest: render it without brackets and name
+  lists them). In 1 Meqabyan 2:2, 2:27, 3:28, 3:31, 4:5, 4:8, 4:26 and 18:7
+  Horovitz's Ge'ez excerpts (`ethiopic-ocr`, 1905) have the rest: render it without brackets and name
   Horovitz in the chapter's notes. Everywhere else render what the Ge'ez has,
   write *[words lost]* where it breaks off, and note it; a better source is
   still being sought.

@@ -576,11 +576,14 @@ Horovitz died in 1931. He prints Ge'ez excerpts from the Frankfurt manuscript
   Ge'ez* above), keyed to the EOTC verses where the EOTC's opening words are
   found in it: 1:12-4:18 (pp. 196-204) and 17:4-19:6 (pp. 218-219). A verse
   whose opening could not be placed is joined to the verse before.
-- **Cut verses.** It completes four of the twenty (see above): 2:27 "two men"
+- **Cut verses.** It completes eight of the twenty (see above): 2:27 "two men"
   (ክልኤቱ፡ አደው), 3:31 the brothers "together" (ኅቡረ), 4:5 "for the bodies
-  of the five martyrs" (ለኃምስቲሆሙ፡ ሰማዕት), 4:8 "the five martyrs". 2:2 and
-  3:28 are not in the excerpts: their EOTC text (ወቦቱ, ወመጽኡ) is one word and
-  matched other passages, which were checked and rejected. Its orthography is
+  of the five martyrs" (ለኃምስቲሆሙ፡ ሰማዕት), 4:8 "the five martyrs". Read from
+  the scanned pages on 2026-11-15, it completes four more: 2:2 (p. 198, "three
+  sons…", joined to 2:1 in the OCR file), 3:28 (p. 202, "two brothers of Abya,
+  Sila and Fentos…", joined to 3:26), 4:26 (p. 205, which the OCR file lacks:
+  ለ፭ሰማዕት፡ ወበእንተዝ፡ ሰገደ፡ ሎሙ) and the numbers of 18:7 (p. 219: ፱፻ወተረፉ፡ ፴ዓመታት,
+  ፻ወ፳ዓመት). Its orthography is
   the Frankfurt manuscript's, not the EOTC's.
 
 ### Qalementos — Grébaut 1911-1928 (French)
