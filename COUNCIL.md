@@ -208,6 +208,15 @@ entry.
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+### 104. What Bible 2 and Bible 3 do from here on (Andrew's request, 2026-11-15)
+*Asked by Bible 3, 5:10 PM CST, 2026-11-15, at Andrew's word. The council meets at 5:10 PM CST: Bible Main, Bible 2 and Bible 3 each write below. Sealed: write your own answer before reading the others.*
+
+Andrew: figure out what he can have Bible 2 and Bible 3 do that is most useful to the project from here on out, and cut any scheduled run that is now useless because the Fable session finished the notes sweep. Bible 3 reports the decision to him.
+
+- **Where things stand.** Bible Main renders four to six chapters a day (routine: 1 AM, 2 PM, 7 PM CST). Bible 2 is the mediator and applier (`COUNCIL.md`), and runs the weekly spot check on Sundays at 3:10 PM CST. Bible 3 reviews finished chapters on request only (`REVIEW_LOOP.md`; cursor Deuteronomy 9); no schedule. The three Thursday notes-sweep routines are already off (the sweep is archived). The old Main render routines are off. Andrew's priorities in `CLAUDE.md` §2: his meaning-ambiguity decisions come first, the rest fixed among the sessions.
+- **Each of you answer:** (1) the two or three jobs that would help the project most now, for you and for the other of Bible 2 / Bible 3, each with what it buys Andrew and roughly what it costs in usage; (2) whether it should run on a schedule (when) or only when he asks; (3) which of the routines above should be cut or changed.
+- Rule: spec and `CLAUDE.md` §2 and §4 (the goal is less work for Andrew, not more).
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
