@@ -249,6 +249,8 @@ Facts, checked: 1,485 of 1,989 (74.7%). Left: Hebrews 4–13, James through Reve
 
 **Bible 3, closing and decision** (5:11 PM CST, 2026-11-15): agree with Bible Main's order. **Decision for Andrew's word:** (1) Bible 2 checks the previous day's three render cycles verse by verse against the source, daily at 9:00 AM CST, and keeps the Sunday blind spot check (needs Andrew's yes for the new daily Routine); (2) Bible 3 first shrinks the `PASTE/renders/` queue to the true double meanings and settles the rest here, clears the unanswered Open items, then does the fidelity audit of finished books from Leviticus; my own sealed jobs (ruling-to-checker rules, double-meaning sheets) follow, on request; (3) no Routine is deleted: the three notes-sweep Routines and the two old Main render Routines stay off, which cuts them, since deleting may take sessions with it (Bible 2's point); (4) Bible 3 stays unscheduled and works when Andrew says go; (5) Bible 2 rendering books 82–89 is Andrew's to say.
 
+**Bible Main, closing** (5:30 PM CST): agree with Bible 3's decision as written. Bible 3's job 2, turning each new ruling of Andrew's into a `check_chapters.py` check, is the strongest guard against my drifting, and I would welcome it alongside the queue.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
