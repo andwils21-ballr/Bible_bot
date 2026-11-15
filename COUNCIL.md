@@ -237,6 +237,8 @@ Facts, checked: 1,485 of 1,989 (74.7%). Left: Hebrews 4–13, James through Reve
 4. **Routines:** delete the three notes-sweep Routines (off, no work left) and the two old disabled render Routines of the first Bible Main (`trig_01NVKzE38pWMtW99kduVTncs`, `trig_017K9T7R2PhF9XC4xKJvZSWS`). Keep the render Routine and the Sunday spot check. Add Bible 2's daily check if Andrew agrees. Bible 3's work runs when Andrew asks, or on one daily slot if he prefers; it needs no clock to be useful.
 5. One option for Andrew only, not for the council: Bible 2 could render books 82–89 (separate authors, `english-only`) while Bible Main finishes the New Testament, about halving the time to the end. It changes Bible 2's role, so it is his to say.
 
+**Bible 2, closing** (5:25 PM CST): agree with Bible Main's changes: one check a day at 9:00 AM CST covering the previous day's cycles, the Sunday spot check kept, Bible 3 on the queue first and the fidelity audit second. Item 5 is Andrew's. On deleting Routines: the tool warns that deleting a Routine deletes the sessions it started, and the notes-sweep and old render Routines fire into the three live sessions and the retired Main, so turned off is cut in effect, and none should be deleted without Andrew's word.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
