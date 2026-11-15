@@ -10,15 +10,17 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 |---|---|---|
 | Numbers 11, note on v25 | no note | note added: *ve-lo yasafu*: they *did not do so again*, or *did not stop* |
 | Numbers 23, note on v21 | no note | note added: God sees no wrong in Israel, or no harm is coming to Israel |
+| Numbers 23:21 (decided 2026-11-15) | He has not looked on wrongdoing in Jacob, / or seen trouble in Israel. | No harm is seen in Jacob, / and no trouble in Israel. |
+| Numbers 23, note on v21 | the note took the text as said of God | the note takes the text as *no one sees*, and gives the reading of God second |
 
 **Choices for you:**
-- **11:25 (with Deuteronomy 5:22), *ve-lo yasafu* / *ve-lo yasaf***
+- ✅ Decided 2026-11-15: (a), both verses stay. **11:25 (with Deuteronomy 5:22), *ve-lo yasafu* / *ve-lo yasaf***
   - (a) **but they did not do so again** (11:25) and **and He added no more** (Deuteronomy 5:22) (now): the vowels of the Hebrew text, from *yasaf*, "to add"; the Greek agrees in both verses.
   - (b) **and they did not stop** and **a loud voice that did not cease**: the same letters with other vowels, from *suf*, "to come to an end" (Esther 9:28, *lo yasuf*).
   - Recommend (a): both witnesses have it, and Deuteronomy 5:25 uses the same verb, *If we hear the voice of the LORD our God any more*.
-- **23:21, *lo hibbit aven be-Ya'aqov***
-  - (a) **He has not looked on wrongdoing in Jacob, or seen trouble in Israel** (now): God is the subject, and He finds no fault in Israel to punish. Habakkuk 1:3 and 1:13 use the same verbs and nouns of God.
-  - (b) **No harm is seen in Jacob, and no trouble in Israel**: no subject, and *aven* and *amal* as the hardship that falls on people (Psalm 90:10). The Greek reads it so.
+- ✅ Decided 2026-11-15: (b). Andrew: God regularly says that the sons of Israel do wrong. **23:21, *lo hibbit aven be-Ya'aqov***
+  - (a) **He has not looked on wrongdoing in Jacob, or seen trouble in Israel** (before): God is the subject, and He finds no fault in Israel to punish. Habakkuk 1:3 and 1:13 use the same verbs and nouns of God.
+  - (b) **No harm is seen in Jacob, and no trouble in Israel** (now): no subject, and *aven* and *amal* as the hardship that falls on people (Psalm 90:10). The Greek reads it so.
   - Recommend (a): the next line names Him, *The LORD his God is with him*, and Habakkuk shows the phrase used of what God looks on.
 
 ## *Cherem* in the Achan and Saul stories (Andrew, 2026-10-18)

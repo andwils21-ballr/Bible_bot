@@ -11,7 +11,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Ruth 1, note on v13 | no note | note added: *mikkem*: more bitter *than for you*, or bitter *for your sakes* |
 
 **Choices for you:**
-- **1:13, *ki mar li me'od mikkem***
+- ✅ Decided 2026-11-15: (a), *than for you* stays. **1:13, *ki mar li me'od mikkem***
   - (a) **it is far more bitter for me than for you** (now): *mi-* as a comparison. Naomi's lot is the harder one; the daughters-in-law can still marry.
   - (b) **it is very bitter for me for your sakes**: *mi-* as the cause. She grieves that the LORD's hand against her has struck them too.
   - Recommend (a): her whole speech (vv11–13) argues that they have a future and she has none, and the Greek, *beyond you*, reads it as a comparison.

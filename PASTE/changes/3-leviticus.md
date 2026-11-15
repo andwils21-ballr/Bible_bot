@@ -12,7 +12,7 @@ Changes to chapters already rendered, filed under the book the request started i
 | Leviticus 19, note on v18 | no note | note added: *kamokha*: love your neighbor *as yourself*, or your neighbor *who is like you* |
 
 **Choices for you:**
-- **19:18, *kamokha***
+- ✅ Decided 2026-11-15: (a), *as yourself* stays. **19:18, *kamokha***
   - (a) **you shall love your neighbor as yourself** (now): *kamokha* gives the measure of the love. The Greek has it so, and it is the form quoted in Matthew 22:39.
   - (b) **you shall love your neighbor, who is like you**: *kamokha* describes the neighbor and gives the reason. The twin in v34 gives a reason of this kind, *because you were guests in the land of Egypt*.
   - Recommend (a): it is the reading of the Greek and of every quotation of the verse in the New Testament, and the note now gives (b).

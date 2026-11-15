@@ -11,11 +11,13 @@ Changes to chapters already rendered, filed under the book the request started i
 | Deuteronomy 4, note on v19 | no note | note added: *chalaq*: the sun, moon and stars given to all as lights, or assigned to the nations as what they serve |
 | Deuteronomy 5, note on v22 | no note | note added: *ve-lo yasaf*: He *added no more*, or a voice that *did not cease* |
 | Deuteronomy 33, note on v12 | no note | note added: Benjamin between the LORD's shoulders, or the LORD dwelling between Benjamin's |
+| Deuteronomy 33:12 (decided 2026-11-15) | and he dwells between His shoulders. | and He dwells between his shoulders. |
+| Deuteronomy 33, note on v12 | the note took Benjamin as carried by the LORD | the note takes the LORD as dwelling in Benjamin's hills, and gives the other reading second |
 
 **Choices for you:**
-- **33:12, *u-vein ketefav shakhen***
-  - (a) **and he dwells between His shoulders** (now): Benjamin rests between the LORD's shoulders, carried. The verse opens with Benjamin dwelling (*yishkon*) and would close on the same verb with the same subject.
-  - (b) **and He dwells between his shoulders**: the LORD dwells among Benjamin's hills. *Katef* is also a hillside, Benjamin's border runs along *the slope of the Jebusite* (Joshua 18:16), and Jerusalem is among his cities (18:28).
+- ✅ Decided 2026-11-15: (b). **33:12, *u-vein ketefav shakhen***
+  - (a) **and he dwells between His shoulders** (before): Benjamin rests between the LORD's shoulders, carried. The verse opens with Benjamin dwelling (*yishkon*) and would close on the same verb with the same subject.
+  - (b) **and He dwells between his shoulders** (now): the LORD dwells among Benjamin's hills. *Katef* is also a hillside, Benjamin's border runs along *the slope of the Jebusite* (Joshua 18:16), and Jerusalem is among his cities (18:28).
   - Recommend (b): the clause just before has the LORD as its subject, *He shields him all the day*, and Joshua uses this word for the slope where Jerusalem stands. Only the capitals change.
 - The choice on *ve-lo yasaf* (5:22) is raised with Numbers 11:25, in `PASTE/changes/4-numbers.md`.
 
