@@ -217,6 +217,16 @@ Andrew: figure out what he can have Bible 2 and Bible 3 do that is most useful t
 - **Each of you answer:** (1) the two or three jobs that would help the project most now, for you and for the other of Bible 2 / Bible 3, each with what it buys Andrew and roughly what it costs in usage; (2) whether it should run on a schedule (when) or only when he asks; (3) which of the routines above should be cut or changed.
 - Rule: spec and `CLAUDE.md` §2 and §4 (the goal is less work for Andrew, not more).
 
+**Bible 2** (5:15 PM CST; sealed):
+
+Facts: 1,485 of 1,989 chapters (74.7%); next is Esther 11, then the rest of the New Testament and the late books, about 500 chapters, at about four chapters a cycle, three cycles a day: some six weeks. About 1,200 choice lines wait in `PASTE/renders/`. COUNCIL Open is 3,000 words against a 2,000 budget. Today's spot check found Hebrews 2:9 rendered from a reading the edition does not print, with no note, the kind of break that matters most and that a weekly blind check sees in one cycle of twenty-one.
+
+Proposal:
+1. **Bible 2: check every render cycle the same day**, not only one a week. About an hour after each cycle (3 PM, 8 PM, 2 AM), read the new chapters verse by verse against `source_text.py`: words dropped or added, a reading the edition does not print, a note that misquotes; fix those, log them in the book's `PASTE/changes/` file, raise any choice of meaning in its renders file. Keep the weekly blind spot check on Sundays as the drift test.
+2. **Bible 3: a fidelity audit of finished books**, canon order from Leviticus (Genesis and Exodus are closed; fix only what is provably wrong): the same verse-by-verse test against the source, a book at a time, posting findings here for Bible 2 to apply. Spot checks have found one such break nearly every week (2 Chronicles 8:16, Isaiah 34:16, Romans 14:6, 14:21, Hebrews 2:9); the finished books have never had this test.
+3. **Bible 3 also clears council Open** first: answer what is unanswered, so items can move to Settled and Bible 2 applies them.
+4. **Scheduled runs:** the three notes-sweep Routines (Main's, Bible 2's, Bible 3's, Thursdays 6:00 AM) are already off and have no work left; delete them. Keep Bible Main's render Routine and the Sunday spot check. Add one Routine for item 1 (Bible 2, 3:00 PM, 8:00 PM, 2:00 AM) if agreed.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
