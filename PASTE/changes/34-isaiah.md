@@ -12,7 +12,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Isaiah 33, note on vv17, 22 | no note (cut in the notes sweep, 2026-11-12) | the note put back as it stood: the king of v17 is not named |
 
 **Choices for you:**
-- **9:1, *heqal… hikhbid***
+- ✅ Decided 2026-11-15: (a), *brought contempt… made glorious* stays. **9:1, *heqal… hikhbid***
   - (a) **In the former time He brought contempt on the land of Zebulun… but in the latter time He has made glorious the way of the sea** (now): shame, then honor. Matthew 4:15–16 reads the verse as a promise.
   - (b) **At first He dealt lightly with the land of Zebulun… and afterward more heavily**: two stages of one affliction, the verbs as in 1 Kings 12:10, *made our yoke heavy… lighten it*.
   - Recommend (a): the verse opens *there will be no gloom for her who was in anguish*, which a second and heavier blow would contradict.

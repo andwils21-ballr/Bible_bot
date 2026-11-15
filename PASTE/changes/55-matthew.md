@@ -12,7 +12,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Matthew 28, note on v17 | no note | note added: *hoi de*, *but some doubted*, or *but they doubted* |
 
 **Choices for you:**
-- **28:17, *hoi de edistasan***
+- ✅ Decided 2026-11-15: (a), *but some doubted* stays. **28:17, *hoi de edistasan***
   - (a) **but some doubted** (now): a part of the eleven.
   - (b) **but they doubted**: all of them worshiped and wavered at once.
   - Recommend (a): Matthew uses *hoi de* this way at 26:67, *and some slapped Him*.

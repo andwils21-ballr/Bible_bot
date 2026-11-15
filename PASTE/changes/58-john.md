@@ -12,7 +12,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | John 21, note on v15 | no note on *more than these* | note added: more than these men love Me, or more than you love these |
 
 **Choices for you:**
-- **19:13, *ekathisen epi bēmatos***
+- ✅ Decided 2026-11-15: (a), *sat down on the judgment seat* stays. **19:13, *ekathisen epi bēmatos***
   - (a) **he brought Jesus out and sat down on the judgment seat** (now): Pilate sits to give judgment.
   - (b) **he brought Jesus out and seated Him on the judgment seat**: Pilate sets Jesus there and says *Here is your King!* (v14).
   - Recommend (a): the verb has no object, and John uses it the same way of Jesus sitting on the donkey (12:14).

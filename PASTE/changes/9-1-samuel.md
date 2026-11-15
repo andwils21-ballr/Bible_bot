@@ -13,6 +13,10 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 1 Samuel 16:14, 15, 16, 23; 18:10; 19:9 (decided 2026-11-15) | an evil spirit / the evil spirit | a tormenting spirit / the tormenting spirit |
 | 1 Samuel 16, note on v14 | the note took the text as *evil* | the note takes the text as what the spirit does, and gives *an evil spirit* second |
 | 1 Kings 22, note on vv21–23 | *as the evil spirit of 1 Samuel 16* | *as the tormenting spirit of 1 Samuel 16* |
+| Judges 9:23 (decided 2026-11-15) | Then God sent an evil spirit between Abimelech and the lords of Shechem | Then God sent a spirit of ill will between Abimelech and the lords of Shechem |
+| Judges 9, heading before v22 | An Evil Spirit | A Spirit of Ill Will |
+| Judges 9, note on v23 | no note | a note giving both senses of *ra'ah* |
+| 1 Samuel 16, note on v14 | quoted Judges 9:23 as *an evil spirit* | quotes it as *a spirit of ill will* |
 
 **Choices for you:**
 - ✅ Decided 2026-11-15: (a), *a man after His own heart* stays. **13:14, *ish ki-levavo***
@@ -23,7 +27,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
   - (a) **an evil spirit** (now).
   - (b) **a harmful spirit** or **a tormenting spirit**: *ra'ah* as harm, the sense of *create disaster* (Isaiah 45:7), saying what the spirit does to Saul and not what it is.
   - Recommend (a): *evil* carries the weight of the Hebrew word and is said of harm as well in English (*an evil day*); the note gives the range.
-- **Judges 9:23, *ruach ra'ah*** (the same two words, of the spirit God sent between Abimelech and the lords of Shechem)
+- ✅ Decided 2026-11-15: (b), **a spirit of ill will**. **Judges 9:23, *ruach ra'ah*** (the same two words, of the spirit God sent between Abimelech and the lords of Shechem)
   - (a) **an evil spirit** (now).
   - (b) **a spirit of ill will**: what it does there is set two allies against each other; *tormenting* does not fit, since no one is tormented.
   - (c) **a harmful spirit** here and in 1 Samuel, one English for the one Hebrew phrase in all seven verses.
