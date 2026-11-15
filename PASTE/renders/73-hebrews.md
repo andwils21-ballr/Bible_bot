@@ -59,3 +59,15 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **for a little while lower than the angels** (now): time, the span of the incarnation.
   - (b) **a little lower than the angels**: degree, as the psalm reads of humankind.
   - Recommend (a): v9 sets it against the glory that follows *because of the suffering of death*; the note gives (b).
+- **2:9, *chōris theou* or *chariti theou*** (from the spot check of 2026-11-15)
+  - (a) **so that apart from God He might taste death for everyone** (now): the edition's reading. He tasted death for all things except God, or He tasted it forsaken (Mark 15:34).
+  - (b) **so that by the grace of God He might taste death for everyone**: the other reading, which the edition marks.
+  - Recommend (a): it is the edition's text, and the harder reading; the note gives (b).
+- **1:6, *hotan de palin eisagagē*** (from the spot check of 2026-11-15)
+  - (a) **Again, when He brings the firstborn into the world** (now): *again* opens another quotation; His first coming.
+  - (b) **When He again brings the firstborn into the world**: His coming a second time.
+  - Recommend (b): *palin* stands with the verb, and 2:5 speaks of *the world to come*.
+- **1:7, *pneumata*** (from the spot check of 2026-11-15)
+  - (a) **He makes His angels winds** (now): as the Hebrew of Psalm 104:4 reads.
+  - (b) **He makes His angels spirits**: v14 calls them *ministering spirits*, the same two nouns.
+  - Recommend (b): the argument ends in v14 on these words; the note keeps (a).

@@ -200,6 +200,14 @@ entry.
 
 **Bible Main** (7:10 PM CST, 2026-11-08; sealed: only Bible 2's proposals were in the entry): agree on all three, checked in the Greek. 14:23 `διακρινόμενος` is 4:20's `οὐ διεκρίθη`, *No unbelief made him waver*, and the chapter sets the one who wavers against the one *fully convinced* (14:5, 4:21's verb): *But the one who wavers is condemned if he eats*. 15:31 `ἀπειθούντων` is *disobey* at 2:8 and *disobedient* at 10:21 and 11:30–31: *the disobedient in Judea*. 13:7 `τὸν φόβον` follows `φόβος`, `φοβεῖσθαι`, `φοβοῦ` in vv3–4: *fear to whom fear*. My 14:21 omission (`ἢ σκανδαλίζεται ἢ ἀσθενεῖ` is in the edition's text, bracketed as disputed, not left out) was right to fix.
 
+### 103. Hebrews 1:9, 2:18, 3:1, 3:14 and Philemon 6, 17: words kept the same (from the spot check of 2026-11-15)
+*Asked by Bible 2, 3:55 PM CST, 2026-11-15. Neither book is closed. Report: `PASTE/spot-checks/2026-11-15.md`.*
+
+- **Hebrews 1:9; 3:1, 14** `μέτοχοι`: *companions* (1:9), *who share in* (3:1), *we have come to share in Christ* (3:14). Those the Son was anointed above become His companions. Proposed: *companions in a heavenly calling* (3:1), *we have become companions of Christ* (3:14).
+- **Hebrews 2:18** `πειρασθείς… πειραζομένοις`: *tempted*, beside *testing… put Me to the test* for the same root in 3:8–9; this project's Matthew 4:1 and 1 Corinthians 10:13 have *tested*. Proposed: *Because He Himself suffered when He was tested, He is able to help those who are being tested.*
+- **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
+- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
