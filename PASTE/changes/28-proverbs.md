@@ -10,9 +10,11 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 |---|---|---|
 | Proverbs 16, note on v4 | no note | note added: *la-ma'anehu*, *for its purpose*, or *for Himself* |
 | Proverbs 22, note on v6 | no note | note added: *al pi darko*, the way he should go, or his own way |
+| Proverbs 22:6 (decided 2026-11-15) | Train up a child in the way he should go; | Train up a child according to his way; |
+| Proverbs 22, note on v6 | anchored to *in the way he should go* | anchored to *according to his way* |
 
 **Choices for you:**
-- **22:6, *al pi darko***
+- ✅ Decided 2026-11-15: (b). **22:6, *al pi darko***
   - (a) **Train up a child in the way he should go** (now): the well-known line; *should go* is supplied.
   - (b) **Train up a child according to his way**: what the Hebrew says, which leaves open whether *his way* is the right way, the child's own bent, or a warning about letting him go his own way.
   - Recommend (b): it is the closer rendering, it reads without stumbling, and it lets the reader see all three.

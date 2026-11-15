@@ -13,7 +13,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Psalms 127, note on v2 | no note | note added: He gives His beloved *sleep*, or gives *while they sleep* |
 
 **Choices for you:**
-- **104:4, *oseh mal'akhav ruchot***
+- ✅ Decided 2026-11-15: (a), *He makes the winds His messengers* stays. **104:4, *oseh mal'akhav ruchot***
   - (a) **He makes the winds His messengers, flames of fire His servants** (now): the storm serves Him, as the clouds and the wind do in v3.
   - (b) **He makes His angels winds, His servants a flaming fire**: the Greek, which Hebrews 1:7 quotes of the angels.
   - Recommend (a): the verses around it are all about the sky and the weather; the note gives (b) and Hebrews.

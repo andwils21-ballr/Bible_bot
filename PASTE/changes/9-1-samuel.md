@@ -10,16 +10,24 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 |---|---|---|
 | 1 Samuel 13, note on v14 | the note gave Acts 13:22 and *nagid* | the same note now gives both readings of *ish ki-levavo* |
 | 1 Samuel 16, note on v14 | the note gave Judges 9:23 and the Greek | the same note now gives both senses of *ra'ah* |
+| 1 Samuel 16:14, 15, 16, 23; 18:10; 19:9 (decided 2026-11-15) | an evil spirit / the evil spirit | a tormenting spirit / the tormenting spirit |
+| 1 Samuel 16, note on v14 | the note took the text as *evil* | the note takes the text as what the spirit does, and gives *an evil spirit* second |
+| 1 Kings 22, note on vv21–23 | *as the evil spirit of 1 Samuel 16* | *as the tormenting spirit of 1 Samuel 16* |
 
 **Choices for you:**
-- **13:14, *ish ki-levavo***
+- ✅ Decided 2026-11-15: (a), *a man after His own heart* stays. **13:14, *ish ki-levavo***
   - (a) **a man after His own heart** (now): the old English, which most readers hear as a man whose heart is like God's. Acts 13:22 quotes it in this form.
   - (b) **a man of His own choosing**: the phrase as 14:7 and 2 Samuel 7:21 use it, of what someone has in mind to do.
   - Recommend (a): the English keeps the Hebrew's word *heart*, and the note now gives the second sense.
-- ***ruach ra'ah*** (1 Samuel 16:14, 15, 16, 23; 18:10; 19:9; Judges 9:23)
+- ✅ Decided 2026-11-15: (b), **a tormenting spirit**. Andrew: God is the opposite of evil. Done in the six verses of 1 Samuel; Judges 9:23 is raised separately below. ***ruach ra'ah*** (1 Samuel 16:14, 15, 16, 23; 18:10; 19:9; Judges 9:23)
   - (a) **an evil spirit** (now).
   - (b) **a harmful spirit** or **a tormenting spirit**: *ra'ah* as harm, the sense of *create disaster* (Isaiah 45:7), saying what the spirit does to Saul and not what it is.
   - Recommend (a): *evil* carries the weight of the Hebrew word and is said of harm as well in English (*an evil day*); the note gives the range.
+- **Judges 9:23, *ruach ra'ah*** (the same two words, of the spirit God sent between Abimelech and the lords of Shechem)
+  - (a) **an evil spirit** (now).
+  - (b) **a spirit of ill will**: what it does there is set two allies against each other; *tormenting* does not fit, since no one is tormented.
+  - (c) **a harmful spirit** here and in 1 Samuel, one English for the one Hebrew phrase in all seven verses.
+  - Recommend (b): it follows the 1 Samuel ruling, that the word says what the spirit does, and the note on 1 Samuel 16:14 already ties the two passages together.
 
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 

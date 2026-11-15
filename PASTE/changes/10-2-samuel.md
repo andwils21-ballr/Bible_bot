@@ -11,7 +11,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 2 Samuel 23, note on v5 | no note | note added: David's last words as a question, *Is not my house so with God?*, or a statement, *my house is not so with God* |
 
 **Choices for you:**
-- **23:5, *ki lo khen beiti im El***
+- ✅ Decided 2026-11-15: (a), the questions stay. **23:5, *ki lo khen beiti im El***
   - (a) **Is not my house so with God?… Will He not make all my salvation and all my desire to grow?** (now): two questions. David's house is like the just ruler of vv3–4 because of the covenant.
   - (b) **Though my house is not so with God, yet He has made with me an everlasting covenant… though He does not make it grow**: two statements. David's house falls short of vv3–4, and the covenant holds all the same.
   - Recommend (a): each line begins with *ki*, "for," giving a reason, and the covenant is the reason his house is so; (b) has to read the same word as *though* and then *yet*.
