@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Chronicles 15, note on v3 | no note | note added: the Hebrew has no verb; *Israel was without the true God* (the judges) or *will be* (a warning) |
+
+**Choices for you:** none new. The choice on 15:3 is already open in `PASTE/renders/14-2-chronicles.md`.
+
 ## *pilegesh* is **secondary wife** in every book (2026-10-04, 9:33 PM Central)
 
 **Request:** Andrew, on the widespread choice raised with 2 Chronicles 11:21: "use secondary wife." Every *concubine* in the rendered books now reads **secondary wife** (plural **secondary wives**), and the word is added to the fixed terms table in RENDERING_SPEC.md. The Genesis 22:24 note keeps the word *concubine*, because it is the note that explains why the text does not use it. 2 Samuel 5:13 reverses the Hebrew order, *pilagshim ve-nashim*, to read *more wives and secondary wives*; *more secondary wives and wives* stumbles.

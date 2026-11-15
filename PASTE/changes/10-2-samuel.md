@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 23, note on v5 | no note | note added: David's last words as a question, *Is not my house so with God?*, or a statement, *my house is not so with God* |
+
+**Choices for you:**
+- **23:5, *ki lo khen beiti im El***
+  - (a) **Is not my house so with God?… Will He not make all my salvation and all my desire to grow?** (now): two questions. David's house is like the just ruler of vv3–4 because of the covenant.
+  - (b) **Though my house is not so with God, yet He has made with me an everlasting covenant… though He does not make it grow**: two statements. David's house falls short of vv3–4, and the covenant holds all the same.
+  - Recommend (a): each line begins with *ki*, "for," giving a reason, and the covenant is the reason his house is so; (b) has to read the same word as *though* and then *yet*.
+
 ## 2 Samuel 11:27: what, not the thing that (council, settled 2026-10-08)
 
 **Request:** COUNCIL.md, item 3, agreed by Bible 2 and Bible Main: *what*, not *the thing that* (CLAUDE.md §2).

@@ -2,6 +2,25 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 13, note on v14 | the note gave Acts 13:22 and *nagid* | the same note now gives both readings of *ish ki-levavo* |
+| 1 Samuel 16, note on v14 | the note gave Judges 9:23 and the Greek | the same note now gives both senses of *ra'ah* |
+
+**Choices for you:**
+- **13:14, *ish ki-levavo***
+  - (a) **a man after His own heart** (now): the old English, which most readers hear as a man whose heart is like God's. Acts 13:22 quotes it in this form.
+  - (b) **a man of His own choosing**: the phrase as 14:7 and 2 Samuel 7:21 use it, of what someone has in mind to do.
+  - Recommend (a): the English keeps the Hebrew's word *heart*, and the note now gives the second sense.
+- ***ruach ra'ah*** (1 Samuel 16:14, 15, 16, 23; 18:10; 19:9; Judges 9:23)
+  - (a) **an evil spirit** (now).
+  - (b) **a harmful spirit** or **a tormenting spirit**: *ra'ah* as harm, the sense of *create disaster* (Isaiah 45:7), saying what the spirit does to Saul and not what it is.
+  - Recommend (a): *evil* carries the weight of the Hebrew word and is said of harm as well in English (*an evil day*); the note gives the range.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

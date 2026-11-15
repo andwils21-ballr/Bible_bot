@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Psalms 46, note on v10 | no note | note added: *harpu*, *Be still*, or *Stop*, said to the nations at war |
+| Psalms 104, note on v4 | no note | note added: the winds made His messengers, or His angels made winds (the Greek; Hebrews 1:7) |
+| Psalms 127, note on v2 | no note | note added: He gives His beloved *sleep*, or gives *while they sleep* |
+
+**Choices for you:**
+- **104:4, *oseh mal'akhav ruchot***
+  - (a) **He makes the winds His messengers, flames of fire His servants** (now): the storm serves Him, as the clouds and the wind do in v3.
+  - (b) **He makes His angels winds, His servants a flaming fire**: the Greek, which Hebrews 1:7 quotes of the angels.
+  - Recommend (a): the verses around it are all about the sky and the weather; the note gives (b) and Hebrews.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

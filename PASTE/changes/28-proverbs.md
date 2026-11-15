@@ -1,0 +1,18 @@
+# Decision Making with Before/After: Proverbs
+
+Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
+
+## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
+
+**Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Proverbs 16, note on v4 | no note | note added: *la-ma'anehu*, *for its purpose*, or *for Himself* |
+| Proverbs 22, note on v6 | no note | note added: *al pi darko*, the way he should go, or his own way |
+
+**Choices for you:**
+- **22:6, *al pi darko***
+  - (a) **Train up a child in the way he should go** (now): the well-known line; *should go* is supplied.
+  - (b) **Train up a child according to his way**: what the Hebrew says, which leaves open whether *his way* is the right way, the child's own bent, or a warning about letting him go his own way.
+  - Recommend (b): it is the closer rendering, it reads without stumbling, and it lets the reader see all three.
