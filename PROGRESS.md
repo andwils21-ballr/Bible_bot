@@ -1,6 +1,6 @@
 # Progress
 
-**1485 of 1989 chapters rendered (74.7%).**
+**1489 of 1989 chapters rendered (74.9%).**
 
 Next up: **Esther 11**
 
@@ -78,7 +78,7 @@ Next up: **Esther 11**
 | 70 | 2 Timothy | source | done |
 | 71 | Titus | source | done |
 | 72 | Philemon | source | done |
-| 73 | Hebrews | source | 3/13 |
+| 73 | Hebrews | source | 7/13 |
 | 74 | James | source | 0/5 |
 | 75 | 1 Peter | source | 0/5 |
 | 76 | 2 Peter | source | 0/3 |
