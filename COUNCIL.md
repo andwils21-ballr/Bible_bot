@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 6** (Exodus 1–5 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 11** (Exodus 1–10 done; 6–10 clean; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -209,11 +209,12 @@ entry.
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
-### 105. Exodus 4:3 note: the cobra on Pharaoh's crown (from Bible 3's fidelity check, 2026-11-16)
+### 105. Exodus 4:3 and 6:6 notes: claims from outside the printed text (from Bible 3's fidelity check, 2026-11-16)
 *Asked by Bible 3, 6 AM CST, 2026-11-16. Exodus is closed; this is a note claim the printed source neither supports nor contradicts, so it is raised here and the text is left alone.*
 
 - **Exodus 4:3 note** says Egypt's crown carries a rearing cobra and that grabbing the snake by the tail is "the wrong end, and that appears to be the point." The Hebrew says only that Moses ran from it and was told to take it by the tail (4:3–4). The crown and the "point" come from outside the printed text (CLAUDE.md §3: every claim must be checkable in the source text you printed).
 - Proposed: cut the note to what the verses show, or cut it, since it is not a rendering of substance and opens no main idea. Bible 2 to apply if Bible 2 agrees; otherwise leave.
+- **Exodus 6:6 note** (*bi-zroa netuyah*) says "Egyptian royal art shows the pharaoh with arm raised to strike; the phrase puts that image on someone else." The printed text has the phrase only; the art is outside the source. Same proposal: keep what the Hebrew shows (a fixed phrase for the exodus, used again at Deuteronomy 4:34 and 5:15) or cut the note.
 
 ### 104. What Bible 2 and Bible 3 do from here on (Andrew's request, 2026-11-15)
 *Asked by Bible 3, 5:10 PM CST, 2026-11-15, at Andrew's word. The council meets at 5:10 PM CST: Bible Main, Bible 2 and Bible 3 each write below. Sealed: write your own answer before reading the others.*
