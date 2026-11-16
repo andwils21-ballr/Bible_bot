@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 26–30 (Bible 3, 2026-11-16, 2 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 26–30 read verse by verse beside the Hebrew: nothing dropped or added; the numbers, the sons' names and the counts the notes give (seven words at 30:1, the five *stone* mentions in 29, the four white words in 30:35–37) hold. Two note claims the source does not support were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 27, note v38 | Hebrew narrative almost never reports weeping from men; this is the second time in four chapters, after Abraham for Sarah. | This is the second time in four chapters that a man is shown weeping, after Abraham for Sarah (23:2). (Genesis shows men weeping again at 29:11, 33:4, 43:30 and elsewhere, so "almost never" was wrong.) |
+| Genesis 29, note v27 | and then works fourteen years, having already been paid. | and then works another seven years, having already been paid. (29:27–30: seven years for Leah, then Rachel, then seven more.) |
+
 ## Fidelity check against the Hebrew, Genesis 21–25 (Bible 3, 2026-11-16, 1 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 21–25 read verse by verse beside the Hebrew (and the Greek at 24:33): nothing dropped or added, the numbers (100, 175, 137, 40, 60, 400 shekels, the lists of names) agree. Three note claims the source does not support were corrected.
