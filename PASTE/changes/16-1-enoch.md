@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
+
+**Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 27, note on the valley | the Valley of Hinnom appears twelve times in the Hebrew Bible | thirteen times (in eleven verses) |
+
+**Choices for you:** none new.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.

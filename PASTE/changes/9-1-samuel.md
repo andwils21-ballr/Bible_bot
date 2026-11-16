@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
+
+**Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 15, note on vv11, 29, 35 | one verb, *nicham*, three times | four times in three verses (v29 has it twice) |
+
+**Choices for you:** none new.
+
 ## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

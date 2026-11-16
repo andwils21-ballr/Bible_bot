@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
+
+**Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Acts 27, note on vv20, 31, 34, 43–44 | the *save* word family six times in the chapter | five times (vv20, 31, 34, 43, 44) |
+| Acts 27, note on vv34–35 | *thrix*, hair, is in Luke and Acts only these two times | a saying found in the New Testament only in these two places (the word itself is also in Luke 7:38, 44 and 12:7) |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
