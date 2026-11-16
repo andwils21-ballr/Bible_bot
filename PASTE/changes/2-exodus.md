@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 6–15 (Bible 3, 2026-11-16, 8 AM to 9 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 6–15 read verse by verse beside the Hebrew (and the Greek where a note cites it): every name, number and clause agrees; the counts and cross-references the notes give hold (the *Miriam* in 6:20 is the Greek's, as the note says; English 8:1–4 are Hebrew 7:26–29; the three heart verbs; *totafot* three times; the 15:2 *Yah*). One note called Genesis 7:11's *deep* a sea. Two notes that lean on things outside the printed text (4:3, 6:6) are in council item 105.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 14, note v16 | The one time the Bible uses *baqa* of a sea before this, everyone died. | The one time the Bible uses *baqa* of the waters before this, everyone died. (Genesis 7:11 splits the *deep*, *tehom*, not a *yam*.) |
+
 ## Fidelity check against the Hebrew, Exodus 1–5 (Bible 3, 2026-11-16, 6 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 1–5 read verse by verse beside the Hebrew: every name, number and clause agrees; the counts the notes give (twenty *milk and honey*, three *ya'al* hiphils, the three heart verbs) hold, and the 4:2 *ketiv* and *qere* are as the note says. One count in a note was wrong. One doubtful claim (4:3, the cobra) is raised as council item 105, not changed.
