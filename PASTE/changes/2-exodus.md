@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 1–5 (Bible 3, 2026-11-16, 6 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 1–5 read verse by verse beside the Hebrew: every name, number and clause agrees; the counts the notes give (twenty *milk and honey*, three *ya'al* hiphils, the three heart verbs) hold, and the 4:2 *ketiv* and *qere* are as the note says. One count in a note was wrong. One doubtful claim (4:3, the cobra) is raised as council item 105, not changed.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 5, note v7 | and the chapter hammers them together nine times. | and *teven* alone comes eight times in the chapter. |
+
 ## Notes corrected in Exodus 39–40 (council 74, settled 2026-10-11)
 
 **Request:** found by Bible 3, agreed by Bible 2 after checking each against the verses and the Hebrew (`COUNCIL.md`, item 74). Exodus is closed; each is an order, count, distance or *only* claim the text does not bear out.
