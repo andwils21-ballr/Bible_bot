@@ -2,6 +2,58 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Hebrews 12–13 — rendered 2026-11-16, 2:10 PM CST
+
+**Landed:** Hebrews 12, 13. **Hebrews is finished.** Progress 1,493 → **1,497 of 1,989 (75.3%)**, with James 1–2 (report in `PASTE/renders/74-james.md`).
+
+**Source:** Greek (SBLGNT). Each place the edition marks a variant was read against its printed text: 12:3 *eis heautous* (**against themselves**, note), 7, 8, 9, 11, 13, 15, 16, 18 (no *mountain*), 19, 23, 25, 26, 27, 28; 13:4, 5, 6 (no *and*), 9, 15, 18, 21 *panti agathō* (no *work*) and *eis tous aiōnas* (**forever**), 23, 25 (no *Amen*).
+
+**Form kept:** no sentence starts with *And*. Proverbs 3:11–12 and Hosea 14:2 follow the Greek, as Hebrews does (notes). Deuteronomy 4:24 (*a consuming fire*), 31:6 (*let you go… forsake you*) and Psalm 118:6 (*What can man do to me?*) in this project's words. 12:25, *the One who warned them on earth*, names no pronoun, since the speaker at Sinai may be God or Moses. The closing, *Grace be with you all*, as Titus 3:15.
+
+**Echoes in the notes, checked against this project's English and the sources:** Proverbs 3:11–12 (Hebrew and Greek); Genesis 4:10–11; Leviticus 16:27; Hosea 14:2 (Hebrew and Greek 14:3); Isaiah 63:11 (Greek). **Checked against the sources:** SBLGNT Hebrews 12:1–13:25.
+
+**The checker** found 0 errors and 0 CHECKs in these chapters.
+
+**What these chapters are:**
+- **12:** *a cloud of witnesses*; run the race *looking to Jesus*. The Lord disciplines the son He loves. Esau found no place for repentance. Not Sinai's fire and darkness, but *Mount Zion… the heavenly Jerusalem*; *a kingdom that cannot be shaken*.
+- **13:** hospitality, marriage, contentment; *Jesus Christ is the same yesterday and today and forever*. He suffered *outside the gate*; *let us go out to Him… outside the camp*. The blessing of *the God of peace*, and greetings.
+
+### Hebrews 12: A Kingdom That Cannot Be Shaken
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *tēn euperistaton hamartian* "the easily-surrounding sin" | the sin that clings so closely |
+| 2 | *anti tēs prokeimenēs autō charas* "for / instead of the joy lying before Him" | for the joy set before Him (note; choice below) |
+| 3 | *eis heautous* "against themselves" | against themselves (note) |
+| 5 | *eklelēsthe* "you have forgotten" | You have forgotten (a statement, not a question) |
+| 9 | *tous tēs sarkos hēmōn pateras* "the fathers of our flesh" | the fathers of our flesh |
+| 12 | *tas pareimenas cheiras kai ta paralelymena gonata anorthōsate* "set straight the slackened hands and the paralyzed knees" | lift your drooping hands and strengthen your weak knees |
+| 17 | *ekzētēsas autēn* "having sought it" | though he sought it with tears (choice below) |
+| 18 | *psēlaphōmenō* "to what is touched" | to what can be touched |
+| 24 | *kreitton lalounti para ton Habel* "speaking better than Abel" | speaks better than Abel (note) |
+| 28 | *echōmen charin* "let us have grace / thanks" | let us be grateful |
+
+### Hebrews 13: Outside the Camp
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | *timios ho gamos* "honorable the marriage" (no verb) | Let marriage be held in honor |
+| 5 | *aphilargyros ho tropos* "without love of silver the way" | Keep your life free from the love of money |
+| 9 | *hoi peripatountes* "those who walk" | those who live by them |
+| 13 | *ton oneidismon autou pherontes* "bearing His reproach" | bearing the reproach He bore |
+| 15 | *karpon cheileōn* | the fruit of lips (note) |
+| 17 | *alysiteles* "unprofitable" | of no advantage |
+
+**Choices for you:**
+- **12:2, *anti tēs prokeimenēs autō charas***
+  - (a) **for the joy set before Him** (now): the joy ahead is the prize He ran for, as *the race set before us* (v1, the same verb).
+  - (b) **instead of the joy set before Him**: He gave up a joy within reach and chose the cross.
+  - Recommend (a): the verse is built on v1, a race with a goal *set before* the runner, and ends with Him seated at God's right hand.
+- **12:17, *ekzētēsas autēn***
+  - (a) **though he sought it with tears** (now), leaving *it* open: *autēn* may be **the blessing** or **repentance**, both feminine in Greek.
+  - (b) **though he sought the blessing with tears**: as Genesis 27:38, *Bless me — me also, my father!… and wept*.
+  - Recommend (a): the Greek leaves both open, and *it* does the same in English.
+
 ## Hebrews 8–11 — rendered 2026-11-16, 1:15 AM CST
 
 **Landed:** Hebrews 8, 9, 10, 11. Progress 1,489 → **1,493 of 1,989 (75.1%)**.
