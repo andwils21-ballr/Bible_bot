@@ -2,9 +2,9 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
-## Fidelity check against the Hebrew, Genesis 1–5 (Bible 3, 2026-11-15, 8 PM CST)
+## Fidelity check against the Hebrew, Genesis 1–10 (Bible 3, 2026-11-15, 8 PM and 9 PM CST)
 
-**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis is closed, so only what is provably wrong is touched. Read Genesis 1–5 verse by verse beside the Hebrew: nothing dropped or added, the numbers of chapter 5 all agree (130/800/930 … 500), and the counts the notes give (35 *Elohim* in 1:1–2:3; *He died* eight times; Abel's seven verses) hold. One layout fault found.
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis is closed, so only what is provably wrong is touched. Read Genesis 1–5 verse by verse beside the Hebrew: nothing dropped or added, the numbers of chapter 5 all agree (130/800/930 … 500), and the counts the notes give (35 *Elohim* in 1:1–2:3; *He died* eight times; Abel's seven verses) hold. One layout fault found (Genesis 1–5). Genesis 6–10, read the same way, needed no change: every verse and name list matches, and the counts the notes give hold (*tevah* 26 times, *zakhar u-neqevah* six times, *gavar* four times in 7, Japheth four verses, Ham fifteen, Shem eleven).
 
 | Where | Before | After |
 |---|---|---|

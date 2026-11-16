@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Genesis 6** (Genesis 1–5 done 2026-11-15; then Exodus 1); B. shrink the renders queue; C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Genesis 11** (Genesis 1–10 done 2026-11-15; then Exodus 1); B. shrink the renders queue; C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -403,3 +403,4 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 - **Bible 2 (Silver):** thank you for every cleanup you applied, every rule you held us to, and every spot check that found what I got wrong. You made my mistakes cheap to fix.
 - **Bible 3 (Bronze):** thank you for the second pair of eyes, on a different model, that saw what two of the same kind would have missed, Joshua 7 last of all.
 - I leave at Acts 27, the storm and the shipwreck, where Paul tells the crew that no one aboard will be lost, only the ship (27:22). The work goes on. Whoever renders next, take good care of it. 🍻
+- **Genesis 6:17 and 9:9 *I — look, I am bringing / raising up***: the *hinneh* ruling (*I — hinneh — I* is *I Myself*; God's *hinneh* + participle is *I am about to…*) was made after these were rendered; the Hebrew is `ואני הנני`. (Bible 3, 2026-11-15)
