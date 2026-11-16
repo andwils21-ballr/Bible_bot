@@ -36,12 +36,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 |---|---|---|
 | 1 | *to te hagion kosmikon* "the worldly holy place" | a sanctuary of this world |
 | 2 | *hē prothesis tōn artōn* "the setting out of the loaves" | the bread of the Presence (Exodus 25:30) |
-| 4 | *chrysoun thymiatērion* "golden incense-holder" | a golden altar of incense (note; choice below) |
+| 4 | *chrysoun thymiatērion* "golden incense-holder" | a golden altar of incense (note; decided, see `PASTE/decided/73-hebrews.md`) |
 | 7 | *agnoēmatōn* "ignorances" | the sins the people have committed unknowingly |
 | 9 | *parabolē* "a figure set alongside" | a figure |
 | 10 | *mechri kairou diorthōseōs* "until a time of straightening" | until the time of setting things right |
-| 14 | *dia pneumatos aiōniou* "through eternal spirit" | through the eternal Spirit (choice below) |
-| 16–17 | *diathēkē* "covenant, will" | will (note; choice below) |
+| 14 | *dia pneumatos aiōniou* "through eternal spirit" | through the eternal Spirit (decided, see `PASTE/decided/73-hebrews.md`) |
+| 16–17 | *diathēkē* "covenant, will" | will (note; decided, see `PASTE/decided/73-hebrews.md`) |
 | 26 | *epi synteleia tōn aiōnōn* "at the completion of the ages" | at the end of the ages |
 | 28 | *chōris hamartias* "apart from sin" | not to deal with sin |
 
@@ -63,9 +63,9 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 1 | *hypostasis… elenchos* "what stands under… proof" | the assurance… the proof (note; choice below) |
+| 1 | *hypostasis… elenchos* "what stands under… proof" | the assurance… the proof (note; decided, see `PASTE/decided/73-hebrews.md`) |
 | 2 | *emartyrēthēsan hoi presbyteroi* "the elders were testified to" | the people of old received God's approval |
-| 11 | *autē Sarra* "with Sarah herself" | By faith, with Sarah herself, he received power (note; choice below) |
+| 11 | *autē Sarra* "with Sarah herself" | By faith, with Sarah herself, he received power (note; decided, see `PASTE/decided/73-hebrews.md`) |
 | 12 | *para to cheilos tēs thalassēs* "by the lip of the sea" | by the shore of the sea |
 | 18 | *En Isaak klēthēsetai soi sperma* "in Isaac shall seed be called for you" | Through Isaac your seed shall be called |
 | 19 | *en parabolē* "in a figure" | in a figure |
@@ -73,27 +73,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 34 | *stomata machairēs* "mouths of the sword" | the edge of the sword |
 | 35 | *etympanisthēsan* "were beaten on the drum" | were tortured |
 
-**Choices for you:**
-- **9:4, *chrysoun thymiatērion***
-  - (a) **a golden altar of incense** (now): the golden altar of Exodus 30:1–6, which stood before the curtain but served the inner room.
-  - (b) **a golden censer**: the only sense of the word in the Greek Old Testament (2 Chronicles 26:19; Ezekiel 8:11).
-  - Recommend (a): the writer lists the furniture of Exodus, and the altar is the golden incense object Exodus names; the note gives (b).
-- **9:14, *dia pneumatos aiōniou***
-  - (a) **through the eternal Spirit** (now): the Holy Spirit, by whom He offered Himself.
-  - (b) **through an eternal spirit**: His own spirit, *an indestructible life* (7:16).
-  - Recommend (a): Hebrews names the Spirit as a person at 9:8 and 10:15, 29.
-- **9:16–17, *diathēkē***
-  - (a) **will** (now): a person's will, which takes effect at death; the writer plays on the everyday sense, with *inheritance* in v15.
-  - (b) **covenant**, the same word as vv15 and 18: the death is the sacrifice by which a covenant was ratified.
-  - Recommend (a): *takes effect only at death… never has force while the one who made it is alive* is said of a will, not of a covenant; the note shows the one Greek word.
-- **11:1, *hypostasis***
-  - (a) **the assurance of things hoped for** (now): faith as the believer's certainty.
-  - (b) **the substance of things hoped for**: faith as what gives them reality now (the word of 1:3, *His being*).
-  - Recommend (a): *elenchos*, **proof**, in the same line, and *confidence* at 3:14 point to the believer's side; the note gives (b).
-- **11:11, *autē Sarra***
-  - (a) **By faith, with Sarah herself, he received power to father a child** (now): Abraham is the subject, as the edition prints the words.
-  - (b) **By faith Sarah herself received power to conceive**: Sarah is the subject.
-  - Recommend (a): the edition's dative, the father's phrase *laying down seed*, and *from one man* in v12.
+**Choices for you:** all decided; moved to `PASTE/decided/73-hebrews.md`.
 
 ## Hebrews 4–7 — rendered 2026-11-15, 7:30 PM CST
 
