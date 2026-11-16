@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 16–20 (Bible 3, 2026-11-16, 11 PM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 16–20 read verse by verse beside the Hebrew: nothing dropped or added, the numbers (86, 99, 13, 50 to 10) agree, and the counts the notes give hold. One note claimed more than the book shows: *shakhav* is not kept for forced or forbidden sex, since Genesis 30:15–16 uses it (*yishkav immakh*, *va-yishkav immah*) of Jacob and his wife Leah.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 19, note v5 | *shakhav*, to lie with, is the word for the act when it is coerced or illicit. | *shakhav*… is the word used where the act is coerced or illicit (34:2, 35:22, 39:7). (And "Everywhere else" became "Elsewhere".) |
+| Genesis 19, note vv33, 35 | the word Genesis reserves for the act when it is a violation … the word Genesis reserves for the act when it makes a family | the verb Genesis uses for the act when it is a violation (34:2, 35:22, 39:7), though not only then (30:16) … the verb it uses for the act when it makes a family (4:1, 4:25) |
+
 ## Fidelity check against the Hebrew, Genesis 1–15 (Bible 3, 2026-11-15, 8 PM to 10 PM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis is closed, so only what is provably wrong is touched. Read Genesis 1–5 verse by verse beside the Hebrew: nothing dropped or added, the numbers of chapter 5 all agree (130/800/930 … 500), and the counts the notes give (35 *Elohim* in 1:1–2:3; *He died* eight times; Abel's seven verses) hold. One layout fault found (Genesis 1–5). Genesis 6–10 and 11–15, read the same way, needed no change in the verses (one note claim fixed at 11:28, below): every verse and name list matches, and the counts the notes give hold (*tevah* 26 times, *zakhar u-neqevah* six times, *gavar* four times in 7, Japheth four verses, Ham fifteen, Shem eleven).
