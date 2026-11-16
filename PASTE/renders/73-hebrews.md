@@ -2,6 +2,99 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Hebrews 8–11 — rendered 2026-11-16, 1:15 AM CST
+
+**Landed:** Hebrews 8, 9, 10, 11. Progress 1,489 → **1,493 of 1,989 (75.1%)**.
+
+**Source:** Greek (SBLGNT). Each place the edition marks a variant was read against its printed text: 8:2 *ouk anthrōpos* (no *and*), 8:4, 8:8 *autous*, 8:11, 8:12; 9:1, 3, 9, 10 *dikaiōmata*, 11 *genomenōn* (**the good things that have come**), 13, 14 *hēmōn*, 17 *mēpote*, 19 *tōn moschōn* (calves only), 24, 26; 10:1 *dynatai*, 2, 8, 9 (no *O God*), 10, 12, 15, 16, 17, 30 (no *says the Lord*), 34 *desmiois* (**the prisoners**) and *hyparxin* (no *in heaven*), 35, 38 *mou*; 11:3, 4, 5, 8, 11 *autē Sarra* (dative), 13, 15, 20, 29, 30, 32, 34, 37 *epristhēsan* (no *tempted*), 38, 39.
+
+**Form kept:** no sentence starts with *And*. *Katapetasma* is **curtain**, as in 6:19 (9:3; 10:20); the furniture of the tent in this project's Exodus words, *the bread of the Presence*, *the Holy Place*, *the Holy of Holies*, *the atonement cover* (as Romans 3:25). *Amōmos*, **without defect** (9:14). Quotations follow the Greek where Hebrews does, with this project's English where the sense is the same: Jeremiah 31:31–34 (*Days are coming*), Psalm 40:6–8 (*Here I have come; in the scroll of the book it is written of Me*), Psalm 110:1 as in 1:13, Deuteronomy 32:35 as in Romans 12:19.
+
+**Echoes in the notes, checked against this project's English and the sources:** Exodus 24:8; 25:40; 30:1, 6; Acts 7:44; Jeremiah 31:32 (Hebrew and Greek 38:32); Mark 14:24; Isaiah 53:12 (and Greek); Psalm 40:6 (Hebrew and Greek 39:7); Habakkuk 2:3–4 (Hebrew and Greek); Isaiah 26:20 (Greek); Romans 1:17; Galatians 3:11; Genesis 5:24, 11:30, 18:12, 47:31 (Hebrew and Greek); 2 Chronicles 26:19 and Ezekiel 8:11 (Greek). **Checked against the sources:** SBLGNT Hebrews 8:1–11:40.
+
+**The checker** found 0 errors and 1 CHECK: 10:5 *when He comes into the world* stands; it is an idiom, not a place entered (as John 1:9).
+
+**What these chapters are:**
+- **8:** our high priest serves in *the true tent, which the Lord set up, not man*; the earthly tent is *a copy and shadow*. Jeremiah's *new covenant* makes the first one old.
+- **9:** the two rooms of the tent and the yearly entry of the high priest; Christ entered *once for all… by His own blood*. *Without the shedding of blood there is no forgiveness.* He *will appear a second time*.
+- **10:** the Law's sacrifices are repeated because they cannot take away sins; *a body You prepared for Me*; *by one offering He has made perfect for all time*. So *let us draw near*; the danger of deliberate sin; *the righteous will live by faith*.
+- **11:** *faith is the assurance of things hoped for*; Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Rahab and the rest, who *did not receive what was promised… so that they would not be made perfect apart from us*.
+
+### Hebrews 8: A New Covenant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *kephalaion de epi tois legomenois* "a head-point upon the things being said" | Now the main point of what we are saying is this |
+| 5 | *hypodeigmati kai skia latreuousin* "they serve a copy and shadow" | They serve at a copy and shadow (note) |
+| 9 | *ēmelēsa autōn* "I neglected them" | I turned away from them (note) |
+| 11 | *ou mē didaxōsin hekastos* "they will not teach, each one" | No one will teach |
+| 13 | *engys aphanismou* "near disappearance" | near to vanishing |
+
+### Hebrews 9: The Blood of the Covenant
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *to te hagion kosmikon* "the worldly holy place" | a sanctuary of this world |
+| 2 | *hē prothesis tōn artōn* "the setting out of the loaves" | the bread of the Presence (Exodus 25:30) |
+| 4 | *chrysoun thymiatērion* "golden incense-holder" | a golden altar of incense (note; choice below) |
+| 7 | *agnoēmatōn* "ignorances" | the sins the people have committed unknowingly |
+| 9 | *parabolē* "a figure set alongside" | a figure |
+| 10 | *mechri kairou diorthōseōs* "until a time of straightening" | until the time of setting things right |
+| 14 | *dia pneumatos aiōniou* "through eternal spirit" | through the eternal Spirit (choice below) |
+| 16–17 | *diathēkē* "covenant, will" | will (note; choice below) |
+| 26 | *epi synteleia tōn aiōnōn* "at the completion of the ages" | at the end of the ages |
+| 28 | *chōris hamartias* "apart from sin" | not to deal with sin |
+
+### Hebrews 10: One Sacrifice for All Time
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ouk autēn tēn eikona tōn pragmatōn* "not the image itself of the things" | not the very form of the realities |
+| 5 | *sōma de katērtisō moi* | but a body You prepared for Me (note) |
+| 13 | *to loipon ekdechomenos* "for the rest waiting" | waiting from then on |
+| 17 | (no verb in the Greek before the quotation) | He adds |
+| 27 | *pyros zēlos* "zeal of fire" | a fury of fire |
+| 29 | *koinon hēgēsamenos* "having counted common" | has treated as common |
+| 33 | *theatrizomenoi* "being made a theater" | being made a public spectacle |
+| 37 | *mikron hoson hoson* "a little, how very, how very" | yet a very little while (note) |
+| 39 | *eis peripoiēsin psychēs* "for the preserving of the soul" | and keep their souls |
+
+### Hebrews 11: By Faith
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *hypostasis… elenchos* "what stands under… proof" | the assurance… the proof (note; choice below) |
+| 2 | *emartyrēthēsan hoi presbyteroi* "the elders were testified to" | the people of old received God's approval |
+| 11 | *autē Sarra* "with Sarah herself" | By faith, with Sarah herself, he received power (note; choice below) |
+| 12 | *para to cheilos tēs thalassēs* "by the lip of the sea" | by the shore of the sea |
+| 18 | *En Isaak klēthēsetai soi sperma* "in Isaac shall seed be called for you" | Through Isaac your seed shall be called |
+| 19 | *en parabolē* "in a figure" | in a figure |
+| 21 | *epi to akron tēs rhabdou autou* | over the top of his staff (note) |
+| 34 | *stomata machairēs* "mouths of the sword" | the edge of the sword |
+| 35 | *etympanisthēsan* "were beaten on the drum" | were tortured |
+
+**Choices for you:**
+- **9:4, *chrysoun thymiatērion***
+  - (a) **a golden altar of incense** (now): the golden altar of Exodus 30:1–6, which stood before the curtain but served the inner room.
+  - (b) **a golden censer**: the only sense of the word in the Greek Old Testament (2 Chronicles 26:19; Ezekiel 8:11).
+  - Recommend (a): the writer lists the furniture of Exodus, and the altar is the golden incense object Exodus names; the note gives (b).
+- **9:14, *dia pneumatos aiōniou***
+  - (a) **through the eternal Spirit** (now): the Holy Spirit, by whom He offered Himself.
+  - (b) **through an eternal spirit**: His own spirit, *an indestructible life* (7:16).
+  - Recommend (a): Hebrews names the Spirit as a person at 9:8 and 10:15, 29.
+- **9:16–17, *diathēkē***
+  - (a) **will** (now): a person's will, which takes effect at death; the writer plays on the everyday sense, with *inheritance* in v15.
+  - (b) **covenant**, the same word as vv15 and 18: the death is the sacrifice by which a covenant was ratified.
+  - Recommend (a): *takes effect only at death… never has force while the one who made it is alive* is said of a will, not of a covenant; the note shows the one Greek word.
+- **11:1, *hypostasis***
+  - (a) **the assurance of things hoped for** (now): faith as the believer's certainty.
+  - (b) **the substance of things hoped for**: faith as what gives them reality now (the word of 1:3, *His being*).
+  - Recommend (a): *elenchos*, **proof**, in the same line, and *confidence* at 3:14 point to the believer's side; the note gives (b).
+- **11:11, *autē Sarra***
+  - (a) **By faith, with Sarah herself, he received power to father a child** (now): Abraham is the subject, as the edition prints the words.
+  - (b) **By faith Sarah herself received power to conceive**: Sarah is the subject.
+  - Recommend (a): the edition's dative, the father's phrase *laying down seed*, and *from one man* in v12.
+
 ## Hebrews 4–7 — rendered 2026-11-15, 7:30 PM CST
 
 **Landed:** Hebrews 4, 5, 6, 7. Progress 1,485 → **1,489 of 1,989 (74.9%)**.
