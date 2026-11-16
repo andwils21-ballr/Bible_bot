@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 41–45 (Bible 3, 2026-11-16, 5 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 41–45 read verse by verse beside the Hebrew: every name, number and clause agrees; the counts the notes give (ten *shever* words in 42, *Sheol* four times, *ason* three times, *Jacob*/*Israel* in 42, 43, 46 and 48) hold. Three note claims the source does not support were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 41, note v9 | the very verb 40:23 used twice to say he **did not remember** and forgot. | the very verb 40:23 used when it said he **did not remember**. (40:23 has *zakhar* once and *shakhach* once.) |
+| Genesis 41, note v14 | which is why nobody recognizes him in chapter 42. | which may be part of why nobody recognizes him in chapter 42. (The text gives no reason.) |
+| Genesis 44, note v34 | watched his father shown a bloodied coat and said nothing. | stood by while his father was shown a bloodied coat and was told a lie about it. (37:32: the brothers spoke.) |
+
 ## Fidelity check against the Hebrew, Genesis 36–40 (Bible 3, 2026-11-16, 4 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 36–40 read verse by verse beside the Hebrew: every name, list and number agrees; the counts the notes give (42 *alluf*, eight kings, eight *YHWH* in chapter 39 and four elsewhere in the Joseph story, the *Jacob*/*Israel* counts in chapters 42, 43, 46 and 48) hold. Five note claims the source does not support were corrected.
