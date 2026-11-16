@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 16–20 (Bible 3, 2026-11-16, 9 AM to 10 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 16–20 read verse by verse beside the Hebrew (and the Greek where a note cites it, 20:13–15 included): every name, number and clause agrees; the counts the notes give (*choten Moshe* thirteen times in 18, the five-word question at 17:7, *mechuspas* and *tsintsenet* once each) hold. One note said the New Testament always puts adultery first in the commandments, which Matthew 19:18 and Mark 10:19 contradict.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 20, note vv13–15 | And when the New Testament quotes the list — Luke 18:20, Romans 13:9, James 2:11 — **adultery comes first every time**. | And the New Testament quotes the list both ways: Luke 18:20, Romans 13:9 and James 2:11 put **adultery first**, while Matthew 19:18 and Mark 10:19 keep the Hebrew order, murder first. |
+
 ## Fidelity check against the Hebrew, Exodus 6–15 (Bible 3, 2026-11-16, 8 AM to 9 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 6–15 read verse by verse beside the Hebrew (and the Greek where a note cites it): every name, number and clause agrees; the counts and cross-references the notes give hold (the *Miriam* in 6:20 is the Greek's, as the note says; English 8:1–4 are Hebrew 7:26–29; the three heart verbs; *totafot* three times; the 15:2 *Yah*). One note called Genesis 7:11's *deep* a sea. Two notes that lean on things outside the printed text (4:3, 6:6) are in council item 105.
