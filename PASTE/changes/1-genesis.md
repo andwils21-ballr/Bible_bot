@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 46–50 (Bible 3, 2026-11-16, 6 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 46–50 read verse by verse beside the Hebrew (and the Greek at 46:27): every name, number and clause agrees; the counts the notes give (34 names against the stated 33, 66 and 70, the Greek 75, the four *chanat* words) hold. One note claim corrected, to agree with the 24:2 fix above. **This finishes the fidelity check of Genesis 1–50.** Across the fifty chapters no verse of the translation was changed; every fix was to a note.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 47, note v29 | both times by a dying patriarch, | both times by an old patriarch, the second time on the point of death, (Abraham is 140 at 24:2 and lives to 175.) |
+
 ## Fidelity check against the Hebrew, Genesis 41–45 (Bible 3, 2026-11-16, 5 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 41–45 read verse by verse beside the Hebrew: every name, number and clause agrees; the counts the notes give (ten *shever* words in 42, *Sheol* four times, *ason* three times, *Jacob*/*Israel* in 42, 43, 46 and 48) hold. Three note claims the source does not support were corrected.
