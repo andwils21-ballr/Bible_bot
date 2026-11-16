@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 1–5 (Bible 3, 2026-11-15, 8 PM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis is closed, so only what is provably wrong is touched. Read Genesis 1–5 verse by verse beside the Hebrew: nothing dropped or added, the numbers of chapter 5 all agree (130/800/930 … 500), and the counts the notes give (35 *Elohim* in 1:1–2:3; *He died* eight times; Abel's seven verses) hold. One layout fault found.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 4, note vv17–18 | the two lists of names ran together on one line (*…Methushael — Lamech Kenan — Mahalalel…*) | a line break between them (the words are unchanged) |
+
 ## Notes corrected in Genesis 45–50 (council 83–86, 88–89, settled 2026-10-17)
 
 **Request:** found by Bible 2, agreed by Bible 3, each checked against the chapter, `sources/hebrew/genesis.txt` and Swete's Greek (`COUNCIL.md`, items 83–86 and 88–89). Genesis is closed; each note misstated the source, a count or the verse. Genesis is now reviewed through.
