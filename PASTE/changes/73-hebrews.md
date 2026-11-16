@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Hebrews 6:6, *since* or *while* (Andrew, 2026-11-16)
+
+**Request:** Andrew chose (b), *while*, with a note that lays out both readings. The choice is in `PASTE/decided/73-hebrews.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 6:6 | to restore them again to repentance, since they are crucifying the Son of God once again | to restore them again to repentance while they are crucifying the Son of God once again |
+| 6, notes | no note | note added: *anastaurountas*, *while* or *since* |
+
 ## Daily source check, Hebrews 4–11 (Bible 2, 9:25 AM CST, 2026-11-16)
 
 **Request:** the daily check of the previous day's renders (council item 104) read Hebrews 4–11 against the Greek edition (SBLGNT) and the notes' quotations against this project's English and Swete. Two fixes; one choice of meaning raised in `PASTE/renders/73-hebrews.md` (6:6).

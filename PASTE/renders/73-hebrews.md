@@ -127,11 +127,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 22 | *engyos* "surety" | guarantor |
 | 25 | *eis to panteles* "to the uttermost" | completely |
 
-**Choices for you:**
-- **6:6, *anastaurountas… kai paradeigmatizontas*** (from the daily source check of 2026-11-16)
-  - (a) **since they are crucifying the Son of God once again** (now): the reason renewal is impossible.
-  - (b) **while they are crucifying the Son of God once again**: impossible as long as they go on doing it.
-  - Recommend (a): the sentence sets the falling away as done (*parapesontas*, v6), and vv7–8 end in the burned field; (b) is grammatical and the more hopeful reading.
+**Choices for you:** all decided; moved to `PASTE/decided/73-hebrews.md`.
 
 ## Hebrews 1–3 — rendered 2026-11-15, 2:30 PM CST
 

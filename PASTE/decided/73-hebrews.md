@@ -2,6 +2,14 @@
 
 Choices Andrew has ruled on, moved here from `PASTE/renders/73-hebrews.md` once marked ✅, under the heading of the run that raised them. Newest at the top. Format: CLAUDE.md, section 5.
 
+## Hebrews 4–7 — rendered 2026-11-15, 7:30 PM CST
+
+**Choices for you:**
+- ✅ Decided 2026-11-16: (b) **while they are crucifying the Son of God once again**. **6:6, *anastaurountas… kai paradeigmatizontas*** (from the daily source check of 2026-11-16)
+  - (a) **since they are crucifying the Son of God once again** (was the text): the reason renewal is impossible.
+  - (b) **while they are crucifying the Son of God once again** (now): impossible as long as they go on doing it.
+  - Recommend (a): the sentence sets the falling away as done (*parapesontas*, v6), and vv7–8 end in the burned field; (b) is grammatical and the more hopeful reading.
+
 ## Hebrews 8–11 — rendered 2026-11-16, 1:15 AM CST
 
 **Choices for you:**
