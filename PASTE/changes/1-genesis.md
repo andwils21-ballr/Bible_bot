@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 36–40 (Bible 3, 2026-11-16, 4 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 36–40 read verse by verse beside the Hebrew: every name, list and number agrees; the counts the notes give (42 *alluf*, eight kings, eight *YHWH* in chapter 39 and four elsewhere in the Joseph story, the *Jacob*/*Israel* counts in chapters 42, 43, 46 and 48) hold. Five note claims the source does not support were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 36, note vv31–39 | Each is *ben* somebody else, and most are tagged with a different home town: | Four are named as the son of someone outside the line (Bela, Jobab, Hadad, Baal-hanan), the other four by no father at all, and most are tagged with a different home town: |
+| Genesis 36, note v39 | which the chapter does for no one else. | which the chapter does for only one other woman, Oholibamah in v2. |
+| Genesis 36, note v20 | and Anah and Zibeon are Horites, sons of Seir (v20, v24–25). | and Zibeon is a Horite, a son of Seir (v20), with Anah his son (v24–25). |
+| Genesis 38, note vv15, 21 | *qedeshah* (twice, vv21–22) | *qedeshah* (three times, vv21–22) |
+| Genesis 39, note v7 | the one the book keeps for acts that sit outside the bond they belong in, against *yada*, to know, which it keeps for the ones inside it (see 4:1). | the one the book uses most often for acts that sit outside the bond they belong in (19:33, 34:2, 35:22), though not only for them (30:16), against *yada*, to know, which it uses where a child follows (see 4:1). |
+
 ## Fidelity check against the Hebrew, Genesis 26–30 (Bible 3, 2026-11-16, 2 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 26–30 read verse by verse beside the Hebrew: nothing dropped or added; the numbers, the sons' names and the counts the notes give (seven words at 30:1, the five *stone* mentions in 29, the four white words in 30:35–37) hold. Two note claims the source does not support were corrected.
