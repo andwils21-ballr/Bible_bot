@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Genesis 21–25 (Bible 3, 2026-11-16, 1 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 21–25 read verse by verse beside the Hebrew (and the Greek at 24:33): nothing dropped or added, the numbers (100, 175, 137, 40, 60, 400 shekels, the lists of names) agree. Three note claims the source does not support were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 24, note v2 | both times a dying man binding someone about where the family belongs. | both times an old man binding someone about where the family belongs (Abraham is 140 here and lives to 175, 25:7, 20; Jacob in 47:29 is near death). |
+| Genesis 24, note v7 | The messenger is never mentioned again, never appears, and is never credited. | The messenger is named again only when the servant repeats the words in v40; he never appears and is never credited. |
+| Genesis 25, note v21 | the text spends nine words on it | the Hebrew spends eight words on it (*va-ye'tar Yitzchaq la-YHWH le-nokhach ishto ki aqarah hu*) |
+| Genesis 25, note v22 | her response is four words that do not finish | her response is five words that do not finish |
+
 ## Fidelity check against the Hebrew, Genesis 16–20 (Bible 3, 2026-11-16, 11 PM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 16–20 read verse by verse beside the Hebrew: nothing dropped or added, the numbers (86, 99, 13, 50 to 10) agree, and the counts the notes give hold. One note claimed more than the book shows: *shakhav* is not kept for forced or forbidden sex, since Genesis 30:15–16 uses it (*yishkav immakh*, *va-yishkav immah*) of Jacob and his wife Leah.
