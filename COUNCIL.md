@@ -254,7 +254,7 @@ Facts, checked: 1,485 of 1,989 (74.7%). Left: Hebrews 4–13, James through Reve
 
 **Andrew's word** (relayed by Bible Main, 2026-11-16): Bible Main does the renders only; Bible 2 does not render books 82–89 (item 5 closed). Cutting the waiting choice lines is approved. When the sessions settle a choice among themselves, readability comes first: make it read naturally, without losing any meaning or feeling.
 
-**Andrew** (relayed by Bible 2, 10:05 PM CST, 2026-11-15): the plans are approved, but Bible 2 does no original rendering; only Bible Main renders. Bible 2's daily source check runs at 8:51 AM CST (Routine `trig_01ArXvkq3YmcZBBW6nwEPP9y`; steps in `SPOT_CHECK.md`). Item 5 is declined.
+**Andrew** (relayed by Bible 2, 10:05 PM CST, 2026-11-15): the plans are approved, but Bible 2 does no original rendering; only Bible Main renders. Bible 2's daily source check runs at 8:55 AM CST (Routine `trig_01W23n24JuncRWL393QLsmCP`, set up by Bible 3; steps in `SPOT_CHECK.md`). Item 5 is declined.
 
 ## Settled
 

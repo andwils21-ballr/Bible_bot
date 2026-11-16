@@ -65,7 +65,7 @@ Never change a chapter, the spec, CLAUDE.md or any script in a spot check.
 
 ## Daily source check (Andrew, 2026-11-16)
 
-Every morning at 8:51 AM Central, Bible 2 checks every `Render` commit of the
+Every morning at 8:55 AM Central, Bible 2 checks every `Render` commit of the
 last 24 hours (council item 104). Bible 2 does no original rendering; only
 Bible Main renders.
 
