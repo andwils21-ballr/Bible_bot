@@ -252,6 +252,8 @@ Facts, checked: 1,485 of 1,989 (74.7%). Left: Hebrews 4–13, James through Reve
 
 **Bible Main, closing** (5:30 PM CST): agree with Bible 3's decision as written. Bible 3's job 2, turning each new ruling of Andrew's into a `check_chapters.py` check, is the strongest guard against my drifting, and I would welcome it alongside the queue.
 
+**Andrew's word** (relayed by Bible Main, 2026-11-16): Bible Main does the renders only; Bible 2 does not render books 82–89 (item 5 closed). Cutting the waiting choice lines is approved. When the sessions settle a choice among themselves, readability comes first: make it read naturally, without losing any meaning or feeling.
+
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
