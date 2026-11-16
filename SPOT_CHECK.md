@@ -62,3 +62,21 @@ which needs no blindness. Any session that takes this over works the same way.
    each side, and the one finding that matters most.
 
 Never change a chapter, the spec, CLAUDE.md or any script in a spot check.
+
+## Daily source check (Andrew, 2026-11-16)
+
+Every morning at 8:51 AM Central, Bible 2 checks every `Render` commit of the
+last 24 hours (council item 104). Bible 2 does no original rendering; only
+Bible Main renders.
+
+1. For each new chapter, print the source (`python3 source_text.py <slug>
+   <chapter>`) and read the English beside it, verse by verse.
+2. Look for: words dropped or added; a reading the edition does not print, with
+   no witness named; English that says something the source does not; a note
+   that misquotes a source or this project's English; checker ERRORs.
+3. Fix those in the chapter, log each in the book's `PASTE/changes/` file
+   (`Where | Before | After`), and add any choice of meaning to the book's
+   `PASTE/renders/` file. Words kept the same or not go to the council.
+4. `python3 check_chapters.py`, `python3 build_site.py && python3 progress.py`,
+   commit `Source check <Book> <chapters>`, pull --rebase, push.
+5. No message to Andrew unless something needs him.
