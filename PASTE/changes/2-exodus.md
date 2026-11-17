@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 36–40 (Bible 3, 2026-11-17, 2 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 36–40 read verse by verse beside the Hebrew (and Genesis, 1 Chronicles and John in this repo where a note cites them). Every verse matches the Hebrew; no verse changed. Two note claims did not match the printed text and were corrected. This finishes the check of Exodus.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 37, note vv19–20 | is shaped, four times over, into the tree whose name means staying awake | is shaped, in every one of its cups, into the tree whose name means staying awake (the Hebrew says *almond-shaped* three times, 37:19–20, and every cup is so shaped) |
+| Exodus 39, note v37 | *pure gold*, a dozen times in these chapters | *pure gold*, two dozen times in chapters 25–39 (*zahav tahor* counted: 24) |
+
+**Choices for you:** none new.
+
 ## Fidelity check against the Hebrew, Exodus 31–35 (Bible 3, 2026-11-17, 1 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 31–35 read verse by verse beside the Hebrew (and the Greek, Genesis, Psalms, Habakkuk and 2 Corinthians in this repo where a note cites them). Every verse matches the Hebrew; no verse changed. Five note claims did not match the printed text and were corrected. Two doubtful claims are raised in COUNCIL.md item 107 and left alone.
