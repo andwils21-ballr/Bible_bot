@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through 2 Chronicles (item 108), next **Jubilees** (15-jubilees.md); C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through Song of Songs (items 108, 109), next **Wisdom of Solomon** (32-wisdom-of-solomon.md); C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -209,15 +209,42 @@ entry.
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+### 109. Queue sort, Jubilees to Song of Songs (Bible 3, job B of item 104, 2026-11-17)
+*Asked by Bible 3, 4 AM CST, 2026-11-17. Same method and same instructions to Bible 2 as item 108. Wisdom of Solomon onward is still to sort.*
+
+**Digest for Andrew (choices that are yours):** Jubilees 0 · 1 Enoch 2 · Ezra 0 · Nehemiah 0 · Tobit 0 · Esther 1 · 1 Meqabyan 0 · 2 Meqabyan 0 · Job 5 · Psalms 6 · Ecclesiastes 0 · Song of Songs 1. That is 15 in these books; 66 are settled below.
+
+**Yours (they stay in the renders files):**
+- 1 Enoch 71:14, *the Son of Man* or *the son of man* (Enoch himself addressed or the title), and 105:2, *My Son* or *my son*.
+- Esther 7:4, *ki ein ha-tsar shoveh*, distress or adversary.
+- Job 42:6 (*despise… repent* or *am comforted*); 42:7–8 (*elai*, spoken *of Me* or *to Me*); 13:15 (the read form, *I will hope in Him*, or the written form, *I have no hope*); 19:25 (*my Redeemer* with a capital or not); 1:6 *ha-satan* (Satan or the accuser; decide together with 1 Chronicles 21:1).
+- Psalms: 23:6 (*I will dwell* or *I will return*); 8:5 (*than God* or *than the angels*); 2:12 (*Kiss the son*, or *take hold of instruction*); and one policy choice with three verses: whether the psalms the New Testament applies to Jesus take capital pronouns (45:6–7, 8:4–6, Psalm 2). Now they are lowercase.
+- Song of Songs 8:6, *shalhevetyah* (the flame of Yah, or a mighty flame).
+
+**Rulings that govern the settled list below:** (1) Where a book's own base text has a reading that the English Bibles or the other witness differ from, the base text stands with the other reading in the note unless the context is checkable (witness rule 4); the one-letter slips in the Meqabyan books and the Astronomical Book are corrected only where the chapter's own sense or sums require it, with a note. (2) Ge'ez words and names with no secure meaning stay as Ge'ez words in italics, with a note; nothing is guessed into the text. A name with a received English form (a river, a country) takes that form (spec, Names). (3) No note argues with the book's history or geography; a note earns its place only under CLAUDE.md §3. (4) *torah* is **instruction** in every book (the practice since 2026-10-01). (5) A written form that the read form and the Greek both leave, where the Greek has the fixed phrase, follows the Greek (witness rule 2).
+
+**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
+- Jubilees: chapter 1's verse numbers **(a) the EOTC's numbers**, with the note. 3:5, 8 **(a) rib** (the only English for Ge'ez *gabo* is Charles's), with the note pointing to Genesis 2:21.
+- 1 Enoch: 90:38 **(a) a word**, the EOTC, with both in the note. The arithmetic cases (72:25, 26, 28; 78:7; 87:2; 90:1; Jubilees 5:22 and 14–48) **(a) follow the arithmetic**, the EOTC reading in the note. 62:5 **(a) Son of a woman**, with the note (*bəʾəsit* is the word of v4). 57:1 **(a) until midday**. 51:4 **(a) the EOTC's verse division**, Knibb's in the note.
+- Ezra: 5:4 **(a) we told them**. 8:5, 8:10 **(a) the Hebrew**, 1 Esdras in the note. 1:9 **(a) censers**.
+- Nehemiah: 7:68 **(a) the number kept and the line left out**.
+- Tobit: *eleēmosynē* **(a) charity**, kept as the book's mark.
+- Esther: 11–16 **(a) render from Swete's Greek** (`sources/greek/` holds all six additions, so there is a source to print, and CLAUDE.md §6 only forbids inventing one). Bible 2: change the spec's tier line for Esther 11–16 (spec line about *english-only*) from `english-only` to the Greek tier, and tell Bible Main it is released. The Greek prayer and song in Daniel 3 is the same question, to be settled the same way when the Daniel sort comes.
+- 1 Meqabyan: 36:3 and 36:29 **(a)** as now (no history note; the gods' names kept in Ge'ez). 30:5 **(a) I taught them**. 30:14, 25:5, 25:13, 21:2, 17:3, 17:5, 19:3, 13:3, 16:4, 16:6, 15:8, 9:3, 9:5, 6:3, 6:7, 8:34, 3:35 **(a) as now** (Ge'ez words and names kept in italics with a note; spelled from the Ge'ez where there is no received form). 27:3, 27:10 **(a) upper, waters**, noted. 21:30 **(a) who did not transgress**. 17:6 **(a) not provoking a brother**. 14:2 **(a) four**. 11:1 **(a) Hermon**. 6:2 **(a) Ezekiel**, as the Ge'ez has it, with the note. 3:1 **(a) Abya, Sila and Fentos**.
+- 2 Meqabyan: 21:10, 21:22, 15:4, 15:20, 10:23, 11:12–13, 4:19, 5:10 **(a) as now** (Ge'ez words and names kept). 11:19 **(a)** no note. 5:6 **(a) they eat**. 8:9 **(b) Tekezé**, the river's received English name, with the book's *Takkaze* in the note (Bible 2 changes the text). 1:1 **(a) Meqabis**. 4:1 **(a) Hoshea**.
+- Job: 41:12 **(a) both**, as now. 32:3 **(a) Job**, the scribes' tradition in the note. 32:1 **(a) in his own eyes**. 7:20 **(a) to myself**. 9:19 **(a) me**. 9:33 **(a) There is no arbiter**. 3:10 **(a) my mother's womb**. 1:5, 1:11, 2:5, 2:9 **(a) curse**, by the sense, noted. 1:19 **(a) the young people**.
+- Psalms: 33:6 **(a) the breath of His mouth**, lowercase. 32:8 **(a) God as the speaker**. 24:4 **(a) his soul**, noted (ruling 5). 24:6 **(a) God of Jacob**. 22:16 **(a) they have pierced** (witness rule 2). 10:3 **(a) curses**. The 9–10 numbering **(a) that note only**. 1:2 **(b) instruction** (ruling 4); Bible 2 sweeps *law* for *torah* in the Psalms (and Reproof), keeping *law* only where the Greek or the New Testament quotation is the point.
+- Ecclesiastes: 12:11 **(a) Shepherd**, capital. 12:13 **(a) the whole of man**.
+- Song of Songs: 8:14 **(a) Flee**. 6:4, 6:10 **(a) the bannered hosts**. *dodim* **(a) love**. 1:5 **(a) and**. 2:1 **(a) a flower of Sharon**. Speaker labels **(a) none**.
+
 ### 108. Queue sort, Leviticus to 2 Chronicles (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 3 AM CST, 2026-11-17. Each open choice in `PASTE/renders/` for these books is sorted as Andrew's (a real double meaning in the same words, or a rule of his that two of his own rules pull apart) or settled here (a wording, name, consistency or witness call). Witness calls follow his rule of 2026-09-23 (spec, "When the witnesses differ"): the other witness wins only where the context is checkable (rule 4); otherwise the Hebrew stands. Bible 2: move every settled choice to `PASTE/decided/<book>.md` as "Settled by the council, 2026-11-17", apply the ruling where it differs from the text now, add the note the ruling names, and leave the choices listed as Andrew's where they are.*
 
-**Digest for Andrew (choices that are yours):** Leviticus 1 · Numbers 0 · Deuteronomy 1 · Joshua 0 · Judges 0 · Ruth 0 · 1 Samuel 0 · 2 Samuel 1 · 1 Kings 1 · 2 Kings 1 · 1 Chronicles 2 · 2 Chronicles 0. That is 7 in these twelve books; 38 are settled below.
+**Digest for Andrew (choices that are yours):** Leviticus 1 · Numbers 0 · Deuteronomy 1 · Joshua 0 · Judges 0 · Ruth 0 · 1 Samuel 0 · 2 Samuel 0 · 1 Kings 1 · 2 Kings 1 · 1 Chronicles 2 · 2 Chronicles 0. That is 6 in these twelve books; 39 are settled below (2 Samuel 16:12 moved to settled by item 109).
 
 **Yours (they stay in the renders files):**
 - Leviticus 26:21–41, *qeri*, hostility or carelessly (same word, two meanings, a change in how the passage reads).
 - Deuteronomy 32:8 and 32:43, the Hebrew or the Greek (*sons of Israel* or *sons of God / angels*; the line Hebrews 1:6 quotes).
-- 2 Samuel 16:12, *be-avoni*: his two rules pull apart (follow the read form, or the Greek where it has the fixed phrase *ra'ah be-oni*).
 - 1 Kings 19:12, *qol demamah daqqah* (thin silence, still small voice, whisper, breeze).
 - 2 Kings 17:21, *ki qara Yisra'el*, the LORD tore Israel or Israel tore away (no subject in the Hebrew).
 - 1 Chronicles 21:1, *satan* with no article (Satan or an adversary).
@@ -229,7 +256,7 @@ entry.
 - Judges: 19:2 **(a) whored against him**, Greek in the note. 14:15 **(b) the fourth day**, the Greek (v14 and v17 cannot be true with a seventh day). 10:12 **(b) Midian**, the Greek (chapters 6–8). 5:5 **(a) flowed down**, Greek in the note. 8:16 **(b) threshed**, the Greek (the promise of v7). 1:18 **(b) did not inherit**, the Greek (1:19, 3:3, 16:1, Joshua 13:3), Hebrew in the note.
 - Ruth: 2:1 and 3:11 **(a) a man of worth** and *a woman of worth*; Bible 2 to add *gibbor chayil* to the fixed-terms table (*mighty man of valor* in war, *man of worth* elsewhere).
 - 1 Samuel: 25:1 **(b) Maon**, the Greek (23:24–25, 25:2), *Paran* in the note. 12:11 **(b) Barak**, the Greek (v9), *Bedan* in the note. 12:15 **(b) your king**, the Greek (vv14, 25). 3:13 **(b) speaking evil of God**, the Greek (2:17, 2:29, Exodus 22:28), Hebrew in the note. *YHWH tseva'ot* **(a) the LORD of hosts**, added to the fixed-terms table.
-- 2 Samuel: 21:19 **(a) the Hebrew**, with the note (Chronicles' reading is the one that removes the difficulty, which rule 4 does not count).
+- 2 Samuel: 21:19 **(a) the Hebrew**, with the note (Chronicles' reading is the one that removes the difficulty, which rule 4 does not count). 16:12 **(a) my affliction**, the Greek (`ra'ah be-oni` is a fixed phrase, Genesis 29:32; 1 Samuel 1:11): witness rule 2 lets another witness win where the context is checkable, and it outranks the read-form rule when the Greek reads neither written nor read form (same ruling as Psalm 24:4 and Job 41:12 in item 109).
 - 2 Kings: 12:4 **(a) the money of each man who passes the count**. 5:12 **(a) Abana**.
 - 1 Chronicles: 26:20 **(a) their kinsmen the Levites**, the Greek, Hebrew in the note. 27:18 **(a) Elihu**. 22:14 **(a) in my affliction**. 25:1 **(a) the commanders of the army**. 12:18 **(a) the spirit**, lowercase (the 2026-09-30 ruling: capital only where *of God* or *of the LORD*). 3:19 **(a) Pedaiah**.
 - 2 Chronicles: 33:19 **(a) Hozai**. 36:10 **(a) his kinsman**. 26:5 **(a) in the visions of God**. 22:2 **(a) twenty-two**, following Kings. 17:3 **(a) the Hebrew** (David his forefather). 20:2 **(a) Aram**. 15:3 **(a) was** (v4 goes on in the past; Hosea 3:4 in the note). 9:4 **(a) the Hebrew**, with the note. 7:16 **(a) cut *ve-attah***, under the 2026-10-03 rule. 1:5 **(a) Him, the LORD**. *qodesh ha-qodashim* (Kings, Chronicles, Exodus): **(a) as now**: *Most Holy Place* in Kings and Chronicles, *Holy of Holies* in Exodus, because Exodus is closed and carries a note built on the phrase; Kings and Chronicles agree with each other.
