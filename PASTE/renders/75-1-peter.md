@@ -24,7 +24,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 2 | *to logikon adolon gala* "the of-the-word guileless milk" | the pure milk of the word (note; choice below) |
+| 2 | *to logikon adolon gala* "the of-the-word guileless milk" | the pure milk of the word (note; decided, see `PASTE/decided/75-1-peter.md`) |
 | 6 | *periechei en graphē* "it is contained in Scripture" | it stands in Scripture |
 | 8 | *eis ho kai etethēsan* "to which also they were placed" | to this they were also appointed |
 | 9 | *laos eis peripoiēsin* "a people for possession" | a people for His own possession |
@@ -43,7 +43,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 7 | *hōs asthenesterō skeuei* "as with a weaker vessel" | as the weaker vessel |
 | 14 | *ton de phobon autōn mē phobēthēte* "do not fear their fear" | Do not fear their fear (note) |
 | 15 | *kyrion de ton Christon hagiasate* | regard the Lord Christ as holy (note) |
-| 18 | *zōopoiētheis de pneumati* "made alive in spirit" | made alive in the spirit (note; choice below) |
+| 18 | *zōopoiētheis de pneumati* "made alive in spirit" | made alive by the Spirit (note; decided, see `PASTE/decided/75-1-peter.md`) |
 | 21 | *syneidēseōs agathēs eperōtēma eis theon* | the appeal of a good conscience toward God (note) |
 
 ### 1 Peter 4: Stewards of God's Grace
@@ -67,15 +67,8 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 12 | *hōs logizomai* "as I reckon" | as I regard him |
 | 13 | *hē… syneklektē* "the co-chosen (she)" | She… chosen together with you (note) |
 
-**Choices for you:**
-- **2:2, *to logikon adolon gala***
-  - (a) **the pure milk of the word** (now): *logikos* from *logos*, the word of God just named in 1:23–25.
-  - (b) **pure spiritual milk**: *logikos* as **of the mind, spiritual**, as in Romans 12:1.
-  - Recommend (a): no English word keeps both; *the word* carries Peter's run from 1:23 into 2:2, and the note gives (b).
-- **3:18, *zōopoiētheis de pneumati***
-  - (a) **made alive in the spirit** (now): set against *in the flesh*, His spirit as against His body.
-  - (b) **made alive by the Spirit**: the Holy Spirit, who raised Him.
-  - Recommend (a): English has to choose a capital here, and the lowercase keeps Peter's pair, *flesh* and *spirit*, as he repeats it in 4:6; the note gives (b).
+**Choices for you:** all decided; moved to `PASTE/decided/75-1-peter.md`.
+
 ## 1 Peter 1 — rendered 2026-11-16, 7:09 PM CST
 
 **Landed:** 1 Peter 1. Progress (with James 3–5) 1,497 → **1,501 of 1,989 (75.5%)**.
