@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 17, note on v11 | (Malachi 4:6 in the Greek)… (Malachi 3:23–24; 4:5–6 in English) | (Malachi 4:6; 4:5 in the Greek)… (Malachi 4:5–6; 3:23–24 in the Hebrew): the English numbers come first |
+
+**Choices for you:** none new.
+
 ## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

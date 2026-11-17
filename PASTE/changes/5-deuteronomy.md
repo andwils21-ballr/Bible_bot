@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Deuteronomy 6, note on v13 | Jesus answers with this verse *as the Greek has it*: *worship*, and *Him only* | Matthew has *worship* and *only*; the Greek of Deuteronomy held here has *fear* and no *only*, as the Hebrew does |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

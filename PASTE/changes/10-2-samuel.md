@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 21, note on vv6, 9 | the Greek has *in Gibeon, Saul the chosen of the LORD* | the Greek has *in Gibeon of Saul, as chosen ones of the LORD*: *chosen* is said of the seven |
+| 2 Samuel 21, note on v19 | *the Hebrew and the Greek both say it* (that Elhanan killed Goliath) | so the Hebrew; the Greek held here has *Godolias the Hittite* |
+
+**Choices for you:** none new.
+
 ## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

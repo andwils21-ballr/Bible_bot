@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Proverbs 8, note on v16 | many Hebrew manuscripts and the Greek read "all the judges of the earth" | many Hebrew manuscripts read it so; the Greek has *earth* in another sentence, "by me rulers hold the earth" |
+
+**Choices for you:** none new.
+
 ## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

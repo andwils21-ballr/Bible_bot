@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). One verse was changed, because the note's witness for it was wrong.
+
+| Where | Before | After |
+|---|---|---|
+| Psalm 11:6 | On the wicked He will rain coals, / fire and sulfur and a scorching wind | On the wicked He will rain snares; / fire and sulfur and a scorching wind |
+| Psalm 11, note on v6 | said the text followed the Greek in reading *coals* | the Greek has *snares* (*pagidas*), as the Hebrew does; *coals* is given as the other reading |
+
+**Choices for you:**
+- **11:6, *pachim***
+  - (a) **He will rain snares; fire and sulfur** (now): the Hebrew as written, and the Greek agrees.
+  - (b) **He will rain coals of fire and sulfur**: one vowel changed, *pachamei*; no text held here reads it, though many English Bibles do. It gives the fire of Sodom in one line.
+  - Recommend (a): the note that sent the verse to *coals* rested on the Greek, and the Greek says *snares*.
+
 ## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
