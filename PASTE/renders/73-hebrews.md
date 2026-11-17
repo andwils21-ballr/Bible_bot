@@ -23,12 +23,12 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | Verse | Word-for-word | In the text now |
 |---|---|---|
 | 1 | *tēn euperistaton hamartian* "the easily-surrounding sin" | the sin that clings so closely |
-| 2 | *anti tēs prokeimenēs autō charas* "for / instead of the joy lying before Him" | for the joy set before Him (note; choice below) |
+| 2 | *anti tēs prokeimenēs autō charas* "for / instead of the joy lying before Him" | for the joy set before Him (note; decided, see `PASTE/decided/73-hebrews.md`) |
 | 3 | *eis heautous* "against themselves" | against themselves (note) |
 | 5 | *eklelēsthe* "you have forgotten" | You have forgotten (a statement, not a question) |
 | 9 | *tous tēs sarkos hēmōn pateras* "the fathers of our flesh" | the fathers of our flesh |
 | 12 | *tas pareimenas cheiras kai ta paralelymena gonata anorthōsate* "set straight the slackened hands and the paralyzed knees" | lift your drooping hands and strengthen your weak knees |
-| 17 | *ekzētēsas autēn* "having sought it" | though he sought it with tears (choice below) |
+| 17 | *ekzētēsas autēn* "having sought it" | though he sought it with tears (decided, see `PASTE/decided/73-hebrews.md`) |
 | 18 | *psēlaphōmenō* "to what is touched" | to what can be touched |
 | 24 | *kreitton lalounti para ton Habel* "speaking better than Abel" | speaks better than Abel (note) |
 | 28 | *echōmen charin* "let us have grace / thanks" | let us be grateful |
@@ -44,15 +44,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 15 | *karpon cheileōn* | the fruit of lips (note) |
 | 17 | *alysiteles* "unprofitable" | of no advantage |
 
-**Choices for you:**
-- **12:2, *anti tēs prokeimenēs autō charas***
-  - (a) **for the joy set before Him** (now): the joy ahead is the prize He ran for, as *the race set before us* (v1, the same verb).
-  - (b) **instead of the joy set before Him**: He gave up a joy within reach and chose the cross.
-  - Recommend (a): the verse is built on v1, a race with a goal *set before* the runner, and ends with Him seated at God's right hand.
-- **12:17, *ekzētēsas autēn***
-  - (a) **though he sought it with tears** (now), leaving *it* open: *autēn* may be **the blessing** or **repentance**, both feminine in Greek.
-  - (b) **though he sought the blessing with tears**: as Genesis 27:38, *Bless me — me also, my father!… and wept*.
-  - Recommend (a): the Greek leaves both open, and *it* does the same in English.
+**Choices for you:** all decided; moved to `PASTE/decided/73-hebrews.md`.
 
 ## Hebrews 8–11 — rendered 2026-11-16, 1:15 AM CST
 

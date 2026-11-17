@@ -94,7 +94,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 | Verse | Word-for-word | In the text now |
 |---|---|---|
-| 1 | *mē en prosōpolēmpsiais echete tēn pistin… tēs doxēs* "do not in face-takings hold the faith… of the glory" | do not hold the faith of our Lord Jesus Christ, the Lord of glory, while showing favoritism (choice below) |
+| 1 | *mē en prosōpolēmpsiais echete tēn pistin… tēs doxēs* "do not in face-takings hold the faith… of the glory" | do not hold the faith of our Lord Jesus Christ, the Lord of glory, while showing favoritism (decided, see `PASTE/decided/74-james.md`) |
 | 2 | *synagōgēn* "gathering, synagogue" | assembly |
 | 3 | *hypo to hypopodion mou* "under my footstool" | on the floor by my footstool |
 | 5 | *tous ptōchous tō kosmō* "the poor to the world" | those who are poor in the world's eyes |
@@ -103,9 +103,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 20 | *argē* "idle, without work" | useless |
 | 25 | *angelous* | the messengers |
 
-**Choices for you:**
-- **2:1, *tou kyriou hēmōn Iēsou Christou tēs doxēs***
-  - (a) **our Lord Jesus Christ, the Lord of glory** (now): *of glory* tells who He is, as Paul's *the Lord of glory* (1 Corinthians 2:8).
-  - (b) **our glorious Lord Jesus Christ**: *of glory* as a describing word.
-  - (c) **our Lord Jesus Christ, the Glory**: Christ Himself named as *the Glory*.
-  - Recommend (a): it keeps the title Paul gives Him and adds nothing the Greek does not have.
+**Choices for you:** all decided; moved to `PASTE/decided/74-james.md`.

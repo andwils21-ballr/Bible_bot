@@ -2,6 +2,18 @@
 
 Choices Andrew has ruled on, moved here from `PASTE/renders/73-hebrews.md` once marked ✅, under the heading of the run that raised them. Newest at the top. Format: CLAUDE.md, section 5.
 
+## Hebrews 12–13 — rendered 2026-11-16, 2:10 PM CST
+
+**Choices for you:**
+- ✅ Decided 2026-11-16: (a) **for the joy set before Him**. **12:2, *anti tēs prokeimenēs autō charas***
+  - (a) **for the joy set before Him** (now): the joy ahead is the prize He ran for, as *the race set before us* (v1, the same verb).
+  - (b) **instead of the joy set before Him**: He gave up a joy within reach and chose the cross.
+  - Recommend (a): the verse is built on v1, a race with a goal *set before* the runner, and ends with Him seated at God's right hand.
+- ✅ Decided 2026-11-16: (a) **though he sought it with tears**. **12:17, *ekzētēsas autēn***
+  - (a) **though he sought it with tears** (now), leaving *it* open: *autēn* may be **the blessing** or **repentance**, both feminine in Greek.
+  - (b) **though he sought the blessing with tears**: as Genesis 27:38, *Bless me — me also, my father!… and wept*.
+  - Recommend (a): the Greek leaves both open, and *it* does the same in English.
+
 ## Hebrews 4–7 — rendered 2026-11-15, 7:30 PM CST
 
 **Choices for you:**

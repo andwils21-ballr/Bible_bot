@@ -19,3 +19,12 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/74-james.md` once ma
   - (b) **will save the sinner's soul from death**: naming him.
   - Recommend (a): the Greek leaves it open, and *his* does the same in English.
 
+## James 1–2 — rendered 2026-11-16, 2:10 PM CST
+
+**Choices for you:**
+- ✅ Decided 2026-11-16: (a) **our Lord Jesus Christ, the Lord of glory**. **2:1, *tou kyriou hēmōn Iēsou Christou tēs doxēs***
+  - (a) **our Lord Jesus Christ, the Lord of glory** (now): *of glory* tells who He is, as Paul's *the Lord of glory* (1 Corinthians 2:8).
+  - (b) **our glorious Lord Jesus Christ**: *of glory* as a describing word.
+  - (c) **our Lord Jesus Christ, the Glory**: Christ Himself named as *the Glory*.
+  - Recommend (a): it keeps the title Paul gives Him and adds nothing the Greek does not have.
+
