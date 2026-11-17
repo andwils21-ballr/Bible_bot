@@ -2,6 +2,76 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## James 3–5 — rendered 2026-11-16, 7:09 PM CST
+
+**Landed:** James 3, 4, 5. **James is finished.** Progress 1,497 → **1,501 of 1,989 (75.5%)**, with 1 Peter 1 (report in `PASTE/renders/75-1-peter.md`).
+
+**Source:** Greek (SBLGNT). Each place the edition marks a variant was read against its printed text: 3:3 *ei de* (**If**), 4, 5, 6 *adikias*, 8 *akatastaton* (**restless**), 9 *kyrion* (**the Lord and Father**), 12, 17, 18; 4:1, 4 *moichalides* (**adulteresses** alone), 5 *katōkisen* (**He has made to dwell**), 8, 9, 10, 11, 12 (*and judge*), 13, 14, 15; 5:4, 5, 7 *labē* (no *rain* in the Greek; **rains** supplied), 9, 10, 11, 12, 14, 16, 18, 19, 20 *autou*.
+
+**Form kept:** no sentence starts with *And*; *idou* cut (3:4, 5; 5:4, 7, 9, 11). *Antitassetai*, **opposes**, kept the same in 4:6 and 5:6. *Kyrios Sabaōth* is **the Lord of hosts**, as Romans 9:29. *Dipsychos*, **double-minded**, as 1:8 (4:8). *Gehenna*, as Matthew 5:22 (3:6). *Psychikē*, **natural**, as 1 Corinthians 2:14 (3:15).
+
+**Echoes in the notes, checked against this project's English and the sources:** Genesis 1:26 (Greek); Jeremiah 3:20; Proverbs 3:34 (Hebrew and Greek); Matthew 5:34–37; 1 Kings 18:1; Luke 4:25; Proverbs 10:12 (Hebrew and Greek); 1 Peter 4:8 (Greek). *Phthonos* checked in every New Testament use. **Checked against the sources:** SBLGNT James 3:1–5:20.
+
+**The checker** found 0 errors and 0 CHECKs.
+
+**What these chapters are:**
+- **3:** not many should be teachers; the tongue, a small member like a bit or a rudder, *a fire… set on fire by Gehenna*; blessing and cursing from one mouth. *The wisdom from above is first pure, then peaceable.*
+- **4:** wars come from your pleasures; *friendship with the world is hostility toward God*; *God opposes the proud, but gives grace to the humble*; *Draw near to God, and He will draw near to you*. Do not judge; say *If the Lord wills*.
+- **5:** woe to the rich who held back the workers' wages; be patient until the coming of the Lord, like the farmer and Job; let your yes be yes; the prayer of faith, and Elijah; bring back the one who wanders.
+
+### James 3: Taming the Tongue
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *meizon krima lēmpsometha* "we will receive greater judgment" | we will receive a stricter judgment |
+| 2 | *en logō ou ptaiei* "does not stumble in word" | does not stumble in what he says |
+| 4 | *hē hormē tou euthynontos bouletai* "the impulse of the one steering wishes" | the will of the pilot directs |
+| 5 | *hēlikon pyr hēlikēn hylēn anaptei* "how great a fire kindles how great a wood" | How small a fire sets how great a forest ablaze |
+| 6 | *ho kosmos tēs adikias* "the world of unrighteousness" | a world of unrighteousness |
+| 6 | *ton trochon tēs geneseōs* "the wheel of birth" | the wheel of existence (note) |
+| 11 | *to glyky kai to pikron* "the sweet and the bitter" | fresh and bitter water |
+| 17 | *eupeithēs* "easily persuaded" | open to reason |
+
+### James 4: Draw Near to God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | *ek tōn hēdonōn hymōn tōn strateuomenōn* "from your pleasures that are campaigning" | from your pleasures that wage war |
+| 4 | *moichalides* "adulteresses" | You adulteresses! (note) |
+| 5 | *pros phthonon epipothei to pneuma* "toward envy yearns the spirit" | He yearns jealously over the spirit (note; choice below) |
+| 9 | *talaipōrēsate* "be miserable" | Be wretched |
+| 9 | *katēpheian* "downcast look" | gloom |
+| 13 | *eis tēnde tēn polin* "into this-here city" | into such and such a town |
+| 14 | *atmis* "vapor" | a mist |
+
+### James 5: The Prayer of Faith
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | *hōs pyr ethēsaurisate en eschatais hēmerais* "like fire you stored up in the last days" | What you have stored up in the last days is like fire |
+| 5 | *ethrepsate tas kardias hymōn* "you fed your hearts" | you have fattened your hearts |
+| 6 | *ouk antitassetai hymin;* "does he not oppose you?" | Does he not oppose you? (choice below) |
+| 7 | *proimon kai opsimon* "early and late" | the early and the late rains |
+| 11 | *to telos kyriou* "the end of the Lord" | the end the Lord brought about |
+| 16 | *energoumenē* "working" | in its working |
+| 17 | *proseuchē prosēuxato* "with prayer he prayed" | he prayed earnestly |
+| 20 | *psychēn autou* "his soul" | his soul (note; choice below) |
+
+**Choices for you:**
+- **4:5, *pros phthonon epipothei to pneuma ho katōkisen en hēmin***
+  - (a) **He yearns jealously over the spirit that He has made to dwell in us** (now): God is the jealous husband of v4.
+  - (b) **The spirit that He has made to dwell in us longs enviously**: the spirit in us, with the desires of vv1–3.
+  - Recommend (a): v4 has just called the readers *adulteresses*, and v6 goes on, *But He gives more grace*, with God still the subject.
+- **5:6, *ouk antitassetai hymin***
+  - (a) **Does he not oppose you?** (now): the edition's question; the murdered righteous man stands against his killers.
+  - (b) **Does He not oppose you?**: God, the subject of the same verb in 4:6, *God opposes the proud*.
+  - (c) **He does not resist you**: a statement; the righteous man died without resisting.
+  - Recommend (a): it keeps the edition's question mark and the subject of the sentence before it; the same verb as 4:6 is kept so the link can be seen.
+- **5:20, *sōsei psychēn autou ek thanatou***
+  - (a) **will save his soul from death** (now): *his* left open, the sinner's soul or the soul of the one who brought him back.
+  - (b) **will save the sinner's soul from death**: naming him.
+  - Recommend (a): the Greek leaves it open, and *his* does the same in English.
+
 ## James 1–2 — rendered 2026-11-16, 2:10 PM CST
 
 **Landed:** James 1, 2. Progress (with Hebrews 12–13) 1,493 → **1,497 of 1,989 (75.3%)**.
