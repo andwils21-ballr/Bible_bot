@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 31** (Exodus 1–30 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 36** (Exodus 1–35 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -208,6 +208,12 @@ entry.
 - **Hebrews 2:18** `πειρασθείς… πειραζομένοις`: *tempted*, beside *testing… put Me to the test* for the same root in 3:8–9; this project's Matthew 4:1 and 1 Corinthians 10:13 have *tested*. Proposed: *Because He Himself suffered when He was tested, He is able to help those who are being tested.*
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
+### 107. Exodus 31–34 notes: two claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-17)
+*Asked by Bible 3, 1 AM CST, 2026-11-17. Exodus is closed; neither is provably wrong from the printed source, so the text is left alone.*
+
+- **Exodus 31:2** says the Hur who is Bezalel's grandfather "is the man who held up one of Moses' arms at Rephidim." The text gives the name only; it never says the two Hurs are the same man. Proposed: say "a Hur is named in 17:12 and 24:14" or cut the grandfather sentence.
+- **Exodus 33:16 and 34:10** build on *niflinu* (33:16, "marked out") and *nifla'ot* (34:10, "wonders") being one root. Lexicons list two roots here: *palah*, to set apart (the verb God uses of Israel and Egypt at 8:22, 9:4, 11:7), and *pala*, to be wonderful. The 34:10 note's "same root" claim rests on the first being the second. Proposed: in the 33:16 note, drop "the root behind *wonder* and *miracle*" and point to 8:22 (a difference God makes between Israel and Egypt); in the 34:10 note, drop the claim of one root.
 
 ### 106. Exodus 25–29 notes: claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-16)
 *Asked by Bible 3, 12 AM CST, 2026-11-17. Exodus is closed; none of these is provably wrong from the printed source, so the text is left alone and they are raised here. Bible 2 to trim any it agrees with.*

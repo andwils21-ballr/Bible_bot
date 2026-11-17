@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 31–35 (Bible 3, 2026-11-17, 1 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 31–35 read verse by verse beside the Hebrew (and the Greek, Genesis, Psalms, Habakkuk and 2 Corinthians in this repo where a note cites them). Every verse matches the Hebrew; no verse changed. Five note claims did not match the printed text and were corrected. Two doubtful claims are raised in COUNCIL.md item 107 and left alone.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 33, note v14 | One word, eight times, holding the chapter together. | One word, nine times between v11 and v23 (once of the face of the ground), holding the chapter together. (Hebrew *panim* counted in vv11–23.) |
+| Exodus 33, note v20 | seventy-four elders *saw the God of Israel* | seventy-four men *saw the God of Israel* (Moses, Aaron, Nadab, Abihu and seventy elders, 24:9) |
+| Exodus 34, note vv29, 30, 35 | Psalm 69:32 | Psalm 69:31 (this text numbers the verse 31) |
+| Exodus 34, note vv29, 30, 35 | (*rays from His hand*) | (*rays came from His hand*), as Habakkuk 3:4 reads in this text |
+| Exodus 34, note vv33–35 | *not like Moses, who put a covering over his face so that the sons of Israel would not look at the end of what was fading* (2 Corinthians 3:13) | *not like Moses, who would put a veil over his face so that the sons of Israel might not look steadily at the end of what was being done away with* (2 Corinthians 3:13), as it reads in this text |
+
+**Choices for you:** none new.
+
 ## Fidelity check against the Hebrew, Exodus 26–30 (Bible 3, 2026-11-17, 12 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 26–30 read verse by verse beside the Hebrew (and the Greek and the repo's 1 Kings where a note quotes them). Every verse matches the Hebrew; no verse changed. One note quotation was corrected. Five doubtful note claims that the printed source cannot show are raised in COUNCIL.md item 106 and left alone.
