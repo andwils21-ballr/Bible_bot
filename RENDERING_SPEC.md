@@ -13,8 +13,14 @@ chapter being clever.
    genealogy stays monotonous, prophecy keeps its abruptness, letters sound like
    letters.
 2. **Keep the source's word order and emphasis** where English can carry it.
-3. **Do not smooth out difficulty.** Where the source is ambiguous or damaged,
-   the English stays so, and the note says so.
+3. **Leave open what the source leaves open** (Andrew, 2026-11-16). Where a
+   word can honestly be read more than one way, the English keeps every
+   reading open wherever English can (*his soul*, James 5:20; *it*, Hebrews
+   12:17): never add a name or a word that settles it. Where English must
+   choose (a capital pronoun; *will* or *covenant*, Hebrews 9:16), take the
+   reading the context best supports and give the others in a note. In a
+   choice for Andrew, the open reading is the recommendation. Damaged text
+   stays damaged, and the note says so.
 4. **Divine names:** YHWH → *the LORD*; *Adonai* → *the Lord*; *Elohim* → *God*;
    *El Shaddai* → *God Almighty* (note the first time in a book); Greek
    *Kyrios* → *Lord*.

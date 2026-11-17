@@ -4,6 +4,14 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-16, leave open what the source leaves open.** After ruling on
+  Hebrews 12:17 and James 5:20, where the open *it* and *his* were kept, Andrew
+  asked that every word that can be left open to interpretation be left open:
+  part of how the Bible speaks to each reader in their own life. Style item 3
+  had said only *Do not smooth out difficulty… the English stays so*. It now
+  says to keep every honest reading open where English can, and to choose and
+  note only where English cannot. No sweep of earlier books.
+
 - **2026-11-08, the map after Joshua 24.** Andrew replaced the journey map
   with a picture book of the taking of Ai, so the spec's one permitted link in
   a note (*See the map after Joshua 24, stage N*) went with it, and the
