@@ -2,6 +2,19 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 21–25 (Bible 3, 2026-11-16, 8 PM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 21–25 read verse by verse beside the Hebrew (and the Greek where a note cites it). Every verse matches the Hebrew (22 and 25 are one verse off in the Hebrew numbering, already noted at 22:1). Three note claims did not match the printed text and were corrected; no verse changed.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 22, note vv23–24 | every other penalty is payment, death, or destruction. | every other penalty is payment, being sold, death, or destruction. (22:3: a thief with nothing is sold.) |
+| Exodus 24, note vv3, 7 | It is also what the **Greek** already has back at 19:8, where the Hebrew has only *we will do*: one of the two traditions puts the full pledge at the start of the Sinai account, the other holds it back until the terms have actually been read. | The **Greek** has the full pledge, *we will do and we will listen*, all three times: at 19:8 and here in v3, where the Hebrew has only *we will do*, and again in v7. Only the Hebrew holds the fuller answer back until the terms have actually been read. |
+| Exodus 24, note v10 | the sky's own bone, for clearness. | the sky's own bone, for purity. (matches the verse) |
+| Exodus 25, note vv9, 40 | The Greek renders it *typos*, and Hebrews quotes that verse from the Greek almost word for word | The Greek renders it *paradeigma*, a model or example, in v9 and *typos*, an imprint or mold, in v40, and Hebrews quotes v40 from the Greek almost word for word |
+
+**Choices for you:** none new.
+
 ## Fidelity check against the Hebrew, Exodus 16–20 (Bible 3, 2026-11-16, 9 AM to 10 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 16–20 read verse by verse beside the Hebrew (and the Greek where a note cites it, 20:13–15 included): every name, number and clause agrees; the counts the notes give (*choten Moshe* thirteen times in 18, the five-word question at 17:7, *mechuspas* and *tsintsenet* once each) hold. One note said the New Testament always puts adultery first in the commandments, which Matthew 19:18 and Mark 10:19 contradict.
