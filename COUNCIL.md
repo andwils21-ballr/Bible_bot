@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through 4 Baruch (items 108, 109, 110), next **Ezekiel** (40-ezekiel.md); C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through Malachi (items 108 to 111), next **Mark** (56-mark.md; Matthew has no open choices); C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -208,6 +208,32 @@ entry.
 - **Hebrews 2:18** `πειρασθείς… πειραζομένοις`: *tempted*, beside *testing… put Me to the test* for the same root in 3:8–9; this project's Matthew 4:1 and 1 Corinthians 10:13 have *tested*. Proposed: *Because He Himself suffered when He was tested, He is able to help those who are being tested.*
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
+### 111. Queue sort, Ezekiel to Malachi (Bible 3, job B of item 104, 2026-11-17)
+*Asked by Bible 3, 6 AM CST, 2026-11-17. Same method and instructions to Bible 2 as items 108 to 110. Mark onward (the New Testament) is still to sort. Where a choice decides whether a passage speaks of God or of Jesus, or how a New Testament quotation reads, it is left to Andrew even when the context favors one side.*
+
+**Digest for Andrew (choices that are yours):** Ezekiel 0 · Daniel 4 · Hosea 2 · Joel 0 · Amos 2 · Obadiah 0 · Jonah 0 · Micah 0 · Nahum 0 · Habakkuk 1 · Zephaniah 0 · Haggai 1 · Zechariah 3 · Malachi 2. That is 15 in these books; 79 are settled below.
+
+**Yours (they stay in the renders files):**
+- Daniel 9:24 (*seventy sevens* or *seventy weeks*); 9:25 (the division of the numbers, one anointed figure or two); 8:11, 25 (*the Prince of the host*, God or a heavenly prince); 3:25 and 4:8 (*a son of the gods* or *a son of God*).
+- Hosea 13:14 (a promise or a question; Paul takes it up in 1 Corinthians 15:55); 6:7 (*like Adam* or *like mankind*).
+- Amos 9:12 (*Edom* or *mankind*; James quotes it in Acts 15); 7:14 (*I was no prophet* or *I am no prophet*).
+- Habakkuk 2:4 (*his faithfulness* or *his faith*; Romans 1:17, Galatians 3:11, Hebrews 10:38).
+- Haggai 2:7 (*the treasures of all the nations* or *the Desire of all nations*).
+- Zechariah 9:9 (*saved* or *victorious*); 12:10 (*they will look to Me, whom they have pierced*, or *concerning the one*); 3:1–2, *ha-satan* (part of the one *satan* choice with Job 1:6, 1 Chronicles 21:1 and Sirach 21:27).
+- Malachi 3:1–2 (capitals for the Lord and the messenger of the covenant); 2:16 (*he hates divorce* or *I hate divorce*).
+
+**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
+- Ezekiel: 45:5 **(a) towns to live in**. 42:16–19 **(a) five hundred cubits**. 43:7 **(a) at their high places**. 37:23 **(a) their dwelling places**. 38:2 **(a) the chief prince of Meshech and Tubal**. 40:44 **(a) two chambers**. 34:3 **(a) the milk**. 22:25 **(b) her princes… like a roaring lion**, the Greek (the chapter goes rank by rank; Bible 2 changes the text and gives the Hebrew in the note). 23:20 **(a) their lovers**. 19:10 **(a)**. 11:15 **(a)**. 11:16 **(a) a small sanctuary**. 8:2 **(a) a man**. *ruach* with no owner **(a) the spirit**, lowercase. 1:4, 27 **(a) amber**.
+- Daniel: 13:45 **(a) the holy spirit of a young boy**. 9:21 **(a) in swift flight**. 12:10 **(b) many will purify themselves, make themselves white and be refined** (Bible 2 changes the text). 7:27 **(a) their kingdom**. 1:3 **(a) the chief of his eunuchs**. 2:5, 8 **(a) my word is firm**. 3:17 **(a)**. 4:27 **(a) break off your sins by doing what is right**.
+- Hosea: 13:15 **(a) the wind of the LORD** (Bible 2: look again at Isaiah 40:7 and 59:19; item 110 settled 40:7 as *the Spirit of the LORD* on its own words, and Isaiah 59:19 follows the same words, so leave both). 12:4 **(a) He found him**. 12:7 **(a) a trader**. 12:10 **(a) I gave parables**. 13:2 **(a)**. 10:1 **(a) a spreading vine**. 10:12 **(a) rains righteousness**. 11:4 **(a) lift the yoke**. 11:12 **(b) Judah still roams free against God**, the Greek and Jeremiah 2:31 (Bible 2 changes the text). 6:5 **(a) My judgment goes out like light**. 7:14 **(a) they gash themselves**. 1:6 **(a)**. 1:9 **(a) I will not be yours**.
+- Joel: the four locust names **(b) cutting locust, locust, young locust, consuming locust**: one English word for each Hebrew word. Bible 2 changes every verse the Joel 1–2 report lists (Amos 4:9, Jeremiah 51:14 and 51:27, 1 Kings 8:37, 2 Chronicles 6:28, Isaiah 33:4 and the Psalms named there). 3:14 **(a) the valley of decision**. 3:21 **(a)**. 2:17 **(a) to rule over them**. 2:23 **(a) the early rain for righteousness**.
+- Amos: 7:7–8 **(a) a plumb line**. 8:7 **(a) the pride of Jacob**, lowercase. 3:12 **(a) a piece of a couch**. 4:13 **(a) what His thought is**. 5:26 **(a) You will take up Sikkuth your king** and **(a) Sikkuth**. 6:13 **(a) nothing… horns**. 1:15 **(a) their king**. 2:7 **(a) trample**.
+- Micah: 6:9 **(a) the rod**. 7:11 **(a) the boundary**. 7:13 **(a) the earth**. 4:9 **(a) Is there no king in you?** (lowercase). 5:1 **(a) gather in your troops**. 5:5 **(a) This one will be peace**.
+- Obadiah: vv12–14 **(a) commands**. v17 **(a)**. Jonah: 3:3 **(a) a great city to God**. 4:4, 9 **(a) Is it right for you to be angry?** 2:4 **(a) yet I will look again**.
+- Nahum: 1:8 **(a)**. 2:7 **(a) it is fixed**. Habakkuk: 2:16 **(a) show your foreskin**. Zephaniah: 1:5 **(a) Milcom**. 1:11 **(a) the trading people**. 3:8 **(a) the prey**. 3:17 **(a) He will be silent in His love**. Haggai: 2:9 **(a) the latter glory of this house**.
+- Zechariah: 14:5 **(a)**. 9:1 **(a)**. 11:7, 11 **(b) the sheep merchants**, the Greek's letters and the wages of v12 (Bible 2 changes the text). 5:3 **(a) purged**. 5:6 **(a) their appearance**. 6:8 **(a) the Spirit** (the fixed term; the note gives *anger*). 6:13 **(a) a priest on his throne**. 7:2 **(a) Bethel had sent Sharezer and Regem-melech**. 4:14 **(a) the two sons of oil**.
+- Malachi: 1:1 **(a) Malachi**, with the meaning in the note.
 
 ### 110. Queue sort, Wisdom of Solomon to 4 Baruch (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 5 AM CST, 2026-11-17. Same method and instructions to Bible 2 as items 108 and 109. Ezekiel onward is still to sort.*
