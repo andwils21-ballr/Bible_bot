@@ -4,6 +4,21 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 **Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: 1–50. Complete.
 
+## Notes fact check: the manuscripts (Andrew, 8:13 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every Ge'ez word the notes quote was tested against the Ge'ez texts, and every statement of what Charles, the Latin, the Greek, the Aramaic or Knibb's Ge'ez has was read against that witness. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 13, note on v10 | the Latin has the place name, *Bealoth* | *Bahalot*, as the Latin spells it |
+| Jubilees 18, note on v1 | Charles and the Latin have *Abraham, Abraham* in v10 | Charles has it; the Latin begins just after the call |
+| Jubilees 33, note on vv1–9 | the Latin has *Migdal-Eder* | the Latin has *magdale efratam*, Magdal of Ephrath |
+| Jubilees 34, note on vv1–9 | the Latin reads *Shiloh*… and *Gaash* | *Silo* and *Gaas*, as the Latin spells them |
+| Jubilees 41, note on vv1–21 | the Latin has *Bathshua* | *Batsua* (once *Bethsua*) |
+| Jubilees 47, note on vv2–8 | the Latin and Greek have *Thermuthis* | the Latin has *Termot* and the Greek *Thermouthis* |
+
+**Choices for you:** none new.
+
 ## *Harlot* changed to *prostitute* (2026-09-30, 7:54 AM Central)
 
 Follows your ruling *whore for the verb, prostitute for the noun*. It is a rule about English words, so it reaches the Jubilees text as well; nothing in the Ge'ez is argued from.

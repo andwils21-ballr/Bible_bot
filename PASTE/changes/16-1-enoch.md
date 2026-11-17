@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## Notes fact check: the manuscripts (Andrew, 8:13 PM CST, 2026-11-16)
+
+**Request:** Andrew: continue with the fact checks. Every Ge'ez word the notes quote was tested against the Ge'ez texts, and every statement of what Charles, the Latin, the Greek, the Aramaic or Knibb's Ge'ez has was read against that witness. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 62, note on v4 | *ka-bəʾəsit* | *kama bəʾəsit*, as both Ge'ez texts have it |
+| 1 Enoch 87, note on v2; 90, note on v1 | ended *(see choice #1 of the 72 report)* | the words are cut: a note does not point to a work report |
+
+**Choices for you:** none new.
+
 ## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
 
 **Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.
