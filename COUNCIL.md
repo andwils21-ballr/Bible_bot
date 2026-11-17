@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 26** (Exodus 1–25 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check, next **Exodus 31** (Exodus 1–30 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue; C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -208,6 +208,15 @@ entry.
 - **Hebrews 2:18** `πειρασθείς… πειραζομένοις`: *tempted*, beside *testing… put Me to the test* for the same root in 3:8–9; this project's Matthew 4:1 and 1 Corinthians 10:13 have *tested*. Proposed: *Because He Himself suffered when He was tested, He is able to help those who are being tested.*
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
+### 106. Exodus 25–29 notes: claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-16)
+*Asked by Bible 3, 12 AM CST, 2026-11-17. Exodus is closed; none of these is provably wrong from the printed source, so the text is left alone and they are raised here. Bible 2 to trim any it agrees with.*
+
+- **Exodus 26:15** "Acacia… is the toughest thing that grows where these people are": a statement about the tree, not about anything printed.
+- **Exodus 27:18** "The phrase does not fit the measurements above it, and the Hebrew as it stands cannot be made to." The Hebrew says *fifty by fifty* and the note cannot show that no reading fits (readers have taken it as fifty at each end). Proposed: say only that the phrase repeats the width already given.
+- **Exodus 27:20** "crushed rather than pressed… the first and cleanest oil and very little of it… the most wasteful grade available": the yield of beaten olives is not in the source. Proposed: keep *zakh katit*, clear oil of beaten olives, and cut the yield claim.
+- **Exodus 29:1** "the animal sense is the concrete one the others are built on": the source shows the word used of animals, a man and a board, but not which use came first. Proposed: drop that clause.
+- **Exodus 25:17** "English 'mercy seat' comes down from Tyndale and is a translation of Luther's *Gnadenstuhl*": true as history but outside the printed text. Proposed: leave, or cut to "English 'mercy seat' is not a translation of the Hebrew, which says only *cover*."
 
 ### 105. Exodus 4:3 and 6:6 notes: claims from outside the printed text (from Bible 3's fidelity check, 2026-11-16)
 *Asked by Bible 3, 6 AM CST, 2026-11-16. Exodus is closed; this is a note claim the printed source neither supports nor contradicts, so it is raised here and the text is left alone.*

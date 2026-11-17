@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity check against the Hebrew, Exodus 26–30 (Bible 3, 2026-11-17, 12 AM CST)
+
+**Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 26–30 read verse by verse beside the Hebrew (and the Greek and the repo's 1 Kings where a note quotes them). Every verse matches the Hebrew; no verse changed. One note quotation was corrected. Five doubtful note claims that the printed source cannot show are raised in COUNCIL.md item 106 and left alone.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 27, note v2 | *he rose and went and took hold of the horns of the altar* (1 Kings 1:50) | *he got up and went and took hold of the horns of the altar* (1 Kings 1:50), as 1 Kings 1:50 reads in this text |
+
+**Choices for you:** none new.
+
 ## Fidelity check against the Hebrew, Exodus 21–25 (Bible 3, 2026-11-16, 8 PM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Exodus 21–25 read verse by verse beside the Hebrew (and the Greek where a note cites it). Every verse matches the Hebrew (22 and 25 are one verse off in the Hebrew numbering, already noted at 22:1). Three note claims did not match the printed text and were corrected; no verse changed.
