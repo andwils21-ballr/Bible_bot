@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Notes fact check: written and read forms; the Greek Old Testament in the New (Andrew, 8:27 PM CST, 2026-11-16)
+
+**Request:** Andrew: make another run of the fact check. This run read every note on the Hebrew's written and read forms against the Hebrew, and every place a New Testament note cites the Greek Old Testament against that Greek. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Acts 5, note on *ekklēsia* | Deuteronomy 9:10, in the Greek, *tēs ekklēsias* | *hēmera ekklēsias*, as the Greek has it |
+
+**Choices for you:** none new.
+
 ## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
 
 **Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.

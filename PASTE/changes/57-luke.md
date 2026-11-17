@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Notes fact check: written and read forms; the Greek Old Testament in the New (Andrew, 8:27 PM CST, 2026-11-16)
+
+**Request:** Andrew: make another run of the fact check. This run read every note on the Hebrew's written and read forms against the Hebrew, and every place a New Testament note cites the Greek Old Testament against that Greek. No verse was changed.
+
+| Where | Before | After |
+|---|---|---|
+| Luke 3, note on Isaiah 40 | *all flesh shall see*, the Greek of *all flesh shall see it together*, where the Hebrew has *the glory of the LORD shall be revealed* | *all flesh shall see the salvation of God* is the Greek; the Hebrew has *all flesh shall see it together* |
+
+**Choices for you:** none new.
+
 ## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

@@ -9,10 +9,11 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Where | Before | After |
 |---|---|---|
 | Psalm 11:6 | On the wicked He will rain coals, / fire and sulfur and a scorching wind | On the wicked He will rain snares; / fire and sulfur and a scorching wind |
+| Psalm 11:6 (decided 2026-11-17) | He will rain snares; / fire and sulfur and a scorching wind | He will rain coals of fire and sulfur, / and a scorching wind |
 | Psalm 11, note on v6 | said the text followed the Greek in reading *coals* | the Greek has *snares* (*pagidas*), as the Hebrew does; *coals* is given as the other reading |
 
 **Choices for you:**
-- **11:6, *pachim***
+- ✅ Decided 2026-11-17: (b), **coals**. **11:6, *pachim***
   - (a) **He will rain snares; fire and sulfur** (now): the Hebrew as written, and the Greek agrees.
   - (b) **He will rain coals of fire and sulfur**: one vowel changed, *pachamei*; no text held here reads it, though many English Bibles do. It gives the fire of Sodom in one line.
   - Recommend (a): the note that sent the verse to *coals* rested on the Greek, and the Greek says *snares*.
