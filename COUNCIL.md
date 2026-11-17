@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through Malachi (items 108 to 111), next **Mark** (56-mark.md; Matthew has no open choices); C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: DONE 2026-11-17 (items 108 to 112): of 388 open choices, 76 are Andrew's and 312 are settled for Bible 2 to move to `PASTE/decided/` and apply; C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -209,6 +209,34 @@ entry.
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
 
+### 112. Queue sort, Mark to 1 Peter (Bible 3, job B of item 104, 2026-11-17)
+*Asked by Bible 3, 6 AM CST, 2026-11-17. Same method as items 108 to 111; this finishes the sort of `PASTE/renders/`. Matthew, James, 3 Meqabyan, Judith, Proverbs, Reproof, 2 Thessalonians, Joshua and books 82–89 have no open choices. One correction to item 109: Tobit's *eleēmosynē* is a book's mark, which the spec says is Andrew's ruling, so it stays with him (Tobit 1).*
+
+**Digest for Andrew (choices that are yours):** Mark 3 · Luke 4 · John 4 · Acts 1 · Romans 6 · 1 Corinthians 5 · 2 Corinthians 1 · Galatians 1 · Ephesians 0 · Philippians 0 · Colossians 0 · 1 Thessalonians 0 · 1 Timothy 1 · 2 Timothy 1 · Titus 1 · Philemon 0 · Hebrews 1 · 1 Peter 1. That is 30 in these books; 71 are settled below.
+
+**Yours (they stay in the renders files):**
+- Mark: 15:39 (*the Son of God* or *a son of God*); 4:12 (*so that they may look and look, and not see*, purpose or result); *euthys* kept as *at once* every time (a book's mark).
+- Luke: 1:35 (*will be called holy, the Son of God*, or *the holy child will be called the Son of God*); 2:49 (*in My Father's house* or *about My Father's business*); 7:47 (*for she loved much* or *because she loved much*); 17:21 (*in your midst* or *within you*).
+- John: 1:3–4 (where the sentence breaks); 1:18 (*the only Son, who is God* or *the only God*); 3:3, 7 (*born from above* or *born again*); 7:37–38 (the rivers flow from the believer or from Christ).
+- Acts 20:28 (*His own blood* or *the blood of His own*).
+- Romans: 9:5 (the Messiah *who is God over all*); 1:4 (*appointed* or *declared* Son of God); 1:17 (*live by faith* or *righteous by faith*; decide it with Habakkuk 2:4); 3:25 (*atonement cover*, *propitiation* or *sacrifice of atonement*); 5:12 (*because all sinned* or *in whom all sinned*); 8:28 (*all things work together* or *He works in all things*).
+- 1 Corinthians: 15:45 (*spirit* or *Spirit*); 11:10 (*authority over her head* or *a sign of authority*); 6:9 (*malakoi*); 7:21 (*take the opportunity* or *make the most of your present state*); 7:36–38 (a father and his daughter, or a man and his fiancée).
+- 2 Corinthians 5:21 (*to be sin* or *a sin offering*). Galatians 6:16 (*and upon the Israel of God*, a second people or the same). 1 Timothy 2:12 (*authentein*: *have authority over* or *domineer*). 2 Timothy 3:16 (*All Scripture is breathed out by God*, or *every Scripture breathed out by God is also useful*). Titus 2:13 (*our great God and Savior Jesus Christ*, one person or two). Hebrews 1:8 (*Your throne, O God*; decide it with Psalm 45:6–7). 1 Peter 3:18 (*in the spirit* or *by the Spirit*).
+
+**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
+- Mark: the passages the edition sets in double brackets **(a) render in place, under their own headings, with a note**. 13:14 **(a) it**. 7:19 **(a) So He declared all foods clean**. 3:21 **(a) they were saying**. 2:15 **(a) his house**. 2:26 **(a) in the time of Abiathar**.
+- Luke: 19:8 **(a)** (the present tense kept, both readings open). 22:19b–20 **(a)** in the text, with a note. 17:37 **(a) vultures**. 11:8 **(a) shamelessness**. 14:26 **(a) hate**, with the note. 9:31 **(b) His exodus**, the word kept (Moses is in the scene). 6:35 **(a) expecting nothing in return**.
+- John: 7:53–8:11 the woman caught in adultery: render John 8 now from v12 with a note that the edition leaves out 7:53–8:11; when Bible 2 adds a licensed Greek text of the passage to `sources/`, render it in place under its own heading, as in Mark 16 (Bible 2 also lets the checker accept a chapter that begins at 12). 1:5 **(a) has not overcome**. 1:9 **(a) was coming into the world**. 3:16 **(a) so loved**. 5:39 **(a) You search**. *paraklētos* **(a) Advocate** (Bible 2 makes Didascalia 1:1 match). 14:2 **(a)**. 17:15 **(a) the evil one**. 20:17 **(a) Do not hold on to Me**. 21:15–17 **(a) love**, both verbs.
+- Acts: 26:28 **(a) in a short time**. 19:21, 20:22 **(a) in the Spirit**. 17:22 **(a) very religious**. 18:24 **(a) an eloquent man**. *pais* **(a) servant**. 1:4 **(a) eating with them**.
+- Romans: 16:1 **(a) a servant of the church**. 16:7 **(a) outstanding among the apostles**. 16:25–27 **(a) end at 16:24 for now**; add the doxology when a witness (the Ethiopic) is added to `sources/`. 14:20 **(a)**. 10:4 **(a) the end**. 11:26 **(a) In this way**. 12:1 **(a) reasonable worship**. 8:3 **(a) an offering for sin**. 8:20 **(a) Him who subjected it**. 8:29–30 **(a) appointed beforehand**. 2:14 **(a) by birth**. 4:17 **(a) calls into being**.
+- 1 Corinthians: 12:31 **(a)**. 6:4 **(a)**. 7:1 **(a) a saying from the Corinthians' letter**. 2:13 **(a) spiritual things in spiritual words**.
+- 2 Corinthians: 10:7 **(a)**. 12:7 **(a) an angel of Satan**. 12:18 **(a) the same Spirit**. 5:17 **(a) there is a new creation**. 3:18 **(a) beholding**.
+- Galatians: 3:4 **(a) suffer**. 3:15 **(a) covenant**. 3:24 **(a) until Christ came**.
+- Ephesians: 4:9 **(a)**. 5:33 **(a) respects**. 1:10 **(a) to sum up**. 1:11 **(a) made His portion**. Philippians: 2:5, 2:6, 2:7 **(a)** each as now. Colossians 1:19 **(a)**. 1 Thessalonians: 2:14–15 **(a) the Jews**; 4:4 **(a)**.
+- 1 Timothy 3:11 **(a) Women likewise**. 2 Timothy 1:12 **(a)**. Philemon v9 **(a) an old man**.
+- Hebrews: 2:7, 9 **(a) for a little while lower**. 2:9 **(a) apart from God**, the edition's text, with the note. 1:6 **(b) when He again brings the firstborn into the world**. 1:7 **(b) He makes His angels spirits** (Bible 2 changes the text, the note keeps *winds*).
+- 1 Peter 2:2 **(a) the pure milk of the word**.
+
 ### 111. Queue sort, Ezekiel to Malachi (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 6 AM CST, 2026-11-17. Same method and instructions to Bible 2 as items 108 to 110. Mark onward (the New Testament) is still to sort. Where a choice decides whether a passage speaks of God or of Jesus, or how a New Testament quotation reads, it is left to Andrew even when the context favors one side.*
 
@@ -258,7 +286,7 @@ entry.
 ### 109. Queue sort, Jubilees to Song of Songs (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 4 AM CST, 2026-11-17. Same method and same instructions to Bible 2 as item 108. Wisdom of Solomon onward is still to sort.*
 
-**Digest for Andrew (choices that are yours):** Jubilees 0 · 1 Enoch 2 · Ezra 0 · Nehemiah 0 · Tobit 0 · Esther 1 · 1 Meqabyan 0 · 2 Meqabyan 0 · Job 5 · Psalms 6 · Ecclesiastes 0 · Song of Songs 1. That is 15 in these books; 66 are settled below.
+**Digest for Andrew (choices that are yours):** Jubilees 0 · 1 Enoch 2 · Ezra 0 · Nehemiah 0 · Tobit 1 · Esther 1 · 1 Meqabyan 0 · 2 Meqabyan 0 · Job 5 · Psalms 6 · Ecclesiastes 0 · Song of Songs 1. That is 16 in these books; 65 are settled below (Tobit corrected by item 112: a book's mark is Andrew's ruling).
 
 **Yours (they stay in the renders files):**
 - 1 Enoch 71:14, *the Son of Man* or *the son of man* (Enoch himself addressed or the title), and 105:2, *My Son* or *my son*.
@@ -266,6 +294,7 @@ entry.
 - Job 42:6 (*despise… repent* or *am comforted*); 42:7–8 (*elai*, spoken *of Me* or *to Me*); 13:15 (the read form, *I will hope in Him*, or the written form, *I have no hope*); 19:25 (*my Redeemer* with a capital or not); 1:6 *ha-satan* (Satan or the accuser; decide together with 1 Chronicles 21:1).
 - Psalms: 23:6 (*I will dwell* or *I will return*); 8:5 (*than God* or *than the angels*); 2:12 (*Kiss the son*, or *take hold of instruction*); and one policy choice with three verses: whether the psalms the New Testament applies to Jesus take capital pronouns (45:6–7, 8:4–6, Psalm 2). Now they are lowercase.
 - Song of Songs 8:6, *shalhevetyah* (the flame of Yah, or a mighty flame).
+- Tobit, *eleēmosynē*, *charity* kept every time as the book's mark (the spec says each mark is Andrew's ruling; Bible Main recommends keeping it).
 
 **Rulings that govern the settled list below:** (1) Where a book's own base text has a reading that the English Bibles or the other witness differ from, the base text stands with the other reading in the note unless the context is checkable (witness rule 4); the one-letter slips in the Meqabyan books and the Astronomical Book are corrected only where the chapter's own sense or sums require it, with a note. (2) Ge'ez words and names with no secure meaning stay as Ge'ez words in italics, with a note; nothing is guessed into the text. A name with a received English form (a river, a country) takes that form (spec, Names). (3) No note argues with the book's history or geography; a note earns its place only under CLAUDE.md §3. (4) *torah* is **instruction** in every book (the practice since 2026-10-01). (5) A written form that the read form and the Greek both leave, where the Greek has the fixed phrase, follows the Greek (witness rule 2).
 
@@ -274,7 +303,6 @@ entry.
 - 1 Enoch: 90:38 **(a) a word**, the EOTC, with both in the note. The arithmetic cases (72:25, 26, 28; 78:7; 87:2; 90:1; Jubilees 5:22 and 14–48) **(a) follow the arithmetic**, the EOTC reading in the note. 62:5 **(a) Son of a woman**, with the note (*bəʾəsit* is the word of v4). 57:1 **(a) until midday**. 51:4 **(a) the EOTC's verse division**, Knibb's in the note.
 - Ezra: 5:4 **(a) we told them**. 8:5, 8:10 **(a) the Hebrew**, 1 Esdras in the note. 1:9 **(a) censers**.
 - Nehemiah: 7:68 **(a) the number kept and the line left out**.
-- Tobit: *eleēmosynē* **(a) charity**, kept as the book's mark.
 - Esther: 11–16 **(a) render from Swete's Greek** (`sources/greek/` holds all six additions, so there is a source to print, and CLAUDE.md §6 only forbids inventing one). Bible 2: change the spec's tier line for Esther 11–16 (spec line about *english-only*) from `english-only` to the Greek tier, and tell Bible Main it is released. The Greek prayer and song in Daniel 3 is the same question, to be settled the same way when the Daniel sort comes.
 - 1 Meqabyan: 36:3 and 36:29 **(a)** as now (no history note; the gods' names kept in Ge'ez). 30:5 **(a) I taught them**. 30:14, 25:5, 25:13, 21:2, 17:3, 17:5, 19:3, 13:3, 16:4, 16:6, 15:8, 9:3, 9:5, 6:3, 6:7, 8:34, 3:35 **(a) as now** (Ge'ez words and names kept in italics with a note; spelled from the Ge'ez where there is no received form). 27:3, 27:10 **(a) upper, waters**, noted. 21:30 **(a) who did not transgress**. 17:6 **(a) not provoking a brother**. 14:2 **(a) four**. 11:1 **(a) Hermon**. 6:2 **(a) Ezekiel**, as the Ge'ez has it, with the note. 3:1 **(a) Abya, Sila and Fentos**.
 - 2 Meqabyan: 21:10, 21:22, 15:4, 15:20, 10:23, 11:12–13, 4:19, 5:10 **(a) as now** (Ge'ez words and names kept). 11:19 **(a)** no note. 5:6 **(a) they eat**. 8:9 **(b) Tekezé**, the river's received English name, with the book's *Takkaze* in the note (Bible 2 changes the text). 1:1 **(a) Meqabis**. 4:1 **(a) Hoshea**.
