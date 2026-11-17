@@ -104,7 +104,7 @@ entry.
 
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
-- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through Song of Songs (items 108, 109), next **Wisdom of Solomon** (32-wisdom-of-solomon.md); C. clear Open.
+- **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: sorted through 4 Baruch (items 108, 109, 110), next **Ezekiel** (40-ezekiel.md); C. clear Open.
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -208,6 +208,26 @@ entry.
 - **Hebrews 2:18** `πειρασθείς… πειραζομένοις`: *tempted*, beside *testing… put Me to the test* for the same root in 3:8–9; this project's Matthew 4:1 and 1 Corinthians 10:13 have *tested*. Proposed: *Because He Himself suffered when He was tested, He is able to help those who are being tested.*
 - **Philemon 6, 17** `κοινωνία… κοινωνόν`: *sharing… partner*; the appeal of v17 rests on the word of v6. Proposed: *the partnership of your faith* (v6).
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
+### 110. Queue sort, Wisdom of Solomon to 4 Baruch (Bible 3, job B of item 104, 2026-11-17)
+*Asked by Bible 3, 5 AM CST, 2026-11-17. Same method and instructions to Bible 2 as items 108 and 109. Ezekiel onward is still to sort.*
+
+**Digest for Andrew (choices that are yours):** Wisdom of Solomon 1 · Sirach 1 · Isaiah 5 · Jeremiah 1 · Lamentations 0 · Baruch 1 · Letter of Jeremiah 0 · 4 Baruch 0. That is 9 in these books; 58 are settled below.
+
+**Yours (they stay in the renders files):**
+- Wisdom 18:15–16, *logos* as the warrior of the Passover night: *it*, *He* or *he*.
+- Sirach 21:27, *ton satanan*, the adversary or Satan: decide it together with Job 1:6 and 1 Chronicles 21:1 (one choice for the word *satan*, with Wisdom 2:24 *diabolos* following it).
+- Isaiah 7:14 (*the virgin* or *the young woman*); 45:7 (*create disaster* or *create evil*); 32:2 (*each* or *a man*); 34:16 (*My mouth* or *my mouth*); 1:18 (a promise or a challenge).
+- Jeremiah 31:32 (*though I was their husband* or *I disregarded them*, the verse Hebrews 8:9 quotes).
+- Baruch 3:38 (*she appeared on earth* or *He appeared on earth*).
+
+**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
+- Wisdom of Solomon: 14:12 **(b) sexual immorality** (the New Testament here uses it twenty times and *fornication* never). 14:26 **(a) exchange of nature**. 11:20 **(a) breath**, lowercase. *pais* **(a) each by its context**. 6:9, 6:21, 8:15 **(a) monarchs**. 7:22 **(a) unique**. 1:5 **(a) spirit**, lowercase. 2:24 **(a) the devil**.
+- Sirach: the copying slips in Swete's Greek (43:23, 48:17, 43:26, 43:8) **(a) keep as printed, with notes**; if a licensed second witness is ever added to `sources/`, rule 2 applies then, so nothing is lost. 48:17 and 43:23 **(a)**. 24:23 **(b) the instruction**, as Deuteronomy 33:4 (ruling 4 of item 109). The translator's foreword **(a) render it above 1:1, unnumbered**. Verses with no Greek **(a) numbered placeholders**.
+- Isaiah: 40:7 **(a) the Spirit of the LORD**. 33:17 **(a) the King in His beauty**. 34:14 **(a) Lilith**. 30:20 **(a) your Teacher**. 19:18 **(a) the City of Destruction**. 14:4 **(a) the taskmaster**. 14:12 **(a) Day Star**. 16:3–4 **(a) outcasts of Moab as guests**. 17:9 **(a) the woods and the hilltops**. 18:7 **(a) the people as the gift**. 10:27 **(a) because of fatness**. 10:34 **(a) by the Majestic One**. 4:2 **(a) branch**, lowercase.
+- Jeremiah: 51:1 **(a) Leb-kamai**. 46:15 **(a)**. 48:9 **(a) wings**. 49:1, 3 **(a) Milcom**. 41:9 **(a)**. 42:20 **(a) at the cost of your lives**. 43:12 **(a) wrap**. 38:23 **(a)**. 40:5 **(a)**. 34:18 **(a)**. 29:8 **(a)**. 32:39 **(a) one heart**. 25:34 **(a) a precious jar**. 25:38 **(a) the oppressing sword**. 28:13 **(a) you have made**. 9:25 **(a) in the flesh alone**. 10:5 **(a) a scarecrow**. 6:2 **(a)**. 3:1 **(a) a question**. And two where the recommendation was (b), now ruled **(b)**: 8:13 **(b) when I would gather them in, there are no grapes** and 2:20 **(b) you broke your yoke… "I will not serve"** (Bible 2 changes the text and notes).
+- Lamentations: 1:8, 3:22, 3:36, 4:7, 5:22 **(a)** each as now.
+- Baruch: 2:25 **(a) by pestilence**. Letter of Jeremiah v48 **(a)**. 4 Baruch 6:16 **(a)** and 3:11 **(a) the gathering of the beloved**.
 
 ### 109. Queue sort, Jubilees to Song of Songs (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 4 AM CST, 2026-11-17. Same method and same instructions to Bible 2 as item 108. Wisdom of Solomon onward is still to sort.*
