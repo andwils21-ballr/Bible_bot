@@ -24,14 +24,11 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 2 | *en hagiasmō pneumatos* "in sanctification of Spirit" | by the Spirit who makes you holy |
 | 3 | *anagennēsas hēmas* "having begotten us again" | has caused us to be born again |
 | 6 | *ei deon* "if it is necessary" | if need be |
-| 11 | *eis tina ē poion kairon* "into what or what kind of time" | what time, or what kind of time (choice below) |
+| 11 | *eis tina ē poion kairon* "into what or what kind of time" | what time, or what kind of time (decided, see `PASTE/decided/75-1-peter.md`) |
 | 13 | *anazōsamenoi tas osphyas tēs dianoias hymōn* "having girded up the loins of your mind" | prepare your minds for action (note) |
 | 14 | *mē syschēmatizomenoi* "not being shaped together with" | do not be shaped by |
 | 17 | *ton tēs paroikias hymōn chronon* "the time of your guest-dwelling" | the time you live here as guests |
 | 18 | *patroparadotou* "father-handed-down" | handed down from your fathers |
 
-**Choices for you:**
-- **1:11, *eis tina ē poion kairon***
-  - (a) **what time, or what kind of time** (now): *tina* goes with *kairon*, and the prophets asked when it would be and what the time would be like.
-  - (b) **what person or what time**: *tina* stands alone, **whom**; the prophets asked who the Christ would be, and when.
-  - Recommend (a): the two words are joined by *or* before one noun, and v10 says what they searched for, *this salvation*.
+**Choices for you:** all decided; moved to `PASTE/decided/75-1-peter.md`.
+
