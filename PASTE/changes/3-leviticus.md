@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit against the Hebrew, Leviticus 21–27 (Bible 3, 2026-11-18, 9:55 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 21–27 read verse by verse beside the Hebrew (ketiv/qere, hapax counts, the seven *qeri*, the five written-and-read words and the Hebrew words *tevallul*, *sarua* and *yabbelet* all counted in the Hebrew sources), with quotations checked against the repo's own Genesis, Numbers, 2 Chronicles, Deuteronomy, Isaiah, Luke, Joshua and Acts. Every verse matches the Hebrew; no verse changed. This finishes the audit of Leviticus. One quotation was corrected, and three note claims about the Greek of Leviticus (not held in `sources/`) are raised in COUNCIL.md item 113.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 25, note v25 | *I know that my **redeemer** lives* (Job 19:25) | *I know that my **Redeemer** lives* (Job 19:25), as the verse reads in this text |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, Leviticus 11–20 (Bible 3, 2026-11-18, 8:50 to 9:30 AM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 11–20 read verse by verse beside the Hebrew, with every note count and quotation checked by script against the Hebrew sources (the bird names, *qadosh ani*, *azazel*, *ishah el achotah*, the ketiv/qere words, *va-yiddom*) and against the repo's own Luke, Mark, Genesis, Ezekiel and Isaiah. Every verse matches the Hebrew; no verse changed. One note count did not match the printed text and was corrected.

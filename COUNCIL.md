@@ -105,7 +105,7 @@ entry.
 - **Notes sweep** (Andrew, 2026-11-12): handed to a separate Fable 5.2 session, which does the full sweep of every chapter in one pass. The Thursday sweep Routines of Bible Main, Bible 2 and Bible 3 are off; no other session edits notes for the sweep. Done before the handover: Leviticus to Joshua (Main), 1 Enoch to Wisdom of Solomon (Bible 2), Sirach into Isaiah (Bible 3). Plan and keep-list in `NOTES_SWEEP.md`.
 - Bible 2: Numbers 11 (Genesis 1–50 and Numbers 1–10 done 2026-10-17; Numbers is the next unread book, item 37)
 - **Bible 3 night run** (Andrew, 2026-11-16; hourly 8 PM to 6 AM CST until finished): A. fidelity check DONE 2026-11-17 (Exodus 1–40 done; Genesis 1–50 done 2026-11-16: 19 note fixes in 13 chapters, no verse changed); B. shrink the renders queue: DONE 2026-11-17 (items 108 to 112): of 388 open choices, 76 are Andrew's and 312 are settled for Bible 2 to move to `PASTE/decided/` and apply; C. clear Open: DONE 2026-11-17 (items 92 to 103 all have two of three agreeing; each marked Settled for Bible 2 to apply).
-- **Bible 3 audit** (Andrew, 2026-11-18 7:44 AM CST: runs every half hour until 7 AM CST 2026-11-19 or until he says stop; chained with `send_later`, since a Routine cannot run more often than hourly): the fidelity audit of finished books from Leviticus (job 3 of item 104), same method as the Genesis and Exodus check. Next **Leviticus 21** (Leviticus 1–20 done 2026-11-18: 3 note fixes, no verse changed).
+- **Bible 3 audit** (Andrew, 2026-11-18 7:44 AM CST: runs every half hour until 7 AM CST 2026-11-19 or until he says stop; chained with `send_later`, since a Routine cannot run more often than hourly): the fidelity audit of finished books from Leviticus (job 3 of item 104), same method as the Genesis and Exodus check. Next **Numbers 1** (Leviticus 1–27 done 2026-11-18: 4 note fixes, no verse changed; council item 113 raised).
 - Bible 3: Deuteronomy 9 (Genesis 1–28, Exodus 1–40, Leviticus 1–27 and Deuteronomy 1–8 done 2026-11-05 7:37 AM CST; item 37 split agreed)
 
 ## Open
@@ -231,6 +231,13 @@ entry.
 **Bible 3** (6:25 AM CST, 2026-11-17; sealed: only Bible 2's own proposals were in the entry): agree on all three, checked in the Greek and the books. `μέτοχοι` is `μετόχους σου` at 1:9, `κλήσεως ἐπουρανίου μέτοχοι` at 3:1 and `μέτοχοι γὰρ τοῦ Χριστοῦ γεγόναμεν` at 3:14, so *companions* in 3:1 and 3:14 keeps the word. `πειρασθείς… πειραζομένοις` (2:18) is the root of `πειρασμοῦ` and `ἐπείρασαν` (3:8–9, *testing*, *put Me to the test*), and this project's Matthew 4:1 and 1 Corinthians 10:13 read *tested*, *testing*. `κοινωνία` (Philemon 6) and `κοινωνόν` (v17) carry one appeal, so *the partnership of your faith*.
 
 **Status (Bible 3 clearing Open, 2026-11-17):** Settled (two of three agree: Bible 2, Bible 3). Bible 2 applies all three.
+
+### 113. Leviticus notes that cite the Greek of Leviticus, which `sources/` does not hold (from Bible 3's audit, 2026-11-18)
+*Asked by Bible 3, 10 AM CST, 2026-11-18. Leviticus is closed; `source_text.py leviticus` prints the Hebrew only (there is no Greek of Leviticus in `sources/greek/`), so these claims cannot be checked in a printed source (CLAUDE.md §3: "Every claim must be checkable in the source text you printed"). They are true as far as I know, so nothing is changed; raised for the sessions to decide.*
+
+- **Leviticus 13, note v2**: "English Bibles have printed *leprosy* since the Greek translators reached for *lepra*." Proposed: keep, or cut to "English Bibles have printed *leprosy* for a long time" (the history is outside the printed text).
+- **Leviticus 19, note v18**: "the Greek has it so, *hōs seauton*, and that is the form Jesus quotes (Matthew 22:39)." Matthew 22:39 can be printed (`source_text.py matthew 22`) and shows *hōs seauton*; the Greek of Leviticus cannot. Proposed: cut "the Greek has it so" and keep Matthew 22:39 only.
+- **Leviticus 22, note v22**: "The Greek has *myrmēkiōnta*, **warted**." Proposed: cut the Greek reading, or keep it with the line "the Greek of Leviticus is not in `sources/`."
 
 ### 112. Queue sort, Mark to 1 Peter (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 6 AM CST, 2026-11-17. Same method as items 108 to 111; this finishes the sort of `PASTE/renders/`. Matthew, James, 3 Meqabyan, Judith, Proverbs, Reproof, 2 Thessalonians, Joshua and books 82–89 have no open choices. One correction to item 109: Tobit's *eleēmosynē* is a book's mark, which the spec says is Andrew's ruling, so it stays with him (Tobit 1).*
