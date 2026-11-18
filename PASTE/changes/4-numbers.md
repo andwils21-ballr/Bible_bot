@@ -4,6 +4,21 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 
 
+
+## Fidelity audit against the Hebrew, Numbers 21–26 (Bible 3, 2026-11-18, 12:42 to 1:15 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 21–26 read verse by verse beside the Hebrew (English 25 ends at 18 verses because Hebrew 25:19 is English 26:1), the two census totals added up (601,730 in 26:51 and 23,000 Levites), the ketiv/qere and dotted words in 21:30, 32 checked in the Hebrew, and every quotation of another book in the notes compared word for word with this text of that verse (a script lists each italic quotation beside the verse). Every verse matches the Hebrew; no verse changed. Five note quotations did not match this text and were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 21, note vv8–9 | *as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up* (John 3:14) | *As Moses lifted up the serpent in the wilderness, so the Son of Man must be lifted up* (John 3:14) |
+| Numbers 23, note v9 | *Israel lives in safety, alone* (Deuteronomy 33:28) | *Israel dwells in safety, the fountain of Jacob alone* (Deuteronomy 33:28) |
+| Numbers 24, note v17 | *fire… consumed the brow of Moab, the crown of the sons of tumult* (Jeremiah 48:45) | *it has devoured the brow of Moab, the crown of the sons of tumult* (Jeremiah 48:45) |
+| Numbers 25, note v9 | *twenty-three thousand fell in one day* (1 Corinthians 10:8) | *twenty-three thousand fell in a single day* (1 Corinthians 10:8) |
+| Numbers 25, note v12 | *My covenant was with him, life and peace* (Malachi 2:5) | *My covenant with him was life and peace* (Malachi 2:5) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew and Swete's Greek, Numbers 11–20 (Bible 3, 2026-11-18, 11:34 AM to 12:20 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 11–20 read verse by verse beside the Hebrew (English 16:36–50 is Hebrew 17:1–15, and English 17 is Hebrew 17:16–28, as the notes say), with the Greek readings in the notes checked in Swete (*they added no more* in 11:25, *Aithiopissa* in 12:1, *doxa* in 12:8, 6,050 and the ages already checked in 1–10), the counts checked (eleven Psalms titled *of the sons of Korah*, the 5-times and 12-times counts) and every quotation of another book checked against this text. Every verse matches the Hebrew; no verse changed. Three note quotations did not match this text and were corrected.
