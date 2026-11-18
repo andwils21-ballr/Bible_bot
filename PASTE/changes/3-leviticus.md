@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit against the Hebrew, Leviticus 6–10 (Bible 3, 2026-11-18, 8 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 6–10 read verse by verse beside the Hebrew (English 6:1–7 is Hebrew 5:20–26, and English 6:8–30 is Hebrew 6:1–23, as the first note of chapter 6 says), with every note count and quotation checked. Every verse matches the Hebrew; no verse changed. Two note claims did not match the printed text and were corrected. (Leviticus 1–5 were read the same way with no errors.)
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 7, note v18 | where Abraham's trust *was credited to him as righteousness* | where Abraham trusted the LORD and *He reckoned it to him as righteousness* (as Genesis 15:6 reads in this text) |
+| Leviticus 10, note v3 | This exact form occurs three times in the Bible, and one of the others is Joshua 10:13, *and the sun stood still*. | This exact form occurs twice in the Bible, and the other is Joshua 10:13, *the sun stood still*. (*va-yiddom* with these vowels stands at Leviticus 10:3 and Joshua 10:13 only; Lamentations 3:28 has *ve-yiddom*.) |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
