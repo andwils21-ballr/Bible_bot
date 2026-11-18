@@ -1,6 +1,6 @@
 # Progress
 
-**1509 of 1989 chapters rendered (75.9%).**
+**1513 of 1989 chapters rendered (76.1%).**
 
 Next up: **Esther 11**
 
@@ -82,7 +82,7 @@ Next up: **Esther 11**
 | 74 | James | source | done |
 | 75 | 1 Peter | source | done |
 | 76 | 2 Peter | source | done |
-| 77 | 1 John | source | 1/5 |
+| 77 | 1 John | source | done |
 | 78 | 2 John | source | 0/1 |
 | 79 | 3 John | source | 0/1 |
 | 80 | Jude | source | 0/1 |
