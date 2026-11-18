@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+
+## Fidelity audit against the Hebrew, Deuteronomy 1–22 (Bible 3, 2026-11-18, 2:20 to 4:00 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Deuteronomy 1–22 read verse by verse beside the Hebrew (English 12:32 is Hebrew 13:1, English 13 is Hebrew 13:2–19, and so on, as the notes say), the counts in the notes checked in the Hebrew (*u-vi'arta ha-ra* nine times from 13:6 to 24:7, *the place the LORD will choose* in the six verses of chapter 12) and every quotation of another book compared word for word with this text of that verse. Every verse matches the Hebrew; no verse changed. Two note quotations did not match this text and were corrected. The slips already settled in COUNCIL.md items 95 and 100 were left for Bible 2 to apply.
+
+| Where | Before | After |
+|---|---|---|
+| Deuteronomy 17, note v14 | *set a king over us to judge us, like all the nations* (1 Samuel 8:5) | *appoint for us a king to judge us like all the nations* (1 Samuel 8:5) |
+| Deuteronomy 21, note v23 | *Cursed is everyone who hangs on a tree* (Galatians 3:13) | *Cursed is everyone who is hanged on a tree* (Galatians 3:13) |
+
+**Choices for you:** none new.
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
