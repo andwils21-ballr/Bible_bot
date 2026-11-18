@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit against the Hebrew, Leviticus 11–20 (Bible 3, 2026-11-18, 8:50 to 9:30 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 11–20 read verse by verse beside the Hebrew, with every note count and quotation checked by script against the Hebrew sources (the bird names, *qadosh ani*, *azazel*, *ishah el achotah*, the ketiv/qere words, *va-yiddom*) and against the repo's own Luke, Mark, Genesis, Ezekiel and Isaiah. Every verse matches the Hebrew; no verse changed. One note count did not match the printed text and was corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 18, note v6 | and the phrase runs through the chapter twenty-four times. | and the word *ervah* comes twenty-four times in this chapter, seventeen of them with the verb *gallot*, to uncover. (Counted in the Hebrew of 18:6–19.) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, Leviticus 6–10 (Bible 3, 2026-11-18, 8 AM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 6–10 read verse by verse beside the Hebrew (English 6:1–7 is Hebrew 5:20–26, and English 6:8–30 is Hebrew 6:1–23, as the first note of chapter 6 says), with every note count and quotation checked. Every verse matches the Hebrew; no verse changed. Two note claims did not match the printed text and were corrected. (Leviticus 1–5 were read the same way with no errors.)
