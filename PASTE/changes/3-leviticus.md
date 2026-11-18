@@ -4,7 +4,7 @@ Changes to chapters already rendered, filed under the book the request started i
 
 ## Fidelity audit against the Hebrew, Leviticus 21–27 (Bible 3, 2026-11-18, 9:55 AM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 21–27 read verse by verse beside the Hebrew (ketiv/qere, hapax counts, the seven *qeri*, the five written-and-read words and the Hebrew words *tevallul*, *sarua* and *yabbelet* all counted in the Hebrew sources), with quotations checked against the repo's own Genesis, Numbers, 2 Chronicles, Deuteronomy, Isaiah, Luke, Joshua and Acts. Every verse matches the Hebrew; no verse changed. This finishes the audit of Leviticus. One quotation was corrected, and three note claims about the Greek of Leviticus (not held in `sources/`) are raised in COUNCIL.md item 113.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 21–27 read verse by verse beside the Hebrew (ketiv/qere, hapax counts, the seven *qeri*, the five written-and-read words and the Hebrew words *tevallul*, *sarua* and *yabbelet* all counted in the Hebrew sources), with quotations checked against the repo's own Genesis, Numbers, 2 Chronicles, Deuteronomy, Isaiah, Luke, Joshua and Acts. Every verse matches the Hebrew; no verse changed. This finishes the audit of Leviticus. One quotation was corrected. Three note claims about the Greek of Leviticus (13:2 *lepra*, 19:18 *hōs seauton*, 22:22 *myrmēkiōnta*) were checked in `sources/swete-src/` (Swete's whole Septuagint, which `source_text.py` does not print for Leviticus) and are right.
 
 | Where | Before | After |
 |---|---|---|
