@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+
+## Fidelity audit against the Hebrew and Swete's Greek, Numbers 1–10 (Bible 3, 2026-11-18, 10:27 to 11:10 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 1–10 read verse by verse beside the Hebrew, with every census total and offering sum added up, the Greek readings of the notes checked in Swete (`sources/swete-src/`: *Raguel* in 1:14, 2:14, 7:42, 7:47, 10:20; 6,050 in 3:34; *twenty-five* in 4:3, 23, 30, 35, 39, 43, 47 and 8:24; the Greek's extra sentence in 4:14; the pressed grapes in 6:4) and the hapax and count claims checked in the Hebrew. Every verse matches the Hebrew; no verse changed. Two note slips were corrected. The quotation slips already settled in COUNCIL.md items 92 and 94 (Numbers 5, 7, 9, 10) were left for Bible 2 to apply.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 6, note vv24–26 | Every line opens with the name of the LORD. | Every line carries the name of the LORD as its second word, after the verb. (Hebrew: *yevarekhekha YHWH*, *ya'er YHWH*, *yissa YHWH*.) |
+| Numbers 7, note vv3, 9 | *the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded* (1 Chronicles 15:15) | *The sons of the Levites carried the ark of God on their shoulders with the poles on them, as Moses had commanded* (1 Chronicles 15:15), as it reads in this text |
+
+**Choices for you:** none new.
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
