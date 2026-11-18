@@ -1,8 +1,8 @@
 # Progress
 
-**1518 of 1989 chapters rendered (76.3%).**
+**1520 of 1989 chapters rendered (76.4%).**
 
-Next up: **Ezra Sutuel 5**
+Next up: **Ezra Sutuel 7**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Next up: **Ezra Sutuel 5**
 | 16 | 1 Enoch | witnesses | done |
 | 17 | Ezra | source | done |
 | 18 | Nehemiah | source | done |
-| 19 | Ezra Sutuel | witnesses | 4/16 |
+| 19 | Ezra Sutuel | witnesses | 6/16 |
 | 20 | Tobit | source | done |
 | 21 | Judith | source | done |
 | 22 | Esther | source | 10/16 |
