@@ -63,8 +63,8 @@ def _print_chapter(slug, book, chapter):
     # A book may survive in several witnesses (1 Enoch is extant in Greek,
     # Ge'ez, Qumran Aramaic and Latin). Print every one that has this chapter,
     # because the places they disagree are the point.
-    LANGS = ("hebrew", "greek", "aramaic", "ethiopic-eotc", "ethiopic-gff", "ethiopic",
-             "ethiopic-ocr", "syriac", "latin")
+    LANGS = ("hebrew", "greek", "greek-byzantine", "aramaic", "ethiopic-eotc", "ethiopic-gff",
+             "ethiopic", "ethiopic-ocr", "syriac", "latin")
     found = covered = False
     for lang in LANGS:
         path = os.path.join(ROOT, "sources", lang, lookup_slug + ".txt")
@@ -86,6 +86,9 @@ def _print_chapter(slug, book, chapter):
             continue
         note = (" (machine-read, not proofread: check names, numbers and the shape"
                 " of a passage only; never quote it — see SOURCES.md)") if lang == "ethiopic-ocr" else ""
+        if lang == "greek-byzantine":
+            note = (" (Robinson-Pierpont 2018, for a passage the SBLGNT does not print;"
+                    " render it under its own heading, with a note — see SOURCES.md)")
         print(f"# {label} — {lang} source{note}")
         for vs, text in sorted(rows, key=lambda r: _vkey(r[0])):
             print(f"{vs}\t{text}")

@@ -14,6 +14,14 @@ Public domain.
 `sources/greek/` holds the **SBL Greek New Testament**, from
 [morphgnt](https://github.com/morphgnt/sblgnt).
 
+`sources/greek-byzantine/john.txt` holds **John 7:53–8:11** only (the woman
+caught in adultery), which the SBLGNT does not print, from the **Robinson-Pierpont
+Byzantine Textform, 2018 edition**, released into the public domain
+([byztxt](https://github.com/byztxt/byzantine-majority-text),
+`csv-unicode/ccat/no-variants/JOH.csv`; the paragraph marks are dropped). Added
+at Andrew's word, 2026-11-17. It is rendered under its own heading with a note
+that the SBL edition leaves the passage out, as Mark 16's endings are.
+
 ## Swete's Septuagint (the deuterocanon)
 
 **H. B. Swete, THE OLD TESTAMENT IN GREEK ACCORDING TO THE SEPTUAGINT**

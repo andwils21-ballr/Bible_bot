@@ -2,6 +2,43 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## John 7:53 and John 8 — rendered 2026-11-17, 10:51 PM CST
+
+**Landed:** John 7:53 (added to chapter 7) and John 8, at Andrew's word to add the passage. **John is finished.** Progress 1,513 → **1,514 of 1,989 (76.1%)**.
+
+**Source:** 7:53–8:11 from the Robinson-Pierpont Byzantine Greek (2018, public domain), now in `sources/greek-byzantine/john.txt` and printed by `source_text.py` (see `SOURCES.md`); 8:12–59 from the SBLGNT, with each marked variant read against its printed text (8:14 *ē*, 16, 19, 20, 21, 23, 25, 26, 28, 29, 33, 35 *ho huios* with no *but*, 38 *para tou patros* with no *your*, 39, 41, 42, 44, 46, 48, 51, 52, 53, 54 *hēmōn*, 55, 58, 59 with no added *passing through their midst*).
+
+**Form kept:** no sentence starts with *And*. The passage stands under its own heading, *The Woman Caught in Adultery*, at the end of chapter 7 and the start of chapter 8, with a note that the SBL edition does not print it, as Mark 16's endings are set apart. *Martyria* is **witness**, as 5:31; *Amēn amēn*, **Truly, truly**; *egō eimi*, **I am He** (vv24, 28), as 13:19, and **I am** alone in v58; *kyrie* from the woman, **sir**, as 4:11 and 9:36; *menō*, **remain** (vv31, 35). Style rule 3: *beginning with the elders* (v9); *Why do I speak to you at all?* (v25), the edition's question, with the other reading in a note.
+
+**Echoes in the notes, checked against this project's English and the sources:** Leviticus 20:10; Deuteronomy 22:24; Isaiah 43:10 (and Greek); Exodus 3:14 (and Greek); John 13:19.
+
+**The checker** found 0 errors and 0 CHECKs (after one note was anchored to its verses).
+
+**What this chapter is:**
+- **7:53–8:11:** the woman caught in adultery: *Let the one of you who is without sin be the first to throw a stone at her… Neither do I condemn you. Go, and sin no more.*
+- **8:12–59:** *I am the light of the world*; the Father bears witness with the Son; *unless you believe that I am He*; *the truth will set you free*; the children of Abraham and of the devil; *before Abraham was, I am*.
+
+### John 8: Before Abraham Was, I Am
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 6 | *mē prospoioumenos* "not making as if" (Robinson-Pierpont) | taking no notice of them |
+| 9 | *apo tōn presbyterōn* "from the older ones" | beginning with the elders |
+| 11 | *kyrie* | sir |
+| 24, 28 | *egō eimi* "I am" | I am He (note) |
+| 25 | *tēn archēn ho ti kai lalō hymin* | Why do I speak to you at all? (note) |
+| 37 | *ou chōrei en hymin* "does not make room in you" | finds no place in you |
+| 38 | *para tou patros* "from the father" | from the father (note; choice below) |
+| 43 | *ou dynasthe akouein* "you cannot hear" | you cannot bear to hear |
+| 44 | *ek tōn idiōn lalei* "speaks from his own things" | speaks from his own nature |
+| 58 | *prin Abraam genesthai egō eimi* "before Abraham came to be, I am" | before Abraham was, I am (note) |
+
+**Choices for you:**
+- **8:38, *kai hymeis oun ha ēkousate para tou patros poieite***
+  - (a) **and you do what you have heard from the father** (now): *your father*, the devil, whom v44 names.
+  - (b) **so do what you have heard from the Father**: a command, God the Father, as Jesus has just spoken of *the Father*.
+  - Recommend (a): English must choose the capital; the verbs that follow (vv39–41, *you are doing the works of your father*) carry the same contrast, and the note gives (b).
+
 ## John 20–21 — rendered 2026-11-04, 11:42 PM CST
 
 **Source:** Greek (SBLGNT). The edition's readings are followed; it marks 20:31 *you may believe* as a place where manuscripts differ, and the note says so. **John is complete except chapter 8**, which is held (see the John 7, 9–11 report). The style is carried on from John 16–19.
@@ -311,11 +348,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 48 | *ton topon* "the place" | our place (note) |
 
 **Choices for you:**
-- **John 7:53–8:11, the woman caught in adultery** (John only, but it decides whether John 8 can be rendered)
-  - (a) **Add a Greek text of the passage to `sources/` and render it under its own heading, as Mark 16** (not now): the reader has the passage most church Bibles print, and a note says the SBL edition leaves it out. A session outside the render cycle would add the source (for example the Byzantine Greek text, which prints it) and note it in `SOURCES.md`.
-  - (b) **Leave it out, and let the checker accept a chapter that begins at 12** (not now): only the edition's text is rendered; John 8 begins at v12 with a note. This is a change to `check_chapters.py`, also outside a render cycle.
-  - (c) **Hold John 8** (now): it waits, rendered, until (a) or (b) is settled.
-  - Recommend (a): the passage is in the received text most readers know, it would be rendered from a printed Greek source and marked as such, and nothing would be invented.
 - **7:37–38, where the sentence breaks**
   - (a) **"If anyone is thirsty, let him come to Me and drink. Whoever believes in Me, as the Scripture has said, 'Out of his belly will flow rivers of living water'"** (now): the rivers flow from the believer.
   - (b) **"If anyone is thirsty, let him come to Me; and let him drink who believes in Me. As the Scripture has said, 'Out of His belly will flow rivers of living water'"**: the rivers flow from Christ, as water flowed from His side (19:34).
