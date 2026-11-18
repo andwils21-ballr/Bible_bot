@@ -3,6 +3,19 @@
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
 
+
+## Fidelity audit against the Hebrew and Swete's Greek, Numbers 11–20 (Bible 3, 2026-11-18, 11:34 AM to 12:20 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 11–20 read verse by verse beside the Hebrew (English 16:36–50 is Hebrew 17:1–15, and English 17 is Hebrew 17:16–28, as the notes say), with the Greek readings in the notes checked in Swete (*they added no more* in 11:25, *Aithiopissa* in 12:1, *doxa* in 12:8, 6,050 and the ages already checked in 1–10), the counts checked (eleven Psalms titled *of the sons of Korah*, the 5-times and 12-times counts) and every quotation of another book checked against this text. Every verse matches the Hebrew; no verse changed. Three note quotations did not match this text and were corrected.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 18, note v20 | *The LORD is my share and my cup* (Psalm 16:5) | *The LORD is my allotted portion and my cup* (Psalm 16:5, *menat chelqi*, the portion of my share) |
+| Numbers 19, note v9 | *the ashes of a heifer sprinkling those who are unclean* make them holy *for the cleansing of the flesh* (Hebrews 9:13) | *the ashes of a heifer sprinkled on those who have been defiled, make them holy for the cleansing of the flesh* (Hebrews 9:13), as it reads in this text |
+| Numbers 20, note v10 | *it went badly for Moses because of them, for they rebelled against his spirit, and he spoke rashly with his lips* (Psalm 106:32–33) | *it went badly with Moses because of them, for they rebelled against His Spirit, and he spoke rashly with his lips* (Psalm 106:32–33), as it reads in this text |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew and Swete's Greek, Numbers 1–10 (Bible 3, 2026-11-18, 10:27 to 11:10 AM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 1–10 read verse by verse beside the Hebrew, with every census total and offering sum added up, the Greek readings of the notes checked in Swete (`sources/swete-src/`: *Raguel* in 1:14, 2:14, 7:42, 7:47, 10:20; 6,050 in 3:34; *twenty-five* in 4:3, 23, 30, 35, 39, 43, 47 and 8:24; the Greek's extra sentence in 4:14; the pressed grapes in 6:4) and the hapax and count claims checked in the Hebrew. Every verse matches the Hebrew; no verse changed. Two note slips were corrected. The quotation slips already settled in COUNCIL.md items 92 and 94 (Numbers 5, 7, 9, 10) were left for Bible 2 to apply.
