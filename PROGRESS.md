@@ -2,7 +2,7 @@
 
 **1514 of 1989 chapters rendered (76.1%).**
 
-Next up: **Esther 11**
+Next up: **Ezra Sutuel 1**
 
 | # | Book | Tier | Status |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Next up: **Esther 11**
 | 16 | 1 Enoch | witnesses | done |
 | 17 | Ezra | source | done |
 | 18 | Nehemiah | source | done |
-| 19 | Ezra Sutuel | witnesses | on hold (0/16): off hold (Andrew, 2026-11-17); waiting only for Bible 2 to add Laurence's English of the Ethiopic (1820) to sources/, then this line is removed |
+| 19 | Ezra Sutuel | witnesses | 0/16 |
 | 20 | Tobit | source | done |
 | 21 | Judith | source | done |
 | 22 | Esther | source | 10/16 |

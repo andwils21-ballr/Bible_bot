@@ -522,9 +522,49 @@ list, p. 192) and printed it with verse numbers.
   verse begins.
 - 5:56 is his, numbered as the Syriac numbers it (the Latin has it as the end
   of 5:55). 14:48 is the Ethiopic ending, which the Latin lacks.
-- No English translation of the Ethiopic is held here. Laurence's (1820, from
-  one manuscript, Dillmann's L) could not be downloaded: Google Books refused
-  and HathiTrust blocks downloads. For meaning, use the Latin and Syriac English.
+- An English translation of the Ethiopic is held: Laurence's (1820), below.
+
+## Ezra Sutuel: Laurence's English of the Ethiopic, 1820 (public domain)
+
+**Richard Laurence, *Primi Ezrae libri, qui apud Vulgatam appellatur quartus,
+versio Aethiopica… Latine Angliceque reddita* (Oxford, 1820)**, his English
+translation of the Ethiopic, PDF pages 222-300 (book pages 199-277).
+HathiTrust `hvd.ah5jfu` (catalog record 009706619), full view, public domain;
+HathiTrust blocks automated downloads, so Andrew downloaded the PDF and shared
+it (2026-11-17). Andrew took the book off hold on this source the same day.
+
+- `sources/english/ezra-sutuel.laurence.txt`, printed by `source_text.py`
+  under "scholarly translation". Laurence translated from **one manuscript**
+  (Dillmann's L); Dillmann's edition (1894, above) rests on ten. Where the two
+  differ, Laurence shows what his manuscript read, not the Ethiopic text as a
+  whole.
+- **Text.** The PDF's own text layer is jumbled, so the pages were read again
+  with Tesseract (twice, at two contrasts). Every word the two readings or an
+  English dictionary flagged was checked on the page image and corrected,
+  and so was every verse number; lines that were not flagged were not each
+  checked by eye. His spelling (*Sion*, *shew*, *labour*) is kept. His
+  footnotes are not carried; a few matter for meaning: 10:58 *[thirty]
+  hundred* is his conjecture (the Ethiopic has *a hundred*, the Arabic *three
+  thousand*); at 14:39 he prints *three men* and notes it as a mistake for
+  *five*; at his IX.21 (filed under 9:19) he calls the verse obscure.
+- **Chapters.** His fourteen chapters are the Latin's 3-14, as Dillmann's are:
+  I-IV are 3-6; V, VI and VII are 7:1-35, 7:36-105 and 7:106-140; VIII-XIV
+  are 8-14.
+- **Verses.** His verse divisions are his own, shorter than the Latin's
+  (818 against the Latin and Syriac's 714), so each of his verses was filed by content under the
+  Latin verse in which it begins, or which holds most of it, checked chapter
+  by chapter against the OCP's Latin and Syriac English. Every line keeps his
+  own number in brackets, `[VIII.15]`, and where two or more of his verses
+  fall in one Latin verse they stand together in that line. 93 Latin verses
+  have no line of their own: their words are in the line before (or after).
+  Treat a Laurence line as covering its Latin verse give or take one.
+- **His own numbering slips.** He prints VIII.15 twice (the second is filed
+  here as VIII.16) and has no XIII.16. After XIV.52 he adds an unnumbered
+  close, *Thus I did in the fourth of the sabbatical years… Then Ezra was
+  taken up*, filed as 14:48, the Ethiopic ending Dillmann numbers 14:48; the
+  scribe's colophon after it (*The end of Ezra I… Amen*) is left out.
+- Chapters 1-2 and 15-16 (5 and 6 Ezra) are not in the Ethiopic, so not in
+  Laurence.
 
 ## 4 Baruch: the Ge'ez, from Dillmann 1866 (public domain)
 

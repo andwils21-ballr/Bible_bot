@@ -131,8 +131,7 @@
       "title": "Ezra Sutuel",
       "slug": "ezra-sutuel",
       "chapters": 16,
-      "tier": "witnesses",
-      "hold": "off hold (Andrew, 2026-11-17); waiting only for Bible 2 to add Laurence's English of the Ethiopic (1820) to sources/, then this line is removed"
+      "tier": "witnesses"
     },
     {
       "order": 20,
