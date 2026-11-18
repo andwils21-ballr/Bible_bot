@@ -3,7 +3,7 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
-## Fidelity audit against the Hebrew, Deuteronomy 1–22 (Bible 3, 2026-11-18, 2:20 to 4:00 PM CST)
+## Fidelity audit against the Hebrew, Deuteronomy 1–30 (Bible 3, 2026-11-18, 2:20 to 5:00 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Deuteronomy 1–22 read verse by verse beside the Hebrew (English 12:32 is Hebrew 13:1, English 13 is Hebrew 13:2–19, and so on, as the notes say), the counts in the notes checked in the Hebrew (*u-vi'arta ha-ra* nine times from 13:6 to 24:7, *the place the LORD will choose* in the six verses of chapter 12) and every quotation of another book compared word for word with this text of that verse. Every verse matches the Hebrew; no verse changed. Two note quotations did not match this text and were corrected. The slips already settled in COUNCIL.md items 95 and 100 were left for Bible 2 to apply.
 
@@ -11,6 +11,8 @@ Changes to chapters already rendered, filed under the book the request started i
 |---|---|---|
 | Deuteronomy 17, note v14 | *set a king over us to judge us, like all the nations* (1 Samuel 8:5) | *appoint for us a king to judge us like all the nations* (1 Samuel 8:5) |
 | Deuteronomy 21, note v23 | *Cursed is everyone who hangs on a tree* (Galatians 3:13) | *Cursed is everyone who is hanged on a tree* (Galatians 3:13) |
+| Deuteronomy 27, note (Galatians 3:10) | the Galatians quotation as it stood | *Cursed is everyone who does not continue in all the things written in the book of the Law, to do them* (Galatians 3:10), the wording of Galatians in this repo |
+| Deuteronomy 29, note (Hebrews 12:15) | the Hebrews quotation as it stood | *that no root of bitterness springs up and causes trouble* (Hebrews 12:15), the wording of Hebrews in this repo |
 
 **Choices for you:** none new.
 
