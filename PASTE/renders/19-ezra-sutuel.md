@@ -8,7 +8,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Source:** as for 3–7. **Kept from the Latin and the Syriac where the Ethiopic has a gap:** 9:35b–37 (Laurence's manuscript ends v35 short; Dillmann's edition breaks off there and has no vv36–37).
 
-**Form kept:** no sentence starts with *And*. The angel's *I*, *Me*, *My* capitalized where the words are God's (the open choice of Ezra Sutuel 5–6): *My creation* (8:47), *My precepts… Me* (9:9–12), *My grape and My plant* (9:22). *Sheol* (8:53). *Arphad* (9:26), the Ethiopic and Syriac name, with the Latin's in a note.
+**Form kept:** no sentence starts with *And*. The angel's *I*, *Me*, *My* capitalized where the words are God's (the choice of Ezra Sutuel 5–6, decided (a)): *My creation* (8:47), *My precepts… Me* (9:9–12), *My grape and My plant* (9:22). *Sheol* (8:53). *Arphad* (9:26), the Ethiopic and Syriac name, with the Latin's in a note.
 
 **Echoes in the notes, checked against this project's English and the sources:** Genesis 1:27; 3:24; 5:24; Isaiah 65:8; Ezra Sutuel 14:48 (Laurence). The Syriac lacks the title of 8:20.
 
@@ -49,7 +49,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Source:** as for 3–6. **Numbering:** the King James Version has 70 verses in this chapter, because its Latin lacks vv36–105; the Ethiopic, the Syriac and the restored Latin have them all, and the chapter is numbered as they number it, 1–139 (first note). Laurence's three chapters V, VI and VII are 7:1–35, 36–105 and 106–139, as Bible 2 keyed them.
 
-**Form kept:** no sentence starts with *And* except *and Hezekiah* inside v110's list. The angel's *I*, *Me*, *My* capitalized where the words are God's (the open choice of Ezra Sutuel 5–6): *My Israel… I made the world* (vv10–11), *My Messiah* (vv28–29), *My decrees* (v104), *Me, who have spoken to them* (v131). The Messiah's pronouns capitalized (v28). *Gehenna* (v36), as Matthew 5:22. *Achan* (v107), the received name, for Laurence's *Achaz*. *O Lord* where Ezra speaks to God (vv17, 132), *my lord* to the angel (vv3, 10, 53, 102).
+**Form kept:** no sentence starts with *And* except *and Hezekiah* inside v110's list. The angel's *I*, *Me*, *My* capitalized where the words are God's (the choice of Ezra Sutuel 5–6, decided (a)): *My Israel… I made the world* (vv10–11), *My Messiah* (vv28–29), *My decrees* (v104), *Me, who have spoken to them* (v131). The Messiah's pronouns capitalized (v28). *Gehenna* (v36), as Matthew 5:22. *Achan* (v107), the received name, for Laurence's *Achaz*. *O Lord* where Ezra speaks to God (vv17, 132), *my lord* to the angel (vv3, 10, 53, 102).
 
 **Echoes in the notes, checked against this project's English:** Romans 5:12; Deuteronomy 30:19; Exodus 34:6.
 
@@ -77,7 +77,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 131 | I however, who have spoken to them, am not grieved at their destruction | and Me, who have spoken to them; and I do not grieve over their destruction |
 | 139 | by destroying the crowd of apostates | and blot out the multitude of those who deny Him (the Latin and the Syriac: *the multitude of their offenses*) |
 
-**Choices for you:** none new. (The angel's capital pronouns here follow the open choice raised with chapters 5–6.)
+**Choices for you:** none new. (The angel's capital pronouns here follow the choice raised with chapters 5–6, now decided.)
 
 ## Ezra Sutuel 5–6 — rendered 2026-11-18, 2:10 PM CST
 
@@ -125,11 +125,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 51 | wherein are four hills | where the mountains are (the Latin and the Syriac: *a thousand mountains*; Dillmann's edition: no number) |
 | 54 | on whose account we… are immerged [in calamity] | because of him we… are overwhelmed |
 
-**Choices for you:**
-- **Ezra Sutuel throughout: the angel who speaks as God** (widespread: the whole book)
-  - (a) **Capital *I*, *Me*, *My* where the angel speaks God's own words** (now): *My judgment… My people* (5:40), *the world I created* (5:49), *My salvation* (6:25); Ezra answers *O Lord, my Lord*. The angel himself, addressed as *my lord*, stays lowercase.
-  - (b) **Lowercase throughout the angel's speech**: the speaker is Uriel, a messenger, even when he speaks for God.
-  - Recommend (a): the words are plainly God's (no angel created the world), the book's own Ezra answers them as God, and the capital-pronoun rule follows the One the word points to, whoever is speaking.
+**Choices for you:** all decided; moved to `PASTE/decided/19-ezra-sutuel.md`.
 
 ## Ezra Sutuel 1–4 — rendered 2026-11-18, 1:11 AM CST
 
@@ -175,8 +171,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 41 | The places where dwell the spirits of the righteous | Sheol and the dwellings of the spirits of the righteous (note) |
 | 49 | a showery mist | drops |
 
-**Choices for you:**
-- **Ezra Sutuel throughout: where Laurence's one manuscript is shorter than the rest** (widespread: the whole book)
-  - (a) **Keep the fuller words** (now): where Laurence's manuscript lacks words that Dillmann's edition (ten manuscripts) has, or where both have a gap and the Latin and the Syriac fill it, the words are kept, with a note (Dillmann's edition: 3:11, 4:41; a gap filled from the Latin and the Syriac: 3:15–16, 36; 4:29). *Corrected 2026-11-18 after Bible 2's source check; the first wording said Dillmann's edition had all of them.*
-  - (b) **Render Laurence's manuscript as it stands**, with the fuller words only in the notes.
-  - Recommend (a): Dillmann's ten manuscripts are the Ethiopic book more fully than Laurence's one, and your rule on witnesses keeps detail the context supports; the words kept are names and clauses the passage needs (*his seed* in 3:17 has no antecedent without Isaac and Jacob). Where the Ethiopic manuscripts agree in having a shorter text, with no gap, the Ethiopic is followed and the Latin's extra words go in a note (5:6–7).
+**Choices for you:** all decided; moved to `PASTE/decided/19-ezra-sutuel.md`.
