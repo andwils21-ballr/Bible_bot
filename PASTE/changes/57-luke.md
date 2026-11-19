@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, verse scan and note, Luke (Bible 3, 2026-11-18, 11:30 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. All 24 chapters were read against the Greek and no verse was changed. 1 note wording was corrected so that it can be checked in the text as printed.
+
+| Where | Before | After |
+|---|---|---|
+| Luke 23, note v43 | Luke has *Truly I tell you* five other times | Luke has *amēn legō*, *Truly I tell you*, five other times |
+
+**Choices for you:** none new.
+
 ## Notes fact check: written and read forms; the Greek Old Testament in the New (Andrew, 8:27 PM CST, 2026-11-16)
 
 **Request:** Andrew: make another run of the fact check. This run read every note on the Hebrew's written and read forms against the Hebrew, and every place a New Testament note cites the Greek Old Testament against that Greek. No verse was changed.
