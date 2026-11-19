@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit against the Hebrew, Judges 1–5 (Bible 3, 2026-11-18, 7:42 to 8:15 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Judges 1–5 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; one note quotation was put into the wording of the verse it cites.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 5, note v5 (Isaiah 64:1) | *the mountains quaked at Your presence* (wording of Isaiah 64:3 in English) | *that the mountains would quake at Your presence* (Isaiah 64:1, Hebrew 63:19) |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
