@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, verse scan and note quotation, Acts (Bible 3, 2026-11-18, 11:33 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. All 28 chapters were read against the Greek and no verse was changed. 1 note quotation was put into the wording of the verse it cites.
+
+| Where | Before | After |
+|---|---|---|
+| Acts 20, note v28 | as Hebrews says of Christ, *through His own blood* (9:12) | as Hebrews says of Christ, *by His own blood* (9:12) |
+
+**Choices for you:** none new.
+
 ## Notes fact check: written and read forms; the Greek Old Testament in the New (Andrew, 8:27 PM CST, 2026-11-16)
 
 **Request:** Andrew: make another run of the fact check. This run read every note on the Hebrew's written and read forms against the Hebrew, and every place a New Testament note cites the Greek Old Testament against that Greek. No verse was changed.
