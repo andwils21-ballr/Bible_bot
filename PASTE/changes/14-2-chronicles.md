@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 2 Chronicles 1–36 (Bible 3, 2026-11-18, 8:30 to 9:00 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Chronicles 1–36 read verse by verse beside the Hebrew (English 2:1 is Hebrew 1:18, English 2:2–18 is Hebrew 2:1–17, English 14:1 is Hebrew 13:23, and English 14:2–15 is Hebrew 14:1–14), every number and list checked, and every quotation and Greek reading in the notes checked against this repo's own text and `sources/swete-src/`. No verse was changed; seven note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Chronicles 6, note v42 (Isaiah 55:3) | *an everlasting covenant, the loyal love shown to David, which is sure* | *an everlasting covenant, the sure loyal love shown to David* |
+| 2 Chronicles 7, note vv13–15 | *hear from the heavens and forgive* (6:21) | *hear from the heavens and forgive* (6:25), where those words stand; 6:21 reads *hear from the place of Your dwelling, from the heavens; hear and forgive* |
+| 2 Chronicles 20, note v7 (Isaiah 41:8) | *the seed of Abraham, My friend* | *the offspring of Abraham, My friend* |
+| 2 Chronicles 20, note v7 (James 2:23) | *he was called the friend of God* | *he was called a friend of God* |
+| 2 Chronicles 20, note v20 (Isaiah 7:9) | *If you will not believe, you will not be established* | *If you will not stand firm in faith, you will not stand firm at all* |
+| 2 Chronicles 28, note vv12–15 (Luke 10:34) | *bound up his wounds, pouring on oil and wine, and set him on his own animal* | *bandaged his wounds, pouring on oil and wine… put him on his own animal* |
+| 2 Chronicles 35, note v3 (Jeremiah 3:16) | *…nor will it be made again* | *…and it will not be made again* |
+
+**Choices for you:** none new.
+
 ## Double meanings, second batch: notes added (Andrew, 8:45 PM CST, 2026-11-14)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
