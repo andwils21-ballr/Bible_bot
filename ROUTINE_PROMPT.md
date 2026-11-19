@@ -17,7 +17,7 @@ CLAUDE.md and RENDERING_SPEC.md.
 Then:
 1. Read RENDERING_SPEC.md in full down to Part 2, and the part of Part 2 for
    this book if it has one. Read the three fixed models in full (spec, "Two
-   kinds of example").
+   kinds of example"). Read problem_solving.md in full.
 2. Run `python3 progress.py` for the next chapter. Read the two most recent
    chapters of the same book for its writer's style.
 3. For each chapter, print the source first:

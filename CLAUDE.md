@@ -221,7 +221,8 @@ removed:
 - `HANDOFF.md`: recovery, the Routine, hard-won technical facts.
 - `NOTES_FOR_ANDREW.md`: findings for Andrew.
 - `SOURCES.md`: source texts and licences.
-- `problem_solving.md`: run it before proposing any fix.
+- `problem_solving.md`: run it before proposing any fix, and while rendering any
+  phrase that is hard to carry into English (Andrew, 2026-11-19).
 - `check_chapters.py`: the rule checker. A program does not drift.
 - `SPOT_CHECK.md`: the weekly blind re-render that tests for drift; reports go
   in `PASTE/spot-checks/`.

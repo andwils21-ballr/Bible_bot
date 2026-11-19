@@ -16,6 +16,8 @@ Every time, no judgment call from me:
 - Before calling any call site, file, or case **"fine as-is"** — that is a claim
   about the cause, and a claim about the cause has to come out of Step 2, not
   out of the fact that I already fixed something else
+- **While rendering** (Andrew, 2026-11-19), at any phrase hard to carry into
+  English with the source's feeling
 
 The only exemption is a change with no cause to reason about at all: a rename, a
 typo, formatting.
@@ -24,11 +26,11 @@ typo, formatting.
 
 ## The pattern I keep falling into
 
-When I hit a constraint, I lock onto the **first plausible framing** of the problem and then optimize inside that frame. I treat one of the *means* as part of the *end*, and then confidently report “here are our options” — when in fact I’m working inside a self-imposed box.
+When I hit a constraint, I lock onto the **first plausible framing** and optimize inside it, treating a *means* as part of the *end*, then confidently report “here are our options” from inside a self-imposed box.
 
-A concrete example: the bot needed average SPY first-hour volume over ~14 days. yfinance limits 1-minute data to 8 days per request. My instinct: “How do I get more 1-minute data?” → option A (stitch multiple 8-day calls), option B (accept fewer days), pick one, ship.
+Example: the bot needed average SPY first-hour volume over ~14 days; yfinance limits 1-minute data to 8 days. My instinct: “How do I get more 1-minute data?” → stitch 8-day calls, or accept fewer days.
 
-Andrew’s instinct: “Why are we using 1-minute data at all? We’re summing it into a 60-minute bucket.” Switch to 5-minute bars → yfinance allows 60 days → problem dissolves with zero compromise on the result.
+Andrew: “Why 1-minute data at all? We’re summing it into a 60-minute bucket.” 5-minute bars allow 60 days, and the problem dissolves with no compromise.
 
 I had framed `1-minute resolution` as part of the *result*. It was actually a *variable*. The actual result was the average first-hour volume number — the candle interval was just an arbitrary choice on the path to computing it.
 
@@ -41,6 +43,12 @@ Andrew's pushback: "what are the moving parts?"
 The actual variable was one level higher: **what determines what date Python thinks it is.** That's the process timezone. The 11 call sites weren't variables — they were symptoms. The variable was the host's `TZ` env, and one line at the top of `main.py` made all 11 sites correct simultaneously.
 
 I had treated "where do the wrong dates appear" as the variable list. The real variable was "what produces the wrong date in the first place." Always zoom out one level past where it feels obvious.
+
+### A third example (translation: the word next to the problem)
+
+Judges 6:6, *va-yiddal Yisra'el me'od*, read "Israel was brought very low." I framed it as "find the word for *dalal*," which means both **poor** and **weak**, decided English has no word for both, and offered Andrew poor *or* weak. His answer: "Israel became desperately poor."
+
+The result was the weight of the line, not one word. *Me'od* was a variable too; *desperately* carries the weakness, so *poor* keeps the root. Every word of a phrase can move.
 
 -----
 
@@ -109,11 +117,7 @@ If I find myself writing "11 small fixes" or "the same change in 7 places," stop
 
 ## What this prevents
 
-- Confidently presenting a list of bad options when a good option exists outside the option-set
-- Treating arbitrary implementation choices (resolutions, formats, providers) as if they’re requirements
-- Settling for a degraded result when the result didn’t actually need to degrade
-- Burning Andrew’s time having him point out the obvious moveable variable
-- Proposing N parallel fixes when one root-cause fix would solve all N
+Bad option lists when a good option lies outside them; means treated as requirements; a degraded result that did not need to degrade; Andrew pointing out the obvious moveable part; N fixes where one root fix would do.
 
 ## Signals to watch for in myself
 
