@@ -2,9 +2,9 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Fidelity audit against the Hebrew, 1 Samuel 1–20 (Bible 3, 2026-11-18, 9:00 to 10:00 PM CST)
+## Fidelity audit against the Hebrew, 1 Samuel 1–31 (Bible 3, 2026-11-18, 9:00 to 10:30 PM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–20 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; five note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–31 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; five note quotations were put into the wording of the verses they cite.
 
 | Where | Before | After |
 |---|---|---|
