@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, Jeremiah (Bible 3, 2026-11-18, 8:39 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 7 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Jeremiah 3, note v14 | *you will call Me "My husband," and no longer call Me "My Baal"* | *you will call Me "My husband," and you will no longer call Me "My Baal"* |
+| Jeremiah 9, note vv23–24 | *Let the one who boasts, boast in the Lord* | *Let him who boasts boast in the Lord* |
+| Jeremiah 15, note v16 | *and it was in my mouth as sweet as honey* | *and in my mouth it was as sweet as honey* |
+| Jeremiah 22, note v24 | *I will make you like a signet ring, for I have chosen you* | *I will take you… and make you like a signet ring; for I have chosen you* |
+| Jeremiah 31, note v3 | *I drew them with cords of a man, with bands of love* | *I led them with human cords, with bands of love* |
+| Jeremiah 33, note vv4–5 | *you tore down the houses to fortify the wall* | *and tore down the houses to fortify the wall* |
+| Jeremiah 42, note v20 | *has spoken this word at the cost of his own life* | *Adonijah has not spoken this word at the cost of his own life* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
 
 **Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.

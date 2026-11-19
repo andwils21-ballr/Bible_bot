@@ -2,6 +2,32 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, Psalms (Bible 3, 2026-11-18, 8:39 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 17 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Psalms 2, note v2 | *the kings of the earth set themselves… against the Lord and against His Anointed* | *The kings of the earth took their stand… against the Lord and against His Anointed* |
+| Psalms 2, note v7 | *I will be to him a father, and he shall be to Me a son* | *I will be his father, and he shall be My son* |
+| Psalms 2, note v7 | *You are My beloved Son* | *You are My Son, the beloved* |
+| Psalms 14, note vv1–3 | *None is righteous, no, not one* | *There is no one righteous, not even one* |
+| Psalms 143, note v2 | *by the works of the law no flesh will be justified in His sight* | *by works of the Law no flesh will be justified in His sight* |
+| Psalms 24, note v4 | *you shall not take up the name of the LORD your God in vain* | *You shall not lift up the name of the LORD your God for emptiness* |
+| Psalms 35, note v19 | *They hated Me without a cause* | *They hated Me without cause* |
+| Psalms 36, note v9 | *the true light that gives light to everyone* | *The true light, which gives light to everyone* |
+| Psalms 37, note vv9, 11, 22, 29, 34 | *Blessed are the meek, for they shall inherit the earth* | *Blessed are the meek, for they will inherit the earth* |
+| Psalms 41, note v9 | *He who ate My bread has lifted his heel against Me* | *The one who eats My bread has lifted up his heel against Me* |
+| Psalms 50, note v21 | *I AM WHO I AM* | *I AM THE ONE WHO WILL BE* |
+| Psalms 67, note v2 | *in you all the families of the earth shall be blessed* | *In you all the families of the ground shall be blessed* |
+| Psalms 69, note v4 | *They hated Me without a cause* | *They hated Me without cause* |
+| Psalms 82, note v6 | *If He called them gods to whom the word of God came… do you say of Him whom the Father sanctified, 'You are blaspheming'?* | *If he called them gods to whom the word of God came… do you say of Him whom the Father consecrated and sent into the world, 'You are blaspheming'?* |
+| Psalms 90, note v4 | *with the Lord one day is as a thousand years, and a thousand years as one day.* | *with the Lord one day is like a thousand years, and a thousand years like one day.* |
+| Psalms 91, note v13 | *I have given you authority to tread on serpents and scorpions.* | *I have given you authority to tread on snakes and scorpions.* |
+| Psalms 94, note v11 | *The Lord knows the thoughts of the wise, that they are futile* | *The Lord knows the thoughts of the wise, that they are empty* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). One verse was changed, because the note's witness for it was wrong.

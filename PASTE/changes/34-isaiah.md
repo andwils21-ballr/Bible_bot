@@ -2,6 +2,41 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, Isaiah (Bible 3, 2026-11-18, 8:39 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 26 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Isaiah 6, note v1 | *Isaiah said these things because he saw His glory and spoke about Him* | *Isaiah said these things because he saw His glory, and he spoke about Him* |
+| Isaiah 8, note vv12–13 | *do not fear what they fear… but in your hearts regard Christ the Lord as holy* | *Do not fear their fear… but in your hearts regard the Lord Christ as holy* |
+| Isaiah 10, note vv22–23 | *the remnant will be saved, for the Lord will carry out His word on the earth, completing it and cutting it short* | *only the remnant will be saved; for the Lord will carry out His word on the earth, fully and swiftly* |
+| Isaiah 11, note v3 | *I will not smell your solemn assemblies* (Amos 5:21) | *I take no pleasure in your sacred assemblies* (Amos 5:21), with the Hebrew word for word, *I will not smell your assemblies*, given beside it |
+| Isaiah 11, note vv10, 12 | *the root of Jesse, the one who rises to rule the nations; in Him the nations will hope* | *The root of Jesse will come, the One who rises to rule the Gentiles; in Him the Gentiles will hope* |
+| Isaiah 14, note v12 | *I saw Satan fall like lightning from heaven* | *I watched Satan fall like lightning from heaven* |
+| Isaiah 25, note vv7–8 | *Death is swallowed up in victory* | *Death has been swallowed up in victory* |
+| Isaiah 29, note v10 | *made fall upon the human* | *made a deep sleep fall upon the human* |
+| Isaiah 29, note v16 | *Will what is formed say to the one who formed it, "Why did you make me like this?"* | *Will what is formed say to the one who formed it, "Why have you made me like this?"* |
+| Isaiah 33, note v18 | *Where is the wise? Where is the scribe?* | *Where is the wise man? Where is the scribe?* |
+| Isaiah 40, note v3 | *A voice of one crying out in the wilderness: "Prepare the way of the Lord; make His paths straight,"* | *A voice of one crying out in the wilderness: 'Prepare the way of the Lord; make His paths straight.'* |
+| Isaiah 45, note v7 | *If disaster comes to a city, has not the LORD done it?* | *If disaster comes to a city, has the LORD not done it?* |
+| Isaiah 45, note v23 | *every tongue shall confess to God* | *every tongue will confess to God* |
+| Isaiah 49, note v6 | *I have set you as a light for the nations, that you may be for salvation to the end of the earth* | *I have set you as a light for the nations, that you may bring salvation to the end of the earth* |
+| Isaiah 52, note v5 | *the name of God is blasphemed among the nations because of you* | *The name of God is blasphemed among the Gentiles because of you* |
+| Isaiah 52, note v15 | *those who were not told about him will see* | *Those who were never told of Him will see* |
+| Isaiah 53, note v5 | *by whose wound you were healed* | *By His wounds you have been healed* |
+| Isaiah 53, note vv6, 12 | *And He was counted with the lawless* | *He was counted with the transgressors* |
+| Isaiah 53, note v7 | *beginning from this scripture* | *beginning with this Scripture* |
+| Isaiah 53, note v9 | *who committed no sin, nor was deceit found in His mouth* | *He committed no sin, and no deceit was found in His mouth* |
+| Isaiah 54, note v1 | *the Jerusalem above… which is our mother* | *the Jerusalem above is free, and she is our mother* |
+| Isaiah 55, note v3 | *I will give you the holy and sure things of David* | *I will give you the holy and sure blessings of David* |
+| Isaiah 56, note v3 | *a man of Ethiopia, a eunuch* | *an Ethiopian man, a eunuch* |
+| Isaiah 56, note v3 | *to worship in Jerusalem* | *to Jerusalem to worship* |
+| Isaiah 63, note v11 | *the God of peace, who brought up from the dead the great shepherd of the sheep* | *the God of peace, who brought up from the dead… the great shepherd of the sheep* |
+| Isaiah 64, note v1 | *the heavens being torn open* | *the heavens torn open* |
+
+**Choices for you:** none new.
+
 ## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

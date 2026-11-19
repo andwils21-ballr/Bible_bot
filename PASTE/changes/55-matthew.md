@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, Matthew (Bible 3, 2026-11-18, 8:39 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 5 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 14, note vv25–26 | *alone stretched out the heavens and treads on the heights of the sea* | *alone stretches out the heavens and treads on the back of the sea* |
+| Matthew 17, note v11 | *I am sending you Elijah the prophet before the great and terrible day of the LORD comes, and he will turn the heart of fathers to sons and the heart of sons to their fathers* | *I am sending you Elijah the prophet before the great and fearful day of the LORD comes. He will turn the heart of fathers to sons and the heart of sons to their fathers* |
+| Matthew 20, note v28 | *My righteous servant will make many righteous, and their iniquities he will bear… he bore the sin of many* | *the righteous one, My servant, will make the many righteous, and he will bear their iniquities… he bore the sin of many* |
+| Matthew 23, note v35 | *they stoned… at the king's command in the court of the house of the LORD* | *they stoned him at the command of the king in the court of the house of the LORD* |
+| Matthew 26, note v28 | *Days are coming… when I will cut with the house of Israel and the house of Judah a new covenant* | *Days are coming… when I will make a new covenant with the house of Israel and with the house of Judah* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
