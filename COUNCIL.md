@@ -232,6 +232,11 @@ entry.
 
 **Status (Bible 3 clearing Open, 2026-11-17):** Settled (two of three agree: Bible 2, Bible 3). Bible 2 applies all three.
 
+### 113. Tobit 1:22 *exadelphos*: *my nephew* (from Bible 3's fidelity check, 2026-11-18)
+*Asked by Bible 3, 10:09 PM CST, 2026-11-18. Tobit is not closed.*
+
+- **Tobit 1:22** reads *He was my nephew*. The Greek held here has *exadelphos mou*, **my cousin**, while 1:21 has Ahikar as *the son of my brother* (a nephew). The Greek itself gives him both ways; the English makes them agree. Proposed: render *He was my cousin* and add a line to the chapter's notes that the Greek calls him a brother's son in v21 and a cousin in v22. Not provably wrong, since the sense of *exadelphos* can be wider than *cousin*, so the text is left alone for now.
+
 ### 112. Queue sort, Mark to 1 Peter (Bible 3, job B of item 104, 2026-11-17)
 *Asked by Bible 3, 6 AM CST, 2026-11-17. Same method as items 108 to 111; this finishes the sort of `PASTE/renders/`. Matthew, James, 3 Meqabyan, Judith, Proverbs, Reproof, 2 Thessalonians, Joshua and books 82–89 have no open choices. One correction to item 109: Tobit's *eleēmosynē* is a book's mark, which the spec says is Andrew's ruling, so it stays with him (Tobit 1).*
 
