@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 6:6, *va-yiddal Yisra'el me'od* (Andrew, 2026-11-19, 3:25 PM CST)
+
+**Request:** Andrew, 2026-11-19: "can't we use a better way to say 'Israel was brought very low?' That just seems like a lazy translation." *Dalal* is the verb of *dal*, **poor** (Leviticus 14:21), active in the Hebrew (*became*, not *was brought*); vv3–5 have Midian destroying the produce and leaving *no food in Israel, and no sheep or ox or donkey*. Options: (a) *became very poor*; (b) *grew very weak* (the sense of Psalm 79:8); (c) *Midian left Israel desperately poor*. Andrew: *Israel became desperately poor because of Midian*, with *desperately* for *me'od* carrying the weakness as well as the poverty; tested and made: *me'od*, **exceedingly**, is the intensifier, and the context (nothing left to eat, the cry to the LORD) supports its force.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 6:6 | Israel was brought very low because of Midian | Israel became desperately poor because of Midian |
+
+**Choices for you:** all decided.
+
 ## Judges 5:20, a note on "from their courses" (Bible 2, 2026-11-19, 9:15 AM CST)
 
 **Request:** Andrew, 2026-11-19, asked whether 5:20 could be read another way, then: "5:20 definitely needs a note." *Mesillah* is a built-up road (Isaiah 62:10); *mi-* is **from** (fighting from their places) or **out of** (leaving them to fight). The wording stays; the choice of wording below is still open.
