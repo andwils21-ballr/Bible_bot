@@ -2,9 +2,9 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Fidelity audit against the Hebrew, 2 Samuel 1–8 (Bible 3, 2026-11-18, 10:30 to 11:00 PM CST)
+## Fidelity audit against the Hebrew, 2 Samuel 1–24 (Bible 3, 2026-11-18, 10:30 PM to 12:15 AM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Samuel 1–8 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; six note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Samuel 1–24 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; ten note quotations and one verse reference were put into the wording and numbering of the verses they cite.
 
 | Where | Before | After |
 |---|---|---|
@@ -14,6 +14,11 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 2 Samuel 7, note v5 (1 Chronicles 17:4) | *You shall not build Me a house* | *You shall not build Me the house to dwell in* |
 | 2 Samuel 7, note v14 (Hebrews 1:5) | *I will be a Father to Him, and He shall be a Son to Me* | *I will be His Father, and He shall be My Son* |
 | 2 Samuel 8, note v13 (1 Chronicles 18:12) | *Abishai… struck Edom in the Valley of Salt, eighteen thousand* | *Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt* |
+| 2 Samuel 10, note v6 (1 Chronicles 19:7) | *the king of Maacah and his people* | *the king of Maacah with his people* |
+| 2 Samuel 12, note v9 (2 Samuel 11:27) | *the thing that David had done was evil in the eyes of the LORD* | *what David had done was evil in the eyes of the LORD* |
+| 2 Samuel 13, note v21 (1 Kings 1:6) | *his father had never grieved him* | *His father had never once grieved him* |
+| 2 Samuel 13, note v39 (Psalm 84) | *my soul longs, even faints* (Psalm 84:3) | *my soul longs, yes, faints* (Psalm 84:2, the numbering of this book) |
+| 2 Samuel 23, note v8 (1 Chronicles 11:11) | *he wielded his spear against three hundred slain at one time* | *He wielded his spear against three hundred, whom he killed at one time* |
 
 **Choices for you:** none new.
 
