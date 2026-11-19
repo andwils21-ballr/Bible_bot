@@ -2,14 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Fidelity audit against the Hebrew, 1 Samuel 1–6 (Bible 3, 2026-11-18, 9:00 to 9:20 PM CST)
+## Fidelity audit against the Hebrew, 1 Samuel 1–20 (Bible 3, 2026-11-18, 9:00 to 10:00 PM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–6 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; two note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–20 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; five note quotations were put into the wording of the verses they cite.
 
 | Where | Before | After |
 |---|---|---|
 | 1 Samuel 2, note vv7–8 (Luke 1:52–53) | *He has brought down rulers from thrones and lifted up the lowly; the hungry He has filled with good things.* | *He has brought down rulers from their thrones and lifted up the humble. He has filled the hungry with good things.* |
 | 1 Samuel 2, note v26 (Luke 2:52) | *in wisdom and stature and in favor with God and men* | *in wisdom and in stature, and in favor with God and with people* |
+| 1 Samuel 15, note vv27–28 (1 Samuel 28:17) | *the LORD has torn the kingdom from your hand and given it to your neighbor, to David* | *The LORD has torn the kingdom out of your hand and given it to your neighbor, to David* |
+| 1 Samuel 15, note vv32–33 (Job 38:31) | *the bonds* of the Pleiades | *the chains* of the Pleiades |
+| 1 Samuel 20, note vv14–15 (2 Samuel 9:7) | *shall eat bread at my table always* | *will eat bread at my table always* |
 
 **Choices for you:** none new.
 
