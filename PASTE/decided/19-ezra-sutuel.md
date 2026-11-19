@@ -13,7 +13,7 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/19-ezra-sutuel.md` o
 ## Ezra Sutuel 1–4 — rendered 2026-11-18, 1:11 AM CST
 
 **Choices for you:**
-- ✅ Decided 2026-11-19: (a) **keep the fuller words**, with a note. **Ezra Sutuel throughout: where Laurence's one manuscript is shorter than the rest** (widespread: the whole book)
+- ✅ Decided 2026-11-19: (a) **keep the fuller words**; no note each time (Andrew, the same day): chapter 3's first note says it once for the book (see `PASTE/changes/19-ezra-sutuel.md`). **Ezra Sutuel throughout: where Laurence's one manuscript is shorter than the rest** (widespread: the whole book)
   - (a) **Keep the fuller words** (now): where Laurence's manuscript lacks words that Dillmann's edition (ten manuscripts) has, or where both have a gap and the Latin and the Syriac fill it, the words are kept, with a note (Dillmann's edition: 3:11, 4:41; a gap filled from the Latin and the Syriac: 3:15–16, 36; 4:29). *Corrected 2026-11-18 after Bible 2's source check; the first wording said Dillmann's edition had all of them.*
   - (b) **Render Laurence's manuscript as it stands**, with the fuller words only in the notes.
   - Recommend (a): Dillmann's ten manuscripts are the Ethiopic book more fully than Laurence's one, and your rule on witnesses keeps detail the context supports; the words kept are names and clauses the passage needs (*his seed* in 3:17 has no antecedent without Isaac and Jacob). Where the Ethiopic manuscripts agree in having a shorter text, with no gap, the Ethiopic is followed and the Latin's extra words go in a note (5:6–7).
