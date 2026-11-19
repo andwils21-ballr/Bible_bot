@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, verse scan and note quotations, Matthew (Bible 3, 2026-11-18, 11:27 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. All 28 chapters were read against the Greek and no verse was changed. 5 note quotations were put into the wording of the verses they cite (Matthew 11, 20, 23, 27); in 27 the claim that v43 has the words of the Greek psalm was corrected to say it echoes them.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 11, note v28 | *Stand at the crossroads… ask for the ancient paths, where the good way is, and walk in it, and you will find rest for your souls* | *Stand by the roads and look, and ask for the ancient paths, where the good way is, and walk in it, and you will find rest for your souls* |
+| Matthew 20, note v28 | *the righteous one, My servant, will make the many righteous, and he will bear their iniquities… he bore the sin of many* | *the righteous one, My servant, will make the many righteous, and he will bear their iniquities… he carried the sin of many* |
+| Matthew 23, note v35 | *they stoned him at the command of the king in the court of the house of the LORD* | *at the command of the king they stoned him in the court of the house of the LORD* |
+| Matthew 27, note vv35, 39, 43 the psalm of the cross | *all who see me mock me… they shake the head* | *all who see me mock me… they shake their heads* |
+| Matthew 27, note vv35, 39, 43 the psalm of the cross | *He trusted in the LORD; let Him rescue him, for He delights in him* | *He committed himself to the LORD; let Him rescue him; let Him deliver him, for He delights in him* |
+| Matthew 27, note vv35, 39, 43 the psalm of the cross | *Ēlpisen epi kyrion, rhysasthō auton*, the words of v43 | *Ēlpisen epi kyrion, rhysasthō auton*. Verse 43 echoes it: *pepoithen epi ton theon, rhysasthō… ei thelei auton* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, second pass, Matthew (Bible 3, 2026-11-18, 8:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 9 note quotations were put into the wording of the verses they cite.
