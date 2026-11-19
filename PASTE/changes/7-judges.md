@@ -2,14 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
-## Fidelity audit against the Hebrew, Judges 1–11 (Bible 3, 2026-11-18, 7:42 to 8:30 PM CST)
+## Fidelity audit against the Hebrew, Judges 1–21 (Bible 3, 2026-11-18, 7:42 to 9:00 PM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Judges 1–11 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; two note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Judges 1–21 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; three note quotations were put into the wording of the verses they cite, and one note count was corrected.
 
 | Where | Before | After |
 |---|---|---|
 | Judges 5, note v5 (Isaiah 64:1) | *the mountains quaked at Your presence* (wording of Isaiah 64:3 in English) | *that the mountains would quake at Your presence* (Isaiah 64:1, Hebrew 63:19) |
 | Judges 9, note v6 (Joshua 24:26) | *set up a great stone… under the terebinth* | *took a great stone and set it up there under the terebinth* |
+| Judges 18, note vv7, 10, 27 | *shoqet u-voteach*, said three times of Laish | *shoqet u-voteach*, said of Laish in vv7 and 27, with *botach* alone in v10 (the Hebrew of v10 has *am botea*, *a people unsuspecting*, and no *shoqet*) |
+| Judges 21, note vv10–12 (Numbers 31:17–18) | *…the girls who have not known a man by lying with a male, keep alive* | *…all the girls among the women who have not known a man by lying with a male, keep alive for yourselves* |
 
 **Choices for you:** none new.
 
