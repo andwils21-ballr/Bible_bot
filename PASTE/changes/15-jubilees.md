@@ -5,6 +5,16 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 **Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: 1–50. Complete.
 
 
+## Fidelity audit, note quotation check (cross-book, third sweep), Jubilees (Bible 3, 2026-11-18, 11:43 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A last automated pass checked note quotations beside a cited verse where the cite is only a chapter and verse in the same book or a neighbor. No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 49, note vv1–6 | *come into your houses to strike* (12:23) | *enter your houses to strike* (12:23) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit, Jubilees 1–50 (Bible 3, 2026-11-18, 8:30 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. Jubilees has no Hebrew or Greek base to read verse by verse, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, tier `witnesses`), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse, every cross-reference to another verse of Jubilees, and every count. No verse was changed; 22 note quotations were put into the wording of the verses they cite.
