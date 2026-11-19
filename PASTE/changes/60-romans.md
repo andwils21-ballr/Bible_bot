@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, verse scan and note quotation, Romans (Bible 3, 2026-11-18, 11:34 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. All 16 chapters were read against the Greek and no verse was changed. 1 note quotation was put into the wording of the verse it cites.
+
+| Where | Before | After |
+|---|---|---|
+| Romans 4, note v5 | *Whoever justifies the wicked… is detestable to the LORD* | *Whoever justifies the wicked and whoever condemns the righteous — both alike are detestable to the LORD* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, second pass, Romans (Bible 3, 2026-11-18, 8:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 2 note quotations were put into the wording of the verses they cite.
