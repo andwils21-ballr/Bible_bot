@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 1 Samuel 1–6 (Bible 3, 2026-11-18, 9:00 to 9:20 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–6 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; two note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 2, note vv7–8 (Luke 1:52–53) | *He has brought down rulers from thrones and lifted up the lowly; the hungry He has filled with good things.* | *He has brought down rulers from their thrones and lifted up the humble. He has filled the hungry with good things.* |
+| 1 Samuel 2, note v26 (Luke 2:52) | *in wisdom and stature and in favor with God and men* | *in wisdom and in stature, and in favor with God and with people* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
 
 **Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.
