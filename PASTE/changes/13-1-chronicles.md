@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Fidelity audit against the Hebrew, 1 Chronicles 1–29 (Bible 3, 2026-11-18, 8:10 to 8:25 PM CST)
+## Fidelity audit against the Hebrew, 1 Chronicles 1–29 (Bible 3, 2026-11-18, 8:20 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Chronicles 1–29 read verse by verse beside the Hebrew (Hebrew 5:27–41 is English 6:1–15, and Hebrew 6:1–66 is English 6:16–81), every number and list checked, and every quotation in the notes checked against this repo's own text. No verse was changed; seven note quotations were put into the wording of the verses they cite.
 

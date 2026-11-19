@@ -2,6 +2,19 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit against the Hebrew, Nehemiah 1–13 (Bible 3, 2026-11-18, 8:35 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Nehemiah 1–13 read verse by verse beside the Hebrew (English 4:1–6 is Hebrew 3:33–38, English 4:7–23 is Hebrew 4:1–17, English 9:38 is Hebrew 10:1, English 10:1–39 is Hebrew 10:2–40, and English 7:68 has no Hebrew), every number checked (the list in chapter 7 adds to 31,089, as its note says), and every quotation in the notes checked against this repo's own text. No verse was changed; 4 notes were put right.
+
+| Where | Before | After |
+|---|---|---|
+| Nehemiah 1, note v5 | *the faithful God, who keeps covenant and loyal love with those who love Him and keep His commandments* | *the faithful God, who keeps covenant and loyal love… with those who love Him and keep His commandments* |
+| Nehemiah 6, note v7 | *rebellious and harmful to kings* | *a rebellious city, harmful to kings and provinces* |
+| Nehemiah 9, note v17 | *Let us appoint a leader and return to Egypt* | *Let us appoint a leader and go back to Egypt* |
+| Nehemiah 6, note v7 | *the charge Ezra's enemies brought* | *the charge the enemies of the returned exiles brought in the book of Ezra* (Ezra himself does not appear until Ezra 7) |
+
+**Choices for you:** none new.
+
 ## "And it came to pass": kept only where it opens something; swept through every book but Genesis (Andrew, 2026-10-07)
 
 **Request:** Andrew, on the proposal after Nehemiah 1:4: "Yes. And what about the 'that'?"

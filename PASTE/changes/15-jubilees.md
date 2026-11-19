@@ -5,7 +5,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 **Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: 1–50. Complete.
 
 
-## Fidelity audit, Jubilees 1–50 (Bible 3, 2026-11-18, 9:05 to 9:40 PM CST)
+## Fidelity audit, Jubilees 1–50 (Bible 3, 2026-11-18, 8:30 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. Jubilees has no Hebrew or Greek base to read verse by verse, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, tier `witnesses`), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse, every cross-reference to another verse of Jubilees, and every count. No verse was changed; 22 note quotations were put into the wording of the verses they cite.
 

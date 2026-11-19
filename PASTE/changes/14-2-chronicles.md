@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Fidelity audit against the Hebrew, 2 Chronicles 1–36 (Bible 3, 2026-11-18, 8:30 to 9:00 PM CST)
+## Fidelity audit against the Hebrew, 2 Chronicles 1–36 (Bible 3, 2026-11-18, 8:25 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Chronicles 1–36 read verse by verse beside the Hebrew (English 2:1 is Hebrew 1:18, English 2:2–18 is Hebrew 2:1–17, English 14:1 is Hebrew 13:23, and English 14:2–15 is Hebrew 14:1–14), every number and list checked, and every quotation and Greek reading in the notes checked against this repo's own text and `sources/swete-src/`. No verse was changed; seven note quotations were put into the wording of the verses they cite.
 

@@ -2,6 +2,65 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5. The entries below 2026-09-26 were added afterward, on Andrew's request, as a record of every change made to 1 Enoch 1–28 since each chapter was first rendered. They are built from the repository history, verse by verse.
 
+## Fidelity audit, 1 Enoch 1–108 (Bible 3, 2026-11-18, 8:35 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. 1 Enoch's base is the Ge'ez, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, tier `witnesses`), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse, cross-references to other verses, and counts. No verse was changed; 50 note quotations or counts were corrected. Quotations of Jude and Revelation are not checked, since those books are not yet rendered here.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Enoch 6, note v1 | *And it came to pass, when men began to multiply on the face of the ground, and daughters were born to them.* | *And it came to pass, when humankind began to be many upon the face of the ground, and daughters were born to them* |
+| 1 Enoch 7, note v5 | *flesh with its life, its blood, you shall not eat* | *flesh with its soul — its blood — you shall not eat* |
+| 1 Enoch 10, note v4 | *sent away to Azazel, into the wilderness* | *to send it away to Azazel into the wilderness* |
+| 1 Enoch 100, note vv1–2 | *Brother will hand over brother to death, and a father his child, and children will rise up against parents and have them put to death* | *Brother will hand over brother to death, and a father his child; children will rise up against parents and have them put to death* |
+| 1 Enoch 102, note vv6–8 | *how the wise man dies, just like the fool!* | *how the wise dies just like the fool!* |
+| 1 Enoch 104, note v2 | *Those who are wise will shine like the brightness of the firmament, and those who turn many to righteousness like the stars forever and ever* | *Those who are wise will shine like the brightness of the expanse, and those who make the many righteous, like the stars, forever and ever* |
+| 1 Enoch 104, note v4 | *in the resurrection they neither marry nor are given in marriage, but are like angels in heaven* | *in the resurrection they neither marry nor are given in marriage, but are like angels of God in heaven* |
+| 1 Enoch 105, note v2 | *If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our home with him* | *If anyone loves Me, he will keep My word; My Father will love him, and We will come to him and make Our dwelling with him* |
+| 1 Enoch 105, note v2 | *You are My Son; today I have begotten You* | *You are My son; today I have fathered you* |
+| 1 Enoch 106, note v14 | *the sons of God saw that the daughters of men were beautiful, and they took wives for themselves* | *the sons of God saw the daughters of humankind, that they were good, and they took for themselves women from all whom they chose* |
+| 1 Enoch 106, note v14 | *the Nephilim were on the earth in those days* | *The Nephilim were in the earth in those days* |
+| 1 Enoch 106, note v18 | *This one will comfort us from our work and from the toil of our hands* | *This one will bring us relief from our work and from the pain of our hands* |
+| 1 Enoch 107, note v3 | *This one will comfort us from our work and from the toil of our hands, from the ground that the LORD has cursed* | *This one will bring us relief from our work and from the pain of our hands, out of the ground which the LORD has cursed* |
+| 1 Enoch 108, note v12 | *when the Son of Man sits on the throne of His glory, you also will sit on twelve thrones* | *when the Son of Man sits on the throne of His glory, you who have followed Me will also sit on twelve thrones* |
+| 1 Enoch 12, note v1 | *and Enoch walked with God, and he was not, for God took him.* | *Enoch walked with God. He was not, for God took him.* |
+| 1 Enoch 18, note v8 | *something like a pavement of sapphire* | *something like brickwork of sapphire* |
+| 1 Enoch 27, note on the Valley of Hinnom (2 Kings 23:10) | *defiled the Topheth which is in the valley of the sons of Hinnom, so that no one might make his son or daughter pass through the fire* | *defiled Topheth, which is in the Valley of the Son of Hinnom, so that no one might make his son or his daughter pass through the fire* |
+| 1 Enoch 38, note v2 | *it would have been good for that man if he had not been born* | *it would have been better for that man if he had not been born* |
+| 1 Enoch 42, note vv1–2 | *Make your dwelling in Jacob, and in Israel receive your inheritance* | *Pitch your tent in Jacob, and receive your inheritance in Israel* |
+| 1 Enoch 42, note vv1–2 | *He came to His own, and His own did not receive Him* | *He came to His own, and His own people did not receive Him* |
+| 1 Enoch 45, note vv4–5 | *I am creating new heavens and a new earth* | *I am about to create new heavens and a new earth* |
+| 1 Enoch 46, note v1 | *the hair of His head was like pure wool* | *the hair of His head like pure wool* |
+| 1 Enoch 48, note vv2–3 | *May his name endure forever; before the sun may his name flourish* | *May his name endure forever, his name continue as long as the sun*; the Hebrew is *lifnei shemesh*, word for word **before the sun** |
+| 1 Enoch 48, note vv2–3 | *foreknown before the foundation of the world, but revealed in the last times* | *foreknown before the foundation of the world, but was revealed in the last times* |
+| 1 Enoch 51, note v1 | *the earth will cast out the dead* | *the earth will give birth to the shades* |
+| 1 Enoch 51, note v1 | *Sheol and Abaddon are before the LORD* | *Sheol and Abaddon lie open before the LORD* |
+| 1 Enoch 51, note v4 | *they neither marry nor are given in marriage, but are like angels in the heavens* | *they neither marry nor are given in marriage, but are like angels in heaven* |
+| 1 Enoch 53, note v1 | *Sheol has enlarged its appetite and opened its mouth beyond measure* | *Sheol has opened wide its throat, and opened its mouth beyond measure* |
+| 1 Enoch 57, note v2 | *will gather His chosen from the four winds, from one end of heaven to the other* | *will gather His chosen from the four winds, from one end of the heavens to the other* |
+| 1 Enoch 60, note vv7–8 | *Behemoth, which I made along with you* | *Behemoth, which I made as I made you* |
+| 1 Enoch 60, note vv7–8 | *Can you draw out Leviathan with a hook?* | *Can you draw out Leviathan with a fishhook?* |
+| 1 Enoch 60, note vv7–8 | *Leviathan the fleeing serpent… and kill the dragon that is in the sea* | *Leviathan the fleeing serpent… and He will kill the dragon that is in the sea* |
+| 1 Enoch 62, note v4 | *sudden destruction comes on them, like labor pains on a woman with child, and they will not escape* | *sudden destruction will come on them, like labor pains on a pregnant woman, and they will not escape* |
+| 1 Enoch 62, note v5 | *God sent His Son, born of a woman* | *God sent forth His Son, born of a woman* |
+| 1 Enoch 63, note v2 | *your God is God of gods and Lord of kings, and a revealer of secrets* | *your God is God of gods and Lord of kings, and a revealer of mysteries* |
+| 1 Enoch 63, note v10 | *make friends for yourselves by means of the wealth of unrighteousness* | *make friends for yourselves by means of unrighteous wealth* |
+| 1 Enoch 63, note v10 | *I am in agony in this flame* | *I am in anguish in this flame* |
+| 1 Enoch 69, note v27 | *He gave Him authority to carry out judgment, because He is the Son of Man* | *He has given Him authority to execute judgment, because He is the Son of Man* |
+| 1 Enoch 71, note vv2, 10 | *His clothing was white as snow, and the hair of His head like pure wool… a river of fire flowed and came out from before Him* | *His clothing was white as snow, and the hair of His head like pure wool… A river of fire was flowing and coming out from His presence* |
+| 1 Enoch 72, note v1 | *I create new heavens and a new earth* | *I am about to create new heavens and a new earth* |
+| 1 Enoch 80, note vv2–7 the order breaks | *the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven* | *the sun will be darkened, and the moon will not give its light, and the stars will fall from the sky* |
+| 1 Enoch 80, note v7 | *when you lift up your eyes to the heavens and see the sun and the moon and the stars… do not be drawn away to bow down to them* | *you do not lift your eyes to the heavens and see the sun, the moon and the stars… and be drawn away and bow down to them* |
+| 1 Enoch 82, note vv1–3 | *sweeter than honey and the drippings of the honeycomb* | *sweeter also than honey and the drippings of the honeycomb* |
+| 1 Enoch 94, note v4 | *I have set before you life and death, blessing and curse. Choose life, so that you may live, you and your offspring* | *I have set before you life and death, the blessing and the curse. Choose life, so that you may live, you and your seed* |
+| 1 Enoch 97, note v2 | *there is joy before the angels of God over one sinner who repents* | *there is joy in the presence of the angels of God over one sinner who repents* |
+| 1 Enoch 98, note v4 | *each one is tempted when he is drawn away and enticed by his own desire. Then desire, when it has conceived, gives birth to sin* | *each one is tempted when he is lured and enticed by his own desire. Then desire, when it has conceived, gives birth to sin* |
+| 1 Enoch 98, note v6 | *There is nothing covered that will not be revealed, and nothing hidden that will not be known* | *Nothing is covered that will not be uncovered, and nothing hidden that will not be made known* |
+| 1 Enoch 12, note v1 (Genesis 5:24) | *…says it in six Hebrew words* | *…says it in nine Hebrew words* (the Hebrew of Genesis 5:24 is nine words) |
+| 1 Enoch 48, note v4 (Isaiah 49:6) | *I will make you a **light of the nations**, that My salvation may reach to the end of the earth* | *I will give you as a **light for the nations**, that My deliverance may reach to the end of the earth* |
+| 1 Enoch 48, note v4 (Luke 2:32) | *a light for revelation to the Gentiles* | *a light for revelation to the nations* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: the manuscripts (Andrew, 8:13 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every Ge'ez word the notes quote was tested against the Ge'ez texts, and every statement of what Charles, the Latin, the Greek, the Aramaic or Knibb's Ge'ez has was read against that witness. No verse was changed.
