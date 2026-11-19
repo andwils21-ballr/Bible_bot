@@ -4,6 +4,38 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 **Asmara repair progress** (JUBILEES_REPAIR_LOOP.md): done: 1–50. Complete.
 
+
+## Fidelity audit, Jubilees 1–50 (Bible 3, 2026-11-18, 9:05 to 9:40 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. Jubilees has no Hebrew or Greek base to read verse by verse, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, tier `witnesses`), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse, every cross-reference to another verse of Jubilees, and every count. No verse was changed; 22 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Jubilees 1, note v20 (2 Corinthians 6:15) | *What agreement has Christ with Beliar?* | *What agreement has Christ with Belial?* (2 Corinthians 6:15; the Greek spells it *Beliar*), as the verse reads in this text |
+| Jubilees 1, note v20 (Psalm 51:10) | *create in me a clean heart, O God, and renew…* | *create in me a clean heart, God, and renew…* |
+| Jubilees 1, note vv27–29 (Isaiah 63:9) | Isaiah: *the angel of His presence saved them* | Isaiah, in the form the Hebrew is read: *the messenger of His presence saved them*; the text of Isaiah 63:9 follows the written form, and its note gives this reading |
+| Jubilees 4, note vv29–30 (Psalm 90:4) | *a thousand years in Your eyes are like yesterday when it passes* | *a thousand years in Your sight are like yesterday when it is past* |
+| Jubilees 4, note vv29–30 (Genesis 2:17) | *on the day you eat from it you will die* | *on the day you eat from it, dying you shall die* |
+| Jubilees 8, note vv1–4 (Luke 3:36) | *the son of Kainam, the son of Arpachshad…* | *the son of Cainan, the son of Arpachshad…* |
+| Jubilees 13, note vv1–9 (Genesis 12:8) | the tent *with Bethel on the west and Ai on the east* | the tent, *Bethel on the west and Ai on the east* |
+| Jubilees 13, note v25 (Hebrews 7:2) | *to whom Abraham apportioned a tenth of everything* | *Abraham gave him a tenth of everything* |
+| Jubilees 15, note v33 (2 Corinthians 6:15) | *What agreement has Christ with Beliar?* | *What agreement has Christ with Belial?* (…; the Greek spells it *Beliar*) |
+| Jubilees 15, note vv31–32 (Deuteronomy 32:9) | *For the LORD's portion is His people; Jacob is the measured lot of His inheritance.* | *For the LORD's portion is His people, Jacob the measured lot of His inheritance.* |
+| Jubilees 17, note vv15–18 (Job 1:11) | *stretch out Your hand and touch all that he has* | *stretch out Your hand now and touch all that he has* |
+| Jubilees 17, note vv17–18 (James 2:23) | *…it was counted to him as righteousness, and he was called friend of God* | *…it was reckoned to him as righteousness, and he was called a friend of God* |
+| Jubilees 18, note v13 (2 Chronicles 3:1) | *…in Jerusalem, on Mount Moriah* | *…in Jerusalem on Mount Moriah* |
+| Jubilees 22, note v26 (Luke 16:22) | *by the angels to Abraham's bosom* | *by the angels to Abraham's side*, *side* being word for word *bosom* (as the note on Luke 16 says) |
+| Jubilees 23, note v17 (Romans 3:12) | *All have turned aside, together they have become worthless…* | *They have all turned aside; together they have become worthless…* |
+| Jubilees 23, note vv26–31 (Isaiah 65:20) | *No more will there be from there an infant of days, or an old man who does not fill his days; for the youth shall die a hundred years old.* | *No more will there be in it an infant who lives but a few days, or an old man who does not fill out his days; for the youth will die a hundred years old.* |
+| Jubilees 27, note v21 (Genesis 28:13) | *Here, the LORD standing over him* | *The LORD was standing over him* |
+| Jubilees 27, note vv19–27 (Genesis 28:12, 17) | *here, a stairway set on the earth, and its head reaching to the heavens. Here, messengers of God going up and coming down on it…* | *a stairway was set on the earth, and its head reached to the heavens. Messengers of God were going up and coming down on it…* |
+| Jubilees 29, note vv9–11 (Deuteronomy 3:11) | *Only Og king of Bashan was left of the remnant of the Rephaim; his bed was a bed of iron… nine cubits its length* | *only Og king of Bashan was left of the remnant of the Rephaim. His bed, a bed of iron… nine cubits long* |
+| Jubilees 30, note v22 (Psalm 69) | Psalm 69:29: *…and not be written with the righteous.* | Psalm 69:28 (this text numbers the psalm as the English does): *…and not be written down with the righteous.* |
+| Jubilees 37, note vv1–13 (Hebrews 12:16–17) | *that no one be… profane like Esau, who for a single meal sold his birthright.* | *godless like Esau, who sold his own birthright for a single meal.* |
+| Jubilees 37, note vv20–23 (Isaiah 11:6) | *The wolf shall live with the lamb* | *The wolf shall live as a guest with the lamb* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: the manuscripts (Andrew, 8:13 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every Ge'ez word the notes quote was tested against the Ge'ez texts, and every statement of what Charles, the Latin, the Greek, the Aramaic or Knibb's Ge'ez has was read against that witness. No verse was changed.
