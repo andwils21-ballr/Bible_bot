@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 1 Chronicles 1–29 (Bible 3, 2026-11-18, 8:10 to 8:25 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Chronicles 1–29 read verse by verse beside the Hebrew (Hebrew 5:27–41 is English 6:1–15, and Hebrew 6:1–66 is English 6:16–81), every number and list checked, and every quotation in the notes checked against this repo's own text. No verse was changed; seven note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Chronicles 5, note vv1–2 (Genesis 49:4) | *you went up to your father's bed* | *you went up on your father's bed* |
+| 1 Chronicles 5, note vv1–2 (Genesis 48:5) | *as Reuben and Simeon* | *like Reuben and Simeon* |
+| 1 Chronicles 6, note v61 (Joshua 21:5) | *from the clans of the tribe of Ephraim, from the tribe of Dan and from the half-tribe of Manasseh* | *from the clans of the tribe of Ephraim, the tribe of Dan and the half-tribe of Manasseh* |
+| 1 Chronicles 8, note v33 (Jeremiah 11:13) | *altars to the shame, altars to burn incense to Baal* | *altars you have set up to the Shame, altars to burn incense to Baal* |
+| 1 Chronicles 17, note v13 (Hebrews 1:5) | *I will be a Father to Him, and He shall be a Son to Me* | *I will be His Father, and He shall be My Son* |
+| 1 Chronicles 24, note vv7–18 (Luke 1:9) | *by the custom of the priesthood, it fell to him by lot to burn incense* | *according to the custom of the priesthood, he was chosen by lot to go into the sanctuary of the Lord and burn incense* |
+| 1 Chronicles 25, note v4 (Isaiah 1:2) | *I have reared and brought up sons* | *Sons I have raised and brought up* |
+
+**Choices for you:** none new.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
