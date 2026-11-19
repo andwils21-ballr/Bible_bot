@@ -3,14 +3,15 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
-## Fidelity audit against the Hebrew, Joshua 1–6 (Bible 3, 2026-11-18, 5:35 to 6:00 PM CST)
+## Fidelity audit against the Hebrew, Joshua 1–12 (Bible 3, 2026-11-18, 5:35 to 6:30 PM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Joshua 1–6 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; two note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Joshua 1–12 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; three note quotations were put into the wording of the verses they cite.
 
 | Where | Before | After |
 |---|---|---|
 | Joshua 1, note v8 (Psalm 1:2) | *on His instruction he meditates day and night* | *on His law he meditates day and night* |
 | Joshua 6, note v26 (1 Kings 16:34) | *In his days Hiel of Bethel built Jericho. With Abiram his firstborn he laid its foundation, and with Segub his youngest he set up its gates, according to the word of the LORD that He spoke through Joshua son of Nun.* | *In his days Hiel the Bethelite built Jericho. He laid its foundation at the cost of Abiram his firstborn, and set up its gates at the cost of Segub his youngest, according to the word of the LORD that He spoke by Joshua son of Nun.* |
+| Joshua 7, note v25 (Hosea 2:15) | *the Valley of Achor as a door of hope* | *the Valley of Achor a door of hope* |
 
 **Choices for you:** none new.
 
