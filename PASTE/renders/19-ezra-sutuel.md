@@ -2,6 +2,42 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezra Sutuel 7 — rendered 2026-11-18, 7:10 PM CST
+
+**Landed:** Ezra Sutuel 7, the longest chapter of the book (139 verses, as long as four or five ordinary chapters). Progress 1,520 → **1,521 of 1,989 (76.5%)**.
+
+**Source:** as for 3–6. **Numbering:** the King James Version has 70 verses in this chapter, because its Latin lacks vv36–105; the Ethiopic, the Syriac and the restored Latin have them all, and the chapter is numbered as they number it, 1–139 (first note). Laurence's three chapters V, VI and VII are 7:1–35, 36–105 and 106–139, as Bible 2 keyed them.
+
+**Form kept:** no sentence starts with *And* except *and Hezekiah* inside v110's list. The angel's *I*, *Me*, *My* capitalized where the words are God's (the open choice of Ezra Sutuel 5–6): *My Israel… I made the world* (vv10–11), *My Messiah* (vv28–29), *My decrees* (v104), *Me, who have spoken to them* (v131). The Messiah's pronouns capitalized (v28). *Gehenna* (v36), as Matthew 5:22. *Achan* (v107), the received name, for Laurence's *Achaz*. *O Lord* where Ezra speaks to God (vv17, 132), *my lord* to the angel (vv3, 10, 53, 102).
+
+**Echoes in the notes, checked against this project's English:** Romans 5:12; Deuteronomy 30:19; Exodus 34:6.
+
+**The checker** found 0 errors and 3 CHECKs: v69 *come into judgment* reworded (*face judgment*); v21 and v132 *came/come into the world* stand, an idiom for being born.
+
+**What this chapter is:**
+- **7:** the sea with a narrow mouth and the city with one narrow path: the way to the wide world runs through the narrow one. *My Messiah will be revealed… My Child, My Messiah, will die*; seven days of silence, the resurrection and the day of judgment, a day with no sun or moon, *only the radiance of the glory of God*. Few saved, many lost: gold is rare. The souls after death, the seven ways of torment and the seven orders of consolation; no one can plead for another. *O Adam, what have you done?* Ezra ends with the names of God's mercy.
+
+### Ezra Sutuel 7: O Adam, What Have You Done?
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 11 | (the Latin: *what had been made was judged*) | the ways of this world became rough and narrow (the Ethiopic) |
+| 26 | the city shall be concealed, which now appears | the city that now appears will be hidden (the Latin: *the bride shall appear, even the city*) |
+| 28 | my Messiah… cause them to rejoice, who shall be raised up | My Messiah… He will make those who have been raised up rejoice (note) |
+| 29 | my Child, my Messiah, shall die | My Child, My Messiah, will die (note) |
+| 33 | His mercy shall come; His clemency shall cease | His mercy will come, His compassion will cease (the Latin and the Syriac: *compassion shall pass away*) |
+| 43 | the extent of that day shall be equal to the space of seven years | That day will last as long as seven years (the Latin: *a week of years*) |
+| 52 | Make for thyself a leaden vessel with potter's clay | make for yourself a vessel of lead and of potter's clay (the Latin and the Syriac: precious stones against lead and clay) |
+| 62 | what becomes of the dust which participates in thy nature? | what has become of the dust that shares your nature? |
+| 67 | What profit is our life to us? | What good is our life to us? (the Latin: *that we are to be saved, yet will be tormented*) |
+| 116 | than that it should have produced him, and have taught him to sin | than to bring him forth and teach him to sin |
+| 118 | if thou hadst not sinned, this evil would not have happened to us | If you had not sinned, this evil would not have come upon us (note) |
+| 129 | Choose ye life | 'Choose life' (note; the Syriac quotes Deuteronomy 30:19 in full) |
+| 131 | I however, who have spoken to them, am not grieved at their destruction | and Me, who have spoken to them; and I do not grieve over their destruction |
+| 139 | by destroying the crowd of apostates | and blot out the multitude of those who deny Him (the Latin and the Syriac: *the multitude of their offenses*) |
+
+**Choices for you:** none new. (The angel's capital pronouns here follow the open choice raised with chapters 5–6.)
+
 ## Ezra Sutuel 5–6 — rendered 2026-11-18, 2:10 PM CST
 
 **Landed:** Ezra Sutuel 5, 6. Progress 1,518 → **1,520 of 1,989 (76.4%)**. Two long chapters (56 and 59 verses), each read against four witnesses.
