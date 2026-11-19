@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, note quotation check (cross-book, second sweep), Judges (Bible 3, 2026-11-18, 11:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 2 note quotations were put into the wording of the verses cited.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 19, note vv22–24 | *Bring out… that we may know* (19:5) | *Bring them out to us, and let us know them* (19:5) |
+| Judges 19, note vv22–24 | *do with them what is good in your eyes* (19:8) | *do to them what is good in your eyes* (19:8) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, Judges 1–21 (Bible 3, 2026-11-18, 7:42 to 9:00 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Judges 1–21 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; three note quotations were put into the wording of the verses they cite, and one note count was corrected.

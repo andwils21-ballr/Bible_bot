@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, note quotation check (cross-book, second sweep), Luke (Bible 3, 2026-11-18, 11:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Luke 24, note vv28–35 | where He *gave thanks… broke it and gave it to them* (22:19) | where *when He had given thanks, He broke it and gave it to them* (22:19) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit, verse scan and note, Luke (Bible 3, 2026-11-18, 11:30 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. All 24 chapters were read against the Greek and no verse was changed. 1 note wording was corrected so that it can be checked in the text as printed.

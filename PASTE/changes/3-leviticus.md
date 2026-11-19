@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, note quotation check (cross-book, second sweep), Leviticus (Bible 3, 2026-11-18, 11:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 17, note v4 | *one who sheds the blood of the human, by the human his blood shall be shed* (Genesis 9:6) | *one who sheds the blood of the human, by the human shall his blood be shed* (Genesis 9:6) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit, note quotation check (cross-book), Leviticus (Bible 3, 2026-11-18, 11:41 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.

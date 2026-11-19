@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, note quotation check (cross-book, second sweep), Exodus (Bible 3, 2026-11-18, 11:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 2 note quotations were put into the wording of the verses cited.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 26, note v30 | *these are the rulings you shall set before them* (21:1) | *these are the rulings that you shall set before them* (21:1) |
+| Exodus 15, note vv25–26 | *God has come to test you* (20:20) | *God has come in order to test you* (20:20) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit, note quotation check (cross-book), Exodus (Bible 3, 2026-11-18, 11:41 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.
