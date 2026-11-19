@@ -12,7 +12,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | Where | Before | After |
 |---|---|---|
 | Numbers 7, note vv3, 9 | *we did not seek Him in the way He ruled* | *we did not seek Him according to the rule* |
-| Numbers 9, note v12 | *these things happened so that the Scripture would be fulfilled: not a bone of him shall be broken* | *these things took place so that the Scripture might be fulfilled: "Not one of His bones will be broken"* |
+| Numbers 9, note v12 (John 19:36) | *these things happened so that the Scripture would be fulfilled: not a bone of him shall be broken* | *a bone of Him shall not be broken*, as council items 53–54 and 94 settled it |
 | Numbers 12, note v8 | *heard the sound of words, but saw no form* | *You heard the sound of words, but you saw no form* |
 
 **Choices for you:** none new.

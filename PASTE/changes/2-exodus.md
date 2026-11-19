@@ -4,11 +4,10 @@ Changes to chapters already rendered, filed under the book the request started i
 
 ## Fidelity audit of the notes, second pass, Exodus (Bible 3, 2026-11-18, 8:42 PM CST)
 
-**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 2 note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotation was put into the wording of the verse it cites. (The Exodus 12 note on John 19:36 stays as council items 53–54 and 94 settled it, *a bone of Him shall not be broken*.)
 
 | Where | Before | After |
 |---|---|---|
-| Exodus 12, note v46 | *a bone of Him shall not be broken* | *Not one of His bones will be broken* |
 | Exodus 16, note v18 | *as it is written, the one who had much did not have too much, and the one who had little did not have too little.* | *As it is written, "The one who gathered much had nothing over, and the one who gathered little had no lack."* |
 
 **Choices for you:** none new.
