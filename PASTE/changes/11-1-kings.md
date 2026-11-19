@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 1 Kings 1–22 (Bible 3, 2026-11-18, 12:15 to 1:30 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Kings 1–22 read verse by verse beside the Hebrew (English 4:21–34 is Hebrew 5:1–14, English 5:1–18 is Hebrew 5:15–32, and English 22:44–53 is Hebrew 22:45–54), and every quotation and count in the notes checked against this repo's own text. No verse was changed; six note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Kings 4, note v25 (Micah 4:4) | *They shall sit each man under his vine and under his fig tree, and none shall make them afraid* | *But they shall sit, each man under his vine and under his fig tree, and no one shall make them afraid* |
+| 1 Kings 8, note vv65–66 (2 Chronicles 7:9) | *the dedication of the altar they kept seven days, and the feast seven days* | *they had kept the dedication of the altar seven days and the feast seven days* |
+| 1 Kings 15, note vv2, 10 (2 Chronicles 13:2) | *Micaiah daughter of Uriel of Gibeah* | *Micaiah the daughter of Uriel of Gibeah* |
+| 1 Kings 15, note vv2, 10 (2 Chronicles 11:20) | *Maacah daughter of Absalom* | *Maacah the daughter of Absalom* |
+| 1 Kings 17, note v9 (Luke 4:26) | *was sent to none of them except to Zarephath in the land of Sidon, to a widow* | *was sent to none of them, but only to Zarephath in Sidon, to a woman who was a widow* |
+| 1 Kings 19, note v18 (Romans 11:4) | *I have kept for Myself seven thousand men, who have not bowed the knee to Baal* | *I have kept for Myself seven thousand men who have not bowed the knee to Baal* |
+
+**Choices for you:** none new.
+
 ## *And now* reviewed, every verse (2026-10-03, 2:30 PM Central)
 
 **Request:** Andrew: go through every *And now* under the *ve-attah* rule written today (RENDERING_SPEC.md, the *And now* entry). *And now* stays where the turn carries weight; otherwise *So*, *Now*, *But now*, or cut. Only the verses that changed are listed.
