@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 2 Kings 1–25 (Bible 3, 2026-11-18, 1:30 to 3:15 AM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Kings 1–25 read verse by verse beside the Hebrew (English 11:21 is Hebrew 12:1, and English 12:1–21 is Hebrew 12:2–22), and every quotation and count in the notes checked against this repo's own text. No verse was changed; eight note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Kings 1, note v10 (Luke 9:54) | *Lord, do you want us to bid fire come down from heaven and consume them?* | *Lord, do You want us to call fire to come down from heaven and consume them?* |
+| 2 Kings 4, note vv42–44 (John 6:13) | *they filled twelve baskets with fragments from the five barley loaves* | *filled twelve baskets with broken pieces from the five barley loaves* |
+| 2 Kings 5, note v15 (Luke 4:27) | *…none of them was cleansed except Naaman the Syrian* | *…none of them was made clean, but only Naaman the Syrian* |
+| 2 Kings 15, note v29 (Isaiah 9:1) | *in the former time He brought into contempt the land of Zebulun and the land of Naphtali; but in the latter He will make glorious… Galilee of the nations* | *In the former time He brought contempt on the land of Zebulun and the land of Naphtali, but in the latter time He has made glorious… Galilee of the nations* |
+| 2 Kings 16, note vv5–7 (Isaiah 7:4) | *Be careful and be quiet; do not fear* | *Take care and be calm; do not fear* |
+| 2 Kings 17, note v15 (Jeremiah 2:5) | *they went after emptiness and became empty* | *went after emptiness and became empty* |
+| 2 Kings 20, note v18 (Daniel 1:3) | *some of the sons of Israel, of the royal seed* | *some of the sons of Israel, from the royal family* |
+| 2 Kings 25, note v3 (Jeremiah 52:6; 39:2) | *in the fourth month, on the ninth of the month* | *in the fourth month, on the ninth day of the month* |
+
+**Choices for you:** none new.
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.
