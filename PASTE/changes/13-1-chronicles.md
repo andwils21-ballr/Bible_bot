@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, second pass, 1 Chronicles (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Chronicles 22, note v1 | *on Mount Moriah, where the LORD appeared to David his father… on the threshing floor of Ornan the Jebusite* | *on Mount Moriah, where the LORD had appeared to David his father… on the threshing floor of Ornan the Jebusite* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, 1 Chronicles 1–29 (Bible 3, 2026-11-18, 8:20 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Chronicles 1–29 read verse by verse beside the Hebrew (Hebrew 5:27–41 is English 6:1–15, and Hebrew 6:1–66 is English 6:16–81), every number and list checked, and every quotation in the notes checked against this repo's own text. No verse was changed; seven note quotations were put into the wording of the verses they cite.

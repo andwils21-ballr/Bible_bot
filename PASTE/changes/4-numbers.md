@@ -5,6 +5,18 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 
 
+## Fidelity audit of the notes, second pass, Numbers (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 3 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Numbers 7, note vv3, 9 | *we did not seek Him in the way He ruled* | *we did not seek Him according to the rule* |
+| Numbers 9, note v12 | *these things happened so that the Scripture would be fulfilled: not a bone of him shall be broken* | *these things took place so that the Scripture might be fulfilled: "Not one of His bones will be broken"* |
+| Numbers 12, note v8 | *heard the sound of words, but saw no form* | *You heard the sound of words, but you saw no form* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, Numbers 21–26 (Bible 3, 2026-11-18, 12:42 to 1:15 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Numbers 21–26 read verse by verse beside the Hebrew (English 25 ends at 18 verses because Hebrew 25:19 is English 26:1), the two census totals added up (601,730 in 26:51 and 23,000 Levites), the ketiv/qere and dotted words in 21:30, 32 checked in the Hebrew, and every quotation of another book in the notes compared word for word with this text of that verse (a script lists each italic quotation beside the verse). Every verse matches the Hebrew; no verse changed. Five note quotations did not match this text and were corrected.

@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, second pass, Romans (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 2 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Romans 3, note vv22, 26 | *we believed in Christ Jesus* | *we also have believed in Christ Jesus* |
+| Romans 4, note vv3, 22–24 | *was not written for his sake alone* | *were not written for his sake alone* |
+
+**Choices for you:** none new.
+
 ## Double meanings, third batch: notes added (Andrew, 12:05 AM CST, 2026-11-15)
 
 **Request:** Andrew: go on with the search for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

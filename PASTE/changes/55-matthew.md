@@ -2,6 +2,24 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, second pass, Matthew (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 9 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Matthew 4, note vv1–11 forty in the wilderness | *the LORD your God led you these forty years in the wilderness, to humble you, to test you* | *the LORD your God has led you these forty years in the wilderness, to humble you, to test you* |
+| Matthew 13, note vv14–15 | *Make the heart of this people fat, and make its ears heavy, and shut its eyes* | *Make the heart of this people fat, make their ears heavy, and shut their eyes* |
+| Matthew 16, note v19 | *I will place the key of the house of David on his shoulder; he will open, and none will shut; he will shut, and none will open* | *I will set the key of the house of David on his shoulder; he will open, and no one will shut; he will shut, and no one will open* |
+| Matthew 21, note v5 | *Say to the daughter of Zion, Your salvation comes* | *Say to the daughter of Zion, "Your deliverance is coming"* |
+| Matthew 21, note v42 | *The stone the builders rejected has become the head of the corner; this was from the LORD; it is wonderful in our eyes* | *The stone the builders rejected has become the cornerstone. This is the LORD's doing; it is marvelous in our eyes* |
+| Matthew 24, note v30 | *with the clouds of heaven one like a son of man was coming* | *with the clouds of heaven there came one like a son of man* |
+| Matthew 25, note v32 | *As for you, My flock, this is what the Lord GOD says: I am judging between sheep and sheep, between rams and male goats* | *As for you, My flock, this is what the Lord GOD says: I will judge between one sheep and another, between the rams and the male goats* |
+| Matthew 25, note v46 | *many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt* | *Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting abhorrence* |
+| Matthew 28, note v18 | *to him was given dominion and glory and a kingdom, that all peoples, nations and languages should serve him* | *To him was given dominion, glory and a kingdom, that all peoples, nations and languages should serve him* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, Matthew (Bible 3, 2026-11-18, 8:39 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 5 note quotations were put into the wording of the verses they cite.

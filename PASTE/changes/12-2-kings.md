@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, second pass, 2 Kings (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Kings 12, note v4 | *the tax of Moses the servant of the LORD* | *the tax that Moses the servant of the LORD laid on the assembly of Israel* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, 2 Kings 1–25 (Bible 3, 2026-11-18, 1:30 to 3:15 AM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Kings 1–25 read verse by verse beside the Hebrew (English 11:21 is Hebrew 12:1, and English 12:1–21 is Hebrew 12:2–22), and every quotation and count in the notes checked against this repo's own text. No verse was changed; eight note quotations were put into the wording of the verses they cite.

@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit of the notes, second pass, Genesis (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| Genesis 25, note v23 | *before they were born or had done anything good or bad… it was said to her, the greater shall serve the lesser* | *Though they were not yet born and had done nothing good or bad… she was told, "The greater shall serve the lesser"* |
+
+**Choices for you:** none new.
+
 ## Fidelity check against the Hebrew, Genesis 46–50 (Bible 3, 2026-11-16, 6 AM CST)
 
 **Request:** Andrew, 2026-11-16: check Genesis and Exodus against the source. Genesis 46–50 read verse by verse beside the Hebrew (and the Greek at 46:27): every name, number and clause agrees; the counts the notes give (34 names against the stated 33, 66 and 70, the Greek 75, the four *chanat* words) hold. One note claim corrected, to agree with the 24:2 fix above. **This finishes the fidelity check of Genesis 1–50.** Across the fifty chapters no verse of the translation was changed; every fix was to a note.

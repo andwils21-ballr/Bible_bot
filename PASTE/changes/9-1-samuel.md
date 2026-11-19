@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit of the notes, second pass, 1 Samuel (Bible 3, 2026-11-18, 8:42 PM CST)
+
+**Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Samuel 31, note v4 | *I stood over him and killed him… and I took the crown that was on his head* | *I stood over him and killed him… I took the crown that was on his head* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, 1 Samuel 1–31 (Bible 3, 2026-11-18, 9:00 to 10:30 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 1 Samuel 1–31 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; five note quotations were put into the wording of the verses they cite.
