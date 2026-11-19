@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, note quotation check (cross-book), Exodus (Bible 3, 2026-11-18, 11:41 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Exodus 14, note vv21–22 dry ground | *let the waters be gathered, and let the dry ground be seen* (Genesis 1:9) | *let the waters beneath the heavens be gathered to one place, and let the dry ground be seen* (Genesis 1:9) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, second pass, Exodus (Bible 3, 2026-11-18, 8:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotation was put into the wording of the verse it cites. (The Exodus 12 note on John 19:36 stays as council items 53–54 and 94 settled it, *a bone of Him shall not be broken*.)

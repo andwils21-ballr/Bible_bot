@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, note quotation check (cross-book), 1 Meqabyan (Bible 3, 2026-11-18, 11:41 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 2 note quotations were put into the wording of the verses cited.
+
+| Where | Before | After |
+|---|---|---|
+| 1 Meqabyan 14, note v2 | *eight persons… brought safely through water* (1 Peter 3:20) | *eight souls… brought safely through water* (1 Peter 3:20) |
+| 1 Meqabyan 25, note v9 | as in 28:38, *from India to Ethiopia* (Esther 1:1) | as in 28:38, *from India to Ethiopia*, the same pairing as Esther 1:1, *from India to Cush* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit, 1 Meqabyan 1–36 (Bible 3, 2026-11-18, 8:35 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. This book's only source is the EOTC Ge'ez, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, Meqabyan), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse (quotations marked as the Greek reading of the verse were left as they are). No verse was changed; 22 note quotations were put into the wording of the verses they cite.

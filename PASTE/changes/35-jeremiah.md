@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, note quotation check (cross-book), Jeremiah (Bible 3, 2026-11-18, 11:41 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 2 note quotations were put into the wording of the verses cited.
+
+| Where | Before | After |
+|---|---|---|
+| Jeremiah 7, note v11 | *My house shall be called a house of prayer* (Isaiah 56:7) | *My house will be called a house of prayer* (Isaiah 56:7) |
+| Jeremiah 25, note vv11–12 | Daniel reads it *in the books… the word of the LORD to Jeremiah the prophet* | Daniel reads it *from the books… the word of the LORD to Jeremiah the prophet* |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, Jeremiah (Bible 3, 2026-11-18, 8:39 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 7 note quotations were put into the wording of the verses they cite.

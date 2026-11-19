@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Fidelity audit, note quotation check (cross-book), Leviticus (Bible 3, 2026-11-18, 11:41 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 20, note v17 | *I desire mercy and not sacrifice* (Hosea 6:6) | *I desire loyal love and not sacrifice* (Hosea 6:6) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit against the Hebrew, Leviticus 21–27 (Bible 3, 2026-11-18, 9:55 AM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Leviticus 21–27 read verse by verse beside the Hebrew (ketiv/qere, hapax counts, the seven *qeri*, the five written-and-read words and the Hebrew words *tevallul*, *sarua* and *yabbelet* all counted in the Hebrew sources), with quotations checked against the repo's own Genesis, Numbers, 2 Chronicles, Deuteronomy, Isaiah, Luke, Joshua and Acts. Every verse matches the Hebrew; no verse changed. This finishes the audit of Leviticus. One quotation was corrected. Three note claims about the Greek of Leviticus (13:2 *lepra*, 19:18 *hōs seauton*, 22:22 *myrmēkiōnta*) were checked in `sources/swete-src/` (Swete's whole Septuagint, which `source_text.py` does not print for Leviticus) and are right.

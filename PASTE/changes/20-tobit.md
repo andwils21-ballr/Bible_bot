@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit, note quotation check (cross-book), Tobit (Bible 3, 2026-11-18, 11:41 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.
+
+| Where | Before | After |
+|---|---|---|
+| Tobit 3, note v6 | *it is better for me to die than to live* (Jonah 4:3) | *my death is better than my life* (Jonah 4:3) |
+
+**Choices for you:** none new.
+
 ## Fidelity audit of the notes, second pass, Tobit (Bible 3, 2026-11-18, 10:09 PM CST)
 
 **Request:** Andrew, 2026-11-18: Tobit 1–14 read against the Greek (the numbers and every verse of chapters 1–5, then every verse with a number in 6–14), and the notes' quotations checked against this repo's text. No verse was changed; 1 note quotation was put into the wording of the verse it cites.
