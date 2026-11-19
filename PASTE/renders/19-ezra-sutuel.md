@@ -2,6 +2,47 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezra Sutuel 8–9 — rendered 2026-11-19, 2:10 PM CST
+
+**Landed:** Ezra Sutuel 8, 9 (63 and 47 verses). Progress 1,521 → **1,523 of 1,989 (76.6%)**. The 1 AM cycle was missed (two cycles were queued); this is one cycle.
+
+**Source:** as for 3–7. **Kept from the Latin and the Syriac where the Ethiopic has a gap:** 9:35b–37 (Laurence's manuscript ends v35 short; Dillmann's edition breaks off there and has no vv36–37).
+
+**Form kept:** no sentence starts with *And*. The angel's *I*, *Me*, *My* capitalized where the words are God's (the open choice of Ezra Sutuel 5–6): *My creation* (8:47), *My precepts… Me* (9:9–12), *My grape and My plant* (9:22). *Sheol* (8:53). *Arphad* (9:26), the Ethiopic and Syriac name, with the Latin's in a note.
+
+**Echoes in the notes, checked against this project's English and the sources:** Genesis 1:27; 3:24; 5:24; Isaiah 65:8; Ezra Sutuel 14:48 (Laurence). The Syriac lacks the title of 8:20.
+
+**The checker** found 0 errors and 1 CHECK: the 9:21–22 note's *I kept* is a quotation of the verse, not about the translating; it stands.
+
+**What these chapters are:**
+- **8:** *The Most High made this world for the many, but the world to come for the few.* Ezra pleads for the creature formed in the womb and taught by God's law, then prays *the prayer of Ezra, before he was taken up*: *Do not look on the sins of Your people, but on the righteousness of those who serve You.* The angel: not every seed the farmer sows comes up; *for you paradise is opened, the tree of life is planted*.
+- **9:** the signs of the visitation; *I kept for Myself one grape out of a cluster, and one plant out of a great forest.* Ezra fasts in the field of Arphad: the law sown in Israel does not perish, though those who received it do. A woman appears, weeping, with ashes on her head: she was barren thirty years, then bore a son.
+
+### Ezra Sutuel 8: The Prayer of Ezra
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 4 | Let my soul rejoice in understanding, and my ear drink in wisdom | Let my soul rejoice in understanding, and let my ear drink in wisdom (the Latin: *O soul, absorb understanding*) |
+| 16 | for thy people, and for thy inheritance I experience anxiety | for Your people and for Your inheritance I grieve (the Latin adds *Israel… the seed of Jacob*) |
+| 18 | I perceive our falling away… who are to inhabit the world to come | I see our falling away, we who are to live in the world to come (the Latin: *I have heard of the swiftness of the judgment*) |
+| 20 | O Lord, who inhabitest the world | O Lord, who dwell forever (the Latin, the Syriac and Dillmann's *forever*) |
+| 38 | those who have sinned to death, but not to condemnation and to misery | those who have sinned, nor their death, nor their judgment and their misery |
+| 51 | seek out the works of those who resemble thee | seek out the works of those who are like you |
+| 61 | their judgment approaches | their judgment is drawing near (the Latin: *my judgment*) |
+
+### Ezra Sutuel 9: One Grape from the Cluster
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 5–6 | a beginning in verbal description, and a completion in the development of what is described… begins with prediction, prodigy, and power | its beginning in the word that foretells it and its end in the deed that fulfills it… begins with prophecy, wonder and power |
+| 8 | the territory and borders which I have sanctified to myself out of the world | the land and the borders that I have set apart for Myself from the world (the Latin: *from eternity*) |
+| 19 | with a table perpetually spread before them, by a law which possessed no trace of death | with a table always spread and a law with no trace of death |
+| 23–24 | if thou wilt again pray and fast for seven days… only the fruit of the trees | if you will pray again and fast seven days… only the fruit of its trees (the Latin: *you shall not fast… eat only of the flowers*) |
+| 26 | a field which is called Arphad | the field called Arphad (note) |
+| 35 | when its appointed time comes, perishes | perishes when its time comes, and they that received it remain (note) |
+
+**Choices for you:** none new.
+
 ## Ezra Sutuel 7 — rendered 2026-11-18, 7:10 PM CST
 
 **Landed:** Ezra Sutuel 7, the longest chapter of the book (139 verses, as long as four or five ordinary chapters). Progress 1,520 → **1,521 of 1,989 (76.5%)**.
