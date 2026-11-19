@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 5:20, a note on "from their courses" (Bible 2, 2026-11-19, 9:15 AM CST)
+
+**Request:** Andrew, 2026-11-19, asked whether 5:20 could be read another way, then: "5:20 definitely needs a note." *Mesillah* is a built-up road (Isaiah 62:10); *mi-* is **from** (fighting from their places) or **out of** (leaving them to fight). The wording stays; the choice of wording below is still open.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 5, notes | (no note on v20) | v20 *mi-mesillotam*, **from their highways**: the built road an army marches on, used of stars only here; the stars as *the host of heaven* (Deuteronomy 4:19); *mi-* as **from** (2 Samuel 22:14) or **out of**; the storm of v4 and v21 against the chariots of 4:13; the Greek *ek tribōn autōn*. |
+
+**Choices for you:**
+- **5:20, *ha-kokhavim mi-mesillotam***
+  - (a) **from their courses** (now): their set paths across the sky.
+  - (b) **from their roads**: the stars as an army marching down its own roads to battle.
+  - Recommend (b): *mesillah* is a road, not an orbit, and *roads* keeps both readings of *from* open, as the Hebrew does.
+
 ## Fidelity audit, note quotation check (cross-book, second sweep), Judges (Bible 3, 2026-11-18, 11:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 2 note quotations were put into the wording of the verses cited.
