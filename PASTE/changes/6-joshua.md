@@ -3,9 +3,9 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
-## Fidelity audit against the Hebrew, Joshua 1–12 (Bible 3, 2026-11-18, 5:35 to 6:30 PM CST)
+## Fidelity audit against the Hebrew, Joshua 1–24 (Bible 3, 2026-11-18, 5:35 to 7:10 PM CST)
 
-**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Joshua 1–12 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; three note quotations were put into the wording of the verses they cite.
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Joshua 1–24 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; three note quotations were put into the wording of the verses they cite.
 
 | Where | Before | After |
 |---|---|---|
