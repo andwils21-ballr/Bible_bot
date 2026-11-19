@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Fidelity audit against the Hebrew, 2 Samuel 1–8 (Bible 3, 2026-11-18, 10:30 to 11:00 PM CST)
+
+**Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. 2 Samuel 1–8 read verse by verse beside the Hebrew, and every quotation and count in the notes checked against this repo's own text. No verse was changed; six note quotations were put into the wording of the verses they cite.
+
+| Where | Before | After |
+|---|---|---|
+| 2 Samuel 5, note vv6–8 (Psalm 42:7) | *at the sound of your waterfalls* | *at the roar of Your waterfalls* |
+| 2 Samuel 6, note v3 (1 Samuel 6:7) | the Philistines sent the ark home *on a new cart* | the Philistines sent the ark home on *a new cart* |
+| 2 Samuel 6, note vv6–7 (1 Chronicles 13:10) | *because he put out his hand on the ark* | *because he put out his hand to the ark* |
+| 2 Samuel 7, note v5 (1 Chronicles 17:4) | *You shall not build Me a house* | *You shall not build Me the house to dwell in* |
+| 2 Samuel 7, note v14 (Hebrews 1:5) | *I will be a Father to Him, and He shall be a Son to Me* | *I will be His Father, and He shall be My Son* |
+| 2 Samuel 8, note v13 (1 Chronicles 18:12) | *Abishai… struck Edom in the Valley of Salt, eighteen thousand* | *Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt* |
+
+**Choices for you:** none new.
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.
