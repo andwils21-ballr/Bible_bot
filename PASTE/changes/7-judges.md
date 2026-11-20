@@ -12,6 +12,25 @@ Changes to chapters already rendered, filed under the book the request started i
 
 **Choices for you:** all decided.
 
+## Judges 8:2–3, 6, 15: "compared with you" and the two hands (Bible 2, 2026-11-20, 7:45 AM CST)
+
+**Request:** Andrew, 2026-11-20: "compared" in 8:2–3 does not read naturally, and 8:6 uses *hands* twice. In 8:2–3 Gideon gives Ephraim the credit; *kakhem*, **like you**, need not be the same English twice, and *attah*, **now**, made *What have I done now* sound like *what did I do wrong this time*. In 8:6 the Hebrew has two words, *kaf*, **palm**, and *yad*, **hand**; *yad* is kept, since Gideon answers with it in v7 and quotes the whole line back in v15.
+
+**Choices for you:**
+- **8:2–3, *meh asiti attah kakhem… u-mah yakholti asot kakhem***: ✅ Decided 2026-11-20: (a).
+  - (a) **What have I done, next to what you have done?… What could I do that comes close to that?** (now)
+  - (b) **I have done nothing next to what you have done… What I was able to do is nothing beside that.**
+- **8:6, 15, *ha-khaf Zevach ve-Tsalmunna attah be-yadekha***: ✅ Decided 2026-11-20: (a).
+  - (a) **Do you already have Zebah and Zalmunna in your hand** (now): keeps v7's *into my hand*.
+  - (b) **Are Zebah and Zalmunna already in your grasp**
+
+| Where | Before | After |
+|---|---|---|
+| Judges 8:2 | What have I done now compared with you? | What have I done, next to what you have done? |
+| Judges 8:3 | What have I been able to do compared with you? | What could I do that comes close to that? |
+| Judges 8:6 | Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your army? | Do you already have Zebah and Zalmunna in your hand, that we should give bread to your army? |
+| Judges 8:15 | Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your exhausted men? | Do you already have Zebah and Zalmunna in your hand, that we should give bread to your exhausted men? |
+
 ## Judges 5:20, a note on "from their courses", then "from their roads" (Bible 2, 2026-11-19, 9:15 AM CST)
 
 **Request:** Andrew, 2026-11-19, asked whether 5:20 could be read another way, then: "5:20 definitely needs a note." *Mesillah* is a built-up road (Isaiah 62:10); *mi-* is **from** (fighting from their places) or **out of** (leaving them to fight). Andrew chose (b) the same day.
