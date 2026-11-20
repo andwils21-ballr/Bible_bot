@@ -16,6 +16,15 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 **Choices for you:** none new.
 
+## Daily source check, Ezra Sutuel 8–16 (Bible 2, 9:00 AM CST, 2026-11-20)
+
+**Request:** the daily check of the previous day's renders (council item 104) read Ezra Sutuel 8–14 against Laurence's English, Dillmann's Ge'ez (OCR, for shape), the Latin and the Syriac, and the stubs 15–16. The text was sound. Two notes claimed more than the witnesses show: the Syriac has the title of 8:20 (at the end of its v19), and the Latin has *an established city* at 10:44, not *a city being built*.
+
+| Where | Before | After |
+|---|---|---|
+| 8, note v20 | a title inside the book, in the Ethiopic and the Latin; the Syriac lacks it. | a title inside the book, in the Ethiopic, the Latin and the Syriac. |
+| 10, note vv27, 42, 44 | the Latin and the Syriac have *a city being built*. | the Latin and the Syriac have *a city being built* (vv27, 42). |
+
 ## Daily source check, Ezra Sutuel 5–7 (Bible 2, 9:00 AM CST, 2026-11-19)
 
 **Request:** the daily check of the previous day's renders (council item 104) read Ezra Sutuel 5–7 against Laurence's English, Dillmann's Ge'ez (OCR, for shape), the Latin and the Syriac. The text was sound. Two notes misquoted: the 5:56 note pointed to 6:6 for words that stand in 6:1, and the 7:28–29 note gave the Syriac *a reign* it does not have. Bible 2 also moved Laurence's [III.61] from 5:48 to 5:49 in `sources/english/ezra-sutuel.laurence.txt`, where its content belongs (the infant and the aged womb); the text already treated 5:48 as missing from his manuscript.
