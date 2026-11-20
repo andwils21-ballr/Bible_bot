@@ -624,7 +624,7 @@
    "slug": "2-john",
    "chapters": 1,
    "tier": "source",
-   "done": 0
+   "done": 1
   },
   {
    "order": 79,
@@ -632,7 +632,7 @@
    "slug": "3-john",
    "chapters": 1,
    "tier": "source",
-   "done": 0
+   "done": 1
   },
   {
    "order": 80,
@@ -640,7 +640,7 @@
    "slug": "jude",
    "chapters": 1,
    "tier": "source",
-   "done": 0
+   "done": 1
   },
   {
    "order": 81,
@@ -648,7 +648,7 @@
    "slug": "revelation",
    "chapters": 22,
    "tier": "source",
-   "done": 0
+   "done": 2
   },
   {
    "order": 82,

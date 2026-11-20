@@ -1,6 +1,6 @@
 # Progress
 
-**1530 of 1989 chapters rendered (76.9%).**
+**1535 of 1989 chapters rendered (77.2%).**
 
 Next up: **Esther 11**
 
@@ -83,10 +83,10 @@ Next up: **Esther 11**
 | 75 | 1 Peter | source | done |
 | 76 | 2 Peter | source | done |
 | 77 | 1 John | source | done |
-| 78 | 2 John | source | 0/1 |
-| 79 | 3 John | source | 0/1 |
-| 80 | Jude | source | 0/1 |
-| 81 | Revelation | source | 0/22 |
+| 78 | 2 John | source | done |
+| 79 | 3 John | source | done |
+| 80 | Jude | source | done |
+| 81 | Revelation | source | 2/22 |
 | 82 | 1st Book of the Covenant | english-only | 1/73 |
 | 83 | 2nd Book of the Covenant | english-only | 1/62 |
 | 84 | Sirate Tsion | none | — |
