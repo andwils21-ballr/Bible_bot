@@ -2,6 +2,86 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Ezra Sutuel 10–16 — rendered 2026-11-19, 7:20 PM CST
+
+**Landed:** Ezra Sutuel 10–14 (60, 46, 51, 58 and 48 verses), and stubs for 15–16. **The book is finished.** Progress 1,523 → **1,530 of 1,989 (76.9%)**.
+
+**Source:** as for 3–9. Following the book's rule (decided (a)), words the Ethiopic manuscripts share are followed, the fuller words are kept where Laurence's manuscript alone lacks them, and differences in meaning get a note. **15–16** are stubs like 1–2: 2 Esdras 15–16 (6 Ezra) is a Latin addition; the Ethiopic book ends at 14:48.
+
+**Form kept:** no sentence starts with *And*. The angel's and the voice's *I*, *Me*, *My* capitalized where the words are God's (*His city*, 10:54; *My borders*, 12:34 and 13:48; *Mine… My law*, 13:54; *My Son*, 14:9). The Messiah's pronouns capitalized where the angel explains who He is (12:32–34; 13:26–52), as in 7:28; inside the visions the lion is *it* and the man from the sea is *he*, figures as Ezra saw them. *O Lord, my Lord* to the angel where Ezra answers him so (13:51), as in 5:38. Received names: *Sarea, Dabria, Selemia, Ecanus and Asiel* (14:24), the names English readers know, which the Ethiopic spells much the same. *Azaph* (13:45), the Ethiopic's name, with the Syriac's and the Latin's in a note, as *Arphad* at 9:26.
+
+**Numbers:** 10:45–46 *three thousand years* (the Latin, the Syriac and Dillmann's edition; Laurence's manuscript has only *hundred*, and he supplied *thirty*). 14:37 *five men* (Laurence's manuscript has *three*; his own footnote calls it a mistake for five, see v24). 14:44 *ninety-four books*.
+
+**One quotation brought into line:** the note on 8:20 quoted the book's last verse as *Then Ezra was taken up*; it now quotes 14:48 as rendered, *On that day Ezra was taken up*.
+
+**Echoes in the notes, checked against this project's English:** Galatians 4:26; Hebrews 11:10; Daniel 2:34–35; 7:3, 7, 13, 23; Genesis 5:24; 49:9; Ezekiel 24:21, 25; 2 Kings 17:3, 6; Exodus 3:4; 1 Corinthians 15:53.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:**
+- **10:** the woman's son died on his wedding night; Ezra rebukes her: Zion, *the mother of us all*, mourns for far more. Her face shines like lightning, she cries out, and she is gone: in her place stands a city on great foundations. Uriel explains: the woman is Zion, her thirty barren years the three thousand years before Solomon's offering, her son's death the fall of Jerusalem.
+- **11:** the eagle from the sea, with twelve wings, three silent heads, and heads that sprout from its wings; one by one they rule and perish. A lion comes out of the field and speaks for the Most High: the eagle is the last of the four beasts, and it will perish.
+- **12:** the meaning: the eagle is the fourth kingdom of Daniel's dream; the lion is the one kept for the last days, *from the seed of David*, who will judge the nations and redeem the remnant. The people come out to the field afraid Ezra has left them: *you alone are left to us, like one cluster out of all the vintage*.
+- **13:** a man comes up out of the sea and flies with the clouds of heaven; a multitude makes war on him, and he burns them with the fire of his mouth from a mountain not made by hands. He is *the Son*, who will stand on Mount Zion; the peaceable multitude are the nine tribes, who will cross the Euphrates home.
+- **14:** a voice from a tree calls *Ezra, Ezra*, as from the bush to Moses. Ezra asks for the Holy Spirit to write again the law that was burned; he drinks a cup of water like fire, and in forty days five men write ninety-four books, some for all and some for the wise. Then Ezra is taken up.
+
+### Ezra Sutuel 10: The Woman Who Became a City
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 8 | And now truly dost thou mourn and grieve? All of us indeed mourn and grieve | Now indeed you grieve and mourn; but all of us are mourning (the Ethiopic can be read as a question or a statement; this keeps both) |
+| 20 | Estimate thy own sufferings by those of Sion; and receive consolation by reflecting upon the city of Jerusalem | Set your sorrow beside the judgment of Zion, and take comfort with the city of Jerusalem |
+| 23 | the seal of Sion has lost her glory | Greatest of all is Zion's seal: her glory has gone out from her (the Latin: *she has been stripped of her glory*) |
+| 27, 42, 44 | the buildings of a city… a city full of buildings | a city, built (note) |
+| 30–31 | lying as one dead, and void of sense… deprived of all sensation | my senses had left me… Why have your senses left you? (the Ethiopic: *my heart was not with me*) |
+| 47 | that signifies the dwelling in Jerusalem | that was the time when Jerusalem was lived in |
+
+### Ezra Sutuel 11: The Eagle and the Lion
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 3, 11, 22–31 | heads… [small] heads | small heads (the Ethiopic calls them heads; *small* from v3, *became small, thin wings*; note) |
+| 4 | His heads were silent | Its heads were silent (the Latin: *at rest*) |
+| 9 | every head shall become great at the last | the heads will become great at the last (note) |
+| 29 | one of the three silent heads | one of the three heads that were silent woke (Dillmann's edition and the Latin; Laurence lacks *woke*) |
+| 37 | a lion rose out of the field | a lion rose up out of the field (the Latin: *the forest*) |
+| 44 | Who has contemplated his [creature] man | The Most High has looked on His people (note) |
+
+### Ezra Sutuel 12: From the Seed of David
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 1 | while the Merciful One spoke these things to the eagle | while the Merciful One was speaking these words to the eagle (note) |
+| 2 | their talons became agitated | their talons were restless (the Latin: *their kingdom was small and full of turmoil*) |
+| 21 | the remaining two shall be still longer preserved | two will be kept longer still (the Latin: *kept for the end*) |
+| 27–28 | shall both fall by the sword | will die by the spear (the Ethiopic word; the Latin: *the sword*) |
+| 32 | he of the seed of David… fully display to them their wilful proceedings | from the seed of David… set their recompense before them (note) |
+| 48 | the severe humiliation of our joys | the grief that has come on our joy (note) |
+
+### Ezra Sutuel 13: The Man from the Sea
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 3 | all things disappeared before him | everything before him turned back (the Latin: *trembled*) |
+| 4 | melted away like a honeycomb approaching to the fire | melted, as a honeycomb melts when it comes near the fire (the Latin: *wax*) |
+| 11–13 | Then I awoke… being greatly astonished, I awoke | Then I awoke… I was troubled and awoke (the Ethiopic wakes him twice; the Latin: *I looked and was astonished*) |
+| 30 | (lacking) | On that day they will be bewildered (Dillmann's edition and the Latin) |
+| 37–38 | that Son who shall rebuke… like a whirlwind… like a scorching flame… like coals of fire | He is the Son, who will rebuke… (note) |
+| 40 | the nine tribes… Shalmanezer, king of Assyria | the nine tribes… Shalmaneser king of Assyria (note) |
+
+### Ezra Sutuel 14: Ezra Is Taken Up
+
+| Verse | Laurence's English of the Ethiopic | In the text now |
+|---|---|---|
+| 1–2 | under a tree, a voice came from the opposite side | under a tree, a voice came from opposite that tree (the Latin: *out of a bush*) |
+| 11–12 | ten periods… a half of that tenth remains | ten parts… half of the tenth remains (note) |
+| 14 | clothe thyself with immortality | put on what does not die (note) |
+| 35 | after death shall judgment come without salvation | after death the judgment comes, and it will not give us life (note) |
+| 46 | these thou shalt keep back | keep these (note: the Latin and the Syriac, *the seventy*) |
+| 48 | in the fourth of the sabbatical years… Ezra was taken up into the region of those who resembled him | in the fourth year of the week of years… Ezra was taken up, and carried to the land of those who are like him (*week of years*, as in Jubilees) |
+
+**Choices for you:** none new.
+
 ## Ezra Sutuel 8–9 — rendered 2026-11-19, 2:10 PM CST
 
 **Landed:** Ezra Sutuel 8, 9 (63 and 47 verses). Progress 1,521 → **1,523 of 1,989 (76.6%)**. The 1 AM cycle was missed (two cycles were queued); this is one cycle.
