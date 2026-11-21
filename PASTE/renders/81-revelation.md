@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Revelation 7–10 — rendered 2026-11-20, 7:10 PM CST
+
+**Landed:** Revelation 7, 8, 9, 10 (17, 13, 21 and 11 verses). Progress 1,539 → **1,543 of 1,989 (77.6%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** SBLGNT, rendered as printed where the edition marks a variant (8:13 *an eagle*; 9:6 *death flees*).
+
+**Form kept:** no sentence starts with *And*. *Idou* cut (7:9; 9:12). *Voices* for *phōnai* with the thunders (8:5), as at 4:5. *Slain* and *overcome* as before; *pitch His tent* for *skēnoō* (7:15), as John 1:14. *My lord* (7:14) to the elder, lowercase. *Wormwood* (8:11) and *Abaddon… Apollyon* (9:11), the received names, with their meanings in the notes. Capital pronouns for the Lamb (7:17).
+
+**Echoes in the notes, checked against this project's English:** Ezekiel 9:4; 10:2; 3:3; 2:10; John 1:14; Isaiah 49:10; 25:8; Exodus 9:24; 7:20; 10:22; Jeremiah 9:15; Joel 1:6; 2:4–5; Job 3:21; 26:6; 28:22; Daniel 5:23; 12:7; Amos 3:7–8.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:**
+- **7:** before the winds are let loose, the servants of God are sealed, twelve thousand from each tribe; then a multitude no one could count, from every nation, in white robes before the throne: *the Lamb… will be their shepherd… and God will wipe away every tear*.
+- **8:** the seventh seal, and silence in heaven; the prayers of the saints rise with incense, and fire is thrown onto the earth. The first four trumpets strike a third of the land, the sea, the rivers (the star Wormwood) and the lights of the sky.
+- **9:** the fifth trumpet opens the abyss: locusts like horses, with scorpions' stings, whose king is Abaddon. The sixth releases the four angels at the Euphrates and an army of two hundred million; the rest of mankind still does not repent.
+- **10:** a mighty angel with a little scroll, one foot on the sea and one on the land, swears that *there will be no more time*. John eats the scroll, sweet as honey in his mouth and bitter in his stomach: *You must prophesy again*.
+
+### Revelation 7: A Great Multitude No One Could Count
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 9 | behold, a great crowd | there was a great multitude |
+| 10 | The salvation to our God | Salvation belongs to our God |
+| 14 | I have said to him, My lord, you know | I said to him, "My lord, you know" |
+| 15 | will tent over them | will pitch His tent over them (note) |
+| 17 | will shepherd them | will be their shepherd |
+
+### Revelation 8: The Seven Trumpets
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | that he should give to the prayers | to offer with the prayers |
+| 4 | the smoke of the incense went up to the prayers | the smoke of the incense rose with the prayers |
+| 9 | the creatures in the sea, those having souls | the living creatures in the sea |
+| 12 | the day might not shine a third of it | a third of the day had no light |
+| 13 | from the remaining voices of the trumpet | at the blasts of the other trumpets |
+
+### Revelation 9: The Locusts from the Abyss
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | the well of the abyss | the shaft of the abyss |
+| 7 | the likenesses of the locusts were like horses | the locusts looked like horses |
+| 16 | two myriads of myriads | twice ten thousand times ten thousand |
+| 17 | fiery and hyacinthine and sulfurous | the color of fire and of hyacinth and of sulfur |
+| 20 | so that they would not worship | so as to stop worshiping |
+
+### Revelation 10: The Little Scroll
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | as a lion bellows | as a lion roars |
+| 6 | time will no longer be | there will be no more time (choice below) |
+| 7 | and the mystery of God was finished | the mystery of God is finished |
+| 9 | it will make bitter your belly | It will make your stomach bitter |
+
+**Choices for you:**
+
+- **10:6, *chronos ouketi estai***
+  - (a) **there will be no more time** (now): it can be heard either way, that no delay is left before the end, or that time itself ends.
+  - (b) **there will be no more delay**: the waiting is over; the seventh trumpet comes next (v7).
+  - (c) **time will be no longer**: time itself comes to an end, the reading of the King James Version.
+  - Recommend (a): it keeps both readings open, as the Greek does; (b) and (c) each settle it.
+
 ## Revelation 3–6 — rendered 2026-11-20, 2:10 PM CST
 
 **Landed:** Revelation 3, 4, 5, 6 (22, 11, 14 and 17 verses). Progress 1,535 → **1,539 of 1,989 (77.4%)**. Esther 11–16 is still held on the October choice.
