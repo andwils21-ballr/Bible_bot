@@ -2,7 +2,7 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
-## Revelation 15–18 — rendered 2026-11-21, 2:15 PM CST
+## Revelation 15–18 — rendered 2026-11-21, 2:10 PM CST
 
 **Landed:** Revelation 15, 16, 17, 18 (8, 21, 18 and 24 verses). Progress 1,547 → **1,551 of 1,989 (78.0%)**. Esther 11–16 is still held on the October choice.
 
