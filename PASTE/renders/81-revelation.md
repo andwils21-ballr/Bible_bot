@@ -2,6 +2,73 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Revelation 11–14 — rendered 2026-11-21, 1:10 AM CST
+
+**Landed:** Revelation 11, 12, 13, 14 (19, 17, 18 and 20 verses). Progress 1,543 → **1,547 of 1,989 (77.8%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** SBLGNT, rendered as printed where the edition marks a variant (13:1 *he stood*; 13:18 *six hundred and sixty-six*). **Numbering:** the edition's 12:18, *he stood on the sand of the sea*, is 13:1 in the English numbering, so chapter 12 has 17 verses (note at 13:1).
+
+**Form kept:** no sentence starts with *And*. *Idou* cut (11:14; 12:3; 14:1, 14). *Slain* (13:3, 8), *overcome* (11:7; 12:11; 13:7), *pitch tents* for *skēnoō* (12:12; 13:6), *breath* for *pneuma* given to the dead and to the image (11:11; 13:15), *voices* with the thunders (11:19). The beast is *it*; the dragon *he*, as a person (*the devil and Satan*, 12:9). Capital pronouns for God, the Lamb and *one like a son of man* (14:14–16), as at 1:13. Hymns set as poetry (11:15, 17–18; 12:10–12).
+
+**Echoes in the notes, checked against this project's English:** Ezekiel 40:3; 37:10; Daniel 7:4–8, 25; Zechariah 4:3, 14; 3:1; 1 Kings 17:1; 2 Kings 1:10; Exodus 7:20; 19:4; Genesis 37:9–10; 3:15; Isaiah 66:7; 21:9; 63:3; Numbers 16:32; Jeremiah 15:2; 25:15; Joel 3:13.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:**
+- **11:** John measures the temple; two witnesses prophesy for 1,260 days with the powers of Elijah and Moses, are killed by the beast, lie three and a half days in the street, and are raised and taken up. The seventh trumpet: *The kingdom of the world has become the kingdom of our Lord and of His Christ.*
+- **12:** a woman clothed with the sun gives birth to a son who is caught up to God; a great red dragon waits to devour him. War in heaven: Michael throws down *the ancient serpent, who is called the devil and Satan*. The dragon pursues the woman, and she is given the wings of the great eagle.
+- **13:** a beast from the sea, given the dragon's throne, with a wound that was healed; a second beast from the earth, *two horns like a lamb*, that makes all receive its mark: *its number is six hundred and sixty-six*.
+- **14:** the Lamb on Mount Zion with the 144,000; three angels: the eternal gospel, *Fallen, fallen is Babylon*, the cup of wrath; *Blessed are the dead who die in the Lord*; one like a son of man reaps the earth, and the vine is thrown into the winepress of the wrath of God.
+
+### Revelation 11: The Two Witnesses
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | I will give to My two witnesses | I will give power to My two witnesses |
+| 8 | their corpse | their bodies |
+| 8 | which is called spiritually | which is called, spiritually |
+| 13 | names of men, seven thousand | seven thousand people |
+| 17 | You have taken… and reigned | You have taken… and begun to reign |
+
+### Revelation 12: The Woman and the Dragon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | having in womb | she was pregnant |
+| 4 | his tail drags | his tail sweeps away |
+| 11 | they did not love their soul until death | they did not love their lives even to death |
+| 12 | those tenting in them | you who pitch your tents in them |
+| 14 | from the face of the serpent | away from the face of the serpent |
+| 15 | so that he might make her river-carried | to sweep her away with the flood |
+
+### Revelation 13: The Two Beasts
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | (12:18) and he stood on the sand of the sea | The dragon stood on the sand of the sea (note) |
+| 3 | as slain to death, and the wound of its death was healed | seemed to have been slain, to death, but its deadly wound was healed |
+| 3 | the whole earth marveled after the beast | the whole earth was amazed and followed the beast |
+| 8 | of the Lamb slain from the foundation of the world | of the Lamb who was slain from the foundation of the world (choice below) |
+| 10 | if anyone into captivity, into captivity he goes | If anyone is for captivity, into captivity he goes |
+| 18 | it is a number of a man | it is the number of a man (note) |
+
+### Revelation 14: The Harvest of the Earth
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | they sing as a new song | They sing what seems a new song |
+| 8 | the wine of the wrath of her fornication | the wine of the passion of her sexual immorality (note) |
+| 10 | mixed unmixed | poured out unmixed |
+| 16 | cast His sickle on the earth | swung His sickle over the earth |
+| 20 | from a thousand six hundred stadia | for sixteen hundred stadia (note) |
+
+**Choices for you:**
+
+- **13:8, *tou arniou tou esphagmenou apo katabolēs kosmou***
+  - (a) **the book of life of the Lamb who was slain from the foundation of the world** (now): the Greek order, which can be read either way: the Lamb slain from the foundation of the world, or names not written from the foundation of the world.
+  - (b) **whose name has not been written from the foundation of the world in the book of life of the Lamb who was slain**: the names are what date from the beginning, as in 17:8, where the phrase stands without the Lamb.
+  - Recommend (a): it keeps both readings open, as the Greek does; the note gives both.
+
 ## Revelation 7–10 — rendered 2026-11-20, 7:10 PM CST
 
 **Landed:** Revelation 7, 8, 9, 10 (17, 13, 21 and 11 verses). Progress 1,539 → **1,543 of 1,989 (77.6%)**. Esther 11–16 is still held on the October choice.
