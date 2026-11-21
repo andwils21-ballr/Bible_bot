@@ -2,6 +2,69 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Revelation 15–18 — rendered 2026-11-21, 2:15 PM CST
+
+**Landed:** Revelation 15, 16, 17, 18 (8, 21, 18 and 24 verses). Progress 1,547 → **1,551 of 1,989 (78.0%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** SBLGNT, rendered as printed where the edition marks a variant (15:3 *King of the ages*, note).
+
+**Form kept:** no sentence starts with *And*. *Idou* cut (16:15). *Prostitute* for *pornē* (17:1, 5, 15–16), never *harlot* (fixed term); *sexual immorality* for *porneuō* as before. *Detestable things* for *bdelygmata* (17:4–5), the fixed term's English. *Overcome* (15:2; 17:14), *slain* (18:24), *voices* with the thunders (16:18), *Woe* for *ouai* (18:10, 16, 19). *The tent of the Testimony* (15:5), as Numbers 9:15. *In the Spirit* (17:3) follows the open choice at 1:10. Hymns and laments set as poetry. *Armageddon* (16:16), the received name, with its meaning in a note.
+
+**Echoes in the notes, checked against this project's English:** Exodus 15; 40:35; 9:10, 24; 7:20; 10:22; 8:6; Deuteronomy 32:4; 10:17; Psalm 86:9; Jeremiah 10:7; 51:7, 13, 45, 63–64; 25:10; Numbers 9:15; Judges 5:19; 2 Kings 23:29; Zechariah 12:10–11; Isaiah 47:8; Ezekiel 27:13, 30, 32.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:**
+- **15:** those who overcame the beast stand by a sea of glass mixed with fire and sing *the song of Moses… and the song of the Lamb*; seven angels come out of the temple with seven golden bowls, and the temple fills with smoke.
+- **16:** the seven bowls: sores, the sea and rivers turned to blood, scorching sun, darkness on the beast's throne, the Euphrates dried up and three unclean spirits like frogs gathering the kings to Armageddon; at the seventh, *It is done!*, and Babylon splits in three.
+- **17:** the great prostitute, *Babylon the great*, seated on a scarlet beast, drunk with the blood of the saints; the angel explains the beast that *was, and is not, and will come*, and the ten kings who will make war on the Lamb, *Lord of lords and King of kings*.
+- **18:** *Fallen, fallen is Babylon the great*; *Come out of her, My people*; the kings, the merchants and the sailors lament from far off; an angel throws a millstone into the sea: *the voice of the bridegroom and the bride will never be heard in you again*.
+
+### Revelation 15: The Song of Moses and of the Lamb
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | in them the wrath of God was finished | with them the wrath of God is finished |
+| 2 | those overcoming from the beast | those who had overcome the beast |
+| 3 | King of the ages | King of the ages (note: Jeremiah 10:7 has *of the nations*) |
+| 5 | the temple of the tent of the witness | the temple of the tent of the Testimony (note) |
+
+### Revelation 16: The Bowls of Wrath
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | a sore bad and evil | foul and painful sores |
+| 3 | every soul of life died, the things in the sea | every living thing in the sea died |
+| 6 | they are worthy | They deserve it (note) |
+| 9 | they were scorched with great scorching | People were scorched by the great heat |
+| 10 | its kingdom became darkened | its kingdom was plunged into darkness |
+| 15 | Behold, I am coming like a thief | "I am coming like a thief" (note) |
+| 17 | It has come to be | It is done |
+| 21 | hail great as of a talent's weight | Great hailstones, each as heavy as a talent |
+
+### Revelation 17: Babylon the Great
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | the great prostitute | the great prostitute |
+| 4 | gilded with gold | adorned with gold |
+| 6 | I marveled, seeing her, a great marvel | When I saw her, I wondered greatly |
+| 9 | Here is the mind having wisdom | This calls for a mind with wisdom |
+| 13 | these have one mind | These are of one mind |
+
+### Revelation 18: Fallen Is Babylon
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | a prison of every unclean spirit | a haunt of every unclean spirit |
+| 3 | the power of her luxury | the power of her luxury |
+| 6 | double the double | give her back double |
+| 13 | and of bodies, and souls of men | and bodies, and human souls (note) |
+| 17 | everyone who sails to a place | every passenger |
+| 21 | with a rush will be thrown | with violence will… be thrown down |
+
+**Choices for you:** none new.
+
 ## Revelation 11–14 — rendered 2026-11-21, 1:10 AM CST
 
 **Landed:** Revelation 11, 12, 13, 14 (19, 17, 18 and 20 verses). Progress 1,543 → **1,547 of 1,989 (77.8%)**. Esther 11–16 is still held on the October choice.
