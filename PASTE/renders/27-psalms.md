@@ -356,15 +356,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Checker:** one flag on the 32:3 note heading ("I kept") is the quoted text, not a note about translating; left as it is.
 
-**Choices for you:**
-- **33:6, *ruach piv***
-  - (a) **the breath of His mouth**, lowercase (now): the phrase is *the ruach of His mouth*, parallel to *the word*; the note gives the Church's reading of Word and Spirit at creation.
-  - (b) **the Spirit of His mouth**, by the fixed term for *ruach* of God.
-  - No recommendation was given.
-- **32:8, who is speaking**
-  - (a) **God as the speaker**, capitalized (now); the note gives the other view.
-  - (b) **The psalmist as the speaker**, lowercase.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/27-psalms.md`.
 
 **Other readings in the notes:** 31:6 "I hate" (Greek "You hate"); 31:10 "my iniquity" (Greek "my affliction"); 33:7 "a heap" (Greek "a wineskin").
 
@@ -390,14 +382,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **dwell**, the Greek, the familiar reading, as in 27:4 (now), with a note.
   - (b) **return**, the Hebrew *ve-shavti*, *and I will return*.
   - No recommendation was given.
-- **24:4, written *his soul*, read *My soul***
-  - (a) **his soul**, the written form (now), against the spec's read-form rule, since the line describes the worshiper; the note gives the read form.
-  - (b) **My soul**, the read form (God's own, as in *take My name in vain*): *who has not lifted up My soul to what is false.*
-  - No recommendation was given.
-- **24:6, *God of Jacob***
-  - (a) **God of Jacob** (now), as the Greek and Syriac read.
-  - (b) **Jacob**, the Hebrew alone.
-  - No recommendation was given.
 
 **Uncertain lines, with the other reading in the note:** 25:17.
 
@@ -407,11 +391,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **What these psalms are:** "The heavens declare the glory of God" and the perfect law of the LORD (19); a prayer for the king before battle, "Some trust in chariots" (20), and the thanksgiving after it (21); "My God, my God, why have You forsaken me?" (22).
 
-**Choices for you:**
-- **22:16, *ka'ari*** (the most debated verse in the Psalms)
-  - (a) **they have pierced** (now): the Greek, Syriac and Latin read *pierced* (or *dug*), and one of the oldest Hebrew copies, from the Judean Desert, has the verb *ka'aru*; followed under witness rule 2 (agreement among witnesses, and the line needs a verb).
-  - (b) **like a lion**, the Leningrad text *ka'ari*, which leaves the line without a verb.
-  - Recommend (a).
+**Choices for you:** all decided; moved to `PASTE/decided/27-psalms.md`.
 
 **Pronouns:** 21:8–12 addressed to the king, lowercase, since v9 speaks of the LORD in the third person; the note gives the other reading. Psalm 22's speaker lowercase as the Old Testament has it; the notes give the Gospel quotations (Mark 15:34; John 19:24; Hebrews 2:12).
 
@@ -464,14 +444,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - Now, 8:4: *what is man, that You remember him, / and the son of man, that You visit him?*
   - (a) **Lowercase** (now), as Psalm 2.
   - (b) **Capitals**, read with Hebrews 2:6–9 as Jesus.
-  - No recommendation was given.
-- **10:3, *berekh*, "bless", for cursing**
-  - (a) **curses**, by the sense (now), as in Job.
-  - (b) **blesses**, the word as written.
-  - No recommendation was given.
-- **The 9–10 numbering in the notes**
-  - (a) **That note only** (now).
-  - (b) **A cross-reference line in each psalm's notes**, so a reader of the Ethiopian Psalter can find the number.
   - No recommendation was given.
 
 ## Psalms 4–7 — rendered 2026-10-07, 2:16 PM CDT

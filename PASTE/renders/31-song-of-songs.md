@@ -96,16 +96,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **the flame of Yah** (now): God's short name, as in Hallelujah; the letters are there and the spec keeps *Yah*. If it is the name, it is the only place God is named in the Song.
   - (b) **a mighty flame**: *-yah* as a superlative.
   - No recommendation was given.
-- **8:14, *berach***
-  - (a) **Flee** (now): *berach* means *flee* or *run*, and the Greek has *flee*.
-  - (b) **Make haste**, as older English Bibles have it.
-  - No recommendation was given.
-- **6:4, 6:10, *nidgalot***
-  - Now, 6:4: *awesome as the bannered hosts.*
-  - Now, 6:10: *beautiful as the moon, pure as the sun, / awesome as the bannered hosts?*
-  - (a) **the bannered hosts** (now): *those under banners*, troops (the Greek *ranks set in order*), or the hosts of the sky beside the dawn, moon and sun.
-  - (b) **an army with banners**, as older English (*terrible as an army with banners*).
-  - No recommendation was given.
 
 ## Song of Songs 1–4 — rendered 2026-10-07, 5:58 PM CDT (report 6:01 PM CDT)
 
@@ -188,24 +178,5 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 13 | *shelachayikh* "your shoots / channels" | Your shoots |
 | 14 | *kol rashei vesamim* "all heads of spices" | all the finest spices |
 
-**Choices for you:**
-- ***dodim*, "love" or "caresses"** (also 5:1 and 7:12)
-  - Now, 1:2: *For your love is better than wine*
-  - Now, 1:4: *we will praise your love more than wine*
-  - Now, 4:10: *How beautiful is your love… How much better is your love than wine*
-  - (a) **love** (now), as most English Bibles have it.
-  - (b) **caresses**: the plural noun means love shown, lovemaking.
-  - No recommendation was given.
-- **1:5, "black and lovely" or "black but lovely"**
-  - (a) **and** (now): the Hebrew and the Greek.
-  - (b) **but**, as older English Bibles have it.
-  - No recommendation was given.
-- **2:1, "a flower of Sharon"**
-  - (a) **a flower of Sharon** (now).
-  - (b) **a rose of Sharon** (older English; the word does not support it), **a crocus** (a modern guess), or **a flower of the plain** (the Greek).
-  - No recommendation was given.
-- **Speaker labels** (above)
-  - (a) **None** (now), as the Hebrew has none.
-  - (b) **Headings** such as *She*, *He*, *Friends*, as many modern Bibles add.
-  - Recommend (a).
+**Choices for you:** all decided; moved to `PASTE/decided/31-song-of-songs.md`.
 

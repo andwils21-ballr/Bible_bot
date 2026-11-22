@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 109 applied (Bible 2, 5:00 PM CST, 2026-11-22)
+
+**Request:** council item 109 (Bible 3's sort of the open choices, 2026-11-17): the river takes its English name, with the book's form in the note. The other nine choices stand as the text has them. All ten are moved to `PASTE/decided/24-2-meqabyan.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 8:9 | as far as the river Takkaze | as far as the river Tekezé |
+| 8, note v9 | "the river Takkaze… the sea of India" — *Takkaze* is the Tekezé | "the river Tekezé… the sea of India" — the book's *Takkaze*, the Tekezé |
+
 ## Fidelity audit, 2 Meqabyan 1–21 (Bible 3, 2026-11-18, 8:35 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. This book's only source is the EOTC Ge'ez, and a Ge'ez word cannot be checked the way a Hebrew or Greek one can (RENDERING_SPEC.md, Meqabyan), so this pass checks what can be checked: every quotation of another book in the notes against this repo's own wording of that verse (quotations marked as the Greek reading of the verse were left as they are). No verse was changed; 16 note quotations were put into the wording of the verses they cite.

@@ -716,15 +716,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **2:2:** "for darkness and for all things", as the Ge'ez has it.
 
 **Choices for you:** (decided ones moved to `PASTE/decided/15-jubilees.md`)
-- **Chapter 1's verse numbers**
-  - (a) **The EOTC's numbers** (now), as the spec requires, with a note.
-  - (b) **Renumber 1–29** like the second Ge'ez text and other editions, so readers never see a skip.
-  - Recommend (a): from v20 on they agree with everyone else.
-- **3:5, 8, "rib" or "side"**
-  - Now, 3:5: *He took for the woman one bone from among his bones, and this rib was the beginning of the woman*
-  - Now, 3:8: *In the first week Adam was made, and the rib, his wife*
-  - This project's Genesis 2:21 renders the Hebrew *tsela* **side**, with a note; Jubilees' Ge'ez *gabo* is **rib** in Charles, the only English available, so *side* could not be backed from the English.
-  - (a) **rib** (now), with a note pointing to Genesis 2:21.
-  - (b) **side**, to match Genesis.
-  - Recommend (a), unless you want the two books to match.
 

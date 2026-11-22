@@ -34,11 +34,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Written and read forms that differ in meaning:** 41:12 (the choice below).
 
-**Choices for you:**
-- **41:12, written *lo*, "not", read *lo*, "about him"**
-  - (a) **Both** (now): *I will not keep silent about him*, with a note; a small departure from strictly following the read form.
-  - (b) **The read form alone**, as the spec's read-form rule asks.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/26-job.md`.
 
 **Spec rules applied:** 40:15 *hinneh* rendered "Here is Behemoth" (a presentation); 41:22 *yalin* "lodges," avoiding *abide*.
 
@@ -73,15 +69,7 @@ Spelling only, no note: 33:21.
 
 **Noted:** 34:29–33 is among the hardest passages in the book; the note says so.
 
-**Choices for you:**
-- **32:3, Job or God declared guilty**
-  - (a) **Job**, as the Hebrew stands (now).
-  - (b) **God**: the scribes' tradition says the original was *declared God guilty*.
-  - No recommendation was given.
-- **32:1, *in his own eyes***
-  - (a) **in his own eyes**, the Hebrew (now).
-  - (b) **in their eyes**, the Greek and Syriac.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/26-job.md`.
 
 **Word choice:** 33:4 *ruach El* "the Spirit of God" and 34:14 "His Spirit" capitalized per the word table; 32:8 "the spirit in man" lowercase. 33:23 *mal'akh* "messenger."
 
@@ -186,19 +174,7 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **Noted:** 6:14, the sense of the line is uncertain; the other reading is in the note.
 
-**Choices for you:**
-- **7:20, *a burden to myself***
-  - (a) **to myself**, as the Hebrew stands (now).
-  - (b) **to You**: the scribes' tradition says the original was *to You*, which the Greek has.
-  - No recommendation was given.
-- **9:19, *who will summon me?***
-  - (a) **me**, the Hebrew (now).
-  - (b) **Him**: the Greek reads it of God.
-  - No recommendation was given.
-- **9:33, *There is no arbiter***
-  - (a) **There is no arbiter**, the Hebrew (now).
-  - (b) **Would that there were an arbiter**, the Greek.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/26-job.md`.
 
 **Word choice:** "loathe" is kept for *sheqets* and "detestable" for *to'evah*, as the word table has them. So 9:31 *ti'avuni* is "abhor," and *ma'as* at 7:16 and 9:21 is "despise."
 
@@ -214,11 +190,7 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 
 **Noted:** 2:9 *Curse God and die* is *barekh*, "bless," rendered by the sense, as at 1:5 and 1:11 (the choice in the Job 1 report). 5:17 *Shaddai* is **the Almighty**, first time in the book, with a note. *Eloah* (singular) is **God**, noted at 3:4. (4:18 *His messengers* follows the fixed term; moved to `PASTE/decided/26-job.md`.)
 
-**Choices for you:**
-- **3:10, *my womb***
-  - (a) **my mother's womb** (now), with a note.
-  - (b) **my womb**, the Hebrew's words.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/26-job.md`.
 
 **Read with other vowels? Left as written, with a note:** 3:8 "day" (or "sea"); 3:22 "exulting" (or "the grave mound"); 4:17 "before God" (or "more than God"); 5:5 "the snare" (or "the thirsty," as the Greek has it).
 
@@ -233,20 +205,9 @@ Spelling only, no note: 6:2, 7:1, 7:5, 9:13, 9:30.
 **Noted:** v21 is set as verse lines, the one poem in the prose opening.
 
 **Choices for you:**
-- **1:5, 1:11, 2:5, 2:9, *berakh*, "bless", for cursing God** (the scribes' polite substitute)
-  - Now, 1:5: *Perhaps my sons have sinned and cursed God in their hearts.*
-  - Now, 1:11 and 2:5: *and he will surely curse You to Your face.*
-  - Now, 2:9: *Curse God and die.*
-  - (a) **curse**, by the sense (now), with a note.
-  - (b) **bless**, the word as written.
-  - No recommendation was given.
 - **1:6 and on, *ha-satan***
   - Now, 1:6: *and Satan also came among them.*
   - (a) **Satan**, the name readers know (now), with a note that it is a title here.
   - (b) **the accuser**, the title, with the article.
-  - No recommendation was given.
-- **1:19, *ha-ne'arim***
-  - (a) **the young people** (now).
-  - (b) **the young men**, as the word reads for the servants in 1:15–17.
   - No recommendation was given.
 

@@ -79,11 +79,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** **9:17**, *in Egypt* for *in their rebellion*, following the Greek, backed by Numbers 14:4 (*Let us appoint a leader and return to Egypt*). Noted.
 
-**Choices for you:**
-- **7:68, the missing verse** (English 7:69–73 is Hebrew 7:68–72)
-  - (a) **The number kept and the line left out** (now), with a note.
-  - (b) **Their horses were seven hundred and thirty-six, their mules two hundred and forty-five**, supplied from Ezra 2:66 with a note, as most English Bibles print it.
-  - Recommend (a): no witness of Nehemiah has the line.
+**Choices for you:** all decided; moved to `PASTE/decided/18-nehemiah.md`.
 
 ### Nehemiah 7: The Record of the First Return
 

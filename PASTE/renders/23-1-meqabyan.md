@@ -8,15 +8,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. Copying slips read as the plain word (36:8 *wa-təʾiqāwəm* as *wa-ʾi-yətqāwam*, **will not stand against**; 36:12 *wa-tāhu* as *wa-taḥayyu*, **to keep alive**). 36:46 begins with *And* in the Ge'ez; per the spec it starts *Those who did evil*.
 
-**Choices for you:**
-- **36:3, the kingdom of the Medes and the Moabites** (when Israel went into Egypt)
-  - (a) **As the Ge'ez has it, with no note arguing with it** (now), though it does not fit history.
-  - (b) As the Ge'ez has it, with a note saying it does not fit history.
-  - No recommendation was given.
-- **36:29, gods' names kept in Ge'ez: *Māryā* of Midian and *Rāṣyon***
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 34: The Day of God
 
@@ -58,15 +50,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. Copying slips read as the plain word (29:9 *wa-takalu* as *wa-tawakkalu*, **trust**; 30:7 *ʾafakro* as *ʾafaqqəro*, **I will love**; 30:10 *ʾama* as *ʾana*, **I**; 30:15 *narās* as *nafās*, **wind**). 30:5 *maharkəwwomu* is read as spelled, **I taught them**, not *I had mercy on them* (noted).
 
-**Choices for you:**
-- **30:5, *maharkəwwomu*, "taught" or "had mercy"**
-  - (a) **I taught them**, read as spelled (now), with a note.
-  - (b) **I had mercy on them**.
-  - No recommendation was given; the text keeps the spelling.
-- **30:14, creatures kept in Ge'ez: *ḥargaṣāt*, *ʾəngwatāt*, *qwarnanʿāt*** (creatures of the waters, beside Behemoth)
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 29: Do Good to Me
 
@@ -121,19 +105,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Noted:** 28:6, Adam's children, *3* daughters and *4* sons, rendered as the digits stand; they may be numbers cut short (noted). 28:34 *Akemelek*, the giant killed by Mattathias's sons, a name found nowhere else, kept as the Ge'ez spells it; *heṗa* is rendered **cut off**.
 
-**Choices for you:**
-- **27:3 and 27:10, two one-letter readings**
-  - Now, 27:3: *He raised the upper water above the heaven.* (Ge'ez *tāḥtāy*, **lower**; v4 has the lower water beneath the sea)
-  - Now, 27:10: *On the fifth day God created all the creatures and beasts that live in the waters* (Ge'ez *samāyāt*, **heavens**, read as *māyāt*, **waters**)
-  - (a) **upper** and **waters** (now), each noted.
-  - (b) **The Ge'ez as it stands**: *lower* and *heavens*.
-  - No recommendation was given.
-- **25:5, 13, words kept in Ge'ez: *ḥalastəyo* (a desert creature); *qāḥm* and *ʾanākwəʿ* (creatures under the earth)**
-  - Now, 25:5: *the birds in the air and the ḥalastəyo in the desert*
-  - Now, 25:13: *the qāḥm and the ʾanākwəʿ beneath the earth*
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 25: No One Escapes My Hand
 
@@ -188,15 +160,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Noted:** 24:1 *qwəlāfān* is rendered **the uncircumcised**, the word used of the Philistines, though Gideon's enemies are Midian.
 
-**Choices for you:**
-- **21:30, a missing negative**
-  - (a) **who did not transgress** (now), the negative read where the verse requires it, with a note.
-  - (b) **who transgress**, the Ge'ez as it stands (*ʾəlla yətʿaddawu*).
-  - No recommendation was given.
-- **21:2, a people's name kept in Ge'ez: *Qarneʾon*** (among David's enemies)
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 21: Those Who Trusted in God
 
@@ -249,17 +213,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. 17:6 *wa-ʾamʿəʿo ʾəḫu*, **and provoking a brother**, stands in a list of the ways of God and is read as **not provoking a brother** (noted).
 
-**Choices for you:**
-- **17:6, *wa-ʾamʿəʿo ʾəḫu*** (in a list of the ways of God)
-  - (a) **not provoking a brother** (now), with a note.
-  - (b) **and provoking a brother**, the Ge'ez as it stands.
-  - No recommendation was given.
-- **17:3, 5 and 19:3, names kept in Ge'ez: *Sablyānos* / *Sablānyos* (the name of 13:3, here the father and teacher of the wicked); *Qefāz*, a valley toward Arabia**
-  - Now, 17:3: *as their father Sablyānos taught them*
-  - Now, 19:3: *taking them to the valley of Qefāz, toward Arabia*
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 17: The Teaching of Sablanyos
 
@@ -307,19 +261,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Noted:** 13:20 is damaged in two places (*ʿəṣādātihomu nuʿ*, *ʾəlla yārbəh*); rendered by the plainest reading, *their courts are high, and giants live and dwell there*, with a note.
 
-**Choices for you:**
-- **14:2, four souls or eight**
-  - (a) **four**, as the Ge'ez has it (now), with a note: four are Noah and his sons.
-  - (b) **eight**, as Peter counts them (1 Peter 3:20).
-  - No recommendation was given.
-- **13:3, 16:4, 16:6, 15:8, names: *ʾAkyəyā* (perhaps Achaia), *Ṗāṭos*, *Ṗartus* (perhaps Parthia), *Siwsigyā*, kept in Ge'ez; *ʾAmenesér* rendered **Ameneser** (a note on Shalmaneser); the three brothers **Mebkyos, Maccabeus and Judah**, spelled from the Ge'ez**
-  - Now, 13:3: *Syria and Damascus, Cyprus and ʾAkyəyā*
-  - Now, 16:6: *all Samaria and Ṗāṭos of the land of Judah… and Media, Ṗartus, Siwsigyā and Cappadocia*
-  - Now, 16:4: *as they did under Ameneser king of Syria*
-  - Now, 15:8: *three brothers, whose names were these: Mebkyos, Maccabeus and Judah*
-  - (a) **As now.**
-  - (b) **A guess or a known English form** in the text (*Achaia*, *Parthia*, *Shalmaneser*), with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 13: The Son of Perdition
 
@@ -373,17 +315,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none. Obvious copying slips read as the word they plainly are (12:3 *wa-m* as *dam*, **blood**; 12:33 *dug* as *ṣug*, **robbery**; 12:35 *faḫarkuki* as *ḫarayəkuki*, **I chose you**).
 
-**Choices for you:**
-- **9:3, 5, names and words kept in Ge'ez: *Qoṗros* and *Dimāso* (in a list of sinners; *Qoṗros* is Cyprus elsewhere), *ʾAtnāwyān* (named with the Medes; perhaps Athenians)**
-  - Now, 9:3: *So too the sorcerers and the sinners, Qoṗros and Dimāso, the slanderers*
-  - Now, 9:5: *and the ʾAtnāwyān and the Medes, who trust in their idols*
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
-- **11:1, *ʾArmon***
-  - (a) **Hermon** (now), with a note.
-  - (b) **a fortress**: the Hebrew word *armon* means a fortress.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 9: The Rain of Mercy
 
@@ -432,18 +364,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Noted:** 7:7 gives Moses words that are Sirach 15:16 (*fire and water*), rendered as the Ge'ez has it, with a note.
 
-**Choices for you:**
-- **6:2, Ezekiel or Hezekiah** (in a list of good kings)
-  - (a) **Ezekiel**, as the Ge'ez has it (*Ḥəzqəʾel*), with a note (now).
-  - (b) **Hezekiah**, as the Church reads it, as a departure with a note.
-  - No recommendation was given.
-- **6:3, 6:7, 8:34, words not known, kept in Ge'ez: *ṭalmā*, *warāwər* (stones); *ʾakwāl* (of Hermon; the Church reads a fragrance); *zəgbā* (a tree)**
-  - Now, 6:3: *shining with topaz and emerald, ṭalmā and warāwər*
-  - Now, 6:7: *ringed with the ʾakwāl of Hermon*
-  - Now, 8:34: *The zəgbā is torn out by the roots*
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 6: The Dwellings of the Kings
 
@@ -489,15 +410,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Ge'ez:** none beyond the fills above.
 
-**Choices for you:**
-- **3:1, the sons' names, *ʾAbyā, Silā, Fantos***
-  - (a) **Abya, Sila and Fentos** (now), spelled from the Ge'ez as *Tsirutsaydan* was.
-  - (b) **Another English form**, if you know one.
-  - No recommendation was given.
-- **3:35, two words not known: *maʿāra gerā* and *ʾaflāṭis*** (two of the things thrown in to feed the furnace)
-  - (a) **Kept as Ge'ez words**, in italics, with a note (now).
-  - (b) **A guess put in the text**, with the Ge'ez in the note.
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/23-1-meqabyan.md`.
 
 ### 1 Meqabyan 2: The Sons of Maccabeus
 

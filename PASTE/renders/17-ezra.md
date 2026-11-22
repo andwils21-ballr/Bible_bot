@@ -61,19 +61,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choices for you:**
-- **5:4, *amarna***
-  - Now, 5:4: *Then we told them the names of the men who were building this building.*
-  - Now, 5:10: *We also asked them their names, to inform you*
-  - (a) **we told them**, the Aramaic (now).
-  - (b) **they asked them, "What are the names…?"**, the Greek, which keeps the governor's question in the third person.
-  - Recommend (a): the letter repeats the question in the officials' own voice (v10); the note gives the Greek.
-- **8:5 and 8:10, a family name missing**
-  - Now, 8:5: *of the sons of Shecaniah, the son of Jahaziel, and with him three hundred men*
-  - Now, 8:10: *of the sons of Shelomith, the son of Josiphiah, and with him a hundred and sixty men*
-  - (a) **The Hebrew** (now).
-  - (b) **of the sons of Zattu, Shecaniah son of Jahaziel** and **of the sons of Bani, Shelomith son of Josiphiah**, from 1 Esdras 8:32, 36.
-  - Recommend (a): the only witness for (b) is 1 Esdras, a different book, and the Greek of Ezra agrees with the Hebrew in v10; the note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/17-ezra.md`.
 
 ### Ezra 5: Tattenai's Letter to Darius
 
@@ -156,12 +144,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Departures from the Hebrew:** none.
 
-**Choices for you:**
-- **1:9, *machalaphim*** (a word found only here)
-  - (a) **censers** (now), as 1 Esdras 2:13 has it.
-  - (b) **knives**, the old English rendering, a guess from the root.
-  - (c) **spare vessels**, after the Greek of Ezra (*parēllagmena*, *changed*).
-  - Recommend (a): it is the one reading another witness to the same list gives; the note says the word is uncertain.
+**Choices for you:** all decided; moved to `PASTE/decided/17-ezra.md`.
 
 ### Ezra 1: The Decree of Cyrus
 

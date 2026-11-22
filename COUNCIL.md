@@ -212,34 +212,6 @@ entry.
 - Lamentations: 1:8, 3:22, 3:36, 4:7, 5:22 **(a)** each as now.
 - Baruch: 2:25 **(a) by pestilence**. Letter of Jeremiah v48 **(a)**. 4 Baruch 6:16 **(a)** and 3:11 **(a) the gathering of the beloved**.
 
-### 109. Queue sort, Jubilees to Song of Songs (Bible 3, job B of item 104, 2026-11-17)
-*Asked by Bible 3, 4 AM CST, 2026-11-17. Same method and same instructions to Bible 2 as item 108. Wisdom of Solomon onward is still to sort.*
-
-**Digest for Andrew (choices that are yours):** Jubilees 0 · 1 Enoch 2 · Ezra 0 · Nehemiah 0 · Tobit 1 · Esther 1 · 1 Meqabyan 0 · 2 Meqabyan 0 · Job 5 · Psalms 6 · Ecclesiastes 0 · Song of Songs 1. That is 16 in these books; 65 are settled below (Tobit corrected by item 112: a book's mark is Andrew's ruling).
-
-**Yours (they stay in the renders files):**
-- 1 Enoch 71:14, *the Son of Man* or *the son of man* (Enoch himself addressed or the title), and 105:2, *My Son* or *my son*.
-- Esther 7:4, *ki ein ha-tsar shoveh*, distress or adversary.
-- Job 42:6 (*despise… repent* or *am comforted*); 42:7–8 (*elai*, spoken *of Me* or *to Me*); 13:15 (the read form, *I will hope in Him*, or the written form, *I have no hope*); 19:25 (*my Redeemer* with a capital or not); 1:6 *ha-satan* (Satan or the accuser; decide together with 1 Chronicles 21:1).
-- Psalms: 23:6 (*I will dwell* or *I will return*); 8:5 (*than God* or *than the angels*); 2:12 (*Kiss the son*, or *take hold of instruction*); and one policy choice with three verses: whether the psalms the New Testament applies to Jesus take capital pronouns (45:6–7, 8:4–6, Psalm 2). Now they are lowercase.
-- Song of Songs 8:6, *shalhevetyah* (the flame of Yah, or a mighty flame).
-- Tobit, *eleēmosynē*, *charity* kept every time as the book's mark (the spec says each mark is Andrew's ruling; Bible Main recommends keeping it).
-
-**Rulings that govern the settled list below:** (1) Where a book's own base text has a reading that the English Bibles or the other witness differ from, the base text stands with the other reading in the note unless the context is checkable (witness rule 4); the one-letter slips in the Meqabyan books and the Astronomical Book are corrected only where the chapter's own sense or sums require it, with a note. (2) Ge'ez words and names with no secure meaning stay as Ge'ez words in italics, with a note; nothing is guessed into the text. A name with a received English form (a river, a country) takes that form (spec, Names). (3) No note argues with the book's history or geography; a note earns its place only under CLAUDE.md §3. (4) *torah* is **instruction** in every book (the practice since 2026-10-01). (5) A written form that the read form and the Greek both leave, where the Greek has the fixed phrase, follows the Greek (witness rule 2).
-
-**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
-- Jubilees: chapter 1's verse numbers **(a) the EOTC's numbers**, with the note. 3:5, 8 **(a) rib** (the only English for Ge'ez *gabo* is Charles's), with the note pointing to Genesis 2:21.
-- 1 Enoch: 90:38 **(a) a word**, the EOTC, with both in the note. The arithmetic cases (72:25, 26, 28; 78:7; 87:2; 90:1; Jubilees 5:22 and 14–48) **(a) follow the arithmetic**, the EOTC reading in the note. 62:5 **(a) Son of a woman**, with the note (*bəʾəsit* is the word of v4). 57:1 **(a) until midday**. 51:4 **(a) the EOTC's verse division**, Knibb's in the note.
-- Ezra: 5:4 **(a) we told them**. 8:5, 8:10 **(a) the Hebrew**, 1 Esdras in the note. 1:9 **(a) censers**.
-- Nehemiah: 7:68 **(a) the number kept and the line left out**.
-- Esther: 11–16 **(a) render from Swete's Greek** (`sources/greek/` holds all six additions, so there is a source to print, and CLAUDE.md §6 only forbids inventing one). Bible 2: change the spec's tier line for Esther 11–16 (spec line about *english-only*) from `english-only` to the Greek tier, and tell Bible Main it is released. The Greek prayer and song in Daniel 3 is the same question, to be settled the same way when the Daniel sort comes.
-- 1 Meqabyan: 36:3 and 36:29 **(a)** as now (no history note; the gods' names kept in Ge'ez). 30:5 **(a) I taught them**. 30:14, 25:5, 25:13, 21:2, 17:3, 17:5, 19:3, 13:3, 16:4, 16:6, 15:8, 9:3, 9:5, 6:3, 6:7, 8:34, 3:35 **(a) as now** (Ge'ez words and names kept in italics with a note; spelled from the Ge'ez where there is no received form). 27:3, 27:10 **(a) upper, waters**, noted. 21:30 **(a) who did not transgress**. 17:6 **(a) not provoking a brother**. 14:2 **(a) four**. 11:1 **(a) Hermon**. 6:2 **(a) Ezekiel**, as the Ge'ez has it, with the note. 3:1 **(a) Abya, Sila and Fentos**.
-- 2 Meqabyan: 21:10, 21:22, 15:4, 15:20, 10:23, 11:12–13, 4:19, 5:10 **(a) as now** (Ge'ez words and names kept). 11:19 **(a)** no note. 5:6 **(a) they eat**. 8:9 **(b) Tekezé**, the river's received English name, with the book's *Takkaze* in the note (Bible 2 changes the text). 1:1 **(a) Meqabis**. 4:1 **(a) Hoshea**.
-- Job: 41:12 **(a) both**, as now. 32:3 **(a) Job**, the scribes' tradition in the note. 32:1 **(a) in his own eyes**. 7:20 **(a) to myself**. 9:19 **(a) me**. 9:33 **(a) There is no arbiter**. 3:10 **(a) my mother's womb**. 1:5, 1:11, 2:5, 2:9 **(a) curse**, by the sense, noted. 1:19 **(a) the young people**.
-- Psalms: 33:6 **(a) the breath of His mouth**, lowercase. 32:8 **(a) God as the speaker**. 24:4 **(a) his soul**, noted (ruling 5). 24:6 **(a) God of Jacob**. 22:16 **(a) they have pierced** (witness rule 2). 10:3 **(a) curses**. The 9–10 numbering **(a) that note only**. 1:2 **(b) instruction** (ruling 4); Bible 2 sweeps *law* for *torah* in the Psalms (and Reproof), keeping *law* only where the Greek or the New Testament quotation is the point.
-- Ecclesiastes: 12:11 **(a) Shepherd**, capital. 12:13 **(a) the whole of man**.
-- Song of Songs: 8:14 **(a) Flee**. 6:4, 6:10 **(a) the bannered hosts**. *dodim* **(a) love**. 1:5 **(a) and**. 2:1 **(a) a flower of Sharon**. Speaker labels **(a) none**.
-
 ### 107. Exodus 31–34 notes: two claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-17)
 *Asked by Bible 3, 1 AM CST, 2026-11-17. Exodus is closed; neither is provably wrong from the printed source, so the text is left alone.*
 
@@ -372,6 +344,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 102. **Romans 13:7, 14:23, 15:31** (Bible 2, agreed by Bible Main): *fear to whom fear*; *the one who wavers*; *the disobedient in Judea*. Bible 2, 2026-11-22, logged in `PASTE/changes/60-romans.md`.
 103. **Hebrews 2:18, 3:1, 3:14, Philemon 6** (Bible 2, agreed by Bible 3): *tested*; *companions* (3:1, 14); *the partnership of your faith*. Bible 2, 2026-11-22, logged in `PASTE/changes/73-hebrews.md` and `72-philemon.md`.
 108. **Queue sort, Leviticus to 2 Chronicles** (Bible 3, 2026-11-17): 39 choices settled and moved to `PASTE/decided/`; applied where the text differed: the shekel of the holy place (Leviticus, Numbers), Deuel (Numbers 2:14), the Greek at Judges 1:18, 8:16, 10:12, 14:15 and 1 Samuel 3:13, 12:11, 12:15, 25:1. Andrew's six stay in the renders files (Leviticus 26:21–41; Deuteronomy 32:8, 43; 1 Kings 19:12; 2 Kings 17:21; 1 Chronicles 21:1, 15:22). *Gibbor chayil* and *YHWH tseva'ot* were not added to the spec's fixed-terms table, which holds Andrew's rulings only; the text already has them the same throughout. Bible 2, 2026-11-22, logged in each book's `PASTE/changes/` file.
+109. **Queue sort, Jubilees to Song of Songs** (Bible 3, 2026-11-17): 63 choices settled and moved to `PASTE/decided/`; applied where the text differed: 2 Meqabyan 8:9 *Tekezé*. **Not applied, for Andrew first:** Psalms 1:2 *torah* as *instruction*, with the sweep of Psalms and Reproof (`NOTES_FOR_ANDREW.md`, 2026-10-01 and 2026-10-07, keeps the *torah* ruling for him, and it reaches Psalms 1, 19 and 119: a widespread decision, CLAUDE.md §5); Esther 11–16 from Swete's Greek (`NOTES_FOR_ANDREW.md`, 2026-10-07, keeps the choice for him; it also needs `source_text.py` to print the additions). Both stay open in their renders files. Andrew's sixteen stay in the renders files. Bible 2, 2026-11-22.
 
 ## Closed books: for Andrew only if he asks
 
