@@ -94,7 +94,3 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **but the righteous will live by his faithfulness** (now): *emunah* as steady, holding faithfulness, as in *His hands stayed steady* (Exodus 17:12) and *great is Your faithfulness* (Lamentations 3:23).
   - (b) **but the righteous will live by his faith**: *emunah* as trust; the Greek has *pistis*, which is both faith and faithfulness, and the New Testament gives the line with that word (Romans 1:17; Galatians 3:11; Hebrews 10:38).
   - Recommend (a): it is the word's sense everywhere else this project has rendered it; the note gives the Greek and the New Testament forms, and when Romans is rendered its English can carry *faith* from the Greek.
-- **2:16, *ve-he'arel***
-  - (a) **Drink, you too, and show your foreskin!** (now): from *orlah*, **foreskin**: the drunkard is exposed, as he exposed his neighbor (v15).
-  - (b) **Drink, you too, and stagger!**: the same letters in another order, *ra'al*, **reel**, as the Greek has it (*be shaken in heart and quake*).
-  - Recommend (a): it is the Hebrew, and it answers *their nakedness* in v15; the note gives the Greek.

@@ -56,11 +56,7 @@ Daniel is now complete, all 14 chapters.
 | 36 | *en tō rhoizō tou pneumatos autou* "in the rush of his spirit" | ***KEPT AS IS*** with the rushing of his spirit (spirit or wind) |
 | 40 | *kai idou Daniēl kathēmenos* "and look, Daniel sitting" | and Daniel was sitting there |
 
-**Choices for you:**
-- **13:45, *to pneuma to hagion paidariou neōterou***
-  - (a) **God stirred up the holy spirit of a young boy** (now): the boy's own spirit, which is holy; *of a young boy* belongs to *spirit*.
-  - (b) **God stirred up the Holy Spirit in a young boy**: *to pneuma to hagion* is the New Testament's phrase for the Holy Spirit, which God stirs up in the boy.
-  - Recommend (a): the Greek puts *of a young boy* straight after *the holy spirit* as its owner, and the story is about a boy's courage and judgment, which God wakes.
+**Choices for you:** all decided; moved to `PASTE/decided/41-daniel.md`.
 
 ## Daniel 9–12 — rendered 2026-10-25, 12:54 PM CDT
 
@@ -161,10 +157,6 @@ Daniel is now complete, all 14 chapters.
 | 13 | *le-qets ha-yamin* "at the end of the days" | at the end of the days (note) |
 
 **Choices for you:**
-- **9:21, *mu'af bi-y'af***
-  - (a) **in swift flight** (now): from *uf*, fly; the words stand next to Gabriel, and the Greek has *flying*.
-  - (b) **in my weariness**: from *ya'af*, weary, the root the noun *bi-y'af* is spelled from; the tired one is Daniel, who was sick and worn out after the last vision (8:27).
-  - Recommend (a): the words describe *the man Gabriel* in the same clause, and the Greek, the oldest witness to how the verse was read, has him flying.
 - **9:24, *shavu'im shiv'im***
   - (a) **Seventy sevens** (now): *shavua* is a unit of seven; Daniel was reading Jeremiah's *seventy years* (v2), and the answer comes in sevens without saying sevens of what.
   - (b) **Seventy weeks**: the usual meaning of *shavua*, a week (Genesis 29:27), and the English most readers know.
@@ -173,10 +165,6 @@ Daniel is now complete, all 14 chapters.
   - (a) **until an anointed one, a prince, there will be seven sevens; and for sixty-two sevens it will be rebuilt** (now): the Hebrew accents, which divide the verse after *seven sevens*. The anointed one comes after seven sevens; the city stands for sixty-two; and *after the sixty-two sevens an anointed one will be cut off* (v26).
   - (b) **until the Anointed One, the Prince, there will be seven sevens and sixty-two sevens; it will be rebuilt**: the Greek, *until an anointed leader, seven sevens and sixty-two sevens*, which joins the two numbers, so that the anointed one comes after sixty-nine sevens and is the one cut off in v26. This is the reading of the older English Bibles (*Messiah the Prince*).
   - Recommend (a): it is the Hebrew text as it stands, and *mashiach* there has no article, *an anointed one*. The choice is between the Hebrew's division and the Greek's, and it changes whether one anointed figure or two stand in vv25–26.
-- **12:10, *yitbareru ve-yitlabbenu ve-yitsarefu rabbim*** (from the spot check of 2026-10-25)
-  - (a) **Many will be purified, made white and refined** (now): it is done to them, as in 11:35, where the wise stumble *to refine, purify and make them white*; the Greek has three passives.
-  - (b) **Many will purify themselves, make themselves white and be refined**: the first two verbs are reflexive in form (*hitpael*), the third passive; the many take part in their own cleansing, and the refining is done to them.
-  - Recommend (b): it keeps the Hebrew's change of form, which (a) smooths away, and it sets the many who act against *the wicked will act wickedly* in the same verse.
 
 ## Daniel 5–8 — rendered 2026-10-25, 7:55 AM CDT
 
@@ -284,10 +272,6 @@ Daniel is now complete, all 14 chapters.
 | 27 | *ve-ein mevin* "and none understanding" | and no one understood it |
 
 **Choices for you:**
-- **7:27, *malkhuteh… leh***
-  - (a) **Their kingdom… serve and obey them** (now): the people of the holy ones of the Most High, spoken of as one people; the chapter has already given them the kingdom, *the holy ones of the Most High will receive the kingdom* (v18) and *the holy ones possessed the kingdom* (v22).
-  - (b) **His kingdom… serve and obey Him**: the Most High's, as *His kingdom is an everlasting kingdom* in Nebuchadnezzar's letter (4:3).
-  - Recommend (a): the verse is about the kingdom being given to the people, and vv18 and 22 have said it twice.
 - **8:11, 25, *sar ha-tsava*, *sar sarim***
   - (a) **the Prince of the host… His sanctuary… the Prince of princes** (now): God; the continual offering and the sanctuary are His, and *Prince of princes* is built like *God of gods* (2:47).
   - (b) **the prince of the host… his sanctuary… the prince of princes**: a heavenly prince, like the *commander of the army of the LORD* who met Joshua (Joshua 5:14) and Michael, called a *sar* in 10:13, 21 and 12:1.
@@ -407,24 +391,7 @@ Daniel is now complete, all 14 chapters.
 | 37 | *u-di mahlekhin be-gevah yakhil le-hashpalah* "and those who walk in pride He is able to humble" | He is able to humble those who walk in pride |
 
 **Choices for you:**
-- **1:3 (and every *chief of the eunuchs* in chapter 1), *rav sarisav***
-  - (a) **the chief of his eunuchs** (now): the Greek has *archieunouchos*; it is the word of Isaiah's warning that Hezekiah's sons *shall be eunuchs in the palace of the king of Babylon* (Isaiah 39:7), and these young men are *of the royal family*, chosen to stand *in the king's palace*.
-  - (b) **the chief of his officials**: *saris* as a court officer, as Potiphar, a married man, is *an officer of Pharaoh* (Genesis 39:1); the chapter does not say the four were made eunuchs.
-  - Recommend (a): the Greek reads it so, and the chapter is told against Isaiah 39:7, in the same words.
-- **2:5, 8, *millta minni azda***
-  - (a) **My word is firm** (now): *azda* as *settled*: the king has given his order and will not take it back.
-  - (b) **The thing has gone from me**: the Greek; the king has forgotten the dream.
-  - Recommend (a): in v9 the king gives his reason, *tell me the dream, and I will know that you can tell me its interpretation*. That is a test of wise men he no longer trusts, and it works only if he still remembers the dream.
-- **3:17, *hen itai Elahana… yakhil***
-  - (a) **If our God whom we serve is able to rescue us… He will rescue us** (now): *itai* with a verb, as in *Are you able* (2:26) and *you do not serve* (3:14); the friends answer in the shape of the king's own *if you are ready… but if you do not* (v15). Their refusal does not depend on being rescued.
-  - (b) **If it is so, our God whom we serve is able to rescue us**: the accents of the Hebrew text pause after *hen itai*; *if* means "if we are thrown in", and God's power is not in question.
-  - (c) **For there is a God whom we serve, able to rescue us**: the Greek; no *if* at all.
-  - Recommend (a): the same scene uses *itai* with a verb this way three more times (vv14, 15, 18), and the answer matches the king's sentence point for point, *if… but if not*.
 - **3:25; 4:8, 9, 18, *elahin* in the king's mouth**
   - (a) **a son of the gods… the spirit of the holy gods** (now): the plural, the book's word for gods (2:11, 47; 3:14); the king names *my god* in the same breath (4:8).
   - (b) **a son of God… the Spirit of the holy God**: the Greek has *a son of God* and *the holy Spirit of God*, and Hebrew can put a plural adjective with the one God, *He is a holy God*, *Elohim qedoshim* (Joshua 24:19).
   - Recommend (a): the speaker is a king of many gods, and in 3:28 he himself calls the fourth man God's *messenger*. The same words come back in 5:11 and 5:14.
-- **4:27, *chatayakh be-tsidqah feruq***
-  - (a) **break off your sins by doing what is right** (now): *tsidqah* as righteousness; *peruq* as breaking off.
-  - (b) **redeem your sins by almsgiving**: the Greek; *tsidqah* as giving to the poor, matching the second half, *your iniquities by showing mercy to the poor*.
-  - Recommend (a): in the book's Hebrew chapters the same word, *tsedaqah*, is *righteousness* (9:7, 16, 18), and the second half already names the poor.

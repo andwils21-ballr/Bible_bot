@@ -99,26 +99,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 9 | *mi chakham ve-yaven elleh* "who is wise, and let him understand these" | Whoever is wise, let him understand these things |
 
 **Choices for you:**
-- **13:15, *ruach YHWH*: the wind of the LORD or the Spirit of the LORD (the fixed term)**
-  - (a) **an east wind will come, the wind of the LORD** (now): the verse names it *qadim*, an east wind, rising from the wilderness and drying up the springs; the fixed-term table keeps *a wind* lowercase.
-  - (b) **an east wind will come, the Spirit of the LORD**: the fixed term for *ruach* of the LORD, as Isaiah 40:7 (*when the Spirit of the LORD blows on it*) and 59:19 (*a rushing stream that the Spirit of the LORD drives on*) have the same words in a picture of wind.
-  - Recommend (a): here the words stand beside *east wind* and do a wind's work. If (a), Isaiah 40:7 and 59:19 are the two other places to look at again.
-- **12:4, *Beit-El yimtsa'ennu***
-  - (a) **At Bethel He found him** (now): God found Jacob, as *God appeared to Jacob again* (Genesis 35:9); the line then has one subject, God, for both its verbs, *and there He spoke with us*; and in 9:10 the LORD is the finder, *I found Israel*.
-  - (b) **At Bethel he found Him**: Jacob found God, *Surely the LORD is in this place* (Genesis 28:16); the Greek has *they found Me*.
-  - Recommend (a): one subject for the line, as in Hosea's own *I found Israel*.
-- **12:7, *Kena'an***
-  - (a) **A trader** (now): the word as Ezekiel uses it, *a land of trade* (Ezekiel 17:4), in a verse about scales, before Ephraim's *I have become rich* (v8).
-  - (b) **Canaan**: the name, as the Greek keeps it: Ephraim called by the name of the people who held the land before Israel.
-  - Recommend (a): the scales and the riches make it trade; the note gives the name.
-- **12:10, *adammeh***
-  - (a) **through the prophets I gave parables** (now): *damah*, **liken**; the Greek has *I was likened*, and the verse is about speaking: *I spoke… I multiplied visions*.
-  - (b) **through the prophets I will bring destruction**: *damah*, **destroy**, the verb of 4:6 and 10:15, as in 6:5, *I have hewn them by the prophets*.
-  - Recommend (a): its two companions in the verse are speaking and visions.
-- **13:2, *zovchei adam agalim yishaqun***
-  - (a) **Those who sacrifice people kiss calves!** (now): *zovchei adam* as those who sacrifice human beings; the Greek has *Sacrifice men*, and the north *made their sons and their daughters pass through the fire* (2 Kings 17:17).
-  - (b) **Let the men who sacrifice kiss the calves!**: *adam* as *among men*, the worshippers who come to sacrifice, bidden to kiss the calf.
-  - Recommend (a): the ordinary grammar, the Greek and 2 Kings 17:17 agree.
 - **13:14, *mi-yad she'ol efdem mi-mavet eg'alem***
   - (a) **From the power of Sheol I will ransom them; from death I will redeem them** (now): a promise. The Hebrew has no word marking a question, the Greek reads it as a promise, and Paul takes up its questions to death (1 Corinthians 15:55).
   - (b) **Shall I ransom them from the power of Sheol? Shall I redeem them from death?**: a question expecting *no*, calling death's plagues down on Ephraim, as vv13 and 15–16 do.
@@ -219,23 +199,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 9 | *ve-lo avo be-ir* "and I will not come in heat / into a city" | and I will not come in wrath (note) |
 | 12 | *ve-Yehudah od rad im El* "and Judah still roams with God" | but Judah still roams with God (note; choice below) |
 
-**Choices for you:**
-- **10:1, *gefen boqeq***
-  - (a) **a spreading vine** (now): the Greek, *a well-branched vine*; the verse goes on about increasing fruit and a land made better.
-  - (b) **a plundered vine**: *baqaq* as elsewhere, *empty*, *lay waste* (Isaiah 24:1); a vine stripped, which fits the judgment to come.
-  - Recommend (a): the rest of the verse is all plenty, *the more his fruit increased… the better his land*, and Israel's sin is what it did with the plenty.
-- **10:12, *ve-yoreh tsedeq lakhem***
-  - (a) **until He comes and rains righteousness on you** (now): *yoreh* as the early rain of 6:3, after *sow… reap… break up your fallow ground*.
-  - (b) **until He comes and teaches you righteousness**: the same letters as *teach*, the root of *torah*.
-  - Recommend (a): the whole verse is farming, and *rain* finishes the picture; the note gives *teach*.
-- **11:4, *ke-merimei ol al lecheihem***
-  - (a) **like those who lift the yoke from their jaws** (now): *ol*, **yoke**, as the vowels of the Hebrew text read it; a farmer easing the yoke so the animal can eat, as the line goes on, *I bent down to them and fed them*.
-  - (b) **like those who lift an infant to their cheeks**: the same letters read *ul*, **a nursing child** (Isaiah 65:20), continuing the father who taught his boy to walk (vv1–3).
-  - Recommend (a): it is the Hebrew as read, and the verse's own words, *cords*, *bands* and *fed*, belong to leading an animal; (b) is a fair reading of the letters, and the note shows it.
-- **11:12, *ve-Yehudah od rad im El ve-im qedoshim ne'eman***
-  - (a) **but Judah still roams with God and is faithful to the Holy One** (now): Judah set against Ephraim's lies, still walking with God.
-  - (b) **and Judah still roams free against God, against the faithful Holy One**: *rud* as restless, the sense of *We roam free; we will come to You no more* (Jeremiah 2:31), with Judah joined to Israel's deceit; the Greek also puts Judah with Israel, *the house of Israel and Judah*.
-  - Recommend (b): Jeremiah uses the same verb of Israel turning from God, and the Greek counts Judah among the deceivers.
+**Choices for you:** all decided; moved to `PASTE/decided/42-hosea.md`.
 
 ## Hosea 3–7 — rendered 2026-10-25, 10:52 PM CDT
 
@@ -342,18 +306,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *mi-za'am leshonam* "from the fury of their tongue" | for the fury of their tongue |
 
 **Choices for you:**
-- **6:5, *u-mishpatekha or yetse***
-  - (a) **and My judgment goes out like light** (now): the Greek, *to krima mou hōs phōs*, the same Hebrew letters divided differently (*mishpati ka-or*); the lines around it are all the LORD's *I* and *My*.
-  - (b) **and your judgments, light goes out**: the Hebrew as divided; *your judgments* would be the judgments that fall on Ephraim and Judah, going out like light.
-  - Recommend (a): it keeps the verse in one voice, *I have hewn… I have killed… My judgment*, without changing a letter.
 - **6:7, *ke-adam***
   - (a) **like Adam** (now): the first man, who broke the first command; Job uses the same words, *as Adam did* (Job 31:33).
   - (b) **like mankind**: *adam* as people in general, as the Greek has it, *like a man*: they broke the covenant as people do.
   - Recommend (a): *there* in the next line points to a particular case, and Job 31:33 reads the same two words as Adam.
-- **7:14, *yitgoraru***
-  - (a) **for grain and new wine they gash themselves** (now): the Greek, *they cut themselves*, reading *yitgodadu*, one letter different (*d* for *r*, which look almost alike in Hebrew); the rite of Baal's prophets (1 Kings 18:28) that the law forbids (Deuteronomy 14:1).
-  - (b) **for grain and new wine they gather themselves**: the Hebrew as written, gathering for a harvest feast, or *stir themselves up*.
-  - Recommend (a): the verse is about wailing instead of crying to the LORD, and gashing goes with wailing as the rite of Baal's prophets in 1 Kings 18:28, which the law forbids Israel.
 
 ## Hosea 1–2 — rendered 2026-10-25, 5:54 PM CDT
 
@@ -410,12 +366,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *ishi… ba'li* "my man… my master" | "My husband"… "My Baal" (note) |
 | 19 | *ve-erastikh li be-tsedeq* "and I will betroth you to Me with righteousness" | I will betroth you to Me in righteousness (note) |
 
-**Choices for you:**
-- **1:6, *ki naso essa lahem***
-  - (a) **that I should ever forgive them** (now): *nasa* as lifting away sin, forgiving, which the verse refuses.
-  - (b) **but I will surely take them away**: *nasa* as carrying off, a sentence of exile.
-  - Recommend (a): *nasa* with sin is the Bible's common word for forgiving, and the clause follows *I will no longer have compassion*, which it explains. The Greek has neither: *I will surely set myself against them*.
-- **1:9, *ve-anokhi lo ehyeh lakhem***
-  - (a) **and I will not be yours** (now): the covenant words *I will be your God* turned around.
-  - (b) **and I am not I AM to you**: *ehyeh* as the name God gave Moses at the bush, *I AM has sent me to you* (Exodus 3:14).
-  - Recommend (a): it is the plain sense and what the Greek has, *I am not yours*; the note gives the reader the name.
+**Choices for you:** all decided; moved to `PASTE/decided/42-hosea.md`.

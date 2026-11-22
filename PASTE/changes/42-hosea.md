@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 111 applied (Bible 2, 5:40 PM CST, 2026-11-22)
+
+**Request:** council item 111 (Bible 3's sort of the open choices, 2026-11-17): *rad* is read as restless, the sense of Jeremiah 2:31, with the Greek, which puts Judah with Israel's deceit. The other twelve choices stand as the text has them; 13:15 *the wind of the LORD* stands, and Isaiah 40:7 and 59:19 stay *the Spirit of the LORD* on their own words. All thirteen are moved to `PASTE/decided/42-hosea.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 11:12 | but Judah still roams with God / and is faithful to the Holy One. | and Judah still roams free against God, / against the faithful Holy One. |
+| 11, note v12 | "but Judah still roams with God"… may be loyal… or restless | "and Judah still roams free against God"… may be restless… and the Greek puts Judah with Israel's deceit; or it may be loyal |
+
 ## Notes fact check: counts and slips corrected (Andrew, 12:57 PM CST, 2026-11-16)
 
 **Request:** Andrew: fact check the notes that are left. Every Hebrew and Greek word the notes quote was tested against the printed source, and every count (*found only here*, *N times*) was recounted. No verse was changed.

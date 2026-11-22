@@ -117,12 +117,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 12 | *be-dei gorotav* "enough for his cubs" | enough for his cubs |
 | 13 | *qol mal'akhekheh* "the voice of your messengers" | the voice of your messengers (note) |
 
-**Choices for you:**
-- **1:8, *ve-oyevav yeraddef choshekh***
-  - (a) **He will pursue His enemies into darkness** (now): the LORD is the one pursuing, as He is the one acting through the verse.
-  - (b) **darkness will pursue His enemies**: darkness as the pursuer, as the Greek has it.
-  - Recommend (a): the LORD is the subject of every other verb in vv7–8; the note gives the Greek.
-- **2:7, *ve-hutstsav***
-  - (a) **It is fixed: she is stripped, she is carried off** (now): *hutstsav* as a verb, *it is set firm*, the city's fate decided.
-  - (b) **Huzzab is stripped, she is carried off**: read as a name, a queen or the city itself.
-  - Recommend (a): no person named *Huzzab* is found anywhere else, and the word has the form of a verb.
+**Choices for you:** all decided; moved to `PASTE/decided/48-nahum.md`.

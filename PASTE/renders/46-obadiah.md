@@ -53,12 +53,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 20 | *ve-galut ha-chel ha-zeh* "and the exile of this host" | ***KEPT AS IS*** The exiles of this host (obscure; the Greek: *the beginning*; note) |
 | 20 | *asher bi-Sfarad* "who are in Sepharad" | who are in Sepharad (the Greek: *Ephratha*; note) |
 
-**Choices for you:**
-- **vv12–14, *al tere… al tismach…***
-  - (a) **Do not gaze… do not rejoice… do not boast** (now): eight commands, as the Hebrew forms are, spoken as if the prophet stood in that day.
-  - (b) **You should not have gazed… you should not have rejoiced…**: a reproach for what Edom did, since v11 speaks of that day as past.
-  - Recommend (a): the forms are commands, and the English keeps them; the note says that v11 is past.
-- **v17, *morasheihem***
-  - (a) **the house of Jacob will possess their own possessions** (now): as the Hebrew is pointed, Israel takes back its own land, which vv19–20 then list.
-  - (b) **the house of Jacob will dispossess those who dispossessed them**: the same letters with other vowels, as the Greek has it (*those who possessed them*).
-  - Recommend (a): it is the Hebrew as pointed, and vv19–20 name what is taken back.
+**Choices for you:** all decided; moved to `PASTE/decided/46-obadiah.md`.

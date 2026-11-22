@@ -65,7 +65,3 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **the treasures of all the nations will come** (now): the verb is plural, so the singular noun means the precious things; the next verse says *The silver is Mine, and the gold is Mine*, and the Greek has *the choice things of all the nations*.
   - (b) **the Desire of all nations will come**: one person, the one all nations long for, as the line has long been read of a coming king.
   - Recommend (a): the plural verb and v8 make it wealth; the note gives the word's singular form.
-- **2:9, *kevod ha-bayit ha-zeh ha-acharon***
-  - (a) **The latter glory of this house will be greater than the former** (now): *latter* goes with *glory*; it is one house throughout, as in v3, *this house in its former glory*.
-  - (b) **The glory of this latter house will be greater than the former**: *latter* goes with *house*, the second temple against the first.
-  - Recommend (a): v3 speaks of *this house* with a *former glory*, and the LORD calls it *this house* throughout; the note gives both.

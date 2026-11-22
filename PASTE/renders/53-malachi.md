@@ -122,10 +122,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 16 | *ki sane shallach* "for he hates, send away" | For the man who hates and sends her away (note; choice below) |
 
 **Choices for you:**
-- **1:1, *be-yad Mal'akhi***
-  - (a) **through Malachi** (now): a prophet's name, as the book has always been known.
-  - (b) **through My messenger**: *mal'akhi* is the plain word, *my messenger*, with no father or home given; the Greek has *by the hand of His messenger*; 3:1 has the same word.
-  - Recommend (a): the received name, with its meaning in the note, as the spec does for names.
 - **2:16, *ki sane shallach***
   - (a) **For the man who hates and sends her away… covers his garment with violence** (now): *sane* is *he hates*, third person; the husband who divorces out of dislike does violence.
   - (b) **For I hate divorce, says the LORD… and the one who covers his garment with violence**: the LORD's own word against divorce, reading *sane* as *I hate*.

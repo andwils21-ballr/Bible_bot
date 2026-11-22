@@ -93,11 +93,7 @@ Ezekiel is now complete, all 48 chapters.
 | 30 | *totse'ot ha-ir* "the goings-out of the city" | the exits of the city |
 | 35 | *YHWH shammah* "the LORD there" | The LORD Is There (note) |
 
-**Choices for you:**
-- **45:5, *esrim leshakhot*, towns to live in or twenty chambers**
-  - (a) **towns to live in** (now): the Greek, *poleis tou katoikein*, which in Hebrew is *arim la-shevet*, nearly the same letters. The Levites' strip of land is *their own possession*, towns to live in, the very words of the law for the Levites (Numbers 35:2).
-  - (b) **twenty chambers**: the Hebrew as written; the Levites' possession is twenty rooms, perhaps in the house.
-  - Recommend (a): the verse is about land owned, and Numbers 35:2 uses the same words for the same people.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 41–44 — rendered 2026-10-24, 12:52 PM CDT
 
@@ -189,15 +185,7 @@ Ezekiel is now complete, all 48 chapters.
 | 26 | *shiv'at yamim yisperu lo* "seven days they shall count for him" | seven days shall be counted for him |
 | 30 | *le-haniach berakhah el beitekha* "to cause a blessing to rest on your house" | so that a blessing may rest on your house |
 
-**Choices for you:**
-- **42:16–19, five hundred reeds or five hundred cubits**
-  - (a) **five hundred cubits** (now): the Greek, and the written Hebrew of v16, which has *ammot*. The wall then encloses exactly what chapters 40–41 measured: 50 + 100 + 50 + 100 + 100 + 100 cubits from the east gate to the back wall.
-  - (b) **five hundred reeds**: the Hebrew as read, four times. Each reed is six long cubits, so each side is three thousand cubits, a holy area six times wider than the courts inside it.
-  - Recommend (a): the measurements of the two chapters before add up to five hundred cubits.
-- **43:7, *bamotam*, at their high places or at their death**
-  - (a) **at their high places** (now): the vowels as printed. The corpses of the kings lie where idols were worshipped, the picture of Leviticus 26:30.
-  - (b) **at their death**: the same letters as *be-motam*. Kings were buried beside the house, their palace threshold by God's threshold (v8).
-  - Recommend (a): it is the Hebrew as pointed, and Leviticus 26:30 joins the same three words: high places, corpses, idols.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 37–40 — rendered 2026-10-24, 7:55 AM CDT
 
@@ -303,19 +291,7 @@ Ezekiel is now complete, all 48 chapters.
 | 46 | *ha-qerevim mi-benei Levi* "the ones coming near from the sons of Levi" | those of the sons of Levi who come near |
 | 49 | *u-va-ma'alot asher ya'alu elav* "and by the steps that they go up to it" | It was reached by steps |
 
-**Choices for you:**
-- **37:23, *moshvoteihem*, dwelling places or faithlessness**
-  - (a) **their dwelling places** (now): *I will save them from all their dwelling places where they sinned*: God takes them out of the places where the idols stood, the word of 6:6.
-  - (b) **their faithlessness**: the same letters with one moved, *meshuvoteihem*: *I will save them from all their faithlessness by which they sinned*, as Jeremiah 3:22, *I will heal your faithlessness*. The Greek's *from all their lawless deeds* is nearer this sense.
-  - Recommend (a): the Hebrew reads sensibly as written, and (b) needs a letter moved that no witness in our sources shows.
-- **38:2, *nesi rosh*, the chief prince or the prince of Rosh**
-  - (a) **the chief prince of Meshech and Tubal** (now): *rosh*, **head**, as a title.
-  - (b) **the prince of Rosh, Meshech and Tubal**: *Rosh* as a third people, as the Greek reads it and as the Hebrew accents allow.
-  - Recommend (a): no people called Rosh appears in the table of nations (Genesis 10), which names Magog, Meshech, Tubal, Gomer and Togarmah, the rest of this chapter's peoples.
-- **40:44, *lishkhot sharim*, two chambers or chambers for singers**
-  - (a) **two chambers** (now): the Greek. The verse places *one… one*, and vv45–46 give both chambers to priests.
-  - (b) **chambers for singers**: the Hebrew as written.
-  - Recommend (a): the context counts two chambers and assigns them to priests, not singers.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 33–36 — rendered 2026-10-23, 11:03 PM CDT
 
@@ -424,11 +400,7 @@ Ezekiel is now complete, all 48 chapters.
 | 37 | *ka-tson adam* "like a flock of humans" | their people like a flock |
 | 38 | *ke-tson qodashim* "like a flock of holy things" | Like the flock for holy offerings |
 
-**Choices for you:**
-- **34:3, *chlv*, milk or fat**
-  - (a) **the milk** (now): the Greek's reading of the letters. Milk, wool, then the slaughtered fat ones: the shepherds take everything a flock gives, alive and dead, and give it nothing.
-  - (b) **the fat**: the reading tradition's vowels. The shepherds eat the fat that Leviticus reserves for the LORD (*All fat belongs to the LORD*, Leviticus 3:16).
-  - Recommend (a): milk and wool are the flock's yield in Proverbs 27:26–27, and with *the fat* the verse names fat twice.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 29–32 — rendered 2026-10-23, 6:05 PM CDT
 
@@ -699,15 +671,7 @@ Ezekiel is now complete, all 48 chapters.
 **Left standing on purpose:**
 - 21:10, 13, 15: lines of the sword song that are hard to read in the Hebrew; the English keeps them as obscure as they stand, and the note says so.
 
-**Choices for you:**
-- **22:25, *qesher nevi'eha***
-  - (a) **There is a conspiracy of her prophets in her midst** (now): the Hebrew.
-  - (b) **Her princes in her midst are like a roaring lion**: the Greek, *aphēgoumenoi*, reading *nesi'eha*, "her princes," one letter different; the verse then speaks of rulers who *take treasure* and *make many widows*.
-  - Recommend (b): the prophets have their own verse (v28), and the chapter goes rank by rank: princes (*nesi'im*, v25), priests (v26), princes (*sarim*, v27), prophets (v28), people of the land (v29). If chosen, the English follows the Greek with a note quoting the Hebrew.
-- **23:20, *va-ta'gevah al pilagsheihem***
-  - (a) **She lusted after their lovers there** (now): *pilagsh*, the word the fixed terms render *secondary wife*, here used of men, the Egyptian lovers whose *flesh was like the flesh of donkeys*.
-  - (b) **She lusted after their secondary wives**: the fixed term as it stands, which would make the women the object.
-  - Recommend (a): the next words describe men, so the fixed term cannot apply here. The note says so.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 17–20 — rendered 2026-10-22, 10:48 PM CDT
 
@@ -791,11 +755,7 @@ Ezekiel is now complete, all 48 chapters.
 - 19:7, *He knew their widows*: the Hebrew as it stands; its sense is uncertain, and the Greek reads differently.
 - 20:45–49 in chapter 20: the English and Greek chapter division, followed by the spec.
 
-**Choices for you:**
-- **19:10, *immekha ka-gefen be-damkha***
-  - (a) **Your mother was like a vine in your blood** (now): *be-damkha* as pointed, *dam*, "blood": the vine of the royal house, rooted in the king's own blood line.
-  - (b) **Your mother was like a vine, like you**: the same letters from *damah*, "be like": the mother is like her son, a vine as he was a lion.
-  - Recommend (a): it keeps the Hebrew as pointed; the sense is uncertain either way, and the note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 13–16 — rendered 2026-10-22, 5:49 PM CDT
 
@@ -967,15 +927,7 @@ Ezekiel is now complete, all 48 chapters.
 **Left standing on purpose:**
 - 11:3, *The time is not near to build houses*: the Hebrew has no mark of a question; the Greek reads one, and the note says so.
 
-**Choices for you:**
-- **11:15, *anshei ge'ullatekha***
-  - (a) **your kinsmen who have the right to redeem** (now): the Hebrew, *ge'ullah*, the next of kin's right to buy back a family's land (Leviticus 25:25). The exiles are named as the land's rightful kin against the Jerusalemites' claim, *this land has been given to us*.
-  - (b) **the men of your exile**: the Greek, *aichmalōsias*, which reads *golatekha*, one letter different; the exiles named simply as exiles.
-  - Recommend (a): the Hebrew makes sense as it stands, and the verse is a quarrel over who owns the land.
-- **11:16, *va-ehi lahem le-miqdash me'at***
-  - (a) **I have been to them a small sanctuary** (now): *me'at* as "small," with the Greek *hagiasma mikron*. God Himself is a sanctuary, small beside the temple, for the exiles.
-  - (b) **I have been to them a sanctuary for a little while**: *me'at* as "for a little while," a presence in exile until the gathering of v17.
-  - Recommend (a): the word follows *miqdash* directly, as a description, and the Greek reads it so; the note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 5–8 — rendered 2026-10-21, 12:49 PM CDT
 
@@ -1062,11 +1014,7 @@ Ezekiel is now complete, all 48 chapters.
 - 7:11: four short phrases with no verb; the English keeps them as short as the Hebrew.
 - 8:17, *putting the branch to their nose*: what the act was is not known.
 
-**Choices for you:**
-- **8:2, *demut ke-mar'eh esh***
-  - (a) **a likeness like the appearance of a man** (now): the Greek, *andros*; the same Hebrew letters read *ish*. The verse goes on to *His waist*, and the figure is the one of 1:26–27.
-  - (b) **a likeness like the appearance of fire**: the Hebrew as pointed; fire is then the whole figure, before the verse divides it at the waist.
-  - Recommend (a): the waist needs a body, and 1:26–27 describes this same sight as *a likeness like the appearance of a human*.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
 
 ## Ezekiel 1–4 — rendered 2026-10-21, 7:50 AM CDT
 
@@ -1154,12 +1102,4 @@ Ezekiel is now complete, all 48 chapters.
 **Left standing on purpose:**
 - 1:1, *in the thirtieth year*: the book does not say what the year counts from, and the English does not supply it.
 
-**Choices for you:**
-- **Ezekiel's *ruach* with no owner named (2:2; 3:12, 14, 24; and later 8:3, 11:1, 11:24, 43:5)**
-  - (a) **the spirit** (now): lowercase, as the spec's fixed term has it for any *ruach* not called *of God* or *of the LORD*. It keeps the link the Hebrew makes with *the spirit* that moves the living creatures and the wheels (1:12, 20).
-  - (b) **the Spirit**: capital, since it plainly comes from God; it enters the prophet, sets him on his feet and carries him.
-  - Recommend (a): the spec draws the line at the words *of God* or *of the LORD*, which Ezekiel uses when he means it (11:5, 37:1), and the lowercase keeps the one word through chapters 1–3.
-- **1:4, 27, *ke-ein ha-chashmal***
-  - (a) **something like the gleam of amber** (now): the fossil resin, glowing gold-brown; the Greek *ēlektron* can mean this.
-  - (b) **something like the gleam of glowing metal**: a shining alloy of gold and silver, which the same Greek word also means.
-  - Recommend (a): it is the traditional English and the Greek allows it; the note gives the range, since the Hebrew word is found only in Ezekiel and what it names is not known.
+**Choices for you:** all decided; moved to `PASTE/decided/40-ezekiel.md`.
