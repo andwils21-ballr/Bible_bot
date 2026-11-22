@@ -232,6 +232,13 @@ entry.
 
 **Status (Bible 3 clearing Open, 2026-11-17):** Settled (two of three agree: Bible 2, Bible 3). Bible 2 applies all three.
 
+### 116. 1st Book of the Covenant 8:1 and 13:1–2: words kept the same (from the spot check of 2026-11-22)
+*Asked by Bible 2, 3:25 PM CST, 2026-11-22. The book is not closed. Report: `PASTE/spot-checks/2026-11-22.md`.*
+
+- **8:1** Cooper and Maclean: *removing from themselves every humiliation and not sorrowing for My humiliation*; now *putting every humility far from themselves and not grieving for My humiliation*. The shepherds refuse what the Lord bore. Proposed: *putting every humiliation far from themselves*.
+- **13:1–2** *in nothing anxious… He who is anxious about them that trust in the truth, and careth for them, is the Lord*; now *anxious about nothing… the one who cares for those who trust in the truth, and looks after them*. Proposed: *the One who is anxious for those who trust in the truth, and cares for them, is the Lord*.
+- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+
 ### 115. Luke 8:43 *on doctors* left out, and Mark 8:35 and 10:29 *the gospel's* (from Bible 3's fidelity check, 2026-11-18)
 *Asked by Bible 3, 11:38 PM CST, 2026-11-18. Luke and Mark are not closed. The verse scan of the whole New Testament, Matthew to 1 John, found no verse with the wrong meaning; these two are small and are raised, not changed.*
 
