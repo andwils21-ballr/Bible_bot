@@ -2,6 +2,68 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## Revelation 19–22 — rendered 2026-11-21, 7:10 PM CST
+
+**Landed:** Revelation 19, 20, 21, 22 (21, 15, 27 and 21 verses). **The book is finished, and with it the New Testament.** Progress 1,551 → **1,555 of 1,989 (78.2%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** SBLGNT, rendered as printed where the edition marks a variant (22:14 *wash their robes*, note; 22:21 *with all*).
+
+**Form kept:** no sentence starts with *And*. *Idou* cut (19:11; 21:3, 5; 22:7, 12). *Hallelujah* (19:1–6), the Greek's own spelling of the Hebrew, where the Psalms have *Praise Yah!* (note). *Pitch His tent* (21:3), *overcome* (21:7), *quickly* (22:6, 7, 12, 20), *detestable* (21:8, 27), *prostitute* (19:2), *the Beginning and the End* (21:6; 22:13) as titles. *Death and Hades* capitalized where they are thrown into the lake of fire (20:13–14), as the rider's name at 6:8. The rider of 19:11 is named *Faithful and True… the Word of God*, so His pronouns are capital; the rider of 6:2 stays as its own choice. *In the Spirit* (21:10) follows the open choice at 1:10. *Come, Lord Jesus!* (22:20), as the 1 Corinthians 16:22 note quotes it. The stones of 21:19–20 in their usual English (*carnelian* as at 4:3; *hyacinth* as at 9:17).
+
+**Echoes in the notes, checked against this project's English and the Greek Old Testament:** Psalm 150:1; Isaiah 63:1, 3; 65:17; 60:3, 11, 19; 11:10; 55:1; Ezekiel 39:17–18; 38:2, 15–16; 39:4; 47:12; Daniel 7:10, 22; 1 Corinthians 15:26; 16:22; Leviticus 26:11–12; 2 Samuel 7:14; 1 Kings 6:20; Exodus 28:17–21 (Greek); 33:20; Genesis 2:9–10; Zechariah 14:11 (Greek); Numbers 24:17; Deuteronomy 4:2.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:**
+- **19:** *Hallelujah* in heaven over Babylon's fall; *the marriage of the Lamb has come*. Heaven opens, and a rider on a white horse, *Faithful and True*, named *the Word of God*, *King of kings and Lord of lords*, defeats the beast and the false prophet.
+- **20:** Satan is bound for a thousand years; the martyrs come to life and reign with Christ; then Satan is released, gathers Gog and Magog, and is thrown into the lake of fire. The dead stand before a great white throne, and Death and Hades are thrown into the lake.
+- **21:** a new heaven and a new earth; *The tent of God is with mankind… He will wipe away every tear*; the new Jerusalem comes down, a cube of gold with twelve gates of pearl, and no temple, *for its temple is the Lord God Almighty and the Lamb*.
+- **22:** the river of the water of life and the tree of life, *for the healing of the nations*; *they will see His face*; *I am coming quickly*; *The Spirit and the bride say, "Come!"*; *Amen. Come, Lord Jesus!*
+
+### Revelation 19: The Word of God
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 1 | as a great voice of a large crowd | what sounded like the loud voice of a great multitude |
+| 6 | the Lord, our God, the Almighty reigned | the Lord our God, the Almighty, reigns |
+| 8 | the righteous acts of the saints | the righteous deeds of the saints |
+| 10 | See, not! | Do not do that! |
+| 13 | a robe dipped in blood | a robe dipped in blood (note) |
+| 21 | were filled from their flesh | gorged themselves on their flesh |
+
+### Revelation 20: The Thousand Years
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 4 | judgment was given to them | were given authority to judge (note) |
+| 4 | of those having been axed | of those who had been beheaded |
+| 9 | they went up on the breadth of the earth | They marched up over the breadth of the earth |
+| 11 | from whose face fled | From His presence… fled away |
+
+### Revelation 21: The New Jerusalem
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 3 | Behold, the tent of God with men | The tent of God is with mankind (note) |
+| 3 | they will be His peoples | they will be His peoples (plural, as the edition prints it) |
+| 6 | They have come to be | It is done |
+| 11 | its luminary | Its radiance |
+| 16 | upon twelve thousand stadia | twelve thousand stadia (note) |
+| 17 | a measure of a man, which is of an angel | by a human measure, which is also an angel's |
+
+### Revelation 22: Come, Lord Jesus
+
+| Verse | Word-for-word | In the text now |
+|---|---|---|
+| 2 | from here and from there | On either side |
+| 3 | every curse will no longer be | There will no longer be any curse (note) |
+| 5 | will give light upon them | will shine on them |
+| 11 | let the filthy be made filthy still | let… the filthy still be filthy |
+| 16 | the root and the race of David | the Root and the Offspring of David |
+| 20 | Yes, I am coming quickly. Amen, come, Lord Jesus | "Yes, I am coming quickly." Amen. Come, Lord Jesus! |
+
+**Choices for you:** none new.
+
 ## Revelation 15–18 — rendered 2026-11-21, 2:10 PM CST
 
 **Landed:** Revelation 15, 16, 17, 18 (8, 21, 18 and 24 verses). Progress 1,547 → **1,551 of 1,989 (78.0%)**. Esther 11–16 is still held on the October choice.
