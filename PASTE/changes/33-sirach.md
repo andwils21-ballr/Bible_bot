@@ -2,6 +2,18 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## The translator's foreword rendered (Bible Main, 4:30 PM CST, 2026-11-22)
+
+**Request:** the choice on the translator's foreword, decided (a) by the council (item 110) and marked in `PASTE/decided/33-sirach.md`: render it above 1:1, unnumbered. Rendered from Swete's Greek (`sources/swete-src/`, book code `Sip`), which the source helper does not print.
+
+| Where | Before | After |
+|---|---|---|
+| 1, above v1 | (no foreword) | **The Translator's Foreword**, three paragraphs: *Many great things have been given to us through the Law and the Prophets… order their lives by the Law.* |
+| 1, heading before v1 | (none) | **All Wisdom Is from the Lord** |
+| 1, notes | (none) | new first note, **The foreword**: who wrote it, *my grandfather Jesus* (50:27), the Scriptures named in three parts, and *what is said in Hebrew does not have the same force when it is carried over into another language* |
+
+**Choices for you:** none new.
+
 ## Council item 114 applied (Bible 2, 3:37 PM CST, 2026-11-22)
 
 **Request:** Bible 3's fidelity check (council item 114), agreed by Bible 2: Swete's *ton Gōg* is kept, as item 110 settled, with the note it lacked.
