@@ -3,6 +3,17 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
+## Council item 95 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 95, settled 2026-11-17 (two of three agree): four notes put to what the Hebrew shows. Item 100's two notes (7:10, 8:15) are no longer in the chapters; nothing to apply there.
+
+| Where | Before | After |
+|---|---|---|
+| 1, note v2 | from Horeb to Kadesh by the direct road is eleven days | from Horeb to Kadesh by the way of Mount Seir is eleven days |
+| 2, note v30 | *hiqshah… ve-immets et levavo*, the words of Pharaoh's story: *I Myself will make Pharaoh's heart hard* (Exodus 7:3). | *Hiqshah* is the verb of Pharaoh's story, *I Myself will make Pharaoh's heart hard* (Exodus 7:3); *immets* is not used there. |
+| 3, note v26 | the words of 1:6 and 2:3, | the words of 1:6 and 2:3, now singular, |
+| 4, note vv16–18 | the creatures of Genesis 1 in reverse order… ends with fish. | the creatures of Genesis 1 again… ends with fish, with the birds and the creeping things changing places. |
+
 ## Fidelity audit against the Hebrew, Deuteronomy 1–34 (Bible 3, 2026-11-18, 2:20 to 5:25 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source from Leviticus on. Deuteronomy 1–22 read verse by verse beside the Hebrew (English 12:32 is Hebrew 13:1, English 13 is Hebrew 13:2–19, and so on, as the notes say), the counts in the notes checked in the Hebrew (*u-vi'arta ha-ra* nine times from 13:6 to 24:7, *the place the LORD will choose* in the six verses of chapter 12) and every quotation of another book compared word for word with this text of that verse. Every verse matches the Hebrew; no verse changed. Two note quotations did not match this text and were corrected. The slips already settled in COUNCIL.md items 95 and 100 were left for Bible 2 to apply.

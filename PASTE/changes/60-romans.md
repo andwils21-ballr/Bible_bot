@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 102 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 102, settled 2026-11-17 (Bible 2, Bible Main): words kept the same where Paul repeats them.
+
+| Where | Before | After |
+|---|---|---|
+| 13:7 | respect to whom respect | fear to whom fear |
+| 14:23 | But whoever has doubts is condemned | But the one who wavers is condemned |
+| 15:31 | rescued from the unbelievers in Judea | rescued from the disobedient in Judea |
+
 ## Fidelity audit, verse scan and note quotation, Romans (Bible 3, 2026-11-18, 11:34 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. All 16 chapters were read against the Greek and no verse was changed. 1 note quotation was put into the wording of the verse it cites.

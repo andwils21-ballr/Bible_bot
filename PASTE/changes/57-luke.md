@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 99 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 99, settled 2026-11-17: 1:58 `ἐμεγάλυνεν` is the verb of *My soul magnifies* (v46); `πόλιν Δαυίδ` is a title, *the city of David*, with one line in the note (Nazareth in 2:4 stays *town*). *Egeneto* stays plain everywhere.
+
+| Where | Before | After |
+|---|---|---|
+| 1:58 | had shown great mercy to her | had magnified His mercy to her |
+| 2:4 | to the town of David called Bethlehem | to the city of David called Bethlehem |
+| 2:11 | in the town of David | in the city of David |
+| 2, note vv1–5 | Bethlehem is *the town of David*, from which Micah promised a ruler | *The city of David* is a title: the books of Samuel and Kings give it to Zion (2 Samuel 5:7), and Luke gives it to Bethlehem, from which Micah promised a ruler |
+
 ## Fidelity audit, note quotation check (cross-book, second sweep), Luke (Bible 3, 2026-11-18, 11:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 1 note quotation was put into the wording of the verse cited.

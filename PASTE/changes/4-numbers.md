@@ -5,6 +5,16 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 
 
+## Council items 92 and 94 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council items 92 and 94, settled 2026-11-17 (two of three agree): note quotations put into this project's wording, and one note moved into verse order. The Numbers 7 and 9 quotations of item 94 already read as settled.
+
+| Where | Before | After |
+|---|---|---|
+| 5, note v12 | *let your heart not **turn aside** to her ways* (7:25) | *Do not let your heart **turn aside** to her ways* (7:25) |
+| 5, notes | v12, v22, vv21, 27–28 | v12, vv21, 27–28, v22 |
+| 10, note vv35–36 | *let God rise up, let His enemies be scattered…* (68:1) | *Let God arise, let His enemies be scattered…* (68:1) |
+
 ## Fidelity audit of the notes, second pass, Numbers (Bible 3, 2026-11-18, 8:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 3 note quotations were put into the wording of the verses they cite.

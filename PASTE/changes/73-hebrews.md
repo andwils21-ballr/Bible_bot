@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 103 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 103, settled 2026-11-17: `μέτοχοι` is *companions* as at 1:9; `πειρασθείς… πειραζομένοις` is the root of 3:8–9's *testing*.
+
+| Where | Before | After |
+|---|---|---|
+| 2:18 | For because He Himself has suffered when tempted, He is able to help those who are being tempted. | Because He Himself suffered when He was tested, He is able to help those who are being tested. |
+| 3:1 | who share in a heavenly calling | companions in a heavenly calling |
+| 3:14 | For we have come to share in Christ | For we have become companions of Christ |
+
 ## Hebrews 6:6, *since* or *while* (Andrew, 2026-11-16)
 
 **Request:** Andrew chose (b), *while*, with a note that lays out both readings. The choice is in `PASTE/decided/73-hebrews.md`.

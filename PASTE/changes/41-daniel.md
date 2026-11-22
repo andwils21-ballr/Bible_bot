@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 98 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 98, settled 2026-11-17: *u-le-haskil* is the verb of Gabriel's *to give you insight* (9:22).
+
+| Where | Before | After |
+|---|---|---|
+| 9:13 | paying heed to Your truth | gaining insight from Your truth |
+
 ## Double meanings: notes added and put back (Andrew, 10:50 AM CST, 2026-11-14)
 
 **Request:** Andrew: go through the finished chapters for places where the Hebrew or Greek honestly allows two meanings and the difference is an interesting one; each gets a note at the least. No verse was changed.

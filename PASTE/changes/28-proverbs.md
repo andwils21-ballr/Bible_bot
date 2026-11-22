@@ -2,6 +2,16 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 96 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 96, settled 2026-11-17: *ve-attah banim shim'u li*, which draws the consequence of what was just said each time, gets the spec's *So now*, the same words in all three.
+
+| Where | Before | After |
+|---|---|---|
+| 5:7 | Now then, sons, listen to me, | So now, sons, listen to me, |
+| 7:24 | Now then, sons, listen to me, | So now, sons, listen to me, |
+| 8:32 | Now then, sons, listen to me: | So now, sons, listen to me: |
+
 ## Notes fact check: what the Greek has (Andrew, 7:01 PM CST, 2026-11-16)
 
 **Request:** Andrew: continue with the fact checks. Every note that says what *the Greek has* was read against the printed Greek (about 600 claims across the books from Hebrew). No verse was changed.

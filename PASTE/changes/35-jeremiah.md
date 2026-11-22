@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 97 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+
+**Request:** council item 97, settled 2026-11-17: *sarim* is *princes* in chapter 26, as everywhere else in the book, with the two notes Bible 3 named; 27:11 *ve-avadah* keeps the chapter's verb *serve*.
+
+| Where | Before | After |
+|---|---|---|
+| 26:10, 11, 12, 16, 21 | the officials (of Judah) | the princes (of Judah) |
+| 26, notes vv8, 11, 16 and v22 | The officials sit as judges… among the officials who later hear | The princes sit as judges… among the princes who later hear |
+| 21, note v1 | among the officials who later want him dead | among the princes who later want him dead |
+| 27:11 | and it will till it and live in it. | and it will serve the land and live on it. |
+
 ## Fidelity audit, note quotation check (cross-book), Jeremiah (Bible 3, 2026-11-18, 11:41 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 2 note quotations were put into the wording of the verses cited.
