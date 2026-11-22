@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 109 applied (Bible 2, 5:00 PM CST, 2026-11-22)
+## Council item 109 applied (Bible 2, 3:29 PM CST, 2026-11-22)
 
 **Request:** council item 109 (Bible 3's sort of the open choices, 2026-11-17): the river takes its English name, with the book's form in the note. The other nine choices stand as the text has them. All ten are moved to `PASTE/decided/24-2-meqabyan.md`.
 

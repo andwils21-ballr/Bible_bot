@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
-## Council item 108 applied: the shekel of the holy place (Bible 2, 4:40 PM CST, 2026-11-22)
+## Council item 108 applied: the shekel of the holy place (Bible 2, 3:27 PM CST, 2026-11-22)
 
 **Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17, under Andrew's approval of 2026-11-16 to cut the waiting choice lines): *sheqel ha-qodesh* is **the shekel of the holy place** in Leviticus and Numbers; *qodesh* is *holy place*, and *sanctuary* stays for *miqdash*. Exodus is closed, so Exodus 30:13, 24 stay as they are. The choice is moved to `PASTE/decided/3-leviticus.md`.
 

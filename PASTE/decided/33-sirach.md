@@ -27,6 +27,10 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/33-sirach.md` once m
 
 ## Sirach 1–4 — rendered 2026-10-07, 6:41 PM CDT
 
+- ✅ Decided 2026-11-22 (settled by the council, item 110): (a) **render it above 1:1, unnumbered**; for Bible Main's next cycle. **The translator's foreword** (the Prologue, by the author's grandson; in Swete's Greek in `sources/`, not printed by the helper; not rendered yet)
+  - (a) **Render it above 1:1**, unnumbered.
+  - (b) **Leave it out.**
+  - No recommendation was given.
 - ✅ Decided 2026-11-22 (settled by the council, item 110): (a), as the text has it. **Verses with no Greek** (1:5, 7, 21; 3:19, 25, and later chapters, listed in `NOTES_FOR_ANDREW.md`)
   - Now, 1:5: *(This verse is not in the Greek text followed here; see the note.)*
   - (a) **Numbered placeholders** (now), as Nehemiah 7:68.

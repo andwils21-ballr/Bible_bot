@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 96 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+## Council item 96 applied (Bible 2, 3:23 PM CST, 2026-11-22)
 
 **Request:** council item 96, settled 2026-11-17: *ve-attah banim shim'u li*, which draws the consequence of what was just said each time, gets the spec's *So now*, the same words in all three.
 

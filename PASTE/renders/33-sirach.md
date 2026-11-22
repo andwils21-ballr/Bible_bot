@@ -1615,9 +1615,5 @@ Echoes in the notes were checked two ways:
 | 27 | *mē hypostrōsēs seauton* "do not spread yourself under" | Do not lay yourself down |
 | 30 | *phantasiokopōn* "acting on fancies" | capricious |
 
-**Choices for you:**
-- **The translator's foreword** (the Prologue, by the author's grandson; in Swete's Greek in `sources/`, not printed by the helper; not rendered yet)
-  - (a) **Render it above 1:1**, unnumbered.
-  - (b) **Leave it out.**
-  - No recommendation was given.
+**Choices for you:** all decided; moved to `PASTE/decided/33-sirach.md`.
 

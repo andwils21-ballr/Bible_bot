@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 110 applied (Bible 2, 5:15 PM CST, 2026-11-22)
+## Council item 110 applied (Bible 2, 3:30 PM CST, 2026-11-22)
 
 **Request:** council item 110 (Bible 3's sort of the open choices, 2026-11-17): *porneia* takes the New Testament's English. The other seven choices stand as the text has them. All eight are moved to `PASTE/decided/32-wisdom-of-solomon.md`; 18:15–16 stays open for Andrew.
 

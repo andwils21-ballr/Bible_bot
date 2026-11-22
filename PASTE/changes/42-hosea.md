@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 111 applied (Bible 2, 5:40 PM CST, 2026-11-22)
+## Council item 111 applied (Bible 2, 3:33 PM CST, 2026-11-22)
 
 **Request:** council item 111 (Bible 3's sort of the open choices, 2026-11-17): *rad* is read as restless, the sense of Jeremiah 2:31, with the Greek, which puts Judah with Israel's deceit. The other twelve choices stand as the text has them; 13:15 *the wind of the LORD* stands, and Isaiah 40:7 and 59:19 stay *the Spirit of the LORD* on their own words. All thirteen are moved to `PASTE/decided/42-hosea.md`.
 

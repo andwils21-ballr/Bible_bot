@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 115 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+## Council item 115 applied (Bible 2, 3:37 PM CST, 2026-11-22)
 
 **Request:** Bible 3's fidelity check (council item 115), agreed by Bible 2: the edition prints *ἰατροῖς*, **on doctors** (marked as a place where manuscripts differ, but printed), and the English left it out; Mark 5:26 has *under many doctors*.
 
@@ -10,7 +10,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 |---|---|---|
 | 8:43 | who had spent all she had to live on, and could not be healed by anyone. | who had spent her whole livelihood on doctors, and could not be healed by anyone. |
 
-## Council item 112 applied (Bible 2, 6:00 PM CST, 2026-11-22)
+## Council item 112 applied (Bible 2, 3:34 PM CST, 2026-11-22)
 
 **Request:** council item 112 (Bible 3's sort of the open choices, 2026-11-17): *exodos* is kept as the word, since Moses is in the scene, with the plain sense in the note. The other six choices stand as the text has them. All seven are moved to `PASTE/decided/57-luke.md`.
 
@@ -19,7 +19,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 | 9:31 | spoke of His departure | spoke of His exodus |
 | 9, note vv28–36 | spoke of His departure… *exodos*, **departure**, word for word **exodus** | spoke of His exodus… *exodos*, the way out, in ordinary Greek a **departure**… with Moses in the scene |
 
-## Council item 99 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+## Council item 99 applied (Bible 2, 3:23 PM CST, 2026-11-22)
 
 **Request:** council item 99, settled 2026-11-17: 1:58 `ἐμεγάλυνεν` is the verb of *My soul magnifies* (v46); `πόλιν Δαυίδ` is a title, *the city of David*, with one line in the note (Nazareth in 2:4 stays *town*). *Egeneto* stays plain everywhere.
 

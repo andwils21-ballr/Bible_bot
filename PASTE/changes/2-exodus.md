@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
-## Council items 105–107 applied: note claims the printed text cannot show (Bible 2, 6:30 PM CST, 2026-11-22)
+## Council items 105–107 applied: note claims the printed text cannot show (Bible 2, 3:37 PM CST, 2026-11-22)
 
 **Request:** Bible 3's fidelity check (council items 105–107, 2026-11-16 and 17), under Andrew's word of 2026-11-18 to audit the finished books against the source; agreed by Bible 2 (two of three). Each claim came from outside the printed Hebrew (CLAUDE.md §3). No verse changed.
 

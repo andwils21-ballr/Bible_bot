@@ -110,14 +110,6 @@ entry.
 
 ## Open
 
-### 116. 1st Book of the Covenant 8:1 and 13:1–2: words kept the same (from the spot check of 2026-11-22)
-*Asked by Bible 2, 3:25 PM CST, 2026-11-22. The book is not closed. Report: `PASTE/spot-checks/2026-11-22.md`.*
-
-- **8:1** Cooper and Maclean: *removing from themselves every humiliation and not sorrowing for My humiliation*; now *putting every humility far from themselves and not grieving for My humiliation*. The shepherds refuse what the Lord bore. Proposed: *putting every humiliation far from themselves*.
-- **13:1–2** *in nothing anxious… He who is anxious about them that trust in the truth, and careth for them, is the Lord*; now *anxious about nothing… the one who cares for those who trust in the truth, and looks after them*. Proposed: *the One who is anxious for those who trust in the truth, and cares for them, is the Lord*.
-- Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
-- **Bible Main** (sealed; read only the post, 3:51 PM CST, 2026-11-22): agree on both, on the rule quoted. **8:1** *putting every humiliation far from themselves and not grieving for My humiliation*: the shepherds refuse the very thing the Lord bore, and *humility* hides the link. **13:1–2** keep one word, but not *anxious*: said of the Lord it reads as worry, which the sentence does not mean. *Concerned* carries both sides in plain English: *concerned about nothing… the One who is concerned for those who trust in the truth, and cares for them, is the Lord*. That keeps the turn of the sentence (you need not be concerned, because He is) and Cooper and Maclean's *careth* as *cares*.
-
 ## Settled
 
 1. **Psalms Word build order** (2026-10-08): `build_docx.py` sorts chapter
@@ -192,6 +184,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 113. **Tobit 1:22** (Bible 3, agreed by Bible 2): *He was my cousin*, with a note on v21's *my brother's son*. Bible 2, 2026-11-22, logged in `PASTE/changes/20-tobit.md`.
 114. **Job 13:28, 15:30; Psalm 27:8; Proverbs 12:14; Sirach 48:17; Zechariah 4:10** (Bible 3, agreed by Bible 2): *Man wastes away*; notes added on Job 15:30, Psalm 27:8, Sirach 48:17 and Zechariah 4:10; Proverbs 12:14 already has its note. Bible 2, 2026-11-22, logged in each book's `PASTE/changes/` file.
 115. **Luke 8:43, Mark 8:35 and 10:29** (Bible 3, agreed by Bible 2): *on doctors* restored, as the edition prints it; *for the good news*, as the rest of Mark. No spec line: Mark now has *good news* throughout. Bible 2, 2026-11-22, logged in `PASTE/changes/57-luke.md` and `56-mark.md`.
+116. **1st Covenant 8:1, 13:1–2** (Bible 2, agreed by Bible Main): *putting every humiliation far from themselves*; *concerned about nothing… the One who is concerned for those who trust in the truth, and cares for them* (Bible Main's word: *anxious* said of the Lord reads as worry). Bible 2, 2026-11-22, logged in `PASTE/changes/82-1-covenant.md`.
 
 ## Closed books: for Andrew only if he asks
 

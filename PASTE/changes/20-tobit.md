@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 113 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+## Council item 113 applied (Bible 2, 3:37 PM CST, 2026-11-22)
 
 **Request:** Bible 3's fidelity check (council item 113), agreed by Bible 2: the Greek has *exadelphos mou*, **my cousin**, in v22, and *my brother's son* in v21; the English now gives both as the Greek does, with a note.
 

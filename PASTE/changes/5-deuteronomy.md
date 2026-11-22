@@ -3,7 +3,7 @@
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
 
-## Council item 95 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+## Council item 95 applied (Bible 2, 3:23 PM CST, 2026-11-22)
 
 **Request:** council item 95, settled 2026-11-17 (two of three agree): four notes put to what the Hebrew shows. Item 100's two notes (7:10, 8:15) are no longer in the chapters; nothing to apply there.
 

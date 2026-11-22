@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 111 applied: the four locust names in every book (Bible 2, 5:40 PM CST, 2026-11-22)
+## Council item 111 applied: the four locust names in every book (Bible 2, 3:33 PM CST, 2026-11-22)
 
 **Request:** council item 111 (Bible 3's sort of the open choices, 2026-11-17): Joel's four insects get four English words, one for each Hebrew word in every book: *gazam* **cutting locust**, *arbeh* **locust**, *yeleq* **young locust**, *chasil* **consuming locust** (from its verb in *for the locust will consume it*, Deuteronomy 28:38), and *grasshopper* is left to *chagav* alone. Nahum 3:15–16 and Psalm 105:34 already read *young locust*. The other four Joel choices stand as the text has them. All five are moved to `PASTE/decided/45-joel.md`.
 

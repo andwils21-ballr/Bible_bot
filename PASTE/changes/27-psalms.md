@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 114 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+## Council item 114 applied (Bible 2, 3:37 PM CST, 2026-11-22)
 
 **Request:** Bible 3's fidelity check (council item 114), agreed by Bible 2: the note on 27:8, cut in the notes sweep, is restored in one line; with no note a reader cannot see whose voice says *Seek*.
 

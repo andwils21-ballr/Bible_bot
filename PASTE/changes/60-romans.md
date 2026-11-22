@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 102 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+## Council item 102 applied (Bible 2, 3:23 PM CST, 2026-11-22)
 
 **Request:** council item 102, settled 2026-11-17 (Bible 2, Bible Main): words kept the same where Paul repeats them.
 

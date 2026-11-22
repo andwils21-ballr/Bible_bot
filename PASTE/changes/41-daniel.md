@@ -2,7 +2,7 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
-## Council item 111 applied (Bible 2, 5:40 PM CST, 2026-11-22)
+## Council item 111 applied (Bible 2, 3:33 PM CST, 2026-11-22)
 
 **Request:** council item 111 (Bible 3's sort of the open choices, 2026-11-17): the first two verbs of 12:10 are reflexive in form (*hitpael*) and the third passive, so the English keeps the change. The other seven choices stand as the text has them. All eight are moved to `PASTE/decided/41-daniel.md`.
 
@@ -10,7 +10,7 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 |---|---|---|
 | 12:10 | Many will be purified, made white and refined; | Many will purify themselves, make themselves white and be refined; |
 
-## Council item 98 applied (Bible 2, 4:00 PM CST, 2026-11-22)
+## Council item 98 applied (Bible 2, 3:23 PM CST, 2026-11-22)
 
 **Request:** council item 98, settled 2026-11-17: *u-le-haskil* is the verb of Gabriel's *to give you insight* (9:22).
 
