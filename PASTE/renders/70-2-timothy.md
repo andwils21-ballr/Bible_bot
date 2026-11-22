@@ -72,8 +72,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 17 | *gangraina nomēn hexei* "will have pasture as gangrene" | will spread like gangrene |
 | 26 | *ezōgrēmenoi hyp' autou eis to ekeinou thelēma* "captured alive by him for that one's will" | who has taken them captive to do his will |
 
-**Choices for you:**
-- **1:12, *tēn parathēkēn mou phylaxai***
-  - (a) **to guard what has been entrusted to me** (now): the gospel God gave Paul to keep.
-  - (b) **to guard what I have entrusted to Him**: Paul's own life and hope, left in God's keeping.
-  - Recommend (a): two verses later and in 1 Timothy 6:20 the same word is what Timothy is given to guard, *the good deposit entrusted to you*.
+**Choices for you:** all decided; moved to `PASTE/decided/70-2-timothy.md`.

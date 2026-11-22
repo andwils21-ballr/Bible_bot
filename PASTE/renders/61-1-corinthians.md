@@ -177,10 +177,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **a woman ought to have authority over her head** (now): her own authority, her right to pray and prophesy (v5), as *exousia* is one's own *right* all through chapters 8–9.
   - (b) **a woman ought to have a sign of authority on her head**: a covering that shows she is under authority; *sign of* is added in English.
   - Recommend (a): it is what the Greek says without addition, and the letter's other uses of *exousia* (8:9; 9:4–6, 12, 18) are a person's own right; the note gives both, and the range for *because of the angels*.
-- **12:31, *zēloute de ta charismata ta meizona***
-  - (a) **But earnestly desire the greater gifts** (now): a command, as the same verb is in 14:1, *earnestly desire the spiritual gifts*.
-  - (b) **You are eager for the greater gifts**: Paul describing the Corinthians, before he shows them *a still more excellent way*.
-  - Recommend (a): 14:1 picks the thought up with the same verb as a plain command, after *Pursue love*.
 
 ## 1 Corinthians 5–8 — rendered 2026-11-09, 1:15 AM CST
 
@@ -268,18 +264,10 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 10 | *oikodomēthēsetai* "will be built up" | be built up (note) |
 
 **Choices for you:**
-- **6:4, *tous exouthenēmenous en tē ekklēsia, toutous kathizete***
-  - (a) **why do you seat as judges those who count for nothing in the church?** (now): a rebuke for taking cases to outside judges, whom the church does not esteem.
-  - (b) **seat as judges even those who count for least in the church!**: a command; even the least of the believers is better than an unbelieving court.
-  - Recommend (a): v5 goes on *Is there no one among you wise enough*, which fits a rebuke of going outside better than an order to choose the least.
 - **6:9, *malakoi***
   - (a) **effeminate men** (now): the plain sense of *soft ones*, as in *soft clothing* (Matthew 11:8).
   - (b) **men who take the passive part with men**: read with the next word, *men who lie with men*, as a pair.
   - Recommend (a): it keeps the word's own range, and the note gives the narrower reading; (b) settles in the text what the Greek leaves open.
-- **7:1, *kalon anthrōpō gynaikos mē haptesthai*** (the same question for 6:12–13 and 8:1, 4)
-  - (a) **in quotation marks, a saying from the Corinthians' letter** (now): Paul quotes it, then qualifies it (*But… each man should have his own wife*).
-  - (b) **Paul's own statement**, no quotation marks: celibacy is good, and the chapter goes on to allow marriage.
-  - Recommend (a): Paul opens with *about the things you wrote*, answers with *But*, and does the same with *All things are lawful for me* (6:12).
 - **7:21, *mallon chrēsai***
   - (a) **if you can gain your freedom, take the opportunity** (now).
   - (b) **even if you can gain your freedom, make the most of your present state instead**.
@@ -366,9 +354,5 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 15 | *paidagōgous* "child-minders" | guardians |
 | 19 | *ton logon… tēn dynamin* "the word… the power" | the talk… their power |
 
-**Choices for you:**
-- **2:13, *pneumatikois pneumatika synkrinontes***
-  - (a) **explaining spiritual things in spiritual words** (now): the Spirit gives both the truths and the words for them.
-  - (b) **explaining spiritual things to spiritual people**: the truths are for those who have the Spirit, the *spiritual person* of v15.
-  - Recommend (a): the sentence is about *words* (*not in words taught by human wisdom but in words taught by the Spirit*), and *pneumatikois* most naturally takes up that noun; (b) leads well into vv14–15, and the note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/61-1-corinthians.md`.
 

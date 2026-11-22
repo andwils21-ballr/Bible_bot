@@ -46,3 +46,13 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/73-hebrews.md` once 
   - (b) **By faith Sarah herself received power to conceive**: Sarah is the subject.
   - Recommend (a): the edition's dative, the father's phrase *laying down seed*, and *from one man* in v12.
 
+## Hebrews 1–3 — rendered 2026-11-15, 2:30 PM CST
+
+- ✅ Decided 2026-11-22 (settled by the council, item 112): (a), as the text has it. **2:7, 9, *brachy ti par' angelous***
+  - (a) **for a little while lower than the angels** (now): time, the span of the incarnation.
+  - (b) **a little lower than the angels**: degree, as the psalm reads of humankind.
+  - Recommend (a): v9 sets it against the glory that follows *because of the suffering of death*; the note gives (b).
+- ✅ Decided 2026-11-22 (settled by the council, item 112): (a), as the text has it. **2:9, *chōris theou* or *chariti theou*** (from the spot check of 2026-11-15)
+  - (a) **so that apart from God He might taste death for everyone** (now): the edition's reading. He tasted death for all things except God, or He tasted it forsaken (Mark 15:34).
+  - (b) **so that by the grace of God He might taste death for everyone**: the other reading, which the edition marks.
+  - Recommend (a): it is the edition's text, and the harder reading; the note gives (b).

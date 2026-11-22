@@ -25,8 +25,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 18 | *emoi elloga* "put it on my account" | charge that to my account |
 | 20 | *onaimēn* "may I have benefit" | let me have some benefit (note) |
 
-**Choices for you:**
-- **v9, *presbytēs*** (from the spot check of 2026-11-15)
-  - (a) **Paul, an old man and now a prisoner** (now).
-  - (b) **Paul, an ambassador and now a prisoner**: the Greek Old Testament spells *envoy* this way (2 Chronicles 32:31; 2 Maccabees 11:34), and Paul calls himself *an ambassador in chains* (Ephesians 6:20).
-  - Recommend (a): Paul sets an appeal against a command (v8), and an envoy's rank is a reason to command.
+**Choices for you:** all decided; moved to `PASTE/decided/72-philemon.md`.

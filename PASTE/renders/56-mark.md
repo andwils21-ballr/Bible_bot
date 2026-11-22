@@ -56,11 +56,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 18 | *ophis arousin* "snakes they will lift" | they will pick up snakes |
 
 **Choices for you:**
-- **Passages the Greek edition sets apart in double brackets** (widespread: Mark 16 now; the edition does not print John 7:53–8:11 at all, see the John 7–11 report)
-  - (a) **Render them in place, under their own headings, with a note saying the edition sets them apart** (now): the reader has the whole text as printed and is told what the edition does.
-  - (b) **Render them in place with no heading or mark**: the text reads straight through, as most church Bibles print it.
-  - (c) **Set them in a smaller section after the chapter**, outside the numbered text.
-  - Recommend (a): nothing printed in the source is dropped, and nothing is claimed beyond what the edition itself shows.
 - **15:39, *alēthōs houtos ho anthrōpos huios theou ēn***
   - (a) **Truly this man was the Son of God!** (now): the title the spirits used (3:11; 5:7), which Mark's story has been leading to; Matthew 27:54 is rendered so.
   - (b) **Truly this man was a son of God!**: *huios* has no article, and a Roman soldier might mean a godlike man.
@@ -142,11 +137,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 61 | *tou eulogētou* "of the Blessed" | of the Blessed One (note) |
 | 72 | *epibalōn eklaien* "having thrown on, he wept" | ***KEPT AS IS*** He broke down and wept (obscure; note) |
 
-**Choices for you:**
-- **13:14, *to bdelygma tēs erēmōseōs hestēkota hopou ou dei***
-  - (a) **the abomination of desolation standing where it ought not to be** (now): *it*, as Matthew has *standing in the holy place* (Matthew 24:15); the note says Mark's word for *standing* is masculine.
-  - (b) **the abomination of desolation standing where he ought not to be**: Mark's masculine taken at its word, a person, not a thing.
-  - Recommend (a): *bdelygma* is a thing, and (a) matches Daniel and Matthew; the note keeps Mark's *he* in view, and *let the reader understand* follows at once.
+**Choices for you:** all decided; moved to `PASTE/decided/56-mark.md`.
 
 ## Mark 7–10 — rendered 2026-10-31, 6:42 PM CDT
 
@@ -226,11 +217,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 42 | *hoi dokountes archein* "those who seem to rule" | those who are considered rulers |
 | 51 | *hina anablepsō* "that I may look up again" | let me see again |
 
-**Choices for you:**
-- **7:19, *katharizōn panta ta brōmata***
-  - (a) **"…expelled into the latrine?" So He declared all foods clean** (now): Mark's own comment on what Jesus' saying meant, outside the quotation.
-  - (b) **"…expelled into the latrine, which cleanses all the food"**: still Jesus' words, about the body's way of dealing with food.
-  - Recommend (a): *katharizōn* agrees with the one speaking, *He*, not with the latrine; Mark adds such comments elsewhere in this chapter (7:3–4, 11, 34).
+**Choices for you:** all decided; moved to `PASTE/decided/56-mark.md`.
 
 ## Mark 3–6 — rendered 2026-10-31, 1:42 PM CDT
 
@@ -313,10 +300,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 51 | *lian ek perissou* "very much, beyond measure" | utterly astounded |
 
 **Choices for you:**
-- **3:21, *elegon gar hoti exestē***
-  - (a) **for they were saying, "He is out of His mind"** (now): *they* is His own people, the family that comes to seize Him; the verse follows from *His own people*.
-  - (b) **for people were saying**: *elegon* as the crowd's talk, which brings the family out to take Him home.
-  - Recommend (a): the subject of *went out* is *His own people*, and the same verb follows with no new subject.
 - **4:12, *hina blepontes blepōsi… mēpote epistrepsōsin***
   - (a) **so that they may look and look, and not see… otherwise they might turn and be forgiven** (now): the parables are given to fulfil Isaiah's commission, as the prophet was sent to make the heart fat (Isaiah 6:10).
   - (b) **so that, as it is written, they look and look… unless they turn and are forgiven**: *hina* as *that it may be fulfilled*, and *mēpote* as *unless*, leaving the door open.
@@ -386,11 +369,3 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **at once, every time** (now): Mark's word kept as a mark of his book, as Genesis keeps *And it came to pass*; it gives the story its pace.
   - (b) **by context**: *at once* where the meaning is immediacy, *then* or nothing where it only joins one scene to the next, as in 1:21, 23 and 29.
   - Recommend (a): the word is Mark's own and the repetition is his style; under the spec a book's mark needs your ruling.
-- **2:15, *en tē oikia autou***
-  - (a) **in his house** (now): Levi's house, the man just called (v14), as the feast for his friends, the tax collectors.
-  - (b) **in His house**: Jesus' own house in Capernaum, where *it was heard that He was at home* (2:1).
-  - Recommend (a): the nearest name is Levi, and the guests are his kind.
-- **2:26, *epi Abiathar archiereōs***
-  - (a) **in the time of Abiathar the high priest** (now): Abiathar, later David's high priest, was alive then; 1 Samuel names his father Ahimelech as the priest who gave the bread (1 Samuel 21:1).
-  - (b) **at the passage about Abiathar the high priest**: Jesus names the section of the scroll, as Mark does with *epi tou batou*, **at the passage about the bush** (12:26).
-  - Recommend (a): the plain sense of *epi* with a ruler's name is *in the time of*; the note gives (b).

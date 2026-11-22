@@ -70,13 +70,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 14 | *tous ataktous* "the disorderly" | the idle |
 | 22 | *apo pantos eidous ponērou* "from every form of evil" | from every form of evil |
 
-**Choices for you:**
-- **2:14–15, *hypo tōn Ioudaiōn***
-  - (a) **from the Jews, who killed both the Lord Jesus and the prophets** (now).
-  - (b) **from the Judeans, who killed…**: the people of Judea, set beside the Thessalonians' *own countrymen*.
-  - Recommend (a): Paul uses the same word for his own people (2 Corinthians 11:24, *from the Jews*); the sentence itself names the churches *in Judea*, and the note says the word carries both senses.
-- **4:4, *to heautou skeuos ktasthai***
-  - (a) **gain his own vessel** (now): keeps both readings.
-  - (b) **control his own body**: *vessel* as the body (2 Corinthians 4:7).
-  - (c) **take a wife for himself**: *vessel* as a wife (1 Peter 3:7).
-  - Recommend (a): the Greek allows both, and the note sets them out.
+**Choices for you:** all decided; moved to `PASTE/decided/67-1-thessalonians.md`.

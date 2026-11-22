@@ -71,8 +71,4 @@ Widespread choices already raised meet this letter and are rendered as they stan
 | 11 | *parēgoria* "consolation" | a consolation |
 | 16 | *tēn ek Laodikeias* "the one from Laodicea" | the letter from Laodicea (note) |
 
-**Choices for you:**
-- **1:19, *en autō eudokēsen pan to plērōma katoikēsai***
-  - (a) **in Him all the fullness was pleased to dwell** (now): *the fullness* is the subject, as the Greek reads.
-  - (b) **God was pleased to have all His fullness dwell in Him**: God is the one pleased, and *the fullness* is His.
-  - Recommend (a): it keeps the Greek's own words and both readings; 2:9 says what the fullness is, *the whole fullness of deity dwells bodily* in Him.
+**Choices for you:** all decided; moved to `PASTE/decided/66-colossians.md`.

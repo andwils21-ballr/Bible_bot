@@ -101,7 +101,3 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **to have authority over a man** (now).
   - (b) **to domineer over a man**: authority taken for oneself.
   - Recommend (a): it is the plainer sense and does not decide in the text what the note leaves open; the verb is found nowhere else in the Bible.
-- **3:11, *gynaikas hōsautōs***
-  - (a) **Women likewise** (now): women who serve as deacons, set between two verses about deacons.
-  - (b) **Their wives likewise**: the deacons' wives.
-  - Recommend (a): the Greek has no *their*, and *likewise* is the word that opens the deacons' list in v8; Phoebe is a *diakonos* of the church at Cenchreae (Romans 16:1, an open choice there).
