@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 115 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+
+**Request:** Bible 3's fidelity check (council item 115), agreed by Bible 2: the edition prints *ἰατροῖς*, **on doctors** (marked as a place where manuscripts differ, but printed), and the English left it out; Mark 5:26 has *under many doctors*.
+
+| Where | Before | After |
+|---|---|---|
+| 8:43 | who had spent all she had to live on, and could not be healed by anyone. | who had spent her whole livelihood on doctors, and could not be healed by anyone. |
+
 ## Council item 112 applied (Bible 2, 6:00 PM CST, 2026-11-22)
 
 **Request:** council item 112 (Bible 3's sort of the open choices, 2026-11-17): *exodos* is kept as the word, since Moses is in the scene, with the plain sense in the note. The other six choices stand as the text has them. All seven are moved to `PASTE/decided/57-luke.md`.

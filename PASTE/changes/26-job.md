@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 114 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+
+**Request:** Bible 3's fidelity check (council item 114), agreed by Bible 2: 13:28 read as God after *You* in v27, where the Hebrew *ve-hu* is the man; 15:30 *His* has two readings and no note.
+
+| Where | Before | After |
+|---|---|---|
+| 13:28 | He wastes away like a rotten thing, | Man wastes away like a rotten thing, |
+| 15, notes | (no note on v30) | v30 "by the breath of His mouth": God's (4:9) or the wicked man's own |
+
 ## Fidelity audit, note quotation check (cross-book), Job (Bible 3, 2026-11-18, 11:41 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A second automated pass checked every note quotation that stands next to a cited verse against this repo's own wording of that verse. No verse was changed; 1 note quotation was put into the wording of the verse cited.

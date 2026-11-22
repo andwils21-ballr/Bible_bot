@@ -2,6 +2,23 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Council items 105–107 applied: note claims the printed text cannot show (Bible 2, 6:30 PM CST, 2026-11-22)
+
+**Request:** Bible 3's fidelity check (council items 105–107, 2026-11-16 and 17), under Andrew's word of 2026-11-18 to audit the finished books against the source; agreed by Bible 2 (two of three). Each claim came from outside the printed Hebrew (CLAUDE.md §3). No verse changed.
+
+| Where | Before | After |
+|---|---|---|
+| 4, note v3 | Egypt's crown carries a rearing cobra… the wrong end, and that appears to be the point. | (note cut: what remains opens no main idea) |
+| 6, note v6 | Egyptian royal art shows the pharaoh with arm raised to strike… still being quoted centuries later. | a fixed expression for the exodus from here on: *by a strong hand and an outstretched arm* (Deuteronomy 4:34; 5:15). |
+| 25, note v17 | English "mercy seat" comes down from Tyndale and is a translation of Luther's *Gnadenstuhl*, not of the Hebrew | English *mercy seat* is not a translation of the Hebrew |
+| 26, note v15 | Acacia is a desert tree… the toughest thing that grows where these people are. | (sentence cut) |
+| 27, note v18 | The phrase does not fit the measurements above it, and the Hebrew as it stands cannot be made to… | the summary gives the width again, *fifty by fifty*. |
+| 27, note v20 | olives **crushed** rather than pressed, which yields the first and cleanest oil… the most wasteful grade available. | *zakh katit*, **clear** oil of **beaten** olives, for the lamp in front of God. |
+| 29, note v1 | …and the animal sense is the concrete one the others are built on. | (clause cut) |
+| 31, note v2 | And his grandfather is named: **Hur** is the man who held up one of Moses' arms… | (cut: the text gives the name only) |
+| 33, note v16 | *ve-niflinu*, from *pala*, the root behind *wonder* and *miracle* | *ve-niflinu*, to be set apart, made distinct, the verb of *I will set apart the land of Goshen* (8:22) |
+| 34, note v10 | *nifla'ot*, from *pala*, the root Moses used… given in the same root | *nifla'ot*, close in sound to Moses' *niflinu* one chapter earlier |
+
 ## Fidelity audit, note quotation check (cross-book, second sweep), Exodus (Bible 3, 2026-11-18, 11:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A wider automated pass checked note quotations that stand beside a cited verse (also where the cite comes first, or is only a chapter and verse). No verse was changed; 2 note quotations were put into the wording of the verses cited.

@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 114 applied (Bible 2, 6:30 PM CST, 2026-11-22)
+
+**Request:** Bible 3's fidelity check (council item 114), agreed by Bible 2: the note on 27:8, cut in the notes sweep, is restored in one line; with no note a reader cannot see whose voice says *Seek*.
+
+| Where | Before | After |
+|---|---|---|
+| 27, notes | (no note on v8) | v8 "My heart says of You, 'Seek My face'": *lekha amar libbi baqqeshu panay*, the heart speaks God's invitation back to Him |
+
 ## Fidelity audit of the notes, Psalms (Bible 3, 2026-11-18, 8:39 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. Every quotation of another book in the notes was checked against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 17 note quotations were put into the wording of the verses they cite.
