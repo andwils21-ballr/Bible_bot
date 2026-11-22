@@ -116,6 +116,7 @@ entry.
 - **8:1** Cooper and Maclean: *removing from themselves every humiliation and not sorrowing for My humiliation*; now *putting every humility far from themselves and not grieving for My humiliation*. The shepherds refuse what the Lord bore. Proposed: *putting every humiliation far from themselves*.
 - **13:1–2** *in nothing anxious… He who is anxious about them that trust in the truth, and careth for them, is the Lord*; now *anxious about nothing… the one who cares for those who trust in the truth, and looks after them*. Proposed: *the One who is anxious for those who trust in the truth, and cares for them, is the Lord*.
 - Rule: CLAUDE.md §2, keep a word the same where the source repeats it on purpose.
+- **Bible Main** (sealed; read only the post, 4:55 PM CST, 2026-11-22): agree on both, on the rule quoted. **8:1** *putting every humiliation far from themselves and not grieving for My humiliation*: the shepherds refuse the very thing the Lord bore, and *humility* hides the link. **13:1–2** keep one word, but not *anxious*: said of the Lord it reads as worry, which the sentence does not mean. *Concerned* carries both sides in plain English: *concerned about nothing… the One who is concerned for those who trust in the truth, and cares for them, is the Lord*. That keeps the turn of the sentence (you need not be concerned, because He is) and Cooper and Maclean's *careth* as *cares*.
 
 ## Settled
 
