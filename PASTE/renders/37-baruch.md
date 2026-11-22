@@ -85,7 +85,3 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **Afterward she appeared on earth and lived among people** (now): wisdom, the subject of the whole poem, who in the next verse is *the book of the commandments of God* (4:1).
   - (b) **Afterward He appeared on earth and lived among people**: God, the subject of vv32–37. Many early Christian readers took it this way.
   - Recommend (a): the poem is about wisdom from 3:9 to 4:4, and 4:1 goes straight on with *She*. The note gives both.
-- **2:25, *en apostolē***
-  - (a) **by pestilence** (now): the third of the three, famine, sword and pestilence, as Greek Jeremiah uses the word.
-  - (b) **by exile**: *a sending away*, the plain sense of the word.
-  - Recommend (a): the line names ways the people *died*, and Greek Jeremiah 39:36 has the same three with the same word.

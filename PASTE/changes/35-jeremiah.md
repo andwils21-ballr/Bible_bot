@@ -2,6 +2,17 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 110 applied (Bible 2, 5:15 PM CST, 2026-11-22)
+
+**Request:** council item 110 (Bible 3's sort of the open choices, 2026-11-17): two choices where the report recommended (b) are ruled (b). The other nineteen stand as the text has them. All twenty-one are moved to `PASTE/decided/35-jeremiah.md`; 31:32 stays open for Andrew.
+
+| Where | Before | After |
+|---|---|---|
+| 2:20 | For long ago I broke your yoke… and you said, "I will not transgress"; | For long ago you broke your yoke… and you said, "I will not serve"; |
+| 2, note v20 | "Long ago I broke your yoke… 'I will not transgress'" — the Hebrew as read… | "Long ago you broke your yoke… 'I will not serve'" — the written form *e'evod* and the Greek… The Hebrew as read has *I broke*… and *e'evor* |
+| 8:13 | I will gather them up and sweep them away, | When I would gather them in, |
+| 8, note v13 | "I will gather them up and sweep them away…" — *asof asifem*, two verbs that sound alike… | "When I would gather them in…" — *asof asifem*, read with *asaf*… The Hebrew vowels join *asaf* to *suf*… |
+
 ## Council item 97 applied (Bible 2, 4:00 PM CST, 2026-11-22)
 
 **Request:** council item 97, settled 2026-11-17: *sarim* is *princes* in chapter 26, as everywhere else in the book, with the two notes Bible 3 named; 27:11 *ve-avadah* keeps the chapter's verb *serve*.

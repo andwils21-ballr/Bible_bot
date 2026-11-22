@@ -94,11 +94,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - 6:7, *in your virgin faith*: *parthenikos* is the word for a virgin; the English keeps the weight of it.
 - 8:12, *your high place*: the sentence does not say whether a place on earth or in heaven is meant; the note gives the range.
 
-**Choices for you:**
-- **6:16, *ho genomenos en hymin xenos, aphoristhētō***
-  - (a) **Let the stranger who has come among you be set apart** (now): the foreigner living among the exiles, the Babylonian husbands and wives whom 8:3 names.
-  - (b) **Whoever among you has become a stranger, let him be set apart**: an Israelite who has become foreign, the way v24 says the one who does not listen *will become a stranger* (*xenos genēsetai*).
-  - Recommend (a): at the Jordan (8:3) the line is drawn at the Babylonian spouses, and v17 speaks of being set apart *from Babylon*.
+**Choices for you:** all decided; moved to `PASTE/decided/39-4-baruch.md`.
 
 ## 4 Baruch 1–4 — rendered 2026-10-20, 5:54 PM CDT
 
@@ -172,8 +168,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Left standing on purpose:**
 - 3:14, 21, *Agrippa*: a name of a much later age, kept as the Greek has it; the note says so.
 
-**Choices for you:**
-- **3:11, *heōs tēs syneleuseōs tou ēgapēmenou***
-  - (a) **until the gathering of the beloved** (now): *the beloved* is the people, as in 4:7, *the beloved people*, and the gathering is their return to the city, promised twice in 3:14–15.
-  - (b) **until the coming of the Beloved**: a person, and *syneleusis* his arrival.
-  - Recommend (a): the book itself pairs *beloved* with *people* in the next chapter (4:7), and 2 Maccabees 2:7 tells the hiding of the temple's things with the same end in view: the place is to stay hidden until God gathers His people together.
+**Choices for you:** all decided; moved to `PASTE/decided/39-4-baruch.md`.

@@ -192,26 +192,6 @@ entry.
 - Zechariah: 14:5 **(a)**. 9:1 **(a)**. 11:7, 11 **(b) the sheep merchants**, the Greek's letters and the wages of v12 (Bible 2 changes the text). 5:3 **(a) purged**. 5:6 **(a) their appearance**. 6:8 **(a) the Spirit** (the fixed term; the note gives *anger*). 6:13 **(a) a priest on his throne**. 7:2 **(a) Bethel had sent Sharezer and Regem-melech**. 4:14 **(a) the two sons of oil**.
 - Malachi: 1:1 **(a) Malachi**, with the meaning in the note.
 
-### 110. Queue sort, Wisdom of Solomon to 4 Baruch (Bible 3, job B of item 104, 2026-11-17)
-*Asked by Bible 3, 5 AM CST, 2026-11-17. Same method and instructions to Bible 2 as items 108 and 109. Ezekiel onward is still to sort.*
-
-**Digest for Andrew (choices that are yours):** Wisdom of Solomon 1 · Sirach 1 · Isaiah 5 · Jeremiah 1 · Lamentations 0 · Baruch 1 · Letter of Jeremiah 0 · 4 Baruch 0. That is 9 in these books; 58 are settled below.
-
-**Yours (they stay in the renders files):**
-- Wisdom 18:15–16, *logos* as the warrior of the Passover night: *it*, *He* or *he*.
-- Sirach 21:27, *ton satanan*, the adversary or Satan: decide it together with Job 1:6 and 1 Chronicles 21:1 (one choice for the word *satan*, with Wisdom 2:24 *diabolos* following it).
-- Isaiah 7:14 (*the virgin* or *the young woman*); 45:7 (*create disaster* or *create evil*); 32:2 (*each* or *a man*); 34:16 (*My mouth* or *my mouth*); 1:18 (a promise or a challenge).
-- Jeremiah 31:32 (*though I was their husband* or *I disregarded them*, the verse Hebrews 8:9 quotes).
-- Baruch 3:38 (*she appeared on earth* or *He appeared on earth*).
-
-**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
-- Wisdom of Solomon: 14:12 **(b) sexual immorality** (the New Testament here uses it twenty times and *fornication* never). 14:26 **(a) exchange of nature**. 11:20 **(a) breath**, lowercase. *pais* **(a) each by its context**. 6:9, 6:21, 8:15 **(a) monarchs**. 7:22 **(a) unique**. 1:5 **(a) spirit**, lowercase. 2:24 **(a) the devil**.
-- Sirach: the copying slips in Swete's Greek (43:23, 48:17, 43:26, 43:8) **(a) keep as printed, with notes**; if a licensed second witness is ever added to `sources/`, rule 2 applies then, so nothing is lost. 48:17 and 43:23 **(a)**. 24:23 **(b) the instruction**, as Deuteronomy 33:4 (ruling 4 of item 109). The translator's foreword **(a) render it above 1:1, unnumbered**. Verses with no Greek **(a) numbered placeholders**.
-- Isaiah: 40:7 **(a) the Spirit of the LORD**. 33:17 **(a) the King in His beauty**. 34:14 **(a) Lilith**. 30:20 **(a) your Teacher**. 19:18 **(a) the City of Destruction**. 14:4 **(a) the taskmaster**. 14:12 **(a) Day Star**. 16:3–4 **(a) outcasts of Moab as guests**. 17:9 **(a) the woods and the hilltops**. 18:7 **(a) the people as the gift**. 10:27 **(a) because of fatness**. 10:34 **(a) by the Majestic One**. 4:2 **(a) branch**, lowercase.
-- Jeremiah: 51:1 **(a) Leb-kamai**. 46:15 **(a)**. 48:9 **(a) wings**. 49:1, 3 **(a) Milcom**. 41:9 **(a)**. 42:20 **(a) at the cost of your lives**. 43:12 **(a) wrap**. 38:23 **(a)**. 40:5 **(a)**. 34:18 **(a)**. 29:8 **(a)**. 32:39 **(a) one heart**. 25:34 **(a) a precious jar**. 25:38 **(a) the oppressing sword**. 28:13 **(a) you have made**. 9:25 **(a) in the flesh alone**. 10:5 **(a) a scarecrow**. 6:2 **(a)**. 3:1 **(a) a question**. And two where the recommendation was (b), now ruled **(b)**: 8:13 **(b) when I would gather them in, there are no grapes** and 2:20 **(b) you broke your yoke… "I will not serve"** (Bible 2 changes the text and notes).
-- Lamentations: 1:8, 3:22, 3:36, 4:7, 5:22 **(a)** each as now.
-- Baruch: 2:25 **(a) by pestilence**. Letter of Jeremiah v48 **(a)**. 4 Baruch 6:16 **(a)** and 3:11 **(a) the gathering of the beloved**.
-
 ### 107. Exodus 31–34 notes: two claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-17)
 *Asked by Bible 3, 1 AM CST, 2026-11-17. Exodus is closed; neither is provably wrong from the printed source, so the text is left alone.*
 
@@ -345,6 +325,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 103. **Hebrews 2:18, 3:1, 3:14, Philemon 6** (Bible 2, agreed by Bible 3): *tested*; *companions* (3:1, 14); *the partnership of your faith*. Bible 2, 2026-11-22, logged in `PASTE/changes/73-hebrews.md` and `72-philemon.md`.
 108. **Queue sort, Leviticus to 2 Chronicles** (Bible 3, 2026-11-17): 39 choices settled and moved to `PASTE/decided/`; applied where the text differed: the shekel of the holy place (Leviticus, Numbers), Deuel (Numbers 2:14), the Greek at Judges 1:18, 8:16, 10:12, 14:15 and 1 Samuel 3:13, 12:11, 12:15, 25:1. Andrew's six stay in the renders files (Leviticus 26:21–41; Deuteronomy 32:8, 43; 1 Kings 19:12; 2 Kings 17:21; 1 Chronicles 21:1, 15:22). *Gibbor chayil* and *YHWH tseva'ot* were not added to the spec's fixed-terms table, which holds Andrew's rulings only; the text already has them the same throughout. Bible 2, 2026-11-22, logged in each book's `PASTE/changes/` file.
 109. **Queue sort, Jubilees to Song of Songs** (Bible 3, 2026-11-17): 63 choices settled and moved to `PASTE/decided/`; applied where the text differed: 2 Meqabyan 8:9 *Tekezé*. **Not applied, for Andrew first:** Psalms 1:2 *torah* as *instruction*, with the sweep of Psalms and Reproof (`NOTES_FOR_ANDREW.md`, 2026-10-01 and 2026-10-07, keeps the *torah* ruling for him, and it reaches Psalms 1, 19 and 119: a widespread decision, CLAUDE.md §5); Esther 11–16 from Swete's Greek (`NOTES_FOR_ANDREW.md`, 2026-10-07, keeps the choice for him; it also needs `source_text.py` to print the additions). Both stay open in their renders files. Andrew's sixteen stay in the renders files. Bible 2, 2026-11-22.
+110. **Queue sort, Wisdom of Solomon to 4 Baruch** (Bible 3, 2026-11-17): 55 choices settled and moved to `PASTE/decided/`; applied where the text differed: Wisdom 14:12 *sexual immorality*; Jeremiah 2:20 *you broke… I will not serve* and 8:13 *When I would gather them in*. **Not applied:** Sirach 24:23 *the instruction* waits on Andrew's *torah* ruling (item 109); the Sirach translator's foreword is new rendering, so it is Bible Main's (Andrew, 2026-11-15: only Bible Main renders). Andrew's nine stay in the renders files. Bible 2, 2026-11-22.
 
 ## Closed books: for Andrew only if he asks
 

@@ -48,8 +48,4 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - v11, *the prostitutes on the roof*: *stegos* is a roof or a covered house; the letter says no more about who they are.
 - v55, *like crows between heaven and earth*: the picture is not explained in the letter, and the English does not explain it.
 
-**Choices for you:**
-- **v48, *pōs te dē mellei ta hyp' autōn kataskeuasthenta***
-  - (a) **how then can the things they have made be gods?** (now): the letter's own question, asked in every refrain.
-  - (b) **how then can the things they have made last?**: v47 has just said the makers *do not live long*, and the sentence asks whether their work will.
-  - Recommend (a): the next words, *They have left lies and disgrace to those who come after*, say their work does outlast them, as a disgrace; what it cannot be is a god.
+**Choices for you:** all decided; moved to `PASTE/decided/38-letter-of-jeremiah.md`.

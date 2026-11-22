@@ -1016,13 +1016,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 22 | *hafeach ba-churim kullam* "snaring in holes all of them" | they are all trapped in holes |
 | 22 | *ein omer hashav* | no one to say, "Give it back!" |
 
-**Choices for you:**
-- **40:7, *ruach YHWH***
-  - Now, 40:7: *The grass withers, the flower fades, when the Spirit of the LORD blows on it; surely the people are grass.*
-  - Now, 40:13: *Who has marked out the Spirit of the LORD, or what man has shown Him His counsel?*
-  - (a) **the Spirit of the LORD** in both verses (now): the fixed term says *ruach* of God or of the LORD is *the Spirit*, and keeping one English word shows v7 and v13 use the same two words.
-  - (b) **the breath of the LORD** in v7, as a wind that withers grass (the fixed term keeps *a wind* lowercase), and *the Spirit* in v13.
-  - Recommend (a). The rule settles v7 on its words, though a wind is what the line pictures; if (b), the note will say the two verses share *ruach YHWH*.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 35–38 — rendered 2026-10-11, 5:51 PM CDT
 
@@ -1278,14 +1272,6 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
   - (a) **My mouth** (now): the LORD's mouth, beside *His Spirit*.
   - (b) **my mouth**: the prophet's, who has just said *seek in the book of the LORD*.
   - The Hebrew is *pi*, "my mouth," and does not say whose; the Greek reads *the Lord commanded them*. The capital decides it. No recommendation was given.
-- **33:17, *melekh be-yofyo***
-  - (a) **the King in His beauty** (now), the LORD: v22 of the same poem says *the LORD is our king*, and Isaiah's own words in the temple were *my eyes have seen the King, the LORD of hosts* (6:5).
-  - (b) **the king in his beauty**, a human king, as in 32:1, *A king will reign in righteousness*.
-  - Recommend (a). Under the pronoun rule the choice decides the capitals.
-- **34:14, *lilit***
-  - (a) **Lilith** (now), read as a name, as the note on 13:21 already calls it.
-  - (b) **the night creature**, from *layil*, "night," without a name.
-  - Recommend (a): the word stands with *the goat-spirit*, *sa'ir*, another named creature of the ruins, and the note says what it is built from and what the Greek has.
 
 ## Isaiah 27–30 — rendered 2026-10-11, 7:50 AM CDT
 
@@ -1435,11 +1421,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 33 | *tofteh* | a Topheth (note) |
 | 33 | *la-melekh* | for the king (note: the letters of *Molech*) |
 
-**Choices for you:**
-- **30:20, *morekha***
-  - (a) **your Teacher**, the LORD (now): the verb *will hide* is singular, and the Teacher is the One hidden in the adversity just named.
-  - (b) **your teachers**, the prophets: the spelling *moreikha* looks plural, and the prophets had been told *Do not see* (v10).
-  - Recommend (a): the singular verb settles it, and *moreh* is also the early rain promised in v23 (Joel 2:23 uses the word both ways). The note gives the Greek, which differs.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 23–26 — rendered 2026-10-10, 10:49 PM CDT
 
@@ -1704,11 +1686,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 24 | *ha-tse'etsa'im ve-ha-tsefi'ot* | the offspring and the offshoots |
 | 25 | *ha-massa* | the load (note: the chapter's opening word) |
 
-**Choices for you:**
-- **19:18, *ir ha-heres***
-  - (a) **the City of Destruction** (now): the Hebrew. *Heres* is "tearing down," the word of *You shall utterly tear them down* (Exodus 23:24), so the name can mean the city where the idols are torn down.
-  - (b) **"the City of Righteousness":** the Greek, *polis asedek*. This is the name Jerusalem is given in 1:26, and it suits a verse about cities that swear to the LORD.
-  - Recommend (a): the Hebrew word makes sense in a passage about idols falling (v1) and a standing stone set up for the LORD (v19), so nothing forces the change. The note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 14–18 — rendered 2026-10-10, 12:56 PM CDT
 
@@ -1860,28 +1838,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 6 | *ve-qats… techeraf* "will summer… will winter" | will summer on them… will winter on them |
 | 7 | *yuval shai… am memushakh* (no "from") | a gift will be brought… — a people tall and smooth — (choice below) |
 
-**Choices for you:**
-- **14:4, *madhevah***
-  - (a) **the taskmaster** (now): the Greek's *epispoudastēs*, "one who hurries others on," from the verb the Greek of Exodus uses for the slave drivers who *pressed* Israel (5:13). It matches *slave driver* in the same line.
-  - (b) **"the golden city":** the word taken from the Aramaic *dehav*, "gold" (Daniel 2:32). This is the KJV's reading.
-  - Recommend (a): the Hebrew word is unknown, and the Greek reading fits the line and the Exodus language of vv2–3. The note gives (b).
-- **14:12, *helel ben shachar***
-  - (a) **Day Star** (now): *helel* is from *halal*, "to shine." The Greek has *heōsphoros*, "dawn-bringer," the morning star.
-  - (b) **"Lucifer":** the KJV's name, a Latin word for "light-bringer." It is the name most readers know, and it makes the line read as a proper name.
-  - (c) **"Shining One":** closer to the Hebrew root, but less clear as a star.
-  - Recommend (a): the word describes, it does not name. The taunt is addressed to *the king of Babylon* (v4), and the dead ask, *Is this the man?* (v16). The Names rule keeps received names, but *helel* is a title in a taunt, not a name the Hebrew gives anyone.
-- **16:3–4, *nidachai Mo'av***
-  - (a) **Let the outcasts of Moab live as guests among you** (now): the Greek's reading of the same letters. Moab's refugees (v2) ask the daughter of Zion (v1). The commands in v3 are mostly feminine, and the answer in v5 is a throne in Zion.
-  - (b) **"Let my outcasts live as guests among you; Moab, be a shelter to them":** the Hebrew vowels and accents. Israel's outcasts ask Moab, and the masculine *be* in v4 fits Moab. This is the KJV's reading.
-  - Recommend (a). The note gives both, and David's family sheltered in Moab (1 Samuel 22:3).
-- **17:9, *ka-azuvat ha-choresh ve-ha-amir***
-  - (a) **the woods and the hilltops** (now): the Hebrew. *Amir* is the word for *the top of the highest bough* in v6, where the last olives hang.
-  - (b) **"as the Amorites and the Hivites deserted them":** the Greek. It names who *deserted* the cities before Israel.
-  - Recommend (a): the Hebrew makes sense as it stands, with *they* being the land's earlier peoples, and *amir* ties the verse to v6. The note gives (b).
-- **18:7, *yuval shai… am memushakh***
-  - (a) **The people as the gift** (now): the Hebrew as written, with *from* only before the second *people*. Isaiah ends the same way, with the nations bringing Israel's brothers *as an offering to the LORD* (66:20).
-  - (b) **"Gifts will be brought… from a people tall and smooth":** the Greek, and most English.
-  - Recommend (a): it is what the Hebrew says. The note gives (b), Psalm 68:29–31 and the Ethiopian of Acts 8:27.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 10–13 — rendered 2026-10-10, 8:00 AM CDT
 
@@ -2021,16 +1978,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 | 22 | *be-almenotav* "in its widows" | in its strongholds (note: the spelling, Ezekiel 19:7, and the parallel *palaces*) |
 | 22 | *heikhelei oneg* "palaces of delight" | its palaces of pleasure |
 
-**Choices for you:**
-- **10:27, *mipnei shamen***
-  - (a) **because of fatness** (now): *shemen* as the fat of a body (Psalm 109:24). The neck has grown too thick for the yoke, and it answers v16, where Assyria's *fat ones* waste away (*mishmannav*, the same root).
-  - (b) **because of the anointing:** *shemen* as the oil of anointing, the KJV's reading.
-  - (c) **leave the phrase out**, as the Greek does (*the yoke will be destroyed from your shoulders*). That would follow a witness against the Hebrew with nothing in the context to back it.
-  - Recommend (a): it is the plain sense of the word, and v16 sets it up. The note gives (b).
-- **10:34, *be-addir***
-  - (a) **by the Majestic One** (now): God, as *addir* is used of Him in 33:21, *there the LORD in majesty will be for us*. It matches *with iron* in the line above, and in v33 the Lord is the one lopping the boughs.
-  - (b) **with its majestic trees:** *addir* of great trees, as in Zechariah 11:2 and Ezekiel 17:23. This is the Greek's reading, *Lebanon will fall with its lofty ones*.
-  - Recommend (a). The note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 6–9 — rendered 2026-10-09, 10:50 PM CDT
 
@@ -2329,11 +2277,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 - **3:17** "their foreheads".
 - **5:26–30** "they" for the singular.
 
-**Choices for you:**
-- **4:2, *tsemach YHWH*: "the branch of the LORD" or "the Branch of the LORD"**
-  - (a) **branch**, lowercase (now): what the LORD makes grow, in parallel with *the fruit of the land*; the land restored after the judgment.
-  - (b) **Branch**, capital: the title of the coming king, as in Jeremiah 23:5 (*a righteous Branch*) and Zechariah 3:8 and 6:12 (*My servant the Branch*); the line becomes a promise of a person.
-  - Recommend (a), with the note pointing to Jeremiah and Zechariah: the parallel with *the fruit of the land* governs this verse. When Jeremiah 23:5 and Zechariah come, the title can be capitalized there.
+**Choices for you:** all decided; moved to `PASTE/decided/34-isaiah.md`.
 
 ## Isaiah 1 — rendered 2026-10-09, 12:51 PM CDT
 
