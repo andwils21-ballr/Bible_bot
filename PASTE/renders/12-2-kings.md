@@ -278,11 +278,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 **Departures from the Hebrew, by your witnesses rule:**
 - **14:26**, *the affliction of Israel was very bitter*. The Hebrew has *moreh*, which means **rebellious** (Deuteronomy 21:18) or **teacher**, and *very rebellious affliction* does not make sense; the Greek has *pikran*, **bitter**. Noted.
 
-**Choices for you:**
-- **12:4, *kesef over ish***
-  - (a) **the money of each man who passes the count** (now): the census half-shekel, from *everyone who passes over to those counted* (Exodus 30:13), which Chronicles calls *the tax of Moses* (2 Chronicles 24:6, 9).
-  - (b) **current money**: silver in common use, as Abraham's silver was *current with the merchant* (Genesis 23:16).
-  - Recommend (a): Chronicles names the census tax in its account of this same repair. The note gives both.
+**Choices for you:** all decided; moved to `PASTE/decided/12-2-kings.md`.
 
 ### 2 Kings 11: Athaliah and the Crowning of Joash
 
@@ -553,12 +549,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
-**Choices for you:**
-- **5:12, the river's name**
-  - The read-form rule and the names rule pull apart here.
-  - (a) **Abana** (now): the written form *Avanah*, the Greek *Abana*, and the name English readers know.
-  - (b) **Amana**, the read form *Amanah*.
-  - Recommend (a): the two forms mean the same river.
+**Choices for you:** all decided; moved to `PASTE/decided/12-2-kings.md`.
 
 ## 2 Kings 1–2 (loop, cycle 22, 2:11 PM Central, 2026-09-30)
 

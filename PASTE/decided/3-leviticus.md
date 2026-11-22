@@ -2,6 +2,15 @@
 
 Choices Andrew has ruled on, moved here from `PASTE/renders/3-leviticus.md` once marked ✅, under the heading of the run that raised them. Newest at the top. Format: CLAUDE.md, section 5.
 
+## Leviticus 26–27 (routine fired 1:01 PM Central, 2026-09-24; reported with Numbers 1–2)
+
+- ✅ Decided 2026-11-22 (settled by the council, item 108): (a) **the shekel of the holy place** in Leviticus and Numbers; Exodus is closed, so Exodus 30:13, 24 stay as they are; applied (`PASTE/changes/3-leviticus.md`). ***sheqel ha-qodesh*, the shekel weight** (Exodus, Leviticus and Numbers)
+  - Now, *the shekel of the sanctuary*: Exodus 30:13, 24; Leviticus 27:3, 25; Numbers 3:47, 50; 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 86; 18:16
+  - Now, *the shekel of the holy place*: Exodus 38:24, 25, 26; Leviticus 5:15
+  - (a) **the shekel of the holy place** everywhere: *qodesh* is the word of *the charge of the holy place* (Numbers 3:28, 32), and *sanctuary* stays for *miqdash* (*the charge of the sanctuary*, 3:38).
+  - (b) **the shekel of the sanctuary** everywhere.
+  - Recommend (a).
+
 ## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 
 **Choices for you:**
@@ -68,4 +77,3 @@ Choices Andrew has ruled on, moved here from `PASTE/renders/3-leviticus.md` once
 | Exodus 14:31 | "in Moses **His servant**" |
 | Leviticus 25:42 | "For they are **My slaves**… They shall not be sold as a **slave** is sold" |
 | Leviticus 25:55 | "the sons of Israel are **slaves** to Me. They are **My slaves**" |
-

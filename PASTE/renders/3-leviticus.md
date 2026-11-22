@@ -83,12 +83,6 @@ The "In the text now" column shows each chapter as first rendered. The 2026-09-2
   - (a) **in hostility** (now): opposition.
   - (b) **carelessly**, as if by chance: living as if what happens has nothing to do with God, and God answers by leaving them to chance (*if you walk with Me carelessly… I will walk with you carelessly*).
   - No recommendation: both are real readings of the word.
-- ***sheqel ha-qodesh*, the shekel weight** (Exodus, Leviticus and Numbers)
-  - Now, *the shekel of the sanctuary*: Exodus 30:13, 24; Leviticus 27:3, 25; Numbers 3:47, 50; 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 86; 18:16
-  - Now, *the shekel of the holy place*: Exodus 38:24, 25, 26; Leviticus 5:15
-  - (a) **the shekel of the holy place** everywhere: *qodesh* is the word of *the charge of the holy place* (Numbers 3:28, 32), and *sanctuary* stays for *miqdash* (*the charge of the sanctuary*, 3:38).
-  - (b) **the shekel of the sanctuary** everywhere.
-  - Recommend (a).
 
 ## Leviticus 22–25: Leviticus 22–25 (routine fired 8:02 AM Central)
 

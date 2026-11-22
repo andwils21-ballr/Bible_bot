@@ -5,6 +5,15 @@ Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, sect
 
 
 
+## Council item 108 applied (Bible 2, 4:40 PM CST, 2026-11-22)
+
+**Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17): Gad's chief is *Deuel* everywhere, the Hebrew of four places in five, with the note giving *Reuel*; the shekel is *of the holy place* (logged in `PASTE/changes/3-leviticus.md`). The water for impurity, the basin of 4:14, the age of service and *elef* stand as the text has them. The five choices are moved to `PASTE/decided/4-numbers.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 2:14 | Eliasaph son of Reuel | Eliasaph son of Deuel |
+| 2, note v14 | "Eliasaph son of Reuel"… The text stands as the Hebrew has it in each verse. | "Eliasaph son of Deuel" — the Hebrew here has *Re'uel*, **Reuel**… The text has *Deuel* each time, as the Hebrew has it four times of five. |
+
 ## Council items 92 and 94 applied (Bible 2, 4:00 PM CST, 2026-11-22)
 
 **Request:** council items 92 and 94, settled 2026-11-17 (two of three agree): note quotations put into this project's wording, and one note moved into verse order. The Numbers 7 and 9 quotations of item 94 already read as settled.

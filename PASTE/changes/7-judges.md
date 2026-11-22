@@ -2,6 +2,21 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Council item 108 applied: four places where the Greek is followed (Bible 2, 4:40 PM CST, 2026-11-22)
+
+**Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17): under Andrew's witnesses rule (spec, "When the witnesses differ"), the Greek is followed where the book's own context bears it out, with the Hebrew in the note. 19:2 and 5:5 stand as the text has them. The six choices are moved to `PASTE/decided/7-judges.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 1:18 | Judah took Gaza with its territory, Ashkelon with its territory and Ekron with its territory. | Judah did not inherit Gaza or its territory, or Ashkelon or its territory, or Ekron or its territory, or Ashdod or the land around it. |
+| 1, note v18 | "Judah took Gaza…" — the Greek says the opposite… The Hebrew stands, but the rest of the book backs the Greek | "Judah did not inherit Gaza…" — so the Greek. The Hebrew says the opposite… The rest of the book backs the Greek |
+| 8:16 | and with them he taught the men of Succoth a lesson. | and with them he threshed the men of Succoth. |
+| 8, note vv7, 16 | in v16 the Hebrew has *va-yoda*… The Greek has *he threshed* | In v16 the text follows the Greek, *he threshed*… the Hebrew has *va-yoda* |
+| 10:12 | Amalek and Maon | Amalek and Midian |
+| 10, note v12 | "Maon"… The text follows the Hebrew. | "Midian" — so the Greek… The Hebrew has *Maon* |
+| 14:15 | on the seventh day | on the fourth day |
+| 14, note v15 | "On the seventh day"… The text follows the Hebrew. | "on the fourth day" — so the Greek. The Hebrew has *on the seventh day* |
+
 ## Judges 6:6, *va-yiddal Yisra'el me'od* (Andrew, 2026-11-19, 3:25 PM CST)
 
 **Request:** Andrew, 2026-11-19: "can't we use a better way to say 'Israel was brought very low?' That just seems like a lazy translation." *Dalal* is the verb of *dal*, **poor** (Leviticus 14:21), active in the Hebrew (*became*, not *was brought*); vv3–5 have Midian destroying the produce and leaving *no food in Israel, and no sheep or ox or donkey*. Options: (a) *became very poor*; (b) *grew very weak* (the sense of Psalm 79:8); (c) *Midian left Israel desperately poor*. Andrew: *Israel became desperately poor because of Midian*, with *desperately* for *me'od* carrying the weakness as well as the poverty; tested and made: *me'od*, **exceedingly**, is the intensifier, and the context (nothing left to eat, the cry to the LORD) supports its force.

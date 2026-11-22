@@ -178,13 +178,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
-**Choices for you:**
-- **25:1, *Paran* or *Maon***
-  - Now, 25:1: *Then David arose and went down to the wilderness of Paran.*
-  - Now, 25:2: *There was a man in Maon whose business was at Carmel.*
-  - (a) **Paran**, the Hebrew (now): the wilderness where Israel camped after Sinai (Numbers 10:12).
-  - (b) **Maon**, the Greek: the next verse is set in Maon, and David was last *in the wilderness of Maon* (23:24–25).
-  - Recommend (b), with the note keeping *Paran*.
+**Choices for you:** all decided; moved to `PASTE/decided/9-1-samuel.md`.
 
 ## 1 Samuel 20–23 (loop, cycle 8, 9:18 AM Central, 2026-09-30)
 
@@ -560,17 +554,7 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** marked ***KEPT AS IS*** above. In 13:5 *thirty thousand chariots* stands in the Hebrew and the Greek alike and is left as printed.
 
-**Choices for you:**
-- **12:11, *Bedan* or *Barak***
-  - (a) **Bedan**, the Hebrew (now): no deliverer called Bedan appears anywhere in Judges.
-  - (b) **Barak**, the Greek: Deborah's partner against Sisera, whom v9 names.
-  - Recommend (b), with the note keeping *Bedan*.
-- **12:15, *your fathers* or *your king***
-  - Now, 12:15: *then the hand of the LORD will be against you, as it was against your fathers.*
-  - Now, 12:14: *both you and the king who reigns over you*; 12:25: *both you and your king shall be swept away.*
-  - (a) **your fathers**, the Hebrew (now).
-  - (b) **your king**, the Greek, which matches v14 and v25.
-  - Recommend (b).
+**Choices for you:** all decided; moved to `PASTE/decided/9-1-samuel.md`.
 
 ## 1 Samuel 8–11 (loop, cycle 5, 8:45 AM Central, 2026-09-30)
 
@@ -842,14 +826,5 @@ Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, sectio
 
 **Left standing on purpose:** marked ***KEPT AS IS*** above.
 
-**Choices for you:**
-- **3:13, "bringing a curse on themselves" or "cursing God"**
-  - (a) **on themselves**, the Hebrew *lahem* (now).
-  - (b) **speaking evil of God**, the Greek: *lahem* and *Elohim* differ by two letters. Eli's sons are condemned for contempt of the LORD's offering (2:17, 2:29), and Exodus 22:28 forbids cursing God; *cursing themselves* is an odd charge.
-  - Recommend (b), with the Hebrew in the note: the Hebrew reads and is not impossible, but the context backs the Greek.
-- ***YHWH tseva'ot*** (first at 1:3 and 1:11; more than two hundred times in Samuel, Kings and the Prophets)
-  - Now, 1:3: *to worship and to sacrifice to the LORD of hosts at Shiloh.*
-  - (a) **the LORD of hosts** (now), the received English, added to the fixed-terms table; the note on 1:3 says what *hosts* means.
-  - (b) **the LORD of armies**, what *tseva'ot* means.
-  - Recommend (a).
+**Choices for you:** all decided; moved to `PASTE/decided/9-1-samuel.md`.
 

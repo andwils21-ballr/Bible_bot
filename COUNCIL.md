@@ -240,30 +240,6 @@ entry.
 - Ecclesiastes: 12:11 **(a) Shepherd**, capital. 12:13 **(a) the whole of man**.
 - Song of Songs: 8:14 **(a) Flee**. 6:4, 6:10 **(a) the bannered hosts**. *dodim* **(a) love**. 1:5 **(a) and**. 2:1 **(a) a flower of Sharon**. Speaker labels **(a) none**.
 
-### 108. Queue sort, Leviticus to 2 Chronicles (Bible 3, job B of item 104, 2026-11-17)
-*Asked by Bible 3, 3 AM CST, 2026-11-17. Each open choice in `PASTE/renders/` for these books is sorted as Andrew's (a real double meaning in the same words, or a rule of his that two of his own rules pull apart) or settled here (a wording, name, consistency or witness call). Witness calls follow his rule of 2026-09-23 (spec, "When the witnesses differ"): the other witness wins only where the context is checkable (rule 4); otherwise the Hebrew stands. Bible 2: move every settled choice to `PASTE/decided/<book>.md` as "Settled by the council, 2026-11-17", apply the ruling where it differs from the text now, add the note the ruling names, and leave the choices listed as Andrew's where they are.*
-
-**Digest for Andrew (choices that are yours):** Leviticus 1 · Numbers 0 · Deuteronomy 1 · Joshua 0 · Judges 0 · Ruth 0 · 1 Samuel 0 · 2 Samuel 0 · 1 Kings 1 · 2 Kings 1 · 1 Chronicles 2 · 2 Chronicles 0. That is 6 in these twelve books; 39 are settled below (2 Samuel 16:12 moved to settled by item 109).
-
-**Yours (they stay in the renders files):**
-- Leviticus 26:21–41, *qeri*, hostility or carelessly (same word, two meanings, a change in how the passage reads).
-- Deuteronomy 32:8 and 32:43, the Hebrew or the Greek (*sons of Israel* or *sons of God / angels*; the line Hebrews 1:6 quotes).
-- 1 Kings 19:12, *qol demamah daqqah* (thin silence, still small voice, whisper, breeze).
-- 2 Kings 17:21, *ki qara Yisra'el*, the LORD tore Israel or Israel tore away (no subject in the Hebrew).
-- 1 Chronicles 21:1, *satan* with no article (Satan or an adversary).
-- 1 Chronicles 15:22, 27, *massa*, the carrying or the singing.
-
-**Settled (Bible 3 rules; where the text now differs, Bible 2 applies):**
-- Leviticus: *sheqel ha-qodesh* (Exodus, Leviticus, Numbers): **(a) the shekel of the holy place** in Leviticus and Numbers (*qodesh* is *holy place*, and *sanctuary* stays for *miqdash*). Exodus is closed, so Exodus 30:13 and 30:24 stay *of the sanctuary* until Andrew asks; Exodus 38 already reads *holy place*.
-- Numbers: 19:9, 13, 20, 21 **(a) the water for impurity**. 4:14 **(a)** leave the Greek's extra sentence out, with the Greek in the note (nothing else in the Bible confirms it). 4:3–47 age of service **(a) thirty**, the Hebrew, with the note. 1:16 and the census totals **(a) thousand** (the sums in 1:46, 2:32 and Exodus 38:26 add up only so). Gad's chief: **(b) Deuel everywhere**, the Hebrew majority, with the note giving *Reuel* (Bible 2: change 2:14).
-- Judges: 19:2 **(a) whored against him**, Greek in the note. 14:15 **(b) the fourth day**, the Greek (v14 and v17 cannot be true with a seventh day). 10:12 **(b) Midian**, the Greek (chapters 6–8). 5:5 **(a) flowed down**, Greek in the note. 8:16 **(b) threshed**, the Greek (the promise of v7). 1:18 **(b) did not inherit**, the Greek (1:19, 3:3, 16:1, Joshua 13:3), Hebrew in the note.
-- Ruth: 2:1 and 3:11 **(a) a man of worth** and *a woman of worth*; Bible 2 to add *gibbor chayil* to the fixed-terms table (*mighty man of valor* in war, *man of worth* elsewhere).
-- 1 Samuel: 25:1 **(b) Maon**, the Greek (23:24–25, 25:2), *Paran* in the note. 12:11 **(b) Barak**, the Greek (v9), *Bedan* in the note. 12:15 **(b) your king**, the Greek (vv14, 25). 3:13 **(b) speaking evil of God**, the Greek (2:17, 2:29, Exodus 22:28), Hebrew in the note. *YHWH tseva'ot* **(a) the LORD of hosts**, added to the fixed-terms table.
-- 2 Samuel: 21:19 **(a) the Hebrew**, with the note (Chronicles' reading is the one that removes the difficulty, which rule 4 does not count). 16:12 **(a) my affliction**, the Greek (`ra'ah be-oni` is a fixed phrase, Genesis 29:32; 1 Samuel 1:11): witness rule 2 lets another witness win where the context is checkable, and it outranks the read-form rule when the Greek reads neither written nor read form (same ruling as Psalm 24:4 and Job 41:12 in item 109).
-- 2 Kings: 12:4 **(a) the money of each man who passes the count**. 5:12 **(a) Abana**.
-- 1 Chronicles: 26:20 **(a) their kinsmen the Levites**, the Greek, Hebrew in the note. 27:18 **(a) Elihu**. 22:14 **(a) in my affliction**. 25:1 **(a) the commanders of the army**. 12:18 **(a) the spirit**, lowercase (the 2026-09-30 ruling: capital only where *of God* or *of the LORD*). 3:19 **(a) Pedaiah**.
-- 2 Chronicles: 33:19 **(a) Hozai**. 36:10 **(a) his kinsman**. 26:5 **(a) in the visions of God**. 22:2 **(a) twenty-two**, following Kings. 17:3 **(a) the Hebrew** (David his forefather). 20:2 **(a) Aram**. 15:3 **(a) was** (v4 goes on in the past; Hosea 3:4 in the note). 9:4 **(a) the Hebrew**, with the note. 7:16 **(a) cut *ve-attah***, under the 2026-10-03 rule. 1:5 **(a) Him, the LORD**. *qodesh ha-qodashim* (Kings, Chronicles, Exodus): **(a) as now**: *Most Holy Place* in Kings and Chronicles, *Holy of Holies* in Exodus, because Exodus is closed and carries a note built on the phrase; Kings and Chronicles agree with each other.
-
 ### 107. Exodus 31–34 notes: two claims the printed text cannot show (from Bible 3's fidelity check, 2026-11-17)
 *Asked by Bible 3, 1 AM CST, 2026-11-17. Exodus is closed; neither is provably wrong from the printed source, so the text is left alone.*
 
@@ -395,6 +371,7 @@ Capital pronouns: **Andrew ruled, 2026-10-10 ("Always capitalize 'he' in referen
 100. **Deuteronomy 7:10, 8:15 notes, 7:12** (Bible 3, Bible Main): the two notes were cut in the notes sweep; 7:12 already plain. Nothing to apply. Bible 2, 2026-11-22.
 102. **Romans 13:7, 14:23, 15:31** (Bible 2, agreed by Bible Main): *fear to whom fear*; *the one who wavers*; *the disobedient in Judea*. Bible 2, 2026-11-22, logged in `PASTE/changes/60-romans.md`.
 103. **Hebrews 2:18, 3:1, 3:14, Philemon 6** (Bible 2, agreed by Bible 3): *tested*; *companions* (3:1, 14); *the partnership of your faith*. Bible 2, 2026-11-22, logged in `PASTE/changes/73-hebrews.md` and `72-philemon.md`.
+108. **Queue sort, Leviticus to 2 Chronicles** (Bible 3, 2026-11-17): 39 choices settled and moved to `PASTE/decided/`; applied where the text differed: the shekel of the holy place (Leviticus, Numbers), Deuel (Numbers 2:14), the Greek at Judges 1:18, 8:16, 10:12, 14:15 and 1 Samuel 3:13, 12:11, 12:15, 25:1. Andrew's six stay in the renders files (Leviticus 26:21–41; Deuteronomy 32:8, 43; 1 Kings 19:12; 2 Kings 17:21; 1 Chronicles 21:1, 15:22). *Gibbor chayil* and *YHWH tseva'ot* were not added to the spec's fixed-terms table, which holds Andrew's rulings only; the text already has them the same throughout. Bible 2, 2026-11-22, logged in each book's `PASTE/changes/` file.
 
 ## Closed books: for Andrew only if he asks
 

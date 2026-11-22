@@ -2,6 +2,20 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Council item 108 applied: four places where the Greek is followed (Bible 2, 4:40 PM CST, 2026-11-22)
+
+**Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17): under Andrew's witnesses rule, the Greek is followed where the book's own context bears it out, with the Hebrew in the note. *The LORD of hosts* stands. The five choices are moved to `PASTE/decided/9-1-samuel.md`.
+
+| Where | Before | After |
+|---|---|---|
+| 3:13 | his sons were bringing a curse on themselves | his sons were speaking evil of God |
+| 3, note v13 | The Greek reads *his sons were speaking evil of God*… The text follows the Hebrew. | so the Greek. The Hebrew has *meqallelim lahem*, **bringing a curse on themselves** |
+| 12:11 | Jerubbaal and Bedan and Jephthah | Jerubbaal and Barak and Jephthah |
+| 12:15 | will be against you, as it was against your fathers. | will be against you and against your king. |
+| 12, notes v11, v15 | the Hebrew in the heading, the Greek in the note | the Greek in the heading, the Hebrew in the note |
+| 25:1 | the wilderness of Paran | the wilderness of Maon |
+| 25, note v1 | *Paran* is the wilderness… The Greek has *the wilderness of Maon* | *Maon* is the Greek, the place named in the next verse and in 23:24–25. The Hebrew has *Paran* |
+
 ## Fidelity audit of the notes, second pass, 1 Samuel (Bible 3, 2026-11-18, 8:42 PM CST)
 
 **Request:** Andrew, 2026-11-18: a second pass over the notes of this book, checking every quotation of another book against this repo's own wording of that verse (quotations marked as the Greek or another reading of the verse were left as they are). No verse was changed; 1 note quotations were put into the wording of the verses they cite.

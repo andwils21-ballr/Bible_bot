@@ -2,6 +2,15 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Council item 108 applied: the shekel of the holy place (Bible 2, 4:40 PM CST, 2026-11-22)
+
+**Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17, under Andrew's approval of 2026-11-16 to cut the waiting choice lines): *sheqel ha-qodesh* is **the shekel of the holy place** in Leviticus and Numbers; *qodesh* is *holy place*, and *sanctuary* stays for *miqdash*. Exodus is closed, so Exodus 30:13, 24 stay as they are. The choice is moved to `PASTE/decided/3-leviticus.md`.
+
+| Where | Before | After |
+|---|---|---|
+| Leviticus 27:3, 25 | the shekel of the sanctuary | the shekel of the holy place |
+| Numbers 3:47, 50; 7:13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 86; 18:16 | the shekel of the sanctuary | the shekel of the holy place |
+
 ## Fidelity audit, note quotation check (cross-book, third sweep), Leviticus (Bible 3, 2026-11-18, 11:43 PM CST)
 
 **Request:** Andrew, 2026-11-18: audit the finished books against the source. A last automated pass checked note quotations beside a cited verse where the cite is only a chapter and verse in the same book or a neighbor. No verse was changed; 1 note quotation was put into the wording of the verse cited.
