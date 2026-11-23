@@ -2,6 +2,62 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 23–25 — rendered 2026-11-23, 2:08 PM CST
+
+**Landed:** chapters 23, 24 and 25. Progress 1,576 → **1,579 of 1,989 (79.4%)**. Esther 11–16 is still held on the October choice. Chapter 23 is the whole service of the Offering (52 verses); 24 and 25 are short.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–22. 23:34–35 and 35–36 are sentences across two of their paragraphs, kept as they divide them. **24:1** has one of their footnotes read into the middle of the sentence in the file held here; it is left out (logged in `NOTES_FOR_ANDREW.md`).
+
+**Form kept:** no sentence starts with *And*, except the people's response *And with your spirit* (23:22), which is the response itself. Bible English removed from the prayers, which keep their long runs of titles and *who…* clauses. Capital pronouns for the Father, the Son and the Spirit, and capitals for the Son's titles in 23:29 (*Power of the Father… Medicine of souls*), as the edition prints them. *My body… the blood*, lowercase, as 1 Corinthians 11:24 and the Gospels read here. *The Peace* (23:5), as at 21:9. *The Advocate* (24:2), as John 14:16 reads here. *The enrolled widows* (23:2), the word of 1 Timothy 5:9.
+
+**Echoes in the notes, checked against this project's English:** 1 Corinthians 11:24; Matthew 6:9–10.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the service of the Offering: the loaves, where each order stands behind the veil, the deacon's warning to anyone not fit to draw near, the call and answer (*Lift up your hearts*), the great prayer of thanksgiving with the Lord's words over the bread and cup, the order in which all receive and the prayer each one says; then the prayer over oil for the sick, and the same over water.
+
+### 1st Book of the Covenant 23: The Offering
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | on Saturday | on the Sabbath, as at 22:3 |
+| 2 | Because that the ancient people erred | Because the people of old went astray |
+| 2 | the canonical widows | the enrolled widows |
+| 4 | Let not the loaf of catechumens be received | Let the loaf of a catechumen not be received |
+| 11 | let him not hide himself: he may not hide himself | let him not hide: he cannot hide |
+| 18 | We have our Lord as onlooker | We have our Lord watching us |
+| 24 | It is meet and right | It is fitting and right |
+| 25 | Holy things in holy [persons] | ***KEPT AS IS*** Holy things in the holy: the bishop's cry, as the edition gives it |
+| 28 | Confirmer of our souls… Proclaimer of Thy purpose | Strengthener of our souls… Herald of Your purpose |
+| 29 | the Haven of those who are buffeted | the Haven of those tossed by the storm |
+| 31 | Raiments | ***KEPT AS IS*** Raiments: one of the heavenly orders named; the book does not explain it |
+| 31 | betrayed to voluntary suffering | betrayed to the suffering He chose |
+| 31 | fix the boundary | ***KEPT AS IS*** fix the boundary: the prayer does not say which |
+| 31 | When ye shall do this, ye make My resurrection | ***KEPT AS IS*** When you do this, you make My resurrection (note) |
+| 35 | the dragon is bruised | the dragon is crushed |
+| 36 | lift up always a doxology to Thee | always lift up praise to You |
+| 37 | concord of spirit | harmony of spirit |
+| 44 | If the bishop be polluted | If the bishop is unclean |
+| 46 | after that let him pray thus; after that he receiveth the Eucharist let him say | After that let him pray, and then receive the Eucharist. Let him say (v47: *After the prayer let him receive*) |
+| 46 | Trinity ineffable | Trinity beyond words |
+| 52 | who lovest man | who love mankind |
+
+### 1st Book of the Covenant 24: The Oil for Healing
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | the Paraclete | the Advocate |
+| 2 | the type of Thy fatness | the type of Your richness |
+| 2 | when they approach to Thy faith | when they come to Your faith |
+
+### 1st Book of the Covenant 25: Over Water
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Likewise, the same also over water | Let him say the same over water |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 20–22 — rendered 2026-11-23, 1:10 AM CST
 
 **Landed:** chapters 20, 21 and 22. Progress 1,573 → **1,576 of 1,989 (79.2%)**. Esther 11–16 is still held on the October choice. Three chapters, not four: chapter 23, the next, is the whole service of the Offering (about 2,200 words), and gets a cycle of its own.
