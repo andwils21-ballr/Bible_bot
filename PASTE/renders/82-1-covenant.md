@@ -2,6 +2,55 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 20–22 — rendered 2026-11-23, 1:10 AM CST
+
+**Landed:** chapters 20, 21 and 22. Progress 1,573 → **1,576 of 1,989 (79.2%)**. Esther 11–16 is still held on the October choice. Three chapters, not four: chapter 23, the next, is the whole service of the Offering (about 2,200 words), and gets a cycle of its own.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–19. 21:8–9 is one sentence across two of their paragraphs, kept as they divide it, as at 13:1–2.
+
+**Form kept:** no sentence starts with *And*. Bible English removed from the prayer of ordination (21:6), which keeps its long run of *who…* clauses, as a prayer does. Capital pronouns for God, the Son and the Spirit; the bishop lowercase (*he is worthy*, 21:7). *Father of compassion*, as 2 Corinthians 1:3 reads here. *Soothing aroma* (21:6), the fixed term.
+
+**Echoes in the notes, checked against this project's English:** 1 Timothy 3:2–3; 2 Corinthians 1:3; Hebrews 11:5.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** how a bishop is chosen (by all the people, and the qualities he must have); how he is ordained, with the bishops' laying on of hands, the prayer of ordination, and the people's cry *He is worthy*; and his rule of life: the hours of prayer day and night, the fasts, when the Offering is made, and how he teaches the catechumens and the faithful.
+
+### 1st Book of the Covenant 20: The Bishop Chosen
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | not given to much speaking | not a man of many words |
+| 1 | in all good things perfect | complete in every good thing |
+| 1 | that he may sympathise with the weakness of widows | so that he may share in the weakness of widows (note) |
+
+### 1st Book of the Covenant 21: The Ordination of a Bishop
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Being such as this, let him receive ordination | When he is such a man, let him be ordained |
+| 3 | the Church, which alone hath the principality, and which is not dissolved, of the invisible [and] living God | the Church of the invisible and living God, which alone has the rule and is not dissolved |
+| 4 | saying his calling of appointment, thus | saying the words of his appointment, like this |
+| 6 | Father of mercies | Father of compassion (note) |
+| 6 | didst translate holy Enoch | took holy Enoch up (note) |
+| 6 | by Thy co-operation | with Your help |
+| 6 | Him who was given to Thy Holy One | ***KEPT AS IS*** Him who was given to Your Holy One: the Spirit given to the Son, as the prayer says just before |
+| 6 | for a sweet-smelling savour | as a soothing aroma |
+| 9 | give him the Peace | ***KEPT AS IS*** give him the Peace: the greeting of the service, which the book names so |
+
+### 1st Book of the Covenant 22: The Bishop's Rule of Life
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | at the twelfth hour at the lamp [lighting] | at the twelfth hour, at the lighting of the lamps |
+| 2 | three days each [week] (?) | three days each week (the edition marks *week* as uncertain) |
+| 2 | the eighteen Exalted Entrances | ***KEPT AS IS*** the eighteen Exalted Entrances: the book does not explain them |
+| 2 | when he loveth infirmity these strong meats are not fitting | when he has chosen weakness, such strong food does not fit |
+| 3 | on Saturday | on the Sabbath (the Syriac word is the same) |
+| 3 | a little wine of the Holy thing | a little of the wine of the holy things |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 14–19 — rendered 2026-11-22, 7:09 PM CST
 
 **Landed:** chapters 14, 15, 16, 17 and 18, and the stub for 19. Progress 1,567 → **1,573 of 1,989 (79.1%)**. Esther 11–16 is still held on the October choice.
