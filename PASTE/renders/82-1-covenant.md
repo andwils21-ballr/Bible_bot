@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 14–19 — rendered 2026-11-22, 7:09 PM CST
+
+**Landed:** chapters 14, 15, 16, 17 and 18, and the stub for 19. Progress 1,567 → **1,573 of 1,989 (79.1%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–13. **Chapter 19** has no heading in the scan, so its text stands with chapter 18; 19 is a stub, as 7 is, and the note on 18:7 says where its text likely begins. **18:10** is not text: the paragraph filed there is the edition's footnotes, so chapter 18 has no v10, and its note says so (logged in `NOTES_FOR_ANDREW.md`).
+
+**Form kept:** no sentence starts with *And*. Bible English removed. Capital pronouns for the Lord and the Father. *Workers* (18:1) and *throw pearls before pigs* (18:4), as Matthew 9:37 and 7:6 read here. *Type* the same word each time in 18 (vv8, 11, 15, 18), as the edition repeats it.
+
+**Echoes in the notes, checked against this project's English:** Matthew 24:8; John 20:17; 1 Timothy 2:5; 1 Corinthians 2:14.
+
+**The checker** found 0 errors and one thing to look at: no verse 10 in chapter 18, which stands for the reason above.
+
+**What these chapters are:** the Lord ends the signs of the end and turns to the Church. The apostles ask what kind of man should stand at its head; Martha, Mary and Salome ask what they should do; the Lord gives the rule of the Church, says His mysteries are for His own, and lays out the church building: three entrances for the Trinity, the baptistery, the throne and the altar under a veil, the place where the names of those who bring offerings are written.
+
+### 1st Book of the Covenant 14: Set the Church in Order
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | From henceforth shall be the beginning of travail | From now on will be the beginning of birth pains (note) |
+| 1 | Turning therefore to the Church, setting right, duly ordering, and arranging | Turn, then, to the Church: set it right, put it in due order and arrange it |
+| 1 | speak to every man as is helpful to him | Speak to each one in the way that helps him |
+
+### 1st Book of the Covenant 15: Teach Us About the Head of the Church
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Matthias (?) | Matthias (the edition marks the name as uncertain) |
+| 1 | it should not escape us as to how it is fitting to arrange | that we do not miss how… ought to be arranged |
+| 1 | the Chief of the holy things | ***KEPT AS IS*** the chief of the holy things: the text's own title for the bishop |
+
+### 1st Book of the Covenant 16: Figures of the Kingdom
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | that our souls may live unto Thee | so that our souls may live to You |
+| 1 | I will that, persevering in supplication, ye should always serve | I want you to persevere in prayer and always serve |
+
+### 1st Book of the Covenant 17: The Rule of the Church
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | the rule ecclesiastical | the rule of the Church |
+| 2 | My Father is mediator and all His host | ***KEPT AS IS*** My Father and all His host are mediators (note) |
+| 2 | if their sins are… and any of them | if anyone's sins are… and he |
+
+### 1st Book of the Covenant 18: The House of the Church
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | the multitude of My words | My words in their fullness |
+| 2 | these remaining words, determining and appointing them, speak ye | speak the rest of these words…, setting them out and appointing them |
+| 5 | him that is embittered (their margin: *or, provoketh [Me]*) | the one who is embittered |
+| 6 | such as these [men] and such as these [women] | such men and such women as these |
+| 9, 20 | the diaconicum | the deacons' room |
+| 11 | as a general type of the prophets | as a type of all the prophets |
+| 12 | the lections | the readings |
+| 18 | as for commemoration | for remembrance |
+| 26 | a house for entertaining… shall entertain strangers | a guest house… will receive strangers |
+
+### 1st Book of the Covenant 19: Heading Lost in the Scan
+
+Stub; its text stands with chapter 18 (note on 18:7).
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 8–13 — rendered 2026-11-22, 2:08 PM CST
 
 **Landed:** chapters 8, 9, 10, 11, 12, 13. Progress 1,561 → **1,567 of 1,989 (78.8%)**. Esther 11–16 is still held on the October choice.
