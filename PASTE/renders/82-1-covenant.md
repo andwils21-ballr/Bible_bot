@@ -2,6 +2,70 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 35–39 — rendered 2026-11-24, 2:08 PM CST
+
+**Landed:** chapters 35, 36, 37, 38 and 39. Progress 1,588 → **1,593 of 1,989 (80.1%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–34. **38:3** breaks off at *and* in the text held here, and chapter 39 turns to the confessors; the break is kept and noted, as at 11:1 and 28:9. **35:6** has the edition's footnotes read into the line; only the sentence is rendered (logged in `NOTES_FOR_ANDREW.md`).
+
+**Form kept:** no sentence starts with *And*. The deacon's prayers (35:12–34) keep one formula each time, *For… let us pray, that the Lord may…*, for the edition's *let us beseech*. *Rightly handling the word of truth* (35:19) and *a worker… without shame* (38:3), as 2 Timothy 2:15 reads here. Capital pronouns for God and the Son.
+
+**Echoes in the notes, checked against this project's English:** 2 Timothy 2:15.
+
+**The checker** found one CHECK, *come into the house of the sanctuary* (36:1), now *enter*; then 0 errors and nothing to look at.
+
+**What these chapters are:** the deacon's call before the prayers (catechumens out, the unclean and the angry out, *the angels are watching*) and his prayers for every order of the Church and the world; how he watches the door for lambs and wolves and keeps latecomers out until the first hymn is done; what is done when a woman has suffered violence from a man; the ordination of a deacon; and the confessors, who have the honor of the clergy without the laying on of a hand.
+
+### 1st Book of the Covenant 35: The Deacon's Call and the Prayers
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 4 | See [that] no one polluted, no one slothful [remain] | See that no one unclean, no one slothful, remains |
+| 12–34 | let us beseech | let us pray, each time |
+| 19 | rightly dividing the word of truth | rightly handling the word of truth |
+| 22 | the presbyteresses | ***KEPT AS IS*** the presbyteresses: the edition's word, not explained here |
+| 25 | the laver of forgiveness | the washing of forgiveness |
+| 27 | the exalted powers | ***KEPT AS IS*** the exalted powers: those who govern, as the edition names them |
+| 30 | may bestow on them also a completed labour | bring their labor to completion |
+| 32 | moderate [His] threats unto them | soften His threats toward them |
+| 36 | that, being persuaded, He may receive our prayers | that He may be moved to receive our prayers |
+
+### 1st Book of the Covenant 36: Lambs or Wolves
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | those who come into the house of the sanctuary | those who enter the house of the sanctuary |
+| 1 | lest, if a spy enter, the liberty of the Church be searched out | otherwise, if a spy enters, the freedom of the Church will be searched out |
+| 2 | lest by the noise of the entrance there be distraction | the noise of his entering would distract |
+| 4 | the despiser and the slothful is disciplined | the scorner and the slothful are disciplined |
+
+### 1st Book of the Covenant 37: A Woman Wronged
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | if he who treated her with violence was not her lover | whether the man who did it was not her lover |
+| 1 | catechise | instruct |
+| 1 | But if [his] power suffice to accomplish perfectly the office of the diaconate, let him abide only in prayer | ***KEPT AS IS*** But if his power suffices… let him stay only in prayer: so the edition, though the sense seems to want *does not suffice* |
+
+### 1st Book of the Covenant 38: The Ordination of a Deacon
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 3 | who didst minister to us eternal life by Thy prophets | who served us eternal life through Your prophets |
+| 3 | Thine Energy | Your Power, as at 32:8 |
+| 3 | give him, O Lord, as a worker in the law without shame | Give him, O Lord, to be a worker in the law without shame (note) |
+| 3 | and | ***KEPT AS IS*** and —: the text breaks off (note) |
+
+### 1st Book of the Covenant 39: The Confessors
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | who hath not been judged before the power | who has not been judged before the authorities |
+| 1 | But let him not pray over him | But let the bishop not pray over him: the bishop is the one who lays on the hand |
+| 1 | when the shepherd advanceth he will receive the effect | ***KEPT AS IS*** when the shepherd goes forward, he will receive the effect: so the edition |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 30–34 — rendered 2026-11-24, 1:08 AM CST
 
 **Landed:** chapters 30, 31, 32, 33 and 34. Progress 1,583 → **1,588 of 1,989 (79.8%)**. Esther 11–16 is still held on the October choice.
