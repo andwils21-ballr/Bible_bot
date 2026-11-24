@@ -308,6 +308,7 @@ repeats it on purpose, and otherwise the English that fits the context.
 | *zanah* (verb) / *zonah* (noun) | Of worshipping other gods: *give themselves to* (*they gave themselves to other gods*); keep *whore* / *whoring* where it is literal, a person sold or selling for gain (Jezebel's *whoring*, 2 Kings 9:22). Of a woman's act: *prostitute* (noun) and the verb as now. Never *harlot*, in any book | 2026-09-30; worship use 2026-10-06 |
 | *aviv* (the month) | Aviv (not *Abib*) | 2026-09-30 |
 | *pilegesh* | secondary wife (plural: secondary wives); never *concubine* | 2026-10-04 |
+| *ba'alei* + a town (*ba'alei Shechem*) | the leading men of the town (*the leading men of Shechem*); never *lords* | 2026-11-24 |
 
 Bring a word to Andrew for this table only when it matters: a term the books
 use technically, or a word whose renderings disagree in a way a reader would

@@ -4,6 +4,13 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-24, *ba'alei* + a town.** Andrew found Judges 9 hard to follow:
+  *the lords of Shechem* read like nobles from elsewhere, not the town's own
+  landholding men. He chose *the leading men of*, in every book. Swept the
+  same day: Joshua 24:11; Judges 9 (16 times) and 20:5; 1 Samuel 23:11–12;
+  2 Samuel 21:12. *Ba'alei* of nations or heights (Isaiah 16:8; Numbers 21:28)
+  is not a town and was left as it was.
+
 - **2026-11-19, problem_solving.md while rendering.** After Judges 6:6, where
   Andrew found *desperately poor* for *va-yiddal… me'od* when the options offered
   him were *poor* or *weak*, he asked that the method be used while rendering,

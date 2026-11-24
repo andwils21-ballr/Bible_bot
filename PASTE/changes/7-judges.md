@@ -2,6 +2,41 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 9: who is who in Abimelech's story (Andrew, 2026-11-24, 7:42 AM CST)
+
+**Request:** Andrew, 2026-11-24: Judges 9 is hard to follow: the *brothers* who are not his brothers, towns spoken of as people, no sense of who is with Abimelech or against him. Four causes in the English: *ach*, **brother**, used for uncles, for kinship, for Gaal's clan and for the seventy; *ba'alei Shechem* as *the lords of Shechem*; *who is Shechem* (v28), with Shechem also a man in the same verse; *the people* for both sides (vv42–43).
+
+- **9:3, 18, 26, 31, 41, *ach* where it means kin**
+  - ✅ Decided 2026-11-24: (a).
+  - (a) **kinsman / kinsmen**; *brothers* stays for the seventy and for Jotham, with a note that it is one word.
+  - (b) **brother** everywhere, with the note.
+- ***Ba'alei* + a town, every book**
+  - ✅ Decided 2026-11-24: (a), added to the spec's fixed terms.
+  - (a) **the leading men of**.
+  - (b) **the citizens of**.
+  - (c) **the lords of**.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 9:2, 3, 6, 7, 18, 20 (twice), 23 (twice), 24, 25, 26, 39 | the lords of Shechem | the leading men of Shechem |
+| Judges 9:46, 47 | the lords of the tower of Shechem | the leading men of the tower of Shechem |
+| Judges 9:51 | all the lords of the city | all the leading men of the city |
+| Judges 9:3 | "He is our brother." | "He is our kinsman." |
+| Judges 9:18 | because he is your brother | because he is your kinsman |
+| Judges 9:26 | came with his brothers | came with his kinsmen |
+| Judges 9:31 | Gaal son of Ebed and his brothers | Gaal son of Ebed and his kinsmen |
+| Judges 9:41 | drove out Gaal and his brothers | drove out Gaal and his kinsmen |
+| Judges 9:28 | and who is Shechem, that we should serve him? | and who are we of Shechem, that we should serve him? |
+| Judges 9:42 | the people went out into the field | the people of the city went out into the field |
+| Judges 9:43 | He took the people | He took his men |
+| Judges 9, notes | (none) | new notes on v3 (*ach*, one word), v20 (the curse come true, vv49, 52–53, 57) and v28 (Hamor and Shechem, Genesis 34:2) |
+| Joshua 24:11 | the lords of Jericho | the leading men of Jericho |
+| Judges 20:5 | The lords of Gibeah | The leading men of Gibeah |
+| 1 Samuel 23:11, 12 | the lords of Keilah | the leading men of Keilah |
+| 2 Samuel 21:12 | the lords of Jabesh-gilead | the leading men of Jabesh-gilead |
+
+**Choices for you:** all decided.
+
 ## Council item 108 applied: four places where the Greek is followed (Bible 2, 3:27 PM CST, 2026-11-22)
 
 **Request:** council item 108 (Bible 3's sort of the open choices, 2026-11-17): under Andrew's witnesses rule (spec, "When the witnesses differ"), the Greek is followed where the book's own context bears it out, with the Hebrew in the note. 19:2 and 5:5 stand as the text has them. The six choices are moved to `PASTE/decided/7-judges.md`.
