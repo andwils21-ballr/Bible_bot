@@ -2,6 +2,14 @@
 
 Changes to chapters already rendered, newest at the top. Format: CLAUDE.md, section 5.
 
+## Daily source check, chapters 23–34 (Bible 2, 8:57 AM CST, 2026-11-24)
+
+**Request:** the daily check of the previous day's renders against Cooper and Maclean. At 23:46 they have *After that let him pray thus; after that he receiveth the Eucharist let him say*; the text had turned this into an order to receive, which the edition does not give, and dropped *thus*.
+
+| Where | Before | After |
+|---|---|---|
+| 23:46 | After that let him pray, and then receive the Eucharist. Let him say, | After that let him pray like this; after he receives the Eucharist, let him say, |
+
 ## Daily source check, chapters 14–22 (Bible 2, 8:57 AM CST, 2026-11-23)
 
 **Request:** the daily check of the previous day's renders against Cooper and Maclean. Cooper and Maclean have *sympathise with the weakness of widows*; *share in* says the bishop is weak himself.
