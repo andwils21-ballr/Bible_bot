@@ -2,6 +2,66 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 26–29 — rendered 2026-11-23, 7:08 PM CST
+
+**Landed:** chapters 26, 27, 28 and 29. Progress 1,579 → **1,583 of 1,989 (79.6%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–25. **28:9** breaks off in the text held here (*which does not fall on fleshly ears, which*), and v10 begins a new rule; the break is kept and noted, as at 11:1. 28:2–3 is one sentence across two of their paragraphs, kept as they divide it.
+
+**Form kept:** no sentence starts with *And*, except the people's response *And with your spirit* (26:11), as at 23:22. Bible English removed from the hymns, which keep their long runs of titles. The Son's titles capitalized as the edition prints them. Death, which speaks in 28:8, is *it*. *Sheol*, *the Peace* and *on the Sabbath* as in 21–23. *Pascha* (28:10), the feast's own name.
+
+**Echoes in the notes, checked against this project's English:** John 10:34; Psalm 82:6; Revelation 1:8; Isaiah 25:8; 1 Corinthians 15:54.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the morning service: the hymns of the dawn, sung by bishop and people in turn, and the Hymn of the Seal; the readings and the teaching; the teaching of the mysteries said to the faithful before the Offering, a confession of the Son from His coming down to His rising, with Death's cry when it sees Him in Sheol; and what kind of man a presbyter must be.
+
+### 1st Book of the Covenant 26: The Morning Praise
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 4 | ineffable God | God beyond words |
+| 6 | the Principle of life | Source of life |
+| 6 | an essence that cannot be injured, where neither moth nor worm doth corrupt | whose being cannot be harmed, where neither moth nor worm destroys |
+| 8 | who makest the peacefulness of fine weather for those who are buffeted | who give calm weather to those tossed |
+| 10 | Thus: little singing-boys; two virgins; three deacons; three presbyters | ***KEPT AS IS*** like this: little singing boys; two virgins; three deacons; three presbyters: the edition does not say how the four hymns are divided among them |
+| 13 | Meetly and rightly… Let your hearts be fixed. …We have [them fixed] with the Lord | It is fitting and right… Let your hearts be steadfast. …We hold them steadfast with the Lord |
+| 15 | who hast made us to pass through material darkness, and hast bestowed upon us immaterial light | who brought us through the darkness of matter and gave us light that is not of matter |
+| 17 | the Curer of material fluxes | Healer of bodily flows |
+| 17 | the Maker-known of things invisible | the Revealer of things invisible |
+| 19 | that they might be gods | ***KEPT AS IS*** so that they might be gods (note) |
+
+### 1st Book of the Covenant 27: The Readings
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | those things which are convenient and profitable | what is fitting and profitable |
+
+### 1st Book of the Covenant 28: The Teaching of the Mysteries
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | [Mystagogia or] Initiation into the Mysteries | *The Initiation into the Mysteries* |
+| 1 | Him who is pre-existent, and was present, and is, and cometh | Him who was before all, and was present, and is, and is coming (note) |
+| 1 | who in His [human] soul descended in the Godhead into Sheol | ***KEPT AS IS*** who in His human soul went down, in the Godhead, into Sheol |
+| 1 | the Raiment of the Hosts | ***KEPT AS IS*** the Raiment of the hosts, as *Raiments* at 23:31 |
+| 3 | passible [yet] not passible | able to suffer yet not able to suffer |
+| 4 | though hidden from all the camps of the heavenly ones | hidden from all the camps of the heavenly ones |
+| 6 | the virtue benign and inseparable from God | the kindly power, never parted from God |
+| 7 | O ye who quit you like men | you who act like men |
+| 8 | hoped that He was food for him | hoped He was food for it (note) |
+| 9 | those which were beneath [were] as those which [were] above | what was beneath became as what was above |
+| 9 | which | ***KEPT AS IS*** which —: the text breaks off (note) |
+
+### 1st Book of the Covenant 29: The Presbyter Chosen
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | having laboured much in ministrations among the weak | one who has labored much in serving the weak |
+| 1 | if he have not grown cold [in his love] for the Church | if he has not grown cold in his love for the Church |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 23–25 — rendered 2026-11-23, 2:08 PM CST
 
 **Landed:** chapters 23, 24 and 25. Progress 1,576 → **1,579 of 1,989 (79.4%)**. Esther 11–16 is still held on the October choice. Chapter 23 is the whole service of the Offering (52 verses); 24 and 25 are short.
