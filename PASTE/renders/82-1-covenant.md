@@ -2,6 +2,73 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 30–34 — rendered 2026-11-24, 1:08 AM CST
+
+**Landed:** chapters 30, 31, 32, 33 and 34. Progress 1,583 → **1,588 of 1,989 (79.8%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–29. **34:3** ends with an open bracket in the text held here (*beseeching [to be received back,*); the sense is complete, and it is rendered as a whole sentence.
+
+**Form kept:** no sentence starts with *And*, except the people's response *And with your spirit* (32:3), as at 23:22 and 26:11; there it now follows *The people say*, so it stands inside the sentence. Bible English removed (*hither and thither* is *here and there*, 31:2). *Weeds… wheat* (31:7), *the joy of their Lord* (31:12) and *throw pearls before pigs* (31:7), as Matthew 13:25, 25:21 and 7:6 read here. *The Peace* as in 21–23.
+
+**Echoes in the notes, checked against this project's English:** Numbers 11:16–17; 1 John 2:6; John 14:3.
+
+**The checker** found one error, *And with your spirit* starting 32:3, fixed as above; then 0 errors and nothing to look at.
+
+**What these chapters are:** the ordination of a presbyter and its prayer, on the pattern of Moses and the seventy elders; the presbyter's work: prayer, fasting, teaching only what the hearers can keep, the signs of those who bear fruit and those who do not, visiting the sick; the daily hymn of praise and the midnight praise; and the deacon: who may be chosen, and his work among the sick, the strangers, the dead and the disorderly.
+
+### 1st Book of the Covenant 30: The Ordination of a Presbyter
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 3 | the Ineffable One | the One beyond words |
+| 3 | homogeneous | ***KEPT AS IS*** of one kind: the edition's word for the Spirit of the presbyterate, not explained |
+| 3 | didst bestow Him on Thy minister | ***KEPT AS IS*** You gave Him to Your minister: the edition does not say whether Moses or the elders are meant |
+
+### 1st Book of the Covenant 31: The Presbyter's Work
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | not ceasing, or diminishing [one] hour, from prayers | without ceasing from prayer or cutting it short by one hour |
+| 2 | three days each [week ?] | three days each week (the edition marks *week* as uncertain, as at 22:2) |
+| 2 | [on the] one [hand] that he may be perfected in intelligence | so that he may be perfected in understanding |
+| 2 | going hither and thither with every spirit | going here and there with every spirit |
+| 7 | tares | weeds |
+| 7 | lest if the Word have not brought forth fruit in them | otherwise, if the Word has not borne fruit in them |
+| 9 | continence… philanthropy… subjection… gravity | self-control… love for others… submission… seriousness |
+| 11 | products such as these | fruits like these |
+| 12 | with prophetical and evangelical utterances | with the words of the prophets and the Gospels |
+
+### 1st Book of the Covenant 32: The Daily Praise
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 6 | we [Thy] servants [and] also [Thy] people praise | You we Your servants, and Your people too, praise |
+| 8 | Thy Energy | Your Power |
+| 8 | the uncreated Word of the Uncreated one | the uncreated Word of the Uncreated |
+| 10 | receptions of the faithful | the receiving of the faithful |
+| 13 | our Lord, rising, praised His Father | ***KEPT AS IS*** our Lord, rising, praised His Father: the Gospels do not tell of it; the book gives it as the reason for the hour |
+
+### 1st Book of the Covenant 33: The Deacon Chosen
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | abstinence from distractions | freedom from distractions |
+| 1 | not knowing a handicraft | not knowing a trade |
+| 1 | taught to work piety | taught to practice devotion |
+
+### 1st Book of the Covenant 34: The Deacon's Work
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | the mystery of the Church | ***KEPT AS IS*** the mystery of the Church: the edition's word, not explained |
+| 2 | let him clothe those men who have departed, adorning [them] | Let him clothe the men who have died, preparing them |
+| 3 | let him take [word] about him up to the bishop | let him report him to the bishop |
+| 3 | so that he be not taken captive | ***KEPT AS IS*** so that he is not taken captive: the edition does not say by whom |
+| 4 | Let him cause the palsied and infirm to bathe (their margin: *or, wash*) | Let him have the paralyzed and the infirm bathed |
+| 4 | a breathing space from their pains | relief from their pains |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 26–29 — rendered 2026-11-23, 7:08 PM CST
 
 **Landed:** chapters 26, 27, 28 and 29. Progress 1,579 → **1,583 of 1,989 (79.6%)**. Esther 11–16 is still held on the October choice.
