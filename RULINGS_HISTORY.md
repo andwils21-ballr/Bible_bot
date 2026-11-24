@@ -4,6 +4,14 @@ Where the rules in `RENDERING_SPEC.md` came from and what they replaced.
 **Nothing here is a rule**; the spec is. Read this only to learn why a rule is
 worded as it is, or when an older chapter predates a rule. Newest at the top.
 
+- **2026-11-24, spec Part 1 tightened.** At Andrew's word, Part 1 of
+  `RENDERING_SPEC.md` was cut from 4,750 words to under its 4,400 budget with
+  no ruling dropped: the notes standard, the two kinds of example, Names,
+  Versification, Sources and the checker were reworded shorter, and lines that
+  repeated `CLAUDE.md` now point to it. Some illustrative examples went (the
+  *come into* row's *When you enter the land*; Nehemiah's *for good*;
+  Ecclesiastes' count of about 38).
+
 - **2026-11-24, *ba'alei* + a town.** Andrew found Judges 9 hard to follow:
   *the lords of Shechem* read like nobles from elsewhere, not the town's own
   landholding men. He chose *the leading men of*, in every book. Swept the

@@ -36,7 +36,7 @@ stumbling. The recurring patterns:
   Everywhere else, use the English that fits the context. Translation is not
   word-for-word equivalence (Andrew, 2026-10-06). The fixed terms in the spec
   are his rulings, one by one, and stand.
-- **The readability pass** in `RENDERING_SPEC.md`: eight patterns from Andrew's
+- **The readability pass** in `RENDERING_SPEC.md`: ten patterns from Andrew's
   rulings. Run it on every chapter before committing.
 
 **Clean up in the text's own style.** Remove friction, never force. No casual

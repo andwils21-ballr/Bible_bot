@@ -1,10 +1,8 @@
 # Rendering Spec
 
-How to write a chapter. The mission, your role, the notes policy and the
-non-negotiables are in `CLAUDE.md`; read that first. **Read everything above
+How to write a chapter; read `CLAUDE.md` first. **Read everything above
 Part 2 in full every run; read Part 2 only for the book it names.** Where a
-ruling came from, and what it replaced, is in `RULINGS_HISTORY.md`; nothing
-there is a rule. Consistency across 1,989 chapters matters more than any one
+ruling came from: `RULINGS_HISTORY.md`. Consistency across 1,989 chapters matters more than any one
 chapter being clever.
 
 ## Style
@@ -209,7 +207,7 @@ to the LORD*, *the land had rest*).
 | *the bone of that same day* (*be-etsem ha-yom*) | *on that very day* |
 | *bring* for motion away from the speaker | *take* (*take me out of this house*); the formula *the LORD who brought you out of Egypt* stays |
 | *the thing that* | *what* (*this is what the LORD has commanded*) |
-| *come into* a place (*When you come into the land*) | *enter*, *go into* or *arrive in*, whichever reads most naturally (*When you enter the land*; *they went into the house*; *they arrived in the wilderness of Zin*). *Come* stays only where the speaker is at the place (*this man has come into my house*; *he shall not come into this city*) and for idioms that are not about a place (*came into being*, *came into his heart*) (Andrew, 2026-10-17) |
+| *come into* a place | *enter*, *go into* or *arrive in*, whichever reads most naturally. *Come* stays where the speaker is at the place (*this man has come into my house*) and in idioms not about a place (*came into being*) (Andrew, 2026-10-17) |
 | *Thus says the LORD* (*koh amar*), and every *thus* of speech | *This is what the LORD says:*, wherever it stands (*Therefore this is what…*; *This is what the LORD says, / the One who created you*, Isaiah 43:1); *This is what the LORD said to me*. A person's message: *A message from…* (Numbers 20:14). A king who speaks as the LORD does takes the LORD's form (*This is what the great king… says*, 2 Kings 18:19; Judith 2:5) (Andrew, 2026-10-18) |
 | *devote to destruction* (*charam*, *cherem*) | what is given to the LORD: *devoted* (Joshua 7:1; Leviticus 27:28); people under it: *doomed* (Joshua 7:12; 1 Kings 20:42); the act in war: *destroy completely* (1 Samuel 15:9), or *destroy… and keep nothing for ourselves* (Numbers 21:2). Never *devote… to destruction* (Andrew, 2026-10-18) |
 | a doubled verb (*boiled a boiling*) | the plain verb; the doubling may go in a note |
@@ -316,40 +314,33 @@ notice. List every verse it occurs in.
 
 ## Names
 
-Use the English name the reader already knows: **Abel, not Vapor; Eve, not
-Living.** The names are the same Hebrew words worn smooth by three thousand
-years of use, and a reader must be able to find Cain and Abel in Genesis 4.
-What a name means goes in a note, together with what the verse does with it.
-
-No inline glosses on names English already knows (*Beersheba*, not *Beersheba —
-Well of the Oath*). The one allowance is a place with no English identity at
-all, and even there prefer the note.
-
-One standing exception: the town where Terah dies is spelled **Harran**, to
-keep it apart from his son **Haran**. The two are different Hebrew words.
-Any further exception must be argued in a note and added here.
+Use the English name the reader knows (**Abel, not Vapor; Eve, not Living**),
+so a reader can find Cain and Abel in Genesis 4. What a name means, and what
+the verse does with it, goes in a note. No inline glosses (*Beersheba*, not
+*Beersheba — Well of the Oath*), except a place with no English identity, and
+even there prefer the note. One standing exception: **Harran**, where Terah
+dies, kept apart from his son **Haran** (different Hebrew words). Any further
+exception is argued in a note and added here.
 
 ## Versification
 
-Follow the English (KJV) chapter and verse numbering, even where the source file
-divides differently. `source_text.py` prints the source's own numbering; see
-`HANDOFF.md` for the known offsets. Psalm titles go above verse 1 without a
-number. Where no English tradition exists (Enoch, Jubilees, Meqabyan, the
-Ethiopian books), follow the source and say so in the first note of chapter 1.
-One short note where the numbering differs is enough.
+Follow the English (KJV) numbering; `source_text.py` prints the source's own,
+and `HANDOFF.md` lists the known offsets. Psalm titles go above verse 1,
+unnumbered. Where no English tradition exists (Enoch, Jubilees, Meqabyan, the
+Ethiopian books), follow the source and say so in chapter 1's first note. One
+short note where the numbering differs is enough.
 
 ## Sources and tiers
 
-Before rendering any chapter, print its source and keep it in front of you:
-`python3 source_text.py <slug> <chapter>`. `sources/hebrew/` is the
-Westminster Leningrad Codex. `sources/greek/` holds the SBLGNT (New
-Testament) and Swete's Septuagint where it has been extracted (Genesis, Exodus,
-the deuterocanon). `sources/swete-src/` holds the whole Septuagint.
+Print the source and keep it in front of you (`CLAUDE.md` §6).
+`sources/hebrew/` is the Westminster Leningrad Codex; `sources/greek/` the
+SBLGNT and Swete's Septuagint where extracted; `sources/swete-src/` the whole
+Septuagint.
 
 If the helper reports no source, obey what it says for the book's tier:
 
-- **`english-only`** is worked from established translations, and chapter 1's
-  first note says so. Currently: Esther 11–16 and books 82–89 except
+- **`english-only`** is worked from established translations (Honesty rule
+  2). Currently: Esther 11–16 and books 82–89 except
   Sirate Tsion (Part 2).
 - **`none`** gets the stub only (see Honesty rules). Currently: Josippon and
   Sirate Tsion.
@@ -384,37 +375,34 @@ The aim is the most accurate account of the event the text describes.
 
 ## The notes standard
 
-**Dig as far as the word goes.** The worked example is John 1:1, *logos*. English
-hears "word", but Greek had a plain word for an utterance (*rhēma*) and John did
-not use it. *Logos* comes from *legō*, to gather or lay in order. It came to
-mean an account, a ratio, the governing principle of a thing (the *-ology*
-words). And *en archē* is letter for letter the opening of Genesis in Greek. That
-depth, with no invented manuscript, no scholar cited, and no secret claimed, is
-the target.
+**Dig as far as the word goes.** The model is John 1:1, *logos*. English hears
+"word", but John passed over the plain word for an utterance (*rhēma*). *Logos*
+comes from *legō*, to gather or lay in order, and came to mean an account, a
+ratio, the governing principle of a thing; *en archē* is letter for letter the
+Greek of Genesis 1:1. That depth, with no invented manuscript, no scholar cited
+and no secret claimed, is the target.
 
-**The test:** would someone who reads the source language agree this is
-actually in the word? If a note needs a wink to work (a hidden layer asserted
-because a plain verse felt plain, or a modern idea read backwards) cut it. One
-reaching note makes every true note untrustworthy.
+**The test:** would a reader of the source language agree this is in the word?
+Cut a note that needs a wink to work (a hidden layer asserted because a plain
+verse felt plain, a modern idea read backwards). One reaching note makes every
+true note untrustworthy.
 
 **A hedge is unfinished work.** A note that ends in a shrug (*which is
-strange*, a deadpan restatement) reads as quiet contempt for the reading it
-presents. The fix is never rewording. Go and find out where else the word
-appears and what follows, then state the conclusion, or state the uncertainty
-as a finding that names what was checked.
+strange*) reads as contempt for the reading it presents. Rewording is not the
+fix: find where else the word appears and what follows, then state the
+conclusion, or state the uncertainty as a finding that names what was checked.
 
-**Written for a reader who never sees the curtain.** No first person about the
-work, no process history. Where a substantive choice needs explaining, explain
-it from the language: the options, what each means, which one the text uses.
-Genesis 25:22 is the model.
+**No curtain:** no first person about the work, no process history. Explain a
+choice from the language: the options, what each means, which one the text
+uses (Genesis 25:22).
 
 ## Honesty rules
 
 1. **Tier `none` books get a stub.** One file, `books/<order>-<slug>/00.md`, with
    the book title and `(NEED SOURCE TO TRANSLATE)`, `status: need_source`. Then
    move on.
-2. **Tier `english-only` books say so** in the first note of chapter 1: which
-   tradition is followed, and that no source language was involved.
+2. **Tier `english-only` books say so** in chapter 1's first note: which
+   tradition, and that no source language was involved.
 3. **If you do not know a word, say so.**
 4. **Never fabricate a manuscript reading, a variant, or a scholar.**
 5. **If a chapter does not exist** in this canon's numbering, write the stub
@@ -422,63 +410,48 @@ Genesis 25:22 is the model.
 
 ## Two kinds of example (Andrew, 2026-10-03)
 
-A run copies whatever it reads last. If only the latest chapters are read, one
-slip in them is copied into every run after (`HANDOFF.md`, "Drift"). So the
-examples have two jobs, kept apart:
+A run copies whatever it reads last, so one slip in the latest chapters spreads
+to every run after (`HANDOFF.md`, "Drift"). The examples have two jobs, kept
+apart:
 
 - **The book's own recent chapters set the writer's style.** Matthew does not
-  write like John, and Chronicles does not read like Leviticus. Read the last
-  two chapters of the book being rendered to match its author's voice.
-- **The fixed models hold the rules**: format, word rules, readability,
-  pronouns, and what a note may and may not say. They never change unless
-  Andrew changes them, so the standard cannot slide. Read them every run:
-  - **Genesis 25**: narrative, and the model notes (vv21–23);
-  - **Exodus 33**: speech between God and a man, with the capital pronouns;
-  - **Leviticus 17**: law.
-
-  Where a recent chapter and a fixed model differ on a rule, the fixed model
-  and this spec win; the recent chapter is the one that slipped. For which notes to
+  write like John. Read the last two chapters of the book being rendered.
+- **The fixed models hold the rules** (format, word rules, readability,
+  pronouns, what a note may say) and change only when Andrew changes them.
+  Read them every run: **Genesis 25** (narrative, and the model notes on
+  vv21–23), **Exodus 33** (speech between God and a man, with the capital
+  pronouns), **Leviticus 17** (law). Where a recent chapter differs from them
+  or from this spec on a rule, the recent chapter slipped. For which notes to
   write, `CLAUDE.md` §3 governs.
-- **A new writer.** In the first one or two runs of a book by a new author,
-  there are no recent chapters of that writer: take the style from the source
-  text itself and the rules from the fixed models. Do not carry the previous
-  book's voice into it.
-- **Parallel passages** (Chronicles and Samuel–Kings, the Gospels, psalms quoted
-  elsewhere): render the source of *this* verse. Reuse the earlier book's
-  English only where the source words are the same; where they differ, the
-  difference shows in the English.
-- **A book may keep a mark of its own** (Andrew, 2026-10-07). Where a book
-  has a feature of style that sets it apart, keep it there even where the
-  general rule would smooth it out. The mark must come from the book's own
-  source text, never be added to it. Each one is Andrew's ruling, recorded
-  here by book.
-  - **Genesis:** every *And it came to pass* is kept. It is the book of
-    beginnings, covering the ages from creation to Joseph, and nearly every
-    turn in it is God's doing. There the formula marks each turn of time as
-    part of that one story, and its older, weightier cadence is part of what
-    sets the first book apart. Genesis is not swept to the general rule.
+- **A new writer:** in a book's first runs, take the style from the source text
+  and the rules from the fixed models, not the previous book's voice.
+- **Parallel passages** (Chronicles and Samuel–Kings, the Gospels, psalms
+  quoted elsewhere): render this verse's source. Reuse the earlier English only
+  where the source words are the same.
+- **A book may keep a mark of its own** (Andrew, 2026-10-07): a feature of its
+  own source text, kept where the general rule would smooth it out. Each is
+  Andrew's ruling:
+  - **Genesis:** every *And it came to pass*. In the book of beginnings it marks
+    each turn of time as part of one story. Genesis is not swept to the
+    general rule.
   - **Judges:** the refrain *The sons of Israel did evil in the eyes of the
     LORD*, the same words each time.
   - **Ezra:** *the hand of the LORD his God was on him* (7:6, 9, 28; 8:18,
     22, 31), the same words each time.
   - **Nehemiah:** *Remember me, my God* (5:19; 13:14, 22, 31), the same
-    opening each time; what follows it is rendered as each verse has it
-    (*for good*, 5:19 and 13:31).
-  - **Ecclesiastes:** *hevel* is **vanity** every time, about 38 times.
-    Chapter 1 carries a short note on v2 that points the reader back, since
-    Genesis is far behind by then (Andrew, 2026-10-07): **v2 "Vanity"** —
-    *hevel*, the word that was Abel's name (Genesis 4:2). There it names a
-    man; here it is a word in the sentence.
+    opening each time; what follows is rendered as each verse has it.
+  - **Ecclesiastes:** *hevel* is **vanity** every time. Chapter 1 has this note
+    on v2: **v2 "Vanity"** — *hevel*, the word that was Abel's name (Genesis
+    4:2). There it names a man; here it is a word in the sentence.
   - **Matthew:** *And it came to pass, when Jesus had finished these words*,
     closing each of the five speeches (7:28; 11:1; 13:53; 19:1; 26:1).
 
 ## The checker
 
-Before every commit, run `python3 check_chapters.py`. It checks this run's
-chapters for what a program can check: banned words, an *And* not on the kept
-list, *here —* and *look —*, *Now then*, *come into*, the fixed terms, verse
-numbers, and notes that talk about the translating. Fix every ERROR. Each CHECK
-is a lead: either fix it or say in the report why it stands.
+Before every commit run `python3 check_chapters.py`. It checks what a program
+can: banned words, *And*, *here —* and *look —*, *Now then*, *come into*, the
+fixed terms, verse numbers, notes that talk about the translating. Fix every
+ERROR; each CHECK is a lead, fixed or explained in the report.
 
 ## Pace
 
