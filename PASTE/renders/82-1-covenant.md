@@ -2,6 +2,65 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 69–73 — rendered 2026-11-25, 2:57 PM CST
+
+**Landed:** chapters 69, 70, 71, 72 and 73. **The 1st Book of the Covenant is finished**: all 73 chapters, with 7 and 19 as stubs (their headings are lost in the scan, and their text stands with 6 and 18). Progress 1,622 → **1,627 of 1,989 (81.8%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–68. **70:7** breaks off (*a consort or wife [not] faithful*); the break is kept and noted. 73:3 is the Syriac translator's closing line, kept as text and noted.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord and the Father. The Lord's speech, open since the opening chapters, closes at 72:2; chapter 73 is the apostles' own voice, as the book's opening is. *Bad fruit* (72:2), as Matthew 7:18 reads here.
+
+**Echoes in the notes, checked against this project's English:** Mark 15:25; Matthew 27:45; John 19:34; Matthew 7:18.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** burying the poor and the stranger; the hours of prayer, each one an hour of the cross (the third, the sixth, the ninth), with evening, midnight and dawn for the resurrection; the Lord's last words, *keep these things*, given especially to John, Andrew and Peter; and the end: the apostles worship Him, He is taken up, and John, Peter and Matthew send the Testament out from Jerusalem.
+
+### 1st Book of the Covenant 69: The Burial of the Poor
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | let him be shrouded | let him be wrapped in a shroud |
+| 2 | let not the Church appropriate them | let the Church not take them for itself |
+| 4 | a graveyard | a burial ground |
+
+### 1st Book of the Covenant 70: The Hours of Prayer
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | the hour of the fixing of the Only-begotten on the cross | the hour when the Only-begotten was fixed to the cross (note) |
+| 3 | the daylight was divided by the darkness | the daylight was cut off by the darkness |
+| 3 | that voice which is like to the prophets, and to creation mourning | a voice like the prophets' and like creation mourning |
+| 4 | let prayer be protracted | let prayer be drawn out |
+| 5 | He hath caused us to give praise | ***KEPT AS IS*** He has had us give praise: so the edition |
+| 7 | a consort or wife [not] faithful, | ***KEPT AS IS*** a consort or wife who is not faithful —: the text breaks off (note) |
+
+### 1st Book of the Covenant 71: Keep These Things
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | as loving all men | as those who love all people |
+| 2 | that he may be incapable of receiving injury | so that he cannot be harmed |
+
+### 1st Book of the Covenant 72: The Testament Given
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | abiding firm in carefulness | standing firm in care |
+| 2 | a good tree cannot bring forth evil fruit | a good tree cannot bear bad fruit (note) |
+| 2 | the God of tranquillity | The God of calm |
+
+### 1st Book of the Covenant 73: He Was Taken Up
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | O Jesus, Name of light | ***KEPT AS IS*** O Jesus, Name of light: the apostles' title for Him |
+| 1 | showed many loosings and miracles | shown many deliverances and miracles |
+| 1 | giving us tranquillity | giving us calm, as at 72:2 |
+| 3 | from the Greek to the Syrian language | from Greek into Syriac (note) |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 63–68 — rendered 2026-11-25, 2:56 PM CST
 
 **Landed:** chapters 63, 64, 65, 66, 67 and 68. Progress 1,616 → **1,622 of 1,989 (81.5%)**. Esther 11–16 is still held on the October choice.
