@@ -2,6 +2,72 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 45–50 — rendered 2026-11-25, 1:08 AM CST
+
+**Landed:** chapters 45, 46, 47, 48, 49 and 50. Progress 1,598 → **1,604 of 1,989 (80.6%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–44. Chapter 46 ends their first book (*The First Book of Clement is ended*, noted); 47 begins their second. **46:3** is not text: the paragraph filed there is their footnote, so chapter 46 has no v3, and its note says so, as at 18:10.
+
+**Form kept:** no sentence starts with *And*. *Prostitute* (48:1, 6), the project's word, for their *fornicatress*. *Content with the rations* (48:4), *braided hair* (50:5) and *the salt of the earth* (46:4), as Luke 3:14, 1 Timothy 2:9 and Matthew 5:13 read here. *The Peace* as before.
+
+**Echoes in the notes, checked against this project's English:** Luke 3:14; 1 Timothy 2:9.
+
+**The checker** found 0 errors and one thing to look at: no verse 3 in chapter 46, which stands for the reason above.
+
+**What these chapters are:** the reader, given the book without a laying on of hands; the virgins, men and women, who set themselves apart by their own will; then the second book opens with those who come to hear the Word: how they are examined, slaves and wives among them; who may not be received until they give up their work (idol makers, charioteers, magicians, soldiers who would be baptized); three years of teaching, shortened for the earnest; and where each one stands in the church.
+
+### 1st Book of the Covenant 45: The Reader
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | learned and of much learning | learned and well read |
+| 2 | that thou mayest appear approved | strive to be found approved |
+
+### 1st Book of the Covenant 46: Virgins, Men and Women
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | is voluntarily separated and named [a virgin] | is set apart of his own will and is called a virgin |
+| 4 | fixed and bound in the suffering of a sound body | ***KEPT AS IS*** fixed and bound in the suffering of a sound body: so the edition |
+| 4 | Let them not despise [these things (?)] | Let them not despise these things (the edition marks the words as uncertain) |
+| 4 | a portion of life may be divided to those | a share of life may be given to those who provide for them: the edition's sentence stops at *to those*; *who provide for them* is from the sentence before |
+| 4 | inciting those who are very young | stirring up the very young |
+
+### 1st Book of the Covenant 47: Those Who Come to Hear
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | leaders astray, or ridicule mongers | misleaders or mockers |
+| 1 | prophetical instructions… apostolic doctrines… Gospel [doctrines] | the instructions of the prophets… the teachings of the apostles, then of the Gospels |
+| 2 | at the bidding of the bishop, he thus providing for him | at the bishop's bidding, as he provides for him |
+
+### 1st Book of the Covenant 48: Who May Not Be Received
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1, 6 | a fornicatress | a prostitute |
+| 4 | let those rations suffice him | to be content with the rations given him (note) |
+| 7, 9 | a concubine | ***KEPT AS IS*** a concubine: a woman living with a man without marriage; *secondary wife*, the fixed term for the Hebrew *pilegesh*, would make her a wife |
+| 8 | these are defiled and do not come to judgment | ***KEPT AS IS*** these are defiled and do not come to judgment: so the edition |
+| 9 | let him divorce her and marry in the law | let him put her away, marry according to the law |
+
+### 1st Book of the Covenant 49: Three Years of Teaching
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | heareth the perfectness of the Gospel | hears the fullness of the Gospel |
+| 2 | it is not the time that is considered | it is not the time that is weighed |
+
+### 1st Book of the Covenant 50: Where Each One Stands
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | the New [Testament] or Gospels | the New Testament or the Gospels |
+| 5 | Let every woman cover her head with her hair also | Let every woman cover her head, her hair too |
+| 5 | lest the young men… be caught | or the young men… will be caught |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 40–44 — rendered 2026-11-24, 7:08 PM CST
 
 **Landed:** chapters 40, 41, 42, 43 and 44. Progress 1,593 → **1,598 of 1,989 (80.3%)**. Esther 11–16 is still held on the October choice.
