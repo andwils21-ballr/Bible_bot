@@ -2,6 +2,79 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 51–56 — rendered 2026-11-25, 2:08 PM CST
+
+**Landed:** chapters 51, 52, 53, 54, 55 and 56. Progress 1,604 → **1,610 of 1,989 (80.9%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–50. The text held here breaks off four times in these chapters: **52:1** (*how they have lived*), **54:1** (*abide in the*), **54:4** (at the anointing) and **56:3** (*the word about the*). Each break is kept and noted, as at 11:1, 28:9 and 38:3.
+
+**Form kept:** no sentence starts with *And*, except the response *And with your spirit* (55:4), inside its sentence. *The washing* for their *laver* each time, as at 35:25; *the washing of rebirth* (55:2), as Titus 3:5 reads here. *My body*, lowercase, as at 23:31. *On the Sabbath* (53:1), as before.
+
+**Echoes in the notes, checked against this project's English:** Luke 12:50; Romans 8:22.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the prayer over the catechumens, and the catechumen killed for the Name before baptism, *baptized in his own blood*; the exorcism on the Sabbath before baptism, a long prayer to the God before whom all creation trembles; the baptism itself: renouncing Satan facing west, submitting to the Trinity facing east, and three questions of faith in the water, each answered *I believe*; the bishop's laying on of hands, the anointing and the seal; and the newly baptized at their first Offering.
+
+### 1st Book of the Covenant 51: The Prayer over the Catechumens
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | that they may be in a degree higher than this | so that they may come to a rank higher than this |
+| 3 | the laver | the washing |
+| 3 | having been baptized in his own blood, [he is] justified | for he has been baptized in his own blood, and is justified (note) |
+
+### 1st Book of the Covenant 52: Those Chosen for the Washing
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | if they are severally chosen | If they are chosen one by one |
+| 1 | how they have lived | ***KEPT AS IS*** how they have lived —: the text breaks off (note) |
+
+### 1st Book of the Covenant 53: The Exorcism
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | On the Saturday | On the Sabbath |
+| 2 | fixed firm, by the firm-fixing of the suffering | made him firm through the firmness of the suffering |
+| 2 | to pass from [being] sons of men to become gods | ***KEPT AS IS*** to pass from being sons of men to becoming gods (note), as at 26:19 |
+| 2 | the raiments and treasures of which | whose robes and treasures |
+| 2 | the firmament of the earth | the foundations of the earth |
+| 2 | travaileth, groaning with groans | is in labor, groaning (note) |
+| 3 | lascivious, loving gold, uplifted | lustful, gold-loving, proud |
+| 4 | contumacy, contentiousness | defiance, quarreling |
+| 4 | the real-essence of our life | the true being of our life |
+| 6 | If any one be in the endurance of any thing | ***KEPT AS IS*** If anyone who is enduring anything: the edition does not say what |
+
+### 1st Book of the Covenant 54: The Baptism
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | let the people abide in the | ***KEPT AS IS*** let the people stay in the —: the text breaks off (note) |
+| 2 | I submit to Thee | I submit to You |
+| 3 | the quick and the dead | the living and the dead |
+| 4 | over which the giving of thanks has been said, | ***KEPT AS IS*** over which the thanksgiving has been said —: the text breaks off (note) |
+
+### 1st Book of the Covenant 55: The Laying On of Hands and the Seal
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | worthy to be counted worthy | worthy |
+| 2 | the laver of the second birth | the washing of rebirth |
+| 3 | Anointing I anoint [thee] | I anoint you |
+| 4 | And so each one severally | So for each one in turn |
+
+### 1st Book of the Covenant 56: The First Communion
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Let the deacons hover over [them] | Let the deacons watch over them |
+| 2 | The Body of Jesus Christ, the Holy Ghost | ***KEPT AS IS*** The body of Jesus Christ, the Holy Spirit: so the edition |
+| 3 | gathereth up judgment to himself | gathers judgment to himself |
+| 3 | the word about the | ***KEPT AS IS*** the word about the —: the text breaks off (note) |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 45–50 — rendered 2026-11-25, 1:08 AM CST
 
 **Landed:** chapters 45, 46, 47, 48, 49 and 50. Progress 1,598 → **1,604 of 1,989 (80.6%)**. Esther 11–16 is still held on the October choice.
