@@ -2,6 +2,65 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 57–62 — rendered 2026-11-25, 2:55 PM CST
+
+**Landed:** chapters 57, 58, 59, 60, 61 and 62. Progress 1,610 → **1,616 of 1,989 (81.2%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–56. **59:3** breaks off (*the household of him*), and the paragraph filed as 59:4 is their footnotes to 57:3 and 58:1–2; the break is kept and both are noted. Those footnotes give their margin readings, shown in the tables below.
+
+**Form kept:** no sentence starts with *And*, except the response *And with your spirit* (57:3), inside its sentence. *Hallelujah* in italics, as the word the people say. *Pascha*, *the Sabbath* and *the Offering*, as before.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** gifts for the poor given the same day, or with something added; the lamp lit at evening with psalms; Pascha's end and the fifty days of Pentecost, with no fasting or kneeling; the shared supper, and keeping apart from teachers of paganism; first fruits brought to the bishop and his blessing over them; and what the faithful do with their goods at death.
+
+### 1st Book of the Covenant 57: The Bread of the Poor
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | If any one receive any service to carry | If anyone receives a gift to take |
+| 1 | hath been kept back in his possession | has been kept back in his hands |
+| 2 | he who suffered for that which he hath offered, he [it is] who draweth near | ***KEPT AS IS*** The one who suffered for what he has offered, he is the one who draws near: so the edition |
+| 3 | And with Thy spirit | And with your spirit: the deacon is answered, as at 23:22 |
+| 3 | let no one bow, having come creeping in (their footnote: *Meaning? Perhaps private devotions forbidden during public service*) | ***KEPT AS IS*** let no one bow who has come creeping in: the edition itself is unsure of the sense |
+
+### 1st Book of the Covenant 58: Days of Rest and Joy
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Let the end of Pascha (their footnote: *Lit.: dissolution; or: loosing*) | Let the end of Pascha come |
+| 2 | refresh themselves a little (their footnote: *Lit.: assist*) | rest a little |
+
+### 1st Book of the Covenant 59: At the Supper
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | receive [a portion ?] | receive a portion (the edition marks the word as uncertain) |
+| 2 | a teacher of heathenism | a teacher of paganism |
+| 2 | lest he deliver ineffable things to a wolf | otherwise he may hand over things beyond words to a wolf |
+| 3 | so as to annoy the household of him | ***KEPT AS IS*** so as to trouble the household of him —: the text breaks off (note) |
+
+### 1st Book of the Covenant 60: First Fruits
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | bring forward fruits | brings fruits |
+
+### 1st Book of the Covenant 61: The Goods of the Dead
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | that the poor may be given rest… and rest to those who have left [them] behind | ***KEPT AS IS*** so the edition: *rest* for the poor and for the dead |
+| 1 | If a man have children, and he desire to discipline himself in virginity | ***KEPT AS IS*** If a man has children and wishes to discipline himself in virginity: so the edition |
+
+### 1st Book of the Covenant 62: The Blessing of the Fruits
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | with which Thou hast benefited us | with which You have done us good |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 51–56 — rendered 2026-11-25, 2:08 PM CST
 
 **Landed:** chapters 51, 52, 53, 54, 55 and 56. Progress 1,604 → **1,610 of 1,989 (80.9%)**. Esther 11–16 is still held on the October choice.
