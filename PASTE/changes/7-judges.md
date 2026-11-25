@@ -2,6 +2,22 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 11:31, Jephthah's vow: *and* or *or* (Andrew, 2026-11-25, 8:40 AM CST)
+
+**Request:** Andrew, 2026-11-24: what happens to Jephthah's daughter? The text never describes the act (v39). The joining word in the vow, *ve-ha'alitihu olah*, can be read *and* or *or*.
+
+- **11:31, *ve-ha'alitihu olah***
+  - ✅ Decided 2026-11-25: (b). Andrew: the Law forbids such sacrifice, and she mourns her virginity, not her life; if the Hebrew can be read *or*, that reading makes the most sense.
+  - (a) **"will be the LORD's, and I will offer him up as a burnt offering"**: the one who comes out is offered.
+  - (b) **"will be the LORD's, or I will offer him up as a burnt offering"**: a person is given to the LORD, an animal offered.
+
+| Where | Before | After |
+|---|---|---|
+| Judges 11:31 | will be the LORD's, and I will offer him up as a burnt offering | will be the LORD's, or I will offer him up as a burnt offering |
+| Judges 11, note v31 | "whoever comes out… to meet me" — *ha-yotse asher yetse*… The Hebrew allows both readings. | "will be the LORD's, or I will offer him up" — *ve-* is usually *and* but can be *or* (Exodus 21:15); both readings, with Leviticus 27:2, Deuteronomy 12:31, vv37–38, and the Greek, which has no joining word |
+
+**Choices for you:** all decided.
+
 ## Judges 9: who is who in Abimelech's story (Andrew, 2026-11-24, 7:42 AM CST)
 
 **Request:** Andrew, 2026-11-24: Judges 9 is hard to follow: the *brothers* who are not his brothers, towns spoken of as people, no sense of who is with Abimelech or against him. Four causes in the English: *ach*, **brother**, used for uncles, for kinship, for Gaal's clan and for the seventy; *ba'alei Shechem* as *the lords of Shechem*; *who is Shechem* (v28), with Shechem also a man in the same verse; *the people* for both sides (vv42–43).
