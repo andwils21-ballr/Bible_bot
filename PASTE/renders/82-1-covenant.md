@@ -2,6 +2,66 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 40–44 — rendered 2026-11-24, 7:08 PM CST
+
+**Landed:** chapters 40, 41, 42, 43 and 44. Progress 1,593 → **1,598 of 1,989 (80.3%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–39. 42:1–2 is one sentence across two of their paragraphs, kept as they divide it.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for God and the Son, and for the Lord speaking (*in My name, I am among them*, 40:1, as Matthew 18:20). *Soothing aroma* (40:1), the fixed term. *Pascha* and *on the Sabbath*, as in 22–28.
+
+**Echoes in the notes, checked against this project's English:** Revelation 5:8; 1 Corinthians 1:27–28.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the widows who sit in front: who may be chosen and how she is tested, her work among the women and the sick, and the warning to those who live for pleasure; the prayer at her appointment; her rule of solitary prayer, at night and at dawn; her hymn (*You have given me a great name, that I should be called a Christian*); and the appointment of a subdeacon.
+
+### 1st Book of the Covenant 40: The Widow Chosen
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | let her ask for nothing deep | ask for nothing great |
+| 1 | Let her do no secular work, as it were for a trial | ***KEPT AS IS*** Let her do no worldly work, as though for a trial: the edition does not say whose trial |
+| 1 | babblers and curious | babblers and busybodies |
+| 1 | the figures of their souls, which stand before the Father of light | ***KEPT AS IS*** the figures of their souls, which stand before the Father of lights: the book's teaching, given without explanation |
+| 1 | go to meet the holy phials | go to meet the holy bowls (note) |
+| 1 | [as] a sweet savour | as a soothing aroma |
+
+### 1st Book of the Covenant 41: The Widow's Appointment
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | Prayer of the Institution of Widows | The Prayer of the Appointment of Widows |
+| 3 | who seest the [things] that are humble | who see what is lowly |
+| 3 | for edification | for building up |
+| 3 | of equal essence with Thee | of one being with You |
+
+### 1st Book of the Covenant 42: The Widow's Rule
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | let her remain solitary and having leisure for supplications of piety | live alone and be free for devout prayer |
+| 1 | for the sake of the Amen | ***KEPT AS IS*** for the sake of the Amen: so that someone answers her prayer |
+| 1 | the faces of / My sanctuaries | ***KEPT AS IS*** the faces of / My sanctuaries: so the edition |
+| 2 | in the day of recompense | on the day of reward |
+
+### 1st Book of the Covenant 43: The Widow's Hymn
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | with the power of the spirit of my power | with the power of the spirit of my strength |
+| 2 | that I may serve a servitude to God | so that I may serve as a slave to God |
+| 2 | Rejuvenate us | Make us young again |
+
+### 1st Book of the Covenant 44: The Subdeacon
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 2 | Cultivate holily the knowledge of thy soul | Tend the knowledge of your soul in holiness |
+| 2 | a higher degree | a higher rank |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 35–39 — rendered 2026-11-24, 2:08 PM CST
 
 **Landed:** chapters 35, 36, 37, 38 and 39. Progress 1,588 → **1,593 of 1,989 (80.1%)**. Esther 11–16 is still held on the October choice.
