@@ -2,6 +2,64 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 1st Book of the Covenant 63–68 — rendered 2026-11-25, 2:56 PM CST
+
+**Landed:** chapters 63, 64, 65, 66, 67 and 68. Progress 1,616 → **1,622 of 1,989 (81.5%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Cooper and Maclean's English of the **Syriac** (1902), as for 2–62. **66:6** breaks off (*taking on the*), and the paragraphs filed as 66:7–8 are their footnotes; the break is kept and noted. Chapter 67 goes on with the sick of 66:4–5.
+
+**Form kept:** no sentence starts with *And*. *The Sabbath* for their *Saturday*, as before; *Friday* as they have it. 65:2 keeps the edition's open *them* (*Let them keep them from sleeping*): it does not say whether the children or the women are meant.
+
+**Echoes in the notes, checked against this project's English:** Acts 15:29.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** nothing strangled or offered to idols; the long prayers and readings of Pascha's last days; the night vigil before Pascha, *a figure of the kingdom*, with each order told where to stay until dawn; the fast until the Offering, the baptisms that evening, and the Offering taken to the sick; and singing the psalms in turn.
+
+### 1st Book of the Covenant 63: Nothing Strangled
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | Let them give and return thanks | Let them give thanks in turn |
+| 1 | with offence or scandal | so as to cause offense or stumbling |
+
+### 1st Book of the Covenant 64: The Last Days of Pascha
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | let the word be interpreted at length | Let the word be explained at length |
+| 1 | the vigils and anticipations of the night | the vigils and the night watches |
+
+### 1st Book of the Covenant 65: The Night of the Kingdom
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | lest there be disorderly young children | So That There Are No Disorderly Young Children |
+| 2 | Let them not allow them to sleep | ***KEPT AS IS*** Let them keep them from sleeping: the edition does not say who |
+| 6 | Let the priests not abbreviate their ministrations | Let the priests not cut short their ministries |
+| 7, 12 | cleaving to her husband… cleaving to their mothers | keeping close to her husband… keeping close to their mothers |
+
+### 1st Book of the Covenant 66: The Fast Before the Offering
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | the whole body of the Church shall receive a new food | ***KEPT AS IS*** The whole body of the Church will receive a new food: so the edition |
+| 6 | let her fast that one day, taking on the | ***KEPT AS IS*** let her fast one day, taking on the —: the text breaks off (note) |
+
+### 1st Book of the Covenant 67: The Sick Remembered
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | when the high priest remembereth him | ***KEPT AS IS*** when the high priest remembers him: the edition's title for the bishop here |
+
+### 1st Book of the Covenant 68: Singing the Psalms
+
+| Verse | Word-for-word (Cooper and Maclean) | In the text now |
+|---|---|---|
+| 1 | In answer to him who singeth the psalms in the church, let the virgins and boys respond | Let the virgins and the boys respond and sing in answer to the one who sings the psalms |
+
+**Choices for you:** none new.
+
 ## 1st Book of the Covenant 57–62 — rendered 2026-11-25, 2:55 PM CST
 
 **Landed:** chapters 57, 58, 59, 60, 61 and 62. Progress 1,610 → **1,616 of 1,989 (81.2%)**. Esther 11–16 is still held on the October choice.
