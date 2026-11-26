@@ -2,6 +2,72 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 14–19 — rendered 2026-11-26, 2:07 PM CST
+
+**Landed:** chapters 14, 15, 16, 17, 18 and 19. Progress 1,639 → **1,645 of 1,989 (82.7%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. The OCR's misreadings are read from the context and from James where one French word fits: *enveloppé (de anges)* is *de langes*, **in swaddling clothes** (14:2, as James has it); *haomeron* is *hameçon*, **hook** (16:2). Lines of Ge'ez read as Latin letters in 16:1 and 17:1 are left out.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord; the demon Legion lowercase. The Gospel scenes keep this project's Gospel English where the words are the same (*Who touched Me?… power has gone out from Me… your faith has made you well*, Luke 8:45–48; *cast a hook… for Me and for you*, Matthew 17:27). *Paraclete* (16:2), as Guerrier has it.
+
+**Echoes in the notes, checked against this project's English:** John 1:13–14; Luke 8:45–48.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the apostles' confession of faith in the Son, Maker of all, born of the Virgin; the boy Jesus at school (*Say alpha*); His miracles, from Cana to the five loaves, which the apostles read as the five articles of the faith; the purpose of their letter; Simon and Cerinthus again; and the truth of the apostles' witness.
+
+### 2nd Book of the Covenant 14: The Apostles' Confession of Faith
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *(est) le Seigneur, fils du Seigneur* | is the Lord, the Son of the Lord (note: James, *God the Son of God*) |
+| 1 | *le Puissant des puissants* | Mighty One of the mighty |
+| 1 | *qui commande à la géhenne* | who commands Gehenna |
+| 1 | *s'est entretenu en paraboles et en vérité* | spoke… in parables and in truth |
+| 2 | *par la concupiscence de la chair* | by the desire of the flesh (note) |
+| 2 | *enveloppé (de anges)* | wrapped in swaddling clothes: *de langes*, misread |
+
+### 2nd Book of the Covenant 15: The Childhood of Jesus Christ
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *mis (à l'école)… où il apprenait le livre (de lecture)* | sent to school… where He learned His letters |
+| 1 | *Expose-moi, toi-même, auparavant, ce que c'est que bêta* | ***KEPT AS IS*** First explain to Me yourself what *beta* is: the short form, as the Ethiopic has it (note) |
+
+### 2nd Book of the Covenant 16: The Public Life of Jesus Christ
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *la frange de son vêtement* | the fringe of His garment |
+| 1 | *Le démon Légion… reconnut Jésus* | The demon Legion… recognized Jesus (James: *cried out against Jesus*) |
+| 2 | *le denier* | the denarius |
+| 2 | *le haomeron* | the hook: *hameçon*, misread |
+| 2 | *Ils sont le symbole de notre foi au grand christianisme* | They are the symbol of our faith in the great Christianity (note) |
+
+### 2nd Book of the Covenant 17: The Purpose of Our Preaching
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *en vous occupant de la vie éternelle* | as you give your minds to eternal life |
+| 1 | *qu'il (vous) soit clément* | May He be merciful to you |
+
+### 2nd Book of the Covenant 18: The Antichristian Preaching of Simon and Cerinthus
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *ceux-ci sont vraiment les adversaires* | these are truly the adversaries |
+| 1 | *(par eux) surviendront* | through them will come (James: *death is in them*) |
+
+### 2nd Book of the Covenant 19: The Truth of the Apostles' Witness
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *puisque nous l'avons eu (et) nous sommes trouvés (près de lui)* | since we had Him with us and were found near Him |
+| 1 | *a corrigé nos intelligences* | set right our understanding |
+| 1 | *a ail pour ceux qui doivent être (ses) témoins* | ***KEPT AS IS*** acted for those who are to be His witnesses: *ail* read as *agi* |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 8–13 — rendered 2026-11-26, 1:08 AM CST
 
 **Landed:** chapters 8, 9, 10, 11, 12 and 13. Progress 1,633 → **1,639 of 1,989 (82.4%)**. Esther 11–16 is still held on the October choice.
