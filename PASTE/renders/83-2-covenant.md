@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 8–13 — rendered 2026-11-26, 1:08 AM CST
+
+**Landed:** chapters 8, 9, 10, 11, 12 and 13. Progress 1,633 → **1,639 of 1,989 (82.4%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913). From chapter 12, the start of the book's second part (the apostles' letter, known elsewhere as the *Epistle of the Apostles*), James's English (1924) is read beside it; where the two differ, the French governs and the note gives James (12:1, 13:1). **8:1** breaks off at the foot of a page (*ils me*); the break is kept and noted. In 12:1 a sentence spoiled in the French OCR is completed from James, as the spec allows, and noted.
+
+**Form kept:** no sentence starts with *And*. The prophets' words the Lord quotes (9:1–2) are set in italics, as at 4:3. *The priests* for Guerrier's *les pastophores [ou les prêtres]* (9:1).
+
+**Echoes in the notes, checked against this project's English:** Isaiah 22:12–14; Psalm 51:17; Jeremiah 35:6; 1 Timothy 6:7; Mark 9:48; 1 Corinthians 2:9; 1 John 1:1.
+
+**The checker** found 0 errors and one thing to look at: *we keep* in the 12:1 note, which is James's English quoted, not talk about the translating.
+
+**What these chapters are:** the end of the prophecy in Galilee: those who offer the Lord animal sacrifice as if He were an idol; judgment on the bishops and priests, with Isaiah's *Let us eat and drink, for tomorrow we die* and the Rechabites who kept their fathers' word; *you brought nothing into this world*; the wicked thrown to the fire and the worm, the righteous given what eye has not seen. Then the apostles' letter begins: a warning against Simon and Cerinthus, and the eleven who write what they heard and touched after He rose.
+
+### 2nd Book of the Covenant 8: The Wicked
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *ceux qui tiendront ma volonté (comme) exigeant des sacrifices* | those who will take My will to demand sacrifices |
+| 1 | *ils me traiteront comme une idole* | they will treat Me as an idol |
+| 1 | *ils me* [page ends] | ***KEPT AS IS*** Me —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 9: Against the Bishops and the Priests
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *les pastophores [ou les prêtres]* | the priests |
+| 1 | *un esprit doux, un cœur doux et pur* | a gentle spirit, a gentle and pure heart (note) |
+| 2 | *ils ont donné des coups de pied à (mon) bien-aimé* | they have kicked My beloved |
+| 2 | *ont déliré à cause du vin* | have raved because of wine |
+
+### 2nd Book of the Covenant 10: Exhortation to the Apostles
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *il vous faudra sortir nus de ce monde* | you must go out of this world naked |
+| 1 | *acquérez la seule justice* | gain righteousness alone |
+
+### 2nd Book of the Covenant 11: The Righteous Persecuted
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *au ver qui ne dort pas* | to the worm that does not sleep (note) |
+| 1 | *le ciel se roulera* | the heaven will be rolled up |
+| 1 | *sur la voie de la justice* | ***KEPT AS IS*** on the way of righteousness: so the French, after *the words they have spoken* |
+
+### 2nd Book of the Covenant 12: Simon and Cerinthus, False Apostles
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *Livre (du Kidan)* | The Book of the Covenant (note) |
+| 1 | *afin que personne ne fasse société avec eux* | so that no one may keep company with them |
+| 1 | *avec laquelle ils tueront les hommes* | with which they will kill people (note: James, *bring men to destruction*) |
+| 1 | *telle que nous… pour le monde entier* | As we heard it, we have written it for the whole world (from James; note) |
+| 1 | *Nous vous avons confié nos fils et nos filles* | We have entrusted our sons and our daughters to you (James: *We commend you our sons and our daughters*) |
+| 1 | *Que (sa) clémence soit grande sur vous!* | May His mercy be great upon you! |
+
+### 2nd Book of the Covenant 13: The Apostles' Witness
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *nous écrivons ce que nous avons entendu. Nous l'avons touché* | We write what we have heard. We touched Him (note: James, *seen and heard and touched*) |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 2–7 — rendered 2026-11-25, 7:08 PM CST
 
 **Landed:** chapters 2, 3, 4, 5, 6 and 7. Progress 1,627 → **1,633 of 1,989 (82.1%)**. Esther 11–16 is still held on the October choice.
