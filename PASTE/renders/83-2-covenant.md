@@ -2,6 +2,68 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 26–30 — rendered 2026-11-27, 1:09 AM CST
+
+**Landed:** chapters 26, 27, 28, 29 and 30. Progress 1,651 → **1,656 of 1,989 (83.3%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. Words lost in the French are given from James and noted: 26:1, 28:1 and 5, 30:3, 11 and 16. Paragraphs that are only Ge'ez read as Latin letters are left out, so there is no 26:2, 30:8 or 30:19; the notes say so. 29:1 breaks off (*through Me —*), kept and noted.
+
+**Form kept:** no sentence starts with *And*. Psalm 3 (30:12–28) is set in italics, one line to a verse as the text held here divides it, with capital pronouns for the Son who speaks it and for the Lord He speaks to. The Ethiopic is followed where James notes it differs from the Coptic: *with My wounds* (26:4); *a hundred and fiftieth year* (28:2); *I am the right hand of the Father* (30:5).
+
+**Echoes in the notes, checked against this project's English:** Acts 12:4, 7; Matthew 24:30; John 14:10; John 13:34; Matthew 7:12; 1 Peter 1:12; Psalm 3.
+
+**The checker** found 0 errors and two things to look at: the missing verses 26:2 and 30:8, 19, which stand for the reason above.
+
+**What these chapters are:** the Lord bids them keep the Pascha in remembrance of His death, and foretells an apostle freed from prison by His angel; His second coming, brighter than the sun, with the cross going before Him; when it will be, and how He and the Father are one; the new commandment; and the apostles sent out to preach, with the promise of incorruption and Psalm 3 spoken of His death and rising.
+
+### 2nd Book of the Covenant 26: Keep the Pascha
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *faites la commémoraison de ma propre mort, c'est-à-dire la Pâque* | keep the remembrance of My own death, that is, the Pascha |
+| 1 | *ma Force sous l'aspect de mon ange* | My Power in the likeness of My angel (note) |
+| 1 | *et vous ayant* [lost] | and you have finished the remembrance of Me and the love feast (from James; note) |
+| 3 | *n'as-tu pas toi-même bu définitivement la Pâque* | did You not Yourself drink the Pascha to the end? |
+| 4 | *avec mes plaies* | with My wounds (note) |
+
+### 2nd Book of the Covenant 27: The Second Coming
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *devant moi ira ma croix* | My cross goes before Me (note) |
+
+### 2nd Book of the Covenant 28: The Time of the Coming
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *O Seigneur, dans* [lost] | Lord, in how many years will this happen? (from James; note) |
+| 2 | *Lorsque l'an 150 sera écoulé* | When the hundred and fiftieth year has passed (note) |
+| 5 | *Est-ce que vraiment tu nous abandonneras jus-* [lost] | Will You really leave us until Your coming? (from James; note) |
+| 8 | *(je suis) son image, (je suis issu) de sa ressemblance* | I am His image, from His likeness |
+
+### 2nd Book of the Covenant 29: A New Commandment
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *à la fin de peu (de jours)* | at the end of a few days |
+| 1 | *Les miracles, le salut qui s'opère par moi.* | ***KEPT AS IS*** The miracles, the salvation that is worked through Me —: the sentence breaks off (note) |
+| 2 | *que vous soyez soumis les uns aux autres* | that you be subject to one another |
+
+### 2nd Book of the Covenant 30: The Apostles Sent Out
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 3 | *moi des cohéritiers* | co-heirs with Me |
+| 5 | *Je suis la droite du Père* | ***KEPT AS IS*** I am the right hand of the Father: so the Ethiopic (James: *at the right hand*) |
+| 6 | *Nous, les douze* | ***KEPT AS IS*** We, the twelve: so the French, though eleven names are given at 13:1 |
+| 7 | *il y aura pour vous un* [lost] *et repos* | ***KEPT AS IS*** there will be for you a — and a rest: a word is lost |
+| 7 | *plus de soudoiement* | no care: *souci*, misread (James: *nor care*) |
+| 11 | *j'ai été tué* (OCR *Iné*) | was killed |
+| 16 | [lost] *ma gloire, celui qui relève ma tête* | But You, Lord, are My protector, My glory, the one who lifts My head (opening from James; note) |
+| 21 | *car le Seigneur m'a fait lever* | for the Lord raised Me |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 20–25 — rendered 2026-11-26, 7:08 PM CST
 
 **Landed:** chapters 20, 21, 22, 23, 24 and 25. Progress 1,645 → **1,651 of 1,989 (83.0%)**. Esther 11–16 is still held on the October choice.
