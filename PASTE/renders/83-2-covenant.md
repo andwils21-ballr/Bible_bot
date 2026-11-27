@@ -2,6 +2,70 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 31–36 — rendered 2026-11-27, 2:08 PM CST
+
+**Landed:** chapters 31, 32, 33, 34, 35 and 36. Progress 1,656 → **1,662 of 1,989 (83.6%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. Words lost in the French are given from James and noted: 31:1, 32:2, 35:2, 36:2–3. Breaks kept and noted: 31:2 (*to talk —*), 33:2 (*inquiring —*), 35:3 (*completely —*).
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord and the Father. The Ethiopic is followed where it differs from James: *into the truth* (32:5; James *into incorruption*); *Believe that all that I tell you will happen* (32:3), a command where James has a question.
+
+**Echoes in the notes, checked against this project's English:** 1 Corinthians 15:42; Luke 18:27; Matthew 7:14.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the apostles ask leave to question Him again; He promises that they will rise in the flesh, *in a second birth, clothed in a garment that does not decay*, and calls Himself *the hope of those who despair… the resurrection of the dead*; they ask whether the body is judged with the soul, and why they must keep asking; He answers in anger at their little faith, and then gladly: *what has decayed will rise*.
+
+### 2nd Book of the Covenant 31: The Apostles Ask to Question Him Again
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *en toutes choses* [lost] | in all things You have had mercy on us… if You allow us (from James; note) |
+| 2 | *il m'est agréable de m'entretenir* | ***KEPT AS IS*** it is pleasing to Me to talk —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 32: He Promises the Resurrection and the Kingdom
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *vous ressusciterez corporellement* | you too will rise in the body |
+| 1 | *j'ai accompli toute miséricorde* | I have accomplished all mercy (James: *all dispensations*) |
+| 1 | *dans une seconde génération* | in a second birth (note) |
+| 2 | *C'est une grande chose que tu nous fais espé-* [lost] | It is a great thing that You give us to hope for, and tell us (*and tell us* from James) |
+| 5 | *(je les conduise) dans la vérité* | into the truth (James: *into incorruption*) |
+| 6 | *le médecin des malades* | the physician of the sick |
+
+### 2nd Book of the Covenant 33: The Apostles Ask About the Resurrection
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *la moitié (des hommes) reposera* | Will half of mankind rest |
+| 2 | *et vous informez-vous* [lost] | ***KEPT AS IS*** and inquiring —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 34: Why the Apostles Question Their Master
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *il faut bien (que nous l'interrogions)* | we must indeed ask You |
+
+### 2nd Book of the Covenant 35: On the Resurrection
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *nous croyons* [lost] | we believe that what You say will come to pass (from James; note) |
+| 3 | *Sans effort vous voulez comprendre* | You want to understand without effort |
+| 3 | *la voie étroite, droite et resserrée* | the narrow way, straight and constricted (note) |
+| 3 | *En cela, le Père se réjouira entièrement en vous,* | ***KEPT AS IS*** In this the Father will rejoice in you completely —: the sentence runs on into a break |
+
+### 2nd Book of the Covenant 36: The Apostles Are Ashamed
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *nous délirons, pour toi* | ***KEPT AS IS*** we are becoming foolish before You: so the OCR; James, *we are ashamed* (note) |
+| 2 | *votre absence de honte me réjouit* | your lack of shame gladdens Me |
+| 3 | *Qu'est-ce qui devient caduc* | What is it that decays |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 26–30 — rendered 2026-11-27, 1:09 AM CST
 
 **Landed:** chapters 26, 27, 28, 29 and 30. Progress 1,651 → **1,656 of 1,989 (83.3%)**. Esther 11–16 is still held on the October choice.
