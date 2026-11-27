@@ -2,6 +2,73 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 20–25 — rendered 2026-11-26, 7:08 PM CST
+
+**Landed:** chapters 20, 21, 22, 23, 24 and 25. Progress 1,645 → **1,651 of 1,989 (83.0%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. The French OCR loses whole clauses in these chapters. Where it does, the words are given from James and each place is noted: 21:1 (*Mary came and told us*), 22:1 (*Let us go to them… a ghost*; *the earth*), 23:1 (the opening), 24:1 (the archangels' names). In 21 each of Guerrier's printed lines stands as its own paragraph in the text held here, and the verses keep that division. Breaks kept and noted: 21:7, 24:1, 25:5.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord and the Father. The Ethiopic is followed where James notes it differs from the Coptic: *Sara, Martha and Mary Magdalene* (20:1); *Mary* for *Martha* (21:1); *I made the archangels afraid* (24:1); *she laughed* (25:5).
+
+**Echoes in the notes, checked against this project's English:** Matthew 2:22; John 20:27; Luke 24:39; Luke 1:26.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the book's third part, the passion and resurrection: the women find the tomb open and empty; the Lord sends them twice to the apostles, who do not believe; He comes Himself and bids Peter, Thomas and Andrew touch His hands and side and see His footprints; they repent; and He tells them how He came down through the heavens in the likeness of the angels, and came to Mary in the likeness of Gabriel.
+
+### 2nd Book of the Covenant 20: The Women at the Tomb
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *du prince Archélaüs* | of the prince Archelaus (note) |
+| 1 | *le lieu appelé Qarânyô (Kranion)* | the place called Kranion (note) |
+| 1 | *la pierre là où on l'avait roulée, hors du sépulcre* | the stone rolled away, outside the tomb |
+
+### 2nd Book of the Covenant 21: The Risen Jesus Appears to the Women
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | [lost after *ressuscité des*] | from the dead." Mary came and told us (from James; note) |
+| 2 | *Qu'y a-t-il entre nous et toi, ô femme* | What is there between us and you, woman? |
+| 7 | *mais nous l'avons contredite; elle* | ***KEPT AS IS*** but we contradicted her; she —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 22: He Appears to the Apostles
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *Marie et à ses* [lost] *fantôme* | Mary and her sisters, "Let us go to them." He came and found us inside, and called us out; but we thought it was a ghost (from James; note) |
+| 1 | *en considérant et doutant encore* | still weighing and doubting |
+| 1 | *mets la main dans le trou de mes mains* | put your hand into the holes in My hands |
+| 1 | *il est écrit dans le prophète* | ***KEPT AS IS*** it is written in the prophet: the book does not name the prophet |
+| 1 | *ne laissent pas de traces (de pas) sur* [lost] | leave no footprints on the earth (*the earth* from James) |
+
+### 2nd Book of the Covenant 23: The Apostles' Repentance
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *Pour* [lost] *demandé pardon* | We touched Him… and we fell on our faces, asked forgiveness (opening from James; note) |
+| 2 | *Mon Père m'a envoyé, afin que je vous fasse monter* | My Father has sent Me to take you up (James: *hath given me power*) |
+
+### 2nd Book of the Covenant 24: Jesus in Heaven, Among the Angels
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *Lorsque je viens d'auprès du Père* | When I came from the Father |
+| 1 | *les Fonctions, les Puissances, les Dominations* | the Offices, the Powers and the Dominions |
+| 1 | *la mesure de la Sagesse* [lost] *auront suivi* | the measure of the Wisdom of the One who sent Me. The archangels Michael, Gabriel, Uriel and Raphael followed Me (from James; note) |
+| 1 | *j'ai épouvanté les archanges par (ma) parole* | I made the archangels afraid by My word (note) |
+| 1 | *lorsque j'ai eu fini, je suis* | ***KEPT AS IS*** when I had finished, I —: the text breaks off |
+
+### 2nd Book of the Covenant 25: Jesus in the Likeness of Gabriel
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 3 | *pour les anges, j'étais comme un ange* | among the angels I was like an angel |
+| 5 | *je suis moi-même devenu ministre à moi-même* | I Myself became a minister to Myself (note) |
+| 5 | *Ensuite je suis allé vers mon* | ***KEPT AS IS*** After this I went to My —: the text breaks off (note) |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 14–19 — rendered 2026-11-26, 2:07 PM CST
 
 **Landed:** chapters 14, 15, 16, 17, 18 and 19. Progress 1,639 → **1,645 of 1,989 (82.7%)**. Esther 11–16 is still held on the October choice.
