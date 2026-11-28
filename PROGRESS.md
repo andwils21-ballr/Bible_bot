@@ -1,6 +1,6 @@
 # Progress
 
-**1674 of 1989 chapters rendered (84.2%).**
+**1680 of 1989 chapters rendered (84.5%).**
 
 Next up: **Esther 11**
 
@@ -88,7 +88,7 @@ Next up: **Esther 11**
 | 80 | Jude | source | done |
 | 81 | Revelation | source | done |
 | 82 | 1st Book of the Covenant | english-only | done |
-| 83 | 2nd Book of the Covenant | english-only | 48/62 |
+| 83 | 2nd Book of the Covenant | english-only | 54/62 |
 | 84 | Sirate Tsion | none | — |
 | 85 | Te'ezaz | english-only | 1/72 |
 | 86 | Gitzew | english-only | 1/57 |

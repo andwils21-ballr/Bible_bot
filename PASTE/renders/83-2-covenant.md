@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 49–54 — rendered 2026-11-28, 2:08 PM CST
+
+**Landed:** chapters 49, 50, 51, 52, 53 and 54. Progress 1,674 → **1,680 of 1,989 (84.5%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. Words lost in the French are given from James and noted: 50:4, 54:2–3, 5. Breaks kept and noted: 51:2, 52:6, 53:4. Lines of Ge'ez read as Latin letters are left out.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord, the Father and the Bridegroom. *Fathers, ministers and masters* each time in 52–53, as the French repeats them. The virtues in 54 are capitalized as names, as Guerrier prints them. The Ethiopic is followed where it differs from James: *Joy* and *Self-control* among the virgins (54:4, 9).
+
+**Echoes in the notes, checked against this project's English:** Matthew 5:11–12; Deuteronomy 30:19; Matthew 23:9–10; Matthew 25:10; Galatians 5:22.
+
+**The checker** found two sentences starting with *And* (53:2, 54:8), fixed; then 0 errors and nothing to look at.
+
+**What these chapters are:** the crown for those who rebuke the wicked without fear, and blessing for the poor and persecuted; the judgment is just because every man, from Adam on, has the power to choose the light; the righteous grieve and pray for sinners; the apostles are to be fathers, ministers and masters, though the Lord said to call no one father; and the parable of the ten virgins, the wise named as Faith, Love, Joy, Peace and Hope, the foolish as virtues that slept in believers who did not keep His commandment.
+
+### 2nd Book of the Covenant 49: Those Who Will Be Crowned, and Those Condemned
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *qui n'auront pas révéré les hommes* | who have not stood in awe of the men |
+| 2 | *(le Seigneur) le répudiera et le rejettera* | the Lord will repudiate and reject |
+| 2 | *bienheureux dans les* [cieux] | blessed in heaven: *rien* in the OCR, read *cieux* |
+
+### 2nd Book of the Covenant 50: Each Has the Power to Believe
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *Comment le (même) jugement… serait-il juste?* | How would the same judgment… be just? (James notes his own text is probably corrupt here) |
+| 4 | *Tu tu pas vécu* | left out: broken in the OCR (note) |
+| 4 | *et de croire* [broken] | Has not every man the power to live and to die, and to believe? (from James; note) |
+| 5 | *(j'ai passé ma vie) en enseignant, et en reprenant* | I spent My life teaching and rebuking |
+
+### 2nd Book of the Covenant 51: The Righteous Grieve for the Sinners
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *ils intercé-* [lost] | ***KEPT AS IS*** they will intercede —: the text breaks off |
+| 5 | *qui partient de prêcher* | ***KEPT AS IS*** who have sent us to preach: the OCR is broken; James, *that we might preach* |
+
+### 2nd Book of the Covenant 52: The Apostles Will Be Fathers, Ministers and Masters
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 3 | *Est-ce que tous (vous n'êtes pas) Pères* | Are you not all fathers? |
+| 6 | *la lumière du signe qui (est) dans ma main* | the light of the seal that is in My hand |
+| 6 | *et par moi vous devien-* | ***KEPT AS IS*** and through Me you will become —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 53: How the Apostles Will Be Fathers and Masters
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *vous aurez exprimé ma parole sans peine* | you will have spoken My word without grudging |
+| 2 | *Vous n'avez pas rougi (de moi)* | You were not ashamed of Me |
+| 4 | *afin que vous fassiez comme* | ***KEPT AS IS*** so that you may do as —: the text breaks off (note) |
+
+### 2nd Book of the Covenant 54: The Parable of the Wise and Foolish Virgins
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 3 | *filles du* [lost] | daughters of God (James: *Sons of God are they*; note) |
+| 4 | *la Foi, la Charité, la Joie, la Paix, l'Espérance* | Faith, Love, Joy, Peace and Hope (note) |
+| 4 | *elles se sont couchées à table* | they reclined at table |
+| 9 | *l'Intelligence, la Science, l'Obéissance, la Continence, la Miséricorde* | Understanding, Knowledge, Obedience, Self-control and Mercy |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 43–48 — rendered 2026-11-28, 1:08 AM CST
 
 **Landed:** chapters 43, 44, 45, 46, 47 and 48. Progress 1,668 → **1,674 of 1,989 (84.2%)**. Esther 11–16 is still held on the October choice.
