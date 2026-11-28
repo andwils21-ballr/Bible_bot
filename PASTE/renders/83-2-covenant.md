@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 37–42 — rendered 2026-11-27, 7:08 PM CST
+
+**Landed:** chapters 37, 38, 39, 40, 41 and 42. Progress 1,662 → **1,668 of 1,989 (83.9%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. Words lost in the French are given from James and noted: 37:1, 39:1, 40:1–5, 42:1. One gap is left open: 38:1 (*I went down and —*). From chapter 41 the Coptic has six leaves missing, so James follows the Ethiopic too.
+
+**Form kept:** no sentence starts with *And*. Capital pronouns for the Lord and the Father. *A chosen instrument* (42:1), as Acts 9:15 reads here. *The realm of the dead* for Guerrier's *les Enfers* (38:1).
+
+**Echoes in the notes, checked against this project's English:** Leviticus 19:15; 1 Peter 3:19; 4:6; 1 Corinthians 11:19; John 20:29; Acts 9:15; 1 Corinthians 15:8–9.
+
+**The checker** found 0 errors and nothing to look at.
+
+**What these chapters are:** the body rises with the soul to be judged, the rich not favored and the poor not spared; the Lord's descent to the dead, where He gave the righteous the baptism of life; promises to the apostles and to all who believe through them; false teachers who add to or take from His teaching, and *blessed are those who have not seen*; the apostles sent to the twelve tribes and the nations; and the Lord foretells Saul, whom they will meet, *a chosen instrument… the last of the last*, who will become the preacher to the nations.
+
+### 2nd Book of the Covenant 37: After the Resurrection, the Judgment
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *afin que (les hommes) confessent (leurs péchés)* | so that people may confess their sins |
+| 1 | *ne confonds pas le riche, n'épargne pas le pauvre* | ***KEPT AS IS*** do not put the rich to shame, do not spare the poor (note) |
+| 1 | [lost] *je les ferai reposer* | But those I love, who have kept the commandments… I will give rest (from James; note) |
+
+### 2nd Book of the Covenant 38: The Descent of Jesus to the Dead
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *je suis descendu et me suis* [lost] | ***KEPT AS IS*** I went down and —: a word is lost (note) |
+| 1 | *aux Enfers* | in the realm of the dead (note) |
+| 1 | *le baptême de vie* | the baptism of life (James: *the water (?) of life*) |
+
+### 2nd Book of the Covenant 39: Promises to the Apostles and the Believers
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *d'être délivrés de toute puissance de condamnation* | to be delivered from every power of condemnation |
+| 1 | [lost] *donné la joie et le repos* | We said to Him, "Lord, You have given joy and rest (opening from James; note) |
+| 2 | *pour les élus des élus* | for the chosen of the chosen |
+
+### 2nd Book of the Covenant 40: Against the False Teachers
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *dans l'orthodoxie, ont cru en moi* | believed in Me rightly |
+| 2–3, 5 | [lost] | from James (note) |
+| 5 | *ils seront appelés parfaits par le Parfait* | they will be called perfect by the Perfect |
+
+### 2nd Book of the Covenant 41: The Mission of the Apostles
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *en moi, dans le fils du Seigneur* | in Me, the Son of the Lord |
+| 3 | *en me trouvant (toujours) moi-même force, pour qu'ils soient en vous* | ***KEPT AS IS*** being always the power in you Myself: the French is rough here |
+
+### 2nd Book of the Covenant 42: Of Saint Paul
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *Et voici que vous trouverez* | You will meet |
+| 1 | *seront signés (du signe de la croix)* | will be signed with the sign of the cross |
+| 1 | *convertissez-le pour les autres* | ***KEPT AS IS*** turn him for the others: so the French (James: *Deliver it unto the other*) |
+| 1 | *un vase d'élection* | a chosen instrument (note) |
+| 1 | *et beaucoup* [lost] *le livrera* | and many who hear him will be saved. Then people will be angry with him, and will hand him over (from James; note) |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 31–36 — rendered 2026-11-27, 2:08 PM CST
 
 **Landed:** chapters 31, 32, 33, 34, 35 and 36. Progress 1,656 → **1,662 of 1,989 (83.6%)**. Esther 11–16 is still held on the October choice.
