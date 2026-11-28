@@ -2,6 +2,71 @@
 
 Reports on newly rendered chapters, newest at the top. Format: CLAUDE.md, section 5.
 
+## 2nd Book of the Covenant 43–48 — rendered 2026-11-28, 1:08 AM CST
+
+**Landed:** chapters 43, 44, 45, 46, 47 and 48. Progress 1,668 → **1,674 of 1,989 (84.2%)**. Esther 11–16 is still held on the October choice.
+
+**Source:** Guerrier's French of the **Ethiopic** (1913), with James's English (1924) beside it; the French governs. Words lost in the French are given from James and noted: 43:1–2, 47:2, 4, 5. Paragraphs that are only Ge'ez read as Latin letters are left out (43:4–5, 46:4), and the notes say so. 46:3 breaks off and v5 takes the sentence up again; both kept as they stand.
+
+**Form kept:** no sentence starts with *And*. The prophets' words the Lord quotes are in italics (44:1, 46:6), as at 4:3 and 9:1. 44:1 reads *la foi*, **the faith**, where the OCR has *la loi*, the law: James has *strong in the faith*, and *f* and *l* are the OCR's common confusion.
+
+**Echoes in the notes, checked against this project's English:** Isaiah 54:1; Romans 3:13, 15; Psalm 50:18–21 (as at 4:3).
+
+**The checker** found 0 errors and one thing to look at: no verse 4 in chapter 46, which stands for the reason above.
+
+**What these chapters are:** whether all have one hope (*Are the fingers of the hand all equal?*); Saul, who will come from Cilicia to Damascus to tear down the Church and be turned by the Lord's voice from heaven; the signs of the end told again; the Father's anger at the deceivers, with David's words; why the righteous suffer, a test of their faith; and wars, false teaching and flattery in the last days.
+
+### 2nd Book of the Covenant 43: The Righteous and the Sinner
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | [lost] *seule promesse d'héritage?* | Lord, is there one and the same promise of the inheritance for us and for them? (from James; note) |
+| 2 | [lost] *paraboles?* | Lord, will You speak to us in parables again? (from James; note) |
+| 3 | *je leur donnerai l'espérance* | I will give the hope |
+
+### 2nd Book of the Covenant 44: Jesus Foretells How Saul Will Be Changed
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *afin de mettre en pièces l'Église que vous venez d'y fonder* | to tear apart the Church you have just founded there |
+| 1 | *il parviendra rapidement à la loi* | he will come quickly to the faith: *loi* read as *foi* (James: *strong in the faith*) |
+| 1 | *je le changerai* | I will change him |
+
+### 2nd Book of the Covenant 45: The Signs of the End of the World
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 1 | *tu nous as tout à fait donné le repos* | You have given us full rest |
+| 2 | *non pas pourtant dans votre (génération)* | though not in your own generation (James: *not that which shall befall you only*) |
+| 3 | *la séparation des enfants et des parents dans le même lit* | the separation of children and parents in the same bed (note) |
+| 3 | *un cataclysme général* | a disaster over all |
+
+### 2nd Book of the Covenant 46: God's Anger Against Sinners
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 3 | *à votre sujet* [Ge'ez] | ***KEPT AS IS*** about you —: the sentence breaks, and takes up again at v5 (note) |
+| 6 | *ta langue ourdit la ruse* | their tongue weaves deceit |
+| 6 | *tu places ton sort avec le débauché* | cast your lot with the debauched |
+
+### 2nd Book of the Covenant 47: The Sufferings of the Righteous Are a Test
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *en cela qu'ayant été* [lost] | in this, that, struck by such afflictions, they come through (from James; note) |
+| 3 | *la ruine de ceux qui les ont persécutés* | the ruin of those who persecuted them (note: James differs) |
+| 7 | *dans la partie de ceux qui auront échappé* | among those who have escaped |
+
+### 2nd Book of the Covenant 48: The Signs of the End
+
+| Verse | Word-for-word (Guerrier's French) | In the text now |
+|---|---|---|
+| 2 | *la perturbation dans les nuages* | disturbance in the clouds (James: *quakings of clouds (or, clouds of locusts)*) |
+| 2 | *à leurs soudoiements* | their bribes |
+| 2 | *la flatterie sera au milieu d'eux* | flattery will be among them |
+
+**Choices for you:** none new.
+
 ## 2nd Book of the Covenant 37–42 — rendered 2026-11-27, 7:08 PM CST
 
 **Landed:** chapters 37, 38, 39, 40, 41 and 42. Progress 1,662 → **1,668 of 1,989 (83.9%)**. Esther 11–16 is still held on the October choice.
