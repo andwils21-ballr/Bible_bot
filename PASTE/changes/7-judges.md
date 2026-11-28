@@ -2,6 +2,30 @@
 
 Changes to chapters already rendered, filed under the book the request started in (a word decision can reach into other books; its table lists every verse). Newest at the top. Each entry: the request, the options, and a `Where | Before | After` table.
 
+## Judges 9: *one of us* for *kinsman*; *in good faith* for *in truth* (Andrew, 2026-11-28, 8:53 AM CST)
+
+**Request:** Andrew, 2026-11-23: *your brother* in 9:18 reads as if the Shechemites were Abimelech's siblings, and *in truth* in Jotham's challenge is hard going. After the kinsman ruling of 2026-11-24, Andrew: "Kin still strongly insinuates blood family."
+
+- **9:3, 18, *ach* for the kinship Shechem claims**
+  - ✅ Decided 2026-11-28: (b). Replaces *kinsman* in these two verses; Gaal's *kinsmen* (vv26, 31, 41) stay.
+  - (a) **"He is our own kin" / "because he is your kin"**
+  - (b) **"He is one of us" / "because he is one of your own"**
+- **9:15, 16, 19, *be-emet* (*u-ve-tamim*)**
+  - ✅ Decided 2026-11-28: (a). The bramble's word in v15 and Jotham's in vv16, 19 stay the same.
+  - (a) **in good faith (and with integrity)**
+  - (b) **honestly (and honorably)**
+
+| Where | Before | After |
+|---|---|---|
+| Judges 9:3 | "He is our kinsman." | "He is one of us." |
+| Judges 9:18 | because he is your kinsman | because he is one of your own |
+| Judges 9, note v3 | "He is our kinsman" | "He is one of us" |
+| Judges 9:15 | 'If in truth you are anointing me king over you, come | 'If you are anointing me king over you in good faith, come |
+| Judges 9:16 | if you have acted in truth and wholeness in making Abimelech king | if you have acted in good faith and with integrity in making Abimelech king |
+| Judges 9:19 | if, then, you have acted in truth and wholeness with Jerubbaal | if, then, you have acted in good faith and with integrity with Jerubbaal |
+
+**Choices for you:** all decided.
+
 ## Judges 11:31, Jephthah's vow: *and* or *or* (Andrew, 2026-11-25, 8:40 AM CST)
 
 **Request:** Andrew, 2026-11-24: what happens to Jephthah's daughter? The text never describes the act (v39). The joining word in the vow, *ve-ha'alitihu olah*, can be read *and* or *or*.
